@@ -2,8 +2,8 @@
   "channel": "RTV",
   "date": "2026-08-10",
   "source": "kayo",
-  "fetchedAt": 1786141153565,
-  "fetchedAtIST": "8/8/2026, 3:49:13 am",
+  "fetchedAt": 1786142616191,
+  "fetchedAtIST": "8/8/2026, 4:13:36 am",
   "events": [
     {
       "programTitle": "Champions",
@@ -14,7 +14,7 @@
       "parentalRating": "",
       "programType": "Sports non-event",
       "genre": "Horse racing",
-      "imageUrl": ""
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/148460_2026-08-09_SH029317200000_84343426409_2020-06-05T08:30:20Z_p15322103_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "Classic Racedays",
@@ -25,7 +25,7 @@
       "parentalRating": "",
       "programType": "Series",
       "genre": "Horse racing",
-      "imageUrl": ""
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/148460_2026-08-09_SH035202010000_86926760177_2020-05-27T05:35:07Z_p18338607_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "The Wrap: Group 1 Glory",
@@ -36,7 +36,7 @@
       "parentalRating": "",
       "programType": "Sports non-event",
       "genre": "Other",
-      "imageUrl": ""
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/148460_2026-08-09_SH032885360000_110926995240_2019-10-09T23:20:17Z_p17229238_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "Racing Review",
@@ -47,7 +47,7 @@
       "parentalRating": "",
       "programType": "Sports non-event",
       "genre": "Horse racing",
-      "imageUrl": ""
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/148460_2026-08-09_SH065368570000_110412511319_2022-09-19T11:46:59Z_p872189_i_h8_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "Blake Shinn: The Ride Back",
@@ -58,7 +58,7 @@
       "parentalRating": "",
       "programType": "Sports non-event",
       "genre": "Horse racing",
-      "imageUrl": ""
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/Fallback_LTV_Racing_TV/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "Giddy Up",
@@ -69,7 +69,7 @@
       "parentalRating": "",
       "programType": "Series",
       "genre": "Horse racing",
-      "imageUrl": ""
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/148460_2026-08-09_SH059999130000_102449579162_2025-10-15T06:41:06Z_p30993149_b_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     }
   ]
 }
