@@ -142,6 +142,17 @@ function parseUtcMs(s) {
   return isNaN(d.getTime()) ? null : d.getTime();
 }
 
+// Both feeds hand back {Id, ImageMimeType, ImageType} rather than a URL.
+function buildImageUrl(imageField) {
+  const BASE = 'https://image.discovery.indazn.com/jp/v3/jp/none';
+  if (imageField && typeof imageField === 'object') {
+    const id = imageField.Id || '';
+    if (id) return `${BASE}/${id}/fill/none/top/none/80/1920/1080/webp/image?brand=kayo`;
+  }
+  if (typeof imageField === 'string' && imageField.startsWith('http')) return imageField;
+  return '';
+}
+
 function fetchJson(url, customHeaders, agent) {
   return new Promise((resolve, reject) => {
     const opts = { headers: customHeaders || getKayoHeaders(), timeout: 30000 };
@@ -259,9 +270,11 @@ function mergeIntoDayFile(tag, date, incoming, todayIST) {
 const RAIL_URL = 'https://rail-router.discovery.indazn.com/eu/v10/Rail'
                + '?platform=web&id=Livetvschedule&country=au&brand=kayo&languageCode=en';
 
-// Linear entries carry image IDs but the CDN has no asset behind them - every
-// request comes back as the Kayo logo placeholder. Left empty; the frontend
-// already renders events without an image.
+// Linear entries carry Gracenote-style image IDs. The CDN currently has no real
+// artwork behind them and serves the Kayo logo instead, which is still better
+// than an empty box - and if Kayo ever populates them, artwork appears with no
+// code change. BackgroundImage is landscape and fits the card; Image is portrait.
+// If a URL 404s the frontend's onerror handler falls back to the empty state.
 function mapLinearEvent(entry) {
   const startMs = parseUtcMs(entry.Start);
   const endMs   = parseUtcMs(entry.End);
@@ -284,7 +297,7 @@ function mapLinearEvent(entry) {
     parentalRating: entry.TvRating || '',
     programType:    entry.ProgramType || '',
     genre,
-    imageUrl:       '',
+    imageUrl:       buildImageUrl(entry.BackgroundImage || entry.Image || {}),
   };
 }
 
@@ -347,16 +360,6 @@ async function fetchLinearSection(todayIST) {
 //  Unlike the linear half this feed accepts a date range and returns whole days,
 //  so files are written outright rather than merged.
 // ═════════════════════════════════════════════════════════════════════════════
-
-function buildImageUrl4K(imageField) {
-  const BASE = 'https://image.discovery.indazn.com/jp/v3/jp/none';
-  if (imageField && typeof imageField === 'object') {
-    const id = imageField.Id || '';
-    if (id) return `${BASE}/${id}/fill/none/top/none/80/1920/1080/webp/image?brand=kayo`;
-  }
-  if (typeof imageField === 'string' && imageField.startsWith('http')) return imageField;
-  return '';
-}
 
 async function fetchDaznRaw(startDate, endDate) {
   const params = new URLSearchParams({
@@ -423,7 +426,7 @@ function process4KEvents(rawEvents) {
       programTitle:     ev.Title || '',
       scheduledDate:    startMs,
       duration:         durById.get(eid) || DURATION_FALLBACK[sportTitle] || DEFAULT_DURATION,
-      imageUrl:         buildImageUrl4K(ev.ImageUrl || ev.ImageURL || ev.Image || ev.Thumbnail || {}),
+      imageUrl:         buildImageUrl(ev.ImageUrl || ev.ImageURL || ev.Image || ev.Thumbnail || {}),
       competitionTitle: compTitle,
       sport:            sportTitle,
     });
