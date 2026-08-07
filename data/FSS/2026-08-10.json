@@ -1,0 +1,20 @@
+{
+  "channel": "FSS",
+  "date": "2026-08-10",
+  "source": "kayo",
+  "fetchedAt": 1786141153544,
+  "fetchedAtIST": "8/8/2026, 3:49:13 am",
+  "events": [
+    {
+      "programTitle": "World Surf League",
+      "episodeTitle": "Championship Tour: Outerknown Tahiti Pro, Day 2",
+      "description": "Coverage of surfing action from the WSL.",
+      "scheduledDate": 1786312800000,
+      "duration": 240,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Surfing",
+      "imageUrl": ""
+    }
+  ]
+}

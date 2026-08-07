@@ -1,0 +1,53 @@
+{
+  "channel": "SPS",
+  "date": "2026-08-10",
+  "source": "kayo",
+  "fetchedAt": 1786141153541,
+  "fetchedAtIST": "8/8/2026, 3:49:13 am",
+  "events": [
+    {
+      "programTitle": "NASCAR Cup Series",
+      "episodeTitle": "Iowa Corn 350",
+      "description": "From Iowa Speedway in Newton, Iowa.",
+      "scheduledDate": 1786302000000,
+      "duration": 240,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Auto racing",
+      "imageUrl": ""
+    },
+    {
+      "programTitle": "MotoGP Racing",
+      "episodeTitle": "Grand Prix of Great Britain, Sprint Race",
+      "description": "Action from MotoGP racing.",
+      "scheduledDate": 1786316400000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Family, Classic sport event, Motorcycle racing",
+      "imageUrl": ""
+    },
+    {
+      "programTitle": "MotoGP Mini",
+      "episodeTitle": "Great Britain",
+      "description": "Experience all the action and highlights from the MotoGP championship races.",
+      "scheduledDate": 1786318200000,
+      "duration": 20,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Classic sport event, Motorsports, Motorcycle racing",
+      "imageUrl": ""
+    },
+    {
+      "programTitle": "Supercars Mini",
+      "episodeTitle": "Perth Race 23",
+      "description": "Championship leader Matt Payne enters the weekend; Brodie Kostecki targets a seventh seasonal win at his home track.",
+      "scheduledDate": 1786319400000,
+      "duration": 20,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Classic sport event, Auto racing",
+      "imageUrl": ""
+    }
+  ]
+}

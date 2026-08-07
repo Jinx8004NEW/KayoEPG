@@ -1,0 +1,75 @@
+{
+  "channel": "RTV",
+  "date": "2026-08-10",
+  "source": "kayo",
+  "fetchedAt": 1786141153565,
+  "fetchedAtIST": "8/8/2026, 3:49:13 am",
+  "events": [
+    {
+      "programTitle": "Champions",
+      "episodeTitle": "",
+      "description": "The team take a look back at some horse racing champions, winners of multiple Melbourne Cups and millions of dollars in prize money.",
+      "scheduledDate": 1786302000000,
+      "duration": 15,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Horse racing",
+      "imageUrl": ""
+    },
+    {
+      "programTitle": "Classic Racedays",
+      "episodeTitle": "",
+      "description": "All the greatest moments from the full day of racing, including all the races, with insights from jockeys and trainers.",
+      "scheduledDate": 1786302900000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Series",
+      "genre": "Horse racing",
+      "imageUrl": ""
+    },
+    {
+      "programTitle": "The Wrap: Group 1 Glory",
+      "episodeTitle": "",
+      "description": "Greg Miles and Terry Bailey take a look back at some of the greatest Australian racehorses that have graced the turf, broken records and won hearts.",
+      "scheduledDate": 1786306500000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Other",
+      "imageUrl": ""
+    },
+    {
+      "programTitle": "Racing Review",
+      "episodeTitle": "",
+      "description": "A full recap of racing from Wangaratta.",
+      "scheduledDate": 1786308300000,
+      "duration": 45,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Horse racing",
+      "imageUrl": ""
+    },
+    {
+      "programTitle": "Blake Shinn: The Ride Back",
+      "episodeTitle": "",
+      "description": "",
+      "scheduledDate": 1786311000000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Horse racing",
+      "imageUrl": ""
+    },
+    {
+      "programTitle": "Giddy Up",
+      "episodeTitle": "",
+      "description": "Racing expert Gareth Hall breaks down race news and form, providing key insights.",
+      "scheduledDate": 1786312800000,
+      "duration": 170,
+      "parentalRating": "",
+      "programType": "Series",
+      "genre": "Horse racing",
+      "imageUrl": ""
+    }
+  ]
+}

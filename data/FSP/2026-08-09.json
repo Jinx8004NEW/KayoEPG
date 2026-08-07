@@ -1,0 +1,174 @@
+{
+  "channel": "FSP",
+  "date": "2026-08-09",
+  "source": "kayo",
+  "fetchedAt": 1786141153535,
+  "fetchedAtIST": "8/8/2026, 3:49:13 am",
+  "events": [
+    {
+      "programTitle": "MotoGP Racing",
+      "episodeTitle": "Grand Prix of Great Britain, Sprint Race",
+      "description": "Action from MotoGP racing.",
+      "scheduledDate": 1786224600000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Family, Classic sport event, Motorcycle racing",
+      "imageUrl": ""
+    },
+    {
+      "programTitle": "MotoGP Racing",
+      "episodeTitle": "Qatar Airways Grand Prix of Great Britain, Qualifying",
+      "description": "From Silverstone Circuit in Northamptonshire, England, United Kingdom.",
+      "scheduledDate": 1786226400000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Motorcycle racing",
+      "imageUrl": ""
+    },
+    {
+      "programTitle": "MotoGP Racing",
+      "episodeTitle": "Grand Prix of Great Britain, Sprint Race",
+      "description": "Action from MotoGP racing.",
+      "scheduledDate": 1786230000000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Family, Classic sport event, Motorcycle racing",
+      "imageUrl": ""
+    },
+    {
+      "programTitle": "Pool",
+      "episodeTitle": "Florida Open Pool Championship: Day 1, Night Session",
+      "description": "Action from the world of pool.",
+      "scheduledDate": 1786231800000,
+      "duration": 240,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Billiards",
+      "imageUrl": ""
+    },
+    {
+      "programTitle": "MotoGP Racing",
+      "episodeTitle": "Qatar Airways Grand Prix of Great Britain, Qualifying",
+      "description": "From Silverstone Circuit in Northamptonshire, England, United Kingdom.",
+      "scheduledDate": 1786246200000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Motorcycle racing",
+      "imageUrl": ""
+    },
+    {
+      "programTitle": "Ladies Euro Tour Golf",
+      "episodeTitle": "PIF London Championship, Third Round",
+      "description": "From Centurion Club in Saint Albans, Hertfordshire, United Kingdom.",
+      "scheduledDate": 1786249800000,
+      "duration": 95,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Golf",
+      "imageUrl": ""
+    },
+    {
+      "programTitle": "SailGP: Racing on the Edge",
+      "episodeTitle": "",
+      "description": "Go under the hood of the supercharged F50 catamaran developed specifically for SailGP, find out how the concept for the league was born, watch the first rivalries emerge and more.",
+      "scheduledDate": 1786255500000,
+      "duration": 35,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Sailing",
+      "imageUrl": ""
+    },
+    {
+      "programTitle": "PGA Tour Golf",
+      "episodeTitle": "Wyndham Championship, Third Round",
+      "description": "From Sedgefield Country Club in Greensboro, N.C.",
+      "scheduledDate": 1786257600000,
+      "duration": 90,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Golf",
+      "imageUrl": ""
+    },
+    {
+      "programTitle": "NRLW Pre Game",
+      "episodeTitle": "Round 6",
+      "description": "Fox League's studio panel presents an extensive coverage of the action. They'll have talking points, confirmation of team line-ups, as well as interviews with players and coaches.",
+      "scheduledDate": 1786263000000,
+      "duration": 5,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Rugby league, Rugby",
+      "imageUrl": ""
+    },
+    {
+      "programTitle": "NRL Women's Premiership",
+      "episodeTitle": "Sydney Roosters vs Parramatta Eels",
+      "description": "Live from Polytec Stadium. Kick off at 6:15PM AEST.",
+      "scheduledDate": 1786263300000,
+      "duration": 100,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Rugby league, Rugby",
+      "imageUrl": ""
+    },
+    {
+      "programTitle": "F1 Mini",
+      "episodeTitle": "Hungary Grand Prix",
+      "description": "A commanding qualifying puts McLaren at the sharp end as pole-sitter Lando Norris aims to convert his single-lap speed into victory over a chasing Ferrari pack.",
+      "scheduledDate": 1786269300000,
+      "duration": 35,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Motorsports, Classic sport event",
+      "imageUrl": ""
+    },
+    {
+      "programTitle": "PGA Tour Golf",
+      "episodeTitle": "Wyndham Championship, Third Round",
+      "description": "From Sedgefield Country Club in Greensboro, N.C.",
+      "scheduledDate": 1786271400000,
+      "duration": 90,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Golf",
+      "imageUrl": ""
+    },
+    {
+      "programTitle": "Ladies Euro Tour Golf",
+      "episodeTitle": "PIF London Championship, Final Round",
+      "description": "From Centurion Club in Saint Albans, Hertfordshire, United Kingdom.",
+      "scheduledDate": 1786276800000,
+      "duration": 240,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Golf",
+      "imageUrl": ""
+    },
+    {
+      "programTitle": "Supercars Championship",
+      "episodeTitle": "",
+      "description": "Supercars compete in a series across Australia and New Zealand.",
+      "scheduledDate": 1786291200000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Auto racing",
+      "imageUrl": ""
+    },
+    {
+      "programTitle": "Pool",
+      "episodeTitle": "Florida Open Pool Championship: Final Day, Day Session",
+      "description": "Action from the world of pool.",
+      "scheduledDate": 1786294800000,
+      "duration": 270,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Billiards",
+      "imageUrl": ""
+    }
+  ]
+}

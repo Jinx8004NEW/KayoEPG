@@ -1,0 +1,196 @@
+{
+  "channel": "ESP",
+  "date": "2026-08-09",
+  "source": "kayo",
+  "fetchedAt": 1786141153548,
+  "fetchedAtIST": "8/8/2026, 3:49:13 am",
+  "events": [
+    {
+      "programTitle": "WNBA Countdown",
+      "episodeTitle": "",
+      "description": "Presents WNBA news, analysis, highlights and interviews.",
+      "scheduledDate": 1786215600000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Basketball",
+      "imageUrl": ""
+    },
+    {
+      "programTitle": "WNBA Basketball",
+      "episodeTitle": "Chicago Sky vs Indiana Fever",
+      "description": "From the United Center in Chicago.",
+      "scheduledDate": 1786217400000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Basketball",
+      "imageUrl": ""
+    },
+    {
+      "programTitle": "Nothing But Net",
+      "episodeTitle": "Weekend Edition",
+      "description": "Kane Pitman and Ryan Broekhoff preview the upcoming NBA and NBL action through their Aussie lens, with guest interviews, highlights and breaking news.",
+      "scheduledDate": 1786224600000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Basketball",
+      "imageUrl": ""
+    },
+    {
+      "programTitle": "2026 Little League Softball World Series",
+      "episodeTitle": "North Carolina vs. TBA",
+      "description": "From Stallings Stadium in Greenville, N.C.",
+      "scheduledDate": 1786226400000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Playoff sports, Softball",
+      "imageUrl": ""
+    },
+    {
+      "programTitle": "Banana Ball World Tour",
+      "episodeTitle": "Loco Beach Coconuts vs Savannah Bananas",
+      "description": "From Target Field in Minneapolis.",
+      "scheduledDate": 1786233600000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Baseball",
+      "imageUrl": ""
+    },
+    {
+      "programTitle": "2026 Pro Football Hall of Fame Enshrinement Ceremony",
+      "episodeTitle": "",
+      "description": "",
+      "scheduledDate": 1786240800000,
+      "duration": 150,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Special, Football, Awards",
+      "imageUrl": ""
+    },
+    {
+      "programTitle": "In Depth With Graham Bensinger",
+      "episodeTitle": "Gridiron Greats",
+      "description": "NFL greats reflect on the biggest moments of their career; Joe Namath, Jerry Rice, LaDainian Tomlinson and others share the lessons they learned along the way to the top.",
+      "scheduledDate": 1786249800000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Series",
+      "genre": "Sports talk, Interview",
+      "imageUrl": ""
+    },
+    {
+      "programTitle": "Premier Lacrosse League",
+      "episodeTitle": "Denver Outlaws vs New York Atlas",
+      "description": "From Harvard Stadium in Boston.",
+      "scheduledDate": 1786251600000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Lacrosse",
+      "imageUrl": ""
+    },
+    {
+      "programTitle": "2026 Little League Softball World Series",
+      "episodeTitle": "North Carolina vs. TBA",
+      "description": "From Stallings Stadium in Greenville, N.C.",
+      "scheduledDate": 1786258800000,
+      "duration": 90,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Playoff sports, Softball",
+      "imageUrl": ""
+    },
+    {
+      "programTitle": "ESPN FC",
+      "episodeTitle": "",
+      "description": "ESPN FC brings you a round-up of the latest news from the world of football, including in-depth analysis and exclusive interviews.",
+      "scheduledDate": 1786264200000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Series",
+      "genre": "Soccer, Sports talk",
+      "imageUrl": ""
+    },
+    {
+      "programTitle": "Banana Ball World Tour",
+      "episodeTitle": "Loco Beach Coconuts vs Savannah Bananas",
+      "description": "From Target Field in Minneapolis.",
+      "scheduledDate": 1786266000000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Baseball",
+      "imageUrl": ""
+    },
+    {
+      "programTitle": "MLB Baseball",
+      "episodeTitle": "Seattle Mariners vs Tampa Bay Rays",
+      "description": "From T-Mobile Park in Seattle.",
+      "scheduledDate": 1786273200000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Baseball",
+      "imageUrl": ""
+    },
+    {
+      "programTitle": "Quick Pitch",
+      "episodeTitle": "",
+      "description": "All the latest baseball news, scores and highlights. Plus, a first look at upcoming matchups.",
+      "scheduledDate": 1786280400000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Baseball",
+      "imageUrl": ""
+    },
+    {
+      "programTitle": "Quick Pitch",
+      "episodeTitle": "",
+      "description": "All the latest baseball news, scores and highlights. Plus, a first look at upcoming matchups.",
+      "scheduledDate": 1786284000000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Baseball",
+      "imageUrl": ""
+    },
+    {
+      "programTitle": "Great American Events",
+      "episodeTitle": "2025 Extreme Archery Championship",
+      "description": "Showcases a mix of major national sporting events and distinct local competitions across America.",
+      "scheduledDate": 1786287600000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Multi-sport event",
+      "imageUrl": ""
+    },
+    {
+      "programTitle": "WNBA Countdown",
+      "episodeTitle": "",
+      "description": "Presents WNBA news, analysis, highlights and interviews.",
+      "scheduledDate": 1786291200000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Basketball",
+      "imageUrl": ""
+    },
+    {
+      "programTitle": "WNBA Basketball",
+      "episodeTitle": "New York Liberty vs Las Vegas Aces",
+      "description": "From Barclays Center in Brooklyn, N.Y.",
+      "scheduledDate": 1786293000000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Basketball",
+      "imageUrl": ""
+    }
+  ]
+}

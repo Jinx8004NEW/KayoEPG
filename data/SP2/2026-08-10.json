@@ -1,0 +1,108 @@
+{
+  "channel": "SP2",
+  "date": "2026-08-10",
+  "source": "kayo",
+  "fetchedAt": 1786141153523,
+  "fetchedAtIST": "8/8/2026, 3:49:13 am",
+  "events": [
+    {
+      "programTitle": "NRL",
+      "episodeTitle": "New Zealand Warriors vs Penrith Panthers",
+      "description": "From Go Media Stadium in Penrose, Auckland, New Zealand.",
+      "scheduledDate": 1786302000000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Rugby league, Rugby",
+      "imageUrl": ""
+    },
+    {
+      "programTitle": "NRL",
+      "episodeTitle": "Sydney Roosters vs Canterbury-Bankstown Bulldogs",
+      "description": "Live from Allianz Stadium. Kick off at 8:00PM AEST.",
+      "scheduledDate": 1786305600000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Rugby league, Rugby",
+      "imageUrl": ""
+    },
+    {
+      "programTitle": "Sunday Night with Matty Johns",
+      "episodeTitle": "",
+      "description": "Matty Johns chats with a panel of professionals to have an entertaining discussion about the latest in rugby league.",
+      "scheduledDate": 1786309200000,
+      "duration": 60,
+      "parentalRating": "PG",
+      "programType": "Sports non-event",
+      "genre": "Sports talk, Rugby league",
+      "imageUrl": ""
+    },
+    {
+      "programTitle": "NRL Mini",
+      "episodeTitle": "Gold Coast Titans v North Queensland Cowboys",
+      "description": "A comprehensive summary of the match played is provided in an expedited timeframe.",
+      "scheduledDate": 1786312800000,
+      "duration": 20,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Rugby league, Rugby",
+      "imageUrl": ""
+    },
+    {
+      "programTitle": "NRL Mini",
+      "episodeTitle": "New Zealand Warriors v Penrith Panthers",
+      "description": "A comprehensive summary of the match played is provided in an expedited timeframe.",
+      "scheduledDate": 1786314000000,
+      "duration": 20,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Rugby league, Rugby",
+      "imageUrl": ""
+    },
+    {
+      "programTitle": "NRL Mini",
+      "episodeTitle": "Sydney Roosters v Canterbury Bulldogs",
+      "description": "A comprehensive summary of the match played is provided in an expedited timeframe.",
+      "scheduledDate": 1786315200000,
+      "duration": 20,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Rugby league, Rugby",
+      "imageUrl": ""
+    },
+    {
+      "programTitle": "NRL Mini",
+      "episodeTitle": "Melbourne Storm v Manly Sea Eagles",
+      "description": "A comprehensive summary of the match played is provided in an expedited timeframe.",
+      "scheduledDate": 1786316400000,
+      "duration": 20,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Rugby league, Rugby",
+      "imageUrl": ""
+    },
+    {
+      "programTitle": "NRL Mini",
+      "episodeTitle": "Dolphins v Brisbane Broncos",
+      "description": "A comprehensive summary of the match played is provided in an expedited timeframe.",
+      "scheduledDate": 1786317600000,
+      "duration": 20,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Rugby league, Rugby",
+      "imageUrl": ""
+    },
+    {
+      "programTitle": "NRL Mini",
+      "episodeTitle": "South Sydney Rabbitohs v Parramatta Eels",
+      "description": "A comprehensive summary of the match played is provided in an expedited timeframe.",
+      "scheduledDate": 1786318800000,
+      "duration": 20,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Rugby league, Rugby",
+      "imageUrl": ""
+    }
+  ]
+}

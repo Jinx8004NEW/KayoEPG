@@ -1,0 +1,75 @@
+{
+  "channel": "FAF",
+  "date": "2026-08-10",
+  "source": "kayo",
+  "fetchedAt": 1786141153532,
+  "fetchedAtIST": "8/8/2026, 3:49:13 am",
+  "events": [
+    {
+      "programTitle": "AFLW Mini",
+      "episodeTitle": "",
+      "description": "Condensed highlights of some of the greatest encounters from the AFL Women's competition.",
+      "scheduledDate": 1786305300000,
+      "duration": 15,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Australian rules football",
+      "imageUrl": ""
+    },
+    {
+      "programTitle": "AFL Mini",
+      "episodeTitle": "Round 22: Adelaide Crows v Richmond Tigers",
+      "description": "Condensed highlights, reaction and analysis of the biggest sport stories from Australia and around the world.",
+      "scheduledDate": 1786306200000,
+      "duration": 20,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Australian rules football",
+      "imageUrl": ""
+    },
+    {
+      "programTitle": "AFL",
+      "episodeTitle": "Geelong Cats vs Essendon",
+      "description": "From GMHBA Stadium in South Geelong, Victoria, Australia.",
+      "scheduledDate": 1786307400000,
+      "duration": 150,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Australian rules football",
+      "imageUrl": ""
+    },
+    {
+      "programTitle": "AFL Mini",
+      "episodeTitle": "",
+      "description": "Condensed highlights, reaction and analysis of the biggest sport stories from Australia and around the world.",
+      "scheduledDate": 1786316400000,
+      "duration": 20,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Australian rules football",
+      "imageUrl": ""
+    },
+    {
+      "programTitle": "AFL Mini",
+      "episodeTitle": "",
+      "description": "Condensed highlights, reaction and analysis of the biggest sport stories from Australia and around the world.",
+      "scheduledDate": 1786317600000,
+      "duration": 20,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Australian rules football",
+      "imageUrl": ""
+    },
+    {
+      "programTitle": "AFL Mini",
+      "episodeTitle": "Round 22: St Kilda Saints v Carlton Blues",
+      "description": "Condensed highlights, reaction and analysis of the biggest sport stories from Australia and around the world.",
+      "scheduledDate": 1786318800000,
+      "duration": 20,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Australian rules football",
+      "imageUrl": ""
+    }
+  ]
+}

@@ -1,0 +1,196 @@
+{
+  "channel": "ESP",
+  "date": "2026-08-08",
+  "source": "kayo",
+  "fetchedAt": 1786141153547,
+  "fetchedAtIST": "8/8/2026, 3:49:13 am",
+  "events": [
+    {
+      "programTitle": "NFL Blitz",
+      "episodeTitle": "Road to Melbourne",
+      "description": "All of the best action from the National Football League.",
+      "scheduledDate": 1786140000000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Football, News",
+      "imageUrl": ""
+    },
+    {
+      "programTitle": "Nothing But Net",
+      "episodeTitle": "Weekend Edition",
+      "description": "Kane Pitman and Ryan Broekhoff preview the upcoming NBA and NBL action through their Aussie lens, with guest interviews, highlights and breaking news.",
+      "scheduledDate": 1786141800000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Basketball",
+      "imageUrl": ""
+    },
+    {
+      "programTitle": "MLB Baseball",
+      "episodeTitle": "New York Yankees vs Atlanta Braves",
+      "description": "From Yankee Stadium in the Bronx, N.Y.",
+      "scheduledDate": 1786143600000,
+      "duration": 180,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Baseball",
+      "imageUrl": ""
+    },
+    {
+      "programTitle": "Return of the Clowns",
+      "episodeTitle": "",
+      "description": "The Sunday morning sports magazine show featuring the biggest names and the best stories in sports.",
+      "scheduledDate": 1786154400000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Special, Baseball",
+      "imageUrl": ""
+    },
+    {
+      "programTitle": "SportsCenter",
+      "episodeTitle": "Top Plays of July",
+      "description": "The team deliver the latest news, highlights, and inside information from the wide world of sports, as well as trending topics across social media platforms.",
+      "scheduledDate": 1786158000000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "News, Sports talk",
+      "imageUrl": ""
+    },
+    {
+      "programTitle": "SC: Stories",
+      "episodeTitle": "Volume 38",
+      "description": "Presents impressive stories of athletes who have excelled in sports.",
+      "scheduledDate": 1786159800000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Series",
+      "genre": "News",
+      "imageUrl": ""
+    },
+    {
+      "programTitle": "SportsCenter",
+      "episodeTitle": "",
+      "description": "The team deliver the latest news, highlights, and inside information from the wide world of sports, as well as trending topics across social media platforms.",
+      "scheduledDate": 1786161600000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "News, Sports talk",
+      "imageUrl": ""
+    },
+    {
+      "programTitle": "2026 Little League Softball World Series",
+      "episodeTitle": "Puerto Rico vs. New Jersey",
+      "description": "From Stallings Stadium in Greenville, N.C.",
+      "scheduledDate": 1786165200000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Playoff sports, Softball",
+      "imageUrl": ""
+    },
+    {
+      "programTitle": "Ice Hockey",
+      "episodeTitle": "Australian Ice Hockey League: Canberra Brave vs Melbourne Ice",
+      "description": "Coverage of games from across the world of ice hockey, from the ice rink to behind the scenes.",
+      "scheduledDate": 1786172400000,
+      "duration": 150,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Hockey",
+      "imageUrl": ""
+    },
+    {
+      "programTitle": "ESPN FC",
+      "episodeTitle": "",
+      "description": "ESPN FC brings you a round-up of the latest news from the world of football, including in-depth analysis and exclusive interviews.",
+      "scheduledDate": 1786181400000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Series",
+      "genre": "Soccer, Sports talk",
+      "imageUrl": ""
+    },
+    {
+      "programTitle": "Nothing But Net",
+      "episodeTitle": "Weekend Edition",
+      "description": "Kane Pitman and Ryan Broekhoff preview the upcoming NBA and NBL action through their Aussie lens, with guest interviews, highlights and breaking news.",
+      "scheduledDate": 1786183200000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Basketball",
+      "imageUrl": ""
+    },
+    {
+      "programTitle": "MLB Plays of the Week",
+      "episodeTitle": "",
+      "description": "Presents the top highlights and thrilling moments from across the MLB.",
+      "scheduledDate": 1786185000000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Special, Baseball",
+      "imageUrl": ""
+    },
+    {
+      "programTitle": "MLB Baseball",
+      "episodeTitle": "New York Yankees vs Atlanta Braves",
+      "description": "From Yankee Stadium in the Bronx, N.Y.",
+      "scheduledDate": 1786186800000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Baseball",
+      "imageUrl": ""
+    },
+    {
+      "programTitle": "Quick Pitch",
+      "episodeTitle": "",
+      "description": "All the latest baseball news, scores and highlights. Plus, a first look at upcoming matchups.",
+      "scheduledDate": 1786194000000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Baseball",
+      "imageUrl": ""
+    },
+    {
+      "programTitle": "Quick Pitch",
+      "episodeTitle": "",
+      "description": "All the latest baseball news, scores and highlights. Plus, a first look at upcoming matchups.",
+      "scheduledDate": 1786197600000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Baseball",
+      "imageUrl": ""
+    },
+    {
+      "programTitle": "Banana Ball World Tour",
+      "episodeTitle": "Loco Beach Coconuts vs Savannah Bananas",
+      "description": "From Target Field in Minneapolis.",
+      "scheduledDate": 1786201200000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Baseball",
+      "imageUrl": ""
+    },
+    {
+      "programTitle": "Premier Lacrosse League",
+      "episodeTitle": "Denver Outlaws vs New York Atlas",
+      "description": "From Harvard Stadium in Boston.",
+      "scheduledDate": 1786208400000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Lacrosse",
+      "imageUrl": ""
+    }
+  ]
+}

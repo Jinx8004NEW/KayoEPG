@@ -1,0 +1,53 @@
+{
+  "channel": "FSP",
+  "date": "2026-08-10",
+  "source": "kayo",
+  "fetchedAt": 1786141153536,
+  "fetchedAtIST": "8/8/2026, 3:49:13 am",
+  "events": [
+    {
+      "programTitle": "MotoGP Racing",
+      "episodeTitle": "Grand Prix of Great Britain, Sprint Race",
+      "description": "Action from MotoGP racing.",
+      "scheduledDate": 1786311000000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Family, Classic sport event, Motorcycle racing",
+      "imageUrl": ""
+    },
+    {
+      "programTitle": "MotoGP Racing",
+      "episodeTitle": "Qatar Airways Grand Prix of Great Britain",
+      "description": "From Silverstone Circuit in Northamptonshire, England, United Kingdom.",
+      "scheduledDate": 1786312800000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Motorcycle racing",
+      "imageUrl": ""
+    },
+    {
+      "programTitle": "F1 Mini",
+      "episodeTitle": "Hungary Grand Prix",
+      "description": "A commanding qualifying puts McLaren at the sharp end as pole-sitter Lando Norris aims to convert his single-lap speed into victory over a chasing Ferrari pack.",
+      "scheduledDate": 1786316400000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Motorsports, Classic sport event",
+      "imageUrl": ""
+    },
+    {
+      "programTitle": "Pool",
+      "episodeTitle": "Florida Open Pool Championship: Final Day, Night Session",
+      "description": "Action from the world of pool.",
+      "scheduledDate": 1786318200000,
+      "duration": 180,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Billiards",
+      "imageUrl": ""
+    }
+  ]
+}

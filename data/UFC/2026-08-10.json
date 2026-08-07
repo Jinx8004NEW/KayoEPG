@@ -1,0 +1,97 @@
+{
+  "channel": "UFC",
+  "date": "2026-08-10",
+  "source": "kayo",
+  "fetchedAt": 1786141153560,
+  "fetchedAtIST": "8/8/2026, 3:49:13 am",
+  "events": [
+    {
+      "programTitle": "UFC",
+      "episodeTitle": "UFC 81: Frank Mir x Brock Lesnar",
+      "description": "The latest mixed martial arts action from Ultimate Fighting Championship events.",
+      "scheduledDate": 1786300500000,
+      "duration": 20,
+      "parentalRating": "M",
+      "programType": "Sports event",
+      "genre": "Martial arts",
+      "imageUrl": ""
+    },
+    {
+      "programTitle": "UFC",
+      "episodeTitle": "UFC 154: Georges St. Pierre x Carlos Condit",
+      "description": "The latest mixed martial arts action from Ultimate Fighting Championship events.",
+      "scheduledDate": 1786301700000,
+      "duration": 60,
+      "parentalRating": "M",
+      "programType": "Sports event",
+      "genre": "Martial arts",
+      "imageUrl": ""
+    },
+    {
+      "programTitle": "UFC",
+      "episodeTitle": "UFC 218: Eddie Alvarez x Justin Gaethje",
+      "description": "The latest mixed martial arts action from Ultimate Fighting Championship events.",
+      "scheduledDate": 1786305300000,
+      "duration": 30,
+      "parentalRating": "M",
+      "programType": "Sports event",
+      "genre": "Martial arts",
+      "imageUrl": ""
+    },
+    {
+      "programTitle": "UFC 165: Jones vs. Gustafsson",
+      "episodeTitle": "",
+      "description": "",
+      "scheduledDate": 1786307100000,
+      "duration": 60,
+      "parentalRating": "M",
+      "programType": "Sports event",
+      "genre": "Mixed martial arts",
+      "imageUrl": ""
+    },
+    {
+      "programTitle": "UFC 139: Shogun vs. Henderson",
+      "episodeTitle": "",
+      "description": "",
+      "scheduledDate": 1786310700000,
+      "duration": 55,
+      "parentalRating": "M",
+      "programType": "Sports event",
+      "genre": "Mixed martial arts",
+      "imageUrl": ""
+    },
+    {
+      "programTitle": "UFC Fight Night",
+      "episodeTitle": "2012: Kamal Shalorus vs Khabib Nurmagomedov",
+      "description": "Kamal Shalorus faces Khabib Nurmagomedov in a UFC bout that highlights a clash of heavy styles.",
+      "scheduledDate": 1786314000000,
+      "duration": 30,
+      "parentalRating": "M",
+      "programType": "Sports event",
+      "genre": "Mixed martial arts, Classic sport event",
+      "imageUrl": ""
+    },
+    {
+      "programTitle": "Silva vs. Bisping: UFC Fight Night- London",
+      "episodeTitle": "",
+      "description": "",
+      "scheduledDate": 1786315800000,
+      "duration": 60,
+      "parentalRating": "M",
+      "programType": "Sports event",
+      "genre": "Mixed martial arts",
+      "imageUrl": ""
+    },
+    {
+      "programTitle": "UFC 179: Aldo vs. Mendes II",
+      "episodeTitle": "",
+      "description": "",
+      "scheduledDate": 1786319400000,
+      "duration": 60,
+      "parentalRating": "M",
+      "programType": "Sports event",
+      "genre": "Mixed martial arts",
+      "imageUrl": ""
+    }
+  ]
+}

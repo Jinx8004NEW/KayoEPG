@@ -1,0 +1,64 @@
+{
+  "channel": "ES2",
+  "date": "2026-08-10",
+  "source": "kayo",
+  "fetchedAt": 1786141153553,
+  "fetchedAtIST": "8/8/2026, 3:49:13 am",
+  "events": [
+    {
+      "programTitle": "ESPN FC Shorts",
+      "episodeTitle": "Best We've Played With, Toughest To Defend, Finest Forwards",
+      "description": "Presents top football highlights in YouTube Shorts.",
+      "scheduledDate": 1786300200000,
+      "duration": 20,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Soccer",
+      "imageUrl": ""
+    },
+    {
+      "programTitle": "Brasileiro Serie A",
+      "episodeTitle": "Palmeiras vs. Internacional",
+      "description": "From Nubank Parque in Sao Paulo, Sao Paulo, Brazil.",
+      "scheduledDate": 1786301400000,
+      "duration": 130,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Soccer",
+      "imageUrl": ""
+    },
+    {
+      "programTitle": "ESPN FC Shorts",
+      "episodeTitle": "All-Time Starting XI, Start, Bench, Drop, & Q&A",
+      "description": "Presents top football highlights in YouTube Shorts.",
+      "scheduledDate": 1786309200000,
+      "duration": 20,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Soccer",
+      "imageUrl": ""
+    },
+    {
+      "programTitle": "Brasileiro Serie A",
+      "episodeTitle": "Red Bull Bragantino vs. Corinthians",
+      "description": "From Estádio Cícero de Souza Marques in Bragança Paulista, São Paulo, Brazil.",
+      "scheduledDate": 1786310400000,
+      "duration": 130,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Soccer",
+      "imageUrl": ""
+    },
+    {
+      "programTitle": "Prime 9",
+      "episodeTitle": "All-1970's Team",
+      "description": "Ranking the best of the best, on the field and off.",
+      "scheduledDate": 1786318200000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Baseball",
+      "imageUrl": ""
+    }
+  ]
+}

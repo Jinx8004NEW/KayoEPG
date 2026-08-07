@@ -1,0 +1,64 @@
+{
+  "channel": "FS1",
+  "date": "2026-08-10",
+  "source": "kayo",
+  "fetchedAt": 1786141153518,
+  "fetchedAtIST": "8/8/2026, 3:49:13 am",
+  "events": [
+    {
+      "programTitle": "Men's Ashes",
+      "episodeTitle": "2017/18 - 5th Test Review",
+      "description": "Australian captain Steve Smith dominates at the Gabba and Perth; Pat Cummins impresses in his Ashes debut; Alastair Cook bids farewell with a double ton.",
+      "scheduledDate": 1786305600000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Classic sport event, Cricket",
+      "imageUrl": ""
+    },
+    {
+      "programTitle": "Test Cricket",
+      "episodeTitle": "2022/23: Australia vs South Africa, 1st Test",
+      "description": "Coverage and highlights from international test cricket matches.",
+      "scheduledDate": 1786307400000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Cricket, Classic sport event",
+      "imageUrl": ""
+    },
+    {
+      "programTitle": "Test Cricket",
+      "episodeTitle": "Australia v South Africa: 2nd Test, Day 1",
+      "description": "Coverage and highlights from international test cricket matches.",
+      "scheduledDate": 1786311000000,
+      "duration": 65,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Cricket, Classic sport event",
+      "imageUrl": ""
+    },
+    {
+      "programTitle": "The Hundred",
+      "episodeTitle": "Men's: Southern Brave v Manchester Super Giants",
+      "description": "The Hundred is a professional franchise 100-ball cricket tournament.",
+      "scheduledDate": 1786314900000,
+      "duration": 20,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Cricket",
+      "imageUrl": ""
+    },
+    {
+      "programTitle": "CPL T20 Cricket",
+      "episodeTitle": "Antigua & Barbuda Falcons vs St. Lucia Kings",
+      "description": "From Arnos Vale Stadium in Saint Vincent and The Grenadines.",
+      "scheduledDate": 1786316100000,
+      "duration": 245,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Cricket",
+      "imageUrl": ""
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "channel": "ESP",
+  "date": "2026-08-10",
+  "source": "kayo",
+  "fetchedAt": 1786141153548,
+  "fetchedAtIST": "8/8/2026, 3:49:13 am",
+  "events": [
+    {
+      "programTitle": "WNBA Postgame",
+      "episodeTitle": "",
+      "description": "",
+      "scheduledDate": 1786300200000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Basketball, Sports talk",
+      "imageUrl": ""
+    },
+    {
+      "programTitle": "2026 Little League Softball World Series",
+      "episodeTitle": "",
+      "description": "",
+      "scheduledDate": 1786302000000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Softball",
+      "imageUrl": ""
+    },
+    {
+      "programTitle": "Cheerleading",
+      "episodeTitle": "UDA College Dance Team Championship: 1A Hip Hop",
+      "description": "",
+      "scheduledDate": 1786309200000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Cheerleading",
+      "imageUrl": ""
+    },
+    {
+      "programTitle": "Cheerleading",
+      "episodeTitle": "ICU World Championship - All Girl",
+      "description": "",
+      "scheduledDate": 1786311000000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Cheerleading",
+      "imageUrl": ""
+    },
+    {
+      "programTitle": "WNBA Countdown",
+      "episodeTitle": "",
+      "description": "Presents WNBA news, analysis, highlights and interviews.",
+      "scheduledDate": 1786314600000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Basketball",
+      "imageUrl": ""
+    },
+    {
+      "programTitle": "WNBA Basketball",
+      "episodeTitle": "Los Angeles Sparks vs Golden State Valkyries",
+      "description": "From Crypto.com Arena in Los Angeles.",
+      "scheduledDate": 1786316400000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Basketball",
+      "imageUrl": ""
+    }
+  ]
+}
