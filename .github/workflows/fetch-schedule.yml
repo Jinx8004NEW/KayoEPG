@@ -1,0 +1,69 @@
+# Scheduled collector. Pulls the Kayo EPG for every channel, prunes anything past
+# the retention window, and commits the result.
+#
+# The linear half accumulates rather than overwrites: the Livetvschedule endpoint
+# only looks forward, so a missed run leaves a permanent hole. Fox Sports News
+# publishes barely a day ahead, which sets the real tolerance at ~22 hours.
+
+name: Fetch Kayo Schedule
+
+on:
+  schedule:
+    - cron: '0 */4 * * *'   # every 4 hours
+  workflow_dispatch:
+
+env:
+  # Pins the runtime for JavaScript-based actions (checkout, setup-node) during
+  # GitHub's Node 20 -> 24 transition. Does not affect `node scripts/*.js`.
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+
+permissions:
+  contents: write
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Install dependencies
+        run: npm install --omit=dev
+
+      # Small gap so the fetch doesn't start the instant npm finishes
+      - name: Wait before fetch
+        run: sleep 3
+
+      - name: Fetch schedule
+        run: node scripts/fetch.js
+        env:
+          # Proxy is optional and used for the 4K (epgWithDatesRange) calls only.
+          # The linear endpoint is not geo-restricted and never uses it.
+          PROXY_HOST: ${{ secrets.PROXY_HOST }}
+          PROXY_PORT: ${{ secrets.PROXY_PORT }}
+          PROXY_USER: ${{ secrets.PROXY_USER }}
+          PROXY_PASS: ${{ secrets.PROXY_PASS }}
+
+      - name: Cleanup old files
+        run: node scripts/cleanup.js
+
+      # Skips the commit when nothing changed, so quiet periods don't produce
+      # empty commits.
+      - name: Commit and push
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "Schedule update $(date -u '+%Y-%m-%d %H:%M') UTC"
+            git push
+          fi

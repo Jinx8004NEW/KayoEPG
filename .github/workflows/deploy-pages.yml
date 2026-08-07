@@ -1,0 +1,54 @@
+# Publishes docs/ to GitHub Pages.
+#
+# Manual only, on purpose. The page fetches its data at runtime, so schedule
+# commits never need a rebuild, and docs/index.html changes rarely enough that
+# an automatic deploy on every push is more noise than help.
+#
+# After editing docs/index.html: Actions -> Deploy to GitHub Pages -> Run workflow.
+# Nothing on the live site changes until you do.
+#
+# To restore automatic deploys, add back under `on:`:
+#   push:
+#     branches: [main]
+#     paths: ['docs/**']
+#
+# Requires Settings -> Pages -> Source set to "GitHub Actions".
+
+name: Deploy to GitHub Pages
+
+on:
+  workflow_dispatch:
+
+# Required by deploy-pages@v5
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+# Overlapping deploys collapse to the most recent
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Pages
+        uses: actions/configure-pages@v5
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: docs/
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v5

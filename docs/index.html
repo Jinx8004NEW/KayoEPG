@@ -1,0 +1,1871 @@
+<!DOCTYPE html>
+<!--
+  Kayo Guide - single-file frontend, deployed to GitHub Pages from docs/.
+  Same code as the FoxtelEPG guide; only REPO_RAW and the branding differ, so the
+  two stay comparable. Reads committed EPG JSON over raw.githubusercontent.com
+  and never calls Kayo directly, which is what keeps it free of CORS problems.
+
+  Stored day files are bucketed in IST. This page re-buckets events into the viewer's
+  timezone at render time, so one file can feed two local dates.
+-->
+<html lang="en" data-theme="dark">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Kayo Guide</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,300;0,9..40,400;0,9..40,500;0,9..40,600;1,9..40,300&family=DM+Mono:wght@400;500&display=swap" rel="stylesheet">
+<style>
+:root {
+  --font: 'DM Sans', sans-serif;
+  --mono: 'DM Mono', monospace;
+}
+[data-theme="dark"] {
+  --bg: #0c0e10;
+  --surface: #131619;
+  --surface2: #1a1e22;
+  --surface3: #20262c;
+  --border: rgba(255,255,255,0.07);
+  --border2: rgba(255,255,255,0.12);
+  --text: #e8eaed;
+  --text2: #8b9099;
+  --text3: #555c65;
+  --live: #f87171;
+  --live-bg: rgba(248,113,113,0.1);
+  --live-border: rgba(248,113,113,0.25);
+  --accent: #60a5fa;
+  --accent-bg: rgba(96,165,250,0.1);
+  --active: #34d399;
+  --active-bg: rgba(52,211,153,0.1);
+  --active-border: rgba(52,211,153,0.25);
+  --warn: #fbbf24;
+  --warn-bg: rgba(251,191,36,0.1);
+  --4k: #a78bfa;
+  --4k-bg: rgba(167,139,250,0.08);
+  --4k-border: rgba(167,139,250,0.2);
+  --shadow: 0 1px 3px rgba(0,0,0,0.4);
+  --shadow-md: 0 4px 16px rgba(0,0,0,0.5);
+}
+[data-theme="light"] {
+  --bg: #f5f6f8;
+  --surface: #ffffff;
+  --surface2: #f0f2f5;
+  --surface3: #e8ebef;
+  --border: rgba(0,0,0,0.07);
+  --border2: rgba(0,0,0,0.12);
+  --text: #111318;
+  --text2: #6b7280;
+  --text3: #9ca3af;
+  --live: #dc2626;
+  --live-bg: rgba(220,38,38,0.08);
+  --live-border: rgba(220,38,38,0.2);
+  --accent: #2563eb;
+  --accent-bg: rgba(37,99,235,0.08);
+  --active: #059669;
+  --active-bg: rgba(5,150,105,0.08);
+  --active-border: rgba(5,150,105,0.2);
+  --warn: #d97706;
+  --warn-bg: rgba(217,119,6,0.08);
+  --4k: #7c3aed;
+  --4k-bg: rgba(124,58,237,0.06);
+  --4k-border: rgba(124,58,237,0.18);
+  --shadow: 0 1px 3px rgba(0,0,0,0.08);
+  --shadow-md: 0 4px 16px rgba(0,0,0,0.1);
+}
+
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+body {
+  background: var(--bg);
+  color: var(--text);
+  font-family: var(--font);
+  font-size: 14px;
+  line-height: 1.5;
+  min-height: 100vh;
+  -webkit-font-smoothing: antialiased;
+  transition: background .25s, color .25s;
+}
+
+/* ── TOPBAR ── */
+.topbar {
+  position: sticky; top: 0; z-index: 200;
+  background: var(--surface);
+  border-bottom: 1px solid var(--border);
+  height: 52px;
+  display: flex; align-items: center;
+  padding: 0 20px;
+  gap: 16px;
+  overflow: hidden;
+}
+.brand {
+  font-size: 15px; font-weight: 600; letter-spacing: -0.01em;
+  white-space: nowrap; flex-shrink: 0;
+  display: flex; align-items: center; gap: 8px;
+}
+.brand-name { display: inline; }
+.brand-dot { width: 7px; height: 7px; border-radius: 50%; background: var(--active); }
+.ist-clock {
+  font-family: var(--mono); font-size: 11px; font-weight: 500;
+  color: var(--text2);
+  background: var(--surface2);
+  border: 1px solid var(--border);
+  padding: 3px 10px; border-radius: 6px;
+  letter-spacing: 0.03em; flex-shrink: 0;
+}
+.tz-pill {
+  font-family: var(--mono); font-size: 10px; font-weight: 500;
+  color: var(--accent);
+  background: var(--accent-bg);
+  border: 1px solid var(--border);
+  padding: 3px 8px; border-radius: 6px;
+  letter-spacing: 0.03em; flex-shrink: 0;
+  cursor: pointer; transition: border-color .15s;
+}
+.tz-pill:hover { border-color: var(--border2); }
+.topbar-spacer { flex: 1; }
+.search-wrap { flex: 1; max-width: 340px; position: relative; }
+.search-ico {
+  position: absolute; left: 10px; top: 50%; transform: translateY(-50%);
+  color: var(--text3); font-size: 13px; pointer-events: none;
+}
+.search-input {
+  width: 100%; background: var(--surface2); border: 1px solid var(--border);
+  border-radius: 8px; padding: 6px 32px 6px 30px;
+  font-family: var(--font); font-size: 13px; color: var(--text);
+  outline: none; transition: border-color .15s;
+}
+.search-input::placeholder { color: var(--text3); }
+.search-input:focus { border-color: var(--border2); }
+.search-clear {
+  position: absolute; right: 8px; top: 50%; transform: translateY(-50%);
+  background: none; border: none; cursor: pointer; color: var(--text3);
+  font-size: 14px; padding: 2px; display: none; line-height: 1;
+}
+.tb-btn {
+  background: none; border: 1px solid var(--border); border-radius: 7px;
+  padding: 5px 12px; font-family: var(--font); font-size: 12px; font-weight: 500;
+  color: var(--text2); cursor: pointer; transition: all .15s;
+  display: flex; align-items: center; gap: 5px; white-space: nowrap; flex-shrink: 0;
+}
+.tb-btn:hover { border-color: var(--border2); color: var(--text); }
+.tb-btn.on { border-color: var(--active-border); color: var(--active); background: var(--active-bg); }
+.tb-btn .spin { display: inline-block; }
+.tb-btn.spinning .spin { animation: spin .7s linear infinite; }
+.menu-btn { display: none; padding: 5px 10px; font-size: 14px; gap: 6px; }
+.menu-btn-icon-wrap { position: relative; display: inline-flex; line-height: 1; }
+.menu-btn-label { font-size: 11px; font-weight: 500; letter-spacing: .02em; }
+.menu-pulse {
+  position: absolute; top: -3px; right: -5px;
+  width: 7px; height: 7px; border-radius: 50%;
+  background: var(--accent);
+  box-shadow: 0 0 0 0 var(--accent-bg);
+  animation: menuPulse 1.6s ease-out infinite;
+}
+.menu-pulse.hide { display: none; }
+@keyframes menuPulse {
+  0% { box-shadow: 0 0 0 0 rgba(96,165,250,0.5); }
+  70% { box-shadow: 0 0 0 6px rgba(96,165,250,0); }
+  100% { box-shadow: 0 0 0 0 rgba(96,165,250,0); }
+}
+@media(max-width: 520px) {
+  .menu-btn-label { display: none; }
+}
+@keyframes spin { to { transform: rotate(360deg); } }
+
+/* ── ON AIR BAR ── */
+.onair-bar {
+  background: var(--live-bg); border-bottom: 1px solid var(--live-border);
+  padding: 8px 20px; display: none; align-items: center; gap: 10px;
+  position: relative; z-index: 100;
+}
+.onair-bar.show { display: flex; }
+.onair-pip {
+  width: 6px; height: 6px; border-radius: 50%; background: var(--live);
+  animation: blink 1.4s infinite; flex-shrink: 0;
+}
+@keyframes blink { 0%,100%{opacity:1}50%{opacity:.25} }
+.onair-tag {
+  font-family: var(--mono); font-size: 10px; font-weight: 500; letter-spacing: .08em;
+  color: var(--live); flex-shrink: 0;
+}
+.onair-title { font-size: 13px; font-weight: 500; flex: 1; min-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.onair-next { font-size: 11px; color: var(--text2); flex-shrink: 0; display: none; }
+@media(min-width:640px){ .onair-next { display: block; } }
+.onair-timer {
+  font-family: var(--mono); font-size: 11px; font-weight: 500;
+  color: var(--live); flex-shrink: 0;
+  background: var(--live-bg); border: 1px solid var(--live-border);
+  padding: 2px 9px; border-radius: 20px;
+}
+
+/* ── LAYOUT ── */
+.layout { display: flex; min-height: calc(100vh - 52px); }
+
+/* ── SIDEBAR ── */
+.sidebar {
+  width: 220px; flex-shrink: 0;
+  background: var(--surface);
+  border-right: 1px solid var(--border);
+  position: sticky; top: 52px; height: calc(100vh - 52px);
+  overflow-y: auto; overflow-x: hidden;
+  scrollbar-width: thin; scrollbar-color: var(--border2) transparent;
+}
+.sidebar::-webkit-scrollbar { width: 4px; }
+.sidebar::-webkit-scrollbar-thumb { background: var(--border2); border-radius: 2px; }
+.ch-group-label {
+  font-family: var(--mono); font-size: 9px; font-weight: 500; letter-spacing: .12em;
+  text-transform: uppercase; color: var(--text3);
+  padding: 16px 16px 6px;
+}
+.ch-item {
+  display: flex; align-items: center; gap: 10px;
+  padding: 9px 16px; cursor: pointer;
+  border-left: 2px solid transparent;
+  transition: all .15s; position: relative;
+}
+.ch-item:hover { background: var(--surface2); }
+.ch-item.active { background: var(--active-bg); border-left-color: var(--active); }
+.ch-item.active-4k { background: var(--4k-bg); border-left-color: var(--4k); }
+.ch-num-badge {
+  font-family: var(--mono); font-size: 10px; font-weight: 500;
+  background: var(--surface2); border: 1px solid var(--border);
+  color: var(--text3); padding: 1px 6px; border-radius: 4px;
+  flex-shrink: 0;
+}
+.ch-item.active .ch-num-badge { background: var(--active-bg); border-color: var(--active-border); color: var(--active); }
+.ch-item.active-4k .ch-num-badge { background: var(--4k-bg); border-color: var(--4k-border); color: var(--4k); }
+.ch-name { font-size: 12px; font-weight: 500; color: var(--text2); flex: 1; min-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.ch-item.active .ch-name { color: var(--text); }
+.ch-item.active-4k .ch-name { color: var(--text); }
+.ch-live-dot {
+  width: 5px; height: 5px; border-radius: 50%; background: var(--live);
+  animation: blink 1.4s infinite; display: none; flex-shrink: 0;
+}
+.ch-live-dot.show { display: block; }
+.badge-4k-tag {
+  font-family: var(--mono); font-size: 8px; font-weight: 500; letter-spacing: .04em;
+  background: var(--4k-bg); border: 1px solid var(--4k-border); color: var(--4k);
+  padding: 1px 5px; border-radius: 3px; flex-shrink: 0;
+}
+.sidebar-sep { height: 1px; background: var(--border); margin: 8px 0; }
+.sidebar-backdrop {
+  display: none;
+  position: fixed; inset: 52px 0 0 0;
+  background: rgba(0,0,0,0.5);
+  z-index: 199;
+}
+
+/* ── MAIN CONTENT ── */
+.main { flex: 1; min-width: 0; }
+
+/* ── DATE ROW ── */
+.date-row {
+  background: var(--surface); border-bottom: 1px solid var(--border);
+  padding: 0 20px; display: flex; align-items: center; gap: 8px;
+  overflow-x: auto; scrollbar-width: none; height: 44px;
+}
+.date-row::-webkit-scrollbar { display: none; }
+.date-pill {
+  font-family: var(--mono); font-size: 11px; font-weight: 500;
+  padding: 4px 12px; border-radius: 20px; border: 1px solid var(--border);
+  background: transparent; color: var(--text3); cursor: pointer;
+  transition: all .15s; white-space: nowrap; flex-shrink: 0;
+}
+.date-pill:hover { border-color: var(--border2); color: var(--text2); }
+.date-pill.active { background: var(--active); border-color: var(--active); color: #fff; }
+[data-theme="dark"] .date-pill.active { color: #0c0e10; }
+.date-pill.today { border-color: var(--active-border); color: var(--active); }
+.date-pill.today.active { background: var(--active); color: #fff; }
+[data-theme="dark"] .date-pill.today.active { color: #0c0e10; }
+
+/* ── CONTENT HEADER ── */
+.content-header {
+  padding: 14px 20px 10px;
+  border-bottom: 1px solid var(--border);
+  display: flex; align-items: flex-end; justify-content: space-between; flex-wrap: wrap; gap: 10px;
+  background: var(--surface);
+}
+.ch-heading {
+  display: flex; flex-direction: column; gap: 2px;
+}
+.ch-heading-date { font-size: 11px; color: var(--text3); font-weight: 400; }
+.ch-heading-name { font-size: 16px; font-weight: 600; letter-spacing: -0.01em; }
+.ch-heading-name .badge-4k-inline {
+  display: inline-flex; align-items: center;
+  font-family: var(--mono); font-size: 9px; font-weight: 500; letter-spacing: .04em;
+  background: var(--4k-bg); border: 1px solid var(--4k-border); color: var(--4k);
+  padding: 1px 6px; border-radius: 3px; margin-left: 7px; vertical-align: middle;
+}
+.header-meta { display: flex; align-items: center; gap: 6px; }
+.cache-label {
+  font-family: var(--mono); font-size: 10px; font-weight: 500;
+  color: var(--text3); background: var(--surface2);
+  border: 1px solid var(--border); padding: 3px 9px; border-radius: 6px;
+  display: flex; align-items: center; gap: 5px;
+}
+.cache-dot { width: 5px; height: 5px; border-radius: 50%; background: var(--active); animation: blink 2s infinite; }
+
+/* ── STATS ── */
+.stats {
+  display: grid; grid-template-columns: repeat(4,1fr);
+  border-bottom: 1px solid var(--border);
+  background: var(--surface);
+}
+.stat { padding: 12px 16px; border-right: 1px solid var(--border); text-align: center; }
+.stat:last-child { border-right: none; }
+.stat-n { font-size: 22px; font-weight: 600; letter-spacing: -0.02em; color: var(--warn); line-height: 1; }
+.stat-l { font-size: 10px; color: var(--text3); text-transform: uppercase; letter-spacing: .1em; margin-top: 3px; }
+
+/* ── FILTER BAR ── */
+.filter-bar {
+  padding: 10px 20px; display: flex; gap: 6px; align-items: center;
+  background: var(--surface); border-bottom: 1px solid var(--border); flex-wrap: wrap;
+}
+.filter-label { font-family: var(--mono); font-size: 10px; font-weight: 500; letter-spacing: .08em; color: var(--text3); margin-right: 2px; text-transform: uppercase; }
+.fbtn {
+  background: none; border: 1px solid var(--border); border-radius: 20px;
+  padding: 4px 12px; font-family: var(--font); font-size: 12px; font-weight: 500;
+  color: var(--text3); cursor: pointer; transition: all .15s;
+}
+.fbtn:hover { border-color: var(--border2); color: var(--text2); }
+.fbtn.active { background: var(--active-bg); border-color: var(--active-border); color: var(--active); }
+.is4k-channel .fbtn.active { background: var(--4k-bg); border-color: var(--4k-border); color: var(--4k); }
+.is4k-channel .fbtn.hd-only { display: none; }
+.date-row.hidden-4k { display: none !important; }
+.filter-sep { width: 1px; height: 18px; background: var(--border); margin: 0 4px; }
+.tool-btn {
+  background: none; border: 1px solid var(--border); border-radius: 7px;
+  padding: 4px 11px; font-family: var(--font); font-size: 11px; font-weight: 500;
+  color: var(--text3); cursor: pointer; transition: all .15s;
+  display: flex; align-items: center; gap: 4px;
+}
+.tool-btn:hover { border-color: var(--border2); color: var(--text2); }
+
+/* ── 4K NOTICE ── */
+.fouk-notice {
+  display: none; padding: 8px 20px;
+  background: var(--4k-bg); border-bottom: 1px solid var(--4k-border);
+  align-items: center; gap: 8px;
+}
+.fouk-notice.show { display: flex; }
+.fouk-label { font-family: var(--mono); font-size: 10px; font-weight: 500; letter-spacing: .08em; color: var(--4k); }
+.fouk-sub { font-size: 12px; color: var(--text3); }
+
+/* ── GUIDE ── */
+.guide { padding: 16px 20px 60px; display: flex; flex-direction: column; gap: 6px; }
+
+/* ── EVENT CARD ── */
+@keyframes cardIn { from { opacity: 0; transform: translateY(4px); } to { opacity: 1; transform: translateY(0); } }
+
+.event-card {
+  display: grid;
+  grid-template-columns: 170px 110px 1fr auto;
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  overflow: hidden;
+  transition: border-color .15s, box-shadow .15s;
+  animation: cardIn .16s ease both;
+  position: relative;
+}
+.event-card:hover { border-color: var(--border2); box-shadow: var(--shadow-md); }
+.event-card.is-live {
+  border-color: var(--live-border);
+  box-shadow: 0 0 0 1px var(--live-border);
+}
+.event-card.is-past { opacity: .55; }
+.event-card.is-4k { border-color: var(--4k-border); }
+.event-card.is-4k:hover { border-color: var(--4k); }
+
+/* live left bar */
+.event-card.is-live::before {
+  content: ''; position: absolute; left: 0; top: 0; bottom: 0;
+  width: 3px; background: var(--live);
+}
+
+/* image column */
+.ev-image {
+  position: relative;
+  width: 100%;
+  aspect-ratio: 16/9;
+  border-radius: 6px;
+  overflow: hidden;
+  background: var(--surface3);
+}
+.ev-image-cell {
+  border-right: 1px solid var(--border);
+  display: flex; align-items: center; justify-content: center;
+  padding: 8px;
+}
+.ev-image img {
+  width: 100%; height: 100%; object-fit: cover; display: block;
+  position: absolute; inset: 0;
+}
+.ev-image.no-img { background: var(--surface2); }
+.ev-image.no-img::after {
+  content: '—';
+  position: absolute; inset: 0;
+  display: flex; align-items: center; justify-content: center;
+  color: var(--text3); font-size: 18px;
+}
+.ev-dl-btn {
+  position: absolute; bottom: 4px; right: 4px;
+  width: 22px; height: 22px; border-radius: 5px;
+  background: rgba(0,0,0,0.55); border: none;
+  display: flex; align-items: center; justify-content: center;
+  color: #fff; font-size: 12px; cursor: pointer;
+  opacity: 0; transition: opacity .15s;
+  padding: 0; line-height: 1; z-index: 2;
+}
+.ev-image:hover .ev-dl-btn { opacity: 1; }
+.ev-dl-btn:hover { background: rgba(0,0,0,0.8); }
+
+/* time column */
+.ev-time {
+  padding: 14px 10px;
+  display: flex; flex-direction: column; justify-content: center; align-items: center;
+  gap: 3px; border-right: 1px solid var(--border);
+  background: var(--surface2);
+  text-align: center;
+}
+.ev-time-start {
+  font-family: var(--mono); font-size: 14px; font-weight: 500; letter-spacing: -.01em;
+  line-height: 1;
+}
+.event-card.is-live .ev-time-start { color: var(--live); }
+.event-card.is-upcoming .ev-time-start { color: var(--active); }
+.event-card.is-past .ev-time-start { color: var(--text3); }
+.ev-dur { font-size: 10px; color: var(--text3); }
+.ev-eta {
+  font-size: 9px; font-weight: 600; letter-spacing: .03em;
+  margin-top: 2px; display: none;
+}
+.event-card.is-live .ev-eta, .event-card.is-upcoming .ev-eta { display: block; }
+.event-card.is-live .ev-eta { color: var(--live); }
+.event-card.is-upcoming .ev-eta { color: var(--active); }
+
+/* progress */
+.ev-progress {
+  position: absolute; bottom: 0; left: 0; right: 0; height: 2px;
+  background: var(--live-bg);
+}
+.ev-progress-fill { height: 100%; background: var(--live); transition: width 10s linear; }
+
+/* info column */
+.ev-info {
+  padding: 12px 14px; display: flex; flex-direction: column; justify-content: center;
+  gap: 4px; min-width: 0;
+}
+.ev-title {
+  font-size: 14px; font-weight: 600; letter-spacing: -.01em;
+  white-space: nowrap; overflow: hidden; text-overflow: ellipsis; line-height: 1.3;
+}
+.event-card.is-past .ev-title { color: var(--text2); }
+.ev-ep {
+  font-size: 12px; color: var(--text3); font-weight: 400;
+  white-space: nowrap; overflow: hidden; text-overflow: ellipsis;
+}
+.ev-localtime {
+  font-family: var(--mono); font-size: 10px; color: var(--text3);
+  white-space: nowrap; overflow: hidden; text-overflow: ellipsis;
+  margin-top: 1px;
+}
+.ev-tags { display: flex; gap: 5px; flex-wrap: wrap; margin-top: 1px; }
+.tag {
+  font-family: var(--mono); font-size: 9px; font-weight: 500; letter-spacing: .05em;
+  padding: 2px 7px; border-radius: 4px; border: 1px solid var(--border);
+  color: var(--text3); background: var(--surface2);
+}
+.tag-live { border-color: var(--live-border); color: var(--live); background: var(--live-bg); animation: blink 2s infinite; }
+.tag-4k { border-color: var(--4k-border); color: var(--4k); background: var(--4k-bg); }
+.tag-premiere { border-color: rgba(251,191,36,.3); color: var(--warn); background: var(--warn-bg); }
+
+/* action column */
+.ev-actions {
+  padding: 10px 10px;
+  display: flex; flex-direction: column; justify-content: center; align-items: center; gap: 6px;
+  border-left: 1px solid var(--border); min-width: 48px;
+}
+.status-dot { width: 6px; height: 6px; border-radius: 50%; }
+.dot-past { background: var(--surface3); }
+.dot-live { background: var(--live); animation: blink 1.4s infinite; }
+.dot-up { background: var(--active); }
+.dot-4k { background: var(--4k); }
+.status-txt { font-family: var(--mono); font-size: 8px; font-weight: 500; letter-spacing: .08em; text-transform: uppercase; }
+.st-past { color: var(--text3); }
+.st-live { color: var(--live); }
+.st-up { color: var(--active); }
+.st-4k { color: var(--4k); }
+.act-btn {
+  background: none; border: none; cursor: pointer;
+  color: var(--text3); font-size: 13px; padding: 2px; transition: color .15s; line-height: 1;
+}
+.act-btn:hover { color: var(--accent); }
+.cal-btn { font-size: 10px; }
+.cal-btn:hover { color: var(--warn); }
+
+/* ── STATES ── */
+.loading { display: flex; flex-direction: column; align-items: center; justify-content: center; padding: 5rem 2rem; gap: 14px; }
+.loader { width: 24px; height: 24px; border: 2px solid var(--border); border-top-color: var(--active); border-radius: 50%; animation: spin .7s linear infinite; }
+.loader-4k { border-top-color: var(--4k); }
+.loading-text { font-family: var(--mono); font-size: 11px; color: var(--text3); letter-spacing: .1em; }
+.empty-state { text-align: center; padding: 4rem 2rem; }
+.empty-title { font-size: 18px; font-weight: 600; color: var(--text2); margin-bottom: 8px; }
+.empty-sub { font-size: 13px; color: var(--text3); line-height: 1.7; }
+.no-4k-state { text-align: center; padding: 3rem 2rem; }
+.no-4k-icon { font-size: 32px; margin-bottom: 12px; }
+.no-4k-title { font-size: 16px; font-weight: 600; color: var(--4k); margin-bottom: 8px; }
+.no-4k-sub { font-size: 13px; color: var(--text3); line-height: 1.7; max-width: 380px; margin: 0 auto; }
+
+/* ── COMPACT MODE ── */
+body.compact .ev-image-cell { display: none !important; }
+body.compact .ev-localtime  { display: none; }
+body.compact .ev-ep         { display: none; }
+body.compact .ev-tags       { display: none; }
+body.compact .ev-info       { justify-content: center; }
+body.compact .ev-time       { padding: 8px 10px; }
+body.compact .event-card    { border-radius: 6px; }
+body.compact .guide         { gap: 3px; }
+#compact-btn.on { border-color: var(--active-border); color: var(--active); background: var(--active-bg); }
+
+/* ── ON NOW MODAL ── */
+.onnow-item {
+  display: flex; align-items: center; gap: 10px;
+  padding: 10px 12px; cursor: pointer;
+  border-bottom: 1px solid var(--border); transition: background .15s;
+}
+.onnow-item:last-child { border-bottom: none; }
+.onnow-item:hover { background: var(--surface2); }
+.onnow-ch { font-family: var(--mono); font-size: 10px; font-weight: 500;
+  background: var(--surface2); border: 1px solid var(--border);
+  color: var(--text3); padding: 2px 6px; border-radius: 4px;
+  flex-shrink: 0; min-width: 46px; text-align: center; }
+.onnow-title { font-size: 13px; font-weight: 600; flex: 1; min-width: 0;
+  overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.onnow-timer { font-family: var(--mono); font-size: 10px; color: var(--live);
+  background: var(--live-bg); border: 1px solid var(--live-border);
+  padding: 2px 7px; border-radius: 10px; flex-shrink: 0; }
+.onnow-pip { width: 6px; height: 6px; border-radius: 50%; background: var(--live);
+  animation: blink 1.4s infinite; flex-shrink: 0; }
+
+/* ── TOAST ── */
+.toast {
+  position: fixed; bottom: 24px; left: 50%;
+  transform: translateX(-50%) translateY(12px);
+  background: var(--text); color: var(--bg);
+  padding: 8px 18px; border-radius: 8px;
+  font-size: 12px; font-weight: 600; font-family: var(--mono);
+  opacity: 0; transition: all .25s; pointer-events: none; z-index: 999;
+  white-space: nowrap; letter-spacing: .03em;
+}
+.toast.show { opacity: 1; transform: translateX(-50%) translateY(0); }
+
+/* ── TIMEZONE MODAL ── */
+.tz-modal-backdrop {
+  display: none;
+  position: fixed; inset: 0; z-index: 300;
+  background: rgba(0,0,0,0.55);
+  align-items: center; justify-content: center;
+}
+.tz-modal-backdrop.show { display: flex; }
+.tz-modal {
+  width: 92%; max-width: 360px; max-height: 70vh;
+  background: var(--surface); border: 1px solid var(--border2);
+  border-radius: 12px; box-shadow: var(--shadow-md);
+  display: flex; flex-direction: column; overflow: hidden;
+}
+.tz-modal-header {
+  display: flex; align-items: center; justify-content: space-between;
+  padding: 14px 16px 10px; font-size: 14px; font-weight: 600;
+}
+.tz-modal-close {
+  background: none; border: none; color: var(--text2); font-size: 18px;
+  cursor: pointer; line-height: 1; padding: 0 4px;
+}
+.tz-search {
+  margin: 0 16px 10px; padding: 7px 10px;
+  background: var(--surface2); border: 1px solid var(--border);
+  border-radius: 7px; color: var(--text); font-family: var(--font); font-size: 13px;
+  outline: none;
+}
+.tz-list { overflow-y: auto; padding: 0 8px 12px; }
+.tz-opt {
+  display: flex; align-items: center; justify-content: space-between;
+  padding: 9px 10px; border-radius: 7px; cursor: pointer;
+  font-size: 13px; color: var(--text2);
+}
+.tz-opt:hover { background: var(--surface2); color: var(--text); }
+.tz-opt.active { background: var(--active-bg); color: var(--active); }
+.tz-opt-offset { font-family: var(--mono); font-size: 11px; color: var(--text3); }
+.tz-opt.active .tz-opt-offset { color: var(--active); }
+.tz-auto-opt { border-bottom: 1px solid var(--border); margin-bottom: 6px; padding-bottom: 12px; }
+
+/* ── FOOTER ── */
+footer {
+  background: var(--surface); border-top: 1px solid var(--border);
+  padding: 10px 20px; font-family: var(--mono); font-size: 10px;
+  color: var(--text3); display: flex; align-items: center; justify-content: space-between;
+  flex-wrap: wrap; gap: 8px;
+}
+
+/* ── HIGHLIGHT ── */
+mark.hl { background: rgba(251,191,36,.25); border-radius: 2px; padding: 0 1px; color: inherit; }
+
+/* ── RESPONSIVE ── */
+@media(max-width: 800px) {
+  .event-card { grid-template-columns: 120px 80px 1fr auto; }
+  .menu-btn { display: flex; }
+  .sidebar {
+    position: fixed; top: 52px; left: 0; height: calc(100vh - 52px);
+    z-index: 200; transform: translateX(-100%);
+    transition: transform .2s ease;
+    box-shadow: var(--shadow-md);
+  }
+  .sidebar.open { transform: translateX(0); }
+  .sidebar-backdrop.open { display: block; }
+}
+@media(max-width: 600px) {
+  .event-card { grid-template-columns: 64px 1fr auto; }
+  .ev-image-cell { display: none; }
+  .topbar { padding: 0 8px; gap: 5px; }
+  .topbar-spacer { display: none; }
+  .tb-lbl { display: none; }           /* icon-only buttons */
+  .tb-btn { padding: 5px 8px; }
+  .brand-name { display: none; }       /* hide text, keep green dot */
+  .ist-clock { display: none; }
+  .search-wrap { max-width: none; }
+}
+@media(max-width: 520px) {
+  .stats { grid-template-columns: repeat(2,1fr); }
+  .fouk-sub { display: none; }
+  .filter-bar { gap: 4px; padding: 8px 10px; }
+  .filter-label { display: none; }
+  .filter-sep { display: none; }
+  .tool-btn { padding: 3px 8px; font-size: 10px; }
+  .content-header { padding: 8px 10px; }
+  .ch-heading-name { font-size: 13px; }
+  .ch-heading-date { font-size: 10px; }
+  .cache-label { font-size: 9px; padding: 2px 6px; }
+  .onair-bar { padding: 6px 10px; }
+  .onair-title { font-size: 12px; }
+  .onair-next { display: none; }
+}
+</style>
+</head>
+<body>
+
+<!-- TOPBAR -->
+<header class="topbar">
+  <button class="tb-btn menu-btn" id="menu-btn" onclick="toggleSidebar()" aria-label="Channels">
+    <span class="menu-btn-icon-wrap">☰<span class="menu-pulse" id="menu-pulse"></span></span>
+    <span class="menu-btn-label">Channels</span>
+  </button>
+  <div class="brand"><div class="brand-dot"></div><span class="brand-name">Kayo Guide</span></div>
+  <div class="ist-clock" id="ist-clock">--:--:--</div>
+  <button class="tz-pill" id="tz-pill" onclick="openTZPicker()" title="Click to change timezone"><span id="tz-label">—</span></button>
+  <div class="search-wrap">
+    <span class="search-ico">⌕</span>
+    <input class="search-input" id="search-input" type="text" placeholder="Search shows… ( / to focus)" oninput="onSearch(this.value)">
+    <button class="search-clear" id="search-clear" onclick="clearSearch()">×</button>
+  </div>
+  <div class="topbar-spacer"></div>
+  <button class="tb-btn" id="compact-btn" onclick="toggleCompact()" title="Toggle compact view">⊟<span class="tb-lbl"> Compact</span></button>
+  <button class="tb-btn" id="onnow-btn" onclick="openOnNow()" title="What's Live Now across all channels">🔴<span class="tb-lbl"> Live Now</span></button>
+  <button class="tb-btn" onclick="toggleTheme()"><span id="theme-ico">☀</span><span class="tb-lbl"> <span id="theme-lbl">Light</span></span></button>
+  <button class="tb-btn" id="refresh-btn" onclick="refreshCurrent()"><span class="spin">↻</span><span class="tb-lbl"> Refresh</span></button>
+</header>
+
+<!-- ON AIR -->
+<div class="onair-bar" id="onair-bar">
+  <div class="onair-pip"></div>
+  <span class="onair-tag">ON AIR</span>
+  <span class="onair-title" id="onair-title">—</span>
+  <span class="onair-next" id="onair-next"></span>
+  <span class="onair-timer" id="onair-timer">—</span>
+</div>
+
+<div class="layout">
+
+  <!-- SIDEBAR BACKDROP (mobile) -->
+  <div class="sidebar-backdrop" id="sidebar-backdrop" onclick="closeSidebar()"></div>
+
+  <!-- SIDEBAR -->
+  <nav class="sidebar" id="sidebar">
+    <div class="ch-group-label">HD Channels</div>
+    <div class="ch-item active" id="tab-FSN" onclick="switchChannel('FSN')">
+      <span class="ch-num-badge">500</span>
+      <span class="ch-name">Fox Sports News</span>
+      <span class="ch-live-dot" id="badge-FSN"></span>
+    </div>
+    <div class="ch-item" id="tab-FS1" onclick="switchChannel('FS1')">
+      <span class="ch-num-badge">501</span>
+      <span class="ch-name">Fox Cricket</span>
+      <span class="ch-live-dot" id="badge-FS1"></span>
+    </div>
+    <div class="ch-item" id="tab-SP2" onclick="switchChannel('SP2')">
+      <span class="ch-num-badge">502</span>
+      <span class="ch-name">Fox League</span>
+      <span class="ch-live-dot" id="badge-SP2"></span>
+    </div>
+    <div class="ch-item" id="tab-FS3" onclick="switchChannel('FS3')">
+      <span class="ch-num-badge">503</span>
+      <span class="ch-name">Fox Sports 503</span>
+      <span class="ch-live-dot" id="badge-FS3"></span>
+    </div>
+    <div class="ch-item" id="tab-FAF" onclick="switchChannel('FAF')">
+      <span class="ch-num-badge">504</span>
+      <span class="ch-name">Fox Footy</span>
+      <span class="ch-live-dot" id="badge-FAF"></span>
+    </div>
+    <div class="ch-item" id="tab-FSP" onclick="switchChannel('FSP')">
+      <span class="ch-num-badge">505</span>
+      <span class="ch-name">Fox Sports 505</span>
+      <span class="ch-live-dot" id="badge-FSP"></span>
+    </div>
+    <div class="ch-item" id="tab-SPS" onclick="switchChannel('SPS')">
+      <span class="ch-num-badge">506</span>
+      <span class="ch-name">Fox Sports 506</span>
+      <span class="ch-live-dot" id="badge-SPS"></span>
+    </div>
+    <div class="ch-item" id="tab-FSS" onclick="switchChannel('FSS')">
+      <span class="ch-num-badge">507</span>
+      <span class="ch-name">Fox Sports 507</span>
+      <span class="ch-live-dot" id="badge-FSS"></span>
+    </div>
+    <div class="ch-item" id="tab-ESP" onclick="switchChannel('ESP')">
+      <span class="ch-num-badge">ESPN</span>
+      <span class="ch-name">ESPN</span>
+      <span class="ch-live-dot" id="badge-ESP"></span>
+    </div>
+    <div class="ch-item" id="tab-ES2" onclick="switchChannel('ES2')">
+      <span class="ch-num-badge">ESPN2</span>
+      <span class="ch-name">ESPN2</span>
+      <span class="ch-live-dot" id="badge-ES2"></span>
+    </div>
+    <div class="ch-item" id="tab-RTV" onclick="switchChannel('RTV')">
+      <span class="ch-num-badge">529</span>
+      <span class="ch-name">Racing.com</span>
+      <span class="ch-live-dot" id="badge-RTV"></span>
+    </div>
+    <div class="ch-item" id="tab-UFC" onclick="switchChannel('UFC')">
+      <span class="ch-num-badge">523</span>
+      <span class="ch-name">UFC</span>
+      <span class="ch-live-dot" id="badge-UFC"></span>
+    </div>
+
+    <div class="sidebar-sep"></div>
+    <div class="ch-group-label">4K Channels</div>
+
+    <div class="ch-item" id="tab-4KL" onclick="switchChannel('4KL')">
+      <span class="ch-num-badge">13</span>
+      <span class="ch-name">Fox League</span>
+      <span class="badge-4k-tag">4K</span>
+      <span class="ch-live-dot" id="badge-4KL"></span>
+    </div>
+    <div class="ch-item" id="tab-4KF1" onclick="switchChannel('4KF1')">
+      <span class="ch-num-badge">14</span>
+      <span class="ch-name">Fox Motorsport</span>
+      <span class="badge-4k-tag">4K</span>
+      <span class="ch-live-dot" id="badge-4KF1"></span>
+    </div>
+    <div class="ch-item" id="tab-4KF" onclick="switchChannel('4KF')">
+      <span class="ch-num-badge">15</span>
+      <span class="ch-name">Fox Footy</span>
+      <span class="badge-4k-tag">4K</span>
+      <span class="ch-live-dot" id="badge-4KF"></span>
+    </div>
+    <div class="ch-item" id="tab-4KF2" onclick="switchChannel('4KF2')">
+      <span class="ch-num-badge">16</span>
+      <span class="ch-name">Fox Footy 2</span>
+      <span class="badge-4k-tag">4K</span>
+      <span class="ch-live-dot" id="badge-4KF2"></span>
+    </div>
+    <div class="ch-item" id="tab-4KN" onclick="switchChannel('4KN')">
+      <span class="ch-num-badge">17</span>
+      <span class="ch-name">Fox Netball</span>
+      <span class="badge-4k-tag">4K</span>
+      <span class="ch-live-dot" id="badge-4KN"></span>
+    </div>
+  </nav>
+
+  <!-- MAIN -->
+  <main class="main">
+
+    <!-- DATE PILLS -->
+    <div class="date-row" id="date-row"></div>
+
+    <!-- CONTENT HEADER -->
+    <div class="content-header">
+      <div class="ch-heading">
+        <div class="ch-heading-date" id="ch-heading-date">—</div>
+        <div class="ch-heading-name" id="ch-heading-name">—</div>
+      </div>
+      <div class="header-meta">
+        <div class="cache-label"><div class="cache-dot"></div><span id="cache-info">Loading…</span></div>
+      </div>
+    </div>
+
+    <!-- STATS -->
+    <div class="stats" id="stats">
+      <div class="stat"><div class="stat-n">—</div><div class="stat-l">Shows</div></div>
+      <div class="stat"><div class="stat-n">—</div><div class="stat-l">Hours</div></div>
+      <div class="stat"><div class="stat-n">—</div><div class="stat-l">Live Now</div></div>
+      <div class="stat"><div class="stat-n">—</div><div class="stat-l">Upcoming</div></div>
+    </div>
+
+    <!-- 4K NOTICE -->
+    <div class="fouk-notice" id="fouk-notice">
+      <span class="fouk-label">✦ 4K Channel</span>
+      <span class="fouk-sub">— Only scheduled 4K events are shown. Gaps between events are normal.</span>
+    </div>
+
+    <!-- FILTER -->
+    <div class="filter-bar" id="filter-bar">
+      <span class="filter-label">Show</span>
+      <!-- HD filters -->
+      <button class="fbtn hd-only active" onclick="setFilter('all',this)">All</button>
+      <button class="fbtn" onclick="setFilter('live',this)">Live</button>
+      <button class="fbtn" onclick="setFilter('upcoming',this)">Upcoming</button>
+      <button class="fbtn" onclick="setFilter('past',this)">Past</button>
+      <div class="filter-sep"></div>
+      <button class="tool-btn" onclick="exportText()">📋 Copy</button>
+      <button class="tool-btn" onclick="exportTextWithImages()">🖼 Copy+Img</button>
+      <button class="tool-btn" onclick="exportSchedule()">📄 Export</button>
+    </div>
+
+    <!-- GUIDE -->
+    <div class="guide" id="guide-container">
+      <div class="loading"><div class="loader"></div><div class="loading-text">Loading schedule…</div></div>
+    </div>
+
+  </main>
+</div>
+
+<footer>
+  <span>Kayo TV Guide · HD + 4K · Manual refresh · 21 days history</span>
+  <span id="footer-info" style="font-family:var(--mono);font-size:10px">—</span>
+</footer>
+
+<div class="toast" id="toast"></div>
+
+<div class="tz-modal-backdrop" id="tz-modal-backdrop" onclick="closeTZPicker()">
+  <div class="tz-modal" onclick="event.stopPropagation()">
+    <div class="tz-modal-header">
+      <span>Choose timezone</span>
+      <button class="tz-modal-close" onclick="closeTZPicker()">×</button>
+    </div>
+    <input class="tz-search" id="tz-search" type="text" placeholder="Search timezone…" oninput="renderTZList(this.value)">
+    <div class="tz-list" id="tz-list"></div>
+  </div>
+</div>
+
+<div class="tz-modal-backdrop" id="onnow-backdrop" onclick="closeOnNow()">
+  <div class="tz-modal" onclick="event.stopPropagation()" style="max-width:480px">
+    <div class="tz-modal-header">
+      <span>▶ Live Now across all channels</span>
+      <button class="tz-modal-close" onclick="closeOnNow()">×</button>
+    </div>
+    <div class="tz-list" id="onnow-list"></div>
+  </div>
+</div>
+
+<script>
+/* Data source - the only thing tying this page to a specific repository.
+   Everything else in the frontend is repo-agnostic. */
+const REPO_RAW = 'https://raw.githubusercontent.com/Jinx8004NEW/KayoEPG/main';
+
+const CHANNELS = {
+  FSN:  { name:'Fox Sports News HD',  number:'500',  is4k:false },
+  FS1:  { name:'Fox Cricket HD',      number:'501',  is4k:false },
+  SP2:  { name:'Fox League HD',       number:'502',  is4k:false },
+  FS3:  { name:'Fox Sports 503 HD',   number:'503',  is4k:false },
+  FAF:  { name:'Fox Footy HD',        number:'504',  is4k:false },
+  FSP:  { name:'Fox Sports 505 HD',   number:'505',  is4k:false },
+  SPS:  { name:'Fox Sports 506 HD',   number:'506',  is4k:false },
+  FSS:  { name:'Fox Sports 507 HD',   number:'507',  is4k:false },
+  ESP:  { name:'ESPN HD',             number:'508',  is4k:false },
+  ES2:  { name:'ESPN2 HD',            number:'509',  is4k:false },
+  RTV:  { name:'Racing.com HD',       number:'529',  is4k:false },
+  UFC:  { name:'Main Event UFC',      number:'523',  is4k:false },
+  '4KL':  { name:'Fox League 4K',    number:'CH 13', is4k:true, sport:'NRL & NRL Women' },
+  '4KF1': { name:'Fox Motorsport 4K', number:'CH 14', is4k:true, sport:'F1, V8 Supercars, MotoGP' },
+  '4KF':  { name:'Fox Footy 4K',     number:'CH 15', is4k:true, sport:'AFL' },
+  '4KF2': { name:'Fox Footy 2 4K',   number:'CH 16', is4k:true, sport:'AFL overflow' },
+  '4KN':  { name:'Fox Netball 4K',   number:'CH 17', is4k:true, sport:'Suncorp Super Netball' },
+};
+const ALL_TAGS = Object.keys(CHANNELS);
+
+/* View state. loadedData is keyed TAG_DATE (or TAG_ALL for 4K); localDatePills holds
+   the file dates translated into the viewer's timezone. */
+let currentChannel = 'FSN', currentFilter = 'all', currentDate = '';
+let searchQuery = '', scrollToLiveOnLoad = false;
+let availableDates = {}, loadedData = {}, loadedFiles = {}, localDatePills = {};
+ALL_TAGS.forEach(t => { availableDates[t] = []; localDatePills[t] = []; });
+
+/* ── THEME ── */
+function toggleTheme() {
+  const d = document.documentElement;
+  const next = d.getAttribute('data-theme') === 'dark' ? 'light' : 'dark';
+  d.setAttribute('data-theme', next);
+  localStorage.setItem('theme', next);
+  document.getElementById('theme-ico').textContent = next === 'dark' ? '🌙' : '☀';
+  document.getElementById('theme-lbl').textContent = next === 'dark' ? 'Dark' : 'Light';
+}
+(function initTheme() {
+  const s = localStorage.getItem('theme') || 'dark';
+  document.documentElement.setAttribute('data-theme', s);
+  document.getElementById('theme-ico').textContent = s === 'dark' ? '🌙' : '☀';
+  document.getElementById('theme-lbl').textContent = s === 'dark' ? 'Dark' : 'Light';
+})();
+
+/* ── TIMEZONE ── */
+function getUserTZ() {
+  return localStorage.getItem('tzOverride') || Intl.DateTimeFormat().resolvedOptions().timeZone || 'UTC';
+}
+let USER_TZ = getUserTZ();
+function setUserTZ(tz) {
+  if (tz) localStorage.setItem('tzOverride',tz);
+  else localStorage.removeItem('tzOverride');
+  USER_TZ = getUserTZ();
+  updateClock();
+  updateTZLabel();
+  loadedData={}; loadedFiles={};
+  const today=todayIST();
+  ALL_TAGS.forEach(t=>{ localDatePills[t]=computeLocalDatePills(availableDates[t]); });
+  if (is4K(currentChannel)) {
+    load4KAll(currentChannel, true);
+  } else {
+    const pills=localDatePills[currentChannel];
+    currentDate=pills.includes(today)?today:(pills[0]||currentDate);
+    renderDatePicker();
+    if (currentDate) loadSchedule(currentChannel,currentDate,true);
+  }
+}
+function updateTZLabel() {
+  const el=document.getElementById('tz-label');
+  if (!el) return;
+  const isOverride=!!localStorage.getItem('tzOverride');
+  const short=new Intl.DateTimeFormat('en-US',{timeZone:USER_TZ,timeZoneName:'short'}).formatToParts(new Date()).find(p=>p.type==='timeZoneName')?.value||USER_TZ;
+  el.textContent=short+(isOverride?' ✦':'');
+  el.title=isOverride?`Manual: ${USER_TZ} (click to change)`:`Auto-detected: ${USER_TZ} (click to override)`;
+}
+
+/* ── CLOCK ── */
+function updateClock() {
+  document.getElementById('ist-clock').textContent =
+    new Date().toLocaleString(undefined,{timeZone:USER_TZ,hour:'2-digit',minute:'2-digit',second:'2-digit',hour12:false});
+}
+setInterval(updateClock,1000); updateClock();
+
+/* ── TIME HELPERS ── */
+function toIST(ms) {
+  return new Date(ms).toLocaleString(undefined,{timeZone:USER_TZ,hour:'2-digit',minute:'2-digit',hour12:false});
+}
+function todayIST() { return new Date().toLocaleDateString('en-CA',{timeZone:USER_TZ}); }
+function toFullLocal(ms) {
+  return new Date(ms).toLocaleString(undefined,{timeZone:USER_TZ,weekday:'short',day:'numeric',month:'short',year:'numeric',hour:'2-digit',minute:'2-digit',hour12:true});
+}
+function formatDateLabel(dateStr) {
+  const d = new Date(dateStr+'T00:00:00Z');
+  return d.toLocaleDateString(undefined,{timeZone:'UTC',day:'numeric',month:'short'}).toUpperCase();
+}
+/* local calendar-day boundaries (ms, [start,end)) for a YYYY-MM-DD date in USER_TZ */
+function localDayRange(dateStr) {
+  const [y,m,day] = dateStr.split('-').map(Number);
+  let guess = Date.UTC(y,m-1,day,12,0,0);
+  const fmt = new Intl.DateTimeFormat('en-CA',{timeZone:USER_TZ,year:'numeric',month:'2-digit',day:'2-digit',hour:'2-digit',minute:'2-digit',second:'2-digit',hour12:false});
+  for (let i=0;i<3;i++) {
+    const parts = fmt.formatToParts(new Date(guess));
+    const map = {};
+    parts.forEach(p=>map[p.type]=p.value);
+    const localMidnight = Date.UTC(+map.year,+map.month-1,+map.day,+map.hour,+map.minute,+map.second);
+    const target = Date.UTC(y,m-1,day,12,0,0);
+    const diff = target - localMidnight;
+    if (diff===0) break;
+    guess += diff;
+  }
+  const start = guess - 12*60*60*1000;
+  const end = start + 24*60*60*1000;
+  return [start,end];
+}
+/* map a timestamp to its YYYY-MM-DD calendar date in USER_TZ */
+function localDateKey(ms) {
+  return new Date(ms).toLocaleDateString('en-CA',{timeZone:USER_TZ});
+}
+function shiftDateStr(dateStr,deltaDays) {
+  const d = new Date(dateStr+'T00:00:00Z');
+  d.setUTCDate(d.getUTCDate()+deltaDays);
+  return d.toISOString().slice(0,10);
+}
+/* derive selectable local-calendar-day pills from AUS-bucketed file labels:
+   each file label can spill into the local day before/after, so include neighbours */
+/* File dates are IST buckets, the pills are local days - a local day can be covered
+   by two files, so the two lists aren't interchangeable. */
+function computeLocalDatePills(fileLabels) {
+  const set = new Set();
+  fileLabels.forEach(label=>{
+    set.add(shiftDateStr(label,-1));
+    set.add(label);
+    set.add(shiftDateStr(label,1));
+  });
+  return [...set].sort().reverse();
+}
+function minsUntil(ms) { return Math.max(0,Math.round((ms-Date.now())/60000)); }
+function minsLeft(s,d) { return Math.max(0,Math.round((s+d*60000-Date.now())/60000)); }
+function fmtCountdown(m) {
+  if (m<=0) return 'ending';
+  if (m<60) return m+'m left';
+  return Math.floor(m/60)+'h '+m%60+'m left';
+}
+
+/* ── TOAST ── */
+function showToast(msg) {
+  const el=document.getElementById('toast');
+  el.textContent=msg; el.classList.add('show');
+  setTimeout(()=>el.classList.remove('show'),2500);
+}
+
+/* ── 4K ── */
+function is4K(tag) { return CHANNELS[tag]?.is4k===true; }
+
+/* ── UPDATE CHANNEL UI ── */
+function updateChannelUI(tag) {
+  const ch = CHANNELS[tag];
+  const i4k = is4K(tag);
+  document.getElementById('fouk-notice').classList.toggle('show', i4k);
+  document.getElementById('filter-bar').classList.toggle('is4k-channel', i4k);
+  const hname = document.getElementById('ch-heading-name');
+  hname.innerHTML = (ch.number+' · '+ch.name) + (i4k?'<span class="badge-4k-inline">4K</span>':'');
+}
+
+/* ── ON AIR ── */
+function updateOnAir(events) {
+  const now = Date.now();
+  const bar = document.getElementById('onair-bar');
+  // for 4K channels currentDate is '' — use actual timestamps to determine live
+  const isToday = is4K(currentChannel) ? true : currentDate===todayIST();
+  if (!isToday) { bar.classList.remove('show'); return; }
+  const live = events.find(e=>now>=e.scheduledDate&&now<e.scheduledDate+e.duration*60000);
+  if (!live) { bar.classList.remove('show'); return; }
+  bar.classList.add('show');
+  document.getElementById('onair-title').textContent = live.programTitle;
+  document.getElementById('onair-timer').textContent = fmtCountdown(minsLeft(live.scheduledDate,live.duration));
+  const nx = events[events.indexOf(live)+1];
+  document.getElementById('onair-next').textContent = nx ? 'Next: '+nx.programTitle+' at '+toIST(nx.scheduledDate) : '';
+}
+
+/* ── PROGRESS ── */
+function updateProgressBars() {
+  const now=Date.now();
+  document.querySelectorAll('.ev-progress-fill').forEach(el=>{
+    const s=+el.dataset.start,e=+el.dataset.end;
+    el.style.width=Math.min(100,Math.max(0,((now-s)/(e-s))*100))+'%';
+  });
+  document.querySelectorAll('.ev-eta[data-end]').forEach(el=>{
+    const end=+el.dataset.end,start=+el.dataset.start;
+    if (el.dataset.islive==='1') el.textContent=fmtCountdown(Math.round((end-now)/60000));
+    else {
+      const m=minsUntil(start);
+      el.textContent=m<=0?'starting now':'in '+(m<60?m+'m':Math.floor(m/60)+'h '+m%60+'m');
+    }
+  });
+}
+setInterval(updateProgressBars,10000);
+
+/* ── LIVE BADGES ── */
+function updateLiveBadges(tag,events) {
+  const now=Date.now();
+  const has=events.some(e=>now>=e.scheduledDate&&now<e.scheduledDate+e.duration*60000);
+  const b=document.getElementById('badge-'+tag);
+  if (b) b.classList.toggle('show',has);
+}
+
+/* ── SHARE / CALENDAR ── */
+function shareEvent(title,time,ch,imgUrl) {
+  const text=`📺 ${title}\n🕐 ${time} on ${CHANNELS[ch].name}\n🖼 ${imgUrl}`;
+  if (navigator.share) navigator.share({title,text,url:window.location.href}).catch(()=>{});
+  else { navigator.clipboard?.writeText(text).then(()=>showToast('✓ Copied')); }
+}
+
+/* ── DOWNLOAD IMAGE ── */
+function sanitizeFilename(name) {
+  return (name||'event').replace(/[\\/:*?"<>|]+/g,'').replace(/\s+/g,'_').slice(0,80) || 'event';
+}
+async function downloadImage(url,title,evt) {
+  if (evt) evt.stopPropagation();
+  if (!url) { showToast('No image available'); return; }
+  try {
+    const res=await fetch(url);
+    if (!res.ok) throw new Error('HTTP '+res.status);
+    const blob=await res.blob();
+    let ext='png';
+    const m=/\.(\w+)(?:\?|$)/.exec(url);
+    if (m) ext=m[1];
+    else if (blob.type) { const t=blob.type.split('/')[1]; if (t) ext=t; }
+    const a=document.createElement('a');
+    a.href=URL.createObjectURL(blob);
+    a.download=`${sanitizeFilename(title)}.${ext}`;
+    document.body.appendChild(a); a.click(); a.remove();
+    setTimeout(()=>URL.revokeObjectURL(a.href),1000);
+    showToast('✓ Image downloaded');
+  } catch(e) {
+    window.open(url,'_blank');
+    showToast('Opened image in new tab');
+  }
+}
+function addToCalendar(evJson) {
+  const ev=JSON.parse(evJson);
+  const s=new Date(ev.scheduledDate),e=new Date(ev.scheduledDate+ev.duration*60000);
+  const f=d=>d.toISOString().replace(/[-:]/g,'').split('.')[0]+'Z';
+  window.open(`https://calendar.google.com/calendar/render?action=TEMPLATE&text=${encodeURIComponent(ev.programTitle)}&dates=${f(s)}/${f(e)}&details=${encodeURIComponent((ev.episodeTitle||'')+' on '+CHANNELS[currentChannel].name)}`,'_blank');
+}
+
+/* ── EXPORT ── */
+function buildText(imgs=false) {
+  const i4k=is4K(currentChannel);
+  const k=i4k?(currentChannel+'_ALL'):(currentChannel+'_'+currentDate);
+  const d=loadedData[k]; if(!d) return '';
+  const ch=CHANNELS[currentChannel];
+  const label=i4k?`All events (${currentFilter})`:`${d.date}`;
+  const now=Date.now();
+  // for 4K apply the same filter as currently shown
+  let events=d.events||[];
+  if(i4k){
+    if(currentFilter==='live') events=events.filter(e=>now>=e.scheduledDate&&now<e.scheduledDate+e.duration*60000);
+    else if(currentFilter==='upcoming') events=events.filter(e=>e.scheduledDate>now).sort((a,b)=>a.scheduledDate-b.scheduledDate);
+    else events=events.filter(e=>now>=e.scheduledDate+e.duration*60000).sort((a,b)=>b.scheduledDate-a.scheduledDate);
+  }
+  return [`📺 ${ch.name} (${ch.number})${ch.is4k?' ✦ 4K':''}  —  ${label}`,
+    '─'.repeat(44),
+    ...events.map(ev=>{
+      const s=toIST(ev.scheduledDate),e=toIST(ev.scheduledDate+ev.duration*60000);
+      const l=`${s}–${e}  ${ev.programTitle}`;
+      return imgs?`${l}\n   🖼 ${ev.imageUrl}`:l;
+    }),
+    '─'.repeat(44),`Fetched: ${d.fetchedAtIST}`].join('\n');
+}
+function exportText() { const t=buildText(false); if(!t){showToast('No data');return;} navigator.clipboard?.writeText(t).then(()=>showToast('✓ Copied')); }
+function exportTextWithImages() { const t=buildText(true); if(!t){showToast('No data');return;} navigator.clipboard?.writeText(t).then(()=>showToast('✓ Copied with images')); }
+function exportSchedule() {
+  const t=buildText(true); if(!t){showToast('No data');return;}
+  const a=document.createElement('a');
+  a.href=URL.createObjectURL(new Blob([t],{type:'text/plain'}));
+  const fname=is4K(currentChannel)?`${currentChannel}_${currentFilter}.txt`:`${currentChannel}_${currentDate}.txt`;
+  a.download=fname; a.click();
+  showToast('✓ Exported');
+}
+
+/* ── SEARCH ── */
+function onSearch(v) {
+  searchQuery=v.trim().toLowerCase();
+  document.getElementById('search-clear').style.display=searchQuery?'block':'none';
+  if (is4K(currentChannel)) {
+    const cacheKey=currentChannel+'_ALL';
+    if (loadedData[cacheKey]) render4K(loadedData[cacheKey]);
+  } else {
+    const k=currentChannel+'_'+currentDate;
+    if (loadedData[k]) render(loadedData[k]);
+  }
+}
+function clearSearch() { document.getElementById('search-input').value=''; onSearch(''); }
+function highlight(text,q) {
+  if (!q) return text;
+  return text.replace(new RegExp(`(${q.replace(/[.*+?^${}()|[\]\\]/g,'\\$&')})`, 'gi'), '<mark class="hl">$1</mark>');
+}
+
+/* ── MOBILE SIDEBAR DRAWER ── */
+function toggleSidebar() {
+  document.getElementById('sidebar').classList.toggle('open');
+  document.getElementById('sidebar-backdrop').classList.toggle('open');
+  dismissMenuPulse();
+}
+function closeSidebar() {
+  document.getElementById('sidebar').classList.remove('open');
+  document.getElementById('sidebar-backdrop').classList.remove('open');
+}
+function dismissMenuPulse() {
+  const p=document.getElementById('menu-pulse');
+  if (p) p.classList.add('hide');
+  localStorage.setItem('menuHintSeen','1');
+}
+if (localStorage.getItem('menuHintSeen')) {
+  document.addEventListener('DOMContentLoaded',()=>{
+    const p=document.getElementById('menu-pulse');
+    if (p) p.classList.add('hide');
+  });
+}
+
+/* ── TIMEZONE PICKER ── */
+const TZ_LIST = [
+  'Pacific/Auckland','Australia/Sydney','Australia/Melbourne','Australia/Brisbane','Australia/Adelaide',
+  'Australia/Perth','Asia/Tokyo','Asia/Seoul','Asia/Shanghai','Asia/Singapore','Asia/Hong_Kong',
+  'Asia/Kolkata','Asia/Karachi','Asia/Dubai','Asia/Bangkok','Asia/Jakarta','Europe/London',
+  'Europe/Paris','Europe/Berlin','Europe/Moscow','Africa/Cairo','Africa/Johannesburg',
+  'America/New_York','America/Chicago','America/Denver','America/Los_Angeles','America/Sao_Paulo',
+  'America/Mexico_City','Pacific/Honolulu','UTC'
+];
+function tzOffsetLabel(tz) {
+  try {
+    return new Intl.DateTimeFormat('en-US',{timeZone:tz,timeZoneName:'shortOffset'}).formatToParts(new Date()).find(p=>p.type==='timeZoneName')?.value||'';
+  } catch(e) { return ''; }
+}
+function openTZPicker() {
+  document.getElementById('tz-modal-backdrop').classList.add('show');
+  document.getElementById('tz-search').value='';
+  renderTZList('');
+  setTimeout(()=>document.getElementById('tz-search').focus(),50);
+}
+function closeTZPicker() {
+  document.getElementById('tz-modal-backdrop').classList.remove('show');
+}
+function renderTZList(query) {
+  const q=(query||'').trim().toLowerCase();
+  const list=document.getElementById('tz-list');
+  const isOverride=!!localStorage.getItem('tzOverride');
+  const browserTZ=Intl.DateTimeFormat().resolvedOptions().timeZone||'UTC';
+  let html=`<div class="tz-opt tz-auto-opt${!isOverride?' active':''}" onclick="selectTZ(null)">
+    <span>✦ Auto-detect (${browserTZ})</span>
+  </div>`;
+  const filtered=q?TZ_LIST.filter(tz=>tz.toLowerCase().replace(/_/g,' ').includes(q)):TZ_LIST;
+  if (!filtered.length) html+='<div style="padding:10px;font-size:12px;color:var(--text3)">No matches</div>';
+  filtered.forEach(tz=>{
+    const active=isOverride&&USER_TZ===tz;
+    const label=tz.split('/').pop().replace(/_/g,' ');
+    html+=`<div class="tz-opt${active?' active':''}" onclick="selectTZ('${tz}')">
+      <span>${label}</span><span class="tz-opt-offset">${tzOffsetLabel(tz)}</span>
+    </div>`;
+  });
+  list.innerHTML=html;
+}
+function selectTZ(tz) {
+  setUserTZ(tz);
+  closeTZPicker();
+  showToast(tz?`✓ Timezone set to ${tz.split('/').pop().replace(/_/g,' ')}`:'✓ Using auto-detected timezone');
+}
+
+/* ── COMPACT MODE ── */
+let isCompact = localStorage.getItem('compact') === '1';
+function applyCompact() {
+  document.body.classList.toggle('compact', isCompact);
+  document.getElementById('compact-btn').classList.toggle('on', isCompact);
+}
+function toggleCompact() {
+  isCompact = !isCompact;
+  localStorage.setItem('compact', isCompact ? '1' : '0');
+  applyCompact();
+}
+applyCompact();
+
+/* ── ON NOW (live across all channels) ── */
+async function openOnNow() {
+  const modal = document.getElementById('onnow-backdrop');
+  const list  = document.getElementById('onnow-list');
+  modal.classList.add('show');
+  list.innerHTML = '<div style="padding:16px;text-align:center;color:var(--text3);font-size:13px">Checking all channels…</div>';
+
+  const now     = Date.now();
+  const today   = todayIST();
+  const hdTags  = ALL_TAGS.filter(t => !is4K(t));
+
+  // fetch today's data for any HD channel not yet loaded
+  await Promise.allSettled(hdTags.map(async tag => {
+    const k = tag+'_'+today;
+    if (loadedData[k]) return;
+    // try to fetch — use same candidate logic as loadSchedule
+    const candidates = [shiftDateStr(today,-1), today, shiftDateStr(today,1)]
+      .filter(label => availableDates[tag].includes(label));
+    if (!candidates.length) return;
+    try {
+      const results = await Promise.allSettled(candidates.map(label => fetchFile(tag,label)));
+      const fetched = results.filter(r=>r.status==='fulfilled').map(r=>r.value);
+      if (!fetched.length) return;
+      const [dayStart,dayEnd] = localDayRange(today);
+      const seenIds=new Set(), seenTimes=new Set();
+      let events=[];
+      fetched.forEach(d=>(d.events||[]).forEach(ev=>{
+        const id=ev.eventId??(ev.programTitle+'_'+ev.scheduledDate);
+        if (seenIds.has(id)) return; seenIds.add(id);
+        if (ev.scheduledDate<dayStart||ev.scheduledDate>=dayEnd) return;
+        if (seenTimes.has(ev.scheduledDate)) return; seenTimes.add(ev.scheduledDate);
+        events.push(ev);
+      }));
+      events.sort((a,b)=>a.scheduledDate-b.scheduledDate);
+      loadedData[k] = { date:today, events, fetchedAt:Math.max(...fetched.map(d=>d.fetchedAt||0)), fetchedAtIST:fetched[0]?.fetchedAtIST };
+      updateLiveBadges(tag, events);
+    } catch {}
+  }));
+
+  // collect live events across all HD channels
+  const seen = new Set();
+  const live = [];
+  for (const tag of hdTags) {
+    const k = tag+'_'+today;
+    const d = loadedData[k];
+    if (!d) continue;
+    for (const ev of (d.events||[])) {
+      const end = ev.scheduledDate + ev.duration*60000;
+      if (now >= ev.scheduledDate && now < end && !seen.has(tag)) {
+        seen.add(tag);
+        live.push({ tag, ev, minsLeft: Math.round((end-now)/60000) });
+      }
+    }
+  }
+
+  if (!live.length) {
+    list.innerHTML = '<div style="padding:20px;text-align:center;color:var(--text3);font-size:13px">Nothing live right now across all channels.</div>';
+  } else {
+    list.innerHTML = live.map(({tag, ev, minsLeft}) => {
+      const ch = CHANNELS[tag];
+      return `<div class="onnow-item" onclick="scrollToLiveOnLoad=true;switchChannel('${tag}');closeOnNow()">
+        <div class="onnow-pip"></div>
+        <span class="onnow-ch">${ch.number}</span>
+        <span class="onnow-title">${ev.programTitle}</span>
+        <span class="onnow-timer">${minsLeft}m left</span>
+      </div>`;
+    }).join('');
+  }
+}
+function closeOnNow() {
+  document.getElementById('onnow-backdrop').classList.remove('show');
+}
+
+/* ── DEEP-LINK URL ── */
+function pushURL() {
+  if (!history.replaceState) return;
+  const params = new URLSearchParams();
+  params.set('ch', currentChannel);
+  if (!is4K(currentChannel) && currentDate) params.set('date', currentDate);
+  history.replaceState(null, '', '?' + params.toString());
+}
+function readURL() {
+  const params = new URLSearchParams(location.search);
+  const ch = params.get('ch');
+  const date = params.get('date');
+  if (ch && ALL_TAGS.includes(ch)) {
+    currentChannel = ch;
+    if (date && !is4K(ch)) currentDate = date;
+  }
+}
+
+/* ── PERSIST LAST CHANNEL ── */
+function saveLastChannel(tag) { localStorage.setItem('lastChannel', tag); }
+function loadLastChannel() { return localStorage.getItem('lastChannel') || 'FSN'; }
+
+/* ── KEYBOARD ── */
+document.addEventListener('keydown',e=>{
+  if (e.target.tagName==='INPUT') return;
+  if (e.key==='/') { e.preventDefault(); document.getElementById('search-input').focus(); }
+  if (e.key==='l'||e.key==='L') {
+    const el=document.querySelector('.event-card.is-live');
+    if (el) el.scrollIntoView({behavior:'smooth',block:'center'});
+    else showToast('No live show right now');
+  }
+  if (e.key==='c'||e.key==='C') toggleCompact();
+  if (e.key==='n'||e.key==='N') openOnNow();
+  // ← → date navigation (HD channels only)
+  if (!is4K(currentChannel) && (e.key==='ArrowLeft'||e.key==='ArrowRight')) {
+    e.preventDefault();
+    const pills = localDatePills[currentChannel];
+    const idx   = pills.indexOf(currentDate);
+    if (idx === -1) return;
+    const next  = e.key==='ArrowRight' ? idx-1 : idx+1; // pills sorted newest→oldest
+    if (next >= 0 && next < pills.length) selectDate(pills[next]);
+  }
+  if (e.key==='Escape') { clearSearch(); document.getElementById('search-input').blur(); closeSidebar(); closeTZPicker(); closeOnNow(); }
+});
+
+/* ── FETCH INDEX ── */
+async function fetchIndex() {
+  // restore channel from URL (?ch=FS1&date=2026-08-06) or localStorage
+  readURL();
+  if (currentChannel === 'FSN') currentChannel = loadLastChannel();
+
+  const res=await fetch(`${REPO_RAW}/data/index.json?_=${Date.now()}`);
+  const data=await res.json();
+  ALL_TAGS.forEach(t=>{
+    availableDates[t]=data[t]||[];
+    localDatePills[t]=computeLocalDatePills(availableDates[t]);
+  });
+
+  // highlight active channel in sidebar
+  document.querySelectorAll('.ch-item').forEach(el=>el.classList.remove('active','active-4k'));
+  const sideEl=document.getElementById('tab-'+currentChannel);
+  if (sideEl) sideEl.classList.add(is4K(currentChannel)?'active-4k':'active');
+
+  updateChannelUI(currentChannel);
+  const i4k = is4K(currentChannel);
+  document.getElementById('date-row').classList.toggle('hidden-4k', i4k);
+  if (i4k) {
+    await load4KAll(currentChannel);
+  } else {
+    const today=todayIST(), pills=localDatePills[currentChannel];
+    if (!currentDate || !pills.includes(currentDate))
+      currentDate=pills.includes(today)?today:(pills[0]||'');
+    renderDatePicker();
+    if (currentDate) await loadSchedule(currentChannel,currentDate);
+  }
+  pushURL();
+}
+
+/* ── DATE PICKER ── */
+function renderDatePicker() {
+  const bar=document.getElementById('date-row');
+  const dates=localDatePills[currentChannel], today=todayIST();
+  if (!dates.length) { bar.innerHTML='<span style="font-size:11px;color:var(--text3)">No data yet</span>'; return; }
+  bar.innerHTML=dates.map(d=>
+    `<button class="date-pill${d===currentDate?' active':''}${d===today?' today':''}" onclick="selectDate('${d}')">${formatDateLabel(d)}${d===today?' · Today':''}</button>`
+  ).join('');
+}
+async function selectDate(d) { currentDate=d; renderDatePicker(); await loadSchedule(currentChannel,d); pushURL(); }
+
+/* ── CHANNEL SWITCH ── */
+/* ── 4K: LOAD ALL DATES INTO ONE MERGED LIST ── */
+/* 4K channels load their whole available range at once rather than one day at a time.
+   With a fixture or two a fortnight, date paging would show empty screens most days. */
+async function load4KAll(tag, force=false) {
+  const cacheKey = tag+'_ALL';
+  if (!force && loadedData[cacheKey]) { render4K(loadedData[cacheKey]); return; }
+
+  const dates = availableDates[tag];
+  if (!dates.length) {
+    document.getElementById('guide-container').innerHTML=
+      `<div class="no-4k-state"><div class="no-4k-icon">✦</div><div class="no-4k-title">No 4K Events Yet</div><div class="no-4k-sub">This 4K channel only broadcasts selected events. Check back when ${CHANNELS[tag].sport} season is active.</div></div>`;
+    return;
+  }
+
+  document.getElementById('guide-container').innerHTML=
+    `<div class="loading"><div class="loader loader-4k"></div><div class="loading-text">Loading all ${CHANNELS[tag].name} events…</div></div>`;
+
+  try {
+    const results = await Promise.allSettled(dates.map(label => fetchFile(tag, label, force)));
+    const fetched = results.filter(r => r.status==='fulfilled').map(r => r.value);
+    if (!fetched.length) throw new Error('All fetches failed');
+
+    const seenIds   = new Set();
+    const seenTimes = new Set();
+    let events = [];
+    fetched.forEach(d => (d.events||[]).forEach(ev => {
+      const id = ev.eventId ?? (ev.programTitle+'_'+ev.scheduledDate);
+      if (seenIds.has(id)) return;
+      seenIds.add(id);
+      if (seenTimes.has(ev.scheduledDate)) return;
+      seenTimes.add(ev.scheduledDate);
+      events.push(ev);
+    }));
+    events.sort((a,b) => a.scheduledDate - b.scheduledDate);
+
+    const fetchedAt = Math.max(...fetched.map(d => d.fetchedAt||0));
+    const data = { date: 'ALL', channel: tag, events, fetchedAt, fetchedAtIST: fetched[0]?.fetchedAtIST };
+    loadedData[cacheKey] = data;
+    updateLiveBadges(tag, events);
+    render4K(data, true);  // true = auto-resolve best filter (Live→Upcoming→Past)
+  } catch(e) {
+    document.getElementById('guide-container').innerHTML=
+      `<div class="no-4k-state"><div class="no-4k-icon">📅</div><div class="no-4k-title">Could Not Load Events</div><div class="no-4k-sub">${e.message}</div></div>`;
+  }
+}
+
+/* ── 4K RENDER — filters across ALL dates ── */
+function render4K(data, autoResolve=false) {
+  const events = data.events || [];
+  const now = Date.now();
+
+  // update ON AIR bar for 4K channel
+  updateOnAir(events);
+
+  // auto-select best filter: Live → Upcoming → Past
+  if (autoResolve) {
+    const hasLive     = events.some(e => now>=e.scheduledDate && now<e.scheduledDate+e.duration*60000);
+    const hasUpcoming = events.some(e => e.scheduledDate > now);
+    const best = hasLive ? 'live' : hasUpcoming ? 'upcoming' : 'past';
+    setFilterByName(best);
+  }
+
+  // update cache label
+  const ago = Math.round((Date.now() - data.fetchedAt) / 60000);
+  document.getElementById('cache-info').textContent =
+    `All events · fetched ${ago<60 ? ago+'m ago' : Math.round(ago/60)+'h ago'}`;
+
+  // heading
+  document.getElementById('ch-heading-date').textContent = 'All scheduled events';
+
+  // stats
+  const liveEvs     = events.filter(e => now>=e.scheduledDate && now<e.scheduledDate+e.duration*60000);
+  const upcomingEvs = events.filter(e => e.scheduledDate > now);
+  const hours       = Math.round(events.reduce((s,e) => s+e.duration, 0) / 60);
+  document.getElementById('stats').innerHTML=`
+    <div class="stat"><div class="stat-n">${events.length}</div><div class="stat-l">4K Events</div></div>
+    <div class="stat"><div class="stat-n">${hours}</div><div class="stat-l">Hours</div></div>
+    <div class="stat"><div class="stat-n">${liveEvs.length||'—'}</div><div class="stat-l">Live Now</div></div>
+    <div class="stat"><div class="stat-n">${upcomingEvs.length||'—'}</div><div class="stat-l">Upcoming</div></div>
+  `;
+
+  // filter events
+  let filtered;
+  if (currentFilter === 'live')
+    filtered = events.filter(e => now>=e.scheduledDate && now<e.scheduledDate+e.duration*60000);
+  else if (currentFilter === 'upcoming')
+    filtered = events.filter(e => e.scheduledDate > now).sort((a,b) => a.scheduledDate-b.scheduledDate);
+  else // past
+    filtered = events.filter(e => now >= e.scheduledDate+e.duration*60000).sort((a,b) => b.scheduledDate-a.scheduledDate);
+
+  if (searchQuery)
+    filtered = filtered.filter(e =>
+      (e.programTitle||'').toLowerCase().includes(searchQuery)||
+      (e.episodeTitle||'').toLowerCase().includes(searchQuery)||
+      (e.competitionTitle||'').toLowerCase().includes(searchQuery)
+    );
+
+  const container = document.getElementById('guide-container');
+  container.innerHTML = '';
+
+  if (!filtered.length) {
+    container.innerHTML = `<div class="empty-state"><div class="empty-title">No ${currentFilter==='live'?'Live':currentFilter==='upcoming'?'Upcoming':'Past'} Events</div><div class="empty-sub">${currentFilter==='live'?'No 4K events are currently airing.':currentFilter==='upcoming'?'No upcoming 4K events scheduled.':'No past 4K events available.'}</div></div>`;
+    return;
+  }
+
+  filtered.forEach((ev, idx) => {
+    const endTs   = ev.scheduledDate + ev.duration*60000;
+    const isLive  = now>=ev.scheduledDate && now<endTs;
+    const isPast  = now>=endTs;
+    const isUpc   = ev.scheduledDate>now;
+    const pct     = isLive ? Math.min(100,((now-ev.scheduledDate)/(endTs-ev.scheduledDate))*100) : 0;
+    const minsRemain  = minsLeft(ev.scheduledDate, ev.duration);
+    const minsToStart = minsUntil(ev.scheduledDate);
+
+    const stateClass  = isLive?'is-live':isPast?'is-past':'is-upcoming';
+    const dotClass    = isPast?'dot-past':isLive?'dot-live':'dot-up';
+    const stClass     = isPast?'st-past':isLive?'st-live':'st-up';
+    const statusLabel = isPast?'Aired':isLive?'Live':'Upcoming';
+
+    let etaHtml = '';
+    if (isLive)
+      etaHtml = `<div class="ev-eta" data-end="${endTs}" data-start="${ev.scheduledDate}" data-islive="1">${fmtCountdown(minsRemain)}</div>`;
+    else if (isUpc && minsToStart<=120)
+      etaHtml = `<div class="ev-eta" data-start="${ev.scheduledDate}" data-end="${endTs}" data-islive="0">in ${minsToStart<60?minsToStart+'m':Math.floor(minsToStart/60)+'h '+minsToStart%60+'m'}</div>`;
+
+    const evJson     = JSON.stringify({scheduledDate:ev.scheduledDate,duration:ev.duration,programTitle:ev.programTitle,episodeTitle:ev.episodeTitle||''}).replace(/"/g,'&quot;');
+    const competTag  = ev.competitionTitle ? `<span class="tag">${ev.competitionTitle}</span>` : '';
+    const sportTag   = (ev.sport&&ev.sport!==ev.competitionTitle) ? `<span class="tag">${ev.sport}</span>` : '';
+    const titleAttr  = (ev.programTitle||'').replace(/'/g,"\\'").replace(/"/g,'&quot;');
+    const imgUrl     = ev.imageUrl || '';
+    const imageHtml  = imgUrl
+      ?`<div class="ev-image-cell"><div class="ev-image"><img src="${imgUrl}" alt="${titleAttr}" loading="lazy" onerror="this.closest('.ev-image').classList.add('no-img'); this.remove();"><button class="ev-dl-btn" onclick='downloadImage("${imgUrl}","${titleAttr}",event)' title="Download image">⬇</button></div></div>`
+      :`<div class="ev-image-cell"><div class="ev-image no-img"></div></div>`;
+
+    const card = document.createElement('div');
+    card.className = `event-card ${stateClass} is-4k`;
+    card.style.animationDelay = (idx*0.025)+'s';
+
+    card.innerHTML = `
+      ${imageHtml}
+      <div class="ev-time">
+        <div class="ev-time-start" title="${toFullLocal(ev.scheduledDate)}">${toIST(ev.scheduledDate)}</div>
+        <div class="ev-dur">${ev.duration} min</div>
+        ${etaHtml}
+      </div>
+      <div class="ev-info">
+        <div class="ev-title">${highlight(ev.programTitle||'', searchQuery)}</div>
+        ${ev.episodeTitle?`<div class="ev-ep">${highlight(ev.episodeTitle, searchQuery)}</div>`:''}
+        <div class="ev-localtime">${toFullLocal(ev.scheduledDate)}</div>
+        <div class="ev-tags">
+          ${isLive?'<span class="tag tag-live">● Live</span>':''}
+          <span class="tag tag-4k">✦ 4K</span>
+          ${ev.premiereInd?'<span class="tag tag-premiere">Premiere</span>':''}
+          ${competTag}${sportTag}
+        </div>
+      </div>
+      <div class="ev-actions">
+        <div class="status-dot ${dotClass}"></div>
+        <span class="status-txt ${stClass}">${statusLabel}</span>
+        <button class="act-btn" onclick='shareEvent("${(ev.programTitle||'').replace(/'/g,"\\'").replace(/"/g,'\\"')}","${toIST(ev.scheduledDate)}","${currentChannel}","${ev.imageUrl||''}")' title="Share">↗</button>
+        ${!isPast?`<button class="act-btn cal-btn" onclick='addToCalendar("${evJson}")' title="Add to Calendar">📅</button>`:''}
+      </div>
+      ${isLive?`<div class="ev-progress"><div class="ev-progress-fill" data-start="${ev.scheduledDate}" data-end="${endTs}" style="width:${pct}%"></div></div>`:''}
+    `;
+    container.appendChild(card);
+  });
+
+  updateProgressBars();
+
+  // scroll to first live event
+  if (currentFilter === 'live') {
+    const lv = document.querySelector('.event-card.is-live');
+    if (lv) setTimeout(() => lv.scrollIntoView({behavior:'smooth', block:'center'}), 300);
+  }
+}
+
+/* set filter button active state without needing a DOM event */
+function setFilterByName(name) {
+  currentFilter = (name === 'smart') ? 'all' : name;
+  document.querySelectorAll('.fbtn').forEach(b => {
+    const bf = b.getAttribute('onclick')?.match(/setFilter\('(\w+)'/)?.[1];
+    b.classList.toggle('active', bf === currentFilter);
+  });
+}
+
+async function switchChannel(tag) {
+  currentChannel = tag;
+  saveLastChannel(tag);
+  document.querySelectorAll('.ch-item').forEach(el => el.classList.remove('active','active-4k'));
+  const el = document.getElementById('tab-'+tag);
+  if (el) el.classList.add(is4K(tag)?'active-4k':'active');
+  updateChannelUI(tag);
+  closeSidebar();
+
+  const i4k   = is4K(tag);
+  const today = todayIST();
+  const pills = localDatePills[tag];
+
+  // toggle date row visibility
+  document.getElementById('date-row').classList.toggle('hidden-4k', i4k);
+
+  // reset filter to sensible default
+  if (i4k) {
+    currentDate = '';
+    await load4KAll(tag);
+    pushURL();
+  } else {
+    // HD: always pick best date fresh — never carry over from another channel
+    setFilterByName('all');
+    currentDate = pills.includes(today) ? today : (pills[0] || '');
+    renderDatePicker();
+    if (currentDate) { await loadSchedule(tag, currentDate); pushURL(); }
+    else {
+      document.getElementById('guide-container').innerHTML =
+        '<div class="empty-state"><div class="empty-title">No Data</div><div class="empty-sub">No schedule available yet.</div></div>';
+    }
+  }
+}
+
+/* ── FILTER ── */
+function setFilter(f,btn) {
+  currentFilter=f;
+  document.querySelectorAll('.fbtn').forEach(b=>b.classList.remove('active'));
+  btn.classList.add('active');
+  if (is4K(currentChannel)) {
+    const cacheKey = currentChannel+'_ALL';
+    if (loadedData[cacheKey]) render4K(loadedData[cacheKey]);
+  } else {
+    const k=currentChannel+'_'+currentDate;
+    if (loadedData[k]) render(loadedData[k]);
+  }
+}
+function applyFilter(events) {
+  const now=Date.now(); let evs=events;
+  if (currentFilter==='live') evs=events.filter(e=>now>=e.scheduledDate&&now<e.scheduledDate+e.duration*60000);
+  else if (currentFilter==='upcoming') evs=events.filter(e=>e.scheduledDate>now);
+  else if (currentFilter==='past') evs=events.filter(e=>now>=e.scheduledDate+e.duration*60000);
+  if (searchQuery) evs=evs.filter(e=>
+    (e.programTitle||'').toLowerCase().includes(searchQuery)||
+    (e.episodeTitle||'').toLowerCase().includes(searchQuery)||
+    (e.competitionTitle||'').toLowerCase().includes(searchQuery)
+  );
+  return evs;
+}
+
+/* ── FETCH A SINGLE FILE (cached) ── */
+/* force appends a timestamp to bust the CDN cache; otherwise the label is a stable
+   key so repeat views hit the browser cache. */
+async function fetchFile(tag,label,force=false) {
+  const fk=tag+'_file_'+label;
+  if (!force&&loadedFiles[fk]) return loadedFiles[fk];
+  const res=await fetch(`${REPO_RAW}/data/${tag}/${label}.json?_=${force?Date.now():label}`);
+  if (!res.ok) throw new Error(`HTTP ${res.status}`);
+  const data=await res.json();
+  loadedFiles[fk]=data;
+  return data;
+}
+
+/* ── LOAD SCHEDULE (localDate = YYYY-MM-DD in USER_TZ) ── */
+async function loadSchedule(tag,localDate,force=false) {
+  const k=tag+'_'+localDate, i4k=is4K(tag);
+  if (!force&&loadedData[k]) {
+    render(loadedData[k]);
+    if (scrollToLiveOnLoad) { scrollToLiveOnLoad=false; setTimeout(()=>{ const lv=document.querySelector('.event-card.is-live'); if(lv) lv.scrollIntoView({behavior:'smooth',block:'center'}); },300); }
+    return;
+  }
+  document.getElementById('guide-container').innerHTML=
+    `<div class="loading"><div class="loader${i4k?' loader-4k':''}"></div><div class="loading-text">Loading ${tag} ${localDate}…</div></div>`;
+
+  const candidates=[shiftDateStr(localDate,-1),localDate,shiftDateStr(localDate,1)]
+    .filter(label=>availableDates[tag].includes(label));
+
+  if (!candidates.length) {
+    document.getElementById('guide-container').innerHTML=i4k
+      ?`<div class="no-4k-state"><div class="no-4k-icon">📅</div><div class="no-4k-title">No Events on ${localDate}</div><div class="no-4k-sub">4K channels only broadcast selected events. No ${CHANNELS[tag].sport} matches scheduled. Try another date.</div></div>`
+      :`<div class="empty-state"><div class="empty-title">Not Available</div><div class="empty-sub">Schedule for ${localDate} not found.</div></div>`;
+    return;
+  }
+
+  try {
+    const results=await Promise.allSettled(candidates.map(label=>fetchFile(tag,label,force)));
+    const fetched=results.filter(r=>r.status==='fulfilled').map(r=>r.value);
+    if (!fetched.length) throw new Error(results[0].reason?.message||'fetch failed');
+
+    const [dayStart,dayEnd]=localDayRange(localDate);
+    const seenIds=new Set();
+    const seenTimes=new Set();
+    let events=[];
+    fetched.forEach(d=>(d.events||[]).forEach(ev=>{
+      const id=ev.eventId??(ev.programTitle+'_'+ev.scheduledDate);
+      if (seenIds.has(id)) return;
+      seenIds.add(id);
+      if (ev.scheduledDate<dayStart||ev.scheduledDate>=dayEnd) return;
+      // upstream feed sometimes republishes the same fixture across adjacent daily
+      // files with a different eventId and slightly reworded title, but always at
+      // the identical scheduledDate on the same channel — so scheduledDate alone is
+      // the reliable duplicate signal here, not title text
+      if (seenTimes.has(ev.scheduledDate)) return;
+      seenTimes.add(ev.scheduledDate);
+      events.push(ev);
+    }));
+    events.sort((a,b)=>a.scheduledDate-b.scheduledDate);
+
+    const fetchedAt=Math.max(...fetched.map(d=>d.fetchedAt||0));
+    const data={date:localDate,events,fetchedAt,fetchedAtIST:fetched[0].fetchedAtIST};
+    loadedData[k]=data;
+    updateLiveBadges(tag,events);
+    render(data);
+    if (localDate===todayIST()||scrollToLiveOnLoad) setTimeout(()=>{
+      scrollToLiveOnLoad=false;
+      const lv=document.querySelector('.event-card.is-live');
+      if (lv) lv.scrollIntoView({behavior:'smooth',block:'center'});
+    },400);
+  } catch(e) {
+    document.getElementById('guide-container').innerHTML=i4k
+      ?`<div class="no-4k-state"><div class="no-4k-icon">📅</div><div class="no-4k-title">No Events on ${localDate}</div><div class="no-4k-sub">4K channels only broadcast selected events. No ${CHANNELS[tag].sport} matches scheduled. Try another date.</div></div>`
+      :`<div class="empty-state"><div class="empty-title">Not Available</div><div class="empty-sub">Schedule for ${localDate} not found.<br><span style="font-size:11px;color:var(--text3)">${e.message}</span></div></div>`;
+  }
+}
+
+async function refreshCurrent() {
+  const btn=document.getElementById('refresh-btn');
+  btn.classList.add('spinning'); btn.disabled=true;
+  loadedData={}; loadedFiles={}; await fetchIndex();
+  btn.classList.remove('spinning'); btn.disabled=false;
+  showToast('✓ Refreshed');
+  // re-trigger the current channel load (switchChannel already called by fetchIndex → but
+  // if user is on a 4K channel we need to force re-fetch ALL data)
+  if (is4K(currentChannel)) await load4KAll(currentChannel, true);
+}
+
+/* ── RENDER ── */
+function render(data) {
+  const events=data.events||[], now=Date.now();
+  const isToday=data.date===todayIST(), i4k=is4K(currentChannel);
+  const ago=Math.round((Date.now()-data.fetchedAt)/60000);
+
+  document.getElementById('cache-info').textContent=isToday
+    ?`Today · fetched ${ago<60?ago+'m ago':Math.round(ago/60)+'h ago'}`
+    :`Archive · ${data.date}`;
+
+  document.getElementById('ch-heading-date').textContent=
+    new Date(data.date+'T12:00:00Z').toLocaleDateString(undefined,{timeZone:'UTC',weekday:'long',day:'numeric',month:'long',year:'numeric'});
+
+  const liveEvs=events.filter(e=>now>=e.scheduledDate&&now<e.scheduledDate+e.duration*60000);
+  const upcoming=events.filter(e=>e.scheduledDate>now);
+  const hours=Math.round(events.reduce((s,e)=>s+e.duration,0)/60);
+
+  document.getElementById('stats').innerHTML=`
+    <div class="stat"><div class="stat-n">${events.length}</div><div class="stat-l">${i4k?'4K Events':'Total Shows'}</div></div>
+    <div class="stat"><div class="stat-n">${hours}</div><div class="stat-l">Hours</div></div>
+    <div class="stat"><div class="stat-n">${isToday?liveEvs.length:'—'}</div><div class="stat-l">Live Now</div></div>
+    <div class="stat"><div class="stat-n">${isToday?upcoming.length:'—'}</div><div class="stat-l">Upcoming</div></div>
+  `;
+
+  document.getElementById('footer-info').textContent=
+    ALL_TAGS.map(t=>`${t}:${localDatePills[t]?.length||0}d`).join(' · ');
+
+  updateOnAir(events);
+
+  const filtered=applyFilter(events);
+  const container=document.getElementById('guide-container');
+  container.innerHTML='';
+
+  if (!filtered.length) {
+    container.innerHTML=`<div class="empty-state"><div class="empty-title">No Results</div><div class="empty-sub">${searchQuery?'No events matching "'+searchQuery+'"':'No events match this filter.'}</div></div>`;
+    return;
+  }
+
+  filtered.forEach((ev,idx)=>{
+    const endTs=ev.scheduledDate+ev.duration*60000;
+    const isLive=now>=ev.scheduledDate&&now<endTs;
+    const isPast=now>=endTs;
+    const isUpc=ev.scheduledDate>now;
+    const pct=isLive?Math.min(100,((now-ev.scheduledDate)/(endTs-ev.scheduledDate))*100):0;
+    const minsToStart=minsUntil(ev.scheduledDate);
+    const minsRemain=minsLeft(ev.scheduledDate,ev.duration);
+
+    let stateClass=isLive?'is-live':isPast?'is-past':isUpc?'is-upcoming':'';
+    let dotClass=isPast?'dot-past':isLive?'dot-live':'dot-up';
+    let stClass=isPast?'st-past':isLive?'st-live':'st-up';
+    let statusLabel=isPast?'Aired':isLive?'Live':'Upcoming';
+
+    let etaHtml='';
+    if (isLive)
+      etaHtml=`<div class="ev-eta" data-end="${endTs}" data-start="${ev.scheduledDate}" data-islive="1">${fmtCountdown(minsRemain)}</div>`;
+    else if (isUpc&&isToday&&minsToStart<=120)
+      etaHtml=`<div class="ev-eta" data-start="${ev.scheduledDate}" data-end="${endTs}" data-islive="0">in ${minsToStart<60?minsToStart+'m':Math.floor(minsToStart/60)+'h '+minsToStart%60+'m'}</div>`;
+
+    const evJson=JSON.stringify({scheduledDate:ev.scheduledDate,duration:ev.duration,programTitle:ev.programTitle,episodeTitle:ev.episodeTitle||''}).replace(/"/g,'&quot;');
+    const competTag=ev.competitionTitle?`<span class="tag">${ev.competitionTitle}</span>`:'';
+    const sportTag=(ev.sport&&ev.sport!==ev.competitionTitle)?`<span class="tag">${ev.sport}</span>`:'';
+    const titleAttr=(ev.programTitle||'').replace(/'/g,"\\'").replace(/"/g,'&quot;');
+    const imgUrl=ev.imageUrl||'';
+    const imageHtml=imgUrl
+      ?`<div class="ev-image-cell">
+          <div class="ev-image">
+            <img src="${imgUrl}" alt="${titleAttr}" loading="lazy" onerror="this.closest('.ev-image').classList.add('no-img'); this.remove();">
+            <button class="ev-dl-btn" onclick='downloadImage("${imgUrl}","${titleAttr}",event)' title="Download image">⬇</button>
+          </div>
+        </div>`
+      :`<div class="ev-image-cell"><div class="ev-image no-img"></div></div>`;
+
+    const card=document.createElement('div');
+    card.className=`event-card ${stateClass}${i4k?' is-4k':''}`;
+    card.style.animationDelay=(idx*0.025)+'s';
+
+    card.innerHTML=`
+      ${imageHtml}
+      <div class="ev-time">
+        <div class="ev-time-start" title="${toFullLocal(ev.scheduledDate)}">${toIST(ev.scheduledDate)}</div>
+        <div class="ev-dur">${ev.duration} min</div>
+        ${etaHtml}
+      </div>
+      <div class="ev-info">
+        <div class="ev-title">${highlight(ev.programTitle||'',searchQuery)}</div>
+        ${ev.episodeTitle?`<div class="ev-ep">${highlight(ev.episodeTitle,searchQuery)}</div>`:''}
+        <div class="ev-localtime">${toFullLocal(ev.scheduledDate)}</div>
+        <div class="ev-tags">
+          ${isLive?'<span class="tag tag-live">● Live</span>':''}
+          ${i4k?'<span class="tag tag-4k">✦ 4K</span>':''}
+          ${ev.premiereInd?'<span class="tag tag-premiere">Premiere</span>':''}
+          ${competTag}${sportTag}
+        </div>
+      </div>
+      <div class="ev-actions">
+        <div class="status-dot ${dotClass}"></div>
+        <span class="status-txt ${stClass}">${statusLabel}</span>
+        <button class="act-btn" onclick='shareEvent("${(ev.programTitle||'').replace(/'/g,"\\'").replace(/"/g,'\\"')}","${toIST(ev.scheduledDate)}","${currentChannel}","${ev.imageUrl||''}")' title="Share">↗</button>
+        ${!isPast?`<button class="act-btn cal-btn" onclick='addToCalendar("${evJson}")' title="Add to Calendar">📅</button>`:''}
+      </div>
+      ${isLive?`<div class="ev-progress"><div class="ev-progress-fill" data-start="${ev.scheduledDate}" data-end="${endTs}" style="width:${pct}%"></div></div>`:''}
+    `;
+    container.appendChild(card);
+  });
+
+  updateProgressBars();
+}
+
+/* ── INIT ── */
+updateTZLabel();
+fetchIndex().catch(()=>{
+  document.getElementById('guide-container').innerHTML=
+    '<div class="empty-state"><div class="empty-title">No Data Yet</div><div class="empty-sub">Go to GitHub → Actions → Run "Fetch Kayo Schedule" manually.</div></div>';
+  document.getElementById('date-row').innerHTML=
+    '<span style="font-size:11px;color:var(--text3)">Run GitHub Action first</span>';
+});
+</script>
+</body>
+</html>

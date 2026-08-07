@@ -1,0 +1,17 @@
+node_modules/
+package-lock.json
+
+npm-debug.log*
+*.log
+
+.env
+.env.local
+
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# data/ is deliberately NOT ignored. The fetch workflow commits it (git add data/),
+# so ignoring it would break the pipeline. It is absent from the initial commit and
+# created on the first run.

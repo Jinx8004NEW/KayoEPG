@@ -1,0 +1,16 @@
+{
+  "name": "kayoepg",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Self-updating Kayo sports TV guide - GitHub Actions collect the EPG, GitHub Pages serves it",
+  "scripts": {
+    "fetch": "node scripts/fetch.js",
+    "cleanup": "node scripts/cleanup.js"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "dependencies": {
+    "https-proxy-agent": "^7.0.5"
+  }
+}
