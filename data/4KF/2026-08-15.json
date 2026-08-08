@@ -1,0 +1,36 @@
+{
+  "channel": "4KF",
+  "date": "2026-08-15",
+  "source": "kayo-4k",
+  "fetchedAt": 1786221069216,
+  "fetchedAtIST": "9/8/2026, 2:01:09 am",
+  "events": [
+    {
+      "eventId": "icrnvidfhgf80i019jpfv6nzz0",
+      "programTitle": "Richmond v St Kilda",
+      "scheduledDate": 1786761300000,
+      "duration": 130,
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/eo0tji3fzdw4jhg1n6jj541q4_image-header_pRow_1782189604000/fill/none/top/none/80/1920/1080/webp/image?brand=kayo",
+      "competitionTitle": "AFL",
+      "sport": "Australian Rules Football"
+    },
+    {
+      "eventId": "fhyizlpog8sv0fwex0jdmop3k0",
+      "programTitle": "North Melbourne v Geelong",
+      "scheduledDate": 1786772700000,
+      "duration": 130,
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/3681z8d85wkyau3arzo3lceqm_image-header_pRow_1782189605000/fill/none/top/none/80/1920/1080/webp/image?brand=kayo",
+      "competitionTitle": "AFL",
+      "sport": "Australian Rules Football"
+    },
+    {
+      "eventId": "141xvzu2t5rvpu5qpvlwznlt90",
+      "programTitle": "Hawthorn v Collingwood",
+      "scheduledDate": 1786786800000,
+      "duration": 130,
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/dg22zg30z4z379vvjahf9x12o_image-header_pRow_1782189605000/fill/none/top/none/80/1920/1080/webp/image?brand=kayo",
+      "competitionTitle": "AFL",
+      "sport": "Australian Rules Football"
+    }
+  ]
+}

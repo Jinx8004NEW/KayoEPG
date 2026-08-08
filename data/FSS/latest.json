@@ -1,196 +1,152 @@
 {
   "channel": "FSS",
-  "date": "2026-08-08",
+  "date": "2026-08-09",
   "source": "kayo",
-  "fetchedAt": 1786206869696,
-  "fetchedAtIST": "8/8/2026, 10:04:29 pm",
+  "fetchedAt": 1786221056700,
+  "fetchedAtIST": "9/8/2026, 2:00:56 am",
   "events": [
     {
-      "programTitle": "World Matchplay Darts",
-      "episodeTitle": "Final",
-      "description": "The world's best darts players converge on Blackpool with a 1,000,000 pounds prize pool on the line.",
-      "scheduledDate": 1786136400000,
-      "duration": 120,
-      "parentalRating": "",
-      "programType": "Sports non-event",
-      "genre": "Darts",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-08-07_SH034993600000_79783447872_2019-07-11T08:20:21Z_p8723993_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
-    {
-      "programTitle": "Supercars Championship",
-      "episodeTitle": "",
-      "description": "Supercars compete in a series across Australia and New Zealand.",
-      "scheduledDate": 1786143600000,
-      "duration": 60,
+      "programTitle": "World Surf League",
+      "episodeTitle": "Championship Tour: Outerknown Tahiti Pro, Day 1",
+      "description": "Coverage of surfing action from the WSL.",
+      "scheduledDate": 1786226400000,
+      "duration": 240,
       "parentalRating": "",
       "programType": "Sports event",
-      "genre": "Auto racing",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-08-07_SH027326760000_111068013985_2026-08-07T01:36:07Z_p522547_i_h10_ad/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "genre": "Surfing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-08-08_SH033247700000_110929981531_2019-03-19T05:40:29Z_p16589355_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "Supercars Championship",
-      "episodeTitle": "",
-      "description": "Supercars compete in a series across Australia and New Zealand.",
-      "scheduledDate": 1786147200000,
-      "duration": 60,
+      "programTitle": "MotoGP Racing",
+      "episodeTitle": "Grand Prix of Great Britain, Sprint Race",
+      "description": "Action from MotoGP racing.",
+      "scheduledDate": 1786240800000,
+      "duration": 30,
       "parentalRating": "",
       "programType": "Sports event",
-      "genre": "Auto racing",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-08-08_SH027326760000_111068013985_2026-08-07T01:36:07Z_p522547_i_h10_ad/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "genre": "Family, Classic sport event, Motorcycle racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-08-09_SH035853180000_111036641221_2017-10-24T00:43:00Z_p445588_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "Supercars Championship",
-      "episodeTitle": "",
-      "description": "Supercars compete in a series across Australia and New Zealand.",
-      "scheduledDate": 1786150800000,
-      "duration": 60,
+      "programTitle": "Table Tennis",
+      "episodeTitle": "WTT Champions Yokohama: Semi-Finals",
+      "description": "Coverage of all the action from table tennis games played around the world.",
+      "scheduledDate": 1786242600000,
+      "duration": 210,
       "parentalRating": "",
       "programType": "Sports event",
-      "genre": "Auto racing",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-08-08_SH027326760000_111068013985_2026-08-07T01:36:07Z_p522547_i_h10_ad/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
-    {
-      "programTitle": "PBR Bull Riding",
-      "episodeTitle": "",
-      "description": "Coverage of the action from the Professional Bull Riders events.",
-      "scheduledDate": 1786154400000,
-      "duration": 60,
-      "parentalRating": "",
-      "programType": "Sports event",
-      "genre": "Bull riding",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-08-08_SH033364560000_110114392996_2017-09-14T16:13:00Z_p12572769_i_h10_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
-    {
-      "programTitle": "SailGP",
-      "episodeTitle": "Portsmouth, Day 1",
-      "description": "The team return to Portsmouth as the European leg of the 2026 season begins on the UK's south coast.",
-      "scheduledDate": 1786158000000,
-      "duration": 90,
-      "parentalRating": "",
-      "programType": "Sports non-event",
-      "genre": "Sailing",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-08-08_SH039936010000_108224779666_2024-11-22T10:14:23Z_p16560598_i_h10_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
-    {
-      "programTitle": "SailGP",
-      "episodeTitle": "Portsmouth, Day 2",
-      "description": "",
-      "scheduledDate": 1786163400000,
-      "duration": 90,
-      "parentalRating": "",
-      "programType": "Sports event",
-      "genre": "Sailing",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-08-08_SH051028760000_110235873061_2021-04-23T21:46:53Z_p19827810_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
-    {
-      "programTitle": "PGA Tour Golf",
-      "episodeTitle": "Wyndham Championship, Second Round",
-      "description": "From Sedgefield Country Club in Greensboro, N.C.",
-      "scheduledDate": 1786168800000,
-      "duration": 90,
-      "parentalRating": "",
-      "programType": "Sports event",
-      "genre": "Golf",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-08-08_SH030899370000_110982182699_2025-07-31T11:34:53Z_p845788_i_h8_af/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "genre": "Table tennis",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-08-09_SH033651430000_109981511654_2023-11-20T15:04:09Z_p929673_i_h8_ad/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "Ladies Euro Tour Golf",
-      "episodeTitle": "PIF London Championship, Second Round",
+      "episodeTitle": "PIF London Championship, Third Round",
       "description": "From Centurion Club in Saint Albans, Hertfordshire, United Kingdom.",
-      "scheduledDate": 1786174200000,
+      "scheduledDate": 1786255200000,
       "duration": 90,
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Golf",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-08-08_SH033826880000_105751152795_2025-02-19T19:54:01Z_p8177536_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-08-09_SH033826880000_105751152795_2025-02-19T19:54:01Z_p8177536_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "2026 U.S. Women's Amateur",
+      "episodeTitle": "Semifinals",
+      "description": "",
+      "scheduledDate": 1786260600000,
+      "duration": 90,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/Fallback_LTV_Fox_Sports_507/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "How Good is Golf",
       "episodeTitle": "Royal Park Golf Club",
       "description": "Paul Gow talks everything golf, taking people through the greatest game of all, showing them how to play, where to play and what equipment to use.",
-      "scheduledDate": 1786179600000,
-      "duration": 33,
+      "scheduledDate": 1786266000000,
+      "duration": 30,
       "parentalRating": "",
       "programType": "Sports non-event",
       "genre": "Golf",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-08-08_SH047697570000_103716322117_2026-01-16T17:55:26Z_p24911210_i_h10_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-08-09_SH047697570000_103716322117_2026-01-16T17:55:26Z_p24911210_i_h10_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "AFL",
-      "episodeTitle": "Adelaide Crows vs Richmond",
-      "description": "From Adelaide Oval in Adelaide, South Australia, Australia.",
-      "scheduledDate": 1786181580000,
-      "duration": 152,
+      "programTitle": "Table Tennis",
+      "episodeTitle": "WTT Champions Yokohama: Finals",
+      "description": "Coverage of all the action from table tennis games played around the world.",
+      "scheduledDate": 1786267800000,
+      "duration": 150,
       "parentalRating": "",
       "programType": "Sports event",
-      "genre": "Australian rules football",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-08-08_EP029151671410_110908894447_2026-05-21T00:20:33Z_GNLZZGG00347FPM/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "genre": "Table tennis",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-08-09_SH033651430000_109981511654_2023-11-20T15:04:09Z_p929673_i_h8_ad/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "World Surf League Highlights",
+      "episodeTitle": "Circuito Banco do Brasil de Surfe - Natal",
+      "description": "Action from the World Surf League.",
+      "scheduledDate": 1786276800000,
+      "duration": 25,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Surfing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-08-09_SH037137820000_107844260793_2023-03-28T14:37:31Z_p12753420_i_h8_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NASCAR O'Reilly Auto Parts Series Highlights",
+      "episodeTitle": "HyVee Perks 250",
+      "description": "Highlights of the various races taking place at the NASCAR O'Reilly Auto Parts Series.",
+      "scheduledDate": 1786278300000,
+      "duration": 63,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Auto racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-08-09_SH062934750000_110977483758_2026-08-05T10:46:39Z_p32273555_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Women's The Hundred",
+      "episodeTitle": "London Spirit vs Birmingham Phoenix",
+      "description": "From Lord's Cricket Ground in London, United Kingdom.",
+      "scheduledDate": 1786282080000,
+      "duration": 157,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Cricket",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-08-09_EP039321620187_110938750402_2026-08-02T17:36:59Z_GNLZZGG003DNC86/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "My Game: Tiger Woods",
+      "episodeTitle": "Rough Recoveries",
+      "description": "Tiger explains that the key to hitting good shots out of the rough is being able to read the lie. He goes through nuances that help to determine the shot to play.",
+      "scheduledDate": 1786291500000,
+      "duration": 15,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-08-09_SH035435950000_107134189906_2019-09-11T08:00:16Z_p17353505_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "In Pieces Together",
       "episodeTitle": "",
       "description": "Follows world record-holding surfer Blake Johnston's journey of transforming personal tragedy into meaningful action, examining how suicide impacts communities and how genuine relationships, bravery, and open dialogue can inspire transformation.",
-      "scheduledDate": 1786190700000,
+      "scheduledDate": 1786292400000,
       "duration": 70,
       "parentalRating": "M",
       "programType": "Feature Film",
       "genre": "Documentary",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-08-08_MV028121960000_110640695202_2026-05-13T05:35:40Z_p32978814_i_h10_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
-    {
-      "programTitle": "My Game: Tiger Woods",
-      "episodeTitle": "Changing Trajectory",
-      "description": "Tiger Woods explains how factors like wind and flag location drive his decisions.",
-      "scheduledDate": 1786194900000,
-      "duration": 13,
-      "parentalRating": "",
-      "programType": "Sports non-event",
-      "genre": "Golf",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-08-08_SH035435950000_107134189906_2019-09-11T08:00:16Z_p17353505_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
-    {
-      "programTitle": "Women's The Hundred",
-      "episodeTitle": "Southern Brave vs Manchester Super Giants",
-      "description": "From Utilita Bowl in West End, Hampshire, United Kingdom.",
-      "scheduledDate": 1786195680000,
-      "duration": 157,
-      "parentalRating": "",
-      "programType": "Sports event",
-      "genre": "Cricket",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-08-08_EP039321620185_110939393838_2026-08-02T17:37:02Z_GNLZZGG003DNC7M/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
-    {
-      "programTitle": "WSL Replay",
-      "episodeTitle": "",
-      "description": "Presents the replay and highlights of WSL Championship Tour and Challenger Series.",
-      "scheduledDate": 1786205100000,
-      "duration": 55,
-      "parentalRating": "",
-      "programType": "Sports non-event",
-      "genre": "Surfing",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-08-08_SH051672730000_109632391262_2024-05-29T14:23:50Z_p27411189_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
-    {
-      "programTitle": "World Surf League: Dawn Patrol",
-      "episodeTitle": "Outerknown Tahiti Pro",
-      "description": "Join the WSL commentary team as they bring you the latest news and expert analysis.",
-      "scheduledDate": 1786208400000,
-      "duration": 30,
-      "parentalRating": "",
-      "programType": "Sports non-event",
-      "genre": "Surfing",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-08-08_SH038671020000_107548949347_2021-06-04T09:16:47Z_p12125047_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-08-09_MV028121960000_110640695202_2026-05-13T05:35:40Z_p32978814_i_h10_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "World Surf League",
-      "episodeTitle": "Championship Tour: Outerknown Tahiti Pro, Day 1",
+      "episodeTitle": "Championship Tour: Outerknown Tahiti Pro, Day 2",
       "description": "Coverage of surfing action from the WSL.",
-      "scheduledDate": 1786210200000,
+      "scheduledDate": 1786296600000,
       "duration": 270,
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Surfing",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-08-08_SH033247700000_110929981531_2019-03-19T05:40:29Z_p16589355_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-08-09_SH033247700000_110929981531_2019-03-19T05:40:29Z_p16589355_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     }
   ]
 }

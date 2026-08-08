@@ -1,43 +1,34 @@
 {
   "channel": "4KF",
-  "date": "2026-08-08",
+  "date": "2026-08-09",
   "source": "kayo-4k",
-  "fetchedAt": 1786206882231,
-  "fetchedAtIST": "8/8/2026, 10:04:42 pm",
+  "fetchedAt": 1786221069214,
+  "fetchedAtIST": "9/8/2026, 2:01:09 am",
   "events": [
     {
-      "eventId": "btplloc677pt01ik7ild0bwltl",
-      "programTitle": "Melbourne v Fremantle",
-      "scheduledDate": 1786158900000,
-      "duration": 195,
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/11eaj6wmeidu580l4xfw4zhrl_image-header_pRow_1785732964000/fill/none/top/none/80/1920/1080/webp/image?brand=kayo",
+      "eventId": "1xmverjz5sed5dnbco0grsmsx0",
+      "programTitle": "GWS v Gold Coast",
+      "scheduledDate": 1786245000000,
+      "duration": 130,
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/84wmu8ac4cr3ams8gof8e0psh_image-header_pRow_1785733206000/fill/none/top/none/80/1920/1080/webp/image?brand=kayo",
       "competitionTitle": "AFL",
       "sport": "Australian Rules Football"
     },
     {
-      "eventId": "tllqbawg8fqy0lxvbo0xdt7y40",
-      "programTitle": "Sydney v Port Adelaide",
-      "scheduledDate": 1786169700000,
-      "duration": 176,
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/3j6crpdhdj2ko58utx7zloocq_image-header_pRow_1785733014000/fill/none/top/none/80/1920/1080/webp/image?brand=kayo",
+      "eventId": "1wtlgxm86r5dt36i34lnzi6kh0",
+      "programTitle": "West Coast v Collingwood",
+      "scheduledDate": 1786255800000,
+      "duration": 130,
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/f36mmtja6zjeyotwoo1a6qzbr_image-header_pRow_1785733263000/fill/none/top/none/80/1920/1080/webp/image?brand=kayo",
       "competitionTitle": "AFL",
       "sport": "Australian Rules Football"
     },
     {
-      "eventId": "sb6p1lp0cfj001rtc543gf1sdv",
-      "programTitle": "Geelong v Essendon",
-      "scheduledDate": 1786170900000,
-      "duration": 180,
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/auzqvo12v0w6puka68sub0jko_image-header_pRow_1785733102000/fill/none/top/none/80/1920/1080/webp/image?brand=kayo",
-      "competitionTitle": "AFL",
-      "sport": "Australian Rules Football"
-    },
-    {
-      "eventId": "5ne607vc0puv02pnhi0q2dgyt0",
-      "programTitle": "Adelaide v Richmond",
-      "scheduledDate": 1786181700000,
-      "duration": 240,
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/d0htpqhih1xdf3bzj3lekcaot_image-header_pRow_1785733156000/fill/none/top/none/80/1920/1080/webp/image?brand=kayo",
+      "eventId": "wv3jn1yrmthp0sliogjoxp2te0",
+      "programTitle": "St Kilda v Carlton",
+      "scheduledDate": 1786267200000,
+      "duration": 130,
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/dlvyed3okwv73i0nczg10qjuv_image-header_pRow_1785733314000/fill/none/top/none/80/1920/1080/webp/image?brand=kayo",
       "competitionTitle": "AFL",
       "sport": "Australian Rules Football"
     }

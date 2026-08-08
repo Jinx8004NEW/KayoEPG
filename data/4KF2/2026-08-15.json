@@ -1,0 +1,27 @@
+{
+  "channel": "4KF2",
+  "date": "2026-08-15",
+  "source": "kayo-4k",
+  "fetchedAt": 1786221069215,
+  "fetchedAtIST": "9/8/2026, 2:01:09 am",
+  "events": [
+    {
+      "eventId": "agt0nnmnqiuj0r9h7bj9f2nb30",
+      "programTitle": "Brisbane v Gold Coast",
+      "scheduledDate": 1786774500000,
+      "duration": 130,
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/3vi9jzfdfgc1ir69ubq63px9z_image-header_pRow_1782189605000/fill/none/top/none/80/1920/1080/webp/image?brand=kayo",
+      "competitionTitle": "AFL",
+      "sport": "Australian Rules Football"
+    },
+    {
+      "eventId": "1kly32quaz1xlxndaajuxakkx0",
+      "programTitle": "Port Adelaide v Melbourne",
+      "scheduledDate": 1786788600000,
+      "duration": 130,
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/955turg1bcisfeo4g4c26ua2y_image-header_pRow_1782189605000/fill/none/top/none/80/1920/1080/webp/image?brand=kayo",
+      "competitionTitle": "AFL",
+      "sport": "Australian Rules Football"
+    }
+  ]
+}
