@@ -2,8 +2,8 @@
   "channel": "4KL",
   "date": "2026-08-08",
   "source": "kayo-4k",
-  "fetchedAt": 1786178544984,
-  "fetchedAtIST": "8/8/2026, 2:12:24 pm",
+  "fetchedAt": 1786193397572,
+  "fetchedAtIST": "8/8/2026, 6:19:57 pm",
   "events": [
     {
       "eventId": "1hffaazm72awq13e9pqotzck39",
@@ -18,8 +18,17 @@
       "eventId": "w6y6o49temc5017jg99kg4auep",
       "programTitle": "Dolphins v Broncos",
       "scheduledDate": 1786174200000,
-      "duration": 175,
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/c23b4eif7gdztvdrj304d52l4_image-header_pRow_1785891411000/fill/none/top/none/80/1920/1080/webp/image?brand=kayo",
+      "duration": 130,
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/3c5ozek5zftnv27ke26erb0t4_image-header_pRow_1785891411000/fill/none/top/none/80/1920/1080/webp/image?brand=kayo",
+      "competitionTitle": "NRL",
+      "sport": "Rugby League"
+    },
+    {
+      "eventId": "1ubknz452535ei71ryo7ami140",
+      "programTitle": "Rabbitohs v Eels",
+      "scheduledDate": 1786181700000,
+      "duration": 188,
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/3bz6woulrm6o9rzonttzq62ea_image-header_pRow_1785891459000/fill/none/top/none/80/1920/1080/webp/image?brand=kayo",
       "competitionTitle": "NRL",
       "sport": "Rugby League"
     }

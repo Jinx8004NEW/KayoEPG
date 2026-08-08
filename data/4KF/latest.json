@@ -2,8 +2,8 @@
   "channel": "4KF",
   "date": "2026-08-08",
   "source": "kayo-4k",
-  "fetchedAt": 1786178544983,
-  "fetchedAtIST": "8/8/2026, 2:12:24 pm",
+  "fetchedAt": 1786193397571,
+  "fetchedAtIST": "8/8/2026, 6:19:57 pm",
   "events": [
     {
       "eventId": "btplloc677pt01ik7ild0bwltl",
@@ -15,11 +15,20 @@
       "sport": "Australian Rules Football"
     },
     {
+      "eventId": "tllqbawg8fqy0lxvbo0xdt7y40",
+      "programTitle": "Sydney v Port Adelaide",
+      "scheduledDate": 1786169700000,
+      "duration": 176,
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/3j6crpdhdj2ko58utx7zloocq_image-header_pRow_1785733014000/fill/none/top/none/80/1920/1080/webp/image?brand=kayo",
+      "competitionTitle": "AFL",
+      "sport": "Australian Rules Football"
+    },
+    {
       "eventId": "sb6p1lp0cfj001rtc543gf1sdv",
       "programTitle": "Geelong v Essendon",
       "scheduledDate": 1786170900000,
-      "duration": 220,
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/7qn75lfjvn2cmnn1rhr36t3iw_image-header_pRow_1785733102000/fill/none/top/none/80/1920/1080/webp/image?brand=kayo",
+      "duration": 180,
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/auzqvo12v0w6puka68sub0jko_image-header_pRow_1785733102000/fill/none/top/none/80/1920/1080/webp/image?brand=kayo",
       "competitionTitle": "AFL",
       "sport": "Australian Rules Football"
     },
@@ -27,8 +36,8 @@
       "eventId": "5ne607vc0puv02pnhi0q2dgyt0",
       "programTitle": "Adelaide v Richmond",
       "scheduledDate": 1786181700000,
-      "duration": 130,
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/5ix2u1mkcgkciheq900mz7mmh_image-header_pRow_1785733156000/fill/none/top/none/80/1920/1080/webp/image?brand=kayo",
+      "duration": 280,
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/4vvdmmggd2gg5q5xznjmc766g_image-header_pRow_1785733156000/fill/none/top/none/80/1920/1080/webp/image?brand=kayo",
       "competitionTitle": "AFL",
       "sport": "Australian Rules Football"
     }
