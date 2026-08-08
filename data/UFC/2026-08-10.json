@@ -2,8 +2,8 @@
   "channel": "UFC",
   "date": "2026-08-10",
   "source": "kayo",
-  "fetchedAt": 1786153354331,
-  "fetchedAtIST": "8/8/2026, 7:12:34 am",
+  "fetchedAt": 1786165071242,
+  "fetchedAtIST": "8/8/2026, 10:27:51 am",
   "events": [
     {
       "programTitle": "UFC",
@@ -92,6 +92,292 @@
       "programType": "Sports event",
       "genre": "Mixed martial arts",
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/164400_2026-08-09_SH055134080000_108625199052_2014-09-08T17:22:00Z_p11003369_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "UFC 116: Lesnar vs. Carwin",
+      "episodeTitle": "Brock Lesnar x Shane Carwin",
+      "description": "",
+      "scheduledDate": 1786323000000,
+      "duration": 25,
+      "parentalRating": "M",
+      "programType": "Sports event",
+      "genre": "Mixed martial arts",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/164400_2026-08-10_SH057958680000_108625199012_2022-03-17T12:37:45Z_p8129004_i_h8_ao/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "UFC 183: Anderson Silva x Nick Diaz",
+      "episodeTitle": "",
+      "description": "",
+      "scheduledDate": 1786324500000,
+      "duration": 50,
+      "parentalRating": "M",
+      "programType": "Sports event",
+      "genre": "Mixed martial arts",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/164400_2026-08-10_SH057958700000_108625199029_2023-08-17T14:25:17Z_p23750434_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "UFC 229: Derrick Lewis x Alexander Volkov",
+      "episodeTitle": "",
+      "description": "",
+      "scheduledDate": 1786327500000,
+      "duration": 35,
+      "parentalRating": "M",
+      "programType": "Sports event",
+      "genre": "Mixed martial arts",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/164400_2026-08-10_SH058218990000_108625199027_2023-07-21T16:44:11Z_p23713003_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "UFC 158: St-Pierre vs. Diaz",
+      "episodeTitle": "",
+      "description": "",
+      "scheduledDate": 1786329600000,
+      "duration": 60,
+      "parentalRating": "M",
+      "programType": "Sports event",
+      "genre": "Mixed martial arts",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/164400_2026-08-10_SH055137520000_108682005557_2019-09-20T21:20:47Z_p9708701_i_h8_an/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "UFC 171: Hendricks vs. Lawler",
+      "episodeTitle": "",
+      "description": "",
+      "scheduledDate": 1786333200000,
+      "duration": 50,
+      "parentalRating": "M",
+      "programType": "Sports event",
+      "genre": "Mixed martial arts",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/164400_2026-08-10_SH061460560000_108625199025_2021-12-10T20:36:16Z_p20909972_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "UFC 217: Bisping x St-Pierre - Cody Garbrandt x T.J. Dillashaw",
+      "episodeTitle": "",
+      "description": "",
+      "scheduledDate": 1786336200000,
+      "duration": 30,
+      "parentalRating": "M",
+      "programType": "Sports event",
+      "genre": "Mixed martial arts",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/164400_2026-08-10_SH062213700000_108625199023_2023-08-04T16:05:20Z_p23750653_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Khabib Nurmagomedov vs. Dustin Poirier: UFC 242 - Abu Dhabi",
+      "episodeTitle": "",
+      "description": "",
+      "scheduledDate": 1786338000000,
+      "duration": 40,
+      "parentalRating": "M",
+      "programType": "Sports event",
+      "genre": "Mixed martial arts",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/164400_2026-08-10_SH062213740000_108625199017_2023-06-15T20:48:59Z_p22165346_i_h10_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "UFC 322: Della Maddalena vs. Makhachev",
+      "episodeTitle": "",
+      "description": "From Madison Square Garden in New York.",
+      "scheduledDate": 1786340400000,
+      "duration": 55,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Mixed martial arts",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/164400_2026-08-10_SH061237980000_110674066145_2025-11-05T15:45:09Z_p31457049_i_h10_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Belal Muhammad vs. Ian Machado Garry: UFC Fight Night- Doha, Qatar",
+      "episodeTitle": "",
+      "description": "",
+      "scheduledDate": 1786343700000,
+      "duration": 40,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Mixed martial arts",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/164400_2026-08-10_SH065464150000_110673832270_2025-11-28T07:01:37Z_p31783028_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Virna Jandiroba vs. Mackenzie Dern: UFC 321- Abu Dhabi",
+      "episodeTitle": "",
+      "description": "",
+      "scheduledDate": 1786346100000,
+      "duration": 50,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Mixed martial arts",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/164400_2026-08-10_SH065463980000_110674429376_2025-10-27T07:47:08Z_p31532329_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Marina Rodriguez vs. Gillian Robertson: UFC Fight Night- Des Moines, IA",
+      "episodeTitle": "",
+      "description": "",
+      "scheduledDate": 1786349100000,
+      "duration": 20,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Mixed martial arts",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/164400_2026-08-10_SH065464200000_110674429393_2025-05-06T07:35:07Z_p30143520_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "UFC 322: Della Maddalena vs. Makhachev",
+      "episodeTitle": "",
+      "description": "From Madison Square Garden in New York.",
+      "scheduledDate": 1786350300000,
+      "duration": 55,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Mixed martial arts",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/164400_2026-08-10_SH061237980000_110674066145_2025-11-05T15:45:09Z_p31457049_i_h10_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Belal Muhammad vs. Ian Machado Garry: UFC Fight Night- Doha, Qatar",
+      "episodeTitle": "",
+      "description": "",
+      "scheduledDate": 1786353600000,
+      "duration": 40,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Mixed martial arts",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/164400_2026-08-10_SH065464150000_110673832270_2025-11-28T07:01:37Z_p31783028_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Virna Jandiroba vs. Mackenzie Dern: UFC 321- Abu Dhabi",
+      "episodeTitle": "",
+      "description": "",
+      "scheduledDate": 1786356000000,
+      "duration": 50,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Mixed martial arts",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/164400_2026-08-10_SH065463980000_110674429376_2025-10-27T07:47:08Z_p31532329_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Marina Rodriguez vs. Gillian Robertson: UFC Fight Night- Des Moines, IA",
+      "episodeTitle": "",
+      "description": "",
+      "scheduledDate": 1786359000000,
+      "duration": 20,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Mixed martial arts",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/164400_2026-08-10_SH065464200000_110674429393_2025-05-06T07:35:07Z_p30143520_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "UFC 322: Della Maddalena vs. Makhachev",
+      "episodeTitle": "",
+      "description": "From Madison Square Garden in New York.",
+      "scheduledDate": 1786360200000,
+      "duration": 55,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Mixed martial arts",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/164400_2026-08-10_SH061237980000_110674066145_2025-11-05T15:45:09Z_p31457049_i_h10_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Belal Muhammad vs. Ian Machado Garry: UFC Fight Night- Doha, Qatar",
+      "episodeTitle": "",
+      "description": "",
+      "scheduledDate": 1786363500000,
+      "duration": 40,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Mixed martial arts",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/164400_2026-08-10_SH065464150000_110673832270_2025-11-28T07:01:37Z_p31783028_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Virna Jandiroba vs. Mackenzie Dern: UFC 321- Abu Dhabi",
+      "episodeTitle": "",
+      "description": "",
+      "scheduledDate": 1786365900000,
+      "duration": 50,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Mixed martial arts",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/164400_2026-08-10_SH065463980000_110674429376_2025-10-27T07:47:08Z_p31532329_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Marina Rodriguez vs. Gillian Robertson: UFC Fight Night- Des Moines, IA",
+      "episodeTitle": "",
+      "description": "",
+      "scheduledDate": 1786368900000,
+      "duration": 20,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Mixed martial arts",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/164400_2026-08-10_SH065464200000_110674429393_2025-05-06T07:35:07Z_p30143520_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "UFC 322: Della Maddalena vs. Makhachev",
+      "episodeTitle": "",
+      "description": "From Madison Square Garden in New York.",
+      "scheduledDate": 1786370100000,
+      "duration": 55,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Mixed martial arts",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/164400_2026-08-10_SH061237980000_110674066145_2025-11-05T15:45:09Z_p31457049_i_h10_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Belal Muhammad vs. Ian Machado Garry: UFC Fight Night- Doha, Qatar",
+      "episodeTitle": "",
+      "description": "",
+      "scheduledDate": 1786373400000,
+      "duration": 40,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Mixed martial arts",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/164400_2026-08-10_SH065464150000_110673832270_2025-11-28T07:01:37Z_p31783028_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Virna Jandiroba vs. Mackenzie Dern: UFC 321- Abu Dhabi",
+      "episodeTitle": "",
+      "description": "",
+      "scheduledDate": 1786375800000,
+      "duration": 50,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Mixed martial arts",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/164400_2026-08-10_SH065463980000_110674429376_2025-10-27T07:47:08Z_p31532329_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Marina Rodriguez vs. Gillian Robertson: UFC Fight Night- Des Moines, IA",
+      "episodeTitle": "",
+      "description": "",
+      "scheduledDate": 1786378800000,
+      "duration": 20,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Mixed martial arts",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/164400_2026-08-10_SH065464200000_110674429393_2025-05-06T07:35:07Z_p30143520_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "UFC 322: Della Maddalena vs. Makhachev",
+      "episodeTitle": "",
+      "description": "From Madison Square Garden in New York.",
+      "scheduledDate": 1786380000000,
+      "duration": 55,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Mixed martial arts",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/164400_2026-08-10_SH061237980000_110674066145_2025-11-05T15:45:09Z_p31457049_i_h10_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Belal Muhammad vs. Ian Machado Garry: UFC Fight Night- Doha, Qatar",
+      "episodeTitle": "",
+      "description": "",
+      "scheduledDate": 1786383300000,
+      "duration": 40,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Mixed martial arts",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/164400_2026-08-10_SH065464150000_110673832270_2025-11-28T07:01:37Z_p31783028_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Virna Jandiroba vs. Mackenzie Dern: UFC 321- Abu Dhabi",
+      "episodeTitle": "",
+      "description": "",
+      "scheduledDate": 1786385700000,
+      "duration": 50,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Mixed martial arts",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/164400_2026-08-10_SH065463980000_110674429376_2025-10-27T07:47:08Z_p31532329_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     }
   ]
 }

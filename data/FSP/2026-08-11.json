@@ -1,0 +1,42 @@
+{
+  "channel": "FSP",
+  "date": "2026-08-11",
+  "source": "kayo",
+  "fetchedAt": 1786165071206,
+  "fetchedAtIST": "8/8/2026, 10:27:51 am",
+  "events": [
+    {
+      "programTitle": "World Matchplay Darts",
+      "episodeTitle": "Final",
+      "description": "The world's best darts players converge on Blackpool with a 1,000,000 pounds prize pool on the line.",
+      "scheduledDate": 1786393800000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Darts",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-08-10_SH034993600000_79783447872_2019-07-11T08:20:21Z_p8723993_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "MotoGP Racing",
+      "episodeTitle": "Grand Prix of Great Britain, Sprint Race",
+      "description": "Action from MotoGP racing.",
+      "scheduledDate": 1786401000000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Family, Classic sport event, Motorcycle racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-08-10_SH035853180000_111036641221_2017-10-24T00:43:00Z_p445588_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "MotoGP Racing",
+      "episodeTitle": "Qatar Airways Grand Prix of Great Britain",
+      "description": "From Silverstone Circuit in Northamptonshire, England, United Kingdom.",
+      "scheduledDate": 1786402800000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Motorcycle racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-08-10_SH028104880000_110308553844_2025-04-17T20:03:48Z_p445587_i_h8_ae/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    }
+  ]
+}

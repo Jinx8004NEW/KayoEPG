@@ -1,0 +1,53 @@
+{
+  "channel": "FS1",
+  "date": "2026-08-11",
+  "source": "kayo",
+  "fetchedAt": 1786165071172,
+  "fetchedAtIST": "8/8/2026, 10:27:51 am",
+  "events": [
+    {
+      "programTitle": "Men's Ashes",
+      "episodeTitle": "2013/14 5th Test Review",
+      "description": "Revisits the 2013-14 5th Test match of the Men's Ashes played between Australia and England.",
+      "scheduledDate": 1786393800000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Classic sport event, Cricket",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-08-10_SH047728050000_100718435032_2019-07-11T07:40:24Z_p10335812_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Ashes Archive",
+      "episodeTitle": "2014/15 - Australia v India 1st Test",
+      "description": "Look back at some of the instant classic Tests, ODIs, T20s and BBLs featuring our biggest rivals - England, India, South Africa and Pakistan on Aussie soil.",
+      "scheduledDate": 1786395600000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Series",
+      "genre": "Cricket",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-08-10_SH034952550000_108038838319_2020-04-24T19:15:07Z_p18225721_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Men's Ashes",
+      "episodeTitle": "2006/07 1st Test, Review",
+      "description": "Action from the Ashes as England and Australia compete for the famous urn.",
+      "scheduledDate": 1786399200000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Classic sport event, Cricket",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-08-10_SH047728050000_100718435032_2019-07-11T07:40:24Z_p10335812_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Men's Ashes",
+      "episodeTitle": "2006/07 2nd Test, Review",
+      "description": "Led by Ricky Ponting, the powerhouse 2006/07 Australian Ashes team featured icons Shane Warne and Glenn McGrath in their emotionally charged final legendary campaign.",
+      "scheduledDate": 1786402800000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Classic sport event, Cricket",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-08-10_SH047728050000_100718435032_2019-07-11T07:40:24Z_p10335812_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    }
+  ]
+}

@@ -2,8 +2,8 @@
   "channel": "ES2",
   "date": "2026-08-10",
   "source": "kayo",
-  "fetchedAt": 1786153354320,
-  "fetchedAtIST": "8/8/2026, 7:12:34 am",
+  "fetchedAt": 1786165071233,
+  "fetchedAtIST": "8/8/2026, 10:27:51 am",
   "events": [
     {
       "programTitle": "ESPN FC Shorts",
@@ -17,7 +17,7 @@
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-08-09_SH046564100000_110926994749_2023-05-17T15:16:11Z_p24027877_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "Brasileiro Serie A",
+      "programTitle": "Brazil Serie A Soccer",
       "episodeTitle": "Palmeiras vs. Internacional",
       "description": "From Nubank Parque in Sao Paulo, Sao Paulo, Brazil.",
       "scheduledDate": 1786301400000,
@@ -59,6 +59,105 @@
       "programType": "Sports non-event",
       "genre": "Baseball",
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-08-09_SH034894280000_107410377292_2022-06-30T18:06:26Z_p864395_i_h10_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "MLB Baseball",
+      "episodeTitle": "San Diego Padres vs Houston Astros",
+      "description": "From PETCO Park in San Diego.",
+      "scheduledDate": 1786320000000,
+      "duration": 180,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Baseball",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-08-10_EP062580852235_110989330790_2026-06-27T16:42:45Z_GNLZZGG0037RN59/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Banana Ball World Tour",
+      "episodeTitle": "Loco Beach Coconuts vs Savannah Bananas",
+      "description": "From Target Field in Minneapolis.",
+      "scheduledDate": 1786330800000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Baseball",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-08-10_EP058384980201_111102852860_2026-08-04T16:56:15Z_GNLZZGG003DKKBP/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Little League Baseball",
+      "episodeTitle": "",
+      "description": "Coverage of all the action from Little League baseball.",
+      "scheduledDate": 1786338000000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Baseball",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-08-10_SH039624430000_110882748457_2016-08-04T17:47:00Z_p3606786_i_h10_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Little League Baseball",
+      "episodeTitle": "",
+      "description": "Coverage of all the action from Little League baseball.",
+      "scheduledDate": 1786345200000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Baseball",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-08-10_SH039624430000_110882748457_2016-08-04T17:47:00Z_p3606786_i_h10_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "WNBA Basketball",
+      "episodeTitle": "New York Liberty vs Las Vegas Aces",
+      "description": "From Barclays Center in Brooklyn, N.Y.",
+      "scheduledDate": 1786352400000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Basketball",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-08-10_EP033268231034_110998284348_2026-06-25T04:47:55Z_GNLZZGG0037CP4C/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "WNBA Basketball",
+      "episodeTitle": "Los Angeles Sparks vs Golden State Valkyries",
+      "description": "From Crypto.com Arena in Los Angeles.",
+      "scheduledDate": 1786359600000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Basketball",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-08-10_EP033268231037_110998456168_2026-06-25T04:33:07Z_GNLZZGG0037D05P/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Little League Baseball",
+      "episodeTitle": "",
+      "description": "Coverage of all the action from Little League baseball.",
+      "scheduledDate": 1786366800000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Baseball",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-08-10_SH039624430000_110882748457_2016-08-04T17:47:00Z_p3606786_i_h10_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Little League Baseball",
+      "episodeTitle": "",
+      "description": "Coverage of all the action from Little League baseball.",
+      "scheduledDate": 1786374000000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Baseball",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-08-10_SH039624430000_110882748457_2016-08-04T17:47:00Z_p3606786_i_h10_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Little League Baseball",
+      "episodeTitle": "",
+      "description": "Coverage of all the action from Little League baseball.",
+      "scheduledDate": 1786381200000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Baseball",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-08-10_SH039624430000_110882748457_2016-08-04T17:47:00Z_p3606786_i_h10_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     }
   ]
 }

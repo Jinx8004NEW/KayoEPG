@@ -2,8 +2,8 @@
   "channel": "ES2",
   "date": "2026-08-09",
   "source": "kayo",
-  "fetchedAt": 1786153354320,
-  "fetchedAtIST": "8/8/2026, 7:12:34 am",
+  "fetchedAt": 1786165071233,
+  "fetchedAtIST": "8/8/2026, 10:27:51 am",
   "events": [
     {
       "programTitle": "Peyton's Places",
@@ -18,7 +18,7 @@
     },
     {
       "programTitle": "2026 Little League Softball World Series",
-      "episodeTitle": "Kentucky vs. TBA",
+      "episodeTitle": "Kentucky vs. New Jersey",
       "description": "From Stallings Stadium in Greenville, N.C.",
       "scheduledDate": 1786215600000,
       "duration": 120,
@@ -61,7 +61,7 @@
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-08-08_SH046564100000_110926994749_2023-05-17T15:16:11Z_p24027877_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "Brazil Serie A Soccer",
+      "programTitle": "Brasileiro Serie A",
       "episodeTitle": "Botafogo vs. Fluminense",
       "description": "From Olimpico Nilton Santos Stadium in Rio de Janeiro.",
       "scheduledDate": 1786233000000,
@@ -238,7 +238,7 @@
     },
     {
       "programTitle": "2026 Little League Softball World Series",
-      "episodeTitle": "Kentucky vs. TBA",
+      "episodeTitle": "Kentucky vs. New Jersey",
       "description": "From Stallings Stadium in Greenville, N.C.",
       "scheduledDate": 1786285800000,
       "duration": 90,
