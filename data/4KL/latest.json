@@ -2,15 +2,24 @@
   "channel": "4KL",
   "date": "2026-08-08",
   "source": "kayo-4k",
-  "fetchedAt": 1786165082438,
-  "fetchedAtIST": "8/8/2026, 10:28:02 am",
+  "fetchedAt": 1786178544984,
+  "fetchedAtIST": "8/8/2026, 2:12:24 pm",
   "events": [
     {
       "eventId": "1hffaazm72awq13e9pqotzck39",
       "programTitle": "Storm v Sea Eagles",
       "scheduledDate": 1786165200000,
+      "duration": 133,
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/1m0ugg3xqqbyuoxi8c5qzv1rq_image-header_pRow_1785891366000/fill/none/top/none/80/1920/1080/webp/image?brand=kayo",
+      "competitionTitle": "NRL",
+      "sport": "Rugby League"
+    },
+    {
+      "eventId": "w6y6o49temc5017jg99kg4auep",
+      "programTitle": "Dolphins v Broncos",
+      "scheduledDate": 1786174200000,
       "duration": 175,
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/8ng9xim7q09txbda02nefla3i_image-header_pRow_1785891366000/fill/none/top/none/80/1920/1080/webp/image?brand=kayo",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/c23b4eif7gdztvdrj304d52l4_image-header_pRow_1785891411000/fill/none/top/none/80/1920/1080/webp/image?brand=kayo",
       "competitionTitle": "NRL",
       "sport": "Rugby League"
     }
