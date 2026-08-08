@@ -2,8 +2,8 @@
   "channel": "FSN",
   "date": "2026-08-09",
   "source": "kayo",
-  "fetchedAt": 1786142616132,
-  "fetchedAtIST": "8/8/2026, 4:13:36 am",
+  "fetchedAt": 1786153354268,
+  "fetchedAtIST": "8/8/2026, 7:12:34 am",
   "events": [
     {
       "programTitle": "FOX SPORTS News",
@@ -76,6 +76,17 @@
       "episodeTitle": "",
       "description": "Tune in for all the overnight sporting highlights, plus a preview of all the weekend action across Australia.",
       "scheduledDate": 1786224600000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Other",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103083_2026-08-08_SH030733750000_101942752518_2020-02-11T08:40:09Z_p16118304_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Gameday Live",
+      "episodeTitle": "",
+      "description": "Tune in for all the overnight sporting highlights, plus a preview of all the weekend action across Australia.",
+      "scheduledDate": 1786226400000,
       "duration": 30,
       "parentalRating": "",
       "programType": "Sports non-event",
