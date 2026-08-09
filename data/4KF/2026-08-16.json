@@ -1,0 +1,27 @@
+{
+  "channel": "4KF",
+  "date": "2026-08-16",
+  "source": "kayo-4k",
+  "fetchedAt": 1786307630921,
+  "fetchedAtIST": "10/8/2026, 2:03:50 am",
+  "events": [
+    {
+      "eventId": "yapmfe5bx3j00qe8iwirtw4jb0",
+      "programTitle": "GWS v West Coast",
+      "scheduledDate": 1786851600000,
+      "duration": 130,
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/1aauqqh5trfu2tfa0th62jz3l_image-header_pRow_1782189605000/fill/none/top/none/80/1920/1080/webp/image?brand=kayo",
+      "competitionTitle": "AFL",
+      "sport": "Australian Rules Football"
+    },
+    {
+      "eventId": "1vsxi3ysyr2if1qxgpf1wqjql6",
+      "programTitle": "Essendon v Sydney",
+      "scheduledDate": 1786862400000,
+      "duration": 130,
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/bvvnjx7f4ayebr0m80sw0zsb9_image-header_pRow_1782189605000/fill/none/top/none/80/1920/1080/webp/image?brand=kayo",
+      "competitionTitle": "AFL",
+      "sport": "Australian Rules Football"
+    }
+  ]
+}
