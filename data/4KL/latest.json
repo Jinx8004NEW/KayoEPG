@@ -2,16 +2,25 @@
   "channel": "4KL",
   "date": "2026-08-09",
   "source": "kayo-4k",
-  "fetchedAt": 1786240090273,
-  "fetchedAtIST": "9/8/2026, 7:18:10 am",
+  "fetchedAt": 1786251987680,
+  "fetchedAtIST": "9/8/2026, 10:36:27 am",
   "events": [
     {
       "eventId": "1wkh6u339vmy51gunz09sjsoop",
       "programTitle": "Raiders v Broncos",
       "scheduledDate": 1786239300000,
-      "duration": 160,
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/1sk27qtuz0phtg5ypet0dlovi_image-header_pRow_1785902784000/fill/none/top/none/80/1920/1080/webp/image?brand=kayo",
+      "duration": 107,
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/4v95hacuf051wf2kgy9oqbrb7_image-header_pRow_1785902784000/fill/none/top/none/80/1920/1080/webp/image?brand=kayo",
       "competitionTitle": "NRL Women",
+      "sport": "Rugby League"
+    },
+    {
+      "eventId": "1j4ai8v14aigx17gv99k21oqug",
+      "programTitle": "Raiders v Knights",
+      "scheduledDate": 1786248000000,
+      "duration": 175,
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/alwljn3mwywchde60wzywq7jy_image-header_pRow_1785891510000/fill/none/top/none/80/1920/1080/webp/image?brand=kayo",
+      "competitionTitle": "NRL",
       "sport": "Rugby League"
     }
   ]

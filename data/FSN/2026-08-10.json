@@ -2,8 +2,8 @@
   "channel": "FSN",
   "date": "2026-08-10",
   "source": "kayo",
-  "fetchedAt": 1786240077799,
-  "fetchedAtIST": "9/8/2026, 7:17:57 am",
+  "fetchedAt": 1786251975887,
+  "fetchedAtIST": "9/8/2026, 10:36:15 am",
   "events": [
     {
       "programTitle": "FOX SPORTS News",
@@ -158,6 +158,83 @@
       "programType": "Sports non-event",
       "genre": "News",
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103083_2026-08-10_SH042121470000_101942753651_2025-01-23T05:33:43Z_p21695748_i_h10_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "FOX SPORTS News",
+      "episodeTitle": "",
+      "description": "The latest highlights, reaction and analysis of the biggest sport stories from Australia and around the world.",
+      "scheduledDate": 1786325400000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "News",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103083_2026-08-10_SH042121470000_101942753651_2025-01-23T05:33:43Z_p21695748_i_h10_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "FOX SPORTS News",
+      "episodeTitle": "",
+      "description": "The latest highlights, reaction and analysis of the biggest sport stories from Australia and around the world.",
+      "scheduledDate": 1786327200000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "News",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103083_2026-08-10_SH042121470000_101942753651_2025-01-23T05:33:43Z_p21695748_i_h10_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "FOX SPORTS News",
+      "episodeTitle": "",
+      "description": "The latest highlights, reaction and analysis of the biggest sport stories from Australia and around the world.",
+      "scheduledDate": 1786329000000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "News",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103083_2026-08-10_SH042121470000_101942753651_2025-01-23T05:33:43Z_p21695748_i_h10_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Sunday Night with Matty Johns",
+      "episodeTitle": "",
+      "description": "Matty Johns chats with a panel of professionals to have an entertaining discussion about the latest in rugby league.",
+      "scheduledDate": 1786330800000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Sports talk, Rugby league",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103083_2026-08-10_SH029203890000_106704715334_2026-03-12T03:35:04Z_p15272162_i_h10_ad/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NRL Mini",
+      "episodeTitle": "South Sydney Rabbitohs v Parramatta Eels",
+      "description": "A comprehensive summary of the match played is provided in an expedited timeframe.",
+      "scheduledDate": 1786334400000,
+      "duration": 20,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Rugby league, Rugby",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103083_2026-08-10_SH035786430000_106552413658_2020-10-16T18:30:18Z_p18624350_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NRL Mini",
+      "episodeTitle": "Canberra Raiders v Newcastle Knights",
+      "description": "A comprehensive summary of the match played is provided in an expedited timeframe.",
+      "scheduledDate": 1786335600000,
+      "duration": 20,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Rugby league, Rugby",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103083_2026-08-10_SH035786430000_106552413658_2020-10-16T18:30:18Z_p18624350_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NRL Mini",
+      "episodeTitle": "St George Illawarra Dragons v Cronulla Sharks",
+      "description": "A comprehensive summary of the match played is provided in an expedited timeframe.",
+      "scheduledDate": 1786336800000,
+      "duration": 20,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Rugby league, Rugby",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103083_2026-08-10_SH035786430000_106552413658_2020-10-16T18:30:18Z_p18624350_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     }
   ]
 }

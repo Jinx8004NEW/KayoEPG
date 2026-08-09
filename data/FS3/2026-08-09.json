@@ -2,8 +2,8 @@
   "channel": "FS3",
   "date": "2026-08-09",
   "source": "kayo",
-  "fetchedAt": 1786240077823,
-  "fetchedAtIST": "9/8/2026, 7:17:57 am",
+  "fetchedAt": 1786251975912,
+  "fetchedAtIST": "9/8/2026, 10:36:15 am",
   "events": [
     {
       "programTitle": "Ladies Euro Tour Golf",
@@ -142,7 +142,7 @@
       "episodeTitle": "Round 1",
       "description": "All the latest news and analysis from the world of women's AFL.",
       "scheduledDate": 1786263600000,
-      "duration": 10,
+      "duration": 40,
       "parentalRating": "",
       "programType": "Sports non-event",
       "genre": "Australian rules football, Sports talk",
@@ -160,26 +160,37 @@
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-08-09_SH047697570000_103716322117_2026-01-16T17:55:26Z_p24911210_i_h10_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "Ladies Euro Tour Golf",
-      "episodeTitle": "PIF London Championship, Third Round",
-      "description": "From Centurion Club in Saint Albans, Hertfordshire, United Kingdom.",
+      "programTitle": "PGA Tour Golf",
+      "episodeTitle": "Wyndham Championship, Third Round",
+      "description": "From Sedgefield Country Club in Greensboro, N.C.",
       "scheduledDate": 1786266000000,
       "duration": 90,
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Golf",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-08-09_SH033826880000_105751152795_2025-02-19T19:54:01Z_p8177536_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-08-09_EP030899371412_111101616389_2026-07-28T22:55:49Z_p32044814_b_h8_ad/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "How Good is Golf",
+      "episodeTitle": "Royal Park Golf Club",
+      "description": "Paul Gow talks everything golf, taking people through the greatest game of all, showing them how to play, where to play and what equipment to use.",
+      "scheduledDate": 1786271400000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-08-09_SH047697570000_103716322117_2026-01-16T17:55:26Z_p24911210_i_h10_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "PGA Tour Golf",
-      "episodeTitle": "Wyndham Championship, Third Round",
+      "episodeTitle": "Wyndham Championship, Final Round",
       "description": "From Sedgefield Country Club in Greensboro, N.C.",
-      "scheduledDate": 1786271400000,
-      "duration": 90,
+      "scheduledDate": 1786273200000,
+      "duration": 360,
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Golf",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-08-09_EP030899371412_111101616389_2026-07-28T22:55:49Z_p32044814_b_h8_ad/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-08-09_EP030899371413_111101616386_2026-07-30T22:05:51Z_p32044845_b_h8_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "PGA Tour Golf",
