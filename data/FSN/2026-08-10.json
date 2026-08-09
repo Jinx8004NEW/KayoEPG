@@ -2,8 +2,8 @@
   "channel": "FSN",
   "date": "2026-08-10",
   "source": "kayo",
-  "fetchedAt": 1786251975887,
-  "fetchedAtIST": "9/8/2026, 10:36:15 am",
+  "fetchedAt": 1786265001828,
+  "fetchedAtIST": "9/8/2026, 2:13:21 pm",
   "events": [
     {
       "programTitle": "FOX SPORTS News",
@@ -235,6 +235,17 @@
       "programType": "Sports non-event",
       "genre": "Rugby league, Rugby",
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103083_2026-08-10_SH035786430000_106552413658_2020-10-16T18:30:18Z_p18624350_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Sunday Night with Matty Johns",
+      "episodeTitle": "",
+      "description": "Matty Johns chats with a panel of professionals to have an entertaining discussion about the latest in rugby league.",
+      "scheduledDate": 1786338000000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Sports talk, Rugby league",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103083_2026-08-10_SH029203890000_106704715334_2026-03-12T03:35:04Z_p15272162_i_h10_ad/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     }
   ]
 }
