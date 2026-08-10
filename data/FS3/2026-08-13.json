@@ -1,0 +1,53 @@
+{
+  "channel": "FS3",
+  "date": "2026-08-13",
+  "source": "kayo",
+  "fetchedAt": 1786326719119,
+  "fetchedAtIST": "10/8/2026, 7:21:59 am",
+  "events": [
+    {
+      "programTitle": "LPGA Tour Golf",
+      "episodeTitle": "",
+      "description": "Comprehensive coverage and full game replays of all the action-packed golfing events from the LPGA Tour.",
+      "scheduledDate": 1786563000000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-08-12_SH031583890000_109900390814_2025-12-31T05:35:12Z_p767017_i_h8_af/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "How Good is Golf",
+      "episodeTitle": "Brisbane Golf Club",
+      "description": "Paul Gow talks everything golf, taking people through the greatest game of all, showing them how to play, where to play and what equipment to use.",
+      "scheduledDate": 1786570200000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-08-12_SH047697570000_103716322117_2026-01-16T17:55:26Z_p24911210_i_h10_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "The Cut",
+      "episodeTitle": "",
+      "description": "An insightful exploration of player profiles and a preview of various PGA Tour tournaments around the world.",
+      "scheduledDate": 1786572000000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-08-12_SH034181850000_108930678702_2022-01-21T12:57:01Z_p17650562_i_h8_al/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "2026 U.S. Women's Amateur",
+      "episodeTitle": "Championship Match",
+      "description": "",
+      "scheduledDate": 1786573800000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/Fallback_LTV_Fox_Sports_503/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    }
+  ]
+}

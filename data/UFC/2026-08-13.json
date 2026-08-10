@@ -1,0 +1,86 @@
+{
+  "channel": "UFC",
+  "date": "2026-08-13",
+  "source": "kayo",
+  "fetchedAt": 1786326719179,
+  "fetchedAtIST": "10/8/2026, 7:21:59 am",
+  "events": [
+    {
+      "programTitle": "UFC Countdown",
+      "episodeTitle": "UFC 330 Countdown: Makhachev vs. Machado Garry",
+      "description": "Coverage of UFC training, including exclusive interviews, expert analysis and a look at the intense preparation of each fighter.",
+      "scheduledDate": 1786560300000,
+      "duration": 60,
+      "parentalRating": "MA 15+",
+      "programType": "Sports non-event",
+      "genre": "Mixed martial arts, Documentary",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/164400_2026-08-12_SH030408650000_111163590718_2026-01-22T17:35:05Z_p308818_i_h8_ae/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Belal Muhammad vs. Ian Machado Garry: UFC Fight Night- Doha, Qatar",
+      "episodeTitle": "",
+      "description": "",
+      "scheduledDate": 1786563900000,
+      "duration": 40,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Mixed martial arts",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/164400_2026-08-12_SH065464150000_110673832270_2025-11-28T07:01:37Z_p31783028_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Virna Jandiroba vs. Mackenzie Dern: UFC 321- Abu Dhabi",
+      "episodeTitle": "",
+      "description": "",
+      "scheduledDate": 1786566300000,
+      "duration": 50,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Mixed martial arts",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/164400_2026-08-12_SH065463980000_110674429376_2025-10-27T07:47:08Z_p31532329_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Marina Rodriguez vs. Gillian Robertson: UFC Fight Night- Des Moines, IA",
+      "episodeTitle": "",
+      "description": "",
+      "scheduledDate": 1786569300000,
+      "duration": 20,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Mixed martial arts",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/164400_2026-08-12_SH065464200000_110674429393_2025-05-06T07:35:07Z_p30143520_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "UFC Countdown",
+      "episodeTitle": "UFC 330 Countdown: Makhachev vs. Machado Garry",
+      "description": "Coverage of UFC training, including exclusive interviews, expert analysis and a look at the intense preparation of each fighter.",
+      "scheduledDate": 1786570500000,
+      "duration": 60,
+      "parentalRating": "MA 15+",
+      "programType": "Sports non-event",
+      "genre": "Mixed martial arts, Documentary",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/164400_2026-08-12_SH030408650000_111163590718_2026-01-22T17:35:05Z_p308818_i_h8_ae/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Belal Muhammad vs. Ian Machado Garry: UFC Fight Night- Doha, Qatar",
+      "episodeTitle": "",
+      "description": "",
+      "scheduledDate": 1786574100000,
+      "duration": 40,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Mixed martial arts",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/164400_2026-08-12_SH065464150000_110673832270_2025-11-28T07:01:37Z_p31783028_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Virna Jandiroba vs. Mackenzie Dern: UFC 321- Abu Dhabi",
+      "episodeTitle": "",
+      "description": "",
+      "scheduledDate": 1786576500000,
+      "duration": 50,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Mixed martial arts",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/164400_2026-08-12_SH065463980000_110674429376_2025-10-27T07:47:08Z_p31532329_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    }
+  ]
+}
