@@ -2,8 +2,8 @@
   "channel": "FS3",
   "date": "2026-08-13",
   "source": "kayo",
-  "fetchedAt": 1786339679154,
-  "fetchedAtIST": "10/8/2026, 10:57:59 am",
+  "fetchedAt": 1786353761399,
+  "fetchedAtIST": "10/8/2026, 2:52:41 pm",
   "events": [
     {
       "programTitle": "LPGA Tour Golf",
@@ -32,11 +32,22 @@
       "episodeTitle": "",
       "description": "An insightful exploration of player profiles and a preview of various PGA Tour tournaments around the world.",
       "scheduledDate": 1786572000000,
-      "duration": 30,
+      "duration": 25,
       "parentalRating": "",
       "programType": "Sports non-event",
       "genre": "Golf",
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-08-12_SH034181850000_108930678702_2022-01-21T12:57:01Z_p17650562_i_h8_al/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "2026 U.S. Women's Amateur",
+      "episodeTitle": "Championship Match",
+      "description": "",
+      "scheduledDate": 1786573500000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/Fallback_LTV_Fox_Sports_503/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "2026 U.S. Women's Amateur",
