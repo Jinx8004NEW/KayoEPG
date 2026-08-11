@@ -1,48 +1,15 @@
 {
   "channel": "ES2",
-  "date": "2026-08-11",
+  "date": "2026-08-12",
   "source": "kayo",
-  "fetchedAt": 1786467477424,
-  "fetchedAtIST": "11/8/2026, 10:27:57 pm",
+  "fetchedAt": 1786481061936,
+  "fetchedAtIST": "12/8/2026, 2:14:21 am",
   "events": [
     {
       "programTitle": "Little League Baseball",
       "episodeTitle": "",
       "description": "Coverage of all the action from Little League baseball.",
-      "scheduledDate": 1786388400000,
-      "duration": 120,
-      "parentalRating": "",
-      "programType": "Sports event",
-      "genre": "Baseball",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-08-10_SH039624430000_110882748457_2016-08-04T17:47:00Z_p3606786_i_h10_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
-    {
-      "programTitle": "Little League Baseball",
-      "episodeTitle": "",
-      "description": "Coverage of all the action from Little League baseball.",
-      "scheduledDate": 1786395600000,
-      "duration": 120,
-      "parentalRating": "",
-      "programType": "Sports event",
-      "genre": "Baseball",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-08-10_SH039624430000_110882748457_2016-08-04T17:47:00Z_p3606786_i_h10_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
-    {
-      "programTitle": "Little League Baseball",
-      "episodeTitle": "",
-      "description": "Coverage of all the action from Little League baseball.",
-      "scheduledDate": 1786402800000,
-      "duration": 120,
-      "parentalRating": "",
-      "programType": "Sports event",
-      "genre": "Baseball",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-08-10_SH039624430000_110882748457_2016-08-04T17:47:00Z_p3606786_i_h10_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
-    {
-      "programTitle": "Little League Baseball",
-      "episodeTitle": "",
-      "description": "Coverage of all the action from Little League baseball.",
-      "scheduledDate": 1786410000000,
+      "scheduledDate": 1786474800000,
       "duration": 120,
       "parentalRating": "",
       "programType": "Sports event",
@@ -50,169 +17,147 @@
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-08-11_SH039624430000_110882748457_2016-08-04T17:47:00Z_p3606786_i_h10_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "SportsCenter",
+      "programTitle": "Little League Baseball",
       "episodeTitle": "",
-      "description": "The team deliver the latest news, highlights, and inside information from the wide world of sports, as well as trending topics across social media platforms.",
-      "scheduledDate": 1786417200000,
-      "duration": 60,
+      "description": "Coverage of all the action from Little League baseball.",
+      "scheduledDate": 1786482000000,
+      "duration": 120,
       "parentalRating": "",
-      "programType": "Sports non-event",
-      "genre": "News, Sports talk",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-08-11_SH033259060000_109832503473_2018-04-18T10:39:00Z_p186674_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "programType": "Sports event",
+      "genre": "Baseball",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-08-11_SH039624430000_110882748457_2016-08-04T17:47:00Z_p3606786_i_h10_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "SportsCenter",
+      "programTitle": "Little League Baseball",
       "episodeTitle": "",
-      "description": "The team deliver the latest news, highlights, and inside information from the wide world of sports, as well as trending topics across social media platforms.",
-      "scheduledDate": 1786420800000,
-      "duration": 60,
+      "description": "Coverage of all the action from Little League baseball.",
+      "scheduledDate": 1786489200000,
+      "duration": 120,
       "parentalRating": "",
-      "programType": "Sports non-event",
-      "genre": "News, Sports talk",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-08-11_SH033259060000_109832503473_2018-04-18T10:39:00Z_p186674_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "programType": "Sports event",
+      "genre": "Baseball",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-08-11_SH039624430000_110882748457_2016-08-04T17:47:00Z_p3606786_i_h10_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "SC: Australia Weekly",
       "episodeTitle": "",
       "description": "Delivers key sporting news, major highlights and expert analysis.",
-      "scheduledDate": 1786424400000,
+      "scheduledDate": 1786496400000,
       "duration": 30,
       "parentalRating": "",
       "programType": "Series",
       "genre": "News",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-08-11_SH065376100000_110959876201_2026-08-05T03:16:28Z_p30227362_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
-    {
-      "programTitle": "World Series of Poker",
-      "episodeTitle": "",
-      "description": "All the action from the World Series of Poker, as some of the greatest sharks circle the table to devour the competition.",
-      "scheduledDate": 1786426200000,
-      "duration": 60,
-      "parentalRating": "",
-      "programType": "Sports non-event",
-      "genre": "Poker, Card games",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-08-11_SH050447430000_110828787014_2019-06-19T15:00:55Z_p8534623_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
-    {
-      "programTitle": "World Series of Poker",
-      "episodeTitle": "",
-      "description": "All the action from the World Series of Poker, as some of the greatest sharks circle the table to devour the competition.",
-      "scheduledDate": 1786429800000,
-      "duration": 60,
-      "parentalRating": "",
-      "programType": "Sports non-event",
-      "genre": "Poker, Card games",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-08-11_SH050447430000_110828787014_2019-06-19T15:00:55Z_p8534623_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
-    {
-      "programTitle": "SportsCenter",
-      "episodeTitle": "Top Plays of July",
-      "description": "The team deliver the latest news, highlights, and inside information from the wide world of sports, as well as trending topics across social media platforms.",
-      "scheduledDate": 1786433400000,
-      "duration": 30,
-      "parentalRating": "",
-      "programType": "Sports non-event",
-      "genre": "News, Sports talk",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-08-11_SH033259060000_109832503473_2018-04-18T10:39:00Z_p186674_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
-    {
-      "programTitle": "SC: Australia Weekly",
-      "episodeTitle": "",
-      "description": "Delivers key sporting news, major highlights and expert analysis.",
-      "scheduledDate": 1786435200000,
-      "duration": 30,
-      "parentalRating": "",
-      "programType": "Series",
-      "genre": "News",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-08-11_SH065376100000_110959876201_2026-08-05T03:16:28Z_p30227362_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
-    {
-      "programTitle": "International Dance League",
-      "episodeTitle": "New York",
-      "description": "",
-      "scheduledDate": 1786437000000,
-      "duration": 60,
-      "parentalRating": "",
-      "programType": "Sports non-event",
-      "genre": "Dance",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-08-11_SH065465050000_110714844384_2026-07-13T18:45:53Z_p33553747_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
-    {
-      "programTitle": "International Dance League",
-      "episodeTitle": "Vancouver Series",
-      "description": "Coverage of round two of the 2026 International Dance League, presented from the Thunderbird Sports Centre in Vancouver, Canada. The event takes place on May 23, 2026.",
-      "scheduledDate": 1786440600000,
-      "duration": 60,
-      "parentalRating": "",
-      "programType": "Sports non-event",
-      "genre": "Dance",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-08-11_SH065465050000_110714844384_2026-07-13T18:45:53Z_p33553747_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
-    {
-      "programTitle": "SC: Australia Weekly",
-      "episodeTitle": "",
-      "description": "Delivers key sporting news, major highlights and expert analysis.",
-      "scheduledDate": 1786444200000,
-      "duration": 30,
-      "parentalRating": "",
-      "programType": "Series",
-      "genre": "News",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-08-11_SH065376100000_110959876201_2026-08-05T03:16:28Z_p30227362_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-08-12_SH065376100000_110959876201_2026-08-05T03:16:28Z_p30227362_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "MLB Baseball",
-      "episodeTitle": "St. Louis Cardinals vs Philadelphia Phillies",
-      "description": "From Busch Stadium in St. Louis, Mi.",
-      "scheduledDate": 1786446000000,
-      "duration": 120,
+      "episodeTitle": "San Diego Padres vs Milwaukee Brewers",
+      "description": "From PETCO Park in San Diego.",
+      "scheduledDate": 1786498200000,
+      "duration": 180,
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Baseball",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-08-11_EP062580852239_111145310335_2026-06-27T19:18:44Z_GNLZZGG0037SN7B/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-08-12_EP062580852266_111253695538_2026-06-27T19:17:21Z_GNLZZGG0037T2FP/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "Quick Pitch",
-      "episodeTitle": "",
-      "description": "All the latest baseball news, scores and highlights. Plus, a first look at upcoming matchups.",
-      "scheduledDate": 1786453200000,
-      "duration": 60,
+      "programTitle": "MLB Ultimate Lineup",
+      "episodeTitle": "The Most Unbreakable Records We Ever Saw",
+      "description": "This episode of MLB Ultimate Lineup looks at the most unbreakable records we ever saw.",
+      "scheduledDate": 1786509000000,
+      "duration": 30,
       "parentalRating": "",
       "programType": "Sports non-event",
       "genre": "Baseball",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-08-11_SH039225660000_107838083445_2020-08-03T13:50:35Z_p3527970_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
-    {
-      "programTitle": "Quick Pitch",
-      "episodeTitle": "",
-      "description": "All the latest baseball news, scores and highlights. Plus, a first look at upcoming matchups.",
-      "scheduledDate": 1786456800000,
-      "duration": 60,
-      "parentalRating": "",
-      "programType": "Sports non-event",
-      "genre": "Baseball",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-08-11_SH039225660000_107838083445_2020-08-03T13:50:35Z_p3527970_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-08-12_EP038442780001_110978279429_2022-08-29T02:56:23Z_p11233189_e_h11_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "Little League Baseball",
       "episodeTitle": "",
       "description": "Coverage of all the action from Little League baseball.",
-      "scheduledDate": 1786460400000,
+      "scheduledDate": 1786510800000,
       "duration": 120,
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Baseball",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-08-11_SH039624430000_110882748457_2016-08-04T17:47:00Z_p3606786_i_h10_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-08-12_SH039624430000_110882748457_2016-08-04T17:47:00Z_p3606786_i_h10_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "Little League Baseball",
       "episodeTitle": "",
       "description": "Coverage of all the action from Little League baseball.",
-      "scheduledDate": 1786467600000,
+      "scheduledDate": 1786518000000,
       "duration": 120,
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Baseball",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-08-11_SH039624430000_110882748457_2016-08-04T17:47:00Z_p3606786_i_h10_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-08-12_SH039624430000_110882748457_2016-08-04T17:47:00Z_p3606786_i_h10_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Little League Baseball",
+      "episodeTitle": "",
+      "description": "Coverage of all the action from Little League baseball.",
+      "scheduledDate": 1786525200000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Baseball",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-08-12_SH039624430000_110882748457_2016-08-04T17:47:00Z_p3606786_i_h10_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "MLB Baseball",
+      "episodeTitle": "San Diego Padres vs Milwaukee Brewers",
+      "description": "From PETCO Park in San Diego.",
+      "scheduledDate": 1786532400000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Baseball",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-08-12_EP062580852266_111253695538_2026-06-27T19:17:21Z_GNLZZGG0037T2FP/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Quick Pitch",
+      "episodeTitle": "",
+      "description": "All the latest baseball news, scores and highlights. Plus, a first look at upcoming matchups.",
+      "scheduledDate": 1786539600000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Baseball",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-08-12_SH039225660000_107838083445_2020-08-03T13:50:35Z_p3527970_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Quick Pitch",
+      "episodeTitle": "",
+      "description": "All the latest baseball news, scores and highlights. Plus, a first look at upcoming matchups.",
+      "scheduledDate": 1786543200000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Baseball",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-08-12_SH039225660000_107838083445_2020-08-03T13:50:35Z_p3527970_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Little League Baseball",
+      "episodeTitle": "",
+      "description": "Coverage of all the action from Little League baseball.",
+      "scheduledDate": 1786546800000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Baseball",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-08-12_SH039624430000_110882748457_2016-08-04T17:47:00Z_p3606786_i_h10_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Little League Baseball",
+      "episodeTitle": "",
+      "description": "Coverage of all the action from Little League baseball.",
+      "scheduledDate": 1786554000000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Baseball",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-08-12_SH039624430000_110882748457_2016-08-04T17:47:00Z_p3606786_i_h10_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     }
   ]
 }
