@@ -2,8 +2,8 @@
   "channel": "FSS",
   "date": "2026-08-13",
   "source": "kayo",
-  "fetchedAt": 1786438660051,
-  "fetchedAtIST": "11/8/2026, 2:27:40 pm",
+  "fetchedAt": 1786453627415,
+  "fetchedAtIST": "11/8/2026, 6:37:07 pm",
   "events": [
     {
       "programTitle": "WSL Replay",
@@ -146,7 +146,7 @@
       "parentalRating": "",
       "programType": "Sports non-event",
       "genre": "Golf",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-08-13_SH034181850000_108930678702_2022-01-21T12:57:01Z_p17650562_i_h8_al/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-08-13_SH034181850000_111231394508_2022-01-21T12:57:01Z_p17650562_i_h8_al/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "MotorRacing 360",
@@ -219,7 +219,7 @@
       "episodeTitle": "Tahiti, Day 6",
       "description": "Coverage of surfing action from the WSL.",
       "scheduledDate": 1786642200000,
-      "duration": 480,
+      "duration": 270,
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Surfing",
