@@ -1,0 +1,42 @@
+{
+  "channel": "ES2",
+  "date": "2026-08-14",
+  "source": "kayo",
+  "fetchedAt": 1786425006688,
+  "fetchedAtIST": "11/8/2026, 10:40:06 am",
+  "events": [
+    {
+      "programTitle": "Little League Baseball",
+      "episodeTitle": "",
+      "description": "Coverage of all the action from Little League baseball.",
+      "scheduledDate": 1786647600000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Baseball",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-08-13_SH039624430000_110882748457_2016-08-04T17:47:00Z_p3606786_i_h10_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Little League Baseball",
+      "episodeTitle": "",
+      "description": "Coverage of all the action from Little League baseball.",
+      "scheduledDate": 1786654800000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Baseball",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-08-13_SH039624430000_110882748457_2016-08-04T17:47:00Z_p3606786_i_h10_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Little League Baseball",
+      "episodeTitle": "",
+      "description": "Coverage of all the action from Little League baseball.",
+      "scheduledDate": 1786662000000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Baseball",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-08-13_SH039624430000_110882748457_2016-08-04T17:47:00Z_p3606786_i_h10_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    }
+  ]
+}

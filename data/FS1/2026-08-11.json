@@ -2,8 +2,8 @@
   "channel": "FS1",
   "date": "2026-08-11",
   "source": "kayo",
-  "fetchedAt": 1786412902178,
-  "fetchedAtIST": "11/8/2026, 7:18:22 am",
+  "fetchedAt": 1786425006622,
+  "fetchedAtIST": "11/8/2026, 10:40:06 am",
   "events": [
     {
       "programTitle": "Men's Ashes",
@@ -248,15 +248,26 @@
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-08-11_SH034583010000_110095246552_2026-03-24T13:16:18Z_p8509066_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "One-Day International Cricket",
-      "episodeTitle": "2014 - Australia vs England, 2nd ODI",
-      "description": "Coverage of one-day cricket matches contested by international teams.",
+      "programTitle": "Cricket Classics",
+      "episodeTitle": "",
+      "description": "Look back at some of the instant classic Tests, ODI's, T20's and BBL's featuring our biggest rivals – England, India, South Africa and Pakistan – on Aussie soil.",
       "scheduledDate": 1786450020000,
-      "duration": 71,
+      "duration": 56,
       "parentalRating": "",
-      "programType": "Sports event",
-      "genre": "Cricket, Classic sport event",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-08-11_SH034583010000_110095246552_2026-03-24T13:16:18Z_p8509066_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "programType": "Sports non-event",
+      "genre": "Cricket",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-08-11_SH034744900000_111222635589_2025-02-28T10:44:38Z_p223333_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "The Hundred",
+      "episodeTitle": "Men's: Trent Rockets v Southern Brave",
+      "description": "The Hundred is a professional franchise 100-ball cricket tournament.",
+      "scheduledDate": 1786453380000,
+      "duration": 20,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Cricket",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-08-11_SH044046720000_109379182765_2021-07-26T13:37:10Z_p20330611_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "The Hundred",
@@ -273,12 +284,34 @@
       "programTitle": "The Hundred",
       "episodeTitle": "Women's: Trent Rockets v Southern Brave",
       "description": "The Hundred is a professional franchise 100-ball cricket tournament.",
+      "scheduledDate": 1786454580000,
+      "duration": 20,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Cricket",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-08-11_SH044046720000_109379182765_2021-07-26T13:37:10Z_p20330611_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "The Hundred",
+      "episodeTitle": "Women's: Trent Rockets v Southern Brave",
+      "description": "The Hundred is a professional franchise 100-ball cricket tournament.",
       "scheduledDate": 1786455480000,
       "duration": 20,
       "parentalRating": "",
       "programType": "Sports non-event",
       "genre": "Cricket",
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-08-11_SH044046720000_109379182765_2021-07-26T13:37:10Z_p20330611_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Women's The Hundred",
+      "episodeTitle": "Manchester Super Giants vs Sunrisers Leeds",
+      "description": "From Emirates Old Trafford in Manchester, England, United Kingdom.",
+      "scheduledDate": 1786455780000,
+      "duration": 197,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Cricket",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-08-11_EP039321620189_110991466605_2026-08-05T16:47:24Z_GNLZZGG003F5CHP/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "Women's The Hundred",
