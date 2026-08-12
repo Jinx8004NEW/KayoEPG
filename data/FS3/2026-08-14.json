@@ -2,8 +2,8 @@
   "channel": "FS3",
   "date": "2026-08-14",
   "source": "kayo",
-  "fetchedAt": 1786525940901,
-  "fetchedAtIST": "12/8/2026, 2:42:20 pm",
+  "fetchedAt": 1786540252951,
+  "fetchedAtIST": "12/8/2026, 6:40:52 pm",
   "events": [
     {
       "programTitle": "LPGA Tour Golf",
@@ -29,8 +29,8 @@
     },
     {
       "programTitle": "DP World Tour Golf",
-      "episodeTitle": "",
-      "description": "Golfing action from the DP World Tour.",
+      "episodeTitle": "Danish Golf Championship, First Round",
+      "description": "From the Great Northern in Kerteminde, Denmark.",
       "scheduledDate": 1786671000000,
       "duration": 90,
       "parentalRating": "",
@@ -47,7 +47,7 @@
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Golf",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-08-14_EP030899371414_111242656362_2026-08-05T21:08:24Z_p32044943_b_h8_ad/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-08-14_EP030899371414_111284304027_2026-08-05T21:08:24Z_p32044943_b_h8_ad/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "LPGA Tour Golf",
@@ -69,7 +69,7 @@
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Golf",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-08-14_EP030899371414_111242656362_2026-08-05T21:08:24Z_p32044943_b_h8_ad/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-08-14_EP030899371414_111284304027_2026-08-05T21:08:24Z_p32044943_b_h8_ad/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "How Good is Golf",
@@ -84,8 +84,8 @@
     },
     {
       "programTitle": "DP World Tour Golf",
-      "episodeTitle": "",
-      "description": "Golfing action from the DP World Tour.",
+      "episodeTitle": "Danish Golf Championship, First Round",
+      "description": "From the Great Northern in Kerteminde, Denmark.",
       "scheduledDate": 1786694400000,
       "duration": 90,
       "parentalRating": "",
@@ -113,14 +113,25 @@
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Golf",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-08-14_EP030899371414_111242656362_2026-08-05T21:08:24Z_p32044943_b_h8_ad/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-08-14_EP030899371414_111284304027_2026-08-05T21:08:24Z_p32044943_b_h8_ad/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Views of Golf",
+      "episodeTitle": "Trucks - Rory McIlroy - Melbourne Sandbelt",
+      "description": "",
+      "scheduledDate": 1786707000000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Series",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-08-14_SH064522870000_110257465303_2023-04-19T09:46:34Z_p14382203_i_h10_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "PGA Tour Golf",
       "episodeTitle": "FedEx St. Jude Championship, Second Round",
       "description": "From TPC Southwind in Memphis, Tenn.",
-      "scheduledDate": 1786707000000,
-      "duration": 390,
+      "scheduledDate": 1786708800000,
+      "duration": 360,
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Golf",
