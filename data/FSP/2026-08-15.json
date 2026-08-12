@@ -1,0 +1,75 @@
+{
+  "channel": "FSP",
+  "date": "2026-08-15",
+  "source": "kayo",
+  "fetchedAt": 1786500027686,
+  "fetchedAtIST": "12/8/2026, 7:30:27 am",
+  "events": [
+    {
+      "programTitle": "Formula 1 Racing",
+      "episodeTitle": "Hungarian Grand Prix",
+      "description": "From Hungaroring in Budapest, Hungary.",
+      "scheduledDate": 1786732200000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Auto racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-08-14_EP029400250119_110543813621_2026-06-18T03:56:15Z_p32387462_b_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "UCI BMX Freestyle World Cup",
+      "episodeTitle": "",
+      "description": "",
+      "scheduledDate": 1786739400000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "BMX freestyle",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-08-14_SH051867500000_108498900596_2026-05-14T22:15:15Z_p26793241_e_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "UFC Countdown",
+      "episodeTitle": "UFC 330 Countdown: Makhachev vs. Machado Garry",
+      "description": "Go inside the lives and training camps of athletes preparing for UFC 330 where Islam Makhachev goes up against Ian Machado Garry.",
+      "scheduledDate": 1786741200000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Mixed martial arts, Documentary",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-08-14_EP030408650108_111220875829_2026-08-10T06:26:09Z_p33512246_e_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Fight Week",
+      "episodeTitle": "UFC 330",
+      "description": "Fox Sports reporters take a look at the UFC results, previews, and news from the previous UFC Fight Week.",
+      "scheduledDate": 1786744800000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Series",
+      "genre": "Sports talk, Mixed martial arts, Boxing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-08-14_SH028549290000_94258305657_2024-01-18T22:33:02Z_p14982509_i_h10_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "MotoGP Mini",
+      "episodeTitle": "Great Britain",
+      "description": "Experience all the action and highlights from the MotoGP championship races.",
+      "scheduledDate": 1786746600000,
+      "duration": 25,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Classic sport event, Motorsports, Motorcycle racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-08-14_SH035786450000_105695703154_2020-08-14T07:40:24Z_p18624430_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "CPL T20 Cricket",
+      "episodeTitle": "St. Lucia Kings vs Antigua & Barbuda Falcons",
+      "description": "Coverage of action from the Caribbean Premier League T20 cricket.",
+      "scheduledDate": 1786748100000,
+      "duration": 245,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Cricket",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-08-14_EP033351860181_111195050518_2026-08-09T10:47:19Z_GNLZZGG003FD6J6/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    }
+  ]
+}

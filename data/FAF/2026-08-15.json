@@ -1,0 +1,31 @@
+{
+  "channel": "FAF",
+  "date": "2026-08-15",
+  "source": "kayo",
+  "fetchedAt": 1786500027679,
+  "fetchedAtIST": "12/8/2026, 7:30:27 am",
+  "events": [
+    {
+      "programTitle": "AFL",
+      "episodeTitle": "Fremantle vs Adelaide Crows",
+      "description": "Live from Optus Stadium. Bounce time: 8:10 pm AEST.",
+      "scheduledDate": 1786739400000,
+      "duration": 150,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Australian rules football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-08-14_EP029151671425_111035779233_2026-04-14T21:24:15Z_GNLZZGG0032S5HX/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "AFL",
+      "episodeTitle": "Fremantle vs Adelaide Crows",
+      "description": "Live from Optus Stadium. Bounce time: 8:10 pm AEST.",
+      "scheduledDate": 1786748400000,
+      "duration": 150,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Australian rules football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-08-14_EP029151671425_111035779233_2026-04-14T21:24:15Z_GNLZZGG0032S5HX/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    }
+  ]
+}

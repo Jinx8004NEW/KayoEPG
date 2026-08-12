@@ -1,0 +1,20 @@
+{
+  "channel": "FSS",
+  "date": "2026-08-15",
+  "source": "kayo",
+  "fetchedAt": 1786500027705,
+  "fetchedAtIST": "12/8/2026, 7:30:27 am",
+  "events": [
+    {
+      "programTitle": "WSL Tour",
+      "episodeTitle": "Tahiti, Day 7",
+      "description": "Coverage of surfing action from the WSL.",
+      "scheduledDate": 1786744800000,
+      "duration": 240,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Surfing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-08-14_SH033247690000_110929981520_2019-03-19T05:40:29Z_p16589355_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    }
+  ]
+}
