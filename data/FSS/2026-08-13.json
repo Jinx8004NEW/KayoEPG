@@ -2,8 +2,8 @@
   "channel": "FSS",
   "date": "2026-08-13",
   "source": "kayo",
-  "fetchedAt": 1786612406073,
-  "fetchedAtIST": "13/8/2026, 2:43:26 pm",
+  "fetchedAt": 1786626750035,
+  "fetchedAtIST": "13/8/2026, 6:42:30 pm",
   "events": [
     {
       "programTitle": "WSL Replay",
@@ -204,15 +204,26 @@
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-08-13_SH033826880000_105751152795_2025-02-19T19:54:01Z_p8177536_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "UFC Countdown",
-      "episodeTitle": "UFC 330 Countdown: Makhachev vs. Machado Garry",
-      "description": "Go inside the lives and training camps of athletes preparing for UFC 330 where Islam Makhachev goes up against Ian Machado Garry.",
+      "programTitle": "F1 Mini",
+      "episodeTitle": "Hungary Grand Prix",
+      "description": "A commanding qualifying puts McLaren at the sharp end as pole-sitter Lando Norris aims to convert his single-lap speed into victory over a chasing Ferrari pack.",
       "scheduledDate": 1786638600000,
-      "duration": 60,
+      "duration": 30,
       "parentalRating": "",
-      "programType": "Sports non-event",
-      "genre": "Mixed martial arts, Documentary",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-08-13_EP030408650108_111220875829_2026-08-10T06:26:09Z_p33512246_e_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "programType": "Sports event",
+      "genre": "Motorsports, Classic sport event",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-08-13_SH036452570000_107032703571_2020-11-19T03:00:48Z_p18944992_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "World Surf League",
+      "episodeTitle": "Championship Tour: Outerknown Tahiti Pro, Day 6",
+      "description": "Coverage of surfing action from the WSL.",
+      "scheduledDate": 1786640400000,
+      "duration": 270,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Surfing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-08-13_SH033247700000_110929981531_2019-03-19T05:40:29Z_p16589355_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "World Surf League",

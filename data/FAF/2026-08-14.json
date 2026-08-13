@@ -2,8 +2,8 @@
   "channel": "FAF",
   "date": "2026-08-14",
   "source": "kayo",
-  "fetchedAt": 1786612406052,
-  "fetchedAtIST": "13/8/2026, 2:43:26 pm",
+  "fetchedAt": 1786626750013,
+  "fetchedAtIST": "13/8/2026, 6:42:30 pm",
   "events": [
     {
       "programTitle": "AFL Women's Premiership",
@@ -11,6 +11,17 @@
       "description": "Live from Ikon Park. Bounce time: 7:15pm AEST.",
       "scheduledDate": 1786647600000,
       "duration": 90,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Australian rules football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-08-13_EP029247970743_111035548214_2026-07-18T00:15:57Z_GNLZZGG003BG1GL/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "AFL Women's Premiership",
+      "episodeTitle": "Hawthorn Hawks vs Melbourne Demons",
+      "description": "Live from Ikon Park. Bounce time: 7:15pm AEST.",
+      "scheduledDate": 1786648500000,
+      "duration": 95,
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Australian rules football",
@@ -226,15 +237,15 @@
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-08-14_EP029247970743_111035548214_2026-07-18T00:15:57Z_GNLZZGG003BG1GL/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "AFL Mini",
+      "programTitle": "FoxCatcher AFL Preview",
       "episodeTitle": "",
-      "description": "Condensed highlights, reaction and analysis of the biggest sport stories from Australia and around the world.",
+      "description": "Jules Vallance and Bernie Vince provide all the betting insights you need to head into another weekend of footy.",
       "scheduledDate": 1786686600000,
       "duration": 20,
       "parentalRating": "",
       "programType": "Sports non-event",
       "genre": "Australian rules football",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-08-14_SH042238570000_104529301600_2022-03-07T04:36:21Z_p21759801_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/Fallback_LTV_Fox_Footy/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "AFL Mini",

@@ -2,19 +2,41 @@
   "channel": "FSS",
   "date": "2026-08-16",
   "source": "kayo",
-  "fetchedAt": 1786612406075,
-  "fetchedAtIST": "13/8/2026, 2:43:26 pm",
+  "fetchedAt": 1786626750036,
+  "fetchedAtIST": "13/8/2026, 6:42:30 pm",
   "events": [
     {
-      "programTitle": "WSL Tour",
-      "episodeTitle": "Tahiti, Day 8",
-      "description": "Coverage of surfing action from the WSL.",
+      "programTitle": "FIM Speedway Grand Prix Series",
+      "episodeTitle": "Round 8: Latvia",
+      "description": "Professional riders compete in a motorcycle speedway racing competition organised by the International Motorcycling Federation (FIM) to emerge victorious and win the coveted title.",
       "scheduledDate": 1786831200000,
-      "duration": 250,
+      "duration": 50,
+      "parentalRating": "",
+      "programType": "Series",
+      "genre": "Motorcycle",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-08-15_SH052529490000_109961681573_2024-01-30T22:43:07Z_p7832673_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "FIM Speedway Grand Prix Series",
+      "episodeTitle": "Round 8: Latvia",
+      "description": "Professional riders compete in a motorcycle speedway racing competition organised by the International Motorcycling Federation (FIM) to emerge victorious and win the coveted title.",
+      "scheduledDate": 1786834200000,
+      "duration": 50,
+      "parentalRating": "",
+      "programType": "Series",
+      "genre": "Motorcycle",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-08-15_SH052529490000_109961681573_2024-01-30T22:43:07Z_p7832673_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "PBR Bull Riding",
+      "episodeTitle": "",
+      "description": "Coverage of the action from the Professional Bull Riders events.",
+      "scheduledDate": 1786837200000,
+      "duration": 60,
       "parentalRating": "",
       "programType": "Sports event",
-      "genre": "Surfing",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-08-15_SH033247690000_110929981520_2019-03-19T05:40:29Z_p16589355_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "genre": "Bull riding",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-08-15_SH033364560000_110114392996_2017-09-14T16:13:00Z_p12572769_i_h10_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     }
   ]
 }

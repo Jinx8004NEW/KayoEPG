@@ -2,9 +2,20 @@
   "channel": "FSS",
   "date": "2026-08-14",
   "source": "kayo",
-  "fetchedAt": 1786612406074,
-  "fetchedAtIST": "13/8/2026, 2:43:26 pm",
+  "fetchedAt": 1786626750035,
+  "fetchedAtIST": "13/8/2026, 6:42:30 pm",
   "events": [
+    {
+      "programTitle": "World Surf League",
+      "episodeTitle": "Championship Tour: Outerknown Tahiti Pro, Day 6",
+      "description": "Coverage of surfing action from the WSL.",
+      "scheduledDate": 1786656600000,
+      "duration": 270,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Surfing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-08-13_SH033247700000_110929981531_2019-03-19T05:40:29Z_p16589355_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
     {
       "programTitle": "World Surf League",
       "episodeTitle": "Championship Tour: Outerknown Tahiti Pro, Day 6",
@@ -39,15 +50,26 @@
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-08-14_SH033364560000_110114392996_2017-09-14T16:13:00Z_p12572769_i_h10_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "The Spirit of Australian Sport",
-      "episodeTitle": "",
-      "description": "Features England midfielder Jude Bellingham, 23-time grand slam champion Novak Djokovic, freestyle skier Eileen Gu and cricket icon Sachin Tendulkar.",
+      "programTitle": "World Surf League Highlights",
+      "episodeTitle": "Outerknown Tahiti Pro",
+      "description": "Action from the World Surf League.",
       "scheduledDate": 1786680000000,
-      "duration": 30,
+      "duration": 20,
       "parentalRating": "",
       "programType": "Sports non-event",
-      "genre": "Other",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-08-14_SH045128200000_110979422184_2022-10-27T01:56:31Z_p23268383_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "genre": "Surfing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-08-14_SH037137820000_107844260793_2023-03-28T14:37:31Z_p12753420_i_h8_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "MotoGP Mini",
+      "episodeTitle": "Great Britain",
+      "description": "Experience all the action and highlights from the MotoGP championship races.",
+      "scheduledDate": 1786681200000,
+      "duration": 20,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Classic sport event, Motorsports, Motorcycle racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-08-14_SH035786450000_105695703154_2020-08-14T07:40:24Z_p18624430_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "How Good is Golf",
@@ -59,6 +81,17 @@
       "programType": "Sports non-event",
       "genre": "Golf",
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-08-14_SH047697570000_103716322117_2026-01-16T17:55:26Z_p24911210_i_h10_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "World Surf League Highlights",
+      "episodeTitle": "Outerknown Tahiti Pro",
+      "description": "Action from the World Surf League.",
+      "scheduledDate": 1786682400000,
+      "duration": 20,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Surfing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-08-14_SH037137820000_107844260793_2023-03-28T14:37:31Z_p12753420_i_h8_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "Darts",
@@ -138,15 +171,37 @@
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/Fallback_LTV_Fox_Sports_507/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "World Surf League",
-      "episodeTitle": "Championship Tour: Outerknown Tahiti Pro, Day 7",
-      "description": "Coverage of surfing action from the WSL.",
+      "programTitle": "World Surf League Highlights",
+      "episodeTitle": "2026 Bonsoy Gold Coast Pro",
+      "description": "Action from the World Surf League.",
       "scheduledDate": 1786728600000,
-      "duration": 270,
+      "duration": 20,
       "parentalRating": "",
-      "programType": "Sports event",
+      "programType": "Sports non-event",
       "genre": "Surfing",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-08-14_SH033247700000_110929981531_2019-03-19T05:40:29Z_p16589355_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-08-14_SH037137820000_107844260793_2023-03-28T14:37:31Z_p12753420_i_h8_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "World Surf League Highlights",
+      "episodeTitle": "Corona Cero New Zealand Pro",
+      "description": "Action from the World Surf League.",
+      "scheduledDate": 1786729800000,
+      "duration": 20,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Surfing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-08-14_SH037137820000_107844260793_2023-03-28T14:37:31Z_p12753420_i_h8_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "World Surf League Highlights",
+      "episodeTitle": "Surf City El Salvador Pro",
+      "description": "Action from the World Surf League.",
+      "scheduledDate": 1786731000000,
+      "duration": 20,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Surfing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-08-14_SH037137820000_107844260793_2023-03-28T14:37:31Z_p12753420_i_h8_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     }
   ]
 }

@@ -2,8 +2,8 @@
   "channel": "SPS",
   "date": "2026-08-14",
   "source": "kayo",
-  "fetchedAt": 1786612406069,
-  "fetchedAtIST": "13/8/2026, 2:43:26 pm",
+  "fetchedAt": 1786626750028,
+  "fetchedAtIST": "13/8/2026, 6:42:30 pm",
   "events": [
     {
       "programTitle": "MotoGP Mini",
@@ -62,14 +62,14 @@
     },
     {
       "programTitle": "FIM Speedway Grand Prix Series",
-      "episodeTitle": "Semifinal 2: Riga",
-      "description": "All the action from speedway racing events.",
+      "episodeTitle": "Round 8: Latvia",
+      "description": "Professional riders compete in a motorcycle speedway racing competition organised by the International Motorcycling Federation (FIM) to emerge victorious and win the coveted title.",
       "scheduledDate": 1786662000000,
       "duration": 52,
       "parentalRating": "",
-      "programType": "Sports event",
-      "genre": "Motorcycle racing",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-08-13_SH033527640000_106629714729_2020-11-17T18:00:38Z_p492284_i_h10_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "programType": "Series",
+      "genre": "Motorcycle",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-08-13_SH052529490000_109961681573_2024-01-30T22:43:07Z_p7832673_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "FIM Speedway Grand Prix Series",
