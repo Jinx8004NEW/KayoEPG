@@ -2,8 +2,8 @@
   "channel": "UFC",
   "date": "2026-08-13",
   "source": "kayo",
-  "fetchedAt": 1786626750053,
-  "fetchedAtIST": "13/8/2026, 6:42:30 pm",
+  "fetchedAt": 1786640221267,
+  "fetchedAtIST": "13/8/2026, 10:27:01 pm",
   "events": [
     {
       "programTitle": "UFC Countdown",
@@ -352,7 +352,7 @@
       "description": "From Madison Square Garden in New York.",
       "scheduledDate": 1786640100000,
       "duration": 55,
-      "parentalRating": "",
+      "parentalRating": "NC",
       "programType": "Sports event",
       "genre": "Mixed martial arts",
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/164400_2026-08-13_SH061237980000_110674066145_2025-11-05T15:45:09Z_p31457049_i_h10_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
@@ -363,7 +363,7 @@
       "description": "",
       "scheduledDate": 1786643400000,
       "duration": 40,
-      "parentalRating": "",
+      "parentalRating": "NC",
       "programType": "Sports event",
       "genre": "Mixed martial arts",
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/164400_2026-08-13_SH065464150000_110673832270_2025-11-28T07:01:37Z_p31783028_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"

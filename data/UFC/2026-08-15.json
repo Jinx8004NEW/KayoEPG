@@ -2,19 +2,19 @@
   "channel": "UFC",
   "date": "2026-08-15",
   "source": "kayo",
-  "fetchedAt": 1786626750055,
-  "fetchedAtIST": "13/8/2026, 6:42:30 pm",
+  "fetchedAt": 1786640221268,
+  "fetchedAtIST": "13/8/2026, 10:27:01 pm",
   "events": [
     {
       "programTitle": "Fight Week",
-      "episodeTitle": "UFC 330: Preview",
-      "description": "The latest episode of Fight Week looking ahead to all the upcoming UFC action.",
+      "episodeTitle": "UFC 330",
+      "description": "Fox Sports reporters take a look at the UFC results, previews, and news from the previous UFC Fight Week.",
       "scheduledDate": 1786734900000,
       "duration": 30,
       "parentalRating": "MA 15+",
-      "programType": "Sports non-event",
-      "genre": "Mixed martial arts",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/164400_2026-08-14_SH035395740000_101095336468_2024-01-23T14:33:47Z_p18447933_i_h8_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "programType": "Series",
+      "genre": "Sports talk, Mixed martial arts, Boxing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/164400_2026-08-14_SH028549290000_94258305657_2024-01-18T22:33:02Z_p14982509_i_h10_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "UFC 322: Della Maddalena vs. Makhachev",
@@ -22,7 +22,7 @@
       "description": "From Madison Square Garden in New York.",
       "scheduledDate": 1786736700000,
       "duration": 55,
-      "parentalRating": "",
+      "parentalRating": "NC",
       "programType": "Sports event",
       "genre": "Mixed martial arts",
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/164400_2026-08-14_SH061237980000_110674066145_2025-11-05T15:45:09Z_p31457049_i_h10_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
@@ -33,7 +33,7 @@
       "description": "",
       "scheduledDate": 1786740000000,
       "duration": 20,
-      "parentalRating": "",
+      "parentalRating": "NC",
       "programType": "Sports event",
       "genre": "Mixed martial arts",
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/164400_2026-08-14_SH065464200000_110674429393_2025-05-06T07:35:07Z_p30143520_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
@@ -44,7 +44,7 @@
       "description": "",
       "scheduledDate": 1786741200000,
       "duration": 60,
-      "parentalRating": "",
+      "parentalRating": "NC",
       "programType": "Sports non-event",
       "genre": "Special, Mixed martial arts",
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/Fallback_LTV_UFC_MainEvent/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
@@ -66,7 +66,7 @@
       "description": "",
       "scheduledDate": 1786744800000,
       "duration": 45,
-      "parentalRating": "",
+      "parentalRating": "NC",
       "programType": "Sports non-event",
       "genre": "Special, Mixed martial arts",
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/164400_2026-08-14_SH065524170000_110904159717_2026-07-28T12:55:39Z_p33518912_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
@@ -99,7 +99,7 @@
       "description": "",
       "scheduledDate": 1786747500000,
       "duration": 45,
-      "parentalRating": "",
+      "parentalRating": "NC",
       "programType": "Special",
       "genre": "Special, Mixed martial arts",
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/164400_2026-08-14_SH065489120000_111103272084_2026-07-31T16:46:55Z_p33598987_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
@@ -121,7 +121,7 @@
       "description": "From Madison Square Garden in New York.",
       "scheduledDate": 1786750200000,
       "duration": 55,
-      "parentalRating": "",
+      "parentalRating": "NC",
       "programType": "Sports event",
       "genre": "Mixed martial arts",
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/164400_2026-08-14_SH061237980000_110674066145_2025-11-05T15:45:09Z_p31457049_i_h10_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
@@ -143,7 +143,7 @@
       "description": "",
       "scheduledDate": 1786753500000,
       "duration": 20,
-      "parentalRating": "",
+      "parentalRating": "NC",
       "programType": "Sports event",
       "genre": "Mixed martial arts",
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/164400_2026-08-15_SH065464200000_110674429393_2025-05-06T07:35:07Z_p30143520_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
@@ -165,7 +165,7 @@
       "description": "",
       "scheduledDate": 1786754700000,
       "duration": 20,
-      "parentalRating": "",
+      "parentalRating": "NC",
       "programType": "Sports event",
       "genre": "Mixed martial arts",
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/164400_2026-08-15_SH065464200000_110674429393_2025-05-06T07:35:07Z_p30143520_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
@@ -187,7 +187,7 @@
       "description": "",
       "scheduledDate": 1786755900000,
       "duration": 40,
-      "parentalRating": "",
+      "parentalRating": "NC",
       "programType": "Sports event",
       "genre": "Mixed martial arts",
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/164400_2026-08-15_SH065464150000_110673832270_2025-11-28T07:01:37Z_p31783028_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
@@ -198,7 +198,7 @@
       "description": "From Madison Square Garden in New York.",
       "scheduledDate": 1786758300000,
       "duration": 55,
-      "parentalRating": "",
+      "parentalRating": "NC",
       "programType": "Sports event",
       "genre": "Mixed martial arts",
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/164400_2026-08-15_SH061237980000_110674066145_2025-11-05T15:45:09Z_p31457049_i_h10_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
@@ -209,7 +209,7 @@
       "description": "",
       "scheduledDate": 1786761600000,
       "duration": 40,
-      "parentalRating": "",
+      "parentalRating": "NC",
       "programType": "Sports event",
       "genre": "Mixed martial arts",
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/164400_2026-08-15_SH065464150000_110673832270_2025-11-28T07:01:37Z_p31783028_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
@@ -220,7 +220,7 @@
       "description": "",
       "scheduledDate": 1786764000000,
       "duration": 50,
-      "parentalRating": "",
+      "parentalRating": "NC",
       "programType": "Sports event",
       "genre": "Mixed martial arts",
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/164400_2026-08-15_SH065463980000_110674429376_2025-10-27T07:47:08Z_p31532329_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
@@ -231,7 +231,7 @@
       "description": "",
       "scheduledDate": 1786767000000,
       "duration": 20,
-      "parentalRating": "",
+      "parentalRating": "NC",
       "programType": "Sports event",
       "genre": "Mixed martial arts",
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/164400_2026-08-15_SH065464200000_110674429393_2025-05-06T07:35:07Z_p30143520_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
@@ -249,14 +249,14 @@
     },
     {
       "programTitle": "Fight Week",
-      "episodeTitle": "UFC 330: Preview",
-      "description": "The latest episode of Fight Week looking ahead to all the upcoming UFC action.",
+      "episodeTitle": "UFC 330",
+      "description": "Fox Sports reporters take a look at the UFC results, previews, and news from the previous UFC Fight Week.",
       "scheduledDate": 1786771800000,
       "duration": 30,
       "parentalRating": "MA 15+",
-      "programType": "Sports non-event",
-      "genre": "Mixed martial arts",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/164400_2026-08-15_SH035395740000_101095336468_2024-01-23T14:33:47Z_p18447933_i_h8_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "programType": "Series",
+      "genre": "Sports talk, Mixed martial arts, Boxing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/164400_2026-08-15_SH028549290000_94258305657_2024-01-18T22:33:02Z_p14982509_i_h10_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "UFC 330: Press Conference",
@@ -264,7 +264,7 @@
       "description": "",
       "scheduledDate": 1786773600000,
       "duration": 45,
-      "parentalRating": "",
+      "parentalRating": "NC",
       "programType": "Special",
       "genre": "Special, Mixed martial arts",
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/164400_2026-08-15_SH065489120000_111103272084_2026-07-31T16:46:55Z_p33598987_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
@@ -275,7 +275,7 @@
       "description": "From Madison Square Garden in New York.",
       "scheduledDate": 1786776300000,
       "duration": 55,
-      "parentalRating": "",
+      "parentalRating": "NC",
       "programType": "Sports event",
       "genre": "Mixed martial arts",
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/164400_2026-08-15_SH061237980000_110674066145_2025-11-05T15:45:09Z_p31457049_i_h10_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
@@ -286,7 +286,7 @@
       "description": "",
       "scheduledDate": 1786779600000,
       "duration": 40,
-      "parentalRating": "",
+      "parentalRating": "NC",
       "programType": "Sports event",
       "genre": "Mixed martial arts",
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/164400_2026-08-15_SH065464150000_110673832270_2025-11-28T07:01:37Z_p31783028_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
@@ -297,7 +297,7 @@
       "description": "",
       "scheduledDate": 1786782000000,
       "duration": 50,
-      "parentalRating": "",
+      "parentalRating": "NC",
       "programType": "Sports event",
       "genre": "Mixed martial arts",
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/164400_2026-08-15_SH065463980000_110674429376_2025-10-27T07:47:08Z_p31532329_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
@@ -308,7 +308,7 @@
       "description": "",
       "scheduledDate": 1786785000000,
       "duration": 20,
-      "parentalRating": "",
+      "parentalRating": "NC",
       "programType": "Sports event",
       "genre": "Mixed martial arts",
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/164400_2026-08-15_SH065464200000_110674429393_2025-05-06T07:35:07Z_p30143520_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
@@ -326,14 +326,14 @@
     },
     {
       "programTitle": "Fight Week",
-      "episodeTitle": "UFC 330: Preview",
-      "description": "The latest episode of Fight Week looking ahead to all the upcoming UFC action.",
+      "episodeTitle": "UFC 330",
+      "description": "Fox Sports reporters take a look at the UFC results, previews, and news from the previous UFC Fight Week.",
       "scheduledDate": 1786789800000,
       "duration": 30,
       "parentalRating": "MA 15+",
-      "programType": "Sports non-event",
-      "genre": "Mixed martial arts",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/164400_2026-08-15_SH035395740000_101095336468_2024-01-23T14:33:47Z_p18447933_i_h8_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "programType": "Series",
+      "genre": "Sports talk, Mixed martial arts, Boxing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/164400_2026-08-15_SH028549290000_94258305657_2024-01-18T22:33:02Z_p14982509_i_h10_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "UFC 330: Press Conference",
@@ -341,7 +341,7 @@
       "description": "",
       "scheduledDate": 1786791600000,
       "duration": 45,
-      "parentalRating": "",
+      "parentalRating": "NC",
       "programType": "Special",
       "genre": "Special, Mixed martial arts",
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/164400_2026-08-15_SH065489120000_111103272084_2026-07-31T16:46:55Z_p33598987_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
@@ -352,7 +352,7 @@
       "description": "From Madison Square Garden in New York.",
       "scheduledDate": 1786794300000,
       "duration": 55,
-      "parentalRating": "",
+      "parentalRating": "NC",
       "programType": "Sports event",
       "genre": "Mixed martial arts",
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/164400_2026-08-15_SH061237980000_110674066145_2025-11-05T15:45:09Z_p31457049_i_h10_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
@@ -363,7 +363,7 @@
       "description": "",
       "scheduledDate": 1786797600000,
       "duration": 40,
-      "parentalRating": "",
+      "parentalRating": "NC",
       "programType": "Sports event",
       "genre": "Mixed martial arts",
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/164400_2026-08-15_SH065464150000_110673832270_2025-11-28T07:01:37Z_p31783028_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
@@ -374,7 +374,7 @@
       "description": "",
       "scheduledDate": 1786800000000,
       "duration": 50,
-      "parentalRating": "",
+      "parentalRating": "NC",
       "programType": "Sports event",
       "genre": "Mixed martial arts",
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/164400_2026-08-15_SH065463980000_110674429376_2025-10-27T07:47:08Z_p31532329_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
@@ -385,7 +385,7 @@
       "description": "",
       "scheduledDate": 1786803000000,
       "duration": 20,
-      "parentalRating": "",
+      "parentalRating": "NC",
       "programType": "Sports event",
       "genre": "Mixed martial arts",
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/164400_2026-08-15_SH065464200000_110674429393_2025-05-06T07:35:07Z_p30143520_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
@@ -407,21 +407,21 @@
       "description": "",
       "scheduledDate": 1786807800000,
       "duration": 20,
-      "parentalRating": "",
+      "parentalRating": "NC",
       "programType": "Sports event",
       "genre": "Mixed martial arts",
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/164400_2026-08-15_SH065464200000_110674429393_2025-05-06T07:35:07Z_p30143520_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "Fight Week",
-      "episodeTitle": "UFC 330: Preview",
-      "description": "The latest episode of Fight Week looking ahead to all the upcoming UFC action.",
+      "episodeTitle": "UFC 330",
+      "description": "Fox Sports reporters take a look at the UFC results, previews, and news from the previous UFC Fight Week.",
       "scheduledDate": 1786809000000,
       "duration": 30,
       "parentalRating": "MA 15+",
-      "programType": "Sports non-event",
-      "genre": "Mixed martial arts",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/164400_2026-08-15_SH035395740000_101095336468_2024-01-23T14:33:47Z_p18447933_i_h8_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "programType": "Series",
+      "genre": "Sports talk, Mixed martial arts, Boxing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/164400_2026-08-15_SH028549290000_94258305657_2024-01-18T22:33:02Z_p14982509_i_h10_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "UFC 330: Press Conference",
@@ -429,7 +429,7 @@
       "description": "",
       "scheduledDate": 1786810800000,
       "duration": 45,
-      "parentalRating": "",
+      "parentalRating": "NC",
       "programType": "Special",
       "genre": "Special, Mixed martial arts",
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/164400_2026-08-15_SH065489120000_111103272084_2026-07-31T16:46:55Z_p33598987_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
@@ -440,7 +440,7 @@
       "description": "From Madison Square Garden in New York.",
       "scheduledDate": 1786813500000,
       "duration": 55,
-      "parentalRating": "",
+      "parentalRating": "NC",
       "programType": "Sports event",
       "genre": "Mixed martial arts",
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/164400_2026-08-15_SH061237980000_110674066145_2025-11-05T15:45:09Z_p31457049_i_h10_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
@@ -451,7 +451,7 @@
       "description": "",
       "scheduledDate": 1786816800000,
       "duration": 40,
-      "parentalRating": "",
+      "parentalRating": "NC",
       "programType": "Sports event",
       "genre": "Mixed martial arts",
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/164400_2026-08-15_SH065464150000_110673832270_2025-11-28T07:01:37Z_p31783028_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
