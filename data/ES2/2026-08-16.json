@@ -1,0 +1,53 @@
+{
+  "channel": "ES2",
+  "date": "2026-08-16",
+  "source": "kayo",
+  "fetchedAt": 1786586543470,
+  "fetchedAtIST": "13/8/2026, 7:32:23 am",
+  "events": [
+    {
+      "programTitle": "Big Dreams: Little League World Series",
+      "episodeTitle": "",
+      "description": "",
+      "scheduledDate": 1786824000000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Special, Baseball, Event",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-08-15_SH059903580000_111195905431_2025-08-04T15:44:22Z_p30838871_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Women's Lacrosse League",
+      "episodeTitle": "Championship: Maryland Charm vs. California Palms",
+      "description": "From Subaru Park in Chester, Pa.",
+      "scheduledDate": 1786827600000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Lacrosse",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-08-15_SH055956560000_107758780467_2025-02-04T20:33:13Z_p28760930_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "SportsCenter",
+      "episodeTitle": "Top Plays of July",
+      "description": "The team deliver the latest news, highlights, and inside information from the wide world of sports, as well as trending topics across social media platforms.",
+      "scheduledDate": 1786834800000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "News, Sports talk",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-08-15_SH033259060000_109832503473_2018-04-18T10:39:00Z_p186674_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Banana Ball Live",
+      "episodeTitle": "",
+      "description": "Shows highlights from the Savannah Bananas baseball team.",
+      "scheduledDate": 1786836600000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Baseball",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-08-15_SH058993200000_110743924597_2025-07-02T16:54:01Z_p30583844_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    }
+  ]
+}

@@ -2,8 +2,8 @@
   "channel": "FSS",
   "date": "2026-08-15",
   "source": "kayo",
-  "fetchedAt": 1786567538299,
-  "fetchedAtIST": "13/8/2026, 2:15:38 am",
+  "fetchedAt": 1786586543458,
+  "fetchedAtIST": "13/8/2026, 7:32:23 am",
   "events": [
     {
       "programTitle": "World Surf League",
@@ -15,6 +15,116 @@
       "programType": "Sports event",
       "genre": "Surfing",
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-08-14_SH033247700000_110929981531_2019-03-19T05:40:29Z_p16589355_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "UFC Countdown",
+      "episodeTitle": "UFC 330 Countdown: Makhachev vs. Machado Garry",
+      "description": "Go inside the lives and training camps of athletes preparing for UFC 330 where Islam Makhachev goes up against Ian Machado Garry.",
+      "scheduledDate": 1786759200000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Mixed martial arts, Documentary",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-08-15_EP030408650108_111220875829_2026-08-10T06:26:09Z_p33512246_e_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Fight Week",
+      "episodeTitle": "UFC 330",
+      "description": "Fox Sports reporters take a look at the UFC results, previews, and news from the previous UFC Fight Week.",
+      "scheduledDate": 1786762800000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Series",
+      "genre": "Sports talk, Mixed martial arts, Boxing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-08-15_SH028549290000_94258305657_2024-01-18T22:33:02Z_p14982509_i_h10_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "PGA Tour Golf",
+      "episodeTitle": "FedEx St. Jude Championship, Second Round",
+      "description": "From TPC Southwind in Memphis, Tenn.",
+      "scheduledDate": 1786764600000,
+      "duration": 90,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-08-15_SH030899370000_110982182699_2025-07-31T11:34:53Z_p845788_i_h8_af/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Darts",
+      "episodeTitle": "New Zealand Darts Masters: Day 1",
+      "description": "Covering of all the action from darts events around the world.",
+      "scheduledDate": 1786770000000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Darts",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-08-15_SH032967320000_109954612423_2024-10-04T13:14:55Z_p644283_i_h8_ah/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Darts",
+      "episodeTitle": "New Zealand Darts Masters: Final Day",
+      "description": "Covering of all the action from darts events around the world.",
+      "scheduledDate": 1786777200000,
+      "duration": 240,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Darts",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-08-15_SH032967320000_109954612423_2024-10-04T13:14:55Z_p644283_i_h8_ah/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "PGA Tour Champions Golf",
+      "episodeTitle": "Boeing Classic, First Round",
+      "description": "Golfing action from the PGA Tour Champions.",
+      "scheduledDate": 1786791600000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-08-15_SH034248570000_109900686393_2017-11-07T21:05:00Z_p14792051_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Ladies Euro Tour Golf",
+      "episodeTitle": "VP Bank Swiss Ladies Open, Final Round",
+      "description": "Golf action from the Ladies European Tour.",
+      "scheduledDate": 1786795200000,
+      "duration": 180,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-08-15_SH033826880000_105751152795_2025-02-19T19:54:01Z_p8177536_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Formula 1 Racing",
+      "episodeTitle": "Hungarian Grand Prix",
+      "description": "From Hungaroring in Budapest, Hungary.",
+      "scheduledDate": 1786806000000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Auto racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-08-15_EP029400250119_110543813621_2026-06-18T03:56:15Z_p32387462_b_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Fight Week",
+      "episodeTitle": "UFC 330",
+      "description": "Fox Sports reporters take a look at the UFC results, previews, and news from the previous UFC Fight Week.",
+      "scheduledDate": 1786813200000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Series",
+      "genre": "Sports talk, Mixed martial arts, Boxing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-08-15_SH028549290000_94258305657_2024-01-18T22:33:02Z_p14982509_i_h10_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "WSL Tour",
+      "episodeTitle": "Tahiti, Day 8",
+      "description": "Coverage of surfing action from the WSL.",
+      "scheduledDate": 1786815000000,
+      "duration": 270,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Surfing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-08-15_SH033247690000_110929981520_2019-03-19T05:40:29Z_p16589355_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     }
   ]
 }

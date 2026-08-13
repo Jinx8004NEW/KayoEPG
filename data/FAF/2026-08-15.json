@@ -2,8 +2,8 @@
   "channel": "FAF",
   "date": "2026-08-15",
   "source": "kayo",
-  "fetchedAt": 1786567537557,
-  "fetchedAtIST": "13/8/2026, 2:15:37 am",
+  "fetchedAt": 1786586543435,
+  "fetchedAtIST": "13/8/2026, 7:32:23 am",
   "events": [
     {
       "programTitle": "AFL",
@@ -26,6 +26,193 @@
       "programType": "Sports event",
       "genre": "Australian rules football",
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-08-14_EP029151671425_111035779233_2026-04-14T21:24:15Z_GNLZZGG0032S5HX/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "In the Back Pocket",
+      "episodeTitle": "",
+      "description": "A team of experts take a look at the betting markets for upcoming matches and try to pick a winner for each match.",
+      "scheduledDate": 1786757400000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Sports talk",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-08-15_SH038097710000_108850555447_2021-03-26T01:35:58Z_p19698246_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Super Saturday",
+      "episodeTitle": "Round 23",
+      "description": "Join the team for a comprehensive review of today's action.",
+      "scheduledDate": 1786759200000,
+      "duration": 35,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Australian rules football, Sports talk",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-08-15_SH035410310000_108044036911_2024-03-17T23:43:21Z_p18454288_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "AFL",
+      "episodeTitle": "Richmond vs St Kilda",
+      "description": "From Melbourne Cricket Ground in Melbourne, Victoria, Australia.",
+      "scheduledDate": 1786761300000,
+      "duration": 155,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Australian rules football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-08-15_EP029151671421_110923365114_2026-07-29T20:47:42Z_GNLZZGG003CYFG8/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Super Saturday",
+      "episodeTitle": "Round 23",
+      "description": "Join the team for a comprehensive review of today's action.",
+      "scheduledDate": 1786770600000,
+      "duration": 20,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Australian rules football, Sports talk",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-08-15_SH035410310000_108044036911_2024-03-17T23:43:21Z_p18454288_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Super Saturday",
+      "episodeTitle": "Round 23",
+      "description": "Join the team for a comprehensive preview of the action to come today.",
+      "scheduledDate": 1786771800000,
+      "duration": 15,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Australian rules football, Sports talk",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-08-15_SH035410310000_108044036911_2024-03-17T23:43:21Z_p18454288_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "AFL",
+      "episodeTitle": "North Melbourne vs Geelong Cats",
+      "description": "From Marvel Stadium in Melbourne, Australia.",
+      "scheduledDate": 1786772700000,
+      "duration": 155,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Australian rules football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-08-15_EP029151671417_111187866152_2026-07-29T20:47:16Z_GNLZZGG003CY5ZL/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Super Saturday",
+      "episodeTitle": "Round 23",
+      "description": "Join the team for a comprehensive preview of the action to come today.",
+      "scheduledDate": 1786782000000,
+      "duration": 40,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Australian rules football, Sports talk",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-08-15_SH035410310000_108044036911_2024-03-17T23:43:21Z_p18454288_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Super Saturday",
+      "episodeTitle": "Round 23",
+      "description": "Join the team for a comprehensive preview of the action to come today.",
+      "scheduledDate": 1786784400000,
+      "duration": 40,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Australian rules football, Sports talk",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-08-15_SH035410310000_108044036911_2024-03-17T23:43:21Z_p18454288_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "AFL",
+      "episodeTitle": "Hawthorn vs Collingwood",
+      "description": "From Melbourne Cricket Ground in Melbourne, Victoria, Australia.",
+      "scheduledDate": 1786786800000,
+      "duration": 155,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Australian rules football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-08-15_EP029151671420_111187866157_2026-07-29T20:48:00Z_GNLZZGG003CY6G3/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Super Saturday",
+      "episodeTitle": "Round 23",
+      "description": "Join the team for a comprehensive preview of the action to come today.",
+      "scheduledDate": 1786796100000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Australian rules football, Sports talk",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-08-15_SH035410310000_108044036911_2024-03-17T23:43:21Z_p18454288_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "In the Back Pocket",
+      "episodeTitle": "",
+      "description": "A team of experts take a look at the betting markets for upcoming matches and try to pick a winner for each match.",
+      "scheduledDate": 1786799700000,
+      "duration": 10,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Sports talk",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-08-15_SH038097710000_108850555447_2021-03-26T01:35:58Z_p19698246_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "AFL Mini",
+      "episodeTitle": "",
+      "description": "Condensed highlights, reaction and analysis of the biggest sport stories from Australia and around the world.",
+      "scheduledDate": 1786800300000,
+      "duration": 20,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Australian rules football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-08-15_SH042238570000_104529301600_2022-03-07T04:36:21Z_p21759801_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "AFL Mini",
+      "episodeTitle": "",
+      "description": "Condensed highlights, reaction and analysis of the biggest sport stories from Australia and around the world.",
+      "scheduledDate": 1786801500000,
+      "duration": 20,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Australian rules football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-08-15_SH042238570000_104529301600_2022-03-07T04:36:21Z_p21759801_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "AFL Mini",
+      "episodeTitle": "",
+      "description": "Condensed highlights, reaction and analysis of the biggest sport stories from Australia and around the world.",
+      "scheduledDate": 1786802700000,
+      "duration": 20,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Australian rules football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-08-15_SH042238570000_104529301600_2022-03-07T04:36:21Z_p21759801_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "AFL Mini",
+      "episodeTitle": "Round 23: Hawthorn Hawks v Collingwood Magpies",
+      "description": "Condensed highlights, reaction and analysis of the biggest sport stories from Australia and around the world.",
+      "scheduledDate": 1786803900000,
+      "duration": 20,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Australian rules football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-08-15_SH042238570000_104529301600_2022-03-07T04:36:21Z_p21759801_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "AFL",
+      "episodeTitle": "Brisbane Lions vs Gold Coast SUNS",
+      "description": "From Brisbane Cricket Ground in Brisbane, Queensland, Australia.",
+      "scheduledDate": 1786805100000,
+      "duration": 155,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Australian rules football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-08-15_EP029151671423_111187866172_2026-07-29T20:47:43Z_GNLZZGG003CY6J0/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "AFL",
+      "episodeTitle": "North Melbourne vs Geelong Cats",
+      "description": "From Marvel Stadium in Melbourne, Australia.",
+      "scheduledDate": 1786814400000,
+      "duration": 150,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Australian rules football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-08-15_EP029151671417_111187866152_2026-07-29T20:47:16Z_GNLZZGG003CY5ZL/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     }
   ]
 }

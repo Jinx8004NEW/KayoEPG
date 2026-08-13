@@ -1,0 +1,42 @@
+{
+  "channel": "SPS",
+  "date": "2026-08-16",
+  "source": "kayo",
+  "fetchedAt": 1786586543454,
+  "fetchedAtIST": "13/8/2026, 7:32:23 am",
+  "events": [
+    {
+      "programTitle": "NASCAR Cup Racing Series",
+      "episodeTitle": "Iowa Speedway",
+      "description": "Coverage of the NASCAR Cup Series, professional stock car racing in the United States.",
+      "scheduledDate": 1786822200000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Motorsports, Auto racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-08-15_SH056052770000_110216247140_2024-02-28T07:23:12Z_p8599472_i_h10_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Darts",
+      "episodeTitle": "New Zealand Darts Masters: Final Day",
+      "description": "Covering of all the action from darts events around the world.",
+      "scheduledDate": 1786825800000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Darts",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-08-15_SH032967320000_109954612423_2024-10-04T13:14:55Z_p644283_i_h8_ah/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NASCAR Cup Series",
+      "episodeTitle": "Cook Out 400",
+      "description": "From Richmond Raceway in Richmond, Va.",
+      "scheduledDate": 1786833000000,
+      "duration": 300,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Auto racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-08-15_SH035183560000_108813754358_2026-02-03T16:15:54Z_p17799520_i_h8_ad/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    }
+  ]
+}

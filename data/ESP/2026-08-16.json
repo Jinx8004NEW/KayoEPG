@@ -1,0 +1,42 @@
+{
+  "channel": "ESP",
+  "date": "2026-08-16",
+  "source": "kayo",
+  "fetchedAt": 1786586543465,
+  "fetchedAtIST": "13/8/2026, 7:32:23 am",
+  "events": [
+    {
+      "programTitle": "NFL Blitz",
+      "episodeTitle": "Road to Melbourne",
+      "description": "All of the best action from the National Football League.",
+      "scheduledDate": 1786822200000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Football, News",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-08-15_SH060667300000_110937783149_2022-09-12T05:46:51Z_p22911383_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NFL Football",
+      "episodeTitle": "Kansas City Chiefs vs Los Angeles Rams",
+      "description": "From GEHA Field at Arrowhead Stadium in Kansas City, Mo.",
+      "scheduledDate": 1786824000000,
+      "duration": 180,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-08-15_EP029371131804_111194597086_2026-07-15T04:37:12Z_GNLZZGG0039KV7Z/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NFL Football",
+      "episodeTitle": "Baltimore Ravens vs Philadelphia Eagles",
+      "description": "From M&T Bank Stadium in Baltimore.",
+      "scheduledDate": 1786834800000,
+      "duration": 180,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-08-15_EP029371131805_111194597079_2026-07-15T04:38:59Z_GNLZZGG0039L34V/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    }
+  ]
+}
