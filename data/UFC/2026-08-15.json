@@ -2,8 +2,8 @@
   "channel": "UFC",
   "date": "2026-08-15",
   "source": "kayo",
-  "fetchedAt": 1786599645422,
-  "fetchedAtIST": "13/8/2026, 11:10:45 am",
+  "fetchedAt": 1786612406095,
+  "fetchedAtIST": "13/8/2026, 2:43:26 pm",
   "events": [
     {
       "programTitle": "Fight Week",
@@ -28,15 +28,26 @@
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/164400_2026-08-14_SH061237980000_110674066145_2025-11-05T15:45:09Z_p31457049_i_h10_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "Belal Muhammad vs. Ian Machado Garry: UFC Fight Night- Doha, Qatar",
+      "programTitle": "Marina Rodriguez vs. Gillian Robertson: UFC Fight Night- Des Moines, IA",
       "episodeTitle": "",
       "description": "",
       "scheduledDate": 1786740000000,
-      "duration": 40,
+      "duration": 20,
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Mixed martial arts",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/164400_2026-08-14_SH065464150000_110673832270_2025-11-28T07:01:37Z_p31783028_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/164400_2026-08-14_SH065464200000_110674429393_2025-05-06T07:35:07Z_p30143520_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "UFC 331: Press Conference",
+      "episodeTitle": "",
+      "description": "",
+      "scheduledDate": 1786741200000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Special, Mixed martial arts",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/Fallback_LTV_UFC_MainEvent/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "Virna Jandiroba vs. Mackenzie Dern: UFC 321- Abu Dhabi",
@@ -48,6 +59,17 @@
       "programType": "Sports event",
       "genre": "Mixed martial arts",
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/164400_2026-08-14_SH065463980000_110674429376_2025-10-27T07:47:08Z_p31532329_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "UFC 330: Weigh In",
+      "episodeTitle": "",
+      "description": "",
+      "scheduledDate": 1786744800000,
+      "duration": 45,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Special, Mixed martial arts",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/164400_2026-08-14_SH065524170000_110904159717_2026-07-28T12:55:39Z_p33518912_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "Marina Rodriguez vs. Gillian Robertson: UFC Fight Night- Des Moines, IA",
@@ -75,12 +97,34 @@
       "programTitle": "UFC 330: Press Conference",
       "episodeTitle": "",
       "description": "",
+      "scheduledDate": 1786747500000,
+      "duration": 45,
+      "parentalRating": "",
+      "programType": "Special",
+      "genre": "Special, Mixed martial arts",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/164400_2026-08-14_SH065489120000_111103272084_2026-07-31T16:46:55Z_p33598987_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "UFC 330: Press Conference",
+      "episodeTitle": "",
+      "description": "",
       "scheduledDate": 1786748400000,
       "duration": 45,
       "parentalRating": "",
       "programType": "Special",
       "genre": "Special, Mixed martial arts",
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/164400_2026-08-14_SH065489120000_111103272084_2026-07-31T16:46:55Z_p33598987_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "UFC 322: Della Maddalena vs. Makhachev",
+      "episodeTitle": "",
+      "description": "From Madison Square Garden in New York.",
+      "scheduledDate": 1786750200000,
+      "duration": 55,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Mixed martial arts",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/164400_2026-08-14_SH061237980000_110674066145_2025-11-05T15:45:09Z_p31457049_i_h10_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "UFC 322: Della Maddalena vs. Makhachev",
@@ -97,7 +141,29 @@
       "programTitle": "Marina Rodriguez vs. Gillian Robertson: UFC Fight Night- Des Moines, IA",
       "episodeTitle": "",
       "description": "",
+      "scheduledDate": 1786753500000,
+      "duration": 20,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Mixed martial arts",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/164400_2026-08-15_SH065464200000_110674429393_2025-05-06T07:35:07Z_p30143520_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Marina Rodriguez vs. Gillian Robertson: UFC Fight Night- Des Moines, IA",
+      "episodeTitle": "",
+      "description": "",
       "scheduledDate": 1786754400000,
+      "duration": 20,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Mixed martial arts",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/164400_2026-08-15_SH065464200000_110674429393_2025-05-06T07:35:07Z_p30143520_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Marina Rodriguez vs. Gillian Robertson: UFC Fight Night- Des Moines, IA",
+      "episodeTitle": "",
+      "description": "",
+      "scheduledDate": 1786754700000,
       "duration": 20,
       "parentalRating": "",
       "programType": "Sports event",
@@ -114,6 +180,17 @@
       "programType": "Sports non-event",
       "genre": "Special, Mixed martial arts",
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/164400_2026-08-15_SH065524170000_110904159717_2026-07-28T12:55:39Z_p33518912_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Belal Muhammad vs. Ian Machado Garry: UFC Fight Night- Doha, Qatar",
+      "episodeTitle": "",
+      "description": "",
+      "scheduledDate": 1786755900000,
+      "duration": 40,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Mixed martial arts",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/164400_2026-08-15_SH065464150000_110673832270_2025-11-28T07:01:37Z_p31783028_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "UFC 322: Della Maddalena vs. Makhachev",
