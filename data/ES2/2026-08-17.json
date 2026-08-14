@@ -1,0 +1,64 @@
+{
+  "channel": "ES2",
+  "date": "2026-08-17",
+  "source": "kayo",
+  "fetchedAt": 1786672807392,
+  "fetchedAtIST": "14/8/2026, 7:30:07 am",
+  "events": [
+    {
+      "programTitle": "Cheerleading",
+      "episodeTitle": "ICU World Championship - All Girl",
+      "description": "",
+      "scheduledDate": 1786906800000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Cheerleading",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-08-16_SH064423510000_111194597087_2016-03-23T17:52:00Z_p9653418_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Cheerleading",
+      "episodeTitle": "UDA College Dance Team Championship: 1A Jazz",
+      "description": "",
+      "scheduledDate": 1786910400000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Cheerleading",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-08-16_SH064423510000_111194597087_2016-03-23T17:52:00Z_p9653418_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "WNBA Countdown",
+      "episodeTitle": "",
+      "description": "Presents WNBA news, analysis, highlights and interviews.",
+      "scheduledDate": 1786912200000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Basketball",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-08-16_SH052116940000_110902687782_2023-09-09T09:43:12Z_p24985197_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "WNBA Basketball",
+      "episodeTitle": "Atlanta Dream vs Indiana Fever",
+      "description": "From State Farm Arena in Atlanta.",
+      "scheduledDate": 1786914000000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Basketball",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-08-16_EP033268231056_111343103582_2026-06-25T04:29:04Z_GNLZZGG0037BYX4/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "WNBA Basketball",
+      "episodeTitle": "Phoenix Mercury vs Portland Fire",
+      "description": "From Mortgage Matchup Center in Phoenix.",
+      "scheduledDate": 1786921200000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Basketball",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-08-16_EP033268231055_111343231611_2026-06-25T04:28:45Z_GNLZZGG0037BSQN/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    }
+  ]
+}

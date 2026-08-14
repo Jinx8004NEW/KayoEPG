@@ -2,8 +2,8 @@
   "channel": "SPS",
   "date": "2026-08-16",
   "source": "kayo",
-  "fetchedAt": 1786653823180,
-  "fetchedAtIST": "14/8/2026, 2:13:43 am",
+  "fetchedAt": 1786672807377,
+  "fetchedAtIST": "14/8/2026, 7:30:07 am",
   "events": [
     {
       "programTitle": "NASCAR Cup Racing Series",
@@ -36,7 +36,150 @@
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Auto racing",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-08-15_SH035183560000_108813754358_2026-02-03T16:15:54Z_p17799520_i_h8_ad/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-08-15_EP035183560213_111353794714_2026-08-13T16:36:38Z_p32224141_b_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "FIM Speedway Grand Prix Series",
+      "episodeTitle": "Round 8: Latvia",
+      "description": "Professional riders compete in a motorcycle speedway racing competition organised by the International Motorcycling Federation (FIM) to emerge victorious and win the coveted title.",
+      "scheduledDate": 1786851000000,
+      "duration": 50,
+      "parentalRating": "",
+      "programType": "Series",
+      "genre": "Motorcycle",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-08-16_SH052529490000_109961681573_2024-01-30T22:43:07Z_p7832673_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Test Cricket",
+      "episodeTitle": "1st Test, Day 2 Session 1: Sri Lanka vs. India",
+      "description": "From Galle International Stadium in Galle, Sri Lanka.",
+      "scheduledDate": 1786854000000,
+      "duration": 135,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Cricket",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-08-16_EP029804991814_111203192071_2026-08-10T17:04:15Z_GNLZZGG003FFT4D/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Formula 1",
+      "episodeTitle": "Mid Season Review",
+      "description": "Highlights from Formula 1 racing around the world.",
+      "scheduledDate": 1786862100000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Classic sport event, Motorsports, Auto racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-08-16_SH032875880000_110099161189_2026-03-02T13:06:35Z_p9525921_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Test Cricket",
+      "episodeTitle": "1st Test, Day 2 Session 2: Sri Lanka vs. India",
+      "description": "From Galle International Stadium in Galle, Sri Lanka.",
+      "scheduledDate": 1786863900000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Cricket",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-08-16_EP029804991815_111203169342_2026-08-10T17:04:28Z_GNLZZGG003FFT9R/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "The Tea Break",
+      "episodeTitle": "",
+      "description": "Join our commentary team as they re-cap the day's play and analyse all the action.",
+      "scheduledDate": 1786871100000,
+      "duration": 25,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Cricket",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-08-16_SH034094570000_108317568461_2025-11-20T06:26:39Z_p17650797_i_h10_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Test Cricket",
+      "episodeTitle": "1st Test, Day 2 Session 3: Sri Lanka vs. India",
+      "description": "From Galle International Stadium in Galle, Sri Lanka.",
+      "scheduledDate": 1786872600000,
+      "duration": 150,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Cricket",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-08-16_EP029804991816_111203148930_2026-08-10T17:03:21Z_GNLZZGG003FFSZW/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "British Superbike Championship Series",
+      "episodeTitle": "",
+      "description": "Action from the British Superbike Championship.",
+      "scheduledDate": 1786881600000,
+      "duration": 62,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Motorcycle",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-08-16_SH039439990000_109423504300_2026-07-01T09:26:47Z_p20146661_i_h10_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "British Superbike Championship Series",
+      "episodeTitle": "Round 7 Thruxton: Supports",
+      "description": "Action from the British Superbike Championship.",
+      "scheduledDate": 1786885320000,
+      "duration": 117,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Motorcycle",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-08-16_SH039439990000_109423504300_2026-07-01T09:26:47Z_p20146661_i_h10_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "British Superbike Championship Series",
+      "episodeTitle": "Round 7 Thruxton: Race 3",
+      "description": "Action from the British Superbike Championship.",
+      "scheduledDate": 1786892340000,
+      "duration": 59,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Motorcycle",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-08-16_SH039439990000_109423504300_2026-07-01T09:26:47Z_p20146661_i_h10_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "British Superbike Championship Series",
+      "episodeTitle": "Round 7 Thruxton: Supports",
+      "description": "Action from the British Superbike Championship.",
+      "scheduledDate": 1786895880000,
+      "duration": 63,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Motorcycle",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-08-16_SH039439990000_109423504300_2026-07-01T09:26:47Z_p20146661_i_h10_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "MotoGP Specials",
+      "episodeTitle": "WSBK The Greatest: Resilience",
+      "description": "Relive some of the best moments and highlights of the MotoGP season.",
+      "scheduledDate": 1786899660000,
+      "duration": 14,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Motorsports, Motorcycle racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-08-16_SH047387770000_105213341155_2023-05-08T07:56:30Z_p24689061_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "MotoGP Specials",
+      "episodeTitle": "WSBK The Greatest: The Last Chapter",
+      "description": "Relive some of the best moments and highlights of the MotoGP season.",
+      "scheduledDate": 1786900500000,
+      "duration": 15,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Motorsports, Motorcycle racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-08-16_SH047387770000_105213341155_2023-05-08T07:56:30Z_p24689061_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "World Surf League",
+      "episodeTitle": "Championship Tour: Outerknown Tahiti Pro, Day 9",
+      "description": "Coverage of surfing action from the WSL.",
+      "scheduledDate": 1786901400000,
+      "duration": 150,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Surfing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-08-16_SH033247700000_110929981531_2019-03-19T05:40:29Z_p16589355_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     }
   ]
 }

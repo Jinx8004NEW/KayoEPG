@@ -1,0 +1,53 @@
+{
+  "channel": "ESP",
+  "date": "2026-08-17",
+  "source": "kayo",
+  "fetchedAt": 1786672807387,
+  "fetchedAtIST": "14/8/2026, 7:30:07 am",
+  "events": [
+    {
+      "programTitle": "MLB Baseball",
+      "episodeTitle": "Chicago Cubs vs St. Louis Cardinals",
+      "description": "From Wrigley Field in Chicago.",
+      "scheduledDate": 1786906800000,
+      "duration": 180,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Baseball",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-08-16_EP062580852327_111347467519_2026-06-27T19:20:38Z_GNLZZGG0037SD56/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "MLB Epic Moments",
+      "episodeTitle": "A Battle in the Bronx",
+      "description": "Red Sox vs. Yankees from Oct. 16, 2003.",
+      "scheduledDate": 1786917600000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Series",
+      "genre": "Baseball",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-08-16_SH034893820000_107891973572_2024-03-28T17:33:17Z_p10817344_i_h8_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "MLB Epic Moments",
+      "episodeTitle": "Saving Seattle",
+      "description": "MLB Epic Moments revisits the 1995 Seattle Mariners team and the team that kept baseball in the Pacific Northwest.",
+      "scheduledDate": 1786919400000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Series",
+      "genre": "Baseball",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-08-16_EP034893820003_111282872951_2023-02-22T05:37:55Z_p11302509_e_h11_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "MLB Baseball",
+      "episodeTitle": "Houston Astros vs Seattle Mariners",
+      "description": "From Daikin Park in Houston.",
+      "scheduledDate": 1786921200000,
+      "duration": 180,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Baseball",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-08-16_EP062580852328_111348449776_2026-06-27T19:20:09Z_GNLZZGG0037SBV9/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    }
+  ]
+}

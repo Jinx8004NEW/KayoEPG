@@ -2,8 +2,8 @@
   "channel": "ESP",
   "date": "2026-08-16",
   "source": "kayo",
-  "fetchedAt": 1786653823192,
-  "fetchedAtIST": "14/8/2026, 2:13:43 am",
+  "fetchedAt": 1786672807387,
+  "fetchedAtIST": "14/8/2026, 7:30:07 am",
   "events": [
     {
       "programTitle": "NFL Blitz",
@@ -25,7 +25,7 @@
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Football",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-08-15_EP029371131804_111194597086_2026-07-15T04:37:12Z_GNLZZGG0039KV7Z/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-08-15_EP029371131804_111353181266_2026-07-15T04:37:12Z_GNLZZGG0039KV7Z/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "NFL Football",
@@ -37,6 +37,149 @@
       "programType": "Sports event",
       "genre": "Football",
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-08-15_EP029371131805_111194597079_2026-07-15T04:38:59Z_GNLZZGG0039L34V/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Premier Lacrosse League",
+      "episodeTitle": "New York Atlas vs Philadelphia Waterdogs",
+      "description": "From Subaru Park in Chester, Pa.",
+      "scheduledDate": 1786845600000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Lacrosse",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-08-16_EP043301890179_111289768541_2026-08-07T16:54:25Z_GNLZZGG003FCDMT/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "30 for 30 Shorts",
+      "episodeTitle": "Irrelevant Giant / Tose: The Movie",
+      "description": "Irrelevant Giant: Bill Parcells recalls his rookie year as a head coach of the New York Giants and the impact of John Tuggle. Tose: Story of the former owner of the Philadelphia Eagles.",
+      "scheduledDate": 1786852800000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Documentary",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-08-16_SH033234650000_111251502876_2019-12-24T10:40:17Z_p10143938_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "30 for 30",
+      "episodeTitle": "Bullies of Baltimore",
+      "description": "The players of the 2000 Baltimore Ravens come together to reflect on their legendary year of winning the Super Bowl.",
+      "scheduledDate": 1786854600000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Documentary",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-08-16_EP023926430127_111194597104_2023-01-20T18:06:02Z_p23890645_b_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NFL Football",
+      "episodeTitle": "Kansas City Chiefs vs Los Angeles Rams",
+      "description": "From GEHA Field at Arrowhead Stadium in Kansas City, Mo.",
+      "scheduledDate": 1786861800000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-08-16_EP029371131804_111353181266_2026-07-15T04:37:12Z_GNLZZGG0039KV7Z/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "ESPN FC",
+      "episodeTitle": "",
+      "description": "ESPN FC brings you a round-up of the latest news from the world of football, including in-depth analysis and exclusive interviews.",
+      "scheduledDate": 1786869000000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Series",
+      "genre": "Soccer, Sports talk",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-08-16_SH033236780000_109573421566_2026-05-25T06:15:30Z_p10106369_i_h11_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NFL Football",
+      "episodeTitle": "Baltimore Ravens vs Philadelphia Eagles",
+      "description": "From M&T Bank Stadium in Baltimore.",
+      "scheduledDate": 1786870800000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-08-16_EP029371131805_111194597079_2026-07-15T04:38:59Z_GNLZZGG0039L34V/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "30 for 30",
+      "episodeTitle": "Straight Outta L.A.",
+      "description": "Rap icon Ice Cube looks back at his beloved Raiders' historic move from Oakland to Los Angeles, set against a backdrop of gang warfare, mass immigration and the rise of hip-hop.",
+      "scheduledDate": 1786878000000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Documentary",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-08-16_EP023926430002_111194597084_2018-10-10T18:41:00Z_p8065568_e_h10_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "In Depth With Graham Bensinger",
+      "episodeTitle": "Emmitt Smith",
+      "description": "Graham sits down with Emmitt Smith to discuss his NFL career, the Cowboys' infamous reputation, the Sports Illustrated cover jinx, and his first meeting with his football idol.",
+      "scheduledDate": 1786881600000,
+      "duration": 25,
+      "parentalRating": "",
+      "programType": "Series",
+      "genre": "Sports talk, Interview",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-08-16_SH033308670000_109955717893_2026-01-13T18:05:19Z_p8178298_i_h8_ad/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Eredivisie Soccer",
+      "episodeTitle": "Feyenoord vs Go Ahead Eagles",
+      "description": "From Feijenoord Stadium in Rotterdam, South Holland, Netherlands.",
+      "scheduledDate": 1786883100000,
+      "duration": 125,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Soccer",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-08-16_EP059662140277_111356040645_2026-08-12T17:07:22Z_GNLZZGG003FPKCS/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Quick Pitch",
+      "episodeTitle": "",
+      "description": "All the latest baseball news, scores and highlights. Plus, a first look at upcoming matchups.",
+      "scheduledDate": 1786890600000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Baseball",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-08-16_SH039225660000_107838083445_2020-08-03T13:50:35Z_p3527970_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Quick Pitch",
+      "episodeTitle": "",
+      "description": "All the latest baseball news, scores and highlights. Plus, a first look at upcoming matchups.",
+      "scheduledDate": 1786894200000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Baseball",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-08-16_SH039225660000_107838083445_2020-08-03T13:50:35Z_p3527970_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Cheerleading",
+      "episodeTitle": "UDA College Dance Team Championship: 1A Pom",
+      "description": "",
+      "scheduledDate": 1786897800000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Cheerleading",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-08-16_SH064423510000_111194597087_2016-03-23T17:52:00Z_p9653418_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Premier Lacrosse League",
+      "episodeTitle": "Maryland Whipsnakes vs Philadelphia Waterdogs",
+      "description": "From Subaru Park in Chester, Pa.",
+      "scheduledDate": 1786899600000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Lacrosse",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-08-16_EP043301890178_111194597075_2026-08-07T16:54:19Z_GNLZZGG003FCDHX/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     }
   ]
 }
