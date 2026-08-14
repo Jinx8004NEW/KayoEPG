@@ -2,8 +2,8 @@
   "channel": "FSS",
   "date": "2026-08-15",
   "source": "kayo",
-  "fetchedAt": 1786685923576,
-  "fetchedAtIST": "14/8/2026, 11:08:43 am",
+  "fetchedAt": 1786698450092,
+  "fetchedAtIST": "14/8/2026, 2:37:30 pm",
   "events": [
     {
       "programTitle": "World Surf League Highlights",
@@ -61,15 +61,15 @@
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-08-14_SH033364560000_110114392996_2017-09-14T16:13:00Z_p12572769_i_h10_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "UCI BMX Freestyle World Cup",
-      "episodeTitle": "",
-      "description": "",
+      "programTitle": "How Good is Golf",
+      "episodeTitle": "Brisbane Golf Club",
+      "description": "Paul Gow talks everything golf, taking people through the greatest game of all, showing them how to play, where to play and what equipment to use.",
       "scheduledDate": 1786748400000,
       "duration": 30,
       "parentalRating": "",
-      "programType": "Sports event",
-      "genre": "BMX freestyle",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-08-14_SH051867500000_108498900596_2026-05-14T22:15:15Z_p26793241_e_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "programType": "Sports non-event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-08-14_SH047697570000_103716322117_2026-01-16T17:55:26Z_p24911210_i_h10_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "UFC Countdown",
