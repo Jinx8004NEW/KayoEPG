@@ -2,19 +2,19 @@
   "channel": "SPS",
   "date": "2026-08-17",
   "source": "kayo",
-  "fetchedAt": 1786712868640,
-  "fetchedAtIST": "14/8/2026, 6:37:48 pm",
+  "fetchedAt": 1786726428282,
+  "fetchedAtIST": "14/8/2026, 10:23:48 pm",
   "events": [
     {
-      "programTitle": "F",
-      "episodeTitle": "",
-      "description": "",
+      "programTitle": "Pool",
+      "episodeTitle": "Arizona Open Pool Championship: Final Day, Session 1",
+      "description": "Action from the world of pool.",
       "scheduledDate": 1786910400000,
       "duration": 270,
       "parentalRating": "",
-      "programType": "",
-      "genre": "",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/Fallback_LTV_Fox_Sports_506/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "programType": "Sports event",
+      "genre": "Billiards",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-08-16_SH038615030000_100974382724_2020-08-12T11:50:16Z_p466719_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     }
   ]
 }
