@@ -2,8 +2,8 @@
   "channel": "SPS",
   "date": "2026-08-16",
   "source": "kayo",
-  "fetchedAt": 1786672807377,
-  "fetchedAtIST": "14/8/2026, 7:30:07 am",
+  "fetchedAt": 1786685923523,
+  "fetchedAtIST": "14/8/2026, 11:08:43 am",
   "events": [
     {
       "programTitle": "NASCAR Cup Racing Series",
@@ -171,15 +171,26 @@
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-08-16_SH047387770000_105213341155_2023-05-08T07:56:30Z_p24689061_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "World Surf League",
-      "episodeTitle": "Championship Tour: Outerknown Tahiti Pro, Day 9",
-      "description": "Coverage of surfing action from the WSL.",
+      "programTitle": "How Good is Golf",
+      "episodeTitle": "Brisbane Golf Club",
+      "description": "Paul Gow talks everything golf, taking people through the greatest game of all, showing them how to play, where to play and what equipment to use.",
       "scheduledDate": 1786901400000,
-      "duration": 150,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-08-16_SH047697570000_103716322117_2026-01-16T17:55:26Z_p24911210_i_h10_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Darts",
+      "episodeTitle": "New Zealand Darts Masters: Final Day",
+      "description": "Covering of all the action from darts events around the world.",
+      "scheduledDate": 1786903200000,
+      "duration": 120,
       "parentalRating": "",
       "programType": "Sports event",
-      "genre": "Surfing",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-08-16_SH033247700000_110929981531_2019-03-19T05:40:29Z_p16589355_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "genre": "Darts",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-08-16_SH032967320000_109954612423_2024-10-04T13:14:55Z_p644283_i_h8_ah/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     }
   ]
 }

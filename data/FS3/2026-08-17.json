@@ -2,19 +2,52 @@
   "channel": "FS3",
   "date": "2026-08-17",
   "source": "kayo",
-  "fetchedAt": 1786672807355,
-  "fetchedAtIST": "14/8/2026, 7:30:07 am",
+  "fetchedAt": 1786685923336,
+  "fetchedAtIST": "14/8/2026, 11:08:43 am",
   "events": [
     {
-      "programTitle": "LPGA Tour Golf",
-      "episodeTitle": "The Standard Portland Classic, Final Round",
-      "description": "From Columbia Edgewater in Portland, Ore.",
+      "programTitle": "PGA Tour Highlights",
+      "episodeTitle": "PGA Championship Mini: Final Round",
+      "description": "Final round coverage begins as leaders compete for the Wanamaker Trophy, with every shot proving critical.",
       "scheduledDate": 1786917600000,
-      "duration": 180,
+      "duration": 20,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Classic sport event, Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-08-16_SH032355110000_106892699068_2023-03-16T12:30:24Z_p9060599_i_h10_ae/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Golf",
+      "episodeTitle": "US Open: Final Round",
+      "description": "Watch the final round action of the US Open from Shinnecock Hills Golf Club.",
+      "scheduledDate": 1786918800000,
+      "duration": 20,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-08-16_SH032772030000_106659071362_2025-04-03T19:44:22Z_p706015_i_h8_ad/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "PGA Tour Golf Mini",
+      "episodeTitle": "The Open Championship: Final Round",
+      "description": "Showcases the final round action of The Open Championship from Royal Birkdale Golf Club.",
+      "scheduledDate": 1786920000000,
+      "duration": 20,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-08-16_SH047874460000_101769826726_2023-06-23T09:17:39Z_p25047305_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "DP World Tour Golf",
+      "episodeTitle": "Danish Golf Championship, Final Round",
+      "description": "From the Great Northern in Kerteminde, Denmark.",
+      "scheduledDate": 1786921200000,
+      "duration": 120,
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Golf",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-08-16_SH031583890000_109900390814_2025-12-31T05:35:12Z_p767017_i_h8_af/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-08-16_SH040914080000_109899115618_2022-04-26T15:48:27Z_p20993758_i_h8_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     }
   ]
 }
