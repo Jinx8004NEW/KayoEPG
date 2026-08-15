@@ -1,0 +1,36 @@
+{
+  "channel": "4KF",
+  "date": "2026-08-22",
+  "source": "kayo-4k",
+  "fetchedAt": 1786825412544,
+  "fetchedAtIST": "16/8/2026, 1:53:32 am",
+  "events": [
+    {
+      "eventId": "1iwvh4xoii6ig1emv6e7vi0052",
+      "programTitle": "Carlton v Fremantle",
+      "scheduledDate": 1787368500000,
+      "duration": 130,
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/3hnd3ltfd2c3dmsxzdax0bueh_image-header_pRow_1782189858000/fill/none/top/none/80/1920/1080/webp/image?brand=kayo",
+      "competitionTitle": "AFL",
+      "sport": "Australian Rules Football"
+    },
+    {
+      "eventId": "qfyydx4mhbo80m7o62qv6eger0",
+      "programTitle": "Melbourne v Western Bulldogs",
+      "scheduledDate": 1787379300000,
+      "duration": 130,
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/4ip0onjhrksmvp6k5nfrt9qiz_image-header_pRow_1782189858000/fill/none/top/none/80/1920/1080/webp/image?brand=kayo",
+      "competitionTitle": "AFL",
+      "sport": "Australian Rules Football"
+    },
+    {
+      "eventId": "etojsz5ydl9307a93gwr4bqbw0",
+      "programTitle": "Geelong v Richmond",
+      "scheduledDate": 1787391900000,
+      "duration": 130,
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/64yhuxkh851ozdjsn41icnzg5_image-header_pRow_1782189858000/fill/none/top/none/80/1920/1080/webp/image?brand=kayo",
+      "competitionTitle": "AFL",
+      "sport": "Australian Rules Football"
+    }
+  ]
+}

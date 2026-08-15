@@ -1,25 +1,16 @@
 {
   "channel": "4KF2",
-  "date": "2026-08-15",
+  "date": "2026-08-16",
   "source": "kayo-4k",
-  "fetchedAt": 1786811112956,
-  "fetchedAtIST": "15/8/2026, 9:55:12 pm",
+  "fetchedAt": 1786825412543,
+  "fetchedAtIST": "16/8/2026, 1:53:32 am",
   "events": [
     {
-      "eventId": "agt0nnmnqiuj0r9h7bj9f2nb30",
-      "programTitle": "Brisbane v Gold Coast",
-      "scheduledDate": 1786774500000,
-      "duration": 172,
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/6y2rm4iv7otniiv3fcgnf2hwc_image-header_pRow_1782189605000/fill/none/top/none/80/1920/1080/webp/image?brand=kayo",
-      "competitionTitle": "AFL",
-      "sport": "Australian Rules Football"
-    },
-    {
-      "eventId": "1kly32quaz1xlxndaajuxakkx0",
-      "programTitle": "Port Adelaide v Melbourne",
-      "scheduledDate": 1786788600000,
-      "duration": 178,
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/50kcs8i8vfqwxven4i3ymz37n_image-header_pRow_1782189605000/fill/none/top/none/80/1920/1080/webp/image?brand=kayo",
+      "eventId": "1m8zxoy75l3vem0w2wris5or00",
+      "programTitle": "Western Bulldogs v Carlton",
+      "scheduledDate": 1786857300000,
+      "duration": 130,
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/33t9v1zgfvzn08c67nxs035b4_image-header_pRow_1786666679000/fill/none/top/none/80/1920/1080/webp/image?brand=kayo",
       "competitionTitle": "AFL",
       "sport": "Australian Rules Football"
     }
