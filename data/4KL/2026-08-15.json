@@ -2,8 +2,8 @@
   "channel": "4KL",
   "date": "2026-08-15",
   "source": "kayo-4k",
-  "fetchedAt": 1786756588085,
-  "fetchedAtIST": "15/8/2026, 6:46:28 am",
+  "fetchedAt": 1786768347045,
+  "fetchedAtIST": "15/8/2026, 10:02:27 am",
   "events": [
     {
       "eventId": "otga6j370z141j8gj1457shcb",
@@ -13,6 +13,15 @@
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/dns5l9wqvsme72abdng3pmg5c_image-header_pRow_1786068033000/fill/none/top/none/80/1920/1080/webp/image?brand=kayo",
       "competitionTitle": "ICC World Test Championship",
       "sport": "Cricket"
+    },
+    {
+      "eventId": "1nu2h4d7yc6ts10jzxq8eo2cl0",
+      "programTitle": "Sharks v Raiders",
+      "scheduledDate": 1786770000000,
+      "duration": 175,
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/pxibup6b0jc4pb42puyznehu_image-header_pRow_1786493987000/fill/none/top/none/80/1920/1080/webp/image?brand=kayo",
+      "competitionTitle": "NRL",
+      "sport": "Rugby League"
     }
   ]
 }
