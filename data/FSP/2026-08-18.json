@@ -1,0 +1,31 @@
+{
+  "channel": "FSP",
+  "date": "2026-08-18",
+  "source": "kayo",
+  "fetchedAt": 1786756573987,
+  "fetchedAtIST": "15/8/2026, 6:46:13 am",
+  "events": [
+    {
+      "programTitle": "LPGA Tour Golf",
+      "episodeTitle": "The Standard Portland Classic, Final Round",
+      "description": "From Columbia Edgewater in Portland, Ore.",
+      "scheduledDate": 1787000400000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-08-17_SH031583890000_109900390814_2025-12-31T05:35:12Z_p767017_i_h8_af/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Darts",
+      "episodeTitle": "New Zealand Darts Masters - Final Day",
+      "description": "Covering of all the action from darts events around the world.",
+      "scheduledDate": 1787007600000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Darts",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-08-17_SH032967320000_109954612423_2024-10-04T13:14:55Z_p644283_i_h8_ah/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    }
+  ]
+}
