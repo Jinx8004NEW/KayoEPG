@@ -2,15 +2,15 @@
   "channel": "4KL",
   "date": "2026-08-15",
   "source": "kayo-4k",
-  "fetchedAt": 1786782602507,
-  "fetchedAtIST": "15/8/2026, 2:00:02 pm",
+  "fetchedAt": 1786797543909,
+  "fetchedAtIST": "15/8/2026, 6:09:03 pm",
   "events": [
     {
       "eventId": "otga6j370z141j8gj1457shcb",
       "programTitle": "Australia v Bangladesh First Test Day 3",
       "scheduledDate": 1786753800000,
-      "duration": 530,
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/dns5l9wqvsme72abdng3pmg5c_image-header_pRow_1786068033000/fill/none/top/none/80/1920/1080/webp/image?brand=kayo",
+      "duration": 483,
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/2wbbimacqdyf86uwazbecb8ie_image-header_pRow_1786068033000/fill/none/top/none/80/1920/1080/webp/image?brand=kayo",
       "competitionTitle": "ICC World Test Championship",
       "sport": "Cricket"
     },
@@ -27,8 +27,17 @@
       "eventId": "1vwvjyhzkgj441cfzfu2by81u2",
       "programTitle": "Eels v Cowboys",
       "scheduledDate": 1786779000000,
-      "duration": 175,
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/9olluiqvxif215ld3d7civpvy_image-header_pRow_1786494031000/fill/none/top/none/80/1920/1080/webp/image?brand=kayo",
+      "duration": 120,
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/8fhl4dzdqwtxprbr5jvphfw76_image-header_pRow_1786494031000/fill/none/top/none/80/1920/1080/webp/image?brand=kayo",
+      "competitionTitle": "NRL",
+      "sport": "Rugby League"
+    },
+    {
+      "eventId": "s6mvp3ne05400loff9a9dl8cq0",
+      "programTitle": "Broncos v Warriors",
+      "scheduledDate": 1786786500000,
+      "duration": 245,
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/9r2f57bcijibhp8xz521kp3yd_image-header_pRow_1786494103000/fill/none/top/none/80/1920/1080/webp/image?brand=kayo",
       "competitionTitle": "NRL",
       "sport": "Rugby League"
     }

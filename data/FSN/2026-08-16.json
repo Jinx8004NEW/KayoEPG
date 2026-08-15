@@ -2,8 +2,8 @@
   "channel": "FSN",
   "date": "2026-08-16",
   "source": "kayo",
-  "fetchedAt": 1786782589014,
-  "fetchedAtIST": "15/8/2026, 1:59:49 pm",
+  "fetchedAt": 1786797519577,
+  "fetchedAtIST": "15/8/2026, 6:08:39 pm",
   "events": [
     {
       "programTitle": "FOX SPORTS News",
@@ -301,6 +301,39 @@
       "programType": "Sports non-event",
       "genre": "News",
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103083_2026-08-16_SH042121470000_101942753651_2025-01-23T05:33:43Z_p21695748_i_h10_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Full Time Live",
+      "episodeTitle": "",
+      "description": "Wrapping up the day in sport with discussions, predictions, and daily news designed to keep you in the loop.",
+      "scheduledDate": 1786867200000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Other",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103083_2026-08-16_SH030733740000_101942749307_2019-07-03T10:22:02Z_p16118303_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Full Time Live",
+      "episodeTitle": "",
+      "description": "Wrapping up the day in sport with discussions, predictions, and daily news designed to keep you in the loop.",
+      "scheduledDate": 1786869000000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Other",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103083_2026-08-16_SH030733740000_101942749307_2019-07-03T10:22:02Z_p16118303_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Full Time Live",
+      "episodeTitle": "",
+      "description": "Wrapping up the day in sport with discussions, predictions, and daily news designed to keep you in the loop.",
+      "scheduledDate": 1786870800000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Other",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103083_2026-08-16_SH030733740000_101942749307_2019-07-03T10:22:02Z_p16118303_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     }
   ]
 }

@@ -2,8 +2,8 @@
   "channel": "4KF",
   "date": "2026-08-15",
   "source": "kayo-4k",
-  "fetchedAt": 1786782602505,
-  "fetchedAtIST": "15/8/2026, 2:00:02 pm",
+  "fetchedAt": 1786797543907,
+  "fetchedAtIST": "15/8/2026, 6:09:03 pm",
   "events": [
     {
       "eventId": "icrnvidfhgf80i019jpfv6nzz0",
@@ -18,8 +18,17 @@
       "eventId": "fhyizlpog8sv0fwex0jdmop3k0",
       "programTitle": "North Melbourne v Geelong",
       "scheduledDate": 1786772700000,
-      "duration": 255,
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/1rd1cjqlfjbqkx3kcwp6c90yf_image-header_pRow_1782189605000/fill/none/top/none/80/1920/1080/webp/image?brand=kayo",
+      "duration": 201,
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/a35ta3efpfhp8hscqwhoti77u_image-header_pRow_1786338720000/fill/none/top/none/80/1920/1080/webp/image?brand=kayo",
+      "competitionTitle": "AFL",
+      "sport": "Australian Rules Football"
+    },
+    {
+      "eventId": "agt0nnmnqiuj0r9h7bj9f2nb30",
+      "programTitle": "Brisbane v Gold Coast",
+      "scheduledDate": 1786774500000,
+      "duration": 172,
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/9psqy743j5azy35zyisqgv85d_image-header_pRow_1786338775000/fill/none/top/none/80/1920/1080/webp/image?brand=kayo",
       "competitionTitle": "AFL",
       "sport": "Australian Rules Football"
     },
@@ -27,8 +36,8 @@
       "eventId": "141xvzu2t5rvpu5qpvlwznlt90",
       "programTitle": "Hawthorn v Collingwood",
       "scheduledDate": 1786786800000,
-      "duration": 130,
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/dg22zg30z4z379vvjahf9x12o_image-header_pRow_1782189605000/fill/none/top/none/80/1920/1080/webp/image?brand=kayo",
+      "duration": 290,
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/8gopgiy4z8sfh43u8dg3jbtl5_image-header_pRow_1782189605000/fill/none/top/none/80/1920/1080/webp/image?brand=kayo",
       "competitionTitle": "AFL",
       "sport": "Australian Rules Football"
     }
