@@ -2,8 +2,8 @@
   "channel": "4KL",
   "date": "2026-08-15",
   "source": "kayo-4k",
-  "fetchedAt": 1786768347045,
-  "fetchedAtIST": "15/8/2026, 10:02:27 am",
+  "fetchedAt": 1786782602507,
+  "fetchedAtIST": "15/8/2026, 2:00:02 pm",
   "events": [
     {
       "eventId": "otga6j370z141j8gj1457shcb",
@@ -18,8 +18,17 @@
       "eventId": "1nu2h4d7yc6ts10jzxq8eo2cl0",
       "programTitle": "Sharks v Raiders",
       "scheduledDate": 1786770000000,
+      "duration": 134,
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/e03p1nj07kn8lq508nctw82m1_image-header_pRow_1786493987000/fill/none/top/none/80/1920/1080/webp/image?brand=kayo",
+      "competitionTitle": "NRL",
+      "sport": "Rugby League"
+    },
+    {
+      "eventId": "1vwvjyhzkgj441cfzfu2by81u2",
+      "programTitle": "Eels v Cowboys",
+      "scheduledDate": 1786779000000,
       "duration": 175,
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/pxibup6b0jc4pb42puyznehu_image-header_pRow_1786493987000/fill/none/top/none/80/1920/1080/webp/image?brand=kayo",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/9olluiqvxif215ld3d7civpvy_image-header_pRow_1786494031000/fill/none/top/none/80/1920/1080/webp/image?brand=kayo",
       "competitionTitle": "NRL",
       "sport": "Rugby League"
     }

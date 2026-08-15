@@ -1,0 +1,27 @@
+{
+  "channel": "4KN",
+  "date": "2026-08-15",
+  "source": "kayo-4k",
+  "fetchedAt": 1786782602506,
+  "fetchedAtIST": "15/8/2026, 2:00:02 pm",
+  "events": [
+    {
+      "eventId": "1e7k7lniuttrfutbyarjoexdr0",
+      "programTitle": "Eels v Bulldogs",
+      "scheduledDate": 1786770900000,
+      "duration": 119,
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/405dz4wxv16uo5wc5dd33l9s0_image-header_pRow_1786498088000/fill/none/top/none/80/1920/1080/webp/image?brand=kayo",
+      "competitionTitle": "NRL Women",
+      "sport": "Rugby League"
+    },
+    {
+      "eventId": "u9cdv39sbi3601dm8atk1wc9iy",
+      "programTitle": "Broncos v Roosters",
+      "scheduledDate": 1786778100000,
+      "duration": 165,
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/1ryfys55dkucusdizdriy3wlw_image-header_pRow_1786498129000/fill/none/top/none/80/1920/1080/webp/image?brand=kayo",
+      "competitionTitle": "NRL Women",
+      "sport": "Rugby League"
+    }
+  ]
+}
