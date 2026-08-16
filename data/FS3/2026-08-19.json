@@ -1,0 +1,31 @@
+{
+  "channel": "FS3",
+  "date": "2026-08-19",
+  "source": "kayo",
+  "fetchedAt": 1786843233579,
+  "fetchedAtIST": "16/8/2026, 6:50:33 am",
+  "events": [
+    {
+      "programTitle": "DP World Tour Golf",
+      "episodeTitle": "Danish Golf Championship, Final Round",
+      "description": "From the Great Northern in Kerteminde, Denmark.",
+      "scheduledDate": 1787083200000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-08-18_SH040914080000_109899115618_2022-04-26T15:48:27Z_p20993758_i_h8_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "PGA Tour Golf",
+      "episodeTitle": "FedEx St. Jude Championship, Final Round",
+      "description": "From TPC Southwind in Memphis, Tenn.",
+      "scheduledDate": 1787090400000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-08-18_EP030899371417_111392147346_2026-08-07T17:26:46Z_p32045007_b_h8_ad/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    }
+  ]
+}

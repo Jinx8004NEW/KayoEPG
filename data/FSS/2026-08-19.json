@@ -1,0 +1,64 @@
+{
+  "channel": "FSS",
+  "date": "2026-08-19",
+  "source": "kayo",
+  "fetchedAt": 1786843233613,
+  "fetchedAtIST": "16/8/2026, 6:50:33 am",
+  "events": [
+    {
+      "programTitle": "Legends Tour Golf",
+      "episodeTitle": "Staysure PGA Seniors Championship",
+      "description": "Golf coverage from the Legends Tour, a professional tour for golfers over the age of 50.",
+      "scheduledDate": 1787079600000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Classic sport event, Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-08-18_SH061576730000_111289607847_2020-09-09T14:50:25Z_p8769276_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "PGA Tour Golf",
+      "episodeTitle": "FedEx St. Jude Championship, Final Round",
+      "description": "From TPC Southwind in Memphis, Tenn.",
+      "scheduledDate": 1787083200000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-08-18_EP030899371417_111392147346_2026-08-07T17:26:46Z_p32045007_b_h8_ad/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "The Bowls Show",
+      "episodeTitle": "",
+      "description": "All the latest in the world of competitive bowls, including exclusive interviews, event highlights, club tours and coaching insight.",
+      "scheduledDate": 1787090400000,
+      "duration": 50,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Other",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-08-18_SH024802440000_107847958042_2017-03-10T00:18:00Z_p13123463_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "British Superbike Championship Highlights",
+      "episodeTitle": "Round 7: Thruxton",
+      "description": "Highlights of the British Superbike Championships season.",
+      "scheduledDate": 1787093400000,
+      "duration": 50,
+      "parentalRating": "",
+      "programType": "Series",
+      "genre": "Sports talk, Motorcycle racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-08-18_SH048348510000_95139729292_2022-06-29T15:47:12Z_p600954_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "World Surf League Highlights",
+      "episodeTitle": "Outerknown Tahiti Pro",
+      "description": "Action from the World Surf League.",
+      "scheduledDate": 1787096400000,
+      "duration": 20,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Surfing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-08-18_SH037137820000_107844260793_2023-03-28T14:37:31Z_p12753420_i_h8_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    }
+  ]
+}
