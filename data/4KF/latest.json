@@ -2,8 +2,8 @@
   "channel": "4KF",
   "date": "2026-08-16",
   "source": "kayo-4k",
-  "fetchedAt": 1786869046855,
-  "fetchedAtIST": "16/8/2026, 2:00:46 pm",
+  "fetchedAt": 1786884004571,
+  "fetchedAtIST": "16/8/2026, 6:10:04 pm",
   "events": [
     {
       "eventId": "yapmfe5bx3j00qe8iwirtw4jb0",
@@ -15,11 +15,20 @@
       "sport": "Australian Rules Football"
     },
     {
+      "eventId": "1m8zxoy75l3vem0w2wris5or00",
+      "programTitle": "Western Bulldogs v Carlton",
+      "scheduledDate": 1786857300000,
+      "duration": 189,
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/4csk1c6oibozzqmnbfptcdzly_image-header_pRow_1786666679000/fill/none/top/none/80/1920/1080/webp/image?brand=kayo",
+      "competitionTitle": "AFL",
+      "sport": "Australian Rules Football"
+    },
+    {
       "eventId": "1vsxi3ysyr2if1qxgpf1wqjql6",
       "programTitle": "Essendon v Sydney",
       "scheduledDate": 1786862400000,
-      "duration": 230,
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/35i5pxu9t6bp6v4m3gt55eawj_image-header_pRow_1782189605000/fill/none/top/none/80/1920/1080/webp/image?brand=kayo",
+      "duration": 238,
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/9funy1q0j8wxzpyssmphlqc6t_image-header_pRow_1786339053000/fill/none/top/none/80/1920/1080/webp/image?brand=kayo",
       "competitionTitle": "AFL",
       "sport": "Australian Rules Football"
     }

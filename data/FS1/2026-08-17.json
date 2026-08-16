@@ -2,8 +2,8 @@
   "channel": "FS1",
   "date": "2026-08-17",
   "source": "kayo",
-  "fetchedAt": 1786869025767,
-  "fetchedAtIST": "16/8/2026, 2:00:25 pm",
+  "fetchedAt": 1786883986305,
+  "fetchedAtIST": "16/8/2026, 6:09:46 pm",
   "events": [
     {
       "programTitle": "Men's Ashes",
@@ -72,15 +72,15 @@
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-08-16_SH031158690000_100796229602_2024-01-19T05:13:15Z_p16331760_i_h10_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "Fox Cricket Pre Game",
-      "episodeTitle": "Australia v Bangladesh, 1st Test Day 5",
-      "description": "The team present an extensive preview of all the action to come with the latest news, the best analysis, entertainment and interviews.",
+      "programTitle": "Test Day",
+      "episodeTitle": "Australia v Bangladesh, 1st Test Day 1",
+      "description": "A look at some of the highlights from the recent test match play, with an analysis of some of the best moments.",
       "scheduledDate": 1786924800000,
-      "duration": 30,
+      "duration": 60,
       "parentalRating": "",
-      "programType": "Sports non-event",
-      "genre": "Cricket",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-08-17_SH035786310000_108048812556_2025-11-20T06:27:30Z_p18624259_i_h10_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "programType": "Sports event",
+      "genre": "Classic sport event, Cricket",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-08-17_SH031158690000_100796229602_2024-01-19T05:13:15Z_p16331760_i_h10_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "Test Cricket",
@@ -94,6 +94,28 @@
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-08-17_EP029804991820_111251866384_2026-08-11T13:55:00Z_GNLZZGG003FHZZC/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
+      "programTitle": "Test Day",
+      "episodeTitle": "Australia vs Bangladesh, 1st Test Day 2",
+      "description": "A look at some of the highlights from the recent test match play, with an analysis of some of the best moments.",
+      "scheduledDate": 1786928400000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Classic sport event, Cricket",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-08-17_SH031158690000_100796229602_2024-01-19T05:13:15Z_p16331760_i_h10_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Test Day",
+      "episodeTitle": "Australia v Bangladesh, 1st Test Day 3",
+      "description": "A look at some of the highlights from the recent test match play, with an analysis of some of the best moments.",
+      "scheduledDate": 1786932000000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Classic sport event, Cricket",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-08-17_SH031158690000_100796229602_2024-01-19T05:13:15Z_p16331760_i_h10_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
       "programTitle": "The Big Break",
       "episodeTitle": "Australia vs Bangladesh, 1st Test Day 5",
       "description": "A panel of experts, including former players, dissect cricket results, offering insight into all aspects of the game.",
@@ -105,6 +127,17 @@
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-08-17_SH034008090000_108259248819_2025-11-20T06:07:29Z_p17754052_i_h10_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
+      "programTitle": "Test Day",
+      "episodeTitle": "Australia vs Bangladesh, 1st Test Day 4",
+      "description": "A look at some of the highlights from the recent test match play, with an analysis of some of the best moments.",
+      "scheduledDate": 1786935600000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Classic sport event, Cricket",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-08-17_SH031158690000_100796229602_2024-01-19T05:13:15Z_p16331760_i_h10_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
       "programTitle": "Test Cricket",
       "episodeTitle": "1st Test, Day 5 Session 2: Australia vs. Bangladesh",
       "description": "Coverage of Test cricket matches contested by international teams.",
@@ -114,6 +147,28 @@
       "programType": "Sports event",
       "genre": "Cricket",
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-08-17_EP029804991821_111251931396_2026-08-11T14:00:22Z_GNLZZGG003FHQJ8/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "The Hundred",
+      "episodeTitle": "Men's Final: Trent Rockets v Manchester Super Giants",
+      "description": "The Hundred is a professional franchise 100-ball cricket tournament.",
+      "scheduledDate": 1786939200000,
+      "duration": 20,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Cricket",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-08-17_SH044046720000_111401703581_2021-07-26T13:37:10Z_p20330611_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Test Cricket",
+      "episodeTitle": "1st Test, Day 3 Session 1: Sri Lanka vs. India",
+      "description": "From Galle International Stadium in Galle, Sri Lanka.",
+      "scheduledDate": 1786940400000,
+      "duration": 135,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Cricket",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-08-17_EP029804991817_111286853007_2026-08-11T14:03:46Z_GNLZZGG003FHEGW/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "The Tea Break",
@@ -138,6 +193,28 @@
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-08-17_EP029804991822_111251986612_2026-08-11T13:57:58Z_GNLZZGG003FHL9H/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
+      "programTitle": "The Hundred",
+      "episodeTitle": "Women's Final: Trent Rockets v Sunrisers Leeds",
+      "description": "The Hundred is a professional franchise 100-ball cricket tournament.",
+      "scheduledDate": 1786948500000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Cricket",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-08-17_SH044046720000_111401703581_2021-07-26T13:37:10Z_p20330611_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Test Cricket",
+      "episodeTitle": "1st Test, Day 3 Session 2: Sri Lanka vs. India",
+      "description": "From Galle International Stadium in Galle, Sri Lanka.",
+      "scheduledDate": 1786950300000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Cricket",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-08-17_EP029804991818_111287489593_2026-08-11T13:55:06Z_GNLZZGG003FHZK2/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
       "programTitle": "Fox Cricket Post Game",
       "episodeTitle": "Australia v Bangladesh, 1st Test Day 5",
       "description": "Join the Fox Cricket team for the best review from the day of cricket.",
@@ -160,6 +237,17 @@
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-08-17_SH031158690000_100796229602_2024-01-19T05:13:15Z_p16331760_i_h10_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
+      "programTitle": "The Hundred",
+      "episodeTitle": "Men's Final: Trent Rockets v Manchester Super Giants",
+      "description": "The Hundred is a professional franchise 100-ball cricket tournament.",
+      "scheduledDate": 1786957500000,
+      "duration": 25,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Cricket",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-08-17_SH044046720000_111401703581_2021-07-26T13:37:10Z_p20330611_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
       "programTitle": "Test Cricket",
       "episodeTitle": "1st Test, Day 5: Australia vs Bangladesh",
       "description": "Coverage and highlights from international test cricket matches.",
@@ -169,6 +257,17 @@
       "programType": "Sports event",
       "genre": "Cricket, Classic sport event",
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-08-17_SH033446590000_98978823590_2023-09-29T14:53:53Z_p8163404_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Test Cricket",
+      "episodeTitle": "1st Test, Day 3 Session 3: Sri Lanka vs. India",
+      "description": "From Galle International Stadium in Galle, Sri Lanka.",
+      "scheduledDate": 1786959000000,
+      "duration": 150,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Cricket",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-08-17_EP029804991819_111286691908_2026-08-11T14:03:40Z_GNLZZGG003FHEDT/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "The Hundred",
