@@ -2,8 +2,8 @@
   "channel": "SPS",
   "date": "2026-08-16",
   "source": "kayo",
-  "fetchedAt": 1786843233602,
-  "fetchedAtIST": "16/8/2026, 6:50:33 am",
+  "fetchedAt": 1786854979128,
+  "fetchedAtIST": "16/8/2026, 10:06:19 am",
   "events": [
     {
       "programTitle": "NASCAR Cup Racing Series",
@@ -48,6 +48,17 @@
       "programType": "Series",
       "genre": "Motorcycle",
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-08-16_SH052529490000_109961681573_2024-01-30T22:43:07Z_p7832673_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Test Cricket",
+      "episodeTitle": "1st Test, Day 2 Session 1: Sri Lanka vs. India",
+      "description": "From Galle International Stadium in Galle, Sri Lanka.",
+      "scheduledDate": 1786853100000,
+      "duration": 150,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Cricket",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-08-16_EP029804991814_111203192071_2026-08-10T17:04:15Z_GNLZZGG003FFT4D/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "Test Cricket",

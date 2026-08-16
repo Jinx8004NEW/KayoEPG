@@ -2,8 +2,8 @@
   "channel": "FS3",
   "date": "2026-08-16",
   "source": "kayo",
-  "fetchedAt": 1786843233577,
-  "fetchedAtIST": "16/8/2026, 6:50:33 am",
+  "fetchedAt": 1786854979097,
+  "fetchedAtIST": "16/8/2026, 10:06:19 am",
   "events": [
     {
       "programTitle": "How Good is Golf",
@@ -175,7 +175,7 @@
       "episodeTitle": "The Standard Portland Classic, Final Round",
       "description": "From Columbia Edgewater in Portland, Ore.",
       "scheduledDate": 1786869000000,
-      "duration": 90,
+      "duration": 105,
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Golf",
@@ -194,10 +194,32 @@
     },
     {
       "programTitle": "PGA Tour Golf",
+      "episodeTitle": "FedEx St. Jude Championship, Third Round",
+      "description": "From TPC Southwind in Memphis, Tenn.",
+      "scheduledDate": 1786875300000,
+      "duration": 90,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-08-16_EP030899371416_111398324222_2026-08-14T19:20:27Z_p32044997_b_h8_ae/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "PGA Tour Golf",
       "episodeTitle": "FedEx St. Jude Championship, Final Round",
       "description": "From TPC Southwind in Memphis, Tenn.",
       "scheduledDate": 1786879800000,
       "duration": 270,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-08-16_EP030899371417_111392147346_2026-08-07T17:26:46Z_p32045007_b_h8_ad/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "PGA Tour Golf",
+      "episodeTitle": "FedEx St. Jude Championship, Final Round",
+      "description": "From TPC Southwind in Memphis, Tenn.",
+      "scheduledDate": 1786880700000,
+      "duration": 255,
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Golf",

@@ -2,8 +2,8 @@
   "channel": "4KL",
   "date": "2026-08-16",
   "source": "kayo-4k",
-  "fetchedAt": 1786843253983,
-  "fetchedAtIST": "16/8/2026, 6:50:53 am",
+  "fetchedAt": 1786854998407,
+  "fetchedAtIST": "16/8/2026, 10:06:38 am",
   "events": [
     {
       "eventId": "a6utgiiwxmib1tnnxjdn65r06",
@@ -13,6 +13,24 @@
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/blb2ec5tv7m2pw1itufwr6pwp_image-header_pRow_1786068076000/fill/none/top/none/80/1920/1080/webp/image?brand=kayo",
       "competitionTitle": "ICC World Test Championship",
       "sport": "Cricket"
+    },
+    {
+      "eventId": "xm23dsgnpuwr01ucmwk9vqz1ge",
+      "programTitle": "Knights v Raiders",
+      "scheduledDate": 1786845000000,
+      "duration": 105,
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/3t2d8rgfqdxl9fuwvregxse91_image-header_pRow_1786498167000/fill/none/top/none/80/1920/1080/webp/image?brand=kayo",
+      "competitionTitle": "NRL Women",
+      "sport": "Rugby League"
+    },
+    {
+      "eventId": "r81ad0k85np601qdgso5u9ehcm",
+      "programTitle": "Knights v Titans",
+      "scheduledDate": 1786852800000,
+      "duration": 175,
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/15gx2mdjtxpgkqbulu77sowx_image-header_pRow_1786494155000/fill/none/top/none/80/1920/1080/webp/image?brand=kayo",
+      "competitionTitle": "NRL",
+      "sport": "Rugby League"
     }
   ]
 }
