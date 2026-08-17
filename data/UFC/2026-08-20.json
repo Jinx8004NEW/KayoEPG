@@ -1,0 +1,86 @@
+{
+  "channel": "UFC",
+  "date": "2026-08-20",
+  "source": "kayo",
+  "fetchedAt": 1786929491272,
+  "fetchedAtIST": "17/8/2026, 6:48:11 am",
+  "events": [
+    {
+      "programTitle": "UFC 165: Jones vs. Gustafsson",
+      "episodeTitle": "",
+      "description": "",
+      "scheduledDate": 1787165100000,
+      "duration": 60,
+      "parentalRating": "M",
+      "programType": "Sports event",
+      "genre": "Mixed martial arts",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/164400_2026-08-19_SH053738120000_108625199048_2022-03-17T05:26:24Z_p10091564_i_h10_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "UFC 139: Shogun vs. Henderson",
+      "episodeTitle": "",
+      "description": "",
+      "scheduledDate": 1787168700000,
+      "duration": 55,
+      "parentalRating": "M",
+      "programType": "Sports event",
+      "genre": "Mixed martial arts",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/164400_2026-08-19_SH055137640000_108682005556_2015-04-06T23:01:00Z_p8849962_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "UFC Fight Night",
+      "episodeTitle": "2012: Kamal Shalorus vs Khabib Nurmagomedov",
+      "description": "Kamal Shalorus faces Khabib Nurmagomedov in a UFC bout that highlights a clash of heavy styles.",
+      "scheduledDate": 1787172000000,
+      "duration": 30,
+      "parentalRating": "M",
+      "programType": "Sports event",
+      "genre": "Mixed martial arts, Classic sport event",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/164400_2026-08-19_SH032446230000_109066591133_2017-11-06T22:23:00Z_p9734813_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Silva vs. Bisping: UFC Fight Night- London",
+      "episodeTitle": "",
+      "description": "",
+      "scheduledDate": 1787173800000,
+      "duration": 60,
+      "parentalRating": "M",
+      "programType": "Sports event",
+      "genre": "Mixed martial arts",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/164400_2026-08-19_SH057321810000_108625199007_2021-12-01T09:37:45Z_p21069180_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "UFC 179: Aldo vs. Mendes II",
+      "episodeTitle": "",
+      "description": "",
+      "scheduledDate": 1787177400000,
+      "duration": 60,
+      "parentalRating": "M",
+      "programType": "Sports event",
+      "genre": "Mixed martial arts",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/164400_2026-08-19_SH055134080000_108625199052_2014-09-08T17:22:00Z_p11003369_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "UFC 116: Lesnar vs. Carwin",
+      "episodeTitle": "Brock Lesnar x Shane Carwin",
+      "description": "",
+      "scheduledDate": 1787181000000,
+      "duration": 25,
+      "parentalRating": "M",
+      "programType": "Sports event",
+      "genre": "Mixed martial arts",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/164400_2026-08-19_SH057958680000_108625199012_2022-03-17T12:37:45Z_p8129004_i_h8_ao/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "UFC 183: Anderson Silva x Nick Diaz",
+      "episodeTitle": "",
+      "description": "",
+      "scheduledDate": 1787182500000,
+      "duration": 50,
+      "parentalRating": "M",
+      "programType": "Sports event",
+      "genre": "Mixed martial arts",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/164400_2026-08-19_SH057958700000_108625199029_2023-08-17T14:25:17Z_p23750434_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    }
+  ]
+}

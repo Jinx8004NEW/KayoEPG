@@ -1,0 +1,53 @@
+{
+  "channel": "FSS",
+  "date": "2026-08-20",
+  "source": "kayo",
+  "fetchedAt": 1786929491252,
+  "fetchedAtIST": "17/8/2026, 6:48:11 am",
+  "events": [
+    {
+      "programTitle": "SailGP",
+      "episodeTitle": "Portsmouth, Day 2",
+      "description": "",
+      "scheduledDate": 1787167800000,
+      "duration": 90,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Sailing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-08-19_SH051028760000_110235873061_2021-04-23T21:46:53Z_p19827810_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "MotorRacing 360",
+      "episodeTitle": "",
+      "description": "Entertaining and informative discussions about all the biggest news across the week in motor sport, including Supercars, Formula 1 and MotoGP.",
+      "scheduledDate": 1787173200000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Series",
+      "genre": "Motorsports",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/Fallback_LTV_Fox_Sports_507/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "SailGP",
+      "episodeTitle": "Portsmouth, Day 1",
+      "description": "The team return to Portsmouth as the European leg of the 2026 season begins on the UK's south coast.",
+      "scheduledDate": 1787176800000,
+      "duration": 90,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Sailing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-08-19_SH039936010000_108224779666_2024-11-22T10:14:23Z_p16560598_i_h10_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "SailGP",
+      "episodeTitle": "Portsmouth, Day 2",
+      "description": "",
+      "scheduledDate": 1787182200000,
+      "duration": 90,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Sailing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-08-19_SH051028760000_110235873061_2021-04-23T21:46:53Z_p19827810_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    }
+  ]
+}

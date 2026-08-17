@@ -1,0 +1,20 @@
+{
+  "channel": "FS3",
+  "date": "2026-08-20",
+  "source": "kayo",
+  "fetchedAt": 1786929491222,
+  "fetchedAtIST": "17/8/2026, 6:48:11 am",
+  "events": [
+    {
+      "programTitle": "LPGA Tour Golf",
+      "episodeTitle": "Meijer LPGA Classic, Final Round",
+      "description": "From Blythefield Country Club in Belmont, Mich.",
+      "scheduledDate": 1787167800000,
+      "duration": 330,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-08-19_SH031583890000_109900390814_2025-12-31T05:35:12Z_p767017_i_h8_af/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    }
+  ]
+}

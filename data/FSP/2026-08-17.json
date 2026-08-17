@@ -2,8 +2,8 @@
   "channel": "FSP",
   "date": "2026-08-17",
   "source": "kayo",
-  "fetchedAt": 1786911781592,
-  "fetchedAtIST": "17/8/2026, 1:53:01 am",
+  "fetchedAt": 1786929491235,
+  "fetchedAtIST": "17/8/2026, 6:48:11 am",
   "events": [
     {
       "programTitle": "PGA Tour Champions Golf",
@@ -32,7 +32,7 @@
       "episodeTitle": "",
       "description": "Coverage of the action from the Professional Bull Riders events.",
       "scheduledDate": 1786935600000,
-      "duration": 60,
+      "duration": 65,
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Bull riding",
@@ -48,6 +48,17 @@
       "programType": "Sports event",
       "genre": "Cricket, Classic sport event",
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-08-17_SH033446590000_98978823590_2023-09-29T14:53:53Z_p8163404_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Test Cricket",
+      "episodeTitle": "1st Test, Day 3 Session 1: Sri Lanka vs. India",
+      "description": "From Galle International Stadium in Galle, Sri Lanka.",
+      "scheduledDate": 1786939500000,
+      "duration": 150,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Cricket",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-08-17_EP029804991817_111286853007_2026-08-11T14:03:46Z_GNLZZGG003FHEGW/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "Test Cricket",
