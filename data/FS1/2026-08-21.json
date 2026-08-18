@@ -1,0 +1,75 @@
+{
+  "channel": "FS1",
+  "date": "2026-08-21",
+  "source": "kayo",
+  "fetchedAt": 1787057229666,
+  "fetchedAtIST": "18/8/2026, 6:17:09 pm",
+  "events": [
+    {
+      "programTitle": "Test Cricket",
+      "episodeTitle": "1999/2000: Australia v India, 3rd Test",
+      "description": "Coverage and highlights from international test cricket matches.",
+      "scheduledDate": 1787250600000,
+      "duration": 65,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Cricket, Classic sport event",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-08-20_SH033446590000_98978823590_2023-09-29T14:53:53Z_p8163404_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Women's The Hundred",
+      "episodeTitle": "Final: Sunrisers Leeds vs Trent Rockets",
+      "description": "From Headingley Cricket Ground in Leeds, United Kingdom.",
+      "scheduledDate": 1787254500000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Playoff sports, Cricket",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-08-20_EP039321620193_111402622508_2026-08-14T22:50:08Z_GNLZZGG003G2YPM/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Test Day",
+      "episodeTitle": "Australia v Bangladesh, 1st Test Review",
+      "description": "A look at some of the highlights from the recent test match play, with an analysis of some of the best moments.",
+      "scheduledDate": 1787258100000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Classic sport event, Cricket",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-08-20_SH031158690000_100796229602_2024-01-19T05:13:15Z_p16331760_i_h10_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Men's The Hundred",
+      "episodeTitle": "Final: Manchester Super Giants vs Trent Rockets",
+      "description": "From Emirates Old Trafford in Manchester, England, United Kingdom.",
+      "scheduledDate": 1787261700000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Playoff sports, Cricket",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-08-20_EP039320960201_111402622424_2026-08-14T22:50:42Z_GNLZZGG003G2YX3/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "The Hundred",
+      "episodeTitle": "Women's Final: Trent Rockets v Sunrisers Leeds",
+      "description": "The Hundred is a professional franchise 100-ball cricket tournament.",
+      "scheduledDate": 1787265300000,
+      "duration": 20,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Cricket",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-08-20_SH044046720000_111401703581_2021-07-26T13:37:10Z_p20330611_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "CPL T20 Cricket",
+      "episodeTitle": "Antigua & Barbuda Falcons vs St. Kitts & Nevis Patriots",
+      "description": "Coverage of action from the Caribbean Premier League T20 cricket.",
+      "scheduledDate": 1787266500000,
+      "duration": 245,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Cricket",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-08-20_EP033351860186_111417033890_2026-08-15T10:43:28Z_GNLZZGG003G3THS/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    }
+  ]
+}

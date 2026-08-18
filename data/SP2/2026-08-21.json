@@ -1,0 +1,53 @@
+{
+  "channel": "SP2",
+  "date": "2026-08-21",
+  "source": "kayo",
+  "fetchedAt": 1787057229675,
+  "fetchedAtIST": "18/8/2026, 6:17:09 pm",
+  "events": [
+    {
+      "programTitle": "The Late Show with Matty Johns",
+      "episodeTitle": "",
+      "description": "Matty Johns is joined by a panel of experts as they discuss upcoming rugby league matches with a mixture of jokes and left-field analysis.",
+      "scheduledDate": 1787250720000,
+      "duration": 58,
+      "parentalRating": "PG",
+      "programType": "Series",
+      "genre": "Sports talk, Rugby league",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-08-20_SH029192190000_111310281471_2026-03-13T04:05:00Z_p15263834_i_h10_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NRL Mini",
+      "episodeTitle": "Melbourne Storm v Penrith Panthers",
+      "description": "A comprehensive summary of the match played is provided in an expedited timeframe.",
+      "scheduledDate": 1787254200000,
+      "duration": 20,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Rugby league, Rugby",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-08-20_SH035786430000_106552413658_2020-10-16T18:30:18Z_p18624350_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "The Late Show with Matty Johns",
+      "episodeTitle": "",
+      "description": "Matty Johns is joined by a panel of experts as they discuss upcoming rugby league matches with a mixture of jokes and left-field analysis.",
+      "scheduledDate": 1787255400000,
+      "duration": 70,
+      "parentalRating": "PG",
+      "programType": "Series",
+      "genre": "Sports talk, Rugby league",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-08-20_SH029192190000_111310281471_2026-03-13T04:05:00Z_p15263834_i_h10_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "To Be Announced",
+      "episodeTitle": "",
+      "description": "The programming for this time slot has yet to be determined and is being confirmed by the broadcast channel.",
+      "scheduledDate": 1787259600000,
+      "duration": 240,
+      "parentalRating": "",
+      "programType": "TBA",
+      "genre": "Special, Entertainment",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-08-20_SH027575020000_108569306599_2021-11-15T14:36:19Z_p514472_b_h8_dp/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    }
+  ]
+}

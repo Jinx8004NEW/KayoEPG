@@ -1,0 +1,42 @@
+{
+  "channel": "ESP",
+  "date": "2026-08-21",
+  "source": "kayo",
+  "fetchedAt": 1787057229718,
+  "fetchedAtIST": "18/8/2026, 6:17:09 pm",
+  "events": [
+    {
+      "programTitle": "2026 Little League Baseball World Series",
+      "episodeTitle": "",
+      "description": "",
+      "scheduledDate": 1787256000000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Baseball",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-08-20_SH065665800000_111458065266_2026-07-16T17:07:05Z_p33388586_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "SportsCenter",
+      "episodeTitle": "",
+      "description": "The team deliver the latest news, highlights, and inside information from the wide world of sports, as well as trending topics across social media platforms.",
+      "scheduledDate": 1787263200000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "News, Sports talk",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-08-20_SH033259060000_109832503473_2018-04-18T10:39:00Z_p186674_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NFL Countdown",
+      "episodeTitle": "Special Edition",
+      "description": "",
+      "scheduledDate": 1787266800000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-08-20_SH038442870000_110219841333_2026-01-15T08:35:21Z_p8787815_i_h10_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    }
+  ]
+}

@@ -2,8 +2,8 @@
   "channel": "FS1",
   "date": "2026-08-20",
   "source": "kayo",
-  "fetchedAt": 1787042252056,
-  "fetchedAtIST": "18/8/2026, 2:07:32 pm",
+  "fetchedAt": 1787057229666,
+  "fetchedAtIST": "18/8/2026, 6:17:09 pm",
   "events": [
     {
       "programTitle": "Test Cricket",
@@ -51,8 +51,8 @@
     },
     {
       "programTitle": "Test Cricket",
-      "episodeTitle": "1st Test, Day 5: Australia vs Bangladesh",
-      "description": "Coverage and highlights from international test cricket matches.",
+      "episodeTitle": "1st Test, Day 4: Australia v Bangladesh",
+      "description": "Australia host Bangladesh for the first time in 23 years as the series begins at TIO Stadium, Darwin.",
       "scheduledDate": 1787178900000,
       "duration": 20,
       "parentalRating": "",
@@ -70,6 +70,215 @@
       "programType": "Sports event",
       "genre": "Cricket",
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-08-19_EP033351860185_111439360782_2026-08-16T13:41:44Z_GNLZZGG003G3W27/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Test Cricket",
+      "episodeTitle": "England vs Pakistan",
+      "description": "Great Barrier Reef Arena",
+      "scheduledDate": 1787194800000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Cricket",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-08-20_EP029804991779_111484910026_2026-08-16T13:40:52Z_GNLZZGG003G3VE2/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "The Hundred",
+      "episodeTitle": "Men's Final: Trent Rockets v Manchester Super Giants",
+      "description": "The Hundred is a professional franchise 100-ball cricket tournament.",
+      "scheduledDate": 1787198400000,
+      "duration": 20,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Cricket",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-08-20_SH044046720000_111401703581_2021-07-26T13:37:10Z_p20330611_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Test Cricket",
+      "episodeTitle": "1st Test, Day 1: England v Pakistan",
+      "description": "Coverage and highlights from international test cricket matches.",
+      "scheduledDate": 1787199600000,
+      "duration": 20,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Cricket, Classic sport event",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-08-20_SH033446590000_98978823590_2023-09-29T14:53:53Z_p8163404_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "The Hundred",
+      "episodeTitle": "Women's Final: Trent Rockets v Sunrisers Leeds",
+      "description": "The Hundred is a professional franchise 100-ball cricket tournament.",
+      "scheduledDate": 1787200800000,
+      "duration": 20,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Cricket",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-08-20_SH044046720000_111401703581_2021-07-26T13:37:10Z_p20330611_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Test Cricket",
+      "episodeTitle": "1st Test, Day 1: Sri Lanka v India",
+      "description": "Coverage and highlights from international test cricket matches.",
+      "scheduledDate": 1787202000000,
+      "duration": 20,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Cricket, Classic sport event",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-08-20_SH033446590000_98978823590_2023-09-29T14:53:53Z_p8163404_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Test Cricket",
+      "episodeTitle": "1st Test, Day 4: Sri Lanka vs India",
+      "description": "Coverage and highlights from international test cricket matches.",
+      "scheduledDate": 1787203200000,
+      "duration": 20,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Cricket, Classic sport event",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-08-20_SH033446590000_98978823590_2023-09-29T14:53:53Z_p8163404_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Test Cricket",
+      "episodeTitle": "1st Test, Day 5: Sri Lanka v India",
+      "description": "Coverage and highlights from international test cricket matches.",
+      "scheduledDate": 1787204400000,
+      "duration": 20,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Cricket, Classic sport event",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-08-20_SH033446590000_98978823590_2023-09-29T14:53:53Z_p8163404_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Test Cricket",
+      "episodeTitle": "England vs Pakistan",
+      "description": "Great Barrier Reef Arena",
+      "scheduledDate": 1787205600000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Cricket",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-08-20_EP029804991779_111484910026_2026-08-16T13:40:52Z_GNLZZGG003G3VE2/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Test Cricket",
+      "episodeTitle": "1st Test, Day 1: England v Pakistan",
+      "description": "Coverage and highlights from international test cricket matches.",
+      "scheduledDate": 1787209200000,
+      "duration": 20,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Cricket, Classic sport event",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-08-20_SH033446590000_98978823590_2023-09-29T14:53:53Z_p8163404_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "CPL T20 Cricket",
+      "episodeTitle": "St. Lucia Kings vs Guyana Amazon Warriors",
+      "description": "Coverage of action from the Caribbean Premier League T20 cricket.",
+      "scheduledDate": 1787210400000,
+      "duration": 35,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Cricket",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-08-20_EP033351860185_111439360782_2026-08-16T13:41:44Z_GNLZZGG003G3W27/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Test Cricket",
+      "episodeTitle": "1st Test, Day 1: England v Pakistan",
+      "description": "Coverage and highlights from international test cricket matches.",
+      "scheduledDate": 1787212500000,
+      "duration": 20,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Cricket, Classic sport event",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-08-20_SH033446590000_98978823590_2023-09-29T14:53:53Z_p8163404_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Test Cricket",
+      "episodeTitle": "England vs Pakistan",
+      "description": "Great Barrier Reef Arena",
+      "scheduledDate": 1787213700000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Cricket",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-08-20_EP029804991779_111484910026_2026-08-16T13:40:52Z_GNLZZGG003G3VE2/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Fox Cricket Pre Game",
+      "episodeTitle": "England v Pakistan: 1st Test Day 1",
+      "description": "The team present an extensive preview of all the action to come with the latest news, the best analysis, entertainment and interviews.",
+      "scheduledDate": 1787217300000,
+      "duration": 45,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Cricket",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-08-20_SH035786310000_108048812556_2025-11-20T06:27:30Z_p18624259_i_h10_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Test Cricket",
+      "episodeTitle": "England vs Pakistan",
+      "description": "Coverage of Test cricket matches contested by international teams.",
+      "scheduledDate": 1787220000000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Cricket",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-08-20_EP029804991780_111439349951_2026-08-16T13:40:47Z_GNLZZGG003G3VYS/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Lunch Break",
+      "episodeTitle": "1st Test Day 1: England v Pakistan",
+      "description": "We bring you exclusive interviews, team strategies, highlights and much more.",
+      "scheduledDate": 1787227200000,
+      "duration": 40,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Cricket",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-08-20_SH038874750000_109715760419_2021-06-07T03:56:56Z_p19398392_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Test Cricket",
+      "episodeTitle": "England vs Pakistan",
+      "description": "Coverage of Test cricket matches contested by international teams.",
+      "scheduledDate": 1787229600000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Cricket",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-08-20_EP029804991780_111439349951_2026-08-16T13:40:47Z_GNLZZGG003G3VYS/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "The Tea Break",
+      "episodeTitle": "1st Test Day 2: England v Pakistan",
+      "description": "Join our commentary team as they re-cap the day's play and analyse all the action.",
+      "scheduledDate": 1787236800000,
+      "duration": 20,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Cricket",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-08-20_SH034094570000_108317568461_2025-11-20T06:26:39Z_p17650797_i_h10_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Test Cricket",
+      "episodeTitle": "England vs Pakistan",
+      "description": "Coverage of Test cricket matches contested by international teams.",
+      "scheduledDate": 1787238000000,
+      "duration": 180,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Cricket",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-08-20_EP029804991780_111439349951_2026-08-16T13:40:47Z_GNLZZGG003G3VYS/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Men's Ashes",
+      "episodeTitle": "2013/14 1st Test Review",
+      "description": "Michael Clarke leads his first home Ashes campaign to a stunning result; Mitchell Johnson delivers a career-defining performance; Warner and Smith emerge as future stars.",
+      "scheduledDate": 1787248800000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Classic sport event, Cricket",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-08-20_SH047728050000_100718435032_2019-07-11T07:40:24Z_p10335812_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     }
   ]
 }

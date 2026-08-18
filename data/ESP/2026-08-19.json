@@ -2,8 +2,8 @@
   "channel": "ESP",
   "date": "2026-08-19",
   "source": "kayo",
-  "fetchedAt": 1787042252089,
-  "fetchedAtIST": "18/8/2026, 2:07:32 pm",
+  "fetchedAt": 1787057229717,
+  "fetchedAtIST": "18/8/2026, 6:17:09 pm",
   "events": [
     {
       "programTitle": "College Football Live",
@@ -36,7 +36,7 @@
       "parentalRating": "",
       "programType": "Sports non-event",
       "genre": "Football",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-08-18_SH033280050000_110541882117_2022-08-27T02:25:47Z_p267723_i_h8_ae/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-08-18_SH033280050000_111474807286_2022-08-27T02:25:47Z_p267723_i_h8_ae/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "SC: Australia Weekly",
@@ -215,15 +215,15 @@
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-08-19_SH048483860000_107690659383_2020-09-10T14:31:07Z_p18762527_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "SportsCenter",
+      "programTitle": "Fantasy Focus",
       "episodeTitle": "",
-      "description": "The team deliver the latest news, highlights, and inside information from the wide world of sports, as well as trending topics across social media platforms.",
+      "description": "Field Yates hosts ESPN's top Fantasy Football experts for a daily discussion of rankings, injuries and game previews and debates how the biggest NFL stories impact Fantasy Football.",
       "scheduledDate": 1787162400000,
       "duration": 60,
       "parentalRating": "",
       "programType": "Sports non-event",
-      "genre": "News, Sports talk",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-08-19_SH033259060000_109832503473_2018-04-18T10:39:00Z_p186674_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "genre": "Special, Football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-08-19_SH049664790000_111282961659_2023-09-08T21:53:03Z_p17055348_b_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     }
   ]
 }
