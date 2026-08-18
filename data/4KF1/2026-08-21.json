@@ -2,8 +2,8 @@
   "channel": "4KF1",
   "date": "2026-08-21",
   "source": "kayo-4k",
-  "fetchedAt": 1787027803621,
-  "fetchedAtIST": "18/8/2026, 10:06:43 am",
+  "fetchedAt": 1787042266433,
+  "fetchedAtIST": "18/8/2026, 2:07:46 pm",
   "events": [
     {
       "eventId": "pnfgl3vrpwry1280f8qig07op",
@@ -11,6 +11,15 @@
       "scheduledDate": 1787308200000,
       "duration": 120,
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/pgoss4viy72m2jqu3u3yb5hn_image-header_pRow_1785114814000/fill/none/top/none/80/1920/1080/webp/image?brand=kayo",
+      "competitionTitle": "Formula 1",
+      "sport": "Motorsport"
+    },
+    {
+      "eventId": "10g6rnjrk9pd11qubmeg44481g",
+      "programTitle": "F1 Netherlands Sprint Qualifying",
+      "scheduledDate": 1787322600000,
+      "duration": 120,
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/93welk7xi383shbkg6outuma5_image-header_pRow_1785114889000/fill/none/top/none/80/1920/1080/webp/image?brand=kayo",
       "competitionTitle": "Formula 1",
       "sport": "Motorsport"
     }
