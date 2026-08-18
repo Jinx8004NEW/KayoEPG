@@ -2,8 +2,8 @@
   "channel": "SPS",
   "date": "2026-08-21",
   "source": "kayo",
-  "fetchedAt": 1787057229707,
-  "fetchedAtIST": "18/8/2026, 6:17:09 pm",
+  "fetchedAt": 1787070733756,
+  "fetchedAtIST": "18/8/2026, 10:02:13 pm",
   "events": [
     {
       "programTitle": "Supercars Mini",
@@ -72,15 +72,15 @@
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-08-20_SH032875880000_110099161189_2026-03-02T13:06:35Z_p9525921_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "F1 Mini",
-      "episodeTitle": "Hungary Grand Prix",
-      "description": "A commanding qualifying puts McLaren at the sharp end as pole-sitter Lando Norris aims to convert his single-lap speed into victory over a chasing Ferrari pack.",
+      "programTitle": "Formula 1",
+      "episodeTitle": "Mid Season Review",
+      "description": "Highlights from Formula 1 racing around the world.",
       "scheduledDate": 1787269800000,
       "duration": 30,
       "parentalRating": "",
       "programType": "Sports event",
-      "genre": "Motorsports, Classic sport event",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-08-20_SH036452570000_107032703571_2020-11-19T03:00:48Z_p18944992_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "genre": "Classic sport event, Motorsports, Auto racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-08-20_SH032875880000_110099161189_2026-03-02T13:06:35Z_p9525921_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     }
   ]
 }

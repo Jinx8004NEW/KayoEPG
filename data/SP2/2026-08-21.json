@@ -2,8 +2,8 @@
   "channel": "SP2",
   "date": "2026-08-21",
   "source": "kayo",
-  "fetchedAt": 1787057229675,
-  "fetchedAtIST": "18/8/2026, 6:17:09 pm",
+  "fetchedAt": 1787070733728,
+  "fetchedAtIST": "18/8/2026, 10:02:13 pm",
   "events": [
     {
       "programTitle": "The Late Show with Matty Johns",
@@ -32,11 +32,22 @@
       "episodeTitle": "",
       "description": "Matty Johns is joined by a panel of experts as they discuss upcoming rugby league matches with a mixture of jokes and left-field analysis.",
       "scheduledDate": 1787255400000,
-      "duration": 70,
+      "duration": 60,
       "parentalRating": "PG",
       "programType": "Series",
       "genre": "Sports talk, Rugby league",
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-08-20_SH029192190000_111310281471_2026-03-13T04:05:00Z_p15263834_i_h10_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NRL Mini",
+      "episodeTitle": "Melbourne Storm v Penrith Panthers",
+      "description": "A comprehensive summary of the match played is provided in an expedited timeframe.",
+      "scheduledDate": 1787259000000,
+      "duration": 20,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Rugby league, Rugby",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-08-20_SH035786430000_106552413658_2020-10-16T18:30:18Z_p18624350_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "To Be Announced",
@@ -48,6 +59,50 @@
       "programType": "TBA",
       "genre": "Special, Entertainment",
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-08-20_SH027575020000_108569306599_2021-11-15T14:36:19Z_p514472_b_h8_dp/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Face-To-Face on Fox",
+      "episodeTitle": "Max Krilich",
+      "description": "Sea Eagles legend, Max Krilich, speaks to Yvonne Sampson about the brutality of 1970s football, Manly premiership glory and captaining the 1982 Invincibles.",
+      "scheduledDate": 1787260200000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Sports talk, Rugby, Rugby league",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-08-20_SH047168440000_107963082214_2026-05-25T11:55:41Z_p19607826_i_h10_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "The Late Show with Matty Johns",
+      "episodeTitle": "",
+      "description": "Matty Johns is joined by a panel of experts as they discuss upcoming rugby league matches with a mixture of jokes and left-field analysis.",
+      "scheduledDate": 1787262000000,
+      "duration": 60,
+      "parentalRating": "PG",
+      "programType": "Series",
+      "genre": "Sports talk, Rugby league",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-08-20_SH029192190000_111310281471_2026-03-13T04:05:00Z_p15263834_i_h10_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NRL",
+      "episodeTitle": "Melbourne Storm vs Penrith Panthers",
+      "description": "Live from AAMI Park. Kick off at 7:50PM AEST.",
+      "scheduledDate": 1787265600000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Rugby league, Rugby",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-08-20_EP031720961215_111390040752_2026-02-24T10:38:35Z_GNLZZGG002YE8F2/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "The Late Show with Matty Johns",
+      "episodeTitle": "",
+      "description": "Matty Johns is joined by a panel of experts as they discuss upcoming rugby league matches with a mixture of jokes and left-field analysis.",
+      "scheduledDate": 1787269200000,
+      "duration": 60,
+      "parentalRating": "PG",
+      "programType": "Series",
+      "genre": "Sports talk, Rugby league",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-08-20_SH029192190000_111310281471_2026-03-13T04:05:00Z_p15263834_i_h10_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     }
   ]
 }
