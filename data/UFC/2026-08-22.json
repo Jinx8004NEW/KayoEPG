@@ -1,0 +1,86 @@
+{
+  "channel": "UFC",
+  "date": "2026-08-22",
+  "source": "kayo",
+  "fetchedAt": 1787102241711,
+  "fetchedAtIST": "19/8/2026, 6:47:21 am",
+  "events": [
+    {
+      "programTitle": "UFC 139: Shogun vs. Henderson",
+      "episodeTitle": "",
+      "description": "",
+      "scheduledDate": 1787339700000,
+      "duration": 55,
+      "parentalRating": "M",
+      "programType": "Sports event",
+      "genre": "Mixed martial arts",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/164400_2026-08-21_SH055137640000_108682005556_2015-04-06T23:01:00Z_p8849962_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "UFC Fight Night",
+      "episodeTitle": "",
+      "description": "Comprehensive coverage of all the action from UFC Fight Night events, the ultimate fighting championship.",
+      "scheduledDate": 1787343000000,
+      "duration": 30,
+      "parentalRating": "M",
+      "programType": "Sports event",
+      "genre": "Mixed martial arts",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/164400_2026-08-21_SH031721160000_108770512221_2025-07-09T09:24:04Z_p308819_i_h10_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Silva vs. Bisping: UFC Fight Night- London",
+      "episodeTitle": "",
+      "description": "",
+      "scheduledDate": 1787344800000,
+      "duration": 60,
+      "parentalRating": "M",
+      "programType": "Sports event",
+      "genre": "Mixed martial arts",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/164400_2026-08-21_SH057321810000_108625199007_2021-12-01T09:37:45Z_p21069180_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "UFC 179: Aldo vs. Mendes II",
+      "episodeTitle": "",
+      "description": "",
+      "scheduledDate": 1787348400000,
+      "duration": 60,
+      "parentalRating": "M",
+      "programType": "Sports event",
+      "genre": "Mixed martial arts",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/164400_2026-08-21_SH055134080000_108625199052_2014-09-08T17:22:00Z_p11003369_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "UFC 116: Lesnar vs. Carwin",
+      "episodeTitle": "Brock Lesnar x Shane Carwin",
+      "description": "",
+      "scheduledDate": 1787352000000,
+      "duration": 25,
+      "parentalRating": "M",
+      "programType": "Sports event",
+      "genre": "Mixed martial arts",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/164400_2026-08-21_SH057958680000_108625199012_2022-03-17T12:37:45Z_p8129004_i_h8_ao/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "UFC 183: Anderson Silva x Nick Diaz",
+      "episodeTitle": "",
+      "description": "",
+      "scheduledDate": 1787353500000,
+      "duration": 50,
+      "parentalRating": "M",
+      "programType": "Sports event",
+      "genre": "Mixed martial arts",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/164400_2026-08-21_SH057958700000_108625199029_2023-08-17T14:25:17Z_p23750434_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "UFC BJJ 10: Andrew Tackett vs Jonnatas Gracie",
+      "episodeTitle": "",
+      "description": "",
+      "scheduledDate": 1787356500000,
+      "duration": 180,
+      "parentalRating": "NC",
+      "programType": "Sports event",
+      "genre": "Martial arts",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/Fallback_LTV_UFC_MainEvent/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    }
+  ]
+}
