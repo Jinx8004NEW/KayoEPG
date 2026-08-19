@@ -2,8 +2,8 @@
   "channel": "SPS",
   "date": "2026-08-22",
   "source": "kayo",
-  "fetchedAt": 1787143724709,
-  "fetchedAtIST": "19/8/2026, 6:18:44 pm",
+  "fetchedAt": 1787157167084,
+  "fetchedAtIST": "19/8/2026, 10:02:47 pm",
   "events": [
     {
       "programTitle": "Supercars Mini",
@@ -29,7 +29,7 @@
     },
     {
       "programTitle": "Supercars Championship",
-      "episodeTitle": "",
+      "episodeTitle": "Century Batteries Ipswich Super 440: Practice 1",
       "description": "Supercars compete in a series across Australia and New Zealand.",
       "scheduledDate": 1787339700000,
       "duration": 30,
@@ -40,7 +40,7 @@
     },
     {
       "programTitle": "Supercars Championship",
-      "episodeTitle": "",
+      "episodeTitle": "Century Batteries Ipswich Super 440: Practice 2",
       "description": "Supercars compete in a series across Australia and New Zealand.",
       "scheduledDate": 1787341500000,
       "duration": 30,
@@ -84,7 +84,7 @@
     },
     {
       "programTitle": "Supercars Championship",
-      "episodeTitle": "",
+      "episodeTitle": "Century Batteries Ipswich Super 440: Practice 2",
       "description": "Supercars compete in a series across Australia and New Zealand.",
       "scheduledDate": 1787350500000,
       "duration": 30,
@@ -94,26 +94,26 @@
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-08-21_SH027326760000_111068013985_2026-08-07T01:36:07Z_p522547_i_h10_ad/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "F",
-      "episodeTitle": "",
-      "description": "",
+      "programTitle": "Supercars Championship",
+      "episodeTitle": "Century Batteries Ipswich Super 440: Supports, Saturday (Porsche Carrera Cup Qualifying, Aussie Racing Cars Race 2)",
+      "description": "Supercars compete in a series across Australia and New Zealand.",
       "scheduledDate": 1787352300000,
       "duration": 60,
       "parentalRating": "",
-      "programType": "",
-      "genre": "",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/Fallback_LTV_Fox_Sports_506/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "programType": "Sports event",
+      "genre": "Auto racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-08-21_SH027326760000_111068013985_2026-08-07T01:36:07Z_p522547_i_h10_ad/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "F",
-      "episodeTitle": "",
-      "description": "",
+      "programTitle": "Supercars Live",
+      "episodeTitle": "Ipswich Saturday",
+      "description": "The team take a comprehensive look at the decisive moments of supercars action, providing expert analysis of the race.",
       "scheduledDate": 1787355900000,
       "duration": 15,
       "parentalRating": "",
-      "programType": "",
-      "genre": "",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/Fallback_LTV_Fox_Sports_506/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "programType": "Sports non-event",
+      "genre": "Sports talk, Motorsports",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-08-21_SH038097720000_102449791335_2021-06-10T12:06:28Z_p19698248_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     }
   ]
 }
