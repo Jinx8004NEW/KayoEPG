@@ -1,0 +1,42 @@
+{
+  "channel": "FS3",
+  "date": "2026-08-22",
+  "source": "kayo",
+  "fetchedAt": 1787128680490,
+  "fetchedAtIST": "19/8/2026, 2:08:00 pm",
+  "events": [
+    {
+      "programTitle": "PGA Tour Golf",
+      "episodeTitle": "BMW Championship, Second Round",
+      "description": "From Bellerive Country Club in St. Louis.",
+      "scheduledDate": 1787338800000,
+      "duration": 240,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-08-21_SH030899370000_110982182699_2025-07-31T11:34:53Z_p845788_i_h8_af/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "How Good is Golf",
+      "episodeTitle": "Keysborough Golf Club",
+      "description": "Paul Gow talks everything golf, taking people through the greatest game of all, showing them how to play, where to play and what equipment to use.",
+      "scheduledDate": 1787353200000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-08-21_SH047697570000_103716322117_2026-01-16T17:55:26Z_p24911210_i_h10_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "DP World Tour Golf",
+      "episodeTitle": "Nexo Championship, Second Round",
+      "description": "From Trump International Golf Links in Scotland.",
+      "scheduledDate": 1787355000000,
+      "duration": 90,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-08-21_SH040914080000_111510780655_2022-04-26T15:48:27Z_p20993758_i_h8_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    }
+  ]
+}
