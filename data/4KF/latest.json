@@ -1,34 +1,16 @@
 {
   "channel": "4KF",
-  "date": "2026-08-16",
+  "date": "2026-08-20",
   "source": "kayo-4k",
-  "fetchedAt": 1786897542502,
-  "fetchedAtIST": "16/8/2026, 9:55:42 pm",
+  "fetchedAt": 1787171316611,
+  "fetchedAtIST": "20/8/2026, 1:58:36 am",
   "events": [
     {
-      "eventId": "yapmfe5bx3j00qe8iwirtw4jb0",
-      "programTitle": "GWS v West Coast",
-      "scheduledDate": 1786851600000,
-      "duration": 185,
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/7hbm1rhjp2hzzeei7lxg95loi_image-header_pRow_1786338930000/fill/none/top/none/80/1920/1080/webp/image?brand=kayo",
-      "competitionTitle": "AFL",
-      "sport": "Australian Rules Football"
-    },
-    {
-      "eventId": "1m8zxoy75l3vem0w2wris5or00",
-      "programTitle": "Western Bulldogs v Carlton",
-      "scheduledDate": 1786857300000,
-      "duration": 189,
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/4csk1c6oibozzqmnbfptcdzly_image-header_pRow_1786666679000/fill/none/top/none/80/1920/1080/webp/image?brand=kayo",
-      "competitionTitle": "AFL",
-      "sport": "Australian Rules Football"
-    },
-    {
-      "eventId": "1vsxi3ysyr2if1qxgpf1wqjql6",
-      "programTitle": "Essendon v Sydney",
-      "scheduledDate": 1786862400000,
-      "duration": 238,
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/9funy1q0j8wxzpyssmphlqc6t_image-header_pRow_1786339053000/fill/none/top/none/80/1920/1080/webp/image?brand=kayo",
+      "eventId": "l42w97m01lhd01ewww5cyxy1uy",
+      "programTitle": "St Kilda v Gold Coast",
+      "scheduledDate": 1787218200000,
+      "duration": 130,
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/5lypbkdsrh0zicihd0lm8xyz4_image-header_pRow_1782189858000/fill/none/top/none/80/1920/1080/webp/image?brand=kayo",
       "competitionTitle": "AFL",
       "sport": "Australian Rules Football"
     }
