@@ -1,0 +1,31 @@
+{
+  "channel": "FAF",
+  "date": "2026-08-23",
+  "source": "kayo",
+  "fetchedAt": 1787200664561,
+  "fetchedAtIST": "20/8/2026, 10:07:44 am",
+  "events": [
+    {
+      "programTitle": "AFL",
+      "episodeTitle": "Melbourne vs Western Bulldogs",
+      "description": "From Melbourne Cricket Ground in Melbourne, Victoria, Australia.",
+      "scheduledDate": 1787428200000,
+      "duration": 150,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Australian rules football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-08-22_EP029151671430_111212878568_2026-07-29T20:47:48Z_GNLZZGG003CYJ7H/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "AFL",
+      "episodeTitle": "Geelong Cats vs Richmond",
+      "description": "From GMHBA Stadium in South Geelong, Victoria, Australia.",
+      "scheduledDate": 1787437200000,
+      "duration": 150,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Australian rules football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-08-22_EP029151671428_111292493918_2026-07-29T20:48:24Z_GNLZZGG003CYF09/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    }
+  ]
+}

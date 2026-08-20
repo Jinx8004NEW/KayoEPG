@@ -1,0 +1,31 @@
+{
+  "channel": "FSS",
+  "date": "2026-08-23",
+  "source": "kayo",
+  "fetchedAt": 1787200664594,
+  "fetchedAtIST": "20/8/2026, 10:07:44 am",
+  "events": [
+    {
+      "programTitle": "PGA Tour Champions Golf",
+      "episodeTitle": "Rogers Charity Classic, Second Round",
+      "description": "Golfing action from the PGA Tour Champions.",
+      "scheduledDate": 1787428800000,
+      "duration": 180,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-08-22_SH034248570000_109900686393_2017-11-07T21:05:00Z_p14792051_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Formula 1",
+      "episodeTitle": "Dutch Grand Prix, Sprint",
+      "description": "From Circuit Zandvoort in Zandvoort, North Holland, Netherlands.",
+      "scheduledDate": 1787439600000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Auto racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-08-22_EP027326820854_111607067483_2026-07-30T22:25:26Z_p32387523_b_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    }
+  ]
+}

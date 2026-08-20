@@ -1,0 +1,20 @@
+{
+  "channel": "FS3",
+  "date": "2026-08-23",
+  "source": "kayo",
+  "fetchedAt": 1787200664553,
+  "fetchedAtIST": "20/8/2026, 10:07:44 am",
+  "events": [
+    {
+      "programTitle": "LPGA Tour Golf",
+      "episodeTitle": "CPKC Women's Open, Third Round",
+      "description": "From Royal Mayfair Golf Club in Edmonton, Alberta, Canada.",
+      "scheduledDate": 1787436000000,
+      "duration": 180,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-08-22_EP031583890710_111577891231_2026-08-13T16:56:25Z_p32164101_b_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    }
+  ]
+}
