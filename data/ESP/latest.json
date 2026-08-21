@@ -2,8 +2,8 @@
   "channel": "ESP",
   "date": "2026-08-21",
   "source": "kayo",
-  "fetchedAt": 1787301654377,
-  "fetchedAtIST": "21/8/2026, 2:10:54 pm",
+  "fetchedAt": 1787316563042,
+  "fetchedAtIST": "21/8/2026, 6:19:23 pm",
   "events": [
     {
       "programTitle": "2026 Little League Baseball World Series",
@@ -149,6 +149,17 @@
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-08-21_SH065665800000_111651415786_2026-07-16T17:07:05Z_p33388586_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
+      "programTitle": "Get Up",
+      "episodeTitle": "",
+      "description": "Mike Greenberg, Laura Rutledge and Jalen Rose discuss and analyse the latest news from the world of sports.",
+      "scheduledDate": 1787313600000,
+      "duration": 90,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Sports talk",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-08-21_SH033268270000_107093139583_2026-03-24T04:04:44Z_p15158780_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
       "programTitle": "ONE Friday Fights 167",
       "episodeTitle": "",
       "description": "From Lumpinee Boxing Stadium in Bangkok.",
@@ -156,8 +167,8 @@
       "duration": 180,
       "parentalRating": "",
       "programType": "Sports event",
-      "genre": "Mixed martial arts, Martial arts",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-08-21_SH065682890000_111554255022_2026-08-14T15:57:09Z_p33736580_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "genre": "Mixed martial arts",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-08-21_SH065682890000_111660474338_2026-08-14T15:57:09Z_p33736580_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "NFL Blitz",
