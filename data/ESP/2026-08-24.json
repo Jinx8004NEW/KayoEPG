@@ -1,0 +1,64 @@
+{
+  "channel": "ESP",
+  "date": "2026-08-24",
+  "source": "kayo",
+  "fetchedAt": 1787275192553,
+  "fetchedAtIST": "21/8/2026, 6:49:52 am",
+  "events": [
+    {
+      "programTitle": "30 for 30 Shorts",
+      "episodeTitle": "Great Trade Robbery/The Sweat Solution",
+      "description": "An unprecedented exploration of sports films from some of the most renowned directors around the world.",
+      "scheduledDate": 1787513400000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Documentary",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-08-23_SH033234650000_111251502876_2019-12-24T10:40:17Z_p10143938_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "30 for 30",
+      "episodeTitle": "Deion's Double-Play",
+      "description": "The story of how Deion Sanders played for both the Atlanta Braves and Atlanta Falcons in the same 24-hour period in October 1992.",
+      "scheduledDate": 1787515200000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Documentary",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-08-23_EP023926430072_111623934725_2019-08-14T06:40:59Z_p16285057_e_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "30 for 30",
+      "episodeTitle": "The New York Sack Exchange",
+      "description": "The Jets' 1980s high-octane defensive line featuring the larger than life personalities of Mark Gastineau, Marty Lyons, Joe Klecko and Abdul Salaam became New York legends.",
+      "scheduledDate": 1787518800000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Documentary",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-08-23_EP023926430142_111154626769_2024-12-24T09:23:25Z_p28829331_e_h11_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Women's College Volleyball",
+      "episodeTitle": "Texas A&M vs SMU",
+      "description": "From Fiserv Forum in Milwaukee.",
+      "scheduledDate": 1787522400000,
+      "duration": 90,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Volleyball",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-08-23_EP062509050070_111624715668_2026-08-04T20:03:08Z_GNLZZGG003DE0F2/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NFL Blitz",
+      "episodeTitle": "Road to Melbourne",
+      "description": "All of the best action from the National Football League.",
+      "scheduledDate": 1787527800000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Football, News",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-08-23_SH060667300000_110937783149_2022-09-12T05:46:51Z_p22911383_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    }
+  ]
+}

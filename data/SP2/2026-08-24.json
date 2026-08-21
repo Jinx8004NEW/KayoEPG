@@ -1,0 +1,42 @@
+{
+  "channel": "SP2",
+  "date": "2026-08-24",
+  "source": "kayo",
+  "fetchedAt": 1787275192514,
+  "fetchedAtIST": "21/8/2026, 6:49:52 am",
+  "events": [
+    {
+      "programTitle": "NRL",
+      "episodeTitle": "Canberra Raiders vs Brisbane Broncos",
+      "description": "From GIO Stadium Canberra in Bruce, Australian Capital Territory, Australia.",
+      "scheduledDate": 1787511600000,
+      "duration": 97,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Rugby league, Rugby",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-08-23_EP031720961216_111518477425_2026-02-24T16:25:38Z_GNLZZGG002E1WZN/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Sunday Night with Matty Johns",
+      "episodeTitle": "",
+      "description": "Matty Johns chats with a panel of professionals to have an entertaining discussion about the latest in rugby league.",
+      "scheduledDate": 1787517420000,
+      "duration": 23,
+      "parentalRating": "PG",
+      "programType": "Sports non-event",
+      "genre": "Sports talk, Rugby league",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-08-23_SH029203890000_106704715334_2026-03-12T03:35:04Z_p15272162_i_h10_ad/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "To Be Announced",
+      "episodeTitle": "",
+      "description": "The programming for this time slot has yet to be determined and is being confirmed by the broadcast channel.",
+      "scheduledDate": 1787518800000,
+      "duration": 240,
+      "parentalRating": "",
+      "programType": "TBA",
+      "genre": "Special, Entertainment",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-08-23_SH027575020000_108569306599_2021-11-15T14:36:19Z_p514472_b_h8_dp/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    }
+  ]
+}

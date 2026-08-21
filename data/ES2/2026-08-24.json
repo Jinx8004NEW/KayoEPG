@@ -1,0 +1,42 @@
+{
+  "channel": "ES2",
+  "date": "2026-08-24",
+  "source": "kayo",
+  "fetchedAt": 1787275192557,
+  "fetchedAtIST": "21/8/2026, 6:49:52 am",
+  "events": [
+    {
+      "programTitle": "Women's College Volleyball",
+      "episodeTitle": "Pittsburgh vs Kentucky",
+      "description": "From Fiserv Forum in Milwaukee.",
+      "scheduledDate": 1787515200000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Volleyball",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-08-23_EP062509050071_111624855822_2026-08-04T19:59:56Z_GNLZZGG003DYQ9V/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Baseball Tonight",
+      "episodeTitle": "",
+      "description": "Major League Baseball highlights, news, and information show providing comprehensive season long coverage.",
+      "scheduledDate": 1787522400000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "News, Baseball",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-08-23_SH033235530000_111647833221_2026-08-10T19:26:00Z_p337588_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "MLB Baseball",
+      "episodeTitle": "Milwaukee Brewers vs Atlanta Braves",
+      "description": "From Muncy Bank Ballpark at Historic Bowman Field in Williamsport, Pa.",
+      "scheduledDate": 1787526000000,
+      "duration": 180,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Baseball",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-08-23_EP062580852421_111624089755_2026-06-27T19:22:19Z_GNLZZGG0037TNBJ/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    }
+  ]
+}

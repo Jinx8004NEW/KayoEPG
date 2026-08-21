@@ -2,8 +2,8 @@
   "channel": "FSP",
   "date": "2026-08-22",
   "source": "kayo",
-  "fetchedAt": 1787257748479,
-  "fetchedAtIST": "21/8/2026, 1:59:08 am",
+  "fetchedAt": 1787275192530,
+  "fetchedAtIST": "21/8/2026, 6:49:52 am",
   "events": [
     {
       "programTitle": "MotoGP Mini",
@@ -61,7 +61,7 @@
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-08-21_EP031583890709_111553202401_2026-08-05T00:05:23Z_p32164076_b_h10_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "Formula 1",
+      "programTitle": "Formula 1 Racing",
       "episodeTitle": "Dutch Grand Prix, Practice 1",
       "description": "From Circuit Zandvoort in Zandvoort, North Holland, Netherlands.",
       "scheduledDate": 1787360400000,
@@ -175,7 +175,7 @@
       "episodeTitle": "Round 2",
       "description": "Features expert analysis, player interviews and match previews ahead of AFLW action.",
       "scheduledDate": 1787389200000,
-      "duration": 5,
+      "duration": 15,
       "parentalRating": "",
       "programType": "Sports non-event",
       "genre": "Australian rules football",
@@ -193,11 +193,33 @@
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-08-22_EP029247970751_111473923992_2026-07-18T00:15:58Z_GNLZZGG003BFYZG/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
+      "programTitle": "AFL Women's Premiership",
+      "episodeTitle": "Brisbane Lions vs North Melbourne Kangaroos",
+      "description": "Live from Brighton Homes Arena. Bounce time: 7:15 pm AEST.",
+      "scheduledDate": 1787390100000,
+      "duration": 100,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Australian rules football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-08-22_EP029247970751_111473923992_2026-07-18T00:15:58Z_GNLZZGG003BFYZG/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
       "programTitle": "AFLW Post Game",
       "episodeTitle": "Round 2",
       "description": "All the latest news and analysis from the world of women's AFL.",
       "scheduledDate": 1787395800000,
       "duration": 10,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Australian rules football, Sports talk",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-08-22_SH041614210000_111575853519_2022-01-12T02:37:13Z_p21375733_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "AFLW Post Game",
+      "episodeTitle": "Round 2",
+      "description": "All the latest news and analysis from the world of women's AFL.",
+      "scheduledDate": 1787396100000,
+      "duration": 5,
       "parentalRating": "",
       "programType": "Sports non-event",
       "genre": "Australian rules football, Sports talk",

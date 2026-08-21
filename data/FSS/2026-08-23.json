@@ -2,8 +2,8 @@
   "channel": "FSS",
   "date": "2026-08-23",
   "source": "kayo",
-  "fetchedAt": 1787257748496,
-  "fetchedAtIST": "21/8/2026, 1:59:08 am",
+  "fetchedAt": 1787275192547,
+  "fetchedAtIST": "21/8/2026, 6:49:52 am",
   "events": [
     {
       "programTitle": "PGA Tour Champions Golf",
@@ -25,7 +25,205 @@
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Auto racing",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-08-22_EP027326820854_111607067483_2026-07-30T22:25:26Z_p32387523_b_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-08-22_EP027326820854_111646588486_2026-07-30T22:25:26Z_p32387523_b_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Formula 1 Racing",
+      "episodeTitle": "Dutch Grand Prix, Qualifying",
+      "description": "From Circuit Zandvoort in Zandvoort, North Holland, Netherlands.",
+      "scheduledDate": 1787443200000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Auto racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-08-23_EP027326820852_111574263061_2026-07-30T22:25:36Z_p32387549_b_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "DP World Tour Golf",
+      "episodeTitle": "Nexo Championship, Third Round",
+      "description": "From Trump International Golf Links in Scotland.",
+      "scheduledDate": 1787446800000,
+      "duration": 90,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-08-23_SH040914080000_111510780655_2022-04-26T15:48:27Z_p20993758_i_h8_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "AFLW Pre Game",
+      "episodeTitle": "Round 2",
+      "description": "Features expert analysis, player interviews and match previews ahead of AFLW action.",
+      "scheduledDate": 1787452200000,
+      "duration": 5,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Australian rules football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-08-23_SH052727060000_111575637511_2025-10-15T04:36:01Z_p28175501_b_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "AFL Women's Premiership",
+      "episodeTitle": "Collingwood Magpies vs Fremantle",
+      "description": "Live from Victoria Park. Bounce time: 12:35 pm AEST.",
+      "scheduledDate": 1787452500000,
+      "duration": 105,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Australian rules football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-08-23_EP029247970752_111577890626_2026-07-18T00:15:41Z_GNLZZGG003BG1PC/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "AFLW Post Game",
+      "episodeTitle": "Round 2",
+      "description": "All the latest news and analysis from the world of women's AFL.",
+      "scheduledDate": 1787458800000,
+      "duration": 10,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Australian rules football, Sports talk",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-08-23_SH041614210000_111575853519_2022-01-12T02:37:13Z_p21375733_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "AFLW Mini",
+      "episodeTitle": "",
+      "description": "Condensed highlights of some of the greatest encounters from the AFL Women's competition.",
+      "scheduledDate": 1787459400000,
+      "duration": 15,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Australian rules football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-08-23_SH038251630000_111269523232_2025-10-16T04:55:13Z_p19768743_b_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "AFLW Mini",
+      "episodeTitle": "",
+      "description": "Condensed highlights of some of the greatest encounters from the AFL Women's competition.",
+      "scheduledDate": 1787460300000,
+      "duration": 15,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Australian rules football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-08-23_SH038251630000_111269523232_2025-10-16T04:55:13Z_p19768743_b_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "AFLW Pre Game",
+      "episodeTitle": "Round 2",
+      "description": "Features expert analysis, player interviews and match previews ahead of AFLW action.",
+      "scheduledDate": 1787461200000,
+      "duration": 5,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Australian rules football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-08-23_SH052727060000_111575637511_2025-10-15T04:36:01Z_p28175501_b_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "AFL Women's Premiership",
+      "episodeTitle": "Carlton Blues vs Adelaide Crows",
+      "description": "Live from Ikon Park. Bounce time: 3:20 pm AEST.",
+      "scheduledDate": 1787461500000,
+      "duration": 105,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Australian rules football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-08-23_EP029247970753_111577890394_2026-07-18T00:15:48Z_GNLZZGG003BG4C6/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "AFLW Post Game",
+      "episodeTitle": "Round 2",
+      "description": "All the latest news and analysis from the world of women's AFL.",
+      "scheduledDate": 1787467800000,
+      "duration": 10,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Australian rules football, Sports talk",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-08-23_SH041614210000_111575853519_2022-01-12T02:37:13Z_p21375733_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Darts",
+      "episodeTitle": "Australian Masters: Day 1",
+      "description": "Covering of all the action from darts events around the world.",
+      "scheduledDate": 1787468400000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Darts",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-08-23_SH032967320000_109954612423_2024-10-04T13:14:55Z_p644283_i_h8_ah/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Darts",
+      "episodeTitle": "Australian Darts Masters - Day 2",
+      "description": "Covering of all the action from darts events around the world.",
+      "scheduledDate": 1787475600000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Darts",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-08-23_SH032967320000_109954612423_2024-10-04T13:14:55Z_p644283_i_h8_ah/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Supercars Championship",
+      "episodeTitle": "",
+      "description": "Supercars compete in a series across Australia and New Zealand.",
+      "scheduledDate": 1787482800000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Auto racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-08-23_SH027326760000_111068013985_2026-08-07T01:36:07Z_p522547_i_h10_ad/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Supercars Trackside",
+      "episodeTitle": "Ipswich Review",
+      "description": "All the action from the track and down in pit lane, with exclusive insight from experts and former supercar drivers.",
+      "scheduledDate": 1787486400000,
+      "duration": 55,
+      "parentalRating": "",
+      "programType": "Series",
+      "genre": "Sports talk, Motorsports",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-08-23_SH031729430000_109921619660_2019-04-15T09:20:14Z_p16641707_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Formula 1",
+      "episodeTitle": "Dutch Grand Prix: Race, Alternate Commentary",
+      "description": "Features all the action and highlights from Formula 1 racing.",
+      "scheduledDate": 1787489700000,
+      "duration": 125,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Classic sport event, Motorsports, Auto racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-08-23_SH035915380000_109578600751_2023-09-29T11:04:19Z_p8544413_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "SailGP",
+      "episodeTitle": "Sassnitz, Day 1",
+      "description": "",
+      "scheduledDate": 1787497200000,
+      "duration": 90,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Sailing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-08-23_SH051028760000_111582415077_2021-04-23T21:46:53Z_p19827810_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Supercars Championship",
+      "episodeTitle": "Century Batteries Ipswich Super 440: Race 26",
+      "description": "Supercars compete in a series across Australia and New Zealand.",
+      "scheduledDate": 1787502600000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Auto racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-08-23_SH027326760000_111068013985_2026-08-07T01:36:07Z_p522547_i_h10_ad/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Supercars Championship",
+      "episodeTitle": "Century Batteries Ipswich Super 440: Race 27",
+      "description": "Supercars compete in a series across Australia and New Zealand.",
+      "scheduledDate": 1787506200000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Auto racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-08-23_SH027326760000_111068013985_2026-08-07T01:36:07Z_p522547_i_h10_ad/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     }
   ]
 }

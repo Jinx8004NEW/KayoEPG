@@ -1,0 +1,31 @@
+{
+  "channel": "SPS",
+  "date": "2026-08-24",
+  "source": "kayo",
+  "fetchedAt": 1787275192543,
+  "fetchedAtIST": "21/8/2026, 6:49:52 am",
+  "events": [
+    {
+      "programTitle": "NASCAR Cup Series",
+      "episodeTitle": "New Hampshire",
+      "description": "Racing action from the NASCAR Cup Series.",
+      "scheduledDate": 1787509800000,
+      "duration": 302,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Auto racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-08-23_SH035183560000_111654414230_2026-02-03T16:15:54Z_p17799520_i_h8_ad/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Supercars Mini",
+      "episodeTitle": "Century Batteries Ipswich Super 440: Race 27",
+      "description": "Australia's premier touring car racing competition, known for high-powered V8 machines and intense, close-quarters racing.",
+      "scheduledDate": 1787527920000,
+      "duration": 88,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Classic sport event, Auto racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-08-23_SH035786470000_105377021933_2020-08-20T08:30:31Z_p18624449_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    }
+  ]
+}

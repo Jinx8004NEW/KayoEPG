@@ -2,8 +2,8 @@
   "channel": "FSN",
   "date": "2026-08-21",
   "source": "kayo",
-  "fetchedAt": 1787257748446,
-  "fetchedAtIST": "21/8/2026, 1:59:08 am",
+  "fetchedAt": 1787275192499,
+  "fetchedAtIST": "21/8/2026, 6:49:52 am",
   "events": [
     {
       "programTitle": "CPL T20 Cricket",
@@ -259,15 +259,15 @@
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103083_2026-08-21_SH047168440000_107963082214_2026-05-25T11:55:41Z_p19607826_i_h10_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "NRL Tonight",
+      "programTitle": "FOX SPORTS News",
       "episodeTitle": "",
-      "description": "A look back at the latest NRL events and matches with special guests, expert opinions and breaking news.",
+      "description": "The latest highlights, reaction and analysis of the biggest sport stories from Australia and around the world.",
       "scheduledDate": 1787293800000,
       "duration": 30,
       "parentalRating": "",
       "programType": "Sports non-event",
-      "genre": "Sports talk, Rugby league",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103083_2026-08-21_SH030523220000_107952200542_2020-03-16T19:50:14Z_p15943624_i_h10_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "genre": "News",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103083_2026-08-21_SH042121470000_101942753651_2025-01-23T05:33:43Z_p21695748_i_h10_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "FOX SPORTS News",
@@ -292,15 +292,15 @@
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103083_2026-08-21_SH042121470000_101942753651_2025-01-23T05:33:43Z_p21695748_i_h10_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "AFL Tonight",
+      "programTitle": "FOX SPORTS News",
       "episodeTitle": "",
-      "description": "A look back at all the latest AFL news and matches, with big name guests, sports experts and breaking news.",
+      "description": "The latest highlights, reaction and analysis of the biggest sport stories from Australia and around the world.",
       "scheduledDate": 1787299200000,
       "duration": 30,
       "parentalRating": "",
-      "programType": "Series",
-      "genre": "Sports talk, Australian rules football",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103083_2026-08-21_SH030522950000_111163805717_2026-03-12T06:26:52Z_p15943411_i_h10_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "programType": "Sports non-event",
+      "genre": "News",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103083_2026-08-21_SH042121470000_101942753651_2025-01-23T05:33:43Z_p21695748_i_h10_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "FOX SPORTS News",
@@ -472,6 +472,50 @@
       "episodeTitle": "",
       "description": "The latest highlights, reaction and analysis of the biggest sport stories from Australia and around the world.",
       "scheduledDate": 1787328000000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "News",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103083_2026-08-21_SH042121470000_101942753651_2025-01-23T05:33:43Z_p21695748_i_h10_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "FOX SPORTS News",
+      "episodeTitle": "",
+      "description": "The latest highlights, reaction and analysis of the biggest sport stories from Australia and around the world.",
+      "scheduledDate": 1787329800000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "News",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103083_2026-08-21_SH042121470000_101942753651_2025-01-23T05:33:43Z_p21695748_i_h10_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "FOX SPORTS News",
+      "episodeTitle": "",
+      "description": "The latest highlights, reaction and analysis of the biggest sport stories from Australia and around the world.",
+      "scheduledDate": 1787331600000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "News",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103083_2026-08-21_SH042121470000_101942753651_2025-01-23T05:33:43Z_p21695748_i_h10_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "FOX SPORTS News",
+      "episodeTitle": "",
+      "description": "The latest highlights, reaction and analysis of the biggest sport stories from Australia and around the world.",
+      "scheduledDate": 1787333400000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "News",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103083_2026-08-21_SH042121470000_101942753651_2025-01-23T05:33:43Z_p21695748_i_h10_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "FOX SPORTS News",
+      "episodeTitle": "",
+      "description": "The latest highlights, reaction and analysis of the biggest sport stories from Australia and around the world.",
+      "scheduledDate": 1787335200000,
       "duration": 30,
       "parentalRating": "",
       "programType": "Sports non-event",

@@ -1,0 +1,31 @@
+{
+  "channel": "FAF",
+  "date": "2026-08-24",
+  "source": "kayo",
+  "fetchedAt": 1787275192526,
+  "fetchedAtIST": "21/8/2026, 6:49:52 am",
+  "events": [
+    {
+      "programTitle": "Bounce",
+      "episodeTitle": "",
+      "description": "A light-hearted look at all things AFL, with news and entertainment. Also includes behind the scenes footage, parodies, quirky statistics, and plenty of opinions.",
+      "scheduledDate": 1787511600000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Australian rules football, Entertainment",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-08-23_SH029317320000_104620906898_2026-03-12T04:25:01Z_p15322395_i_h10_ad/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "To Be Announced",
+      "episodeTitle": "",
+      "description": "The programming for this time slot has yet to be determined and is being confirmed by the broadcast channel.",
+      "scheduledDate": 1787518800000,
+      "duration": 240,
+      "parentalRating": "",
+      "programType": "TBA",
+      "genre": "Special, Entertainment",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-08-23_SH027575020000_108569306599_2021-11-15T14:36:19Z_p514472_b_h8_dp/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    }
+  ]
+}
