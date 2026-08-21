@@ -1,202 +1,136 @@
 {
   "channel": "RTV",
-  "date": "2026-08-21",
+  "date": "2026-08-22",
   "source": "kayo",
-  "fetchedAt": 1787330120629,
-  "fetchedAtIST": "21/8/2026, 10:05:20 pm",
+  "fetchedAt": 1787343998058,
+  "fetchedAtIST": "22/8/2026, 1:56:38 am",
   "events": [
+    {
+      "programTitle": "The Analyser",
+      "episodeTitle": "",
+      "description": "Ben Asgari previews and examines the day's racing, featuring speed maps and replays for every race on the card.",
+      "scheduledDate": 1787337000000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Series",
+      "genre": "Sports talk",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/148460_2026-08-21_SH032528360000_103465362616_2019-10-09T21:40:24Z_p17053183_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Get On!",
+      "episodeTitle": "",
+      "description": "Host Matt Hill and a panel of experts discuss the fixed betting markets and share their picks for upcoming race meetings.",
+      "scheduledDate": 1787338800000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Sports talk, Horse racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/148460_2026-08-21_SH029304330000_110220103349_2026-02-03T05:26:52Z_p15316392_i_h10_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "The Analyser",
+      "episodeTitle": "",
+      "description": "Ben Asgari previews and examines the day's racing, featuring speed maps and replays for every race on the card.",
+      "scheduledDate": 1787342400000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Series",
+      "genre": "Sports talk",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/148460_2026-08-21_SH032528360000_103465362616_2019-10-09T21:40:24Z_p17053183_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
     {
       "programTitle": "Get on SA",
       "episodeTitle": "",
       "description": "A preview of all the big races as James Jordan and Matt Campbell examine racing through a South Australian lens.",
-      "scheduledDate": 1787252400000,
+      "scheduledDate": 1787344200000,
       "duration": 30,
       "parentalRating": "",
       "programType": "Sports non-event",
       "genre": "Sports talk, Horse racing",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/148460_2026-08-20_SH038656280000_110220103348_2025-07-15T02:53:41Z_p19973783_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/148460_2026-08-21_SH038656280000_110220103348_2025-07-15T02:53:41Z_p19973783_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Get On!",
+      "episodeTitle": "",
+      "description": "Host Matt Hill and a panel of experts discuss the fixed betting markets and share their picks for upcoming race meetings.",
+      "scheduledDate": 1787346000000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Sports talk, Horse racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/148460_2026-08-21_SH029304330000_110220103349_2026-02-03T05:26:52Z_p15316392_i_h10_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "The Analyser",
+      "episodeTitle": "",
+      "description": "Ben Asgari previews and examines the day's racing, featuring speed maps and replays for every race on the card.",
+      "scheduledDate": 1787349600000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Series",
+      "genre": "Sports talk",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/148460_2026-08-21_SH032528360000_103465362616_2019-10-09T21:40:24Z_p17053183_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "Foxcatcher: On the Hunt",
       "episodeTitle": "",
       "description": "Jules Vallance and Nic Ashman give their cutting-edge insight and preview a big weekend of racing.",
-      "scheduledDate": 1787254200000,
+      "scheduledDate": 1787351400000,
       "duration": 30,
       "parentalRating": "",
       "programType": "Sports non-event",
       "genre": "Sports talk, Horse racing",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/148460_2026-08-20_SH059327620000_109607756340_2025-07-18T05:34:12Z_p30735306_i_h11_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/148460_2026-08-21_SH059327620000_109607756340_2025-07-18T05:34:12Z_p30735306_i_h11_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "The Trial Show",
+      "programTitle": "Get On Now",
       "episodeTitle": "",
-      "description": "Experts guide viewers through the key trials coming up in Victorian racing, keeping them up-to-date with recent developments and race times.",
-      "scheduledDate": 1787256000000,
-      "duration": 30,
-      "parentalRating": "",
-      "programType": "Sports non-event",
-      "genre": "Horse racing",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/148460_2026-08-20_SH029304450000_110540634744_2019-10-09T21:00:43Z_p15316474_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
-    {
-      "programTitle": "Get on SA",
-      "episodeTitle": "",
-      "description": "A preview of all the big races as James Jordan and Matt Campbell examine racing through a South Australian lens.",
-      "scheduledDate": 1787257800000,
-      "duration": 30,
-      "parentalRating": "",
-      "programType": "Sports non-event",
-      "genre": "Sports talk, Horse racing",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/148460_2026-08-20_SH038656280000_110220103348_2025-07-15T02:53:41Z_p19973783_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
-    {
-      "programTitle": "Get On!",
-      "episodeTitle": "",
-      "description": "Host Matt Hill and a panel of experts discuss the fixed betting markets and share their picks for upcoming race meetings.",
-      "scheduledDate": 1787259600000,
-      "duration": 60,
-      "parentalRating": "",
-      "programType": "Sports non-event",
-      "genre": "Sports talk, Horse racing",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/148460_2026-08-20_SH029304330000_110220103349_2026-02-03T05:26:52Z_p15316392_i_h10_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
-    {
-      "programTitle": "Giddy Up",
-      "episodeTitle": "",
-      "description": "Racing expert Gareth Hall breaks down race news and form, providing key insights.",
-      "scheduledDate": 1787263200000,
-      "duration": 170,
+      "description": "Join Matt Nevett, Dave Strehlau and Nick Foot every Saturday morning for the most up-to-date information, analysis and tips ahead of race-day.",
+      "scheduledDate": 1787353200000,
+      "duration": 110,
       "parentalRating": "",
       "programType": "Series",
       "genre": "Horse racing",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/148460_2026-08-20_SH059999130000_102449579162_2025-10-15T06:41:06Z_p30993149_b_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/Fallback_LTV_Racing_TV/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "Giddy Up",
+      "programTitle": "Get On Now",
       "episodeTitle": "",
-      "description": "Racing expert Gareth Hall breaks down race news and form, providing key insights.",
-      "scheduledDate": 1787273400000,
-      "duration": 55,
+      "description": "Join Matt Nevett, Dave Strehlau and Nick Foot every Saturday morning for the most up-to-date information, analysis and tips ahead of race-day.",
+      "scheduledDate": 1787359800000,
+      "duration": 10,
       "parentalRating": "",
       "programType": "Series",
       "genre": "Horse racing",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/148460_2026-08-21_SH059999130000_102449579162_2025-10-15T06:41:06Z_p30993149_b_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/Fallback_LTV_Racing_TV/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "The Analyser",
+      "episodeTitle": "",
+      "description": "Ben Asgari previews and examines the day's racing, featuring speed maps and replays for every race on the card.",
+      "scheduledDate": 1787360400000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Series",
+      "genre": "Sports talk",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/148460_2026-08-22_SH032528360000_103465362616_2019-10-09T21:40:24Z_p17053183_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "Racing Live",
       "episodeTitle": "",
       "description": "Features comprehensive coverage of some of the top horse racing events taking place in Australia and Hong Kong.",
-      "scheduledDate": 1787276700000,
-      "duration": 330,
+      "scheduledDate": 1787361300000,
+      "duration": 405,
       "parentalRating": "",
       "programType": "Series",
       "genre": "Horse racing",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/148460_2026-08-21_SH029317280000_107969791548_2019-10-09T21:00:41Z_p15322312_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
-    {
-      "programTitle": "The Analyser",
-      "episodeTitle": "",
-      "description": "Ben Asgari previews and examines the day's racing, featuring speed maps and replays for every race on the card.",
-      "scheduledDate": 1787296500000,
-      "duration": 30,
-      "parentalRating": "",
-      "programType": "Series",
-      "genre": "Sports talk",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/148460_2026-08-21_SH032528360000_103465362616_2019-10-09T21:40:24Z_p17053183_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
-    {
-      "programTitle": "Get On Extra",
-      "episodeTitle": "",
-      "description": "Lizzie Jelfs and a panel of experts join in for a lively discussion, previewing the best from the world of racing in Australia.",
-      "scheduledDate": 1787298300000,
-      "duration": 15,
-      "parentalRating": "",
-      "programType": "Sports non-event",
-      "genre": "Horse racing",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/148460_2026-08-21_SH049165280000_101984695699_2024-08-28T07:33:42Z_p25994896_i_h11_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
-    {
-      "programTitle": "Get On Extra",
-      "episodeTitle": "",
-      "description": "Lizzie Jelfs and a panel of experts join in for a lively discussion, previewing the best from the world of racing in Australia.",
-      "scheduledDate": 1787299200000,
-      "duration": 15,
-      "parentalRating": "",
-      "programType": "Sports non-event",
-      "genre": "Horse racing",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/148460_2026-08-21_SH049165280000_101984695699_2024-08-28T07:33:42Z_p25994896_i_h11_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
-    {
-      "programTitle": "Get On!",
-      "episodeTitle": "",
-      "description": "Host Matt Hill and a panel of experts discuss the fixed betting markets and share their picks for upcoming race meetings.",
-      "scheduledDate": 1787300100000,
-      "duration": 60,
-      "parentalRating": "",
-      "programType": "Sports non-event",
-      "genre": "Sports talk, Horse racing",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/148460_2026-08-21_SH029304330000_110220103349_2026-02-03T05:26:52Z_p15316392_i_h10_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
-    {
-      "programTitle": "Racing Review",
-      "episodeTitle": "",
-      "description": "A full recap of racing from Wangaratta.",
-      "scheduledDate": 1787303700000,
-      "duration": 30,
-      "parentalRating": "",
-      "programType": "Sports non-event",
-      "genre": "Horse racing",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/148460_2026-08-21_SH065368570000_110412511319_2022-09-19T11:46:59Z_p872189_i_h8_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
-    {
-      "programTitle": "The Analyser",
-      "episodeTitle": "",
-      "description": "Ben Asgari previews and examines the day's racing, featuring speed maps and replays for every race on the card.",
-      "scheduledDate": 1787305500000,
-      "duration": 30,
-      "parentalRating": "",
-      "programType": "Series",
-      "genre": "Sports talk",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/148460_2026-08-21_SH032528360000_103465362616_2019-10-09T21:40:24Z_p17053183_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
-    {
-      "programTitle": "The Trial Show",
-      "episodeTitle": "",
-      "description": "Experts guide viewers through the key trials coming up in Victorian racing, keeping them up-to-date with recent developments and race times.",
-      "scheduledDate": 1787307300000,
-      "duration": 30,
-      "parentalRating": "",
-      "programType": "Sports non-event",
-      "genre": "Horse racing",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/148460_2026-08-21_SH029304450000_110540634744_2019-10-09T21:00:43Z_p15316474_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
-    {
-      "programTitle": "Racing Review",
-      "episodeTitle": "",
-      "description": "A full recap of racing from Wangaratta.",
-      "scheduledDate": 1787309100000,
-      "duration": 30,
-      "parentalRating": "",
-      "programType": "Sports non-event",
-      "genre": "Horse racing",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/148460_2026-08-21_SH065368570000_110412511319_2022-09-19T11:46:59Z_p872189_i_h8_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
-    {
-      "programTitle": "Get On!",
-      "episodeTitle": "",
-      "description": "Host Matt Hill and a panel of experts discuss the fixed betting markets and share their picks for upcoming race meetings.",
-      "scheduledDate": 1787310900000,
-      "duration": 60,
-      "parentalRating": "",
-      "programType": "Sports non-event",
-      "genre": "Sports talk, Horse racing",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/148460_2026-08-21_SH029304330000_110220103349_2026-02-03T05:26:52Z_p15316392_i_h10_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/148460_2026-08-22_SH029317280000_107969791548_2019-10-09T21:00:41Z_p15322312_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "Inside Industry",
       "episodeTitle": "",
       "description": "Damien 'The Goat' Oliver takes the Victorian apprentice jockeys through their paces.",
-      "scheduledDate": 1787314500000,
+      "scheduledDate": 1787362200000,
       "duration": 15,
       "parentalRating": "",
       "programType": "Series",
@@ -204,81 +138,257 @@
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/Fallback_LTV_Racing_TV/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
+      "programTitle": "Before the First",
+      "episodeTitle": "",
+      "description": "Brent Zerafa and a team of expert analysts preview upcoming Victorian racing action, shedding light on the key runners.",
+      "scheduledDate": 1787363100000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Sports talk, Horse racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/148460_2026-08-22_SH029304390000_110350821972_2019-02-14T10:20:38Z_p15316398_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Racing Live",
+      "episodeTitle": "",
+      "description": "Features comprehensive coverage of some of the top horse racing events taking place in Australia and Hong Kong.",
+      "scheduledDate": 1787364900000,
+      "duration": 345,
+      "parentalRating": "",
+      "programType": "Series",
+      "genre": "Horse racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/148460_2026-08-22_SH029317280000_107969791548_2019-10-09T21:00:41Z_p15322312_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Racing Live",
+      "episodeTitle": "",
+      "description": "Features comprehensive coverage of some of the top horse racing events taking place in Australia and Hong Kong.",
+      "scheduledDate": 1787385600000,
+      "duration": 45,
+      "parentalRating": "",
+      "programType": "Series",
+      "genre": "Horse racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/148460_2026-08-22_SH029317280000_107969791548_2019-10-09T21:00:41Z_p15322312_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "An Early Look",
+      "episodeTitle": "",
+      "description": "Experts from the field of Australian horse racing look for where they can find value and highlights from the action on the track.",
+      "scheduledDate": 1787388300000,
+      "duration": 15,
+      "parentalRating": "",
+      "programType": "Special",
+      "genre": "Special, Horse",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/148460_2026-08-22_SH042149860000_110376966304_2022-02-25T05:28:36Z_p21711223_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Racing Review",
+      "episodeTitle": "",
+      "description": "A full recap of racing from Wangaratta.",
+      "scheduledDate": 1787389200000,
+      "duration": 45,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Horse racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/148460_2026-08-22_SH065368570000_110412511319_2022-09-19T11:46:59Z_p872189_i_h8_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "An Early Look",
+      "episodeTitle": "",
+      "description": "Experts from the field of Australian horse racing look for where they can find value and highlights from the action on the track.",
+      "scheduledDate": 1787390100000,
+      "duration": 15,
+      "parentalRating": "",
+      "programType": "Special",
+      "genre": "Special, Horse",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/148460_2026-08-22_SH042149860000_110376966304_2022-02-25T05:28:36Z_p21711223_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Racing Review",
+      "episodeTitle": "",
+      "description": "A full recap of racing from Wangaratta.",
+      "scheduledDate": 1787391000000,
+      "duration": 45,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Horse racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/148460_2026-08-22_SH065368570000_110412511319_2022-09-19T11:46:59Z_p872189_i_h8_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Racing Review",
+      "episodeTitle": "",
+      "description": "A full recap of racing from Wangaratta.",
+      "scheduledDate": 1787391900000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Horse racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/148460_2026-08-22_SH065368570000_110412511319_2022-09-19T11:46:59Z_p872189_i_h8_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "An Early Look",
+      "episodeTitle": "",
+      "description": "Experts from the field of Australian horse racing look for where they can find value and highlights from the action on the track.",
+      "scheduledDate": 1787393700000,
+      "duration": 15,
+      "parentalRating": "",
+      "programType": "Special",
+      "genre": "Special, Horse",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/148460_2026-08-22_SH042149860000_110376966304_2022-02-25T05:28:36Z_p21711223_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Racing Review",
+      "episodeTitle": "",
+      "description": "A full recap of racing from Wangaratta.",
+      "scheduledDate": 1787394600000,
+      "duration": 45,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Horse racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/148460_2026-08-22_SH065368570000_110412511319_2022-09-19T11:46:59Z_p872189_i_h8_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "An Early Look",
+      "episodeTitle": "",
+      "description": "Experts from the field of Australian horse racing look for where they can find value and highlights from the action on the track.",
+      "scheduledDate": 1787395500000,
+      "duration": 15,
+      "parentalRating": "",
+      "programType": "Special",
+      "genre": "Special, Horse",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/148460_2026-08-22_SH042149860000_110376966304_2022-02-25T05:28:36Z_p21711223_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Racing Review",
+      "episodeTitle": "",
+      "description": "A full recap of racing from Wangaratta.",
+      "scheduledDate": 1787396400000,
+      "duration": 45,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Horse racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/148460_2026-08-22_SH065368570000_110412511319_2022-09-19T11:46:59Z_p872189_i_h8_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Racing Review",
+      "episodeTitle": "",
+      "description": "A full recap of racing from Wangaratta.",
+      "scheduledDate": 1787397300000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Horse racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/148460_2026-08-22_SH065368570000_110412511319_2022-09-19T11:46:59Z_p872189_i_h8_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "An Early Look",
+      "episodeTitle": "",
+      "description": "Experts from the field of Australian horse racing look for where they can find value and highlights from the action on the track.",
+      "scheduledDate": 1787399100000,
+      "duration": 15,
+      "parentalRating": "",
+      "programType": "Special",
+      "genre": "Special, Horse",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/148460_2026-08-22_SH042149860000_110376966304_2022-02-25T05:28:36Z_p21711223_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Blake Shinn: The Ride Back",
+      "episodeTitle": "",
+      "description": "Behind the scenes of champion jockey Blake Shinn as he opens the door on his gruelling recovery from a career-threatening leg injury, revealing the physical and mental battle behind his determined return to the saddle.",
+      "scheduledDate": 1787400000000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Horse racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/Fallback_LTV_Racing_TV/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "An Early Look",
+      "episodeTitle": "",
+      "description": "Experts from the field of Australian horse racing look for where they can find value and highlights from the action on the track.",
+      "scheduledDate": 1787400900000,
+      "duration": 15,
+      "parentalRating": "",
+      "programType": "Special",
+      "genre": "Special, Horse",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/148460_2026-08-22_SH042149860000_110376966304_2022-02-25T05:28:36Z_p21711223_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
       "programTitle": "Racenight Live",
       "episodeTitle": "",
       "description": "Coverage of horse racing events held throughout Australia and in Hong Kong, as well as analytics and in-depth reviews from the track.",
-      "scheduledDate": 1787315400000,
+      "scheduledDate": 1787401800000,
       "duration": 180,
       "parentalRating": "",
       "programType": "Sports non-event",
       "genre": "Horse racing",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/148460_2026-08-21_SH029437720000_107971181386_2019-10-09T21:40:26Z_p15391316_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/148460_2026-08-22_SH029437720000_107971181386_2019-10-09T21:40:26Z_p15391316_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "An Early Look",
+      "episodeTitle": "",
+      "description": "Experts from the field of Australian horse racing look for where they can find value and highlights from the action on the track.",
+      "scheduledDate": 1787412600000,
+      "duration": 15,
+      "parentalRating": "",
+      "programType": "Special",
+      "genre": "Special, Horse",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/148460_2026-08-22_SH042149860000_110376966304_2022-02-25T05:28:36Z_p21711223_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "Racing Review",
       "episodeTitle": "",
       "description": "A full recap of racing from Wangaratta.",
-      "scheduledDate": 1787326200000,
-      "duration": 30,
+      "scheduledDate": 1787413500000,
+      "duration": 45,
       "parentalRating": "",
       "programType": "Sports non-event",
       "genre": "Horse racing",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/148460_2026-08-21_SH065368570000_110412511319_2022-09-19T11:46:59Z_p872189_i_h8_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/148460_2026-08-22_SH065368570000_110412511319_2022-09-19T11:46:59Z_p872189_i_h8_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "Racing Review",
       "episodeTitle": "",
       "description": "A full recap of racing from Wangaratta.",
-      "scheduledDate": 1787328000000,
+      "scheduledDate": 1787416200000,
       "duration": 30,
       "parentalRating": "",
       "programType": "Sports non-event",
       "genre": "Horse racing",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/148460_2026-08-21_SH065368570000_110412511319_2022-09-19T11:46:59Z_p872189_i_h8_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/148460_2026-08-22_SH065368570000_110412511319_2022-09-19T11:46:59Z_p872189_i_h8_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "Racing Review",
       "episodeTitle": "",
       "description": "A full recap of racing from Wangaratta.",
-      "scheduledDate": 1787329800000,
-      "duration": 30,
+      "scheduledDate": 1787418000000,
+      "duration": 45,
       "parentalRating": "",
       "programType": "Sports non-event",
       "genre": "Horse racing",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/148460_2026-08-21_SH065368570000_110412511319_2022-09-19T11:46:59Z_p872189_i_h8_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/148460_2026-08-22_SH065368570000_110412511319_2022-09-19T11:46:59Z_p872189_i_h8_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "Racing Review",
       "episodeTitle": "",
       "description": "A full recap of racing from Wangaratta.",
-      "scheduledDate": 1787331600000,
+      "scheduledDate": 1787420700000,
       "duration": 30,
       "parentalRating": "",
       "programType": "Sports non-event",
       "genre": "Horse racing",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/148460_2026-08-21_SH065368570000_110412511319_2022-09-19T11:46:59Z_p872189_i_h8_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/148460_2026-08-22_SH065368570000_110412511319_2022-09-19T11:46:59Z_p872189_i_h8_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "Racing Review",
       "episodeTitle": "",
       "description": "A full recap of racing from Wangaratta.",
-      "scheduledDate": 1787333400000,
-      "duration": 30,
+      "scheduledDate": 1787422500000,
+      "duration": 45,
       "parentalRating": "",
       "programType": "Sports non-event",
       "genre": "Horse racing",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/148460_2026-08-21_SH065368570000_110412511319_2022-09-19T11:46:59Z_p872189_i_h8_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
-    {
-      "programTitle": "Get On Extra",
-      "episodeTitle": "",
-      "description": "Lizzie Jelfs and a panel of experts join in for a lively discussion, previewing the best from the world of racing in Australia.",
-      "scheduledDate": 1787335200000,
-      "duration": 30,
-      "parentalRating": "",
-      "programType": "Sports non-event",
-      "genre": "Horse racing",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/148460_2026-08-21_SH049165280000_101984695699_2024-08-28T07:33:42Z_p25994896_i_h11_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/148460_2026-08-22_SH065368570000_110412511319_2022-09-19T11:46:59Z_p872189_i_h8_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     }
   ]
 }

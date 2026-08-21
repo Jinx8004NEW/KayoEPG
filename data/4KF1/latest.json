@@ -1,34 +1,25 @@
 {
   "channel": "4KF1",
-  "date": "2026-08-21",
+  "date": "2026-08-22",
   "source": "kayo-4k",
-  "fetchedAt": 1787330133739,
-  "fetchedAtIST": "21/8/2026, 10:05:33 pm",
+  "fetchedAt": 1787344011243,
+  "fetchedAtIST": "22/8/2026, 1:56:51 am",
   "events": [
     {
-      "eventId": "5io3d3df6b5h1v0svlhvi5iij",
-      "programTitle": "Supercars Ipswich Day 1",
-      "scheduledDate": 1787280600000,
-      "duration": 218,
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/akzb26pm9h4yc91ev5xjmv8yd_image-header_pRow_1786585277000/fill/none/top/none/80/1920/1080/webp/image?brand=kayo",
-      "competitionTitle": "V8 Supercars",
-      "sport": "Motorsport"
-    },
-    {
-      "eventId": "pnfgl3vrpwry1280f8qig07op",
-      "programTitle": "F1 Netherlands Practice 1",
-      "scheduledDate": 1787308200000,
-      "duration": 92,
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/eat2tjk362yvawbkf82g989r0_image-header_pRow_1785114814000/fill/none/top/none/80/1920/1080/webp/image?brand=kayo",
+      "eventId": "yzpj1rji2ltb1jtdojzc611rj",
+      "programTitle": "F1 Netherlands Sprint Race",
+      "scheduledDate": 1787392800000,
+      "duration": 120,
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/1omdve6v7vqk2lxsoe5wj5zn6_image-header_pRow_1785114943000/fill/none/top/none/80/1920/1080/webp/image?brand=kayo",
       "competitionTitle": "Formula 1",
       "sport": "Motorsport"
     },
     {
-      "eventId": "10g6rnjrk9pd11qubmeg44481g",
-      "programTitle": "F1 Netherlands Sprint Qualifying",
-      "scheduledDate": 1787322600000,
-      "duration": 99,
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/c1rzlnouaidway0g34771dhku_image-header_pRow_1785114889000/fill/none/top/none/80/1920/1080/webp/image?brand=kayo",
+      "eventId": "gxxmlc8c9xq81cnvvuicr2scb",
+      "programTitle": "F1 Netherlands Qualifying",
+      "scheduledDate": 1787407200000,
+      "duration": 120,
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/7paox18xmelq628bj9oiyxrj_image-header_pRow_1785114854000/fill/none/top/none/80/1920/1080/webp/image?brand=kayo",
       "competitionTitle": "Formula 1",
       "sport": "Motorsport"
     }
