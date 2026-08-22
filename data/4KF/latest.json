@@ -2,8 +2,8 @@
   "channel": "4KF",
   "date": "2026-08-22",
   "source": "kayo-4k",
-  "fetchedAt": 1787402404240,
-  "fetchedAtIST": "22/8/2026, 6:10:04 pm",
+  "fetchedAt": 1787415907237,
+  "fetchedAtIST": "22/8/2026, 9:55:07 pm",
   "events": [
     {
       "eventId": "1iwvh4xoii6ig1emv6e7vi0052",
@@ -27,8 +27,17 @@
       "eventId": "etojsz5ydl9307a93gwr4bqbw0",
       "programTitle": "Geelong v Richmond",
       "scheduledDate": 1787391900000,
-      "duration": 285,
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/er976m4lx5a1txwbgzt921hfp_image-header_pRow_1782189858000/fill/none/top/none/80/1920/1080/webp/image?brand=kayo",
+      "duration": 224,
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/dfkqovpfxvu2zriqn8z1qd4m3_image-header_pRow_1786940848000/fill/none/top/none/80/1920/1080/webp/image?brand=kayo",
+      "competitionTitle": "AFL",
+      "sport": "Australian Rules Football"
+    },
+    {
+      "eventId": "etcajqu9xqqb0abf73j0ddrqk0",
+      "programTitle": "Adelaide v GWS",
+      "scheduledDate": 1787393400000,
+      "duration": 186,
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/2u3cojxdd3777s3gune6p8udy_image-header_pRow_1786940890000/fill/none/top/none/80/1920/1080/webp/image?brand=kayo",
       "competitionTitle": "AFL",
       "sport": "Australian Rules Football"
     }
