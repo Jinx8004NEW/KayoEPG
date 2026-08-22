@@ -2,8 +2,8 @@
   "channel": "FS1",
   "date": "2026-08-23",
   "source": "kayo",
-  "fetchedAt": 1787387456897,
-  "fetchedAtIST": "22/8/2026, 2:00:56 pm",
+  "fetchedAt": 1787402390581,
+  "fetchedAtIST": "22/8/2026, 6:09:50 pm",
   "events": [
     {
       "programTitle": "Test Cricket",
@@ -259,15 +259,15 @@
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-08-23_SH031158690000_100796229602_2024-01-19T05:13:15Z_p16331760_i_h10_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "F",
-      "episodeTitle": "",
-      "description": "",
+      "programTitle": "Test Day",
+      "episodeTitle": "ENG v PAK 1st Test Review",
+      "description": "A look at some of the highlights from the recent test match play, with an analysis of some of the best moments.",
       "scheduledDate": 1787493600000,
       "duration": 60,
       "parentalRating": "",
-      "programType": "",
-      "genre": "",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/Fallback_LTV_Fox_Cricket/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "programType": "Sports event",
+      "genre": "Classic sport event, Cricket",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-08-23_SH031158690000_100796229602_2024-01-19T05:13:15Z_p16331760_i_h10_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "The Tea Break",

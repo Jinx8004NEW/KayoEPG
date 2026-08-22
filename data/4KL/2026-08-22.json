@@ -2,8 +2,8 @@
   "channel": "4KL",
   "date": "2026-08-22",
   "source": "kayo-4k",
-  "fetchedAt": 1787387470939,
-  "fetchedAtIST": "22/8/2026, 2:01:10 pm",
+  "fetchedAt": 1787402404242,
+  "fetchedAtIST": "22/8/2026, 6:10:04 pm",
   "events": [
     {
       "eventId": "15arqdpb95fce1a8j0vwkygm57",
@@ -36,8 +36,17 @@
       "eventId": "108w88ycdbbbo15aiwad0g1vwu",
       "programTitle": "Rabbitohs v Warriors",
       "scheduledDate": 1787383800000,
-      "duration": 175,
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/7s0ah3kheykqfeblqas4emie4_image-header_pRow_1786940439000/fill/none/top/none/80/1920/1080/webp/image?brand=kayo",
+      "duration": 126,
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/52id17zpdqi1ufxd3j53c74do_image-header_pRow_1786940439000/fill/none/top/none/80/1920/1080/webp/image?brand=kayo",
+      "competitionTitle": "NRL",
+      "sport": "Rugby League"
+    },
+    {
+      "eventId": "h1zhyav2qb4j01pn1qjuup5953",
+      "programTitle": "Dragons v Bulldogs",
+      "scheduledDate": 1787391300000,
+      "duration": 182,
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/f0hda7z5hn87ok2w2ot2le9ou_image-header_pRow_1787192378000/fill/none/top/none/80/1920/1080/webp/image?brand=kayo",
       "competitionTitle": "NRL",
       "sport": "Rugby League"
     }
