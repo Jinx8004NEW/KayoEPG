@@ -2,8 +2,8 @@
   "channel": "4KF1",
   "date": "2026-08-22",
   "source": "kayo-4k",
-  "fetchedAt": 1787373201253,
-  "fetchedAtIST": "22/8/2026, 10:03:21 am",
+  "fetchedAt": 1787387470942,
+  "fetchedAtIST": "22/8/2026, 2:01:10 pm",
   "events": [
     {
       "eventId": "1n416a8lc8tcl1mjehfyt34s9f",
@@ -18,8 +18,17 @@
       "eventId": "c0iv9sjmc7831xrytncyh40l2",
       "programTitle": "Supercars Ipswich Race 26",
       "scheduledDate": 1787364900000,
-      "duration": 255,
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/bgsbye3fpw9r51or28lffi3m2_image-header_pRow_1786585450000/fill/none/top/none/80/1920/1080/webp/image?brand=kayo",
+      "duration": 210,
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/acntbivmp94dp4xhr4zulooce_image-header_pRow_1786585450000/fill/none/top/none/80/1920/1080/webp/image?brand=kayo",
+      "competitionTitle": "V8 Supercars",
+      "sport": "Motorsport"
+    },
+    {
+      "eventId": "iptkv8qk5wr31m220h6kvbwgj",
+      "programTitle": "Supercars Ipswich Race 27",
+      "scheduledDate": 1787376600000,
+      "duration": 140,
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/cq3emnam7gc9fmynejwmfoe6h_image-header_pRow_1786585515000/fill/none/top/none/80/1920/1080/webp/image?brand=kayo",
       "competitionTitle": "V8 Supercars",
       "sport": "Motorsport"
     },

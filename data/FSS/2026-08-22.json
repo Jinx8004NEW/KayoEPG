@@ -2,8 +2,8 @@
   "channel": "FSS",
   "date": "2026-08-22",
   "source": "kayo",
-  "fetchedAt": 1787373186407,
-  "fetchedAtIST": "22/8/2026, 10:03:06 am",
+  "fetchedAt": 1787387456947,
+  "fetchedAtIST": "22/8/2026, 2:00:56 pm",
   "events": [
     {
       "programTitle": "How Good is Golf",
@@ -204,15 +204,15 @@
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-08-22_SH027326760000_111068013985_2026-08-07T01:36:07Z_p522547_i_h10_ad/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "The Bowls Show",
-      "episodeTitle": "",
-      "description": "All the latest in the world of competitive bowls, including exclusive interviews, event highlights, club tours and coaching insight.",
+      "programTitle": "2026 U.S. Senior Women's Open Championship",
+      "episodeTitle": "Final Round",
+      "description": "",
       "scheduledDate": 1787410800000,
-      "duration": 60,
+      "duration": 180,
       "parentalRating": "",
-      "programType": "Sports non-event",
-      "genre": "Other",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-08-22_SH024802440000_107847958042_2017-03-10T00:18:00Z_p13123463_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "programType": "Sports event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-08-22_SH065750310000_111577891039_2026-08-11T15:46:12Z_p33567902_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "FIM Superbike World Championship",
