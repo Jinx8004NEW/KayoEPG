@@ -2,8 +2,8 @@
   "channel": "FSP",
   "date": "2026-08-23",
   "source": "kayo",
-  "fetchedAt": 1787343998026,
-  "fetchedAtIST": "22/8/2026, 1:56:38 am",
+  "fetchedAt": 1787361342079,
+  "fetchedAtIST": "22/8/2026, 6:45:42 am",
   "events": [
     {
       "programTitle": "Supercars Championship",
@@ -105,15 +105,26 @@
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-08-23_SH050906890000_108742776780_2024-04-05T08:23:57Z_p26765620_i_h8_ad/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "World Surf League Highlights",
-      "episodeTitle": "Outerknown Tahiti Pro",
-      "description": "Action from the World Surf League.",
+      "programTitle": "MotoGP Mini",
+      "episodeTitle": "Germany",
+      "description": "The MotoGP grid tackles the tight Sachsenring. Fresh off stellar recent form and an incredible podium run, a surging Ai Ogura aims to shake up the premier class championship order.",
       "scheduledDate": 1787469900000,
-      "duration": 45,
+      "duration": 20,
       "parentalRating": "",
-      "programType": "Sports non-event",
-      "genre": "Surfing",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-08-23_SH037137820000_107844260793_2023-03-28T14:37:31Z_p12753420_i_h8_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "programType": "Sports event",
+      "genre": "Classic sport event, Motorsports, Motorcycle racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-08-23_SH035786450000_105695703154_2020-08-14T07:40:24Z_p18624430_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "MotoGP Mini",
+      "episodeTitle": "Germany",
+      "description": "The MotoGP grid tackles the tight Sachsenring. Fresh off stellar recent form and an incredible podium run, a surging Ai Ogura aims to shake up the premier class championship order.",
+      "scheduledDate": 1787471100000,
+      "duration": 25,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Classic sport event, Motorsports, Motorcycle racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-08-23_SH035786450000_105695703154_2020-08-14T07:40:24Z_p18624430_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "NRLW Pre Game",
@@ -197,7 +208,7 @@
       "episodeTitle": "Australian Darts Masters - Day 2",
       "description": "Covering of all the action from darts events around the world.",
       "scheduledDate": 1787508000000,
-      "duration": 180,
+      "duration": 120,
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Darts",

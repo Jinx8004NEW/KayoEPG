@@ -2,8 +2,8 @@
   "channel": "FS3",
   "date": "2026-08-23",
   "source": "kayo",
-  "fetchedAt": 1787343998017,
-  "fetchedAtIST": "22/8/2026, 1:56:38 am",
+  "fetchedAt": 1787361342063,
+  "fetchedAtIST": "22/8/2026, 6:45:42 am",
   "events": [
     {
       "programTitle": "LPGA Tour Golf",
@@ -267,18 +267,18 @@
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Golf",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-08-23_EP030899371420_111673800861_2026-08-05T00:33:33Z_p32045085_b_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-08-23_EP030899371420_111691305105_2026-08-05T00:33:33Z_p32045085_b_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "PGA Tour Golf",
       "episodeTitle": "BMW Championship, Final Round",
-      "description": "From Aronimink Golf Club in Newtown Square, Pa.",
+      "description": "From Bellerive Country Club in St. Louis.",
       "scheduledDate": 1787500800000,
-      "duration": 480,
+      "duration": 360,
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Golf",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-08-23_EP030899370009_111577891281_2019-07-30T16:23:11Z_p17071721_b_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-08-23_EP030899371420_111691305105_2026-08-05T00:33:33Z_p32045085_b_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     }
   ]
 }
