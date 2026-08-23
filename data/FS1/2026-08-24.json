@@ -2,8 +2,8 @@
   "channel": "FS1",
   "date": "2026-08-24",
   "source": "kayo",
-  "fetchedAt": 1787473867970,
-  "fetchedAtIST": "23/8/2026, 2:01:07 pm",
+  "fetchedAt": 1787488838621,
+  "fetchedAtIST": "23/8/2026, 6:10:38 pm",
   "events": [
     {
       "programTitle": "Test Cricket",
@@ -94,15 +94,15 @@
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-08-23_SH031158690000_100796229602_2024-01-19T05:13:15Z_p16331760_i_h10_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "Fox Cricket Pre Game",
-      "episodeTitle": "Australia vs Bangladesh, 2nd Test Day 3",
-      "description": "The team present an extensive preview of all the action to come with the latest news, the best analysis, entertainment and interviews.",
+      "programTitle": "Test Day",
+      "episodeTitle": "ENG v PAK 1st Test Review",
+      "description": "A look at some of the highlights from the recent test match play, with an analysis of some of the best moments.",
       "scheduledDate": 1787527800000,
-      "duration": 30,
+      "duration": 60,
       "parentalRating": "",
-      "programType": "Sports non-event",
-      "genre": "Cricket",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-08-23_SH035786310000_108048812556_2025-11-20T06:27:30Z_p18624259_i_h10_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "programType": "Sports event",
+      "genre": "Classic sport event, Cricket",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-08-23_SH031158690000_100796229602_2024-01-19T05:13:15Z_p16331760_i_h10_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "Test Cricket",
@@ -116,6 +116,28 @@
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-08-24_EP029804991839_111689025659_2026-08-19T14:11:46Z_GNLZZGG003GDC2Y/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
+      "programTitle": "Test Day",
+      "episodeTitle": "Australia vs Bangladesh, 2nd Test Day 1",
+      "description": "A look at some of the highlights from the recent test match play, with an analysis of some of the best moments.",
+      "scheduledDate": 1787531400000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Classic sport event, Cricket",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-08-24_SH031158690000_100796229602_2024-01-19T05:13:15Z_p16331760_i_h10_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Test Day",
+      "episodeTitle": "Australia vs Bangladesh, 2nd Test Day 2",
+      "description": "A look at some of the highlights from the recent test match play, with an analysis of some of the best moments.",
+      "scheduledDate": 1787535000000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Classic sport event, Cricket",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-08-24_SH031158690000_100796229602_2024-01-19T05:13:15Z_p16331760_i_h10_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
       "programTitle": "The Big Break",
       "episodeTitle": "2nd Test Day 3: Australia v Bangladesh",
       "description": "A panel of experts, including former players, dissect cricket results, offering insight into all aspects of the game.",
@@ -127,6 +149,17 @@
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-08-24_SH034008090000_108259248819_2025-11-20T06:07:29Z_p17754052_i_h10_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
+      "programTitle": "Test Day",
+      "episodeTitle": "ENG v PAK 1st Test Review",
+      "description": "A look at some of the highlights from the recent test match play, with an analysis of some of the best moments.",
+      "scheduledDate": 1787538600000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Classic sport event, Cricket",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-08-24_SH031158690000_100796229602_2024-01-19T05:13:15Z_p16331760_i_h10_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
       "programTitle": "Test Cricket",
       "episodeTitle": "2nd Test, Day 3 Session 2: Australia vs Bangladesh",
       "description": "Coverage of Test cricket matches contested by international teams.",
@@ -136,6 +169,39 @@
       "programType": "Sports event",
       "genre": "Cricket",
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-08-24_EP029804991840_111689026047_2026-08-19T14:01:23Z_GNLZZGG003GD56Z/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Test Cricket",
+      "episodeTitle": "2nd Test, Day 1: Australia vs Bangladesh",
+      "description": "Coverage and highlights from international test cricket matches.",
+      "scheduledDate": 1787542200000,
+      "duration": 20,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Cricket, Classic sport event",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-08-24_SH033446590000_98978823590_2023-09-29T14:53:53Z_p8163404_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Test Cricket",
+      "episodeTitle": "2nd Test, Day 2: Australia vs Bangladesh",
+      "description": "Coverage and highlights from international test cricket matches.",
+      "scheduledDate": 1787543400000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Cricket, Classic sport event",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-08-24_SH033446590000_98978823590_2023-09-29T14:53:53Z_p8163404_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Test Cricket",
+      "episodeTitle": "Sri Lanka vs India",
+      "description": "From Sinhalese Sports Club Ground in Colombo, Sri Lanka.",
+      "scheduledDate": 1787545200000,
+      "duration": 165,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Cricket",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-08-24_EP029804991795_111750705841_2026-08-23T04:40:45Z_GNLZZGG003J1CHS/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "The Tea Break",
@@ -158,6 +224,17 @@
       "programType": "Sports event",
       "genre": "Cricket",
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-08-24_EP029804991841_111689066295_2026-08-19T14:01:56Z_GNLZZGG003GD5M4/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Test Cricket",
+      "episodeTitle": "2nd Test, Day 2 Session 2: Sri Lanka vs. India",
+      "description": "Coverage of Test cricket matches contested by international teams.",
+      "scheduledDate": 1787555100000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Cricket",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-08-24_EP029804991851_111689091688_2026-08-21T13:52:00Z_GNLZZGG003HL5XD/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "Fox Cricket Post Game",
@@ -193,6 +270,17 @@
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-08-24_SH033446590000_98978823590_2023-09-29T14:53:53Z_p8163404_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
+      "programTitle": "The Tea Break",
+      "episodeTitle": "1st Test Day 4: Sri Lanka vs India",
+      "description": "Join our commentary team as they re-cap the day's play and analyse all the action.",
+      "scheduledDate": 1787562300000,
+      "duration": 25,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Cricket",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-08-24_SH034094570000_111704927855_2025-11-20T06:26:39Z_p17650797_i_h10_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
       "programTitle": "Test Cricket",
       "episodeTitle": "1st Test, Day 5: England v Pakistan",
       "description": "Coverage and highlights from international test cricket matches.",
@@ -205,14 +293,14 @@
     },
     {
       "programTitle": "Test Cricket",
-      "episodeTitle": "2nd Test, Day 3: Australia vs. Bangladesh",
-      "description": "Coverage and highlights from international test cricket matches.",
+      "episodeTitle": "2nd Test, Day 2 Session 3: Sri Lanka vs. India",
+      "description": "Coverage of Test cricket matches contested by international teams.",
       "scheduledDate": 1787563800000,
-      "duration": 20,
+      "duration": 160,
       "parentalRating": "",
       "programType": "Sports event",
-      "genre": "Cricket, Classic sport event",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-08-24_SH033446590000_98978823590_2023-09-29T14:53:53Z_p8163404_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "genre": "Cricket",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-08-24_EP029804991852_111689025603_2026-08-21T13:48:39Z_GNLZZGG003HL40S/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "Test Cricket",
@@ -249,11 +337,11 @@
     },
     {
       "programTitle": "Test Cricket",
-      "episodeTitle": "1st Test, Day 5: England v Pakistan",
+      "episodeTitle": "1st Test, Day 3: England v Pakistan",
       "description": "Coverage and highlights from international test cricket matches.",
       "scheduledDate": 1787573400000,
       "duration": 20,
-      "parentalRating": "",
+      "parentalRating": "G",
       "programType": "Sports event",
       "genre": "Cricket, Classic sport event",
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-08-24_SH033446590000_98978823590_2023-09-29T14:53:53Z_p8163404_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
@@ -263,7 +351,7 @@
       "episodeTitle": "2nd Test, Day 3: Australia vs. Bangladesh",
       "description": "Coverage and highlights from international test cricket matches.",
       "scheduledDate": 1787574600000,
-      "duration": 20,
+      "duration": 80,
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Cricket, Classic sport event",
