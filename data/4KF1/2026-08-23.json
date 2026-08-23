@@ -2,9 +2,18 @@
   "channel": "4KF1",
   "date": "2026-08-23",
   "source": "kayo-4k",
-  "fetchedAt": 1787430196961,
-  "fetchedAtIST": "23/8/2026, 1:53:16 am",
+  "fetchedAt": 1787448164934,
+  "fetchedAtIST": "23/8/2026, 6:52:44 am",
   "events": [
+    {
+      "eventId": "e0289j1zdk5i1wne42idn6vi5",
+      "programTitle": "Supercars Ipswich Qualifying",
+      "scheduledDate": 1787437800000,
+      "duration": 235,
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/bpkrt528s1v70fcnqszt2c5bu_image-header_pRow_1786585411000/fill/none/top/none/80/1920/1080/webp/image?brand=kayo",
+      "competitionTitle": "V8 Supercars",
+      "sport": "Motorsport"
+    },
     {
       "eventId": "1qke5n40bxeqp1kvlplsuftcs9",
       "programTitle": "F1 Netherlands Race",
