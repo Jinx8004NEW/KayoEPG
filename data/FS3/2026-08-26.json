@@ -1,0 +1,42 @@
+{
+  "channel": "FS3",
+  "date": "2026-08-26",
+  "source": "kayo",
+  "fetchedAt": 1787459855185,
+  "fetchedAtIST": "23/8/2026, 10:07:35 am",
+  "events": [
+    {
+      "programTitle": "DP World Tour Golf",
+      "episodeTitle": "Nexo Championship, Final Round",
+      "description": "From Trump International Golf Links in Scotland.",
+      "scheduledDate": 1787688000000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-08-25_SH040914080000_111510780655_2022-04-26T15:48:27Z_p20993758_i_h8_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "PGA Tour Highlights",
+      "episodeTitle": "BMW Championship",
+      "description": "Highlights from PGA Tour events featuring the world's best golfers in action. Hosts track the progression of the game while reviewing the changes in technologies and techniques.",
+      "scheduledDate": 1787695200000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Classic sport event, Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-08-25_SH032355110000_106892699068_2023-03-16T12:30:24Z_p9060599_i_h10_ae/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "LPGA Tour Golf",
+      "episodeTitle": "CPKC Women's Open, Final Round",
+      "description": "From Royal Mayfair Golf Club in Edmonton, Alberta, Canada.",
+      "scheduledDate": 1787698800000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-08-25_EP031583890711_111689026090_2026-08-13T16:56:28Z_p32164127_b_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    }
+  ]
+}

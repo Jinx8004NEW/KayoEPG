@@ -2,8 +2,8 @@
   "channel": "4KL",
   "date": "2026-08-23",
   "source": "kayo-4k",
-  "fetchedAt": 1787448164936,
-  "fetchedAtIST": "23/8/2026, 6:52:44 am",
+  "fetchedAt": 1787459868979,
+  "fetchedAtIST": "23/8/2026, 10:07:48 am",
   "events": [
     {
       "eventId": "xenyow9o2kmf19j698zk1uhj5",
@@ -13,6 +13,24 @@
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/7mhsl3zyt9d21vum00b7zhlj7_image-header_pRow_1786683383000/fill/none/top/none/80/1920/1080/webp/image?brand=kayo",
       "competitionTitle": "ICC World Test Championship",
       "sport": "Cricket"
+    },
+    {
+      "eventId": "ocoaqpe9k5pd0qfgjvkyjouhn0",
+      "programTitle": "Titans v Broncos",
+      "scheduledDate": 1787449800000,
+      "duration": 115,
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/m0an6b9u1dl6lf4d9jvzu1o9_image-header_pRow_1787108748000/fill/none/top/none/80/1920/1080/webp/image?brand=kayo",
+      "competitionTitle": "NRL Women",
+      "sport": "Rugby League"
+    },
+    {
+      "eventId": "1k9fw5uuuforu1sg7wycnrha4o",
+      "programTitle": "Titans v Sharks",
+      "scheduledDate": 1787457600000,
+      "duration": 175,
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/6501j1wlru37r4dti5w8gm0fm_image-header_pRow_1786940581000/fill/none/top/none/80/1920/1080/webp/image?brand=kayo",
+      "competitionTitle": "NRL",
+      "sport": "Rugby League"
     }
   ]
 }

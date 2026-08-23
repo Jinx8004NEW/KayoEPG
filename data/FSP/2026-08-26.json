@@ -1,0 +1,53 @@
+{
+  "channel": "FSP",
+  "date": "2026-08-26",
+  "source": "kayo",
+  "fetchedAt": 1787459855199,
+  "fetchedAtIST": "23/8/2026, 10:07:35 am",
+  "events": [
+    {
+      "programTitle": "Formula 1 Racing",
+      "episodeTitle": "Dutch Grand Prix",
+      "description": "From Circuit Zandvoort in Zandvoort, North Holland, Netherlands.",
+      "scheduledDate": 1787686200000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Auto racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-08-25_EP027326820855_111670562089_2026-07-30T22:25:34Z_p32387586_b_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Supercars Championship",
+      "episodeTitle": "",
+      "description": "Supercars compete in a series across Australia and New Zealand.",
+      "scheduledDate": 1787693400000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Auto racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-08-25_SH027326760000_111068013985_2026-08-07T01:36:07Z_p522547_i_h10_ad/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "MotoGP Mini",
+      "episodeTitle": "Great Britain",
+      "description": "At Silverstone, Fabio Quartararo starts from pole position for the third consecutive race, and will be hoping this can be his first victory of 2025.",
+      "scheduledDate": 1787697000000,
+      "duration": 25,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Classic sport event, Motorsports, Motorcycle racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-08-25_SH035786450000_105695703154_2020-08-14T07:40:24Z_p18624430_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "CPL T20 Cricket",
+      "episodeTitle": "Antigua & Barbuda Falcons vs Barbados Tridents",
+      "description": "From Sir Vivian Richards Stadium in North Sound, Antigua and Barbuda.",
+      "scheduledDate": 1787698500000,
+      "duration": 245,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Cricket",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-08-25_EP033351860191_111689091610_2026-08-11T14:02:03Z_GNLZZGG003FHYFV/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    }
+  ]
+}
