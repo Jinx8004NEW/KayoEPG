@@ -2,11 +2,11 @@
   "channel": "FSP",
   "date": "2026-08-26",
   "source": "kayo",
-  "fetchedAt": 1787589508422,
-  "fetchedAtIST": "24/8/2026, 10:08:28 pm",
+  "fetchedAt": 1787603460488,
+  "fetchedAtIST": "25/8/2026, 2:01:00 am",
   "events": [
     {
-      "programTitle": "Formula 1",
+      "programTitle": "Formula 1 Racing",
       "episodeTitle": "Dutch Grand Prix",
       "description": "From Circuit Zandvoort in Zandvoort, North Holland, Netherlands.",
       "scheduledDate": 1787686200000,
@@ -28,15 +28,15 @@
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-08-25_SH027326760000_111068013985_2026-08-07T01:36:07Z_p522547_i_h10_ad/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "MotoGP Mini",
-      "episodeTitle": "Great Britain",
-      "description": "At Silverstone, Fabio Quartararo starts from pole position for the third consecutive race, and will be hoping this can be his first victory of 2025.",
+      "programTitle": "F1 Mini",
+      "episodeTitle": "Netherlands Grand Prix",
+      "description": "Highlights of the world's most iconic Formula 1 Grands Prix, featuring every podium and overtake.",
       "scheduledDate": 1787697000000,
-      "duration": 25,
+      "duration": 30,
       "parentalRating": "",
       "programType": "Sports event",
-      "genre": "Classic sport event, Motorsports, Motorcycle racing",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-08-25_SH035786450000_105695703154_2020-08-14T07:40:24Z_p18624430_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "genre": "Motorsports, Classic sport event",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-08-25_SH036452570000_107032703571_2020-11-19T03:00:48Z_p18944992_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "CPL T20 Cricket",
@@ -50,6 +50,28 @@
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-08-25_EP033351860191_111767524733_2026-08-23T16:42:22Z_GNLZZGG003J1ZCK/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
+      "programTitle": "Darts",
+      "episodeTitle": "Australian Darts Masters - Day 2",
+      "description": "Covering of all the action from darts events around the world.",
+      "scheduledDate": 1787698800000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Darts",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-08-25_SH032967320000_109954612423_2024-10-04T13:14:55Z_p644283_i_h8_ah/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Formula 1",
+      "episodeTitle": "Dutch Grand Prix",
+      "description": "From Circuit Zandvoort in Zandvoort, North Holland, Netherlands.",
+      "scheduledDate": 1787706000000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Auto racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-08-26_EP027326820855_111670562089_2026-07-30T22:25:34Z_p32387586_b_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
       "programTitle": "PBR Bull Riding",
       "episodeTitle": "",
       "description": "Coverage of the action from the Professional Bull Riders events.",
@@ -61,15 +83,15 @@
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-08-26_SH033364560000_110114392996_2017-09-14T16:13:00Z_p12572769_i_h10_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "Test Cricket",
-      "episodeTitle": "2nd Test, Day 3: Sri Lanka v India",
-      "description": "Coverage and highlights from international test cricket matches.",
+      "programTitle": "Darts",
+      "episodeTitle": "Australian Masters: Day 1",
+      "description": "Covering of all the action from darts events around the world.",
       "scheduledDate": 1787716800000,
-      "duration": 20,
+      "duration": 120,
       "parentalRating": "",
       "programType": "Sports event",
-      "genre": "Cricket, Classic sport event",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-08-26_SH033446590000_98978823590_2023-09-29T14:53:53Z_p8163404_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "genre": "Darts",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-08-26_SH032967320000_109954612423_2024-10-04T13:14:55Z_p644283_i_h8_ah/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "Test Cricket",
@@ -81,6 +103,17 @@
       "programType": "Sports event",
       "genre": "Cricket",
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-08-26_EP029804991855_111689065444_2026-08-21T13:55:57Z_GNLZZGG003HL7Q4/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Darts",
+      "episodeTitle": "Australian Darts Masters - Day 2",
+      "description": "Covering of all the action from darts events around the world.",
+      "scheduledDate": 1787724000000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Darts",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-08-26_SH032967320000_109954612423_2024-10-04T13:14:55Z_p644283_i_h8_ah/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "CPL T20 Cricket",
@@ -105,6 +138,28 @@
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-08-26_EP029804991856_111689045001_2026-08-21T14:05:27Z_GNLZZGG003HLF9J/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
+      "programTitle": "PGA Tour Highlights",
+      "episodeTitle": "BMW Championship",
+      "description": "Highlights from PGA Tour events featuring the world's best golfers in action. Hosts track the progression of the game while reviewing the changes in technologies and techniques.",
+      "scheduledDate": 1787731200000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Classic sport event, Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-08-26_SH032355110000_106892699068_2023-03-16T12:30:24Z_p9060599_i_h10_ae/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "DP World Tour Golf",
+      "episodeTitle": "Nexo Championship, Final Round",
+      "description": "From Trump International Golf Links in Scotland.",
+      "scheduledDate": 1787734800000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-08-26_SH040914080000_111510780655_2022-04-26T15:48:27Z_p20993758_i_h8_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
       "programTitle": "The Tea Break",
       "episodeTitle": "1st Test Day 4: Sri Lanka vs India",
       "description": "Join our commentary team as they re-cap the day's play and analyse all the action.",
@@ -125,6 +180,17 @@
       "programType": "Sports event",
       "genre": "Cricket",
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-08-26_EP029804991857_111689091665_2026-08-21T14:06:57Z_GNLZZGG003HLG89/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "SailGP Highlights",
+      "episodeTitle": "Sassnitz",
+      "description": "Features all the best sailing highlights from competitions across the globe.",
+      "scheduledDate": 1787742000000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Sailing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-08-26_SH039043160000_111084518815_2022-11-22T06:36:35Z_p17178369_i_h10_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "Korn Ferry Tour Highlights",

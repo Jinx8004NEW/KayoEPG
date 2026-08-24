@@ -2,8 +2,8 @@
   "channel": "SPS",
   "date": "2026-08-26",
   "source": "kayo",
-  "fetchedAt": 1787589508430,
-  "fetchedAtIST": "24/8/2026, 10:08:28 pm",
+  "fetchedAt": 1787603460494,
+  "fetchedAtIST": "25/8/2026, 2:01:00 am",
   "events": [
     {
       "programTitle": "FIM Superbike World Championship",
@@ -83,7 +83,7 @@
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-08-25_SH031729430000_109921619660_2019-04-15T09:20:14Z_p16641707_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "Formula 1",
+      "programTitle": "Formula 1 Racing",
       "episodeTitle": "Dutch Grand Prix, Sprint",
       "description": "From Circuit Zandvoort in Zandvoort, North Holland, Netherlands.",
       "scheduledDate": 1787700600000,
@@ -109,7 +109,7 @@
       "episodeTitle": "Round 7: Thruxton",
       "description": "Highlights of the British Superbike Championships season.",
       "scheduledDate": 1787706000000,
-      "duration": 60,
+      "duration": 55,
       "parentalRating": "",
       "programType": "Series",
       "genre": "Sports talk, Motorcycle racing",
@@ -248,15 +248,15 @@
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-08-26_SH065782100000_111689091671_2026-08-17T17:56:28Z_p33830433_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "MotorRacing 360",
-      "episodeTitle": "",
-      "description": "Entertaining and informative discussions about all the biggest news across the week in motor sport, including Supercars, Formula 1 and MotoGP.",
+      "programTitle": "FIA World Endurance Championship Motor Racing",
+      "episodeTitle": "WRT & Le Mans 24 Hours",
+      "description": "Highlights and coverage of all the action from the World Endurance Championship.",
       "scheduledDate": 1787750700000,
-      "duration": 60,
+      "duration": 35,
       "parentalRating": "",
-      "programType": "Series",
-      "genre": "Motorsports",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/Fallback_LTV_Fox_Sports_506/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "programType": "Sports event",
+      "genre": "Classic sport event, Auto racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-08-26_SH033517080000_111745847534_2025-09-18T14:35:34Z_p9212762_i_h10_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "MotorRacing 360",
@@ -296,11 +296,22 @@
       "episodeTitle": "Dutch Grand Prix: Sprint Qualifying",
       "description": "Features all the action and highlights from Formula 1 racing.",
       "scheduledDate": 1787760000000,
-      "duration": 60,
+      "duration": 55,
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Classic sport event, Motorsports, Auto racing",
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-08-26_SH035915380000_109578600751_2023-09-29T11:04:19Z_p8544413_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Formula 1 Racing",
+      "episodeTitle": "Dutch Grand Prix, Sprint",
+      "description": "From Circuit Zandvoort in Zandvoort, North Holland, Netherlands.",
+      "scheduledDate": 1787763300000,
+      "duration": 55,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Auto racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-08-26_EP027326820854_111669852055_2026-07-30T22:25:26Z_p32387523_b_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "Formula 1 Racing",
@@ -312,6 +323,17 @@
       "programType": "Sports event",
       "genre": "Auto racing",
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-08-26_EP027326820854_111669852055_2026-07-30T22:25:26Z_p32387523_b_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Formula 1",
+      "episodeTitle": "F1 Stars vs Tiny Cars",
+      "description": "Highlights from Formula 1 racing around the world.",
+      "scheduledDate": 1787766600000,
+      "duration": 10,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Classic sport event, Motorsports, Auto racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-08-26_SH032875880000_110099161189_2026-03-02T13:06:35Z_p9525921_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "MotorRacing 360",

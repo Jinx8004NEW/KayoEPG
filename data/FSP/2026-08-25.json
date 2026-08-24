@@ -2,8 +2,8 @@
   "channel": "FSP",
   "date": "2026-08-25",
   "source": "kayo",
-  "fetchedAt": 1787589508421,
-  "fetchedAtIST": "24/8/2026, 10:08:28 pm",
+  "fetchedAt": 1787603460487,
+  "fetchedAtIST": "25/8/2026, 2:01:00 am",
   "events": [
     {
       "programTitle": "Formula 1",
@@ -61,15 +61,15 @@
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-08-25_SH024802440000_107847958042_2017-03-10T00:18:00Z_p13123463_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "Test Cricket",
-      "episodeTitle": "2nd Test, Day 2: Sri Lanka v India",
-      "description": "Coverage and highlights from international test cricket matches.",
+      "programTitle": "Formula 1",
+      "episodeTitle": "Dutch Grand Prix",
+      "description": "From Circuit Zandvoort in Zandvoort, North Holland, Netherlands.",
       "scheduledDate": 1787630400000,
-      "duration": 20,
+      "duration": 120,
       "parentalRating": "",
       "programType": "Sports event",
-      "genre": "Cricket, Classic sport event",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-08-25_SH033446590000_98978823590_2023-09-29T14:53:53Z_p8163404_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "genre": "Auto racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-08-25_EP027326820855_111670562089_2026-07-30T22:25:34Z_p32387586_b_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "Test Cricket",
@@ -81,6 +81,17 @@
       "programType": "Sports event",
       "genre": "Cricket",
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-08-25_EP029804991853_111689025701_2026-08-21T13:55:22Z_GNLZZGG003HL7N1/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "PGA Tour Golf",
+      "episodeTitle": "BMW Championship, Final Round",
+      "description": "From Bellerive Country Club in St. Louis.",
+      "scheduledDate": 1787637600000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-08-25_EP030899371420_111691305105_2026-08-05T00:33:33Z_p32045085_b_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "CPL T20 Cricket",
@@ -105,6 +116,17 @@
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-08-25_EP029804991854_111689091467_2026-08-21T14:06:38Z_GNLZZGG003HLG17/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
+      "programTitle": "LPGA Tour Golf",
+      "episodeTitle": "CPKC Women's Open, Final Round",
+      "description": "From Royal Mayfair Golf Club in Edmonton, Alberta, Canada.",
+      "scheduledDate": 1787644800000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-08-25_EP031583890711_111689026090_2026-08-13T16:56:28Z_p32164127_b_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
       "programTitle": "The Tea Break",
       "episodeTitle": "1st Test Day 4: Sri Lanka vs India",
       "description": "Join our commentary team as they re-cap the day's play and analyse all the action.",
@@ -125,6 +147,17 @@
       "programType": "Sports event",
       "genre": "Cricket",
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-08-25_EP029804991848_111689044807_2026-08-21T11:26:11Z_GNLZZGG003HKL5K/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "DP World Tour Golf",
+      "episodeTitle": "Nexo Championship, Final Round",
+      "description": "From Trump International Golf Links in Scotland.",
+      "scheduledDate": 1787652000000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-08-25_SH040914080000_111510780655_2022-04-26T15:48:27Z_p20993758_i_h8_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "SailGP Highlights",
