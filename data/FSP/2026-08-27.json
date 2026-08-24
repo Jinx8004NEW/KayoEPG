@@ -1,0 +1,53 @@
+{
+  "channel": "FSP",
+  "date": "2026-08-27",
+  "source": "kayo",
+  "fetchedAt": 1787534384781,
+  "fetchedAtIST": "24/8/2026, 6:49:44 am",
+  "events": [
+    {
+      "programTitle": "DP World Tour Golf",
+      "episodeTitle": "Nexo Championship, Final Round",
+      "description": "From Trump International Golf Links in Scotland.",
+      "scheduledDate": 1787775300000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-08-26_SH040914080000_111510780655_2022-04-26T15:48:27Z_p20993758_i_h8_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Supercars Mini",
+      "episodeTitle": "Century Batteries Ipswich Super 440: Race 27",
+      "description": "Australia's premier touring car racing competition, known for high-powered V8 machines and intense, close-quarters racing.",
+      "scheduledDate": 1787782500000,
+      "duration": 20,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Classic sport event, Auto racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-08-26_SH035786470000_105377021933_2020-08-20T08:30:31Z_p18624449_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Supercars Mini",
+      "episodeTitle": "Century Batteries Ipswich Super 440: Race 28",
+      "description": "Australia's premier touring car racing competition, known for high-powered V8 machines and intense, close-quarters racing.",
+      "scheduledDate": 1787783700000,
+      "duration": 25,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Classic sport event, Auto racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-08-26_SH035786470000_105377021933_2020-08-20T08:30:31Z_p18624449_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "SailGP",
+      "episodeTitle": "Sassnitz, Day 1",
+      "description": "",
+      "scheduledDate": 1787785200000,
+      "duration": 90,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Sailing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-08-26_SH051028760000_111582415077_2021-04-23T21:46:53Z_p19827810_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    }
+  ]
+}

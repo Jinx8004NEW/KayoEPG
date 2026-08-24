@@ -2,11 +2,11 @@
   "channel": "FSP",
   "date": "2026-08-26",
   "source": "kayo",
-  "fetchedAt": 1787516633518,
-  "fetchedAtIST": "24/8/2026, 1:53:53 am",
+  "fetchedAt": 1787534384780,
+  "fetchedAtIST": "24/8/2026, 6:49:44 am",
   "events": [
     {
-      "programTitle": "Formula 1 Racing",
+      "programTitle": "Formula 1",
       "episodeTitle": "Dutch Grand Prix",
       "description": "From Circuit Zandvoort in Zandvoort, North Holland, Netherlands.",
       "scheduledDate": 1787686200000,
@@ -47,7 +47,172 @@
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Cricket",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-08-25_SH033351860000_111569687238_2023-08-23T16:53:32Z_p14393243_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-08-25_EP033351860191_111767524733_2026-08-23T16:42:22Z_GNLZZGG003J1ZCK/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "PBR Bull Riding",
+      "episodeTitle": "",
+      "description": "Coverage of the action from the Professional Bull Riders events.",
+      "scheduledDate": 1787713200000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Bull riding",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-08-26_SH033364560000_110114392996_2017-09-14T16:13:00Z_p12572769_i_h10_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Test Cricket",
+      "episodeTitle": "2nd Test, Day 3: Sri Lanka v India",
+      "description": "Coverage and highlights from international test cricket matches.",
+      "scheduledDate": 1787716800000,
+      "duration": 20,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Cricket, Classic sport event",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-08-26_SH033446590000_98978823590_2023-09-29T14:53:53Z_p8163404_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Test Cricket",
+      "episodeTitle": "2nd Test, Day 4 Session 1: Sri Lanka vs. India",
+      "description": "Coverage of Test cricket matches contested by international teams.",
+      "scheduledDate": 1787718000000,
+      "duration": 135,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Cricket",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-08-26_EP029804991855_111689065444_2026-08-21T13:55:57Z_GNLZZGG003HL7Q4/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "CPL T20 Cricket",
+      "episodeTitle": "Antigua & Barbuda Falcons vs Barbados Tridents",
+      "description": "From Sir Vivian Richards Stadium in North Sound, Antigua and Barbuda.",
+      "scheduledDate": 1787726100000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Cricket",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-08-26_EP033351860191_111767524733_2026-08-23T16:42:22Z_GNLZZGG003J1ZCK/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Test Cricket",
+      "episodeTitle": "2nd Test, Day 4 Session 2: Sri Lanka vs. India",
+      "description": "Coverage of Test cricket matches contested by international teams.",
+      "scheduledDate": 1787727900000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Cricket",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-08-26_EP029804991856_111689045001_2026-08-21T14:05:27Z_GNLZZGG003HLF9J/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "The Tea Break",
+      "episodeTitle": "1st Test Day 4: Sri Lanka vs India",
+      "description": "Join our commentary team as they re-cap the day's play and analyse all the action.",
+      "scheduledDate": 1787735100000,
+      "duration": 25,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Cricket",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-08-26_SH034094570000_111704927855_2025-11-20T06:26:39Z_p17650797_i_h10_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Test Cricket",
+      "episodeTitle": "2nd Test, Day 4 Session 3: Sri Lanka vs. India",
+      "description": "Coverage of Test cricket matches contested by international teams.",
+      "scheduledDate": 1787736600000,
+      "duration": 150,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Cricket",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-08-26_EP029804991857_111689091665_2026-08-21T14:06:57Z_GNLZZGG003HLG89/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Korn Ferry Tour Highlights",
+      "episodeTitle": "AdventHealth Championship",
+      "description": "Key highlights from the Korn Ferry Tour tournaments, the PGA Tour's development circuit.",
+      "scheduledDate": 1787745600000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Golf, Classic sport event",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-08-26_SH035475380000_111689737708_2021-06-08T17:16:46Z_p17120790_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "PGA Tour Champions Golf",
+      "episodeTitle": "Rodgers Classic",
+      "description": "Replays of past PGA Tour competitions.",
+      "scheduledDate": 1787749200000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-08-26_SH051073670000_111289607870_2020-11-09T05:21:00Z_p18099468_i_h8_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "World Rowing Championships 2026",
+      "episodeTitle": "Day 3, Session 2",
+      "description": "",
+      "scheduledDate": 1787752800000,
+      "duration": 95,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Rowing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-08-26_SH065782100000_111689091671_2026-08-17T17:56:28Z_p33830433_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "MotoGP Mini",
+      "episodeTitle": "Germany",
+      "description": "The MotoGP grid tackles the tight Sachsenring. Fresh off stellar recent form and an incredible podium run, a surging Ai Ogura aims to shake up the premier class championship order.",
+      "scheduledDate": 1787758500000,
+      "duration": 20,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Classic sport event, Motorsports, Motorcycle racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-08-26_SH035786450000_105695703154_2020-08-14T07:40:24Z_p18624430_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "MotoGP Mini",
+      "episodeTitle": "Great Britain",
+      "description": "At Silverstone, Fabio Quartararo starts from pole position for the third consecutive race, and will be hoping this can be his first victory of 2025.",
+      "scheduledDate": 1787759700000,
+      "duration": 20,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Classic sport event, Motorsports, Motorcycle racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-08-26_SH035786450000_105695703154_2020-08-14T07:40:24Z_p18624430_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Supercars Championship",
+      "episodeTitle": "Century Batteries Ipswich Super 440: Race 27",
+      "description": "Supercars compete in a series across Australia and New Zealand.",
+      "scheduledDate": 1787760900000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Auto racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-08-26_SH027326760000_111068013985_2026-08-07T01:36:07Z_p522547_i_h10_ad/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Supercars Championship",
+      "episodeTitle": "",
+      "description": "Supercars compete in a series across Australia and New Zealand.",
+      "scheduledDate": 1787764500000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Auto racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-08-26_SH027326760000_111068013985_2026-08-07T01:36:07Z_p522547_i_h10_ad/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "PGA Tour Golf",
+      "episodeTitle": "BMW Championship, Final Round",
+      "description": "From Bellerive Country Club in St. Louis.",
+      "scheduledDate": 1787768100000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-08-26_EP030899371420_111691305105_2026-08-05T00:33:33Z_p32045085_b_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     }
   ]
 }

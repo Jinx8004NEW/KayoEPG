@@ -1,0 +1,31 @@
+{
+  "channel": "ESP",
+  "date": "2026-08-27",
+  "source": "kayo",
+  "fetchedAt": 1787534384801,
+  "fetchedAtIST": "24/8/2026, 6:49:44 am",
+  "events": [
+    {
+      "programTitle": "30 for 30",
+      "episodeTitle": "Muhammad and Larry",
+      "description": "The impact of the 1980 fight between Muhammad Ali and Larry Holmes on both fighters, including interviews and unseen clips.",
+      "scheduledDate": 1787770800000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Documentary, Boxing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-08-26_EP023926430042_111577891029_2019-09-09T20:24:31Z_p7827706_e_h10_ad/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "To Be Announced",
+      "episodeTitle": "",
+      "description": "The programming for this time slot has yet to be determined and is being confirmed by the broadcast channel.",
+      "scheduledDate": 1787778000000,
+      "duration": 240,
+      "parentalRating": "",
+      "programType": "TBA",
+      "genre": "Special, Entertainment",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-08-26_SH027575020000_108569306599_2021-11-15T14:36:19Z_p514472_b_h8_dp/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    }
+  ]
+}

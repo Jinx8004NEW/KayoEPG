@@ -1,0 +1,31 @@
+{
+  "channel": "SP2",
+  "date": "2026-08-27",
+  "source": "kayo",
+  "fetchedAt": 1787534384759,
+  "fetchedAtIST": "24/8/2026, 6:49:44 am",
+  "events": [
+    {
+      "programTitle": "NRL",
+      "episodeTitle": "Gold Coast Titans vs Cronulla-Sutherland Sharks",
+      "description": "From Cbus Super Stadium in Robina, Australia.",
+      "scheduledDate": 1787771400000,
+      "duration": 110,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Rugby league, Rugby",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-08-26_EP031720961221_111566308250_2026-02-10T13:15:08Z_GNLZZGG002QFZJB/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "To Be Announced",
+      "episodeTitle": "",
+      "description": "The programming for this time slot has yet to be determined and is being confirmed by the broadcast channel.",
+      "scheduledDate": 1787778000000,
+      "duration": 240,
+      "parentalRating": "",
+      "programType": "TBA",
+      "genre": "Special, Entertainment",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-08-26_SH027575020000_108569306599_2021-11-15T14:36:19Z_p514472_b_h8_dp/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    }
+  ]
+}
