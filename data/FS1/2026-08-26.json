@@ -2,8 +2,8 @@
   "channel": "FS1",
   "date": "2026-08-26",
   "source": "kayo",
-  "fetchedAt": 1787561350131,
-  "fetchedAtIST": "24/8/2026, 2:19:10 pm",
+  "fetchedAt": 1787575885976,
+  "fetchedAtIST": "24/8/2026, 6:21:25 pm",
   "events": [
     {
       "programTitle": "Men's Ashes",
@@ -248,15 +248,15 @@
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-08-26_SH033446590000_98978823590_2023-09-29T14:53:53Z_p8163404_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "The Hundred",
-      "episodeTitle": "Men's Final: Trent Rockets v Manchester Super Giants",
-      "description": "The Hundred is a professional franchise 100-ball cricket tournament.",
+      "programTitle": "ETPL",
+      "episodeTitle": "Rotterdam Dockers vs. Amsterdam Flames",
+      "description": "",
       "scheduledDate": 1787749800000,
-      "duration": 20,
+      "duration": 230,
       "parentalRating": "",
-      "programType": "Sports non-event",
+      "programType": "Sports event",
       "genre": "Cricket",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-08-26_SH044046720000_111401703581_2021-07-26T13:37:10Z_p20330611_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-08-26_EP065792820001_111801412457_2026-08-22T13:42:26Z_GNLZZGG003HEBSZ/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "Test Cricket",
@@ -323,6 +323,17 @@
       "programType": "Sports event",
       "genre": "Cricket, Classic sport event",
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-08-26_SH033446590000_98978823590_2023-09-29T14:53:53Z_p8163404_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Men's Ashes",
+      "episodeTitle": "2013/14 5th Test Review",
+      "description": "Revisits the 2013-14 5th Test match of the Men's Ashes played between Australia and England.",
+      "scheduledDate": 1787763600000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Classic sport event, Cricket",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-08-26_SH047728050000_100718435032_2019-07-11T07:40:24Z_p10335812_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "Test Cricket",

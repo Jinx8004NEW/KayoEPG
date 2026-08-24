@@ -2,19 +2,30 @@
   "channel": "SP2",
   "date": "2026-08-27",
   "source": "kayo",
-  "fetchedAt": 1787561350203,
-  "fetchedAtIST": "24/8/2026, 2:19:10 pm",
+  "fetchedAt": 1787575885985,
+  "fetchedAtIST": "24/8/2026, 6:21:25 pm",
   "events": [
     {
       "programTitle": "NRL",
       "episodeTitle": "Gold Coast Titans vs Cronulla-Sutherland Sharks",
       "description": "From Cbus Super Stadium in Robina, Australia.",
       "scheduledDate": 1787771400000,
-      "duration": 110,
+      "duration": 60,
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Rugby league, Rugby",
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-08-26_EP031720961221_111566308250_2026-02-10T13:15:08Z_GNLZZGG002QFZJB/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NRL",
+      "episodeTitle": "Sydney Roosters vs Wests Tigers",
+      "description": "Live from Allianz Stadium. Kick off at 4:05PM AEST.",
+      "scheduledDate": 1787775000000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Rugby league, Rugby",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-08-26_EP031720961222_111566174194_2026-02-24T16:42:38Z_GNLZZGG002E1N5Z/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "To Be Announced",
@@ -26,6 +37,50 @@
       "programType": "TBA",
       "genre": "Special, Entertainment",
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-08-26_SH027575020000_108569306599_2021-11-15T14:36:19Z_p514472_b_h8_dp/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NRL 360",
+      "episodeTitle": "",
+      "description": "The expert team discuss key issues and topics across the rugby league with legends and current players of the game. There are reviews, news and a variety of views from around the sport landscape.",
+      "scheduledDate": 1787778600000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Sports talk, Rugby league",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-08-26_SH029161050000_110779849480_2026-03-24T08:25:06Z_p11964078_i_h10_ae/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "The Fan",
+      "episodeTitle": "",
+      "description": "Rugby League's biggest fan, Andrew Voss, explores the game from a fan's perspective and chats with some of the biggest rugby league enthusiasts on the way.",
+      "scheduledDate": 1787782200000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Rugby",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-08-26_SH029171760000_103512401493_2025-03-19T07:04:18Z_p15251449_i_h10_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NRL 360",
+      "episodeTitle": "",
+      "description": "The expert team discuss key issues and topics across the rugby league with legends and current players of the game. There are reviews, news and a variety of views from around the sport landscape.",
+      "scheduledDate": 1787784000000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Sports talk, Rugby league",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-08-26_SH029161050000_110779849480_2026-03-24T08:25:06Z_p11964078_i_h10_ae/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "The Fan",
+      "episodeTitle": "",
+      "description": "Rugby League's biggest fan, Andrew Voss, explores the game from a fan's perspective and chats with some of the biggest rugby league enthusiasts on the way.",
+      "scheduledDate": 1787787600000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Rugby",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-08-26_SH029171760000_103512401493_2025-03-19T07:04:18Z_p15251449_i_h10_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     }
   ]
 }
