@@ -2,15 +2,15 @@
   "channel": "RTV",
   "date": "2026-08-26",
   "source": "kayo",
-  "fetchedAt": 1787620647958,
-  "fetchedAtIST": "25/8/2026, 6:47:27 am",
+  "fetchedAt": 1787632750362,
+  "fetchedAtIST": "25/8/2026, 10:09:10 am",
   "events": [
     {
       "programTitle": "Calling the Cup",
       "episodeTitle": "",
       "description": "For the first time Racing.com brings together four legendary broadcasters to share their favourite memories of calling Australia's most iconic and famous race, the Melbourne Cup.",
       "scheduledDate": 1787684400000,
-      "duration": 90,
+      "duration": 60,
       "parentalRating": "",
       "programType": "Sports non-event",
       "genre": "Special, Horse",
@@ -26,6 +26,28 @@
       "programType": "Sports non-event",
       "genre": "Special, Horse",
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/148460_2026-08-25_SH033477270000_111442667041_2019-10-30T21:40:41Z_p17534282_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "From the Trainers' Tower",
+      "episodeTitle": "",
+      "description": "Trainers discuss key runners ahead of the weekend's feature racing.",
+      "scheduledDate": 1787688000000,
+      "duration": 15,
+      "parentalRating": "",
+      "programType": "Series",
+      "genre": "Sports talk, Horse racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/148460_2026-08-25_SH052658770000_101955118541_2024-09-04T07:53:49Z_p28142568_i_h11_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Country Racing Awards 2026",
+      "episodeTitle": "",
+      "description": "",
+      "scheduledDate": 1787688900000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Series",
+      "genre": "Other",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/148460_2026-08-25_SH065805210000_111829468794_2026-08-24T22:14:40Z_p33919514_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "From the Trainers' Tower",
@@ -94,15 +116,15 @@
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/148460_2026-08-26_SH059999130000_102449579162_2025-10-15T06:41:06Z_p30993149_b_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "Racing Review",
+      "programTitle": "Country Racing Awards 2026",
       "episodeTitle": "",
-      "description": "A full recap of racing from Wangaratta.",
+      "description": "",
       "scheduledDate": 1787709600000,
       "duration": 30,
       "parentalRating": "",
-      "programType": "Sports non-event",
-      "genre": "Horse racing",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/148460_2026-08-26_SH065368570000_110412511319_2022-09-19T11:46:59Z_p872189_i_h8_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "programType": "Series",
+      "genre": "Other",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/148460_2026-08-26_SH065805210000_111829468794_2026-08-24T22:14:40Z_p33919514_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "Racing Live",
@@ -204,15 +226,15 @@
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/148460_2026-08-26_SH065368570000_110412511319_2022-09-19T11:46:59Z_p872189_i_h8_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "Damien Oliver: In His Own Words",
+      "programTitle": "Country Racing Awards 2026",
       "episodeTitle": "",
-      "description": "An eleven-time Scobie Breasley Medal winner and member of racing's Hall of Fame, Damien Oliver sits down with Sam Doran to look back on his remarkable career.",
+      "description": "",
       "scheduledDate": 1787749200000,
       "duration": 30,
       "parentalRating": "",
-      "programType": "Sports non-event",
-      "genre": "Horse racing",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/148460_2026-08-26_SH049559210000_111212852046_2023-12-11T03:13:55Z_p26277889_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "programType": "Series",
+      "genre": "Other",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/148460_2026-08-26_SH065805210000_111829468794_2026-08-24T22:14:40Z_p33919514_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "The Trial Show",
