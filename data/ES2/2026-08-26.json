@@ -2,13 +2,13 @@
   "channel": "ES2",
   "date": "2026-08-26",
   "source": "kayo",
-  "fetchedAt": 1787647369724,
-  "fetchedAtIST": "25/8/2026, 2:12:49 pm",
+  "fetchedAt": 1787662113399,
+  "fetchedAtIST": "25/8/2026, 6:18:33 pm",
   "events": [
     {
       "programTitle": "2026 Little League Baseball World Series",
-      "episodeTitle": "",
-      "description": "",
+      "episodeTitle": "Alabama vs. Washington",
+      "description": "From Howard J. Lamade Stadium in South Williamsport, Pa.",
       "scheduledDate": 1787684400000,
       "duration": 120,
       "parentalRating": "",
@@ -18,8 +18,8 @@
     },
     {
       "programTitle": "2026 Little League Baseball World Series",
-      "episodeTitle": "",
-      "description": "",
+      "episodeTitle": "Canada vs. South Korea",
+      "description": "From Volunteer Stadium in South Williamsport, Pa.",
       "scheduledDate": 1787691600000,
       "duration": 120,
       "parentalRating": "",
@@ -28,15 +28,15 @@
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-08-25_SH065665800000_111680854178_2026-07-16T17:07:05Z_p33388586_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "2026 Little League Baseball World Series",
+      "programTitle": "E",
       "episodeTitle": "",
       "description": "",
       "scheduledDate": 1787698800000,
       "duration": 120,
       "parentalRating": "",
-      "programType": "Sports event",
-      "genre": "Baseball",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-08-25_SH065665800000_111680854178_2026-07-16T17:07:05Z_p33388586_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "programType": "",
+      "genre": "",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/Fallback_LTV_ESPN2/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "SportsCenter Special",
@@ -73,8 +73,8 @@
     },
     {
       "programTitle": "2026 Little League Baseball World Series",
-      "episodeTitle": "",
-      "description": "",
+      "episodeTitle": "Alabama vs. Washington",
+      "description": "From Howard J. Lamade Stadium in South Williamsport, Pa.",
       "scheduledDate": 1787720400000,
       "duration": 120,
       "parentalRating": "",
@@ -84,8 +84,8 @@
     },
     {
       "programTitle": "2026 Little League Baseball World Series",
-      "episodeTitle": "",
-      "description": "",
+      "episodeTitle": "Canada vs. South Korea",
+      "description": "From Volunteer Stadium in South Williamsport, Pa.",
       "scheduledDate": 1787727600000,
       "duration": 120,
       "parentalRating": "",
@@ -94,15 +94,15 @@
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-08-26_SH065665800000_111680854178_2026-07-16T17:07:05Z_p33388586_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "2026 Little League Baseball World Series",
+      "programTitle": "E",
       "episodeTitle": "",
       "description": "",
       "scheduledDate": 1787734800000,
       "duration": 120,
       "parentalRating": "",
-      "programType": "Sports event",
-      "genre": "Baseball",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-08-26_SH065665800000_111680854178_2026-07-16T17:07:05Z_p33388586_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "programType": "",
+      "genre": "",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/Fallback_LTV_ESPN2/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "MLB Baseball",
@@ -150,8 +150,8 @@
     },
     {
       "programTitle": "2026 Little League Baseball World Series",
-      "episodeTitle": "",
-      "description": "",
+      "episodeTitle": "Nicaragua vs. Curacao",
+      "description": "From Volunteer Stadium in South Williamsport, Pa.",
       "scheduledDate": 1787763600000,
       "duration": 120,
       "parentalRating": "",
