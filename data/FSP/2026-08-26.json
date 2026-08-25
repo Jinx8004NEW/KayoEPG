@@ -2,11 +2,11 @@
   "channel": "FSP",
   "date": "2026-08-26",
   "source": "kayo",
-  "fetchedAt": 1787675901325,
-  "fetchedAtIST": "25/8/2026, 10:08:21 pm",
+  "fetchedAt": 1787689772111,
+  "fetchedAtIST": "26/8/2026, 1:59:32 am",
   "events": [
     {
-      "programTitle": "Formula 1",
+      "programTitle": "Formula 1 Racing",
       "episodeTitle": "Dutch Grand Prix",
       "description": "From Circuit Zandvoort in Zandvoort, North Holland, Netherlands.",
       "scheduledDate": 1787686200000,
@@ -28,15 +28,15 @@
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-08-25_SH027326760000_111068013985_2026-08-07T01:36:07Z_p522547_i_h10_ad/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "MotoGP Mini",
-      "episodeTitle": "Great Britain",
-      "description": "At Silverstone, Fabio Quartararo starts from pole position for the third consecutive race, and will be hoping this can be his first victory of 2025.",
+      "programTitle": "F1 Mini",
+      "episodeTitle": "Netherlands Grand Prix",
+      "description": "Highlights of the world's most iconic Formula 1 Grands Prix, featuring every podium and overtake.",
       "scheduledDate": 1787697000000,
-      "duration": 25,
+      "duration": 30,
       "parentalRating": "",
       "programType": "Sports event",
-      "genre": "Classic sport event, Motorsports, Motorcycle racing",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-08-25_SH035786450000_105695703154_2020-08-14T07:40:24Z_p18624430_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "genre": "Motorsports, Classic sport event",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-08-25_SH036452570000_107032703571_2020-11-19T03:00:48Z_p18944992_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "CPL T20 Cricket",
@@ -61,7 +61,7 @@
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-08-25_SH032967320000_109954612423_2024-10-04T13:14:55Z_p644283_i_h8_ah/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "Formula 1 Racing",
+      "programTitle": "Formula 1",
       "episodeTitle": "Dutch Grand Prix",
       "description": "From Circuit Zandvoort in Zandvoort, North Holland, Netherlands.",
       "scheduledDate": 1787706000000,
@@ -83,15 +83,15 @@
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-08-26_SH033364560000_110114392996_2017-09-14T16:13:00Z_p12572769_i_h10_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "Test Cricket",
-      "episodeTitle": "2nd Test, Day 3: Sri Lanka v India",
-      "description": "Coverage and highlights from international test cricket matches.",
+      "programTitle": "Darts",
+      "episodeTitle": "Australian Masters: Day 1",
+      "description": "Covering of all the action from darts events around the world.",
       "scheduledDate": 1787716800000,
-      "duration": 20,
+      "duration": 120,
       "parentalRating": "",
       "programType": "Sports event",
-      "genre": "Cricket, Classic sport event",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-08-26_SH033446590000_98978823590_2023-09-29T14:53:53Z_p8163404_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "genre": "Darts",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-08-26_SH032967320000_109954612423_2024-10-04T13:14:55Z_p644283_i_h8_ah/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "Test Cricket",

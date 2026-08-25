@@ -1,70 +1,37 @@
 {
   "channel": "FAF",
-  "date": "2026-08-25",
+  "date": "2026-08-26",
   "source": "kayo",
-  "fetchedAt": 1787675901318,
-  "fetchedAtIST": "25/8/2026, 10:08:21 pm",
+  "fetchedAt": 1787689772107,
+  "fetchedAtIST": "26/8/2026, 1:59:32 am",
   "events": [
     {
-      "programTitle": "AFL 360",
+      "programTitle": "AFLW Awards",
       "episodeTitle": "",
-      "description": "An in-depth examination of events and issues regarding all things AFL. Includes interviews with coaches and players, recaps, and breaking news.",
-      "scheduledDate": 1787596200000,
-      "duration": 60,
+      "description": "",
+      "scheduledDate": 1787682600000,
+      "duration": 120,
       "parentalRating": "",
-      "programType": "Series",
-      "genre": "Sports talk, Australian rules football",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-08-24_SH029292320000_109514254203_2026-07-03T00:25:57Z_p15311210_i_h10_af/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
-    {
-      "programTitle": "On the Couch",
-      "episodeTitle": "",
-      "description": "Provides in-depth coverage of the Australian Football League, as well as the latest news and excitement in the latest rounds, and exclusive interviews with players and coaches.",
-      "scheduledDate": 1787599800000,
-      "duration": 60,
-      "parentalRating": "",
-      "programType": "Series",
-      "genre": "Sports talk, Australian rules football",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-08-24_SH029281610000_107287396495_2026-03-12T06:07:22Z_p15306959_i_h10_ae/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "programType": "Sports non-event",
+      "genre": "Special, Rugby",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/Fallback_LTV_Fox_Footy/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "AFL",
-      "episodeTitle": "Sydney Swans vs North Melbourne",
-      "description": "Live from the SCG. Bounce time: 3:20 pm AEST.",
-      "scheduledDate": 1787603400000,
+      "episodeTitle": "Essendon vs Port Adelaide",
+      "description": "From Marvel Stadium in Melbourne, Australia.",
+      "scheduledDate": 1787689800000,
       "duration": 153,
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Australian rules football",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-08-24_EP029151671432_111474270035_2026-07-29T23:44:53Z_GNLZZGG003CYLCC/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-08-25_EP029151671426_111212878569_2026-07-29T23:44:28Z_GNLZZGG003CYZT9/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "AFL 360",
       "episodeTitle": "",
       "description": "An in-depth examination of events and issues regarding all things AFL. Includes interviews with coaches and players, recaps, and breaking news.",
-      "scheduledDate": 1787612580000,
-      "duration": 60,
-      "parentalRating": "",
-      "programType": "Series",
-      "genre": "Sports talk, Australian rules football",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-08-24_SH029292320000_109514254203_2026-07-03T00:25:57Z_p15311210_i_h10_af/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
-    {
-      "programTitle": "On the Couch",
-      "episodeTitle": "",
-      "description": "Provides in-depth coverage of the Australian Football League, as well as the latest news and excitement in the latest rounds, and exclusive interviews with players and coaches.",
-      "scheduledDate": 1787616180000,
-      "duration": 60,
-      "parentalRating": "",
-      "programType": "Series",
-      "genre": "Sports talk, Australian rules football",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-08-25_SH029281610000_107287396495_2026-03-12T06:07:22Z_p15306959_i_h10_ae/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
-    {
-      "programTitle": "AFL 360",
-      "episodeTitle": "",
-      "description": "An in-depth examination of events and issues regarding all things AFL. Includes interviews with coaches and players, recaps, and breaking news.",
-      "scheduledDate": 1787619780000,
+      "scheduledDate": 1787698980000,
       "duration": 60,
       "parentalRating": "",
       "programType": "Series",
@@ -72,202 +39,213 @@
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-08-25_SH029292320000_109514254203_2026-07-03T00:25:57Z_p15311210_i_h10_af/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "On the Couch",
+      "programTitle": "AFLW Awards",
       "episodeTitle": "",
-      "description": "Provides in-depth coverage of the Australian Football League, as well as the latest news and excitement in the latest rounds, and exclusive interviews with players and coaches.",
-      "scheduledDate": 1787623380000,
-      "duration": 60,
+      "description": "",
+      "scheduledDate": 1787702580000,
+      "duration": 120,
       "parentalRating": "",
-      "programType": "Series",
-      "genre": "Sports talk, Australian rules football",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-08-25_SH029281610000_107287396495_2026-03-12T06:07:22Z_p15306959_i_h10_ae/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "programType": "Sports non-event",
+      "genre": "Special, Rugby",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/Fallback_LTV_Fox_Footy/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "AFL 360",
       "episodeTitle": "",
       "description": "An in-depth examination of events and issues regarding all things AFL. Includes interviews with coaches and players, recaps, and breaking news.",
-      "scheduledDate": 1787626980000,
+      "scheduledDate": 1787709780000,
       "duration": 60,
       "parentalRating": "",
       "programType": "Series",
       "genre": "Sports talk, Australian rules football",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-08-25_SH029292320000_109514254203_2026-07-03T00:25:57Z_p15311210_i_h10_af/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-08-26_SH029292320000_109514254203_2026-07-03T00:25:57Z_p15311210_i_h10_af/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "On the Couch",
+      "programTitle": "AFLW Awards",
       "episodeTitle": "",
-      "description": "Provides in-depth coverage of the Australian Football League, as well as the latest news and excitement in the latest rounds, and exclusive interviews with players and coaches.",
-      "scheduledDate": 1787630580000,
-      "duration": 60,
-      "parentalRating": "",
-      "programType": "Series",
-      "genre": "Sports talk, Australian rules football",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-08-25_SH029281610000_107287396495_2026-03-12T06:07:22Z_p15306959_i_h10_ae/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
-    {
-      "programTitle": "AFL Mini",
-      "episodeTitle": "Round 23: Brisbane Lions v Gold Coast Suns",
-      "description": "Condensed highlights, reaction and analysis of the biggest sport stories from Australia and around the world.",
-      "scheduledDate": 1787634180000,
-      "duration": 20,
+      "description": "",
+      "scheduledDate": 1787713380000,
+      "duration": 120,
       "parentalRating": "",
       "programType": "Sports non-event",
-      "genre": "Australian rules football",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-08-25_SH042238570000_104529301600_2022-03-07T04:36:21Z_p21759801_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "genre": "Special, Rugby",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/Fallback_LTV_Fox_Footy/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "AFL Mini",
-      "episodeTitle": "Round 23: Hawthorn Hawks v Collingwood Magpies",
-      "description": "Condensed highlights, reaction and analysis of the biggest sport stories from Australia and around the world.",
-      "scheduledDate": 1787635380000,
-      "duration": 20,
-      "parentalRating": "",
-      "programType": "Sports non-event",
-      "genre": "Australian rules football",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-08-25_SH042238570000_104529301600_2022-03-07T04:36:21Z_p21759801_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
-    {
-      "programTitle": "AFL Mini",
-      "episodeTitle": "Round 23: Port Adelaide Power v Melbourne Demons",
-      "description": "Condensed highlights, reaction and analysis of the biggest sport stories from Australia and around the world.",
-      "scheduledDate": 1787636580000,
-      "duration": 20,
-      "parentalRating": "",
-      "programType": "Sports non-event",
-      "genre": "Australian rules football",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-08-25_SH042238570000_104529301600_2022-03-07T04:36:21Z_p21759801_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
-    {
-      "programTitle": "AFL Mini",
-      "episodeTitle": "Round 23: Greater Western Sydney Giants v West Coast Eagles",
-      "description": "Condensed highlights, reaction and analysis of the biggest sport stories from Australia and around the world.",
-      "scheduledDate": 1787637780000,
-      "duration": 20,
-      "parentalRating": "",
-      "programType": "Sports non-event",
-      "genre": "Australian rules football",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-08-25_SH042238570000_104529301600_2022-03-07T04:36:21Z_p21759801_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
-    {
-      "programTitle": "AFL Mini",
-      "episodeTitle": "Round 23: Western Bulldogs v Carlton Blues",
-      "description": "Condensed highlights, reaction and analysis of the biggest sport stories from Australia and around the world.",
-      "scheduledDate": 1787638980000,
-      "duration": 20,
-      "parentalRating": "",
-      "programType": "Sports non-event",
-      "genre": "Australian rules football",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-08-25_SH042238570000_104529301600_2022-03-07T04:36:21Z_p21759801_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
-    {
-      "programTitle": "AFL Mini",
-      "episodeTitle": "Round 23: Essendon Bombers v Sydney Swans",
-      "description": "Condensed highlights, reaction and analysis of the biggest sport stories from Australia and around the world.",
-      "scheduledDate": 1787640180000,
-      "duration": 20,
-      "parentalRating": "",
-      "programType": "Sports non-event",
-      "genre": "Australian rules football",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-08-25_SH042238570000_104529301600_2022-03-07T04:36:21Z_p21759801_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
-    {
-      "programTitle": "On the Couch",
+      "programTitle": "AFL 360",
       "episodeTitle": "",
-      "description": "Provides in-depth coverage of the Australian Football League, as well as the latest news and excitement in the latest rounds, and exclusive interviews with players and coaches.",
-      "scheduledDate": 1787641380000,
+      "description": "An in-depth examination of events and issues regarding all things AFL. Includes interviews with coaches and players, recaps, and breaking news.",
+      "scheduledDate": 1787720580000,
       "duration": 60,
       "parentalRating": "",
       "programType": "Series",
       "genre": "Sports talk, Australian rules football",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-08-25_SH029281610000_107287396495_2026-03-12T06:07:22Z_p15306959_i_h10_ae/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-08-26_SH029292320000_109514254203_2026-07-03T00:25:57Z_p15311210_i_h10_af/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "AFLW Awards",
+      "episodeTitle": "",
+      "description": "",
+      "scheduledDate": 1787724180000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Special, Rugby",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/Fallback_LTV_Fox_Footy/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "AFL Tonight",
       "episodeTitle": "",
       "description": "A look back at all the latest AFL news and matches, with big name guests, sports experts and breaking news.",
-      "scheduledDate": 1787644980000,
+      "scheduledDate": 1787731380000,
       "duration": 27,
       "parentalRating": "",
       "programType": "Series",
       "genre": "Sports talk, Australian rules football",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-08-25_SH030522950000_111163805717_2026-03-12T06:26:52Z_p15943411_i_h10_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-08-26_SH030522950000_111163805717_2026-03-12T06:26:52Z_p15943411_i_h10_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "AFL 360",
       "episodeTitle": "",
       "description": "An in-depth examination of events and issues regarding all things AFL. Includes interviews with coaches and players, recaps, and breaking news.",
-      "scheduledDate": 1787646600000,
+      "scheduledDate": 1787733000000,
       "duration": 60,
       "parentalRating": "",
       "programType": "Series",
       "genre": "Sports talk, Australian rules football",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-08-25_SH029292320000_109514254203_2026-07-03T00:25:57Z_p15311210_i_h10_af/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-08-26_SH029292320000_109514254203_2026-07-03T00:25:57Z_p15311210_i_h10_af/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "AFLW Awards",
+      "programTitle": "First Crack Preview",
       "episodeTitle": "",
-      "description": "",
-      "scheduledDate": 1787650200000,
-      "duration": 120,
+      "description": "An expert panel analyse the round ahead and take a look at all the major happenings in the world of footy.",
+      "scheduledDate": 1787736600000,
+      "duration": 30,
       "parentalRating": "",
       "programType": "Sports non-event",
-      "genre": "Special, Rugby",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/Fallback_LTV_Fox_Footy/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "genre": "Australian rules football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-08-26_SH051721160000_107151644963_2025-04-29T07:35:22Z_p27625219_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "AFL 360",
       "episodeTitle": "",
       "description": "An in-depth examination of events and issues regarding all things AFL. Includes interviews with coaches and players, recaps, and breaking news.",
-      "scheduledDate": 1787657400000,
+      "scheduledDate": 1787738400000,
       "duration": 60,
       "parentalRating": "",
       "programType": "Series",
       "genre": "Sports talk, Australian rules football",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-08-25_SH029292320000_109514254203_2026-07-03T00:25:57Z_p15311210_i_h10_af/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-08-26_SH029292320000_109514254203_2026-07-03T00:25:57Z_p15311210_i_h10_af/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "AFLW Awards",
+      "programTitle": "First Crack Preview",
       "episodeTitle": "",
-      "description": "",
-      "scheduledDate": 1787661000000,
-      "duration": 120,
+      "description": "An expert panel analyse the round ahead and take a look at all the major happenings in the world of footy.",
+      "scheduledDate": 1787742000000,
+      "duration": 30,
       "parentalRating": "",
       "programType": "Sports non-event",
-      "genre": "Special, Rugby",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/Fallback_LTV_Fox_Footy/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "genre": "Australian rules football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-08-26_SH051721160000_107151644963_2025-04-29T07:35:22Z_p27625219_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "AFL 360",
       "episodeTitle": "",
       "description": "An in-depth examination of events and issues regarding all things AFL. Includes interviews with coaches and players, recaps, and breaking news.",
-      "scheduledDate": 1787668200000,
+      "scheduledDate": 1787743800000,
       "duration": 60,
       "parentalRating": "",
       "programType": "Series",
       "genre": "Sports talk, Australian rules football",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-08-25_SH029292320000_109514254203_2026-07-03T00:25:57Z_p15311210_i_h10_af/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-08-26_SH029292320000_109514254203_2026-07-03T00:25:57Z_p15311210_i_h10_af/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "AFLW Awards",
+      "programTitle": "First Crack Preview",
       "episodeTitle": "",
-      "description": "",
-      "scheduledDate": 1787671800000,
-      "duration": 120,
+      "description": "An expert panel analyse the round ahead and take a look at all the major happenings in the world of footy.",
+      "scheduledDate": 1787747400000,
+      "duration": 30,
       "parentalRating": "",
       "programType": "Sports non-event",
-      "genre": "Special, Rugby",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/Fallback_LTV_Fox_Footy/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "genre": "Australian rules football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-08-26_SH051721160000_107151644963_2025-04-29T07:35:22Z_p27625219_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "AFL 360",
       "episodeTitle": "",
       "description": "An in-depth examination of events and issues regarding all things AFL. Includes interviews with coaches and players, recaps, and breaking news.",
-      "scheduledDate": 1787679000000,
+      "scheduledDate": 1787749200000,
       "duration": 60,
       "parentalRating": "",
       "programType": "Series",
       "genre": "Sports talk, Australian rules football",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-08-25_SH029292320000_109514254203_2026-07-03T00:25:57Z_p15311210_i_h10_af/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-08-26_SH029292320000_109514254203_2026-07-03T00:25:57Z_p15311210_i_h10_af/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "First Crack Preview",
+      "episodeTitle": "",
+      "description": "An expert panel analyse the round ahead and take a look at all the major happenings in the world of footy.",
+      "scheduledDate": 1787752800000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Australian rules football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-08-26_SH051721160000_107151644963_2025-04-29T07:35:22Z_p27625219_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "AFL 360",
+      "episodeTitle": "",
+      "description": "An in-depth examination of events and issues regarding all things AFL. Includes interviews with coaches and players, recaps, and breaking news.",
+      "scheduledDate": 1787754600000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Series",
+      "genre": "Sports talk, Australian rules football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-08-26_SH029292320000_109514254203_2026-07-03T00:25:57Z_p15311210_i_h10_af/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "First Crack Preview",
+      "episodeTitle": "",
+      "description": "An expert panel analyse the round ahead and take a look at all the major happenings in the world of footy.",
+      "scheduledDate": 1787758200000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Australian rules football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-08-26_SH051721160000_107151644963_2025-04-29T07:35:22Z_p27625219_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "AFL 360",
+      "episodeTitle": "",
+      "description": "An in-depth examination of events and issues regarding all things AFL. Includes interviews with coaches and players, recaps, and breaking news.",
+      "scheduledDate": 1787760000000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Series",
+      "genre": "Sports talk, Australian rules football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-08-26_SH029292320000_109514254203_2026-07-03T00:25:57Z_p15311210_i_h10_af/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "First Crack Preview",
+      "episodeTitle": "",
+      "description": "An expert panel analyse the round ahead and take a look at all the major happenings in the world of footy.",
+      "scheduledDate": 1787763600000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Australian rules football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-08-26_SH051721160000_107151644963_2025-04-29T07:35:22Z_p27625219_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "AFL 360",
+      "episodeTitle": "",
+      "description": "An in-depth examination of events and issues regarding all things AFL. Includes interviews with coaches and players, recaps, and breaking news.",
+      "scheduledDate": 1787765400000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Series",
+      "genre": "Sports talk, Australian rules football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-08-26_SH029292320000_109514254203_2026-07-03T00:25:57Z_p15311210_i_h10_af/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     }
   ]
 }
