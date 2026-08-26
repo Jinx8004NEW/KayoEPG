@@ -2,8 +2,8 @@
   "channel": "SPS",
   "date": "2026-08-28",
   "source": "kayo",
-  "fetchedAt": 1787719221701,
-  "fetchedAtIST": "26/8/2026, 10:10:21 am",
+  "fetchedAt": 1787733828530,
+  "fetchedAtIST": "26/8/2026, 2:13:48 pm",
   "events": [
     {
       "programTitle": "MotorRacing 360",
@@ -120,7 +120,7 @@
       "episodeTitle": "Round 3: Ipswich",
       "description": "Highlights and all the excitement from the Porsche Carrera Cup Australia Championship, taking place on the many exhilarating circuits around Australia.",
       "scheduledDate": 1787891400000,
-      "duration": 53,
+      "duration": 55,
       "parentalRating": "",
       "programType": "Sports non-event",
       "genre": "Auto racing",
@@ -132,6 +132,17 @@
       "description": "Action from MotoGP racing.",
       "scheduledDate": 1787894580000,
       "duration": 17,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Family, Classic sport event, Motorcycle racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-08-28_SH035853180000_111584229758_2017-10-24T00:43:00Z_p445588_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "MotoGP Racing",
+      "episodeTitle": "Inside Ducati - Germany",
+      "description": "Action from MotoGP racing.",
+      "scheduledDate": 1787894700000,
+      "duration": 15,
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Family, Classic sport event, Motorcycle racing",
@@ -270,15 +281,26 @@
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-08-28_SH051028760000_111582415077_2021-04-23T21:46:53Z_p19827810_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "Getting a Round In",
-      "episodeTitle": "Zoe Badwi",
-      "description": "Australian professional golfer, Paul Gow hosts celebrities as his playing partners who share his love for the game of golf.",
+      "programTitle": "MotoGP Specials",
+      "episodeTitle": "MotoGP: Hall of Fame Dinner",
+      "description": "MotoGP Hall of Famers, including Casey Stoner, Valentino Rossi, Jorge Lorenzo, Dani Pedrosa, Freddie Spencer and Kevin Schwantz, gather for a private dinner. And when these icons start talking, it is pure gold.",
       "scheduledDate": 1787938500000,
-      "duration": 30,
+      "duration": 25,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Motorsports, Motorcycle racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/Fallback_LTV_Fox_Sports_506/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "FIM Speedway Grand Prix Series",
+      "episodeTitle": "Round 8: Latvia",
+      "description": "Professional riders compete in a motorcycle speedway racing competition organised by the International Motorcycling Federation (FIM) to emerge victorious and win the coveted title.",
+      "scheduledDate": 1787940000000,
+      "duration": 55,
       "parentalRating": "",
       "programType": "Series",
-      "genre": "Golf, Interview",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-08-28_SH048121120000_110998856207_2023-07-18T05:56:16Z_p25221374_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "genre": "Motorcycle",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-08-28_SH052529490000_109961681573_2024-01-30T22:43:07Z_p7832673_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "FIM Speedway Grand Prix Series",

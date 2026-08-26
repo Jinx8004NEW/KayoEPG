@@ -2,8 +2,8 @@
   "channel": "ESP",
   "date": "2026-08-26",
   "source": "kayo",
-  "fetchedAt": 1787719221710,
-  "fetchedAtIST": "26/8/2026, 10:10:21 am",
+  "fetchedAt": 1787733828538,
+  "fetchedAtIST": "26/8/2026, 2:13:48 pm",
   "events": [
     {
       "programTitle": "NFL Live",
@@ -157,7 +157,7 @@
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Baseball",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-08-26_EP062580852455_111758571867_2026-06-27T19:25:15Z_GNLZZGG0037TLN2/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-08-26_EP062580852435_111887871515_2026-06-27T19:22:08Z_GNLZZGG0037SQ9K/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "SC: Stories",
@@ -226,15 +226,15 @@
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-08-26_SH048483860000_111648065422_2020-09-10T14:31:07Z_p18762527_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "SportsCenter",
+      "programTitle": "Always College Football",
       "episodeTitle": "",
-      "description": "The team deliver the latest news, highlights, and inside information from the wide world of sports, as well as trending topics across social media platforms.",
+      "description": "",
       "scheduledDate": 1787767200000,
       "duration": 60,
       "parentalRating": "",
       "programType": "Sports non-event",
-      "genre": "News, Sports talk",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-08-26_SH033259060000_109832503473_2018-04-18T10:39:00Z_p186674_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "genre": "Football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-08-26_SH052241220000_109544738290_2024-07-29T14:34:00Z_p27835759_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     }
   ]
 }
