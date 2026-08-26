@@ -2,30 +2,85 @@
   "channel": "ESP",
   "date": "2026-08-29",
   "source": "kayo",
-  "fetchedAt": 1787733828539,
-  "fetchedAtIST": "26/8/2026, 2:13:48 pm",
+  "fetchedAt": 1787748799438,
+  "fetchedAtIST": "26/8/2026, 6:23:19 pm",
   "events": [
     {
       "programTitle": "NFL Blitz",
       "episodeTitle": "Road to Melbourne",
       "description": "All of the best action from the National Football League.",
       "scheduledDate": 1787945400000,
-      "duration": 90,
+      "duration": 30,
       "parentalRating": "",
       "programType": "Sports non-event",
       "genre": "Football, News",
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-08-28_SH060667300000_110937783149_2022-09-12T05:46:51Z_p22911383_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "To Be Announced",
+      "programTitle": "NFL Live",
       "episodeTitle": "",
-      "description": "The programming for this time slot has yet to be determined and is being confirmed by the broadcast channel.",
-      "scheduledDate": 1787950800000,
-      "duration": 240,
+      "description": "Wendi Nix and analysts break down the latest news in the NFL, offering views on players, coaches and management.",
+      "scheduledDate": 1787947200000,
+      "duration": 60,
       "parentalRating": "",
-      "programType": "TBA",
-      "genre": "Special, Entertainment",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-08-28_SH027575020000_108569306599_2021-11-15T14:36:19Z_p514472_b_h8_dp/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "programType": "Sports non-event",
+      "genre": "Football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-08-28_SH033280050000_111648105022_2022-08-27T02:25:47Z_p267723_i_h8_ae/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "SportsCenter",
+      "episodeTitle": "",
+      "description": "The team deliver the latest news, highlights, and inside information from the wide world of sports, as well as trending topics across social media platforms.",
+      "scheduledDate": 1787950800000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "News, Sports talk",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-08-28_SH033259060000_109832503473_2018-04-18T10:39:00Z_p186674_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Pardon the Interruption",
+      "episodeTitle": "",
+      "description": "Tony Kornheiser and Mike Wilbon have intense discussions and interview guests about the top headlines in news and sports.",
+      "scheduledDate": 1787952600000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Sports talk",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-08-28_SH032424080000_108239731292_2021-04-08T22:26:28Z_p186288_i_h8_ae/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "SportsCenter",
+      "episodeTitle": "",
+      "description": "The team deliver the latest news, highlights, and inside information from the wide world of sports, as well as trending topics across social media platforms.",
+      "scheduledDate": 1787954400000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "News, Sports talk",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-08-28_SH033259060000_109832503473_2018-04-18T10:39:00Z_p186674_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Nothing But Net",
+      "episodeTitle": "Weekend Edition",
+      "description": "Kane Pitman and Ryan Broekhoff preview the upcoming NBA and NBL action through their Aussie lens, with guest interviews, highlights and breaking news.",
+      "scheduledDate": 1787958000000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Basketball",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-08-28_SH047654740000_108130071776_2023-06-02T12:16:33Z_p24869175_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NFL Blitz",
+      "episodeTitle": "Road to Melbourne",
+      "description": "All of the best action from the National Football League.",
+      "scheduledDate": 1787959800000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Football, News",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-08-28_SH060667300000_110937783149_2022-09-12T05:46:51Z_p22911383_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     }
   ]
 }

@@ -2,9 +2,31 @@
   "channel": "ESP",
   "date": "2026-08-28",
   "source": "kayo",
-  "fetchedAt": 1787733828539,
-  "fetchedAtIST": "26/8/2026, 2:13:48 pm",
+  "fetchedAt": 1787748799437,
+  "fetchedAtIST": "26/8/2026, 6:23:19 pm",
   "events": [
+    {
+      "programTitle": "NFL Blitz",
+      "episodeTitle": "Road to Melbourne",
+      "description": "All of the best action from the National Football League.",
+      "scheduledDate": 1787857200000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Football, News",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-08-27_SH060667300000_110937783149_2022-09-12T05:46:51Z_p22911383_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "College Football Live",
+      "episodeTitle": "",
+      "description": "Breaking news, analysis, features, roundtable discussions, and interviews covering all the latest events from the world of college football.",
+      "scheduledDate": 1787859000000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Football, News",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-08-27_SH033651660000_110974424461_2017-12-12T23:22:00Z_p221266_i_h10_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
     {
       "programTitle": "NFL Live",
       "episodeTitle": "",
@@ -69,7 +91,7 @@
       "parentalRating": "",
       "programType": "Series",
       "genre": "Sports talk, Interview",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-08-28_EP033308670148_111412013123_2025-08-11T17:56:04Z_p28659814_e_h11_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-08-28_EP033308670148_111889970120_2025-08-11T17:56:04Z_p28659814_e_h11_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "In Depth With Graham Bensinger",
@@ -190,7 +212,7 @@
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Mixed martial arts, Martial arts",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-08-28_SH065812820000_111812554510_2026-08-22T01:07:45Z_p33805146_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-08-28_SH065812820000_111893823995_2026-08-22T01:07:45Z_p33805146_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "Quick Pitch",
