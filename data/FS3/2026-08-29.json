@@ -1,0 +1,31 @@
+{
+  "channel": "FS3",
+  "date": "2026-08-29",
+  "source": "kayo",
+  "fetchedAt": 1787707225713,
+  "fetchedAtIST": "26/8/2026, 6:50:25 am",
+  "events": [
+    {
+      "programTitle": "How Good is Golf",
+      "episodeTitle": "Keysborough Golf Club",
+      "description": "Paul Gow talks everything golf, taking people through the greatest game of all, showing them how to play, where to play and what equipment to use.",
+      "scheduledDate": 1787954400000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-08-28_SH047697570000_103716322117_2026-01-16T17:55:26Z_p24911210_i_h10_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Ladies Euro Tour Golf",
+      "episodeTitle": "KPMG Women's Irish Open, Second Round",
+      "description": "From The K Club in Ireland.",
+      "scheduledDate": 1787956200000,
+      "duration": 90,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-08-28_SH033826880000_105751152795_2025-02-19T19:54:01Z_p8177536_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    }
+  ]
+}
