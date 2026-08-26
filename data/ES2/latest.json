@@ -1,163 +1,185 @@
 {
   "channel": "ES2",
-  "date": "2026-08-26",
+  "date": "2026-08-27",
   "source": "kayo",
-  "fetchedAt": 1787762917950,
-  "fetchedAtIST": "26/8/2026, 10:18:37 pm",
+  "fetchedAt": 1787784520737,
+  "fetchedAtIST": "27/8/2026, 4:18:40 am",
   "events": [
     {
       "programTitle": "2026 Little League Baseball World Series",
-      "episodeTitle": "Alabama vs. Washington",
+      "episodeTitle": "Nevada vs. Iowa",
       "description": "From Howard J. Lamade Stadium in South Williamsport, Pa.",
-      "scheduledDate": 1787684400000,
+      "scheduledDate": 1787770800000,
       "duration": 120,
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Baseball",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-08-25_SH065665800000_111680854178_2026-07-16T17:07:05Z_p33388586_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-08-26_SH065665800000_111680854178_2026-07-16T17:07:05Z_p33388586_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "2026 Little League Baseball World Series",
-      "episodeTitle": "Canada vs. South Korea",
+      "episodeTitle": "Canada vs. Japan",
       "description": "From Volunteer Stadium in South Williamsport, Pa.",
-      "scheduledDate": 1787691600000,
+      "scheduledDate": 1787778000000,
       "duration": 120,
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Baseball",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-08-25_SH065665800000_111680854178_2026-07-16T17:07:05Z_p33388586_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-08-26_SH065665800000_111680854178_2026-07-16T17:07:05Z_p33388586_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "2026 Little League Baseball World Series",
-      "episodeTitle": "New Jersey vs. Ohio",
-      "description": "From Howard J. Lamade Stadium in South Williamsport, Pa.",
-      "scheduledDate": 1787698800000,
+      "episodeTitle": "Ohio vs. Alabama",
+      "description": "Howard J. Lamade Stadium",
+      "scheduledDate": 1787785200000,
       "duration": 120,
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Baseball",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-08-25_SH065665800000_111680854178_2026-07-16T17:07:05Z_p33388586_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-08-26_SH065665800000_111680854178_2026-07-16T17:07:05Z_p33388586_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "SportsCenter Special",
-      "episodeTitle": "Fantasy Football Draft",
-      "description": "Presenting the latest news, current affairs and game analysis from the world of sports, complete with exclusive interviews.",
-      "scheduledDate": 1787706000000,
-      "duration": 120,
+      "programTitle": "ESPN Films",
+      "episodeTitle": "",
+      "description": "The most amazing, moving and exciting stories in the world of sports.",
+      "scheduledDate": 1787792400000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Series",
+      "genre": "Documentary",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-08-27_SH053027020000_111704283145_2024-12-05T15:03:46Z_p8417669_i_h11_ag/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NFL Live",
+      "episodeTitle": "",
+      "description": "Wendi Nix and analysts break down the latest news in the NFL, offering views on players, coaches and management.",
+      "scheduledDate": 1787796000000,
+      "duration": 60,
       "parentalRating": "",
       "programType": "Sports non-event",
-      "genre": "News",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-08-26_SH033422010000_109441977906_2020-04-08T16:45:10Z_p915689_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "genre": "Football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-08-27_SH033280050000_111648105022_2022-08-27T02:25:47Z_p267723_i_h8_ae/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "SportsCenter",
       "episodeTitle": "",
       "description": "The team deliver the latest news, highlights, and inside information from the wide world of sports, as well as trending topics across social media platforms.",
-      "scheduledDate": 1787713200000,
+      "scheduledDate": 1787799600000,
       "duration": 60,
       "parentalRating": "",
       "programType": "Sports non-event",
       "genre": "News, Sports talk",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-08-26_SH033259060000_109832503473_2018-04-18T10:39:00Z_p186674_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-08-27_SH033259060000_109832503473_2018-04-18T10:39:00Z_p186674_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "SportsCenter",
+      "programTitle": "College Football Live",
       "episodeTitle": "",
-      "description": "The team deliver the latest news, highlights, and inside information from the wide world of sports, as well as trending topics across social media platforms.",
-      "scheduledDate": 1787716800000,
-      "duration": 60,
+      "description": "Breaking news, analysis, features, roundtable discussions, and interviews covering all the latest events from the world of college football.",
+      "scheduledDate": 1787803200000,
+      "duration": 30,
       "parentalRating": "",
       "programType": "Sports non-event",
-      "genre": "News, Sports talk",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-08-26_SH033259060000_109832503473_2018-04-18T10:39:00Z_p186674_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "genre": "Football, News",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-08-27_SH033651660000_110974424461_2017-12-12T23:22:00Z_p221266_i_h10_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NFL Blitz",
+      "episodeTitle": "Road to Melbourne",
+      "description": "All of the best action from the National Football League.",
+      "scheduledDate": 1787805000000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Football, News",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-08-27_SH060667300000_110937783149_2022-09-12T05:46:51Z_p22911383_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "2026 Little League Baseball World Series",
-      "episodeTitle": "Alabama vs. Washington",
+      "episodeTitle": "Nevada vs. Iowa",
       "description": "From Howard J. Lamade Stadium in South Williamsport, Pa.",
-      "scheduledDate": 1787720400000,
+      "scheduledDate": 1787806800000,
       "duration": 120,
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Baseball",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-08-26_SH065665800000_111680854178_2026-07-16T17:07:05Z_p33388586_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-08-27_SH065665800000_111680854178_2026-07-16T17:07:05Z_p33388586_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "2026 Little League Baseball World Series",
-      "episodeTitle": "Canada vs. South Korea",
+      "episodeTitle": "Canada vs. Japan",
       "description": "From Volunteer Stadium in South Williamsport, Pa.",
-      "scheduledDate": 1787727600000,
+      "scheduledDate": 1787814000000,
       "duration": 120,
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Baseball",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-08-26_SH065665800000_111680854178_2026-07-16T17:07:05Z_p33388586_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-08-27_SH065665800000_111680854178_2026-07-16T17:07:05Z_p33388586_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "2026 Little League Baseball World Series",
-      "episodeTitle": "New Jersey vs. Ohio",
-      "description": "From Howard J. Lamade Stadium in South Williamsport, Pa.",
-      "scheduledDate": 1787734800000,
+      "episodeTitle": "Ohio vs. Alabama",
+      "description": "Howard J. Lamade Stadium",
+      "scheduledDate": 1787821200000,
       "duration": 120,
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Baseball",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-08-26_SH065665800000_111680854178_2026-07-16T17:07:05Z_p33388586_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-08-27_SH065665800000_111680854178_2026-07-16T17:07:05Z_p33388586_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "MLB Baseball",
-      "episodeTitle": "New York Yankees vs Houston Astros",
-      "description": "From Yankee Stadium in the Bronx, N.Y.",
-      "scheduledDate": 1787742000000,
+      "episodeTitle": "Atlanta Braves vs Los Angeles Dodgers",
+      "description": "From Truist Park in Atlanta.",
+      "scheduledDate": 1787828400000,
       "duration": 120,
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Baseball",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-08-26_EP062580852435_111887871515_2026-06-27T19:22:08Z_GNLZZGG0037SQ9K/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-08-27_EP062580852458_111899198907_2026-06-27T19:28:29Z_GNLZZGG0037T7QF/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "Quick Pitch",
       "episodeTitle": "",
       "description": "All the latest baseball news, scores and highlights. Plus, a first look at upcoming matchups.",
-      "scheduledDate": 1787749200000,
+      "scheduledDate": 1787835600000,
       "duration": 60,
       "parentalRating": "",
       "programType": "Sports non-event",
       "genre": "Baseball",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-08-26_SH039225660000_107838083445_2020-08-03T13:50:35Z_p3527970_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-08-27_SH039225660000_107838083445_2020-08-03T13:50:35Z_p3527970_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "Quick Pitch",
       "episodeTitle": "",
       "description": "All the latest baseball news, scores and highlights. Plus, a first look at upcoming matchups.",
-      "scheduledDate": 1787752800000,
+      "scheduledDate": 1787839200000,
       "duration": 60,
       "parentalRating": "",
       "programType": "Sports non-event",
       "genre": "Baseball",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-08-26_SH039225660000_107838083445_2020-08-03T13:50:35Z_p3527970_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-08-27_SH039225660000_107838083445_2020-08-03T13:50:35Z_p3527970_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "Get Up",
       "episodeTitle": "",
       "description": "Mike Greenberg, Laura Rutledge and Jalen Rose discuss and analyse the latest news from the world of sports.",
-      "scheduledDate": 1787756400000,
+      "scheduledDate": 1787842800000,
       "duration": 120,
       "parentalRating": "",
       "programType": "Sports non-event",
       "genre": "Sports talk",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-08-26_SH033268270000_107093139583_2026-03-24T04:04:44Z_p15158780_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-08-27_SH033268270000_107093139583_2026-03-24T04:04:44Z_p15158780_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "2026 Little League Baseball World Series",
-      "episodeTitle": "Nicaragua vs. Curacao",
-      "description": "From Volunteer Stadium in South Williamsport, Pa.",
-      "scheduledDate": 1787763600000,
+      "programTitle": "First Take",
+      "episodeTitle": "",
+      "description": "Stephen A. Smith joins Molly Qerim Rose to debate the hottest topics in sports.",
+      "scheduledDate": 1787850000000,
       "duration": 120,
       "parentalRating": "",
-      "programType": "Sports event",
-      "genre": "Baseball",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-08-26_SH065665800000_111680854178_2026-07-16T17:07:05Z_p33388586_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "programType": "Sports non-event",
+      "genre": "Sports talk, News, Debate",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-08-27_SH033280060000_108193810385_2025-11-07T06:36:14Z_p186291_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     }
   ]
 }
