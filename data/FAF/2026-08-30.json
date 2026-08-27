@@ -2,23 +2,23 @@
   "channel": "FAF",
   "date": "2026-08-30",
   "source": "kayo",
-  "fetchedAt": 1787817513723,
-  "fetchedAtIST": "27/8/2026, 1:28:33 pm",
+  "fetchedAt": 1787857311077,
+  "fetchedAtIST": "28/8/2026, 12:31:51 am",
   "events": [
     {
       "programTitle": "AFL",
-      "episodeTitle": "",
-      "description": "Coverage of matches played as part of the premier men's Australian rules competition.",
+      "episodeTitle": "Western Bulldogs vs Collingwood",
+      "description": "From Melbourne Cricket Ground in Melbourne, Victoria, Australia.",
       "scheduledDate": 1788031500000,
       "duration": 145,
       "parentalRating": "",
       "programType": "Sports event",
-      "genre": "Australian rules football",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-08-29_SH029151670000_107565272526_2019-04-03T05:40:08Z_p3589784_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "genre": "Playoff sports, Australian rules football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-08-29_EP029151671444_111898418740_2026-08-23T22:40:49Z_GNLZZGG003J3L7R/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "AFLW Mini",
-      "episodeTitle": "",
+      "episodeTitle": "Sydney Swans v St Kilda Saints",
       "description": "Condensed highlights of some of the greatest encounters from the AFL Women's competition.",
       "scheduledDate": 1788040200000,
       "duration": 15,
@@ -29,14 +29,14 @@
     },
     {
       "programTitle": "AFL",
-      "episodeTitle": "",
-      "description": "Coverage of matches played as part of the premier men's Australian rules competition.",
+      "episodeTitle": "Melbourne vs Carlton",
+      "description": "From Melbourne Cricket Ground in Melbourne, Victoria, Australia.",
       "scheduledDate": 1788041100000,
       "duration": 150,
       "parentalRating": "",
       "programType": "Sports event",
-      "genre": "Australian rules football",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-08-29_SH029151670000_107565272526_2019-04-03T05:40:08Z_p3589784_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "genre": "Playoff sports, Australian rules football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-08-29_EP029151671445_111898418743_2026-08-23T22:41:10Z_GNLZZGG003J3LFB/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     }
   ]
 }

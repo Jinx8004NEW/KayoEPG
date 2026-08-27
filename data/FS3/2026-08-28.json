@@ -2,8 +2,8 @@
   "channel": "FS3",
   "date": "2026-08-28",
   "source": "kayo",
-  "fetchedAt": 1787817513713,
-  "fetchedAtIST": "27/8/2026, 1:28:33 pm",
+  "fetchedAt": 1787857311068,
+  "fetchedAtIST": "28/8/2026, 12:31:51 am",
   "events": [
     {
       "programTitle": "Getting a Round In",
@@ -17,15 +17,15 @@
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-08-27_SH048121120000_110998856207_2023-07-18T05:56:16Z_p25221374_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "DP World Tour Golf",
-      "episodeTitle": "Husqvarna British Masters, First Round",
-      "description": "From The Belfry in Sutton Coldfield, West Midlands, United Kingdom.",
+      "programTitle": "Ladies Euro Tour Golf",
+      "episodeTitle": "KPMG Women's Irish Open, First Round",
+      "description": "From The K Club in Ireland.",
       "scheduledDate": 1787869800000,
       "duration": 90,
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Golf",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-08-27_SH040914080000_111510780655_2022-04-26T15:48:27Z_p20993758_i_h8_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-08-27_SH033826880000_105751152795_2025-02-19T19:54:01Z_p8177536_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "2026 TOUR Championship",
@@ -160,15 +160,15 @@
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-08-28_SH065760920000_111899723574_2026-07-20T21:25:55Z_p33406701_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "PGA Tour Golf",
-      "episodeTitle": "",
-      "description": "Coverage of golf tournaments played around the world.",
+      "programTitle": "2026 TOUR Championship",
+      "episodeTitle": "Second Round",
+      "description": "From East Lake Golf Club in Atlanta.",
       "scheduledDate": 1787936400000,
       "duration": 300,
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Golf",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-08-28_SH030899370000_110982182699_2025-07-31T11:34:53Z_p845788_i_h8_af/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-08-28_SH065760920000_111899723574_2026-07-20T21:25:55Z_p33406701_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     }
   ]
 }

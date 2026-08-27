@@ -2,9 +2,42 @@
   "channel": "SP2",
   "date": "2026-08-30",
   "source": "kayo",
-  "fetchedAt": 1787817513707,
-  "fetchedAtIST": "27/8/2026, 1:28:33 pm",
+  "fetchedAt": 1787857311065,
+  "fetchedAtIST": "28/8/2026, 12:31:51 am",
   "events": [
+    {
+      "programTitle": "NRL Mini",
+      "episodeTitle": "North Queensland Cowboys v Wests Tigers",
+      "description": "A comprehensive summary of the match played is provided in an expedited timeframe.",
+      "scheduledDate": 1788028200000,
+      "duration": 25,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Rugby league, Rugby",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-08-29_SH035786430000_106552413658_2020-10-16T18:30:18Z_p18624350_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "English Super League Pre-Game",
+      "episodeTitle": "Round 25: Toulouse Olympique vs Bradford Bulls",
+      "description": "Experts discuss the line-ups, key tactics, and predictions before the Super League kick-off.",
+      "scheduledDate": 1788029700000,
+      "duration": 5,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Rugby league, Rugby",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-08-29_SH050627460000_104351472372_2024-03-13T11:13:41Z_p26943516_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Rugby Super League",
+      "episodeTitle": "Toulouse Olympique vs Bradford Bulls",
+      "description": "From Ernest-Wallon Stadium in Toulouse, Haute-Garonne, France.",
+      "scheduledDate": 1788030000000,
+      "duration": 115,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Rugby league, Rugby",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-08-29_EP028779350844_111945363588_2026-01-31T03:03:26Z_GNLZZGG002X1MTK/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
     {
       "programTitle": "Face-To-Face on Fox",
       "episodeTitle": "TeMaire Martin",

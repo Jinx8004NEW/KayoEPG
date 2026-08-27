@@ -1,34 +1,16 @@
 {
   "channel": "4KF",
-  "date": "2026-08-23",
+  "date": "2026-08-28",
   "source": "kayo-4k",
-  "fetchedAt": 1787502414973,
-  "fetchedAtIST": "23/8/2026, 9:56:54 pm",
+  "fetchedAt": 1787857321294,
+  "fetchedAtIST": "28/8/2026, 12:32:01 am",
   "events": [
     {
-      "eventId": "lr7xex4rdsye01ea89y68e783x",
-      "programTitle": "Essendon v Port Adelaide",
-      "scheduledDate": 1787451600000,
-      "duration": 173,
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/8axrxkuyiec64zdpkma7act2m_image-header_pRow_1786940940000/fill/none/top/none/80/1920/1080/webp/image?brand=kayo",
-      "competitionTitle": "AFL",
-      "sport": "Australian Rules Football"
-    },
-    {
-      "eventId": "1cy51ctzk1igk6vrlc83z06u50",
-      "programTitle": "Sydney v North Melbourne",
-      "scheduledDate": 1787462400000,
-      "duration": 227,
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/1d5xkbhfblggrkf0h1n9ippvy_image-header_pRow_1786940985000/fill/none/top/none/80/1920/1080/webp/image?brand=kayo",
-      "competitionTitle": "AFL",
-      "sport": "Australian Rules Football"
-    },
-    {
-      "eventId": "185xen6eve0vg1q23hauvpjth3",
-      "programTitle": "West Coast v Hawthorn",
-      "scheduledDate": 1787476800000,
-      "duration": 180,
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/8xgbbgkdsgzsz1fdrq0aj1kld_image-header_pRow_1786941032000/fill/none/top/none/80/1920/1080/webp/image?brand=kayo",
+      "eventId": "bi70f46wx9790titalof12mv90",
+      "programTitle": "Western Bulldogs v Collingwood",
+      "scheduledDate": 1787910000000,
+      "duration": 130,
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/dnypkmro2uwtq31z5jit84pk8_image-header_pRow_1787619397000/fill/none/top/none/80/1920/1080/webp/image?brand=kayo",
       "competitionTitle": "AFL",
       "sport": "Australian Rules Football"
     }

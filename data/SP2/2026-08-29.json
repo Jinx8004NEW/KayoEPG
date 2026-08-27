@@ -2,19 +2,30 @@
   "channel": "SP2",
   "date": "2026-08-29",
   "source": "kayo",
-  "fetchedAt": 1787817513707,
-  "fetchedAtIST": "27/8/2026, 1:28:33 pm",
+  "fetchedAt": 1787857311064,
+  "fetchedAtIST": "28/8/2026, 12:31:51 am",
   "events": [
     {
-      "programTitle": "Sport Special",
-      "episodeTitle": "",
-      "description": "Tune into the latest news and comprehensive analysis of different sporting events around the globe.",
+      "programTitle": "English Super League Pre-Game",
+      "episodeTitle": "Round 25: St Helens v Leeds Rhinos",
+      "description": "Experts discuss the line-ups, key tactics, and predictions before the Super League kick-off.",
       "scheduledDate": 1787941800000,
-      "duration": 170,
+      "duration": 30,
       "parentalRating": "",
       "programType": "Sports non-event",
-      "genre": "Other",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/Fallback_LTV_Fox_League/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "genre": "Rugby league, Rugby",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-08-28_SH050627460000_104351472372_2024-03-13T11:13:41Z_p26943516_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Rugby Super League",
+      "episodeTitle": "St Helens vs Leeds Rhinos",
+      "description": "From BrewDog Stadium in St. Helens, England.",
+      "scheduledDate": 1787943600000,
+      "duration": 140,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Rugby league, Rugby",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-08-28_EP028779350839_111946632451_2026-01-31T02:57:08Z_GNLZZGG002X1RR5/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "NRL Mini",
@@ -241,7 +252,18 @@
       "episodeTitle": "Gold Coast Titans v South Sydney Rabbitohs",
       "description": "A comprehensive summary of the match played is provided in an expedited timeframe.",
       "scheduledDate": 1788009900000,
-      "duration": 30,
+      "duration": 20,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Rugby league, Rugby",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-08-29_SH035786430000_106552413658_2020-10-16T18:30:18Z_p18624350_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NRL Mini",
+      "episodeTitle": "Sydney Roosters v Dolphins",
+      "description": "A comprehensive summary of the match played is provided in an expedited timeframe.",
+      "scheduledDate": 1788011100000,
+      "duration": 20,
       "parentalRating": "",
       "programType": "Sports non-event",
       "genre": "Rugby league, Rugby",
@@ -257,6 +279,83 @@
       "programType": "Sports non-event",
       "genre": "Other",
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/Fallback_LTV_Fox_League/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NRL Mini",
+      "episodeTitle": "North Queensland Cowboys v Wests Tigers",
+      "description": "A comprehensive summary of the match played is provided in an expedited timeframe.",
+      "scheduledDate": 1788012300000,
+      "duration": 20,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Rugby league, Rugby",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-08-29_SH035786430000_106552413658_2020-10-16T18:30:18Z_p18624350_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NRL Mini",
+      "episodeTitle": "Gold Coast Titans v South Sydney Rabbitohs",
+      "description": "A comprehensive summary of the match played is provided in an expedited timeframe.",
+      "scheduledDate": 1788013500000,
+      "duration": 20,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Rugby league, Rugby",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-08-29_SH035786430000_106552413658_2020-10-16T18:30:18Z_p18624350_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NRL",
+      "episodeTitle": "Gold Coast Titans vs South Sydney Rabbitohs",
+      "description": "From Cbus Super Stadium in Robina, Australia.",
+      "scheduledDate": 1788014700000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Rugby league, Rugby",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-08-29_EP031720961226_111812554556_2026-02-10T13:20:05Z_GNLZZGG002QFEW3/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NRL Mini",
+      "episodeTitle": "Sydney Roosters v Dolphins",
+      "description": "A comprehensive summary of the match played is provided in an expedited timeframe.",
+      "scheduledDate": 1788018300000,
+      "duration": 20,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Rugby league, Rugby",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-08-29_SH035786430000_106552413658_2020-10-16T18:30:18Z_p18624350_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NRL Mini",
+      "episodeTitle": "North Queensland Cowboys v Wests Tigers",
+      "description": "A comprehensive summary of the match played is provided in an expedited timeframe.",
+      "scheduledDate": 1788019500000,
+      "duration": 20,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Rugby league, Rugby",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-08-29_SH035786430000_106552413658_2020-10-16T18:30:18Z_p18624350_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "English Super League Pre-Game",
+      "episodeTitle": "Round 25: Hull FC v Warrington Wolves",
+      "description": "Experts discuss the line-ups, key tactics, and predictions before the Super League kick-off.",
+      "scheduledDate": 1788020700000,
+      "duration": 5,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Rugby league, Rugby",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-08-29_SH050627460000_104351472372_2024-03-13T11:13:41Z_p26943516_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Rugby Super League",
+      "episodeTitle": "Hull FC vs Warrington Wolves",
+      "description": "From MKM Stadium in Hull, England, United Kingdom.",
+      "scheduledDate": 1788021000000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Rugby league, Rugby",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-08-29_EP028779350843_111945363587_2026-06-23T22:26:52Z_GNLZZGG00377MRR/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     }
   ]
 }

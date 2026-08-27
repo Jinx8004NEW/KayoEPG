@@ -2,19 +2,30 @@
   "channel": "FSS",
   "date": "2026-08-29",
   "source": "kayo",
-  "fetchedAt": 1787817513747,
-  "fetchedAtIST": "27/8/2026, 1:28:33 pm",
+  "fetchedAt": 1787857311091,
+  "fetchedAtIST": "28/8/2026, 12:31:51 am",
   "events": [
     {
       "programTitle": "World Surf League",
       "episodeTitle": "Championship Tour: Fiji Pro, Day 5",
       "description": "Coverage of surfing action from the WSL.",
       "scheduledDate": 1787943600000,
-      "duration": 480,
+      "duration": 300,
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Surfing",
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-08-28_SH033247700000_110929981531_2019-03-19T05:40:29Z_p16589355_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "World Surf League",
+      "episodeTitle": "Championship Tour: Fiji Pro, Day 5",
+      "description": "Coverage of surfing action from the WSL.",
+      "scheduledDate": 1787961600000,
+      "duration": 240,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Surfing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-08-29_SH033247700000_110929981531_2019-03-19T05:40:29Z_p16589355_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "World Surf League",
@@ -65,11 +76,22 @@
       "episodeTitle": "Day 6, Session 1",
       "description": "",
       "scheduledDate": 1787990400000,
-      "duration": 195,
+      "duration": 185,
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Rowing",
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-08-29_SH065782100000_111894908968_2026-08-17T17:56:28Z_p33830433_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "SailGP Highlights",
+      "episodeTitle": "Sassnitz",
+      "description": "Features all the best sailing highlights from competitions across the globe.",
+      "scheduledDate": 1788001500000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Sailing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-08-29_SH039043160000_111084518815_2022-11-22T06:36:35Z_p17178369_i_h10_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "SailGP Highlights",
@@ -86,12 +108,34 @@
       "programTitle": "Inside Sailing",
       "episodeTitle": "",
       "description": "All the latest news and features from some of the greatest sailing locations around the world; from windsurfing to yachting, this series brings you all the secrets to success.",
+      "scheduledDate": 1788005100000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Sailing, Yacht racing, Bus./financial",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-08-29_SH034433060000_111287577459_2025-05-15T06:46:25Z_p9550538_i_h11_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Inside Sailing",
+      "episodeTitle": "",
+      "description": "All the latest news and features from some of the greatest sailing locations around the world; from windsurfing to yachting, this series brings you all the secrets to success.",
       "scheduledDate": 1788005700000,
       "duration": 30,
       "parentalRating": "",
       "programType": "Sports non-event",
       "genre": "Sailing, Yacht racing, Bus./financial",
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-08-29_SH034433060000_111287577459_2025-05-15T06:46:25Z_p9550538_i_h11_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "The Hundred",
+      "episodeTitle": "Men's Final: Trent Rockets v Manchester Super Giants",
+      "description": "The Hundred is a professional franchise 100-ball cricket tournament.",
+      "scheduledDate": 1788006900000,
+      "duration": 25,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Cricket",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-08-29_SH044046720000_111401703581_2021-07-26T13:37:10Z_p20330611_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "Sport Special",
@@ -103,6 +147,17 @@
       "programType": "Sports non-event",
       "genre": "Other",
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/Fallback_LTV_Fox_Sports_507/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "World Rowing Championships 2026",
+      "episodeTitle": "Day 6, Session 2",
+      "description": "",
+      "scheduledDate": 1788008400000,
+      "duration": 85,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Rowing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-08-29_SH065782100000_111894908968_2026-08-17T17:56:28Z_p33830433_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "World Rowing Championships 2026",
@@ -121,6 +176,17 @@
       "description": "Highlights of the world's most iconic Formula 1 Grands Prix, featuring every podium and overtake.",
       "scheduledDate": 1788012900000,
       "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Motorsports, Classic sport event",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-08-29_SH036452570000_107032703571_2020-11-19T03:00:48Z_p18944992_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "F1 Mini",
+      "episodeTitle": "Netherlands Grand Prix",
+      "description": "Highlights of the world's most iconic Formula 1 Grands Prix, featuring every podium and overtake.",
+      "scheduledDate": 1788013500000,
+      "duration": 35,
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Motorsports, Classic sport event",

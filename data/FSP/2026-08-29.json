@@ -2,23 +2,23 @@
   "channel": "FSP",
   "date": "2026-08-29",
   "source": "kayo",
-  "fetchedAt": 1787817513731,
-  "fetchedAtIST": "27/8/2026, 1:28:33 pm",
+  "fetchedAt": 1787857311080,
+  "fetchedAtIST": "28/8/2026, 12:31:51 am",
   "events": [
     {
-      "programTitle": "Supercars Mini",
-      "episodeTitle": "Century Batteries Ipswich Super 440: Race 28",
-      "description": "Australia's premier touring car racing competition, known for high-powered V8 machines and intense, close-quarters racing.",
+      "programTitle": "Sport Special",
+      "episodeTitle": "",
+      "description": "Tune into the latest news and comprehensive analysis of different sporting events around the globe.",
       "scheduledDate": 1787941800000,
       "duration": 25,
       "parentalRating": "",
-      "programType": "Sports event",
-      "genre": "Classic sport event, Auto racing",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-08-28_SH035786470000_105377021933_2020-08-20T08:30:31Z_p18624449_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "programType": "Sports non-event",
+      "genre": "Other",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/Fallback_LTV_Fox_Sports_505/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "English Super League Pre-Game",
-      "episodeTitle": "Round 25: Caslteford Tigers v Catalans Dragons",
+      "episodeTitle": "",
       "description": "Experts discuss the line-ups, key tactics, and predictions before the Super League kick-off.",
       "scheduledDate": 1787943300000,
       "duration": 5,
@@ -29,14 +29,14 @@
     },
     {
       "programTitle": "Rugby Super League",
-      "episodeTitle": "Castleford Tigers vs Catalans Dragons",
-      "description": "From The OneBore Stadium in Castleford, England, United Kingdom.",
+      "episodeTitle": "",
+      "description": "Comprehensive coverage of all the action from the matches played as part of the Rugby Super League.",
       "scheduledDate": 1787943600000,
       "duration": 120,
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Rugby league, Rugby",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-08-28_EP028779350840_111812554501_2026-01-31T03:03:15Z_GNLZZGG002X1MSH/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-08-28_SH028779350000_104684093072_2025-09-18T16:24:57Z_p8037667_i_h8_ad/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "SailGP",
@@ -72,15 +72,15 @@
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-08-29_SH031583890000_109900390814_2025-12-31T05:35:12Z_p767017_i_h8_af/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "PGA Tour Golf",
-      "episodeTitle": "",
-      "description": "Coverage of golf tournaments played around the world.",
+      "programTitle": "2026 TOUR Championship",
+      "episodeTitle": "Second Round",
+      "description": "From East Lake Golf Club in Atlanta.",
       "scheduledDate": 1787967000000,
       "duration": 90,
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Golf",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-08-29_SH030899370000_110982182699_2025-07-31T11:34:53Z_p845788_i_h8_af/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-08-29_SH065760920000_111899723574_2026-07-20T21:25:55Z_p33406701_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "DP World Tour Golf",
@@ -193,15 +193,15 @@
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-08-29_SH062934750000_111812088477_2026-08-05T10:46:39Z_p32273555_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "PGA Tour Golf",
-      "episodeTitle": "",
-      "description": "Coverage of golf tournaments played around the world.",
+      "programTitle": "2026 TOUR Championship",
+      "episodeTitle": "Second Round",
+      "description": "From East Lake Golf Club in Atlanta.",
       "scheduledDate": 1788001200000,
       "duration": 90,
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Golf",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-08-29_SH030899370000_110982182699_2025-07-31T11:34:53Z_p845788_i_h8_af/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-08-29_SH065760920000_111899723574_2026-07-20T21:25:55Z_p33406701_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "LPGA Tour Golf",
