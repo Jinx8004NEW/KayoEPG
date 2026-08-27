@@ -2,19 +2,41 @@
   "channel": "ES2",
   "date": "2026-08-28",
   "source": "kayo",
-  "fetchedAt": 1787784520737,
-  "fetchedAtIST": "27/8/2026, 4:18:40 am",
+  "fetchedAt": 1787817513758,
+  "fetchedAtIST": "27/8/2026, 1:28:33 pm",
   "events": [
     {
-      "programTitle": "2026 Little League Baseball World Series",
-      "episodeTitle": "",
-      "description": "",
+      "programTitle": "NFL Blitz",
+      "episodeTitle": "Road to Melbourne",
+      "description": "All of the best action from the National Football League.",
       "scheduledDate": 1787857200000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Football, News",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-08-27_SH060667300000_110937783149_2022-09-12T05:46:51Z_p22911383_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "College Football Live",
+      "episodeTitle": "",
+      "description": "Breaking news, analysis, features, roundtable discussions, and interviews covering all the latest events from the world of college football.",
+      "scheduledDate": 1787859000000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Football, News",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-08-27_SH033651660000_110974424461_2017-12-12T23:22:00Z_p221266_i_h10_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "30 for 30",
+      "episodeTitle": "Bullies of Baltimore",
+      "description": "The players of the 2000 Baltimore Ravens come together to reflect on their legendary year of winning the Super Bowl.",
+      "scheduledDate": 1787860800000,
       "duration": 120,
       "parentalRating": "",
-      "programType": "Sports event",
-      "genre": "Baseball",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-08-27_SH065665800000_111680854178_2026-07-16T17:07:05Z_p33388586_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "programType": "Sports non-event",
+      "genre": "Documentary",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-08-27_EP023926430127_111450974084_2023-01-20T18:06:02Z_p23890645_b_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "The Pat McAfee Show",
@@ -26,6 +48,17 @@
       "programType": "Series",
       "genre": "Sports talk",
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-08-27_SH048483860000_111648065422_2020-09-10T14:31:07Z_p18762527_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "30 for 30",
+      "episodeTitle": "The Philly Special",
+      "description": "Players, coaches and fans explore the play that gives the Philadelphia Eagles their first Super Bowl victory over the New England Patriots.",
+      "scheduledDate": 1787868000000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Documentary",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-08-27_SH023926430000_111349127290_2025-07-16T16:24:28Z_p7817579_i_h8_ae/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "College Football Live",

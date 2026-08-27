@@ -1,0 +1,31 @@
+{
+  "channel": "SPS",
+  "date": "2026-08-30",
+  "source": "kayo",
+  "fetchedAt": 1787817513740,
+  "fetchedAtIST": "27/8/2026, 1:28:33 pm",
+  "events": [
+    {
+      "programTitle": "LPGA Tour Golf",
+      "episodeTitle": "FM Championship, Third Round",
+      "description": "From TPC Boston in Norton, Mass.",
+      "scheduledDate": 1788030000000,
+      "duration": 240,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-08-29_EP031583890593_111807072568_2025-08-06T15:44:26Z_p28887974_b_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NASCAR Cup Series",
+      "episodeTitle": "Coke Zero Sugar 400",
+      "description": "From Daytona International Speedway in Daytona Beach, Fla.",
+      "scheduledDate": 1788044400000,
+      "duration": 240,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Auto racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-08-29_EP035183560214_111906475262_2026-08-26T19:55:20Z_p32224220_b_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    }
+  ]
+}

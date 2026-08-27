@@ -1,0 +1,42 @@
+{
+  "channel": "FAF",
+  "date": "2026-08-30",
+  "source": "kayo",
+  "fetchedAt": 1787817513723,
+  "fetchedAtIST": "27/8/2026, 1:28:33 pm",
+  "events": [
+    {
+      "programTitle": "AFL",
+      "episodeTitle": "",
+      "description": "Coverage of matches played as part of the premier men's Australian rules competition.",
+      "scheduledDate": 1788031500000,
+      "duration": 145,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Australian rules football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-08-29_SH029151670000_107565272526_2019-04-03T05:40:08Z_p3589784_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "AFLW Mini",
+      "episodeTitle": "",
+      "description": "Condensed highlights of some of the greatest encounters from the AFL Women's competition.",
+      "scheduledDate": 1788040200000,
+      "duration": 15,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Australian rules football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-08-29_SH038251630000_111269523232_2025-10-16T04:55:13Z_p19768743_b_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "AFL",
+      "episodeTitle": "",
+      "description": "Coverage of matches played as part of the premier men's Australian rules competition.",
+      "scheduledDate": 1788041100000,
+      "duration": 150,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Australian rules football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-08-29_SH029151670000_107565272526_2019-04-03T05:40:08Z_p3589784_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    }
+  ]
+}

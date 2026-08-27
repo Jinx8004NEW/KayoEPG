@@ -1,0 +1,42 @@
+{
+  "channel": "ESP",
+  "date": "2026-08-30",
+  "source": "kayo",
+  "fetchedAt": 1787817513754,
+  "fetchedAtIST": "27/8/2026, 1:28:33 pm",
+  "events": [
+    {
+      "programTitle": "College Football Scoreboard",
+      "episodeTitle": "",
+      "description": "Highlights and up to the minute scores during the college football season, with a look at the major storylines in the competition.",
+      "scheduledDate": 1788030000000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-08-29_SH033268260000_111892182986_2019-12-21T18:40:07Z_p629287_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "College Football",
+      "episodeTitle": "Virginia vs NC State",
+      "description": "From Scott Stadium in Charlottesville, Va.",
+      "scheduledDate": 1788031800000,
+      "duration": 90,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-08-29_EP064738030053_111894384418_2026-06-18T19:31:44Z_GNLZZGG0036SYDS/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "To Be Announced",
+      "episodeTitle": "",
+      "description": "The programming for this time slot has yet to be determined and is being confirmed by the broadcast channel.",
+      "scheduledDate": 1788037200000,
+      "duration": 240,
+      "parentalRating": "",
+      "programType": "TBA",
+      "genre": "Special, Entertainment",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-08-29_SH027575020000_108569306599_2021-11-15T14:36:19Z_p514472_b_h8_dp/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    }
+  ]
+}

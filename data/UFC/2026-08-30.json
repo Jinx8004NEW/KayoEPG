@@ -1,0 +1,20 @@
+{
+  "channel": "UFC",
+  "date": "2026-08-30",
+  "source": "kayo",
+  "fetchedAt": 1787817513764,
+  "fetchedAtIST": "27/8/2026, 1:28:33 pm",
+  "events": [
+    {
+      "programTitle": "SIGN OFF",
+      "episodeTitle": "",
+      "description": "Sign off.",
+      "scheduledDate": 1788033600000,
+      "duration": 240,
+      "parentalRating": "",
+      "programType": "Off Air",
+      "genre": "Special",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/164400_2026-08-29_SH039324980000_111690195481_2026-08-21T14:58:20Z_p480440_i_h8_ad/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    }
+  ]
+}
