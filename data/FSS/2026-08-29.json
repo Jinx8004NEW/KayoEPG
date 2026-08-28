@@ -2,8 +2,8 @@
   "channel": "FSS",
   "date": "2026-08-29",
   "source": "kayo",
-  "fetchedAt": 1787889885199,
-  "fetchedAtIST": "28/8/2026, 9:34:45 am",
+  "fetchedAt": 1787946985626,
+  "fetchedAtIST": "29/8/2026, 1:26:25 am",
   "events": [
     {
       "programTitle": "World Surf League",
@@ -17,15 +17,92 @@
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-08-28_SH033247700000_110929981531_2019-03-19T05:40:29Z_p16589355_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "World Surf League",
-      "episodeTitle": "Championship Tour: Fiji Pro, Day 5",
-      "description": "Coverage of surfing action from the WSL.",
+      "programTitle": "World Surf League Highlights",
+      "episodeTitle": "Margaret River Pro",
+      "description": "Action from the World Surf League.",
+      "scheduledDate": 1787946600000,
+      "duration": 50,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Surfing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-08-28_SH037137820000_107844260793_2023-03-28T14:37:31Z_p12753420_i_h8_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "World Surf League Highlights",
+      "episodeTitle": "2026 Bonsoy Gold Coast Pro",
+      "description": "Action from the World Surf League.",
+      "scheduledDate": 1787949600000,
+      "duration": 50,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Surfing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-08-28_SH037137820000_107844260793_2023-03-28T14:37:31Z_p12753420_i_h8_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "World Surf League Highlights",
+      "episodeTitle": "Corona Cero New Zealand Pro",
+      "description": "Action from the World Surf League.",
+      "scheduledDate": 1787952600000,
+      "duration": 50,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Surfing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-08-28_SH037137820000_107844260793_2023-03-28T14:37:31Z_p12753420_i_h8_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "World Surf League Highlights",
+      "episodeTitle": "Surf City El Salvador Pro",
+      "description": "Action from the World Surf League.",
+      "scheduledDate": 1787955600000,
+      "duration": 50,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Surfing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-08-28_SH037137820000_107844260793_2023-03-28T14:37:31Z_p12753420_i_h8_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "World Surf League Highlights",
+      "episodeTitle": "Vivo Rio Pro Championshio Tour",
+      "description": "Action from the World Surf League.",
+      "scheduledDate": 1787958600000,
+      "duration": 50,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Surfing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-08-28_SH037137820000_107844260793_2023-03-28T14:37:31Z_p12753420_i_h8_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "World Surf League Highlights",
+      "episodeTitle": "Outerknown Tahiti Pro",
+      "description": "Action from the World Surf League.",
       "scheduledDate": 1787961600000,
-      "duration": 240,
+      "duration": 50,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Surfing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-08-29_SH037137820000_107844260793_2023-03-28T14:37:31Z_p12753420_i_h8_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "In Pieces Together",
+      "episodeTitle": "",
+      "description": "Follows world record-holding surfer Blake Johnston's journey of transforming personal tragedy into meaningful action, examining how suicide impacts communities and how genuine relationships, bravery, and open dialogue can inspire transformation.",
+      "scheduledDate": 1787964600000,
+      "duration": 70,
+      "parentalRating": "M",
+      "programType": "Feature Film",
+      "genre": "Documentary",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-08-29_MV028121960000_111988240488_2026-05-13T05:35:40Z_p32978814_i_h10_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Formula 1",
+      "episodeTitle": "Dutch Grand Prix",
+      "description": "From Circuit Zandvoort in Zandvoort, North Holland, Netherlands.",
+      "scheduledDate": 1787968800000,
+      "duration": 120,
       "parentalRating": "",
       "programType": "Sports event",
-      "genre": "Surfing",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-08-29_SH033247700000_110929981531_2019-03-19T05:40:29Z_p16589355_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "genre": "Auto racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-08-29_EP027326820855_111670562089_2026-07-30T22:25:34Z_p32387586_b_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "World Surf League",

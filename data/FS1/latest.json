@@ -1,125 +1,48 @@
 {
   "channel": "FS1",
-  "date": "2026-08-28",
+  "date": "2026-08-29",
   "source": "kayo",
-  "fetchedAt": 1787889885155,
-  "fetchedAtIST": "28/8/2026, 9:34:45 am",
+  "fetchedAt": 1787946985554,
+  "fetchedAtIST": "29/8/2026, 1:26:25 am",
   "events": [
     {
-      "programTitle": "Men's Ashes",
-      "episodeTitle": "2006/07 3rd Test, Review",
-      "description": "Led by Ricky Ponting, the series was charged with raw emotion as icons Shane Warne and Glenn McGrath took to the field for one final, legendary campaign.",
-      "scheduledDate": 1787857500000,
-      "duration": 30,
+      "programTitle": "Test Day",
+      "episodeTitle": "Australia v Bangladesh, 1st Test Review",
+      "description": "A look at some of the highlights from the recent test match play, with an analysis of some of the best moments.",
+      "scheduledDate": 1787942100000,
+      "duration": 60,
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Classic sport event, Cricket",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-08-27_SH047728050000_100718435032_2019-07-11T07:40:24Z_p10335812_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-08-28_SH031158690000_100796229602_2024-01-19T05:13:15Z_p16331760_i_h10_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "Test Day",
       "episodeTitle": "Australia v Bangladesh, 2nd Test Review",
       "description": "A look at some of the highlights from the recent test match play, with an analysis of some of the best moments.",
-      "scheduledDate": 1787859300000,
+      "scheduledDate": 1787945700000,
       "duration": 60,
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Classic sport event, Cricket",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-08-27_SH031158690000_100796229602_2024-01-19T05:13:15Z_p16331760_i_h10_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
-    {
-      "programTitle": "Fox Mini Classics",
-      "episodeTitle": "2019/20 Australia v New Zealand, 1st Test",
-      "description": "Highlights and mini matches from cricket matches around Australia and the rest of the world.",
-      "scheduledDate": 1787862900000,
-      "duration": 60,
-      "parentalRating": "",
-      "programType": "Sports event",
-      "genre": "Classic sport event, Cricket",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-08-27_SH035785770000_107989498592_2020-08-11T06:00:22Z_p18623917_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-08-28_SH031158690000_100796229602_2024-01-19T05:13:15Z_p16331760_i_h10_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "Test Day",
-      "episodeTitle": "Australia v Bangladesh, 2nd Test Review",
+      "episodeTitle": "Australia vs Bangladesh, 2nd Test Day 1",
       "description": "A look at some of the highlights from the recent test match play, with an analysis of some of the best moments.",
-      "scheduledDate": 1787866500000,
+      "scheduledDate": 1787949300000,
       "duration": 60,
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Classic sport event, Cricket",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-08-27_SH031158690000_100796229602_2024-01-19T05:13:15Z_p16331760_i_h10_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
-    {
-      "programTitle": "Test Cricket",
-      "episodeTitle": "2nd Test, Day 2: Australia vs Bangladesh",
-      "description": "Coverage and highlights from international test cricket matches.",
-      "scheduledDate": 1787870100000,
-      "duration": 20,
-      "parentalRating": "",
-      "programType": "Sports event",
-      "genre": "Cricket, Classic sport event",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-08-27_SH033446590000_98978823590_2023-09-29T14:53:53Z_p8163404_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
-    {
-      "programTitle": "CPL T20 Cricket",
-      "episodeTitle": "St. Kitts & Nevis Patriots vs Jamaica Kingsmen",
-      "description": "From Warner Park in Basseterre, Saint George Basseterre, Saint Kitts and Nevis.",
-      "scheduledDate": 1787871300000,
-      "duration": 245,
-      "parentalRating": "",
-      "programType": "Sports event",
-      "genre": "Cricket",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-08-27_EP033351860193_111767524731_2026-08-23T16:42:39Z_GNLZZGG003J1ZF3/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
-    {
-      "programTitle": "Test Cricket",
-      "episodeTitle": "England vs Pakistan",
-      "description": "From Lord's Cricket Ground in London, United Kingdom.",
-      "scheduledDate": 1787886000000,
-      "duration": 60,
-      "parentalRating": "",
-      "programType": "Sports event",
-      "genre": "Cricket",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-08-28_EP029804991784_111855328497_2026-08-20T12:10:34Z_GNLZZGG003H7LVW/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
-    {
-      "programTitle": "Test Cricket",
-      "episodeTitle": "2nd Test, Day 1: England v Pakistan",
-      "description": "Coverage and highlights from international test cricket matches.",
-      "scheduledDate": 1787889600000,
-      "duration": 20,
-      "parentalRating": "",
-      "programType": "Sports event",
-      "genre": "Cricket, Classic sport event",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-08-28_SH033446590000_98978823590_2023-09-29T14:53:53Z_p8163404_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
-    {
-      "programTitle": "Test Cricket",
-      "episodeTitle": "2nd Test, Day 5: Sri Lanka v India",
-      "description": "Coverage and highlights from international test cricket matches.",
-      "scheduledDate": 1787890800000,
-      "duration": 20,
-      "parentalRating": "",
-      "programType": "Sports event",
-      "genre": "Cricket, Classic sport event",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-08-28_SH033446590000_98978823590_2023-09-29T14:53:53Z_p8163404_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
-    {
-      "programTitle": "Test Cricket",
-      "episodeTitle": "England vs Pakistan",
-      "description": "From Lord's Cricket Ground in London, United Kingdom.",
-      "scheduledDate": 1787892000000,
-      "duration": 60,
-      "parentalRating": "",
-      "programType": "Sports event",
-      "genre": "Cricket",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-08-28_EP029804991784_111855328497_2026-08-20T12:10:34Z_GNLZZGG003H7LVW/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-08-28_SH031158690000_100796229602_2024-01-19T05:13:15Z_p16331760_i_h10_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "Test Day",
-      "episodeTitle": "Australia v Bangladesh, 2nd Test Review",
+      "episodeTitle": "Australia vs Bangladesh, 2nd Test Day 2",
       "description": "A look at some of the highlights from the recent test match play, with an analysis of some of the best moments.",
-      "scheduledDate": 1787895600000,
+      "scheduledDate": 1787952900000,
       "duration": 60,
       "parentalRating": "",
       "programType": "Sports event",
@@ -128,9 +51,9 @@
     },
     {
       "programTitle": "Test Cricket",
-      "episodeTitle": "2nd Test, Day 1: England v Pakistan",
+      "episodeTitle": "2nd Test, Day 5: Sri Lanka v India",
       "description": "Coverage and highlights from international test cricket matches.",
-      "scheduledDate": 1787899200000,
+      "scheduledDate": 1787956500000,
       "duration": 20,
       "parentalRating": "",
       "programType": "Sports event",
@@ -138,136 +61,235 @@
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-08-28_SH033446590000_98978823590_2023-09-29T14:53:53Z_p8163404_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
+      "programTitle": "Test Day",
+      "episodeTitle": "Australia v Bangladesh, 2nd Test Review",
+      "description": "A look at some of the highlights from the recent test match play, with an analysis of some of the best moments.",
+      "scheduledDate": 1787957700000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Classic sport event, Cricket",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-08-28_SH031158690000_100796229602_2024-01-19T05:13:15Z_p16331760_i_h10_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
       "programTitle": "CPL T20 Cricket",
-      "episodeTitle": "St. Kitts & Nevis Patriots vs Jamaica Kingsmen",
-      "description": "From Warner Park in Basseterre, Saint George Basseterre, Saint Kitts and Nevis.",
-      "scheduledDate": 1787900400000,
+      "episodeTitle": "Trinbago Knight Riders vs Barbados Tridents",
+      "description": "From Queen's Park Oval in Port-of-Spain, Port of Spain, Trinidad and Tobago.",
+      "scheduledDate": 1787961300000,
+      "duration": 245,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Cricket",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-08-28_EP033351860194_111807072554_2026-08-23T16:43:08Z_GNLZZGG003J1ZJ8/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Test Cricket",
+      "episodeTitle": "England vs Pakistan",
+      "description": "From Lord's Cricket Ground in London, United Kingdom.",
+      "scheduledDate": 1787972400000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Cricket",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-08-29_EP029804991785_111894533781_2026-08-20T12:21:08Z_GNLZZGG003H856G/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Test Cricket",
+      "episodeTitle": "England vs Pakistan",
+      "description": "From Lord's Cricket Ground in London, United Kingdom.",
+      "scheduledDate": 1787976000000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Cricket",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-08-29_EP029804991785_111975059830_2026-08-20T12:21:08Z_GNLZZGG003H856G/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Test Cricket",
+      "episodeTitle": "2nd Test, Day 2: Australia vs Bangladesh",
+      "description": "Coverage and highlights from international test cricket matches.",
+      "scheduledDate": 1787977200000,
+      "duration": 20,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Cricket, Classic sport event",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-08-29_SH033446590000_98978823590_2023-09-29T14:53:53Z_p8163404_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Test Cricket",
+      "episodeTitle": "England vs Pakistan",
+      "description": "From Lord's Cricket Ground in London, United Kingdom.",
+      "scheduledDate": 1787978400000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Cricket",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-08-29_EP029804991785_111894533781_2026-08-20T12:21:08Z_GNLZZGG003H856G/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Test Cricket",
+      "episodeTitle": "2nd Test, Day 2: England v Pakistan",
+      "description": "Coverage and highlights from international test cricket matches.",
+      "scheduledDate": 1787979600000,
+      "duration": 20,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Cricket, Classic sport event",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-08-29_SH033446590000_98978823590_2023-09-29T14:53:53Z_p8163404_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Test Cricket",
+      "episodeTitle": "2nd Test, Day 2: Australia vs Bangladesh",
+      "description": "Coverage and highlights from international test cricket matches.",
+      "scheduledDate": 1787980800000,
+      "duration": 20,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Cricket, Classic sport event",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-08-29_SH033446590000_98978823590_2023-09-29T14:53:53Z_p8163404_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Test Cricket",
+      "episodeTitle": "2nd Test, Day 2: England v Pakistan",
+      "description": "Coverage and highlights from international test cricket matches.",
+      "scheduledDate": 1787982000000,
+      "duration": 20,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Cricket, Classic sport event",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-08-29_SH033446590000_98978823590_2023-09-29T14:53:53Z_p8163404_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Test Day",
+      "episodeTitle": "Australia v Bangladesh, 2nd Test Review",
+      "description": "A look at some of the highlights from the recent test match play, with an analysis of some of the best moments.",
+      "scheduledDate": 1787983200000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Classic sport event, Cricket",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-08-29_SH031158690000_100796229602_2024-01-19T05:13:15Z_p16331760_i_h10_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "CPL T20 Cricket",
+      "episodeTitle": "Trinbago Knight Riders vs Barbados Tridents",
+      "description": "From Queen's Park Oval in Port-of-Spain, Port of Spain, Trinidad and Tobago.",
+      "scheduledDate": 1787986800000,
       "duration": 35,
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Cricket",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-08-28_EP033351860193_111767524731_2026-08-23T16:42:39Z_GNLZZGG003J1ZF3/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-08-29_EP033351860194_111807072554_2026-08-23T16:43:08Z_GNLZZGG003J1ZJ8/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "Test Cricket",
       "episodeTitle": "2nd Test, Day 5: Sri Lanka v India",
       "description": "Coverage and highlights from international test cricket matches.",
-      "scheduledDate": 1787902500000,
+      "scheduledDate": 1787988900000,
       "duration": 20,
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Cricket, Classic sport event",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-08-28_SH033446590000_98978823590_2023-09-29T14:53:53Z_p8163404_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-08-29_SH033446590000_98978823590_2023-09-29T14:53:53Z_p8163404_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "Test Cricket",
       "episodeTitle": "England vs Pakistan",
       "description": "From Lord's Cricket Ground in London, United Kingdom.",
-      "scheduledDate": 1787903700000,
+      "scheduledDate": 1787990100000,
       "duration": 60,
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Cricket",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-08-28_EP029804991784_111855328497_2026-08-20T12:10:34Z_GNLZZGG003H7LVW/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-08-29_EP029804991785_111975059830_2026-08-20T12:21:08Z_GNLZZGG003H856G/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "Test Cricket",
-      "episodeTitle": "2nd Test, Day 1: England v Pakistan",
+      "episodeTitle": "2nd Test, Day 2: England v Pakistan",
       "description": "Coverage and highlights from international test cricket matches.",
-      "scheduledDate": 1787907300000,
+      "scheduledDate": 1787993700000,
       "duration": 20,
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Cricket, Classic sport event",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-08-28_SH033446590000_98978823590_2023-09-29T14:53:53Z_p8163404_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-08-29_SH033446590000_98978823590_2023-09-29T14:53:53Z_p8163404_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "Fox Cricket Pre Game",
       "episodeTitle": "England v Pakistan: 1st Test Day 1",
       "description": "The team present an extensive preview of all the action to come with the latest news, the best analysis, entertainment and interviews.",
-      "scheduledDate": 1787908500000,
+      "scheduledDate": 1787994900000,
       "duration": 45,
       "parentalRating": "",
       "programType": "Sports non-event",
       "genre": "Cricket",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-08-28_SH035786310000_111887034140_2025-11-20T06:27:30Z_p18624259_i_h10_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-08-29_SH035786310000_111887034140_2025-11-20T06:27:30Z_p18624259_i_h10_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "Test Cricket",
       "episodeTitle": "England vs Pakistan",
       "description": "From Lord's Cricket Ground in London, United Kingdom.",
-      "scheduledDate": 1787911200000,
+      "scheduledDate": 1787997600000,
       "duration": 120,
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Cricket",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-08-28_EP029804991785_111894533781_2026-08-20T12:21:08Z_GNLZZGG003H856G/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-08-29_EP029804991786_111814865430_2026-08-20T12:16:10Z_GNLZZGG003H814N/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "Lunch Break",
       "episodeTitle": "1st Test Day 1: England v Pakistan",
       "description": "We bring you exclusive interviews, team strategies, highlights and much more.",
-      "scheduledDate": 1787918400000,
+      "scheduledDate": 1788004800000,
       "duration": 40,
       "parentalRating": "",
       "programType": "Sports non-event",
       "genre": "Cricket",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-08-28_SH038874750000_109715760419_2021-06-07T03:56:56Z_p19398392_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-08-29_SH038874750000_109715760419_2021-06-07T03:56:56Z_p19398392_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "Test Cricket",
       "episodeTitle": "England vs Pakistan",
       "description": "From Lord's Cricket Ground in London, United Kingdom.",
-      "scheduledDate": 1787920800000,
+      "scheduledDate": 1788007200000,
       "duration": 120,
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Cricket",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-08-28_EP029804991785_111894533781_2026-08-20T12:21:08Z_GNLZZGG003H856G/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-08-29_EP029804991786_111814865430_2026-08-20T12:16:10Z_GNLZZGG003H814N/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "The Tea Break",
       "episodeTitle": "1st Test Day 2: England v Pakistan",
       "description": "Join our commentary team as they re-cap the day's play and analyse all the action.",
-      "scheduledDate": 1787928000000,
+      "scheduledDate": 1788014400000,
       "duration": 20,
       "parentalRating": "",
       "programType": "Sports non-event",
       "genre": "Cricket",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-08-28_SH034094570000_111704927855_2025-11-20T06:26:39Z_p17650797_i_h10_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-08-29_SH034094570000_111704927855_2025-11-20T06:26:39Z_p17650797_i_h10_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "Test Cricket",
       "episodeTitle": "England vs Pakistan",
       "description": "From Lord's Cricket Ground in London, United Kingdom.",
-      "scheduledDate": 1787929200000,
+      "scheduledDate": 1788015600000,
       "duration": 180,
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Cricket",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-08-28_EP029804991785_111894533781_2026-08-20T12:21:08Z_GNLZZGG003H856G/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-08-29_EP029804991786_111814865430_2026-08-20T12:16:10Z_GNLZZGG003H814N/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "Men's Ashes",
-      "episodeTitle": "1998/99 3rd Test, Review",
+      "episodeTitle": "1998/99 4th Test, Review",
       "description": "Action from the Ashes as England and Australia compete for the famous urn.",
-      "scheduledDate": 1787940000000,
+      "scheduledDate": 1788026400000,
       "duration": 35,
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Classic sport event, Cricket",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-08-28_SH047728050000_100718435032_2019-07-11T07:40:24Z_p10335812_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
-    {
-      "programTitle": "Men's Ashes",
-      "episodeTitle": "1998/99 3rd Test, Review",
-      "description": "Action from the Ashes as England and Australia compete for the famous urn.",
-      "scheduledDate": 1787940300000,
-      "duration": 30,
-      "parentalRating": "",
-      "programType": "Sports event",
-      "genre": "Classic sport event, Cricket",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-08-28_SH047728050000_100718435032_2019-07-11T07:40:24Z_p10335812_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-08-29_SH047728050000_100718435032_2019-07-11T07:40:24Z_p10335812_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     }
   ]
 }

@@ -1,158 +1,81 @@
 {
   "channel": "ESP",
-  "date": "2026-08-28",
+  "date": "2026-08-29",
   "source": "kayo",
-  "fetchedAt": 1787889885203,
-  "fetchedAtIST": "28/8/2026, 9:34:45 am",
+  "fetchedAt": 1787946985806,
+  "fetchedAtIST": "29/8/2026, 1:26:25 am",
   "events": [
     {
       "programTitle": "NFL Blitz",
       "episodeTitle": "Road to Melbourne",
       "description": "All of the best action from the National Football League.",
-      "scheduledDate": 1787857200000,
+      "scheduledDate": 1787945400000,
       "duration": 30,
       "parentalRating": "",
       "programType": "Sports non-event",
       "genre": "Football, News",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-08-27_SH060667300000_110937783149_2022-09-12T05:46:51Z_p22911383_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
-    {
-      "programTitle": "College Football Live",
-      "episodeTitle": "",
-      "description": "Breaking news, analysis, features, roundtable discussions, and interviews covering all the latest events from the world of college football.",
-      "scheduledDate": 1787859000000,
-      "duration": 30,
-      "parentalRating": "",
-      "programType": "Sports non-event",
-      "genre": "Football, News",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-08-27_SH033651660000_110974424461_2017-12-12T23:22:00Z_p221266_i_h10_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-08-28_SH060667300000_110937783149_2022-09-12T05:46:51Z_p22911383_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "NFL Live",
       "episodeTitle": "",
       "description": "Wendi Nix and analysts break down the latest news in the NFL, offering views on players, coaches and management.",
-      "scheduledDate": 1787860800000,
+      "scheduledDate": 1787947200000,
       "duration": 60,
       "parentalRating": "",
       "programType": "Sports non-event",
       "genre": "Football",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-08-27_SH033280050000_111648105022_2022-08-27T02:25:47Z_p267723_i_h8_ae/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
-    {
-      "programTitle": "NFL Blitz",
-      "episodeTitle": "Road to Melbourne",
-      "description": "All of the best action from the National Football League.",
-      "scheduledDate": 1787864400000,
-      "duration": 30,
-      "parentalRating": "",
-      "programType": "Sports non-event",
-      "genre": "Football, News",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-08-27_SH060667300000_110937783149_2022-09-12T05:46:51Z_p22911383_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
-    {
-      "programTitle": "Pardon the Interruption",
-      "episodeTitle": "",
-      "description": "Tony Kornheiser and Mike Wilbon have intense discussions and interview guests about the top headlines in news and sports.",
-      "scheduledDate": 1787866200000,
-      "duration": 30,
-      "parentalRating": "",
-      "programType": "Sports non-event",
-      "genre": "Sports talk",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-08-27_SH032424080000_108239731292_2021-04-08T22:26:28Z_p186288_i_h8_ae/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-08-28_SH033280050000_111648105022_2022-08-27T02:25:47Z_p267723_i_h8_ae/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "SportsCenter",
       "episodeTitle": "",
       "description": "The team deliver the latest news, highlights, and inside information from the wide world of sports, as well as trending topics across social media platforms.",
-      "scheduledDate": 1787868000000,
+      "scheduledDate": 1787950800000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "News, Sports talk",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-08-28_SH033259060000_109832503473_2018-04-18T10:39:00Z_p186674_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Pardon the Interruption",
+      "episodeTitle": "",
+      "description": "Tony Kornheiser and Mike Wilbon have intense discussions and interview guests about the top headlines in news and sports.",
+      "scheduledDate": 1787952600000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Sports talk",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-08-28_SH032424080000_108239731292_2021-04-08T22:26:28Z_p186288_i_h8_ae/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "SportsCenter",
+      "episodeTitle": "",
+      "description": "The team deliver the latest news, highlights, and inside information from the wide world of sports, as well as trending topics across social media platforms.",
+      "scheduledDate": 1787954400000,
       "duration": 60,
       "parentalRating": "",
       "programType": "Sports non-event",
       "genre": "News, Sports talk",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-08-27_SH033259060000_109832503473_2018-04-18T10:39:00Z_p186674_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-08-28_SH033259060000_109832503473_2018-04-18T10:39:00Z_p186674_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "2026 Little League Baseball World Series",
-      "episodeTitle": "Iowa vs. Ohio",
-      "description": "From Howard J. Lamade Stadium in South Williamsport, Pa.",
-      "scheduledDate": 1787871600000,
-      "duration": 120,
-      "parentalRating": "",
-      "programType": "Sports event",
-      "genre": "Baseball",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-08-27_SH065665800000_111680854178_2026-07-16T17:07:05Z_p33388586_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
-    {
-      "programTitle": "In Depth With Graham Bensinger",
-      "episodeTitle": "Jake Paul",
-      "description": "In Puerto Rico, YouTube sensation-turned-boxer Jake Paul discusses his rapid rise to fame and subsequent fall, revealing how being cancelled led to heavy drinking and suicidal thoughts.",
-      "scheduledDate": 1787878800000,
-      "duration": 30,
-      "parentalRating": "",
-      "programType": "Series",
-      "genre": "Sports talk, Interview",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-08-28_EP033308670148_111889970120_2025-08-11T17:56:04Z_p28659814_e_h11_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
-    {
-      "programTitle": "In Depth With Graham Bensinger",
-      "episodeTitle": "T.J. Watt",
-      "description": "Renowned journalist Graham Bensinger interviews some of the biggest names in sports, discussing their lives and careers and some controversial topics.",
-      "scheduledDate": 1787880600000,
-      "duration": 30,
-      "parentalRating": "",
-      "programType": "Series",
-      "genre": "Sports talk, Interview",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-08-28_EP033308670151_111876607953_2025-09-05T17:14:09Z_p31054958_e_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
-    {
-      "programTitle": "NFL Football",
-      "episodeTitle": "Los Angeles Chargers vs Los Angeles Rams",
-      "description": "From SoFi Stadium in Inglewood, Calif.",
-      "scheduledDate": 1787882400000,
-      "duration": 180,
-      "parentalRating": "",
-      "programType": "Sports event",
-      "genre": "Football",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-08-28_EP029371131825_111870644853_2026-07-15T04:30:02Z_GNLZZGG0039KJGK/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
-    {
-      "programTitle": "MLB Plays of the Week",
-      "episodeTitle": "",
-      "description": "Presents the top highlights and thrilling moments from across the MLB.",
-      "scheduledDate": 1787893200000,
+      "programTitle": "Nothing But Net",
+      "episodeTitle": "Weekend Edition",
+      "description": "Kane Pitman and Ryan Broekhoff preview the upcoming NBA and NBL action through their Aussie lens, with guest interviews, highlights and breaking news.",
+      "scheduledDate": 1787958000000,
       "duration": 30,
       "parentalRating": "",
       "programType": "Sports non-event",
-      "genre": "Special, Baseball",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-08-28_SH042795000000_110972564903_2026-08-05T08:37:25Z_p22019951_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
-    {
-      "programTitle": "In Depth With Graham Bensinger",
-      "episodeTitle": "Basketball Diaries",
-      "description": "Some of the NBA's biggest stars, past and present, share their favourite stories from the league and obstacles they had to overcome; Kobe Bryant, Dirk Nowitzki, Charles Barkley and Shaq discuss facing Michael Jordan.",
-      "scheduledDate": 1787895000000,
-      "duration": 20,
-      "parentalRating": "",
-      "programType": "Series",
-      "genre": "Sports talk, Interview",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-08-28_SH033308670000_109955717893_2026-01-13T18:05:19Z_p8178298_i_h8_ad/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
-    {
-      "programTitle": "2027 FIBA Basketball World Cup Qualification",
-      "episodeTitle": "Iran vs New Zealand",
-      "description": "From SM Mall of Asia Arena in Quezon City, Metro Manila, Philippines.",
-      "scheduledDate": 1787896200000,
-      "duration": 130,
-      "parentalRating": "",
-      "programType": "Sports event",
       "genre": "Basketball",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-08-28_SH061711950000_111925941725_2024-02-15T11:33:43Z_p26702214_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-08-28_SH047654740000_108130071776_2023-06-02T12:16:33Z_p24869175_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "NFL Blitz",
       "episodeTitle": "Road to Melbourne",
       "description": "All of the best action from the National Football League.",
-      "scheduledDate": 1787904000000,
+      "scheduledDate": 1787959800000,
       "duration": 30,
       "parentalRating": "",
       "programType": "Sports non-event",
@@ -160,81 +83,136 @@
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-08-28_SH060667300000_110937783149_2022-09-12T05:46:51Z_p22911383_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "In Depth With Graham Bensinger",
-      "episodeTitle": "Jayson Tatum",
-      "description": "Jayson Tatum reflects on the NBA Finals loss, including criticism he received, and opens up about how his parenting approach is different from his father's.",
-      "scheduledDate": 1787905800000,
-      "duration": 20,
-      "parentalRating": "",
-      "programType": "Series",
-      "genre": "Sports talk, Interview",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-08-28_EP033308670094_111812554413_2025-08-11T17:55:28Z_p23239944_e_h11_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
-    {
-      "programTitle": "2027 FIBA Basketball World Cup Qualification",
-      "episodeTitle": "Australia vs Syria",
-      "description": "From SM Mall of Asia Arena in Quezon City, Metro Manila, Philippines.",
-      "scheduledDate": 1787907000000,
-      "duration": 130,
-      "parentalRating": "",
-      "programType": "Sports event",
-      "genre": "Basketball",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-08-28_SH061711950000_111925941725_2024-02-15T11:33:43Z_p26702214_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
-    {
       "programTitle": "NFL Football",
-      "episodeTitle": "Cleveland Browns vs New England Patriots",
-      "description": "From Huntington Bank Field in Cleveland.",
-      "scheduledDate": 1787914800000,
-      "duration": 120,
+      "episodeTitle": "Philadelphia Eagles vs Cincinnati Bengals",
+      "description": "From Lincoln Financial Field in Philadelphia.",
+      "scheduledDate": 1787961600000,
+      "duration": 180,
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Football",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-08-28_EP029371131824_111870222991_2026-07-15T04:29:34Z_GNLZZGG0039KCE3/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-08-29_EP029371131831_111870727118_2026-07-15T04:29:39Z_GNLZZGG0039KFLQ/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "NFL Blitz",
       "episodeTitle": "Road to Melbourne",
       "description": "All of the best action from the National Football League.",
-      "scheduledDate": 1787922000000,
+      "scheduledDate": 1787972400000,
       "duration": 30,
       "parentalRating": "",
       "programType": "Sports non-event",
       "genre": "Football, News",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-08-28_SH060667300000_110937783149_2022-09-12T05:46:51Z_p22911383_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-08-29_SH060667300000_110937783149_2022-09-12T05:46:51Z_p22911383_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "ONE Friday Fights 168",
-      "episodeTitle": "",
-      "description": "From Lumpinee Boxing Stadium in Bangkok.",
-      "scheduledDate": 1787923800000,
-      "duration": 180,
-      "parentalRating": "",
-      "programType": "Sports event",
-      "genre": "Mixed martial arts",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-08-28_SH065812820000_111904399858_2026-08-22T01:07:45Z_p33805146_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
-    {
-      "programTitle": "Quick Pitch",
-      "episodeTitle": "",
-      "description": "All the latest baseball news, scores and highlights. Plus, a first look at upcoming matchups.",
-      "scheduledDate": 1787934600000,
-      "duration": 60,
+      "programTitle": "ESPN FC Shorts",
+      "episodeTitle": "All-Time XI, Divers on the Pitch, & Howe vs. Arteta",
+      "description": "Presents top football highlights in YouTube Shorts.",
+      "scheduledDate": 1787974200000,
+      "duration": 15,
       "parentalRating": "",
       "programType": "Sports non-event",
-      "genre": "Baseball",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-08-28_SH039225660000_107838083445_2020-08-03T13:50:35Z_p3527970_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "genre": "Soccer",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-08-29_SH046564100000_111812554635_2023-05-17T15:16:11Z_p24027877_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "Get Up",
+      "programTitle": "Ice Hockey",
       "episodeTitle": "",
-      "description": "Mike Greenberg, Laura Rutledge and Jalen Rose discuss and analyse the latest news from the world of sports.",
-      "scheduledDate": 1787938200000,
+      "description": "Coverage of games from across the world of ice hockey, from the ice rink to behind the scenes.",
+      "scheduledDate": 1787975100000,
+      "duration": 165,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Hockey",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-08-29_SH033196280000_111812554564_2023-08-16T11:43:19Z_p3606336_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "SportsCenter",
+      "episodeTitle": "Top Plays of August",
+      "description": "The team deliver the latest news, highlights, and inside information from the wide world of sports, as well as trending topics across social media platforms.",
+      "scheduledDate": 1787985000000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "News, Sports talk",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-08-29_SH033259060000_109832503473_2018-04-18T10:39:00Z_p186674_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "ESPN FC Shorts",
+      "episodeTitle": "All-Time Starting XI & Start, Bench, Drop",
+      "description": "Presents top football highlights in YouTube Shorts.",
+      "scheduledDate": 1787986800000,
+      "duration": 15,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Soccer",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-08-29_SH046564100000_111812554635_2023-05-17T15:16:11Z_p24027877_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "In Depth With Graham Bensinger",
+      "episodeTitle": "Alex Ovechkin",
+      "description": "Graham spends two days in Russia with Alex Ovechkin, who chats about his family, his brother's death, and getting over losses.",
+      "scheduledDate": 1787987700000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Series",
+      "genre": "Sports talk, Interview",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-08-29_SH033308670000_109955717893_2026-01-13T18:05:19Z_p8178298_i_h8_ad/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Ice Hockey",
+      "episodeTitle": "",
+      "description": "Coverage of games from across the world of ice hockey, from the ice rink to behind the scenes.",
+      "scheduledDate": 1787989500000,
+      "duration": 165,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Hockey",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-08-29_SH033196280000_111812554564_2023-08-16T11:43:19Z_p3606336_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Women's College Volleyball",
+      "episodeTitle": "Stanford vs Wisconsin",
+      "description": "From Maples Pavilion in Stanford, Calif.",
+      "scheduledDate": 1787999400000,
+      "duration": 90,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Volleyball",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-08-29_EP062509050148_111894108930_2026-08-10T17:01:15Z_GNLZZGG003FFRKE/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "College Football",
+      "episodeTitle": "Cal Poly-San Luis Obispo vs Idaho",
+      "description": "From Mustang Memorial Field at Spanos Stadium in San Luis Obispo, Calif.",
+      "scheduledDate": 1788004800000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-08-29_EP064738030050_111987593615_2026-06-18T19:32:33Z_GNLZZGG0036SZYT/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "College Football Countdown",
+      "episodeTitle": "",
+      "description": "This pre-game, half-time and post-game show airs each Saturday during the college football season, with former NFL offensive lineman Mark May and Texas head coach Mack Brown sitting in the analysts' chairs.",
+      "scheduledDate": 1788012000000,
       "duration": 120,
       "parentalRating": "",
       "programType": "Sports non-event",
-      "genre": "Sports talk",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-08-28_SH033268270000_107093139583_2026-03-24T04:04:44Z_p15158780_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "genre": "Football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-08-29_SH033280090000_111890055019_2017-09-16T00:03:00Z_p221260_i_h10_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "College Football",
+      "episodeTitle": "North Carolina vs TCU",
+      "description": "From Aviva Stadium in Dublin.",
+      "scheduledDate": 1788019200000,
+      "duration": 180,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-08-29_EP064738030051_111853954124_2026-06-18T19:32:46Z_GNLZZGG0036T35M/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     }
   ]
 }

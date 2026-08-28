@@ -2,19 +2,19 @@
   "channel": "SP2",
   "date": "2026-08-29",
   "source": "kayo",
-  "fetchedAt": 1787889885165,
-  "fetchedAtIST": "28/8/2026, 9:34:45 am",
+  "fetchedAt": 1787946985563,
+  "fetchedAtIST": "29/8/2026, 1:26:25 am",
   "events": [
     {
-      "programTitle": "English Super League Pre-Game",
-      "episodeTitle": "Round 25: St Helens v Leeds Rhinos",
-      "description": "Experts discuss the line-ups, key tactics, and predictions before the Super League kick-off.",
+      "programTitle": "Sport Special",
+      "episodeTitle": "",
+      "description": "Tune into the latest news and comprehensive analysis of different sporting events around the globe.",
       "scheduledDate": 1787941800000,
-      "duration": 30,
+      "duration": 170,
       "parentalRating": "",
       "programType": "Sports non-event",
-      "genre": "Rugby league, Rugby",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-08-28_SH050627460000_104351472372_2024-03-13T11:13:41Z_p26943516_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "genre": "Other",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/Fallback_LTV_Fox_League/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "Rugby Super League",
@@ -252,7 +252,7 @@
       "episodeTitle": "Gold Coast Titans v South Sydney Rabbitohs",
       "description": "A comprehensive summary of the match played is provided in an expedited timeframe.",
       "scheduledDate": 1788009900000,
-      "duration": 20,
+      "duration": 30,
       "parentalRating": "",
       "programType": "Sports non-event",
       "genre": "Rugby league, Rugby",
