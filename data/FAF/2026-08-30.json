@@ -2,19 +2,19 @@
   "channel": "FAF",
   "date": "2026-08-30",
   "source": "kayo",
-  "fetchedAt": 1787857311077,
-  "fetchedAtIST": "28/8/2026, 12:31:51 am",
+  "fetchedAt": 1787889885180,
+  "fetchedAtIST": "28/8/2026, 9:34:45 am",
   "events": [
     {
       "programTitle": "AFL",
       "episodeTitle": "Western Bulldogs vs Collingwood",
-      "description": "From Melbourne Cricket Ground in Melbourne, Victoria, Australia.",
+      "description": "Live from the MCG. Bounce time: 7:40 pm AEST.",
       "scheduledDate": 1788031500000,
       "duration": 145,
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Playoff sports, Australian rules football",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-08-29_EP029151671444_111898418740_2026-08-23T22:40:49Z_GNLZZGG003J3L7R/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-08-29_EP029151671444_111961227223_2026-08-23T22:40:49Z_GNLZZGG003J3L7R/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "AFLW Mini",
@@ -30,13 +30,288 @@
     {
       "programTitle": "AFL",
       "episodeTitle": "Melbourne vs Carlton",
-      "description": "From Melbourne Cricket Ground in Melbourne, Victoria, Australia.",
+      "description": "Live from the MCG. Bounce time: 7:35 pm AEST.",
       "scheduledDate": 1788041100000,
       "duration": 150,
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Playoff sports, Australian rules football",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-08-29_EP029151671445_111898418743_2026-08-23T22:41:10Z_GNLZZGG003J3LFB/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-08-29_EP029151671445_111961297032_2026-08-23T22:41:10Z_GNLZZGG003J3LFB/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "AFL",
+      "episodeTitle": "Western Bulldogs vs Collingwood",
+      "description": "Live from the MCG. Bounce time: 7:40 pm AEST.",
+      "scheduledDate": 1788050100000,
+      "duration": 145,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Playoff sports, Australian rules football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-08-30_EP029151671444_111961227223_2026-08-23T22:40:49Z_GNLZZGG003J3L7R/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "AFL Women's Premiership",
+      "episodeTitle": "",
+      "description": "Coverage of matches played as part of the premier women's Australian rules competition.",
+      "scheduledDate": 1788058800000,
+      "duration": 6,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Australian rules football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-08-30_SH029247970000_110054474737_2025-09-19T17:14:25Z_p14834144_i_h8_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "AFL Women's Premiership",
+      "episodeTitle": "Melbourne Demons vs Brisbane Lions",
+      "description": "Live from Casey Fields. Bounce time: 1:05 pm AEST.",
+      "scheduledDate": 1788059160000,
+      "duration": 105,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Australian rules football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-08-30_EP029247970761_111807072605_2026-07-20T21:16:37Z_GNLZZGG003BTY83/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "AFLW Post Game",
+      "episodeTitle": "Round 3",
+      "description": "All the latest news and analysis from the world of women's AFL.",
+      "scheduledDate": 1788065460000,
+      "duration": 9,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Australian rules football, Sports talk",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-08-30_SH041614210000_111575853519_2022-01-12T02:37:13Z_p21375733_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "AFL Women's Premiership",
+      "episodeTitle": "",
+      "description": "Coverage of matches played as part of the premier women's Australian rules competition.",
+      "scheduledDate": 1788066000000,
+      "duration": 6,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Australian rules football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-08-30_SH029247970000_110054474737_2025-09-19T17:14:25Z_p14834144_i_h8_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "AFL Women's Premiership",
+      "episodeTitle": "Collingwood Magpies vs Hawthorn Hawks",
+      "description": "Live from Victoria Park. Bounce time: 3:05 pm AEST.",
+      "scheduledDate": 1788066360000,
+      "duration": 105,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Australian rules football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-08-30_EP029247970763_111807072559_2026-07-20T21:16:22Z_GNLZZGG003BTQTE/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "AFLW Post Game",
+      "episodeTitle": "Round 3",
+      "description": "All the latest news and analysis from the world of women's AFL.",
+      "scheduledDate": 1788072660000,
+      "duration": 9,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Australian rules football, Sports talk",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-08-30_SH041614210000_111575853519_2022-01-12T02:37:13Z_p21375733_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "AFL Women's Premiership",
+      "episodeTitle": "",
+      "description": "Coverage of matches played as part of the premier women's Australian rules competition.",
+      "scheduledDate": 1788073200000,
+      "duration": 6,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Australian rules football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-08-30_SH029247970000_110054474737_2025-09-19T17:14:25Z_p14834144_i_h8_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "AFL Women's Premiership",
+      "episodeTitle": "Fremantle Dockers vs Carlton Blues",
+      "description": "From Fremantle Oval in Fremantle, Western Australia, Australia.",
+      "scheduledDate": 1788073560000,
+      "duration": 105,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Australian rules football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-08-30_EP029247970764_111807072557_2026-07-20T21:15:46Z_GNLZZGG003BTKEQ/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "AFLW Post Game",
+      "episodeTitle": "Round 3",
+      "description": "All the latest news and analysis from the world of women's AFL.",
+      "scheduledDate": 1788079860000,
+      "duration": 9,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Australian rules football, Sports talk",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-08-30_SH041614210000_111575853519_2022-01-12T02:37:13Z_p21375733_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "AFL Women's Premiership",
+      "episodeTitle": "",
+      "description": "Coverage of matches played as part of the premier women's Australian rules competition.",
+      "scheduledDate": 1788080400000,
+      "duration": 20,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Australian rules football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-08-30_SH029247970000_110054474737_2025-09-19T17:14:25Z_p14834144_i_h8_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "AFL Women's Premiership",
+      "episodeTitle": "Essendon Bombers vs Richmond Tigers",
+      "description": "Live from TIO Stadium. Bounce time: 7:20 pm AEST.",
+      "scheduledDate": 1788081600000,
+      "duration": 105,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Australian rules football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-08-30_EP029247970765_111778280708_2026-07-20T21:16:10Z_GNLZZGG003BTERX/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "AFLW Post Game",
+      "episodeTitle": "Round 3",
+      "description": "All the latest news and analysis from the world of women's AFL.",
+      "scheduledDate": 1788087900000,
+      "duration": 10,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Australian rules football, Sports talk",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-08-30_SH041614210000_111575853519_2022-01-12T02:37:13Z_p21375733_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "AFL Mini",
+      "episodeTitle": "Wilcard Finals: Western Bulldogs v Collingwood Magpies",
+      "description": "Condensed highlights, reaction and analysis of the biggest sport stories from Australia and around the world.",
+      "scheduledDate": 1788088500000,
+      "duration": 20,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Australian rules football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-08-30_SH042238570000_104529301600_2022-03-07T04:36:21Z_p21759801_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "AFL Mini",
+      "episodeTitle": "Wildcard Finals: Melbourne Demons v Carlton Blues",
+      "description": "Condensed highlights, reaction and analysis of the biggest sport stories from Australia and around the world.",
+      "scheduledDate": 1788089700000,
+      "duration": 20,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Australian rules football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-08-30_SH042238570000_104529301600_2022-03-07T04:36:21Z_p21759801_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "AFL Mini",
+      "episodeTitle": "Wilcard Finals: Western Bulldogs v Collingwood Magpies",
+      "description": "Condensed highlights, reaction and analysis of the biggest sport stories from Australia and around the world.",
+      "scheduledDate": 1788090900000,
+      "duration": 20,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Australian rules football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-08-30_SH042238570000_104529301600_2022-03-07T04:36:21Z_p21759801_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "AFLW Mini",
+      "episodeTitle": "Gold Coast Suns v Geelong Cats",
+      "description": "Condensed highlights of some of the greatest encounters from the AFL Women's competition.",
+      "scheduledDate": 1788092100000,
+      "duration": 15,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Australian rules football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-08-30_SH038251630000_111269523232_2025-10-16T04:55:13Z_p19768743_b_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "AFLW Mini",
+      "episodeTitle": "Collingwood Magpies v Hawthorn Hawks",
+      "description": "Condensed highlights of some of the greatest encounters from the AFL Women's competition.",
+      "scheduledDate": 1788093000000,
+      "duration": 15,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Australian rules football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-08-30_SH038251630000_111269523232_2025-10-16T04:55:13Z_p19768743_b_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "AFLW Mini",
+      "episodeTitle": "Fremantle Dockers v Carlton Blues",
+      "description": "Condensed highlights of some of the greatest encounters from the AFL Women's competition.",
+      "scheduledDate": 1788093900000,
+      "duration": 15,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Australian rules football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-08-30_SH038251630000_111269523232_2025-10-16T04:55:13Z_p19768743_b_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "AFL Mini",
+      "episodeTitle": "Wilcard Finals: Western Bulldogs v Collingwood Magpies",
+      "description": "Condensed highlights, reaction and analysis of the biggest sport stories from Australia and around the world.",
+      "scheduledDate": 1788094800000,
+      "duration": 20,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Australian rules football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-08-30_SH042238570000_104529301600_2022-03-07T04:36:21Z_p21759801_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "AFL Mini",
+      "episodeTitle": "Wildcard Finals: Melbourne Demons v Carlton Blues",
+      "description": "Condensed highlights, reaction and analysis of the biggest sport stories from Australia and around the world.",
+      "scheduledDate": 1788096000000,
+      "duration": 20,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Australian rules football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-08-30_SH042238570000_104529301600_2022-03-07T04:36:21Z_p21759801_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "AFL Mini",
+      "episodeTitle": "Wilcard Finals: Western Bulldogs v Collingwood Magpies",
+      "description": "Condensed highlights, reaction and analysis of the biggest sport stories from Australia and around the world.",
+      "scheduledDate": 1788097200000,
+      "duration": 20,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Australian rules football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-08-30_SH042238570000_104529301600_2022-03-07T04:36:21Z_p21759801_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "AFL Women's Premiership",
+      "episodeTitle": "GWS GIANTS vs Port Adelaide Power",
+      "description": "Live from Corroboree Group Oval. Bounce time: 12:35 pm AEST.",
+      "scheduledDate": 1788098400000,
+      "duration": 90,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Australian rules football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-08-30_EP029247970760_111807072562_2026-07-20T21:16:00Z_GNLZZGG003BTYKP/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "AFL Women's Premiership",
+      "episodeTitle": "Gold Coast SUNS vs Geelong Cats",
+      "description": "From People First Stadium in Gold Coast, Queensland, Australia.",
+      "scheduledDate": 1788103800000,
+      "duration": 90,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Australian rules football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-08-30_EP029247970762_111807072556_2026-07-20T21:16:16Z_GNLZZGG003BTQMS/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "AFL Women's Premiership",
+      "episodeTitle": "Collingwood Magpies vs Hawthorn Hawks",
+      "description": "Live from Victoria Park. Bounce time: 3:05 pm AEST.",
+      "scheduledDate": 1788109200000,
+      "duration": 90,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Australian rules football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-08-30_EP029247970763_111807072559_2026-07-20T21:16:22Z_GNLZZGG003BTQTE/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     }
   ]
 }

@@ -1,0 +1,42 @@
+{
+  "channel": "ESP",
+  "date": "2026-08-31",
+  "source": "kayo",
+  "fetchedAt": 1787889885204,
+  "fetchedAtIST": "28/8/2026, 9:34:45 am",
+  "events": [
+    {
+      "programTitle": "MLB Network Presents",
+      "episodeTitle": "Atlanta Rules: The Story of the '90s Braves",
+      "description": "Details how Atlanta went from perennial underperformers to the model of baseball excellence, culminating with the 1995 World Series championship.",
+      "scheduledDate": 1788123600000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Baseball, Documentary",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-08-30_SH034893870000_108828544629_2025-06-10T05:15:07Z_p11364240_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "MLB Network Presents",
+      "episodeTitle": "Tears of Joy -- NY Mets",
+      "description": "A documentary featuring the 2015 Mets' run to the World Series.",
+      "scheduledDate": 1788127200000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Baseball",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-08-30_SH034893870000_108828544629_2025-06-10T05:15:07Z_p11364240_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "MLB Baseball",
+      "episodeTitle": "Chicago Cubs vs Cincinnati Reds",
+      "description": "From Wrigley Field in Chicago.",
+      "scheduledDate": 1788130800000,
+      "duration": 180,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Baseball",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-08-30_EP062580852508_111941024344_2026-06-27T19:29:18Z_GNLZZGG0037VGXS/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    }
+  ]
+}

@@ -2,8 +2,8 @@
   "channel": "ES2",
   "date": "2026-08-30",
   "source": "kayo",
-  "fetchedAt": 1787857311103,
-  "fetchedAtIST": "28/8/2026, 12:31:51 am",
+  "fetchedAt": 1787889885208,
+  "fetchedAtIST": "28/8/2026, 9:34:45 am",
   "events": [
     {
       "programTitle": "2026 Little League Baseball World Series",
@@ -58,7 +58,128 @@
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Football",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-08-29_EP064738030067_111855231753_2026-06-18T19:33:42Z_GNLZZGG0036SZLE/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-08-29_EP064738030067_111953583671_2026-06-18T19:33:42Z_GNLZZGG0036SZLE/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "International Dance League",
+      "episodeTitle": "Seoul Series",
+      "description": "From Kyungmin University Gymnasium in Uijeongbu, Gyeonggido, Korea, Republic of.",
+      "scheduledDate": 1788058800000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Dance",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-08-30_SH065242250000_111855232004_2026-07-09T01:57:07Z_p33554256_st_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "2026 Little League Baseball World Series",
+      "episodeTitle": "",
+      "description": "",
+      "scheduledDate": 1788062400000,
+      "duration": 110,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Baseball",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-08-30_SH065665800000_111680854178_2026-07-16T17:07:05Z_p33388586_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "2027 FIBA Basketball World Cup Qualification",
+      "episodeTitle": "",
+      "description": "",
+      "scheduledDate": 1788069000000,
+      "duration": 130,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Basketball",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-08-30_SH061711950000_111925941725_2024-02-15T11:33:43Z_p26702214_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "SC: Stories",
+      "episodeTitle": "Volume 39",
+      "description": "Presents impressive stories of athletes who have excelled in sports.",
+      "scheduledDate": 1788076800000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Series",
+      "genre": "News",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-08-30_SH046772320000_105518246248_2023-03-14T05:26:40Z_p24188974_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "ESPN FC",
+      "episodeTitle": "",
+      "description": "ESPN FC brings you a round-up of the latest news from the world of football, including in-depth analysis and exclusive interviews.",
+      "scheduledDate": 1788078600000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Series",
+      "genre": "Soccer, Sports talk",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-08-30_SH033236780000_109573421566_2026-05-25T06:15:30Z_p10106369_i_h11_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "College Football",
+      "episodeTitle": "North Carolina vs TCU",
+      "description": "From Aviva Stadium in Dublin.",
+      "scheduledDate": 1788080400000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-08-30_EP064738030051_111853954124_2026-06-18T19:32:46Z_GNLZZGG0036T35M/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "MLB Baseball",
+      "episodeTitle": "New York Yankees vs Boston Red Sox",
+      "description": "From Yankee Stadium in the Bronx, N.Y.",
+      "scheduledDate": 1788087600000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Baseball",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-08-30_EP062580852501_111929572199_2026-06-27T19:24:28Z_GNLZZGG0037VM45/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Quick Pitch",
+      "episodeTitle": "",
+      "description": "All the latest baseball news, scores and highlights. Plus, a first look at upcoming matchups.",
+      "scheduledDate": 1788094800000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Baseball",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-08-30_SH039225660000_107838083445_2020-08-03T13:50:35Z_p3527970_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "2026 Little League Baseball World Series",
+      "episodeTitle": "",
+      "description": "",
+      "scheduledDate": 1788098400000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Baseball",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-08-30_SH065665800000_111680854178_2026-07-16T17:07:05Z_p33388586_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Women's College Volleyball",
+      "episodeTitle": "Wisconsin vs Pittsburgh",
+      "description": "From Petersen Events Center in Pittsburgh.",
+      "scheduledDate": 1788105600000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Volleyball",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-08-30_EP062509050185_111855232028_2026-08-13T01:52:37Z_GNLZZGG003FRHYQ/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Big Dreams: Little League World Series",
+      "episodeTitle": "",
+      "description": "A look at all the best moments of the Little League World Series.",
+      "scheduledDate": 1788112800000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Special, Baseball, Event",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-08-30_SH059903580000_111855231873_2025-08-04T15:44:22Z_p30838871_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     }
   ]
 }

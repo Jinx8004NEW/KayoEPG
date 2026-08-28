@@ -1,0 +1,53 @@
+{
+  "channel": "SPS",
+  "date": "2026-08-31",
+  "source": "kayo",
+  "fetchedAt": 1787889885193,
+  "fetchedAtIST": "28/8/2026, 9:34:45 am",
+  "events": [
+    {
+      "programTitle": "PGA Tour Champions Golf",
+      "episodeTitle": "The Ally Challenge, Final Round",
+      "description": "From Warwick Hills Golf & Country Club in Grand Blanc, Mich.",
+      "scheduledDate": 1788116400000,
+      "duration": 180,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-08-30_EP034248570452_111855232035_2026-08-05T00:02:02Z_p33608770_b_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "MotoGP Racing",
+      "episodeTitle": "Grand Prix of Aragon, Sprint Race",
+      "description": "From MotorLand Aragón in Aragon, Spain.",
+      "scheduledDate": 1788127200000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Motorcycle racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-08-30_SH028104880000_111837206758_2025-04-17T20:03:48Z_p445587_i_h8_ae/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "MotoGP Racing",
+      "episodeTitle": "Grand Prix of Aragon",
+      "description": "From MotorLand Aragón in Aragon, Spain.",
+      "scheduledDate": 1788129000000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Motorcycle racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-08-30_SH028104880000_111837206758_2025-04-17T20:03:48Z_p445587_i_h8_ae/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Moto2 GP Racing",
+      "episodeTitle": "Michelin Grand Prix of Aragon",
+      "description": "From MotorLand Aragón in Aragon, Spain.",
+      "scheduledDate": 1788132600000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Motorcycle racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-08-30_SH046925380000_111927914647_2025-11-10T09:54:32Z_p13059050_i_h10_ae/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    }
+  ]
+}
