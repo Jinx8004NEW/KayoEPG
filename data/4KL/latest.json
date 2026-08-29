@@ -2,16 +2,43 @@
   "channel": "4KL",
   "date": "2026-08-29",
   "source": "kayo-4k",
-  "fetchedAt": 1787971564850,
-  "fetchedAtIST": "29/8/2026, 8:16:04 am",
+  "fetchedAt": 1788000770133,
+  "fetchedAtIST": "29/8/2026, 4:22:50 pm",
   "events": [
     {
       "eventId": "1a95ni3456rkt1ssq5fsvg4nir",
       "programTitle": "Titans v Raiders",
       "scheduledDate": 1787971500000,
-      "duration": 165,
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/76kmbs1pai0vxc4t32b3wor1l_image-header_pRow_1787720755000/fill/none/top/none/80/1920/1080/webp/image?brand=kayo",
+      "duration": 109,
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/502r9rpbd8ocjayqcj7z8uep4_image-header_pRow_1787720755000/fill/none/top/none/80/1920/1080/webp/image?brand=kayo",
       "competitionTitle": "NRL Women",
+      "sport": "Rugby League"
+    },
+    {
+      "eventId": "5fsqzwj7972a01axbp87echoc0",
+      "programTitle": "Titans v Rabbitohs",
+      "scheduledDate": 1787979600000,
+      "duration": 137,
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/521zxa56p992tbgh5fnndzerj_image-header_pRow_1787703906000/fill/none/top/none/80/1920/1080/webp/image?brand=kayo",
+      "competitionTitle": "NRL",
+      "sport": "Rugby League"
+    },
+    {
+      "eventId": "y4hdm3z7fl5q01ifbkls2siads",
+      "programTitle": "Roosters v Dolphins",
+      "scheduledDate": 1787988600000,
+      "duration": 127,
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/6bgak0d8dk9pvmjp4j2vw6a0f_image-header_pRow_1787788688000/fill/none/top/none/80/1920/1080/webp/image?brand=kayo",
+      "competitionTitle": "NRL",
+      "sport": "Rugby League"
+    },
+    {
+      "eventId": "6synx6rqe94y014tvydpb1ws8y",
+      "programTitle": "Cowboys v Wests Tigers",
+      "scheduledDate": 1787996100000,
+      "duration": 245,
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/eqoin1301bnz369xxgf6v4x6c_image-header_pRow_1787788593000/fill/none/top/none/80/1920/1080/webp/image?brand=kayo",
+      "competitionTitle": "NRL",
       "sport": "Rugby League"
     }
   ]

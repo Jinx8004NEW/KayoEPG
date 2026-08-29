@@ -2,8 +2,8 @@
   "channel": "FS3",
   "date": "2026-08-29",
   "source": "kayo",
-  "fetchedAt": 1787971550555,
-  "fetchedAtIST": "29/8/2026, 8:15:50 am",
+  "fetchedAt": 1788000756247,
+  "fetchedAtIST": "29/8/2026, 4:22:36 pm",
   "events": [
     {
       "programTitle": "How Good is Golf",
@@ -120,11 +120,33 @@
       "episodeTitle": "Husqvarna British Masters, Third Round",
       "description": "From The Belfry in Sutton Coldfield, West Midlands, United Kingdom.",
       "scheduledDate": 1788001200000,
-      "duration": 300,
+      "duration": 150,
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Golf",
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-08-29_SH040914080000_111510780655_2022-04-26T15:48:27Z_p20993758_i_h8_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "LPGA Tour Golf",
+      "episodeTitle": "FM Championship, Second Round",
+      "description": "From TPC Boston in Norton, Mass.",
+      "scheduledDate": 1788010200000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-08-29_SH031583890000_109900390814_2025-12-31T05:35:12Z_p767017_i_h8_af/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "2026 TOUR Championship",
+      "episodeTitle": "Second Round",
+      "description": "From East Lake Golf Club in Atlanta.",
+      "scheduledDate": 1788013800000,
+      "duration": 90,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-08-29_SH065760920000_111990910765_2026-07-20T21:25:55Z_p33406701_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "2026 TOUR Championship",
