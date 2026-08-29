@@ -2,8 +2,8 @@
   "channel": "ES2",
   "date": "2026-08-31",
   "source": "kayo",
-  "fetchedAt": 1787946986241,
-  "fetchedAtIST": "29/8/2026, 1:26:26 am",
+  "fetchedAt": 1787971550597,
+  "fetchedAtIST": "29/8/2026, 8:15:50 am",
   "events": [
     {
       "programTitle": "2026 Little League Baseball World Series",
@@ -28,7 +28,7 @@
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-08-30_EP033308670164_111894289372_2025-12-08T16:54:51Z_p31516214_e_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "",
+      "programTitle": "E60",
       "episodeTitle": "Fear and Doping in Las Vegas",
       "description": "Dubbed by critics as the Doping Olympics, take a look at the first ever Enhanced Games in Las Vegas, an event where athletes taking PEDs compete for world records and millions in prize money.",
       "scheduledDate": 1788127200000,
@@ -39,7 +39,7 @@
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-08-30_SH033308270000_79811912898_2019-10-17T14:20:31Z_p229472_i_h10_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "",
+      "programTitle": "E60",
       "episodeTitle": "The Many Lives of Lane Kiffin",
       "description": "ESPN presents in-depth stories relating to American and international sports, featuring some of the biggest names in the field.",
       "scheduledDate": 1788130800000,
@@ -48,6 +48,116 @@
       "programType": "Sports non-event",
       "genre": "Newsmagazine",
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-08-30_SH033308270000_79811912898_2019-10-17T14:20:31Z_p229472_i_h10_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "College Football",
+      "episodeTitle": "West Alabama vs Tuskegee",
+      "description": "From Cramton Bowl in Montgomery, Ala.",
+      "scheduledDate": 1788134400000,
+      "duration": 180,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-08-31_EP064738031647_111891986001_2026-08-24T13:58:00Z_GNLZZGG003J51FE/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "30 for 30",
+      "episodeTitle": "Pony Excess",
+      "description": "Southern Methodist University's football program goes from riding high in the early 1980s to getting the 'death penalty' from the NCAA after numerous rules violations.",
+      "scheduledDate": 1788145200000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Documentary",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-08-31_EP023926430032_110008558466_2017-05-25T01:03:00Z_p8306717_e_h10_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Thunder On: Resurgence of the SMU Mustangs",
+      "episodeTitle": "",
+      "description": "",
+      "scheduledDate": 1788152400000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Special, Football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-08-31_SH060536460000_111892579136_2025-09-17T03:14:47Z_p31184756_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "30 for 30",
+      "episodeTitle": "Trojan War",
+      "description": "Pete Carroll led the USC Trojans back to the top of college football. But in Hollywood, you don't always get the perfect ending.",
+      "scheduledDate": 1788156000000,
+      "duration": 90,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Documentary",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-08-31_EP023926430065_109895159062_2017-04-07T07:05:00Z_p12117305_e_h10_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Women's College Volleyball",
+      "episodeTitle": "Wisconsin vs Pittsburgh",
+      "description": "From Petersen Events Center in Pittsburgh.",
+      "scheduledDate": 1788161400000,
+      "duration": 90,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Volleyball",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-08-31_EP062509050185_111977246875_2026-08-13T01:52:37Z_GNLZZGG003FRHYQ/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Women's College Volleyball",
+      "episodeTitle": "Kansas vs Stanford",
+      "description": "From Petersen Events Center in Pittsburgh.",
+      "scheduledDate": 1788166800000,
+      "duration": 90,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Volleyball",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-08-31_EP062509050186_111977246876_2026-08-13T01:55:32Z_GNLZZGG003FRMGY/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "College Football",
+      "episodeTitle": "West Alabama vs Tuskegee",
+      "description": "From Cramton Bowl in Montgomery, Ala.",
+      "scheduledDate": 1788172200000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-08-31_EP064738031647_111891986001_2026-08-24T13:58:00Z_GNLZZGG003J51FE/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "30 for 30",
+      "episodeTitle": "The Best That Never Was",
+      "description": "Eight-time Emmy Award winner Jon Hock examines why high school phenomenon Marcus Dupree burned out so young and how he ultimately used football to redeem himself.",
+      "scheduledDate": 1788179400000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Documentary",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-08-31_EP023926430036_106621382289_2023-05-24T12:56:18Z_p8336020_e_h8_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "30 for 30",
+      "episodeTitle": "The U",
+      "description": "Director Billy Corben tells the story of how, during the 1980s, a University of Miami coach turned the Hurricanes into the self-styled bad boys of American football.",
+      "scheduledDate": 1788186600000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Documentary",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-08-31_EP023926430017_111894109020_2019-09-09T20:24:55Z_p7900761_e_h11_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "30 for 30",
+      "episodeTitle": "The U",
+      "description": "Director Billy Corben tells the story of how, during the 1980s, a University of Miami coach turned the Hurricanes into the self-styled bad boys of American football.",
+      "scheduledDate": 1788193800000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Documentary",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-08-31_EP023926430017_111894109020_2019-09-09T20:24:55Z_p7900761_e_h11_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     }
   ]
 }
