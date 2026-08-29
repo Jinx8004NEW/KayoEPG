@@ -1,136 +1,15 @@
 {
   "channel": "FSN",
-  "date": "2026-08-29",
+  "date": "2026-08-30",
   "source": "kayo",
-  "fetchedAt": 1788020369628,
-  "fetchedAtIST": "29/8/2026, 9:49:29 pm",
+  "fetchedAt": 1788042408660,
+  "fetchedAtIST": "30/8/2026, 3:56:48 am",
   "events": [
     {
-      "programTitle": "AFL Women's Premiership",
-      "episodeTitle": "AFLW Representative Match: Australia vs. Ireland",
-      "description": "From North Sydney Oval in North Sydney, New South Wales, Australia.",
-      "scheduledDate": 1787941800000,
-      "duration": 30,
-      "parentalRating": "",
-      "programType": "Sports event",
-      "genre": "Australian rules football",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103083_2026-08-28_SH029247970000_110054474737_2025-09-19T17:14:25Z_p14834144_i_h8_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
-    {
-      "programTitle": "AFL Women's Premiership",
-      "episodeTitle": "AFLW Representative Match: Australia vs. Ireland",
-      "description": "From North Sydney Oval in North Sydney, New South Wales, Australia.",
-      "scheduledDate": 1787943600000,
-      "duration": 30,
-      "parentalRating": "",
-      "programType": "Sports event",
-      "genre": "Australian rules football",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103083_2026-08-28_SH029247970000_110054474737_2025-09-19T17:14:25Z_p14834144_i_h8_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
-    {
       "programTitle": "Classic AFL",
       "episodeTitle": "",
       "description": "Condensed highlights and a look back at full replays of some of the greatest encounters from the Australian Football League.",
-      "scheduledDate": 1787945400000,
-      "duration": 30,
-      "parentalRating": "",
-      "programType": "Sports event",
-      "genre": "Classic sport event, Australian rules football",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103083_2026-08-28_SH028096630000_102142641835_2018-11-27T09:00:00Z_p14740563_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
-    {
-      "programTitle": "Classic AFL",
-      "episodeTitle": "",
-      "description": "Condensed highlights and a look back at full replays of some of the greatest encounters from the Australian Football League.",
-      "scheduledDate": 1787947200000,
-      "duration": 30,
-      "parentalRating": "",
-      "programType": "Sports event",
-      "genre": "Classic sport event, Australian rules football",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103083_2026-08-28_SH028096630000_102142641835_2018-11-27T09:00:00Z_p14740563_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
-    {
-      "programTitle": "Classic AFL",
-      "episodeTitle": "",
-      "description": "Condensed highlights and a look back at full replays of some of the greatest encounters from the Australian Football League.",
-      "scheduledDate": 1787949000000,
-      "duration": 30,
-      "parentalRating": "",
-      "programType": "Sports event",
-      "genre": "Classic sport event, Australian rules football",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103083_2026-08-28_SH028096630000_102142641835_2018-11-27T09:00:00Z_p14740563_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
-    {
-      "programTitle": "Classic AFL",
-      "episodeTitle": "",
-      "description": "Condensed highlights and a look back at full replays of some of the greatest encounters from the Australian Football League.",
-      "scheduledDate": 1787950800000,
-      "duration": 30,
-      "parentalRating": "",
-      "programType": "Sports event",
-      "genre": "Classic sport event, Australian rules football",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103083_2026-08-28_SH028096630000_102142641835_2018-11-27T09:00:00Z_p14740563_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
-    {
-      "programTitle": "Classic AFL",
-      "episodeTitle": "",
-      "description": "Condensed highlights and a look back at full replays of some of the greatest encounters from the Australian Football League.",
-      "scheduledDate": 1787952600000,
-      "duration": 30,
-      "parentalRating": "",
-      "programType": "Sports event",
-      "genre": "Classic sport event, Australian rules football",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103083_2026-08-28_SH028096630000_102142641835_2018-11-27T09:00:00Z_p14740563_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
-    {
-      "programTitle": "Classic AFL",
-      "episodeTitle": "",
-      "description": "Condensed highlights and a look back at full replays of some of the greatest encounters from the Australian Football League.",
-      "scheduledDate": 1787954400000,
-      "duration": 30,
-      "parentalRating": "",
-      "programType": "Sports event",
-      "genre": "Classic sport event, Australian rules football",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103083_2026-08-28_SH028096630000_102142641835_2018-11-27T09:00:00Z_p14740563_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
-    {
-      "programTitle": "Classic AFL",
-      "episodeTitle": "",
-      "description": "Condensed highlights and a look back at full replays of some of the greatest encounters from the Australian Football League.",
-      "scheduledDate": 1787956200000,
-      "duration": 30,
-      "parentalRating": "",
-      "programType": "Sports event",
-      "genre": "Classic sport event, Australian rules football",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103083_2026-08-28_SH028096630000_102142641835_2018-11-27T09:00:00Z_p14740563_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
-    {
-      "programTitle": "Classic AFL",
-      "episodeTitle": "",
-      "description": "Condensed highlights and a look back at full replays of some of the greatest encounters from the Australian Football League.",
-      "scheduledDate": 1787958000000,
-      "duration": 30,
-      "parentalRating": "",
-      "programType": "Sports event",
-      "genre": "Classic sport event, Australian rules football",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103083_2026-08-28_SH028096630000_102142641835_2018-11-27T09:00:00Z_p14740563_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
-    {
-      "programTitle": "Classic AFL",
-      "episodeTitle": "",
-      "description": "Condensed highlights and a look back at full replays of some of the greatest encounters from the Australian Football League.",
-      "scheduledDate": 1787959800000,
-      "duration": 30,
-      "parentalRating": "",
-      "programType": "Sports event",
-      "genre": "Classic sport event, Australian rules football",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103083_2026-08-28_SH028096630000_102142641835_2018-11-27T09:00:00Z_p14740563_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
-    {
-      "programTitle": "Classic AFL",
-      "episodeTitle": "",
-      "description": "Condensed highlights and a look back at full replays of some of the greatest encounters from the Australian Football League.",
-      "scheduledDate": 1787961600000,
+      "scheduledDate": 1788028200000,
       "duration": 30,
       "parentalRating": "",
       "programType": "Sports event",
@@ -141,7 +20,7 @@
       "programTitle": "Classic AFL",
       "episodeTitle": "",
       "description": "Condensed highlights and a look back at full replays of some of the greatest encounters from the Australian Football League.",
-      "scheduledDate": 1787963400000,
+      "scheduledDate": 1788030000000,
       "duration": 30,
       "parentalRating": "",
       "programType": "Sports event",
@@ -152,7 +31,7 @@
       "programTitle": "Classic AFL",
       "episodeTitle": "",
       "description": "Condensed highlights and a look back at full replays of some of the greatest encounters from the Australian Football League.",
-      "scheduledDate": 1787965200000,
+      "scheduledDate": 1788031800000,
       "duration": 30,
       "parentalRating": "",
       "programType": "Sports event",
@@ -163,7 +42,7 @@
       "programTitle": "Classic AFL",
       "episodeTitle": "",
       "description": "Condensed highlights and a look back at full replays of some of the greatest encounters from the Australian Football League.",
-      "scheduledDate": 1787967000000,
+      "scheduledDate": 1788033600000,
       "duration": 30,
       "parentalRating": "",
       "programType": "Sports event",
@@ -174,7 +53,7 @@
       "programTitle": "Classic AFL",
       "episodeTitle": "",
       "description": "Condensed highlights and a look back at full replays of some of the greatest encounters from the Australian Football League.",
-      "scheduledDate": 1787968800000,
+      "scheduledDate": 1788035400000,
       "duration": 30,
       "parentalRating": "",
       "programType": "Sports event",
@@ -185,7 +64,7 @@
       "programTitle": "Classic AFL",
       "episodeTitle": "",
       "description": "Condensed highlights and a look back at full replays of some of the greatest encounters from the Australian Football League.",
-      "scheduledDate": 1787970600000,
+      "scheduledDate": 1788037200000,
       "duration": 30,
       "parentalRating": "",
       "programType": "Sports event",
@@ -196,7 +75,7 @@
       "programTitle": "Classic AFL",
       "episodeTitle": "",
       "description": "Condensed highlights and a look back at full replays of some of the greatest encounters from the Australian Football League.",
-      "scheduledDate": 1787972400000,
+      "scheduledDate": 1788039000000,
       "duration": 30,
       "parentalRating": "",
       "programType": "Sports event",
@@ -207,7 +86,7 @@
       "programTitle": "Classic AFL",
       "episodeTitle": "",
       "description": "Condensed highlights and a look back at full replays of some of the greatest encounters from the Australian Football League.",
-      "scheduledDate": 1787974200000,
+      "scheduledDate": 1788040800000,
       "duration": 30,
       "parentalRating": "",
       "programType": "Sports event",
@@ -218,7 +97,7 @@
       "programTitle": "Classic AFL",
       "episodeTitle": "",
       "description": "Condensed highlights and a look back at full replays of some of the greatest encounters from the Australian Football League.",
-      "scheduledDate": 1787976000000,
+      "scheduledDate": 1788042600000,
       "duration": 30,
       "parentalRating": "",
       "programType": "Sports event",
@@ -229,7 +108,7 @@
       "programTitle": "Classic AFL",
       "episodeTitle": "",
       "description": "Condensed highlights and a look back at full replays of some of the greatest encounters from the Australian Football League.",
-      "scheduledDate": 1787977800000,
+      "scheduledDate": 1788044400000,
       "duration": 30,
       "parentalRating": "",
       "programType": "Sports event",
@@ -240,7 +119,7 @@
       "programTitle": "Classic AFL",
       "episodeTitle": "",
       "description": "Condensed highlights and a look back at full replays of some of the greatest encounters from the Australian Football League.",
-      "scheduledDate": 1787979600000,
+      "scheduledDate": 1788046200000,
       "duration": 30,
       "parentalRating": "",
       "programType": "Sports event",
@@ -251,287 +130,408 @@
       "programTitle": "Classic AFL",
       "episodeTitle": "",
       "description": "Condensed highlights and a look back at full replays of some of the greatest encounters from the Australian Football League.",
-      "scheduledDate": 1787981400000,
+      "scheduledDate": 1788048000000,
       "duration": 30,
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Classic sport event, Australian rules football",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103083_2026-08-29_SH028096630000_102142641835_2018-11-27T09:00:00Z_p14740563_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103083_2026-08-30_SH028096630000_102142641835_2018-11-27T09:00:00Z_p14740563_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "Classic AFL",
       "episodeTitle": "",
       "description": "Condensed highlights and a look back at full replays of some of the greatest encounters from the Australian Football League.",
-      "scheduledDate": 1787983200000,
+      "scheduledDate": 1788049800000,
       "duration": 30,
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Classic sport event, Australian rules football",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103083_2026-08-29_SH028096630000_102142641835_2018-11-27T09:00:00Z_p14740563_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103083_2026-08-30_SH028096630000_102142641835_2018-11-27T09:00:00Z_p14740563_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "Classic AFL",
       "episodeTitle": "",
       "description": "Condensed highlights and a look back at full replays of some of the greatest encounters from the Australian Football League.",
-      "scheduledDate": 1787985000000,
+      "scheduledDate": 1788051600000,
       "duration": 30,
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Classic sport event, Australian rules football",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103083_2026-08-29_SH028096630000_102142641835_2018-11-27T09:00:00Z_p14740563_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103083_2026-08-30_SH028096630000_102142641835_2018-11-27T09:00:00Z_p14740563_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "Classic AFL",
       "episodeTitle": "",
       "description": "Condensed highlights and a look back at full replays of some of the greatest encounters from the Australian Football League.",
-      "scheduledDate": 1787986800000,
+      "scheduledDate": 1788053400000,
       "duration": 30,
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Classic sport event, Australian rules football",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103083_2026-08-29_SH028096630000_102142641835_2018-11-27T09:00:00Z_p14740563_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103083_2026-08-30_SH028096630000_102142641835_2018-11-27T09:00:00Z_p14740563_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "Classic AFL",
       "episodeTitle": "",
       "description": "Condensed highlights and a look back at full replays of some of the greatest encounters from the Australian Football League.",
-      "scheduledDate": 1787988600000,
+      "scheduledDate": 1788055200000,
       "duration": 30,
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Classic sport event, Australian rules football",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103083_2026-08-29_SH028096630000_102142641835_2018-11-27T09:00:00Z_p14740563_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103083_2026-08-30_SH028096630000_102142641835_2018-11-27T09:00:00Z_p14740563_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "Classic AFL",
       "episodeTitle": "",
       "description": "Condensed highlights and a look back at full replays of some of the greatest encounters from the Australian Football League.",
-      "scheduledDate": 1787990400000,
+      "scheduledDate": 1788057000000,
       "duration": 30,
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Classic sport event, Australian rules football",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103083_2026-08-29_SH028096630000_102142641835_2018-11-27T09:00:00Z_p14740563_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103083_2026-08-30_SH028096630000_102142641835_2018-11-27T09:00:00Z_p14740563_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "Classic AFL",
       "episodeTitle": "",
       "description": "Condensed highlights and a look back at full replays of some of the greatest encounters from the Australian Football League.",
-      "scheduledDate": 1787992200000,
+      "scheduledDate": 1788058800000,
       "duration": 30,
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Classic sport event, Australian rules football",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103083_2026-08-29_SH028096630000_102142641835_2018-11-27T09:00:00Z_p14740563_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103083_2026-08-30_SH028096630000_102142641835_2018-11-27T09:00:00Z_p14740563_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "Classic AFL",
       "episodeTitle": "",
       "description": "Condensed highlights and a look back at full replays of some of the greatest encounters from the Australian Football League.",
-      "scheduledDate": 1787994000000,
+      "scheduledDate": 1788060600000,
       "duration": 30,
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Classic sport event, Australian rules football",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103083_2026-08-29_SH028096630000_102142641835_2018-11-27T09:00:00Z_p14740563_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103083_2026-08-30_SH028096630000_102142641835_2018-11-27T09:00:00Z_p14740563_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "Classic AFL",
       "episodeTitle": "",
       "description": "Condensed highlights and a look back at full replays of some of the greatest encounters from the Australian Football League.",
-      "scheduledDate": 1787995800000,
+      "scheduledDate": 1788062400000,
       "duration": 30,
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Classic sport event, Australian rules football",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103083_2026-08-29_SH028096630000_102142641835_2018-11-27T09:00:00Z_p14740563_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103083_2026-08-30_SH028096630000_102142641835_2018-11-27T09:00:00Z_p14740563_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "Classic AFL",
       "episodeTitle": "",
       "description": "Condensed highlights and a look back at full replays of some of the greatest encounters from the Australian Football League.",
-      "scheduledDate": 1787997600000,
+      "scheduledDate": 1788064200000,
       "duration": 30,
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Classic sport event, Australian rules football",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103083_2026-08-29_SH028096630000_102142641835_2018-11-27T09:00:00Z_p14740563_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103083_2026-08-30_SH028096630000_102142641835_2018-11-27T09:00:00Z_p14740563_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "Classic AFL",
       "episodeTitle": "",
       "description": "Condensed highlights and a look back at full replays of some of the greatest encounters from the Australian Football League.",
-      "scheduledDate": 1787999400000,
+      "scheduledDate": 1788066000000,
       "duration": 30,
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Classic sport event, Australian rules football",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103083_2026-08-29_SH028096630000_102142641835_2018-11-27T09:00:00Z_p14740563_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103083_2026-08-30_SH028096630000_102142641835_2018-11-27T09:00:00Z_p14740563_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "Classic AFL",
       "episodeTitle": "",
       "description": "Condensed highlights and a look back at full replays of some of the greatest encounters from the Australian Football League.",
-      "scheduledDate": 1788001200000,
+      "scheduledDate": 1788067800000,
       "duration": 30,
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Classic sport event, Australian rules football",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103083_2026-08-29_SH028096630000_102142641835_2018-11-27T09:00:00Z_p14740563_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103083_2026-08-30_SH028096630000_102142641835_2018-11-27T09:00:00Z_p14740563_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "Classic AFL",
       "episodeTitle": "",
       "description": "Condensed highlights and a look back at full replays of some of the greatest encounters from the Australian Football League.",
-      "scheduledDate": 1788003000000,
+      "scheduledDate": 1788069600000,
       "duration": 30,
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Classic sport event, Australian rules football",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103083_2026-08-29_SH028096630000_102142641835_2018-11-27T09:00:00Z_p14740563_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103083_2026-08-30_SH028096630000_102142641835_2018-11-27T09:00:00Z_p14740563_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "Classic AFL",
       "episodeTitle": "",
       "description": "Condensed highlights and a look back at full replays of some of the greatest encounters from the Australian Football League.",
-      "scheduledDate": 1788004800000,
+      "scheduledDate": 1788071400000,
       "duration": 30,
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Classic sport event, Australian rules football",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103083_2026-08-29_SH028096630000_102142641835_2018-11-27T09:00:00Z_p14740563_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103083_2026-08-30_SH028096630000_102142641835_2018-11-27T09:00:00Z_p14740563_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "Classic AFL",
       "episodeTitle": "",
       "description": "Condensed highlights and a look back at full replays of some of the greatest encounters from the Australian Football League.",
-      "scheduledDate": 1788006600000,
+      "scheduledDate": 1788073200000,
       "duration": 30,
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Classic sport event, Australian rules football",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103083_2026-08-29_SH028096630000_102142641835_2018-11-27T09:00:00Z_p14740563_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103083_2026-08-30_SH028096630000_102142641835_2018-11-27T09:00:00Z_p14740563_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "Classic AFL",
       "episodeTitle": "",
       "description": "Condensed highlights and a look back at full replays of some of the greatest encounters from the Australian Football League.",
-      "scheduledDate": 1788008400000,
+      "scheduledDate": 1788075000000,
       "duration": 30,
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Classic sport event, Australian rules football",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103083_2026-08-29_SH028096630000_102142641835_2018-11-27T09:00:00Z_p14740563_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103083_2026-08-30_SH028096630000_102142641835_2018-11-27T09:00:00Z_p14740563_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "Classic AFL",
       "episodeTitle": "",
       "description": "Condensed highlights and a look back at full replays of some of the greatest encounters from the Australian Football League.",
-      "scheduledDate": 1788010200000,
+      "scheduledDate": 1788076800000,
       "duration": 30,
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Classic sport event, Australian rules football",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103083_2026-08-29_SH028096630000_102142641835_2018-11-27T09:00:00Z_p14740563_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103083_2026-08-30_SH028096630000_102142641835_2018-11-27T09:00:00Z_p14740563_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "Classic AFL",
       "episodeTitle": "",
       "description": "Condensed highlights and a look back at full replays of some of the greatest encounters from the Australian Football League.",
-      "scheduledDate": 1788012000000,
+      "scheduledDate": 1788078600000,
       "duration": 30,
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Classic sport event, Australian rules football",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103083_2026-08-29_SH028096630000_102142641835_2018-11-27T09:00:00Z_p14740563_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103083_2026-08-30_SH028096630000_102142641835_2018-11-27T09:00:00Z_p14740563_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "Classic AFL",
       "episodeTitle": "",
       "description": "Condensed highlights and a look back at full replays of some of the greatest encounters from the Australian Football League.",
-      "scheduledDate": 1788013800000,
+      "scheduledDate": 1788080400000,
       "duration": 30,
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Classic sport event, Australian rules football",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103083_2026-08-29_SH028096630000_102142641835_2018-11-27T09:00:00Z_p14740563_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103083_2026-08-30_SH028096630000_102142641835_2018-11-27T09:00:00Z_p14740563_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "Classic AFL",
       "episodeTitle": "",
       "description": "Condensed highlights and a look back at full replays of some of the greatest encounters from the Australian Football League.",
-      "scheduledDate": 1788015600000,
+      "scheduledDate": 1788082200000,
       "duration": 30,
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Classic sport event, Australian rules football",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103083_2026-08-29_SH028096630000_102142641835_2018-11-27T09:00:00Z_p14740563_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103083_2026-08-30_SH028096630000_102142641835_2018-11-27T09:00:00Z_p14740563_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "Classic AFL",
       "episodeTitle": "",
       "description": "Condensed highlights and a look back at full replays of some of the greatest encounters from the Australian Football League.",
-      "scheduledDate": 1788017400000,
+      "scheduledDate": 1788084000000,
       "duration": 30,
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Classic sport event, Australian rules football",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103083_2026-08-29_SH028096630000_102142641835_2018-11-27T09:00:00Z_p14740563_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103083_2026-08-30_SH028096630000_102142641835_2018-11-27T09:00:00Z_p14740563_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "Classic AFL",
       "episodeTitle": "",
       "description": "Condensed highlights and a look back at full replays of some of the greatest encounters from the Australian Football League.",
-      "scheduledDate": 1788019200000,
+      "scheduledDate": 1788085800000,
       "duration": 30,
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Classic sport event, Australian rules football",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103083_2026-08-29_SH028096630000_102142641835_2018-11-27T09:00:00Z_p14740563_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103083_2026-08-30_SH028096630000_102142641835_2018-11-27T09:00:00Z_p14740563_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "Classic AFL",
       "episodeTitle": "",
       "description": "Condensed highlights and a look back at full replays of some of the greatest encounters from the Australian Football League.",
-      "scheduledDate": 1788021000000,
+      "scheduledDate": 1788087600000,
       "duration": 30,
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Classic sport event, Australian rules football",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103083_2026-08-29_SH028096630000_102142641835_2018-11-27T09:00:00Z_p14740563_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103083_2026-08-30_SH028096630000_102142641835_2018-11-27T09:00:00Z_p14740563_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "Classic AFL",
       "episodeTitle": "",
       "description": "Condensed highlights and a look back at full replays of some of the greatest encounters from the Australian Football League.",
-      "scheduledDate": 1788022800000,
+      "scheduledDate": 1788089400000,
       "duration": 30,
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Classic sport event, Australian rules football",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103083_2026-08-29_SH028096630000_102142641835_2018-11-27T09:00:00Z_p14740563_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103083_2026-08-30_SH028096630000_102142641835_2018-11-27T09:00:00Z_p14740563_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "Classic AFL",
       "episodeTitle": "",
       "description": "Condensed highlights and a look back at full replays of some of the greatest encounters from the Australian Football League.",
-      "scheduledDate": 1788024600000,
+      "scheduledDate": 1788091200000,
       "duration": 30,
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Classic sport event, Australian rules football",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103083_2026-08-29_SH028096630000_102142641835_2018-11-27T09:00:00Z_p14740563_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103083_2026-08-30_SH028096630000_102142641835_2018-11-27T09:00:00Z_p14740563_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "Classic AFL",
       "episodeTitle": "",
       "description": "Condensed highlights and a look back at full replays of some of the greatest encounters from the Australian Football League.",
-      "scheduledDate": 1788026400000,
+      "scheduledDate": 1788093000000,
       "duration": 30,
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Classic sport event, Australian rules football",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103083_2026-08-29_SH028096630000_102142641835_2018-11-27T09:00:00Z_p14740563_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103083_2026-08-30_SH028096630000_102142641835_2018-11-27T09:00:00Z_p14740563_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Classic AFL",
+      "episodeTitle": "",
+      "description": "Condensed highlights and a look back at full replays of some of the greatest encounters from the Australian Football League.",
+      "scheduledDate": 1788094800000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Classic sport event, Australian rules football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103083_2026-08-30_SH028096630000_102142641835_2018-11-27T09:00:00Z_p14740563_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Classic AFL",
+      "episodeTitle": "",
+      "description": "Condensed highlights and a look back at full replays of some of the greatest encounters from the Australian Football League.",
+      "scheduledDate": 1788096600000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Classic sport event, Australian rules football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103083_2026-08-30_SH028096630000_102142641835_2018-11-27T09:00:00Z_p14740563_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Classic AFL",
+      "episodeTitle": "",
+      "description": "Condensed highlights and a look back at full replays of some of the greatest encounters from the Australian Football League.",
+      "scheduledDate": 1788098400000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Classic sport event, Australian rules football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103083_2026-08-30_SH028096630000_102142641835_2018-11-27T09:00:00Z_p14740563_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Classic AFL",
+      "episodeTitle": "",
+      "description": "Condensed highlights and a look back at full replays of some of the greatest encounters from the Australian Football League.",
+      "scheduledDate": 1788100200000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Classic sport event, Australian rules football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103083_2026-08-30_SH028096630000_102142641835_2018-11-27T09:00:00Z_p14740563_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Classic AFL",
+      "episodeTitle": "",
+      "description": "Condensed highlights and a look back at full replays of some of the greatest encounters from the Australian Football League.",
+      "scheduledDate": 1788102000000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Classic sport event, Australian rules football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103083_2026-08-30_SH028096630000_102142641835_2018-11-27T09:00:00Z_p14740563_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Classic AFL",
+      "episodeTitle": "",
+      "description": "Condensed highlights and a look back at full replays of some of the greatest encounters from the Australian Football League.",
+      "scheduledDate": 1788103800000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Classic sport event, Australian rules football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103083_2026-08-30_SH028096630000_102142641835_2018-11-27T09:00:00Z_p14740563_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Classic AFL",
+      "episodeTitle": "",
+      "description": "Condensed highlights and a look back at full replays of some of the greatest encounters from the Australian Football League.",
+      "scheduledDate": 1788105600000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Classic sport event, Australian rules football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103083_2026-08-30_SH028096630000_102142641835_2018-11-27T09:00:00Z_p14740563_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Classic AFL",
+      "episodeTitle": "",
+      "description": "Condensed highlights and a look back at full replays of some of the greatest encounters from the Australian Football League.",
+      "scheduledDate": 1788107400000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Classic sport event, Australian rules football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103083_2026-08-30_SH028096630000_102142641835_2018-11-27T09:00:00Z_p14740563_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Classic AFL",
+      "episodeTitle": "",
+      "description": "Condensed highlights and a look back at full replays of some of the greatest encounters from the Australian Football League.",
+      "scheduledDate": 1788109200000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Classic sport event, Australian rules football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103083_2026-08-30_SH028096630000_102142641835_2018-11-27T09:00:00Z_p14740563_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Classic AFL",
+      "episodeTitle": "",
+      "description": "Condensed highlights and a look back at full replays of some of the greatest encounters from the Australian Football League.",
+      "scheduledDate": 1788111000000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Classic sport event, Australian rules football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103083_2026-08-30_SH028096630000_102142641835_2018-11-27T09:00:00Z_p14740563_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Classic AFL",
+      "episodeTitle": "",
+      "description": "Condensed highlights and a look back at full replays of some of the greatest encounters from the Australian Football League.",
+      "scheduledDate": 1788112800000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Classic sport event, Australian rules football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103083_2026-08-30_SH028096630000_102142641835_2018-11-27T09:00:00Z_p14740563_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     }
   ]
 }
