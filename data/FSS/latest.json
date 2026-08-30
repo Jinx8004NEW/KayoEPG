@@ -1,163 +1,141 @@
 {
   "channel": "FSS",
-  "date": "2026-08-30",
+  "date": "2026-08-31",
   "source": "kayo",
-  "fetchedAt": 1788097019650,
-  "fetchedAtIST": "30/8/2026, 7:06:59 pm",
+  "fetchedAt": 1788116704142,
+  "fetchedAtIST": "31/8/2026, 12:35:04 am",
   "events": [
-    {
-      "programTitle": "F1 Mini",
-      "episodeTitle": "Netherlands Grand Prix",
-      "description": "Highlights of the world's most iconic Formula 1 Grands Prix, featuring every podium and overtake.",
-      "scheduledDate": 1788030000000,
-      "duration": 30,
-      "parentalRating": "",
-      "programType": "Sports event",
-      "genre": "Motorsports, Classic sport event",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-08-29_SH036452570000_107032703571_2020-11-19T03:00:48Z_p18944992_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
-    {
-      "programTitle": "World Surf League",
-      "episodeTitle": "Championship Tour: Fiji Pro, Day 6",
-      "description": "Coverage of surfing action from the WSL.",
-      "scheduledDate": 1788031800000,
-      "duration": 270,
-      "parentalRating": "",
-      "programType": "Sports event",
-      "genre": "Surfing",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-08-29_SH033247700000_110929981531_2019-03-19T05:40:29Z_p16589355_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
-    {
-      "programTitle": "World Surf League",
-      "episodeTitle": "Championship Tour: Fiji Pro, Day 6",
-      "description": "Coverage of surfing action from the WSL.",
-      "scheduledDate": 1788048000000,
-      "duration": 240,
-      "parentalRating": "",
-      "programType": "Sports event",
-      "genre": "Surfing",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-08-30_SH033247700000_110929981531_2019-03-19T05:40:29Z_p16589355_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
     {
       "programTitle": "Auto Racing",
       "episodeTitle": "Muscle Car Masters: Sydney, Day 2",
       "description": "",
-      "scheduledDate": 1788062400000,
-      "duration": 180,
+      "scheduledDate": 1788120000000,
+      "duration": 90,
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Auto racing",
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-08-30_SH042716370000_111940672867_2022-05-26T15:57:13Z_p334890_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "SailGP Highlights",
-      "episodeTitle": "Sassnitz",
-      "description": "Features all the best sailing highlights from competitions across the globe.",
-      "scheduledDate": 1788073200000,
-      "duration": 60,
-      "parentalRating": "",
-      "programType": "Sports non-event",
-      "genre": "Sailing",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-08-30_SH039043160000_111951303264_2022-11-22T06:36:35Z_p17178369_i_h10_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
-    {
-      "programTitle": "World Rowing Championships 2026",
-      "episodeTitle": "Final Day, Session 1",
-      "description": "",
-      "scheduledDate": 1788076800000,
-      "duration": 45,
+      "programTitle": "World Surf League",
+      "episodeTitle": "Championship Tour: Fiji Pro, Day 7",
+      "description": "Coverage of surfing action from the WSL.",
+      "scheduledDate": 1788125400000,
+      "duration": 390,
       "parentalRating": "",
       "programType": "Sports event",
-      "genre": "Rowing",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-08-30_SH065782100000_111960337062_2026-08-17T17:56:28Z_p33830433_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
-    {
-      "programTitle": "The Hundred",
-      "episodeTitle": "Men's Final: Trent Rockets v Manchester Super Giants",
-      "description": "The Hundred is a professional franchise 100-ball cricket tournament.",
-      "scheduledDate": 1788079500000,
-      "duration": 18,
-      "parentalRating": "",
-      "programType": "Sports non-event",
-      "genre": "Cricket",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-08-30_SH044046720000_111401703581_2021-07-26T13:37:10Z_p20330611_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
-    {
-      "programTitle": "Formula 1",
-      "episodeTitle": "Dutch Grand Prix",
-      "description": "From Circuit Zandvoort in Zandvoort, North Holland, Netherlands.",
-      "scheduledDate": 1788080580000,
-      "duration": 117,
-      "parentalRating": "",
-      "programType": "Sports event",
-      "genre": "Auto racing",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-08-30_EP027326820855_111670562089_2026-07-30T22:25:34Z_p32387586_b_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
-    {
-      "programTitle": "World Rowing Championships 2026",
-      "episodeTitle": "Final Day, Session 2",
-      "description": "",
-      "scheduledDate": 1788087600000,
-      "duration": 160,
-      "parentalRating": "",
-      "programType": "Sports event",
-      "genre": "Rowing",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-08-30_SH065782100000_111960337062_2026-08-17T17:56:28Z_p33830433_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
-    {
-      "programTitle": "The Hundred",
-      "episodeTitle": "Women's Final: Trent Rockets v Sunrisers Leeds",
-      "description": "The Hundred is a professional franchise 100-ball cricket tournament.",
-      "scheduledDate": 1788097200000,
-      "duration": 20,
-      "parentalRating": "",
-      "programType": "Sports non-event",
-      "genre": "Cricket",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-08-30_SH044046720000_111401703581_2021-07-26T13:37:10Z_p20330611_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "genre": "Surfing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-08-30_SH033247700000_110929981531_2019-03-19T05:40:29Z_p16589355_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "Darts",
       "episodeTitle": "Australian Darts Masters - Day 2",
       "description": "Covering of all the action from darts events around the world.",
-      "scheduledDate": 1788098400000,
+      "scheduledDate": 1788148800000,
       "duration": 120,
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Darts",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-08-30_SH032967320000_109954612423_2024-10-04T13:14:55Z_p644283_i_h8_ah/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-08-31_SH032967320000_109954612423_2024-10-04T13:14:55Z_p644283_i_h8_ah/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "LPGA Tour Golf",
+      "episodeTitle": "FM Championship, Final Round",
+      "description": "From TPC Boston in Norton, Mass.",
+      "scheduledDate": 1788156000000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-08-31_EP031583890594_111855231845_2025-08-06T15:23:51Z_p28887975_b_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "DP World Tour Golf",
+      "episodeTitle": "Danish Golf Championship, Final Round",
+      "description": "From the Great Northern in Kerteminde, Denmark.",
+      "scheduledDate": 1788163200000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-08-31_SH040914080000_111510780655_2022-04-26T15:48:27Z_p20993758_i_h8_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NASCAR O'Reilly Auto Parts Series Highlights",
+      "episodeTitle": "Winn-Dixie 250",
+      "description": "Highlights of the various races taking place at the NASCAR O'Reilly Auto Parts Series.",
+      "scheduledDate": 1788170400000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Auto racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-08-31_SH062934750000_111812088477_2026-08-05T10:46:39Z_p32273555_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NASCAR Cup Racing Series",
+      "episodeTitle": "Daytona International Speedway",
+      "description": "Coverage of the NASCAR Cup Series, professional stock car racing in the United States.",
+      "scheduledDate": 1788174000000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Classic sport event, Motorsports, Auto racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-08-31_SH056052770000_110216247140_2024-02-28T07:23:12Z_p8599472_i_h10_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "PBR Bull Riding",
       "episodeTitle": "",
       "description": "Coverage of the action from the Professional Bull Riders events.",
-      "scheduledDate": 1788105600000,
+      "scheduledDate": 1788177600000,
       "duration": 60,
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Bull riding",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-08-30_SH033364560000_110114392996_2017-09-14T16:13:00Z_p12572769_i_h10_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-08-31_SH033364560000_110114392996_2017-09-14T16:13:00Z_p12572769_i_h10_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "SailGP Highlights",
       "episodeTitle": "Sassnitz",
       "description": "Features all the best sailing highlights from competitions across the globe.",
-      "scheduledDate": 1788109200000,
+      "scheduledDate": 1788181200000,
       "duration": 60,
       "parentalRating": "",
       "programType": "Sports non-event",
       "genre": "Sailing",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-08-30_SH039043160000_111951303264_2022-11-22T06:36:35Z_p17178369_i_h10_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-08-31_SH039043160000_111951303264_2022-11-22T06:36:35Z_p17178369_i_h10_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "Pool",
-      "episodeTitle": "US Open Pool: Junior Final",
-      "description": "Action from the world of pool.",
-      "scheduledDate": 1788112800000,
+      "programTitle": "DP World Tour Golf",
+      "episodeTitle": "Danish Golf Championship, Final Round",
+      "description": "From the Great Northern in Kerteminde, Denmark.",
+      "scheduledDate": 1788184800000,
       "duration": 120,
       "parentalRating": "",
       "programType": "Sports event",
-      "genre": "Billiards",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-08-30_SH038615030000_100974382724_2020-08-12T11:50:16Z_p466719_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-08-31_SH040914080000_111510780655_2022-04-26T15:48:27Z_p20993758_i_h8_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "LPGA Tour Golf",
+      "episodeTitle": "FM Championship, Final Round",
+      "description": "From TPC Boston in Norton, Mass.",
+      "scheduledDate": 1788192000000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-08-31_EP031583890594_111855231845_2025-08-06T15:23:51Z_p28887975_b_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "PGA Tour Highlights",
+      "episodeTitle": "TOUR Championship",
+      "description": "Highlights from PGA Tour events featuring the world's best golfers in action. Hosts track the progression of the game while reviewing the changes in technologies and techniques.",
+      "scheduledDate": 1788199200000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Classic sport event, Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-08-31_SH032355110000_106892699068_2023-03-16T12:30:24Z_p9060599_i_h10_ae/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     }
   ]
 }
