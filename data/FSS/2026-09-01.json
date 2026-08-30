@@ -2,8 +2,8 @@
   "channel": "FSS",
   "date": "2026-09-01",
   "source": "kayo",
-  "fetchedAt": 1788042409046,
-  "fetchedAtIST": "30/8/2026, 3:56:49 am",
+  "fetchedAt": 1788062777551,
+  "fetchedAtIST": "30/8/2026, 9:36:17 am",
   "events": [
     {
       "programTitle": "World Surf League",
@@ -15,6 +15,138 @@
       "programType": "Sports event",
       "genre": "Surfing",
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-08-31_SH033247700000_110929981531_2019-03-19T05:40:29Z_p16589355_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "World Surf League",
+      "episodeTitle": "Championship Tour: Fiji Pro, Day 8",
+      "description": "Coverage of surfing action from the WSL.",
+      "scheduledDate": 1788220800000,
+      "duration": 240,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Surfing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-09-01_SH033247700000_110929981531_2019-03-19T05:40:29Z_p16589355_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "SailGP",
+      "episodeTitle": "Sassnitz, Day 1",
+      "description": "",
+      "scheduledDate": 1788235200000,
+      "duration": 90,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Sailing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-09-01_SH051028760000_111582415077_2021-04-23T21:46:53Z_p19827810_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "SailGP",
+      "episodeTitle": "Sassnitz, Day 2",
+      "description": "",
+      "scheduledDate": 1788240600000,
+      "duration": 90,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Sailing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-09-01_SH051028760000_111582415077_2021-04-23T21:46:53Z_p19827810_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "PGA Tour Highlights",
+      "episodeTitle": "TOUR Championship",
+      "description": "Highlights from PGA Tour events featuring the world's best golfers in action. Hosts track the progression of the game while reviewing the changes in technologies and techniques.",
+      "scheduledDate": 1788246000000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Classic sport event, Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-09-01_SH032355110000_106892699068_2023-03-16T12:30:24Z_p9060599_i_h10_ae/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "European PGA Tour Highlights",
+      "episodeTitle": "British Masters",
+      "description": "All the action and highlights from European Tour golf.",
+      "scheduledDate": 1788249600000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-09-01_SH037026900000_107999152353_2022-09-05T13:56:59Z_p9656797_i_h10_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Getting a Round In",
+      "episodeTitle": "Zoe Badwi",
+      "description": "Australian professional golfer, Paul Gow hosts celebrities as his playing partners who share his love for the game of golf.",
+      "scheduledDate": 1788251400000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Series",
+      "genre": "Golf, Interview",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-09-01_SH048121120000_110998856207_2023-07-18T05:56:16Z_p25221374_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Darts",
+      "episodeTitle": "Australian Masters: Day 1",
+      "description": "Covering of all the action from darts events around the world.",
+      "scheduledDate": 1788253200000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Darts",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-09-01_SH032967320000_109954612423_2024-10-04T13:14:55Z_p644283_i_h8_ah/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Darts",
+      "episodeTitle": "Australian Darts Masters - Day 2",
+      "description": "Covering of all the action from darts events around the world.",
+      "scheduledDate": 1788260400000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Darts",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-09-01_SH032967320000_109954612423_2024-10-04T13:14:55Z_p644283_i_h8_ah/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "The Bowls Show",
+      "episodeTitle": "",
+      "description": "All the latest in the world of competitive bowls, including exclusive interviews, event highlights, club tours and coaching insight.",
+      "scheduledDate": 1788267600000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Other",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-09-01_SH024802440000_107847958042_2017-03-10T00:18:00Z_p13123463_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "SailGP",
+      "episodeTitle": "Sassnitz, Day 1",
+      "description": "",
+      "scheduledDate": 1788271200000,
+      "duration": 90,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Sailing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-09-01_SH051028760000_111582415077_2021-04-23T21:46:53Z_p19827810_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "SailGP",
+      "episodeTitle": "Sassnitz, Day 2",
+      "description": "",
+      "scheduledDate": 1788276600000,
+      "duration": 90,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Sailing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-09-01_SH051028760000_111582415077_2021-04-23T21:46:53Z_p19827810_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Darts",
+      "episodeTitle": "Australian Darts Masters - Day 2",
+      "description": "Covering of all the action from darts events around the world.",
+      "scheduledDate": 1788282000000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Darts",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-09-01_SH032967320000_109954612423_2024-10-04T13:14:55Z_p644283_i_h8_ah/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     }
   ]
 }

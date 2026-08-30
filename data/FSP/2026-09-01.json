@@ -2,8 +2,8 @@
   "channel": "FSP",
   "date": "2026-09-01",
   "source": "kayo",
-  "fetchedAt": 1788042408976,
-  "fetchedAtIST": "30/8/2026, 3:56:48 am",
+  "fetchedAt": 1788062777538,
+  "fetchedAtIST": "30/8/2026, 9:36:17 am",
   "events": [
     {
       "programTitle": "Formula 1",
@@ -26,6 +26,171 @@
       "programType": "Sports event",
       "genre": "Sailing",
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-08-31_SH051028760000_111582415077_2021-04-23T21:46:53Z_p19827810_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "SailGP",
+      "episodeTitle": "Sassnitz, Day 2",
+      "description": "",
+      "scheduledDate": 1788220800000,
+      "duration": 90,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Sailing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-09-01_SH051028760000_111582415077_2021-04-23T21:46:53Z_p19827810_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Getting a Round In",
+      "episodeTitle": "Zoe Badwi",
+      "description": "Australian professional golfer, Paul Gow hosts celebrities as his playing partners who share his love for the game of golf.",
+      "scheduledDate": 1788226200000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Series",
+      "genre": "Golf, Interview",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-09-01_SH048121120000_110998856207_2023-07-18T05:56:16Z_p25221374_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "LPGA Tour Golf",
+      "episodeTitle": "FM Championship, Final Round",
+      "description": "From TPC Boston in Norton, Mass.",
+      "scheduledDate": 1788228000000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-09-01_EP031583890594_111855231845_2025-08-06T15:23:51Z_p28887975_b_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "PGA Tour Highlights",
+      "episodeTitle": "TOUR Championship",
+      "description": "Highlights from PGA Tour events featuring the world's best golfers in action. Hosts track the progression of the game while reviewing the changes in technologies and techniques.",
+      "scheduledDate": 1788235200000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Classic sport event, Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-09-01_SH032355110000_106892699068_2023-03-16T12:30:24Z_p9060599_i_h10_ae/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "MotoGP Racing",
+      "episodeTitle": "Grand Prix of Aragon, Sprint Race",
+      "description": "From MotorLand Aragón in Aragon, Spain.",
+      "scheduledDate": 1788238800000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Motorcycle racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-09-01_SH028104880000_111837206758_2025-04-17T20:03:48Z_p445587_i_h8_ae/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Formula 1",
+      "episodeTitle": "Dutch Grand Prix",
+      "description": "From Circuit Zandvoort in Zandvoort, North Holland, Netherlands.",
+      "scheduledDate": 1788240600000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Auto racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-09-01_EP027326820855_111670562089_2026-07-30T22:25:34Z_p32387586_b_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "The Bowls Show",
+      "episodeTitle": "",
+      "description": "All the latest in the world of competitive bowls, including exclusive interviews, event highlights, club tours and coaching insight.",
+      "scheduledDate": 1788247800000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Other",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-09-01_SH024802440000_107847958042_2017-03-10T00:18:00Z_p13123463_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NASCAR Cup Racing Series",
+      "episodeTitle": "Daytona International Speedway",
+      "description": "Coverage of the NASCAR Cup Series, professional stock car racing in the United States.",
+      "scheduledDate": 1788251400000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Classic sport event, Motorsports, Auto racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-09-01_SH056052770000_110216247140_2024-02-28T07:23:12Z_p8599472_i_h10_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "PGA Tour Golf",
+      "episodeTitle": "BMW Championship, Final Round",
+      "description": "From Bellerive Country Club in St. Louis.",
+      "scheduledDate": 1788255000000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-09-01_EP030899371420_111691305105_2026-08-05T00:33:33Z_p32045085_b_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Formula 1",
+      "episodeTitle": "Dutch Grand Prix",
+      "description": "From Circuit Zandvoort in Zandvoort, North Holland, Netherlands.",
+      "scheduledDate": 1788262200000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Auto racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-09-01_EP027326820855_111670562089_2026-07-30T22:25:34Z_p32387586_b_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "MotoGP Racing",
+      "episodeTitle": "Grand Prix of Aragon, Sprint Race",
+      "description": "From MotorLand Aragón in Aragon, Spain.",
+      "scheduledDate": 1788269400000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Motorcycle racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-09-01_SH028104880000_111837206758_2025-04-17T20:03:48Z_p445587_i_h8_ae/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Darts",
+      "episodeTitle": "Australian Darts Masters - Day 2",
+      "description": "Covering of all the action from darts events around the world.",
+      "scheduledDate": 1788271200000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Darts",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-09-01_SH032967320000_109954612423_2024-10-04T13:14:55Z_p644283_i_h8_ah/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NASCAR Cup Racing Series",
+      "episodeTitle": "Daytona International Speedway",
+      "description": "Coverage of the NASCAR Cup Series, professional stock car racing in the United States.",
+      "scheduledDate": 1788278400000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Classic sport event, Motorsports, Auto racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-09-01_SH056052770000_110216247140_2024-02-28T07:23:12Z_p8599472_i_h10_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "MotoGP Racing",
+      "episodeTitle": "Grand Prix of Aragon",
+      "description": "From MotorLand Aragón in Aragon, Spain.",
+      "scheduledDate": 1788282000000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Motorcycle racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-09-01_SH028104880000_111837206758_2025-04-17T20:03:48Z_p445587_i_h8_ae/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Formula 1",
+      "episodeTitle": "Dutch Grand Prix",
+      "description": "From Circuit Zandvoort in Zandvoort, North Holland, Netherlands.",
+      "scheduledDate": 1788285600000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Auto racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-09-01_EP027326820855_111670562089_2026-07-30T22:25:34Z_p32387586_b_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     }
   ]
 }

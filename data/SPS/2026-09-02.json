@@ -1,0 +1,42 @@
+{
+  "channel": "SPS",
+  "date": "2026-09-02",
+  "source": "kayo",
+  "fetchedAt": 1788062777547,
+  "fetchedAtIST": "30/8/2026, 9:36:17 am",
+  "events": [
+    {
+      "programTitle": "SailGP",
+      "episodeTitle": "Sassnitz, Day 2",
+      "description": "",
+      "scheduledDate": 1788287400000,
+      "duration": 90,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Sailing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-09-01_SH051028760000_111582415077_2021-04-23T21:46:53Z_p19827810_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Darts",
+      "episodeTitle": "New Zealand Darts Masters: Final Day",
+      "description": "Covering of all the action from darts events around the world.",
+      "scheduledDate": 1788292800000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Darts",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-09-01_SH032967320000_109954612423_2024-10-04T13:14:55Z_p644283_i_h8_ah/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Darts",
+      "episodeTitle": "Australian Darts Masters - Day 2",
+      "description": "Covering of all the action from darts events around the world.",
+      "scheduledDate": 1788300000000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Darts",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-09-01_SH032967320000_109954612423_2024-10-04T13:14:55Z_p644283_i_h8_ah/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    }
+  ]
+}
