@@ -2,8 +2,8 @@
   "channel": "FS1",
   "date": "2026-08-31",
   "source": "kayo",
-  "fetchedAt": 1788149544104,
-  "fetchedAtIST": "31/8/2026, 9:42:24 am",
+  "fetchedAt": 1788191686687,
+  "fetchedAtIST": "31/8/2026, 9:24:46 pm",
   "events": [
     {
       "programTitle": "Men's Ashes",
@@ -241,11 +241,11 @@
       "episodeTitle": "England vs Pakistan",
       "description": "From Lord's Cricket Ground in London, United Kingdom.",
       "scheduledDate": 1788188400000,
-      "duration": 180,
+      "duration": 185,
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Cricket",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-08-31_EP029804991788_112060592033_2026-08-30T13:44:17Z_GNLZZGG003JZ5GF/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-08-31_EP029804991788_112100473426_2026-08-30T13:44:17Z_GNLZZGG003JZ5GF/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "Men's Ashes",
@@ -257,6 +257,17 @@
       "programType": "Sports event",
       "genre": "Classic sport event, Cricket",
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-08-31_SH047728050000_100718435032_2019-07-11T07:40:24Z_p10335812_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Sport Special",
+      "episodeTitle": "",
+      "description": "Tune into the latest news and comprehensive analysis of different sporting events around the globe.",
+      "scheduledDate": 1788199500000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Other",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/Fallback_LTV_Fox_Cricket/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     }
   ]
 }

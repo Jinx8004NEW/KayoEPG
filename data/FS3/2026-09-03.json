@@ -1,0 +1,31 @@
+{
+  "channel": "FS3",
+  "date": "2026-09-03",
+  "source": "kayo",
+  "fetchedAt": 1788191686704,
+  "fetchedAtIST": "31/8/2026, 9:24:46 pm",
+  "events": [
+    {
+      "programTitle": "LPGA Tour Golf",
+      "episodeTitle": "FM Championship, Final Round",
+      "description": "From TPC Boston in Norton, Mass.",
+      "scheduledDate": 1788379200000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-09-02_EP031583890594_111855231845_2025-08-06T15:23:51Z_p28887975_b_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "DP World Tour Golf",
+      "episodeTitle": "Danish Golf Championship, Final Round",
+      "description": "From the Great Northern in Kerteminde, Denmark.",
+      "scheduledDate": 1788386400000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-09-02_SH040914080000_111510780655_2022-04-26T15:48:27Z_p20993758_i_h8_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    }
+  ]
+}

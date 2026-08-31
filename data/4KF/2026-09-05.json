@@ -1,0 +1,27 @@
+{
+  "channel": "4KF",
+  "date": "2026-09-05",
+  "source": "kayo-4k",
+  "fetchedAt": 1788191701644,
+  "fetchedAtIST": "31/8/2026, 9:25:01 pm",
+  "events": [
+    {
+      "eventId": "gw12psh0vyvy01mz050yc6g9nl",
+      "programTitle": "Sydney v Brisbane",
+      "scheduledDate": 1788585300000,
+      "duration": 130,
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/ad1ebif022h00y4xnuvqaashj_image-header_pRow_1788148260000/fill/none/top/none/80/1920/1080/webp/image?brand=kayo",
+      "competitionTitle": "AFL",
+      "sport": "Australian Rules Football"
+    },
+    {
+      "eventId": "1nlxbc5yqef9y1k28gezhcij9m",
+      "programTitle": "Adelaide v Western Bulldogs",
+      "scheduledDate": 1788600900000,
+      "duration": 130,
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/c6gx1dp7fuzk92cilbdegibw4_image-header_pRow_1788148310000/fill/none/top/none/80/1920/1080/webp/image?brand=kayo",
+      "competitionTitle": "AFL",
+      "sport": "Australian Rules Football"
+    }
+  ]
+}
