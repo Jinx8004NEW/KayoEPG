@@ -2,8 +2,8 @@
   "channel": "FSS",
   "date": "2026-09-02",
   "source": "kayo",
-  "fetchedAt": 1788254448626,
-  "fetchedAtIST": "1/9/2026, 2:50:48 pm",
+  "fetchedAt": 1788279084360,
+  "fetchedAtIST": "1/9/2026, 9:41:24 pm",
   "events": [
     {
       "programTitle": "WSL Championship Tour",
@@ -15,6 +15,17 @@
       "programType": "Sports non-event",
       "genre": "Surfing",
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-09-01_SH035915170000_111894109012_2025-12-29T20:45:29Z_p13464759_i_h8_ad/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "F",
+      "episodeTitle": "",
+      "description": "",
+      "scheduledDate": 1788291000000,
+      "duration": 510,
+      "parentalRating": "PG",
+      "programType": "",
+      "genre": "",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/Fallback_LTV_Fox_Sports_507/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "WSL Championship Tour",
@@ -50,15 +61,15 @@
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-09-02_SH032967320000_109954612423_2024-10-04T13:14:55Z_p644283_i_h8_ah/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "PGA Tour Highlights",
-      "episodeTitle": "TOUR Championship",
-      "description": "Highlights from PGA Tour events featuring the world's best golfers in action. Hosts track the progression of the game while reviewing the changes in technologies and techniques.",
+      "programTitle": "F",
+      "episodeTitle": "",
+      "description": "",
       "scheduledDate": 1788336000000,
       "duration": 60,
       "parentalRating": "",
-      "programType": "Sports event",
-      "genre": "Classic sport event, Golf",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-09-02_SH032355110000_106892699068_2023-03-16T12:30:24Z_p9060599_i_h10_ae/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "programType": "",
+      "genre": "",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/Fallback_LTV_Fox_Sports_507/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "PGA Tour Champions Golf",
@@ -127,15 +138,15 @@
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-09-02_SH032967320000_109954612423_2024-10-04T13:14:55Z_p644283_i_h8_ah/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "Darts",
-      "episodeTitle": "Australian Darts Masters - Day 2",
-      "description": "Covering of all the action from darts events around the world.",
+      "programTitle": "F",
+      "episodeTitle": "",
+      "description": "",
       "scheduledDate": 1788364800000,
       "duration": 120,
       "parentalRating": "",
-      "programType": "Sports event",
-      "genre": "Darts",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-09-02_SH032967320000_109954612423_2024-10-04T13:14:55Z_p644283_i_h8_ah/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "programType": "",
+      "genre": "",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/Fallback_LTV_Fox_Sports_507/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "PGA Tour Highlights",
