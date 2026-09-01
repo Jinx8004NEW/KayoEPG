@@ -1,273 +1,273 @@
 {
   "channel": "ESP",
-  "date": "2026-09-01",
+  "date": "2026-09-02",
   "source": "kayo",
-  "fetchedAt": 1788279084366,
-  "fetchedAtIST": "1/9/2026, 9:41:24 pm",
+  "fetchedAt": 1788301554557,
+  "fetchedAtIST": "2/9/2026, 3:55:54 am",
   "events": [
     {
-      "programTitle": "",
-      "episodeTitle": "Fear and Doping in Las Vegas",
-      "description": "Dubbed by critics as the Doping Olympics, take a look at the first ever Enhanced Games in Las Vegas, an event where athletes taking PEDs compete for world records and millions in prize money.",
-      "scheduledDate": 1788202800000,
-      "duration": 60,
+      "programTitle": "College Football Live",
+      "episodeTitle": "",
+      "description": "Breaking news, analysis, features, roundtable discussions, and interviews covering all the latest events from the world of college football.",
+      "scheduledDate": 1788289200000,
+      "duration": 30,
       "parentalRating": "",
       "programType": "Sports non-event",
-      "genre": "Newsmagazine",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-08-31_SH033308270000_79811912898_2019-10-17T14:20:31Z_p229472_i_h10_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "genre": "Football, News",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-09-01_SH033651660000_110974424461_2017-12-12T23:22:00Z_p221266_i_h10_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "In Depth With Graham Bensinger",
+      "episodeTitle": "Bethenny Frankel",
+      "description": "Business mogul Bethenny Frankel shares how working odd jobs got her a foot in the door with celebrities and build the Skinnygirl empire.",
+      "scheduledDate": 1788291000000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Series",
+      "genre": "Sports talk, Interview",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-09-01_EP033308670165_111894348465_2025-07-23T14:34:41Z_p29291264_e_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "NFL Live",
       "episodeTitle": "",
       "description": "Wendi Nix and analysts break down the latest news in the NFL, offering views on players, coaches and management.",
-      "scheduledDate": 1788206400000,
-      "duration": 60,
+      "scheduledDate": 1788292800000,
+      "duration": 30,
       "parentalRating": "",
       "programType": "Sports non-event",
       "genre": "Football",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-08-31_SH033280050000_111648105022_2022-08-27T02:25:47Z_p267723_i_h8_ae/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-09-01_SH033280050000_112136172651_2022-08-27T02:25:47Z_p267723_i_h8_ae/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NFL Live",
+      "episodeTitle": "",
+      "description": "Wendi Nix and analysts break down the latest news in the NFL, offering views on players, coaches and management.",
+      "scheduledDate": 1788294600000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-09-01_SH033280050000_112136172651_2022-08-27T02:25:47Z_p267723_i_h8_ae/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "SportsCenter",
       "episodeTitle": "",
       "description": "The team deliver the latest news, highlights, and inside information from the wide world of sports, as well as trending topics across social media platforms.",
-      "scheduledDate": 1788210000000,
+      "scheduledDate": 1788296400000,
       "duration": 30,
       "parentalRating": "",
       "programType": "Sports non-event",
       "genre": "News, Sports talk",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-08-31_SH033259060000_109832503473_2018-04-18T10:39:00Z_p186674_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-09-01_SH033259060000_109832503473_2018-04-18T10:39:00Z_p186674_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "Pardon the Interruption",
       "episodeTitle": "",
       "description": "Tony Kornheiser and Mike Wilbon have intense discussions and interview guests about the top headlines in news and sports.",
-      "scheduledDate": 1788211800000,
+      "scheduledDate": 1788298200000,
       "duration": 30,
       "parentalRating": "",
       "programType": "Sports non-event",
       "genre": "Sports talk",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-08-31_SH032424080000_108239731292_2021-04-08T22:26:28Z_p186288_i_h8_ae/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-09-01_SH032424080000_108239731292_2021-04-08T22:26:28Z_p186288_i_h8_ae/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "SportsCenter",
       "episodeTitle": "",
       "description": "The team deliver the latest news, highlights, and inside information from the wide world of sports, as well as trending topics across social media platforms.",
-      "scheduledDate": 1788213600000,
+      "scheduledDate": 1788300000000,
       "duration": 60,
       "parentalRating": "",
       "programType": "Sports non-event",
       "genre": "News, Sports talk",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-08-31_SH033259060000_109832503473_2018-04-18T10:39:00Z_p186674_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-09-01_SH033259060000_109832503473_2018-04-18T10:39:00Z_p186674_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "MLB Epic Moments",
-      "episodeTitle": "An Ace Arrives",
-      "description": "After an in-season trade in 2008, CC Sabathia's strong arm helps lead the Milwaukee Brewers to the postseason.",
-      "scheduledDate": 1788217200000,
+      "programTitle": "College Football Live",
+      "episodeTitle": "",
+      "description": "Breaking news, analysis, features, roundtable discussions, and interviews covering all the latest events from the world of college football.",
+      "scheduledDate": 1788303600000,
+      "duration": 90,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Football, News",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-09-01_SH033651660000_110974424461_2017-12-12T23:22:00Z_p221266_i_h10_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "MLB Ultimate Lineup",
+      "episodeTitle": "The Most Unbreakable Records We Ever Saw",
+      "description": "This episode of MLB Ultimate Lineup looks at the most unbreakable records we ever saw.",
+      "scheduledDate": 1788309000000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Baseball",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-09-02_EP038442780001_111892222277_2022-08-29T02:56:23Z_p11233189_e_h11_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "SportsCenter Australia & NZ",
+      "episodeTitle": "",
+      "description": "Looks at the day's essential US sports news, highlights and analysis across NFL, NBA, MLB, NHL, college sports, major events and more.",
+      "scheduledDate": 1788310800000,
       "duration": 30,
       "parentalRating": "",
       "programType": "Series",
-      "genre": "Baseball",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-08-31_SH034893820000_107891973572_2024-03-28T17:33:17Z_p10817344_i_h8_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "genre": "Sports talk",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-09-02_SH034494390000_102282491960_2020-04-24T17:20:20Z_p16719850_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "MLB Baseball",
-      "episodeTitle": "Chicago Cubs vs Milwaukee Brewers",
-      "description": "From Wrigley Field in Chicago.",
-      "scheduledDate": 1788219000000,
+      "episodeTitle": "Arizona Diamondbacks vs Philadelphia Phillies",
+      "description": "From Chase Field in Phoenix.",
+      "scheduledDate": 1788312600000,
       "duration": 180,
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Baseball",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-08-31_EP062580852515_111891996183_2026-06-27T19:28:26Z_GNLZZGG0037SH33/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-09-02_EP062580852538_112047468519_2026-06-27T19:35:13Z_GNLZZGG0037VMBS/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "30 for 30",
-      "episodeTitle": "Once Upon a Time in Queens, Part 1",
-      "description": "The story of the 1986 Mets, one of the most dominating, infamous, and magical teams of all time, beginning with the team's origins back in the late 1970s.",
-      "scheduledDate": 1788229800000,
-      "duration": 60,
-      "parentalRating": "",
-      "programType": "Sports non-event",
-      "genre": "Documentary",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-09-01_EP023926430116_110823676786_2021-10-04T03:16:29Z_p20481505_e_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
-    {
-      "programTitle": "30 for 30",
-      "episodeTitle": "Once Upon a Time in Queens, Part 2",
-      "description": "A combative Mets team get into a series of altercation, the team building upon all the years they hadn't won and feeling a sense of brotherhood growing.",
-      "scheduledDate": 1788233400000,
-      "duration": 60,
-      "parentalRating": "",
-      "programType": "Sports non-event",
-      "genre": "Documentary",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-09-01_EP023926430117_111079042765_2021-10-04T03:35:48Z_p20481509_e_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
-    {
-      "programTitle": "30 for 30",
-      "episodeTitle": "Once Upon a Time in Queens, Part 3",
-      "description": "Politics in the team lead to the release of one of their players; the Mets enter pop culture, with the help of a song.",
-      "scheduledDate": 1788237000000,
-      "duration": 60,
-      "parentalRating": "",
-      "programType": "Sports non-event",
-      "genre": "Documentary",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-09-01_EP023926430118_111063939485_2021-10-04T03:36:21Z_p20481538_e_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
-    {
-      "programTitle": "30 for 30",
-      "episodeTitle": "Once Upon a Time in Queens, Part 4",
-      "description": "The Mets advance towards a World Series victory, facing the Boston Red Sox; fans reminisce about what the 1986 season meant to them.",
-      "scheduledDate": 1788240600000,
-      "duration": 60,
-      "parentalRating": "",
-      "programType": "Sports non-event",
-      "genre": "Documentary",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-09-01_EP023926430119_111073088867_2021-10-04T03:46:21Z_p20481554_e_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
-    {
-      "programTitle": "SC: Australia Weekly",
+      "programTitle": "Pardon the Interruption",
       "episodeTitle": "",
-      "description": "Delivers key sporting news, major highlights and expert analysis.",
-      "scheduledDate": 1788244200000,
-      "duration": 30,
-      "parentalRating": "",
-      "programType": "Series",
-      "genre": "News",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-09-01_SH065376100000_111577890861_2026-08-05T03:16:28Z_p30227362_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
-    {
-      "programTitle": "30 for 30 Shorts",
-      "episodeTitle": "The Deal",
-      "description": "The New York Yankees and the Boston Red Sox pursue Alex Rodriguez.",
-      "scheduledDate": 1788246000000,
+      "description": "Tony Kornheiser and Mike Wilbon have intense discussions and interview guests about the top headlines in news and sports.",
+      "scheduledDate": 1788323400000,
       "duration": 30,
       "parentalRating": "",
       "programType": "Sports non-event",
-      "genre": "Documentary",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-09-01_SH033234650000_111251502876_2019-12-24T10:40:17Z_p10143938_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "genre": "Sports talk",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-09-02_SH032424080000_108239731292_2021-04-08T22:26:28Z_p186288_i_h8_ae/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "SEC Storied",
-      "episodeTitle": "The Bo You Don't Know",
-      "description": "Rising young coaching star Robert \"Bo\" Rein is killed in a plane crash while on a recruiting trip in his new position as the LSU head football coach. Rein was also a standout collegiate baseball and football player at Ohio State.",
-      "scheduledDate": 1788247800000,
+      "programTitle": "SportsCenter",
+      "episodeTitle": "Top Plays of August",
+      "description": "The team deliver the latest news, highlights, and inside information from the wide world of sports, as well as trending topics across social media platforms.",
+      "scheduledDate": 1788325200000,
       "duration": 30,
       "parentalRating": "",
       "programType": "Sports non-event",
-      "genre": "Documentary",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-09-01_EP033491980033_111894289374_2020-08-28T16:30:16Z_p11988064_b_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "genre": "News, Sports talk",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-09-02_SH033259060000_109832503473_2018-04-18T10:39:00Z_p186674_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "SC: Australia Weekly",
-      "episodeTitle": "",
-      "description": "Delivers key sporting news, major highlights and expert analysis.",
-      "scheduledDate": 1788249600000,
-      "duration": 30,
+      "programTitle": "My Most Memorable Game",
+      "episodeTitle": "John Smoltz",
+      "description": "Bob Costas and Tom Verducci sit down with John Smoltz to discuss his most memorable game.",
+      "scheduledDate": 1788327000000,
+      "duration": 60,
       "parentalRating": "",
-      "programType": "Series",
-      "genre": "News",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-09-01_SH065376100000_111577890861_2026-08-05T03:16:28Z_p30227362_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "programType": "Sports non-event",
+      "genre": "Baseball",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-09-02_SH038385110000_111894122409_2018-02-03T10:01:00Z_p10436473_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "The Captain",
+      "episodeTitle": "Never Gave Up a Day in My Life",
+      "description": "Jeter wins his 5th and final World Series and celebrates his 3000th hit, but it's not all smooth sailing for this ageing superstar. He goes through a very public and difficult contract negotiation that changes his relationship with the Yankees.",
+      "scheduledDate": 1788330600000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Documentary, Baseball",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-09-02_EP043825540007_111239801476_2022-10-18T01:35:53Z_p22505962_e_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "The Captain",
+      "episodeTitle": "A Star in the Fabric",
+      "description": "Derek and Hannah Jeter share intimate details of their difficult journey on the way to parenthood. Jeter achieves another dream by becoming the owner of the Miami Marlins, but his journey is fraught with criticism and unfinished business.",
+      "scheduledDate": 1788334200000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Documentary, Baseball",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-09-02_EP043825540005_111239801448_2022-10-18T03:47:14Z_p22431057_e_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "ESPN FC",
       "episodeTitle": "",
       "description": "ESPN FC brings you a round-up of the latest news from the world of football, including in-depth analysis and exclusive interviews.",
-      "scheduledDate": 1788251400000,
+      "scheduledDate": 1788337800000,
       "duration": 30,
       "parentalRating": "",
       "programType": "Series",
       "genre": "Soccer, Sports talk",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-09-01_SH033236780000_109573421566_2026-05-25T06:15:30Z_p10106369_i_h11_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-09-02_SH033236780000_109573421566_2026-05-25T06:15:30Z_p10106369_i_h11_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "MLB Baseball",
-      "episodeTitle": "Chicago Cubs vs Milwaukee Brewers",
-      "description": "From Wrigley Field in Chicago.",
-      "scheduledDate": 1788253200000,
+      "episodeTitle": "Arizona Diamondbacks vs Philadelphia Phillies",
+      "description": "From Chase Field in Phoenix.",
+      "scheduledDate": 1788339600000,
       "duration": 120,
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Baseball",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-09-01_EP062580852515_111891996183_2026-06-27T19:28:26Z_GNLZZGG0037SH33/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-09-02_EP062580852538_112047468519_2026-06-27T19:35:13Z_GNLZZGG0037VMBS/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "SC: Australia Weekly",
-      "episodeTitle": "",
-      "description": "Delivers key sporting news, major highlights and expert analysis.",
-      "scheduledDate": 1788260400000,
-      "duration": 30,
+      "programTitle": "30 for 30",
+      "episodeTitle": "The Band That Wouldn't Die",
+      "description": "Barry Levinson documents the Baltimore Colts Marching Band who helped the promotion of the NFL back into the city.",
+      "scheduledDate": 1788346800000,
+      "duration": 60,
       "parentalRating": "",
-      "programType": "Series",
-      "genre": "News",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-09-01_SH065376100000_111577890861_2026-08-05T03:16:28Z_p30227362_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
-    {
-      "programTitle": "In Depth With Graham Bensinger",
-      "episodeTitle": "Rick Harrison",
-      "description": "Renowned journalist Graham Bensinger interviews some of the biggest names in sports, discussing their lives and careers and some controversial topics.",
-      "scheduledDate": 1788262200000,
-      "duration": 30,
-      "parentalRating": "",
-      "programType": "Series",
-      "genre": "Sports talk, Interview",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-09-01_EP033308670149_111892725932_2025-07-23T14:35:04Z_p29620677_e_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "programType": "Sports non-event",
+      "genre": "Documentary",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-09-02_EP023926430041_111892152897_2023-04-03T09:36:39Z_p7823727_e_h10_ad/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "Get Up",
       "episodeTitle": "",
       "description": "Mike Greenberg, Laura Rutledge and Jalen Rose discuss and analyse the latest news from the world of sports.",
-      "scheduledDate": 1788264000000,
+      "scheduledDate": 1788350400000,
       "duration": 120,
       "parentalRating": "",
       "programType": "Sports non-event",
       "genre": "Sports talk",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-09-01_SH033268270000_107093139583_2026-03-24T04:04:44Z_p15158780_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-09-02_SH033268270000_107093139583_2026-03-24T04:04:44Z_p15158780_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "First Take",
       "episodeTitle": "",
       "description": "Stephen A. Smith joins Molly Qerim Rose to debate the hottest topics in sports.",
-      "scheduledDate": 1788271200000,
+      "scheduledDate": 1788357600000,
       "duration": 90,
       "parentalRating": "",
       "programType": "Sports non-event",
       "genre": "Sports talk, News, Debate",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-09-01_SH033280060000_108193810385_2025-11-07T06:36:14Z_p186291_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-09-02_SH033280060000_108193810385_2025-11-07T06:36:14Z_p186291_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "Cheerleading",
-      "episodeTitle": "UDA College Dance Team Championship: 1A Hip Hop",
-      "description": "",
-      "scheduledDate": 1788276600000,
+      "programTitle": "SportsCenter",
+      "episodeTitle": "Top Plays of August",
+      "description": "The team deliver the latest news, highlights, and inside information from the wide world of sports, as well as trending topics across social media platforms.",
+      "scheduledDate": 1788363000000,
       "duration": 30,
       "parentalRating": "",
-      "programType": "Sports event",
-      "genre": "Cheerleading",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-09-01_SH064423510000_111194597087_2016-03-23T17:52:00Z_p9653418_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "programType": "Sports non-event",
+      "genre": "News, Sports talk",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-09-02_SH033259060000_109832503473_2018-04-18T10:39:00Z_p186674_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "The Pat McAfee Show",
       "episodeTitle": "",
       "description": "Former NFL punter Pat McAfee brings his humour, sarcasm and candour to the microphone to highlight the day's top stories.",
-      "scheduledDate": 1788278400000,
+      "scheduledDate": 1788364800000,
       "duration": 120,
       "parentalRating": "",
       "programType": "Series",
       "genre": "Sports talk",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-09-01_SH048483860000_111648065422_2020-09-10T14:31:07Z_p18762527_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-09-02_SH048483860000_111648065422_2020-09-10T14:31:07Z_p18762527_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "Always College Football",
+      "programTitle": "The Schrager Hour",
       "episodeTitle": "",
-      "description": "College football analyst Greg McElroy takes a deep dive into the sport with the biggest names on and off the field.",
-      "scheduledDate": 1788285600000,
+      "description": "Peter Schrager recaps his week on the road covering the NFL, dives into major league matchups, and goes behind the scenes of Monday Night Football alongside players, coaches and guests.",
+      "scheduledDate": 1788372000000,
       "duration": 60,
       "parentalRating": "",
-      "programType": "Sports non-event",
-      "genre": "Football",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-09-01_SH052241220000_111946645247_2024-07-29T14:34:00Z_p27835759_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "programType": "Series",
+      "genre": "News",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-09-02_SH065118940000_111892293024_2025-12-02T21:24:55Z_p31790650_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     }
   ]
 }
