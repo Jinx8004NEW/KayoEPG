@@ -1,0 +1,42 @@
+{
+  "channel": "FS3",
+  "date": "2026-09-04",
+  "source": "kayo",
+  "fetchedAt": 1788235138991,
+  "fetchedAtIST": "1/9/2026, 9:28:58 am",
+  "events": [
+    {
+      "programTitle": "PGA Tour Golf",
+      "episodeTitle": "BMW Championship, Final Round",
+      "description": "From Bellerive Country Club in St. Louis.",
+      "scheduledDate": 1788462000000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-09-03_EP030899371420_111691305105_2026-08-05T00:33:33Z_p32045085_b_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "PGA Tour Golf",
+      "episodeTitle": "BMW Championship, Final Round",
+      "description": "From Bellerive Country Club in St. Louis.",
+      "scheduledDate": 1788469200000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-09-03_EP030899371420_111691305105_2026-08-05T00:33:33Z_p32045085_b_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "DP World Tour Golf",
+      "episodeTitle": "Husqvarna British Masters, First Round",
+      "description": "From The Belfry in Sutton Coldfield, West Midlands, United Kingdom.",
+      "scheduledDate": 1788476400000,
+      "duration": 90,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-09-03_SH040914080000_111510780655_2022-04-26T15:48:27Z_p20993758_i_h8_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    }
+  ]
+}

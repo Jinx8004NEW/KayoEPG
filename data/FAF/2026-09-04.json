@@ -1,0 +1,64 @@
+{
+  "channel": "FAF",
+  "date": "2026-09-04",
+  "source": "kayo",
+  "fetchedAt": 1788235139000,
+  "fetchedAtIST": "1/9/2026, 9:28:59 am",
+  "events": [
+    {
+      "programTitle": "AFL",
+      "episodeTitle": "Fremantle vs Hawthorn",
+      "description": "From Optus Stadium in Perth, Western Australia, Australia.",
+      "scheduledDate": 1788462000000,
+      "duration": 150,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Australian rules football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-09-03_EP029151671300_111354726892_2026-03-20T22:57:10Z_GNLZZGG0031DGBN/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "AFLW Mini",
+      "episodeTitle": "",
+      "description": "Condensed highlights of some of the greatest encounters from the AFL Women's competition.",
+      "scheduledDate": 1788471000000,
+      "duration": 15,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Australian rules football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-09-03_SH038251630000_111269523232_2025-10-16T04:55:13Z_p19768743_b_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Classic AFL",
+      "episodeTitle": "2005 Round 3: Sydney Swans vs Brisbane Lions",
+      "description": "Condensed highlights and a look back at full replays of some of the greatest encounters from the Australian Football League.",
+      "scheduledDate": 1788471900000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Classic sport event, Australian rules football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-09-03_SH028096630000_102142641835_2018-11-27T09:00:00Z_p14740563_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Classic AFL",
+      "episodeTitle": "2024 Grand Final: Sydney Swans vs Brisbane Lions",
+      "description": "Condensed highlights and a look back at full replays of some of the greatest encounters from the Australian Football League.",
+      "scheduledDate": 1788473700000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Australian rules football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-09-03_SH028096630000_102142641835_2018-11-27T09:00:00Z_p14740563_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "AFL",
+      "episodeTitle": "Fremantle vs Hawthorn",
+      "description": "From Optus Stadium in Perth, Western Australia, Australia.",
+      "scheduledDate": 1788475500000,
+      "duration": 150,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Australian rules football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-09-03_EP029151671300_111354726892_2026-03-20T22:57:10Z_GNLZZGG0031DGBN/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    }
+  ]
+}

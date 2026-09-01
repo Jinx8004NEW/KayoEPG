@@ -2,8 +2,8 @@
   "channel": "FSS",
   "date": "2026-09-01",
   "source": "kayo",
-  "fetchedAt": 1788211237514,
-  "fetchedAtIST": "1/9/2026, 2:50:37 am",
+  "fetchedAt": 1788235139021,
+  "fetchedAtIST": "1/9/2026, 9:28:59 am",
   "events": [
     {
       "programTitle": "World Surf League",
@@ -26,6 +26,17 @@
       "programType": "Sports event",
       "genre": "Surfing",
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-09-01_SH033247700000_110929981531_2019-03-19T05:40:29Z_p16589355_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Darts",
+      "episodeTitle": "Australian Masters: Day 1",
+      "description": "Covering of all the action from darts events around the world.",
+      "scheduledDate": 1788228000000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Darts",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-09-01_SH032967320000_109954612423_2024-10-04T13:14:55Z_p644283_i_h8_ah/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "SailGP",
@@ -142,7 +153,7 @@
       "episodeTitle": "Australian Darts Masters - Day 2",
       "description": "Covering of all the action from darts events around the world.",
       "scheduledDate": 1788282000000,
-      "duration": 120,
+      "duration": 660,
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Darts",

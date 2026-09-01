@@ -1,0 +1,64 @@
+{
+  "channel": "SP2",
+  "date": "2026-09-04",
+  "source": "kayo",
+  "fetchedAt": 1788235138984,
+  "fetchedAtIST": "1/9/2026, 9:28:58 am",
+  "events": [
+    {
+      "programTitle": "Sport Special",
+      "episodeTitle": "",
+      "description": "Tune into the latest news and comprehensive analysis of different sporting events around the globe.",
+      "scheduledDate": 1788460200000,
+      "duration": 170,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Other",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/Fallback_LTV_Fox_League/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NRL Mini",
+      "episodeTitle": "Brisbane Broncos v Melbourne Storm",
+      "description": "A comprehensive summary of the match played is provided in an expedited timeframe.",
+      "scheduledDate": 1788470400000,
+      "duration": 20,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Rugby league, Rugby",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-09-03_SH035786430000_106552413658_2020-10-16T18:30:18Z_p18624350_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "The Late Show with Matty Johns",
+      "episodeTitle": "",
+      "description": "Matty Johns is joined by a panel of experts as they discuss upcoming rugby league matches with a mixture of jokes and left-field analysis.",
+      "scheduledDate": 1788471600000,
+      "duration": 60,
+      "parentalRating": "PG",
+      "programType": "Series",
+      "genre": "Sports talk, Rugby league",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-09-03_SH029192190000_111310281471_2026-03-13T04:05:00Z_p15263834_i_h10_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NRL",
+      "episodeTitle": "Brisbane Broncos vs Melbourne Storm",
+      "description": "From Suncorp Stadium in Milton, Queensland, Australia.",
+      "scheduledDate": 1788475200000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Rugby league, Rugby",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-09-03_EP031720961223_112090525929_2026-02-24T10:26:30Z_GNLZZGG002YE6LR/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "The Late Show with Matty Johns",
+      "episodeTitle": "",
+      "description": "Matty Johns is joined by a panel of experts as they discuss upcoming rugby league matches with a mixture of jokes and left-field analysis.",
+      "scheduledDate": 1788478800000,
+      "duration": 60,
+      "parentalRating": "PG",
+      "programType": "Series",
+      "genre": "Sports talk, Rugby league",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-09-03_SH029192190000_111310281471_2026-03-13T04:05:00Z_p15263834_i_h10_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    }
+  ]
+}
