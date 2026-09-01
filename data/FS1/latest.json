@@ -2,8 +2,8 @@
   "channel": "FS1",
   "date": "2026-09-01",
   "source": "kayo",
-  "fetchedAt": 1788235138972,
-  "fetchedAtIST": "1/9/2026, 9:28:58 am",
+  "fetchedAt": 1788254448493,
+  "fetchedAtIST": "1/9/2026, 2:50:48 pm",
   "events": [
     {
       "programTitle": "Men's Ashes",
@@ -204,37 +204,37 @@
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-09-01_SH031158690000_100796229602_2024-01-19T05:13:15Z_p16331760_i_h10_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "Sport Special",
-      "episodeTitle": "",
-      "description": "Tune into the latest news and comprehensive analysis of different sporting events around the globe.",
+      "programTitle": "Fox Mini Classics",
+      "episodeTitle": "2008/09 Test 1 - Australia v South Africa",
+      "description": "Highlights and mini matches from cricket matches around Australia and the rest of the world.",
       "scheduledDate": 1788253200000,
       "duration": 60,
       "parentalRating": "",
-      "programType": "Sports non-event",
-      "genre": "Other",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/Fallback_LTV_Fox_Cricket/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "programType": "Sports event",
+      "genre": "Classic sport event, Cricket",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-09-01_SH035785770000_107989498592_2020-08-11T06:00:22Z_p18623917_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "Sport Special",
-      "episodeTitle": "",
-      "description": "Tune into the latest news and comprehensive analysis of different sporting events around the globe.",
+      "programTitle": "Test Cricket",
+      "episodeTitle": "2008/09 Australia vs South Africa, 3rd Test",
+      "description": "Graeme Smith defies injury to return to the pitch at the SCG, setting the stage for one of Test cricket's most courageous final overs.",
       "scheduledDate": 1788256800000,
       "duration": 60,
       "parentalRating": "",
-      "programType": "Sports non-event",
-      "genre": "Other",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/Fallback_LTV_Fox_Cricket/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "programType": "Sports event",
+      "genre": "Cricket, Classic sport event",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-09-01_SH033446590000_98978823590_2023-09-29T14:53:53Z_p8163404_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "Sport Special",
-      "episodeTitle": "",
-      "description": "Tune into the latest news and comprehensive analysis of different sporting events around the globe.",
+      "programTitle": "Warnie: Classic Test Matches",
+      "episodeTitle": "1991/92 4th Test AUS vs IND",
+      "description": "A showcase of some classic Test cricket matches featuring Shane Warne, the greatest leg spin bowler of all time.",
       "scheduledDate": 1788260400000,
       "duration": 30,
       "parentalRating": "",
       "programType": "Sports non-event",
-      "genre": "Other",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/Fallback_LTV_Fox_Cricket/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "genre": "Cricket",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-09-01_SH035175710000_112097561807_2020-05-27T22:25:07Z_p18327087_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "Fox Cricket Pre Game",

@@ -2,8 +2,8 @@
   "channel": "4KF1",
   "date": "2026-09-05",
   "source": "kayo-4k",
-  "fetchedAt": 1788235148483,
-  "fetchedAtIST": "1/9/2026, 9:29:08 am",
+  "fetchedAt": 1788254453493,
+  "fetchedAtIST": "1/9/2026, 2:50:53 pm",
   "events": [
     {
       "eventId": "1xv7ibry2h6a912mcmt1awxk97",
@@ -11,6 +11,15 @@
       "scheduledDate": 1788604200000,
       "duration": 120,
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/bblczp42xjfxhb6zbbwxwr5bu_image-header_pRow_1787891683000/fill/none/top/none/80/1920/1080/webp/image?brand=kayo",
+      "competitionTitle": "Formula 1",
+      "sport": "Motorsport"
+    },
+    {
+      "eventId": "wjbz57iaijg01qiilxj0xh5yz",
+      "programTitle": "F1 Italy Qualifying",
+      "scheduledDate": 1788616800000,
+      "duration": 120,
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/dst4uqvu1zdxolyhpakfcy39f_image-header_pRow_1787891733000/fill/none/top/none/80/1920/1080/webp/image?brand=kayo",
       "competitionTitle": "Formula 1",
       "sport": "Motorsport"
     }
