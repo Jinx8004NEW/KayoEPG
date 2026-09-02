@@ -1,229 +1,218 @@
 {
   "channel": "ES2",
-  "date": "2026-09-02",
+  "date": "2026-09-03",
   "source": "kayo",
-  "fetchedAt": 1788365220770,
-  "fetchedAtIST": "2/9/2026, 9:37:00 pm",
+  "fetchedAt": 1788387900213,
+  "fetchedAtIST": "3/9/2026, 3:55:00 am",
   "events": [
     {
       "programTitle": "Get Up",
       "episodeTitle": "",
       "description": "Mike Greenberg, Laura Rutledge and Jalen Rose discuss and analyse the latest news from the world of sports.",
-      "scheduledDate": 1788289200000,
+      "scheduledDate": 1788375600000,
       "duration": 120,
       "parentalRating": "",
       "programType": "Sports non-event",
       "genre": "Sports talk",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-09-01_SH033268270000_107093139583_2026-03-24T04:04:44Z_p15158780_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-09-02_SH033268270000_107093139583_2026-03-24T04:04:44Z_p15158780_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "The Pat McAfee Show",
       "episodeTitle": "",
       "description": "Former NFL punter Pat McAfee brings his humour, sarcasm and candour to the microphone to highlight the day's top stories.",
-      "scheduledDate": 1788296400000,
+      "scheduledDate": 1788382800000,
       "duration": 120,
       "parentalRating": "",
       "programType": "Series",
       "genre": "Sports talk",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-09-01_SH048483860000_111648065422_2020-09-10T14:31:07Z_p18762527_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-09-02_SH048483860000_111648065422_2020-09-10T14:31:07Z_p18762527_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "Cheerleading",
-      "episodeTitle": "ICU World Championship - All Girl",
-      "description": "",
-      "scheduledDate": 1788303600000,
-      "duration": 60,
-      "parentalRating": "",
-      "programType": "Sports event",
-      "genre": "Cheerleading",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-09-01_SH064423510000_111194597087_2016-03-23T17:52:00Z_p9653418_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
-    {
-      "programTitle": "International Dance League",
-      "episodeTitle": "New York",
-      "description": "The world's best dance crews compete head-to-head for glory and prize money on the global stage.",
-      "scheduledDate": 1788307200000,
+      "programTitle": "NFL Live",
+      "episodeTitle": "",
+      "description": "Wendi Nix and analysts break down the latest news in the NFL, offering views on players, coaches and management.",
+      "scheduledDate": 1788390000000,
       "duration": 60,
       "parentalRating": "",
       "programType": "Sports non-event",
-      "genre": "Dance",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-09-02_SH065465050000_111855231862_2026-07-13T18:45:53Z_p33553747_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "genre": "Football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-09-02_SH033280050000_112136172651_2022-08-27T02:25:47Z_p267723_i_h8_ae/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "International Dance League",
-      "episodeTitle": "Vancouver Series",
-      "description": "Coverage of round two of the 2026 International Dance League, presented from the Thunderbird Sports Centre in Vancouver, Canada. The event takes place on May 23, 2026.",
-      "scheduledDate": 1788310800000,
+      "programTitle": "The Kingdom",
+      "episodeTitle": "Family Business",
+      "description": "Patrick Mahomes leads the Chiefs' pursuit of a third consecutive Super Bowl title, continuing the franchise's storied legacy. However, a wave of injuries threaten their strong start, raising questions about their ability to overcome challenges ahead.",
+      "scheduledDate": 1788393600000,
       "duration": 60,
       "parentalRating": "",
       "programType": "Sports non-event",
-      "genre": "Dance",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-09-02_SH065465050000_111855231862_2026-07-13T18:45:53Z_p33553747_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "genre": "Documentary, Football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-09-03_EP059653110001_112024882395_2025-08-07T12:55:14Z_p30782762_e_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "International Dance League",
-      "episodeTitle": "Sydney Series",
-      "description": "The world's best dance crews compete head-to-head for glory and prize money on the global stage.",
-      "scheduledDate": 1788314400000,
+      "programTitle": "The Kingdom",
+      "episodeTitle": "Don't Judge",
+      "description": "Guided by a resolve never to judge anyone else and a firm belief in second chances, legendary Chiefs coach Andy Reid has leaned on family bonds to sustain him through the highs of victory and the lows of unthinkable tragedy.",
+      "scheduledDate": 1788397200000,
       "duration": 60,
       "parentalRating": "",
       "programType": "Sports non-event",
-      "genre": "Dance",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-09-02_SH065465050000_111855231862_2026-07-13T18:45:53Z_p33553747_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "genre": "Documentary, Football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-09-03_EP059653110002_112024882398_2025-08-12T04:44:20Z_p30782766_e_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "International Dance League",
-      "episodeTitle": "Seoul Series",
-      "description": "From Kyungmin University Gymnasium in Uijeongbu, Gyeonggido, Korea, Republic of.",
-      "scheduledDate": 1788318000000,
+      "programTitle": "The Kingdom",
+      "episodeTitle": "In Our Chiefs Era",
+      "description": "In the most anticipated game of the regular season, the Chiefs square off against AFC rivals Josh Allen and the Buffalo Bills.",
+      "scheduledDate": 1788400800000,
       "duration": 60,
       "parentalRating": "",
-      "programType": "Sports event",
-      "genre": "Dance",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-09-02_SH065242250000_111855232004_2026-07-09T01:57:07Z_p33554256_st_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "programType": "Sports non-event",
+      "genre": "Documentary, Football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-09-03_EP059653110003_112024882399_2025-08-13T07:04:35Z_p30782796_e_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "The Kingdom",
+      "episodeTitle": "The Formula",
+      "description": "An ankle injury to Patrick Mahomes puts more pressure, and the team's Super Bowl hopes, on the shoulders of Chris Jones and the Chiefs' defence; a Christmas Day showdown against the Pittsburgh Steelers has major postseason implications.",
+      "scheduledDate": 1788404400000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Documentary, Football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-09-03_EP059653110004_112024882425_2025-08-13T07:04:15Z_p30782800_e_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "The Kingdom",
+      "episodeTitle": "Heartland",
+      "description": "With Chiefs Kingdom in full-throated support, Kansas City earns a home playoff win against the Texans. Their reward: an AFC Championship Game rematch with the Buffalo Bills, with a third straight trip to the Super Bowl on the line.",
+      "scheduledDate": 1788408000000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Documentary, Football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-09-03_EP059653110005_112024882435_2025-08-13T06:44:39Z_p30782804_e_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "The Kingdom",
+      "episodeTitle": "The Pursuit",
+      "description": "The Chiefs arrive in New Orleans on the verge of Super Bowl history. Standing in the way of their three-peat hopes are the Philadelphia Eagles, who have no intention of playing supporting characters in a storybook ending.",
+      "scheduledDate": 1788411600000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Documentary, Football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-09-03_EP059653110006_112116143738_2025-08-13T06:44:23Z_p30782812_e_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NFL Blitz",
+      "episodeTitle": "Road to Melbourne",
+      "description": "All of the best action from the National Football League.",
+      "scheduledDate": 1788415200000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Football, News",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-09-03_SH060667300000_110937783149_2022-09-12T05:46:51Z_p22911383_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "30 for 30",
-      "episodeTitle": "No Scope: The Story of FaZe Clan",
-      "description": "The rise and fall of FaZe Clan, the first professional esports team to make it big.",
-      "scheduledDate": 1788321600000,
+      "episodeTitle": "The Philly Special",
+      "description": "Players, coaches and fans explore the play that gives the Philadelphia Eagles their first Super Bowl victory over the New England Patriots.",
+      "scheduledDate": 1788417000000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Documentary",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-09-03_SH023926430000_112114622806_2025-07-16T16:24:28Z_p7817579_i_h8_ae/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "30 for 30",
+      "episodeTitle": "Seau",
+      "description": "A look at the life of American Football legend Junior Seau, from his early life in a Samoan immigrant family, to his experience in the NFL.",
+      "scheduledDate": 1788420600000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Documentary",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-09-03_EP023926430107_111940672837_2018-09-24T07:41:00Z_p15986998_e_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "30 for 30",
+      "episodeTitle": "The Two Bills",
+      "description": "The relationship between coaching masters Bill Belichick and Bill Parcells that spans over four decades.",
+      "scheduledDate": 1788427800000,
       "duration": 90,
       "parentalRating": "",
       "programType": "Sports non-event",
       "genre": "Documentary",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-09-02_EP023926430138_106621423630_2025-02-18T13:53:46Z_p27583855_e_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
-    {
-      "programTitle": "30 for 30",
-      "episodeTitle": "Dude Perfect: A Very Long Shot",
-      "description": "The meteoric rise of a group of friends from College Station, Texas, whose backyard antics evolved into a global sports-comedy phenomenon.",
-      "scheduledDate": 1788327000000,
-      "duration": 90,
-      "parentalRating": "",
-      "programType": "Sports non-event",
-      "genre": "Documentary",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-09-02_EP023926430140_106621445055_2025-03-04T18:03:38Z_p27571279_e_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
-    {
-      "programTitle": "International Dance League",
-      "episodeTitle": "New York",
-      "description": "The world's best dance crews compete head-to-head for glory and prize money on the global stage.",
-      "scheduledDate": 1788332400000,
-      "duration": 60,
-      "parentalRating": "",
-      "programType": "Sports non-event",
-      "genre": "Dance",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-09-02_SH065465050000_111855231862_2026-07-13T18:45:53Z_p33553747_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
-    {
-      "programTitle": "International Dance League",
-      "episodeTitle": "Vancouver Series",
-      "description": "Coverage of round two of the 2026 International Dance League, presented from the Thunderbird Sports Centre in Vancouver, Canada. The event takes place on May 23, 2026.",
-      "scheduledDate": 1788336000000,
-      "duration": 60,
-      "parentalRating": "",
-      "programType": "Sports non-event",
-      "genre": "Dance",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-09-02_SH065465050000_111855231862_2026-07-13T18:45:53Z_p33553747_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
-    {
-      "programTitle": "International Dance League",
-      "episodeTitle": "Sydney Series",
-      "description": "The third round of the 2026 International Dance League takes place at The Hordern Pavilion in Sydney, Australia on 20 June 2026.",
-      "scheduledDate": 1788339600000,
-      "duration": 60,
-      "parentalRating": "",
-      "programType": "Sports non-event",
-      "genre": "Dance",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-09-02_SH065465050000_111855231862_2026-07-13T18:45:53Z_p33553747_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
-    {
-      "programTitle": "International Dance League",
-      "episodeTitle": "Seoul Series",
-      "description": "From Kyungmin University Gymnasium in Uijeongbu, Gyeonggido, Korea, Republic of.",
-      "scheduledDate": 1788343200000,
-      "duration": 60,
-      "parentalRating": "",
-      "programType": "Sports event",
-      "genre": "Dance",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-09-02_SH065242250000_111855232004_2026-07-09T01:57:07Z_p33554256_st_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-09-03_EP023926430077_111940672840_2018-02-05T23:02:00Z_p15022772_e_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "MLB Baseball",
-      "episodeTitle": "Arizona Diamondbacks vs Philadelphia Phillies",
-      "description": "From Chase Field in Phoenix.",
-      "scheduledDate": 1788346800000,
+      "episodeTitle": "Los Angeles Dodgers vs St. Louis Cardinals",
+      "description": "From Uniqlo Field at Dodger Stadium in Los Angeles.",
+      "scheduledDate": 1788433200000,
       "duration": 120,
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Baseball",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-09-02_EP062580852538_112047468519_2026-06-27T19:35:13Z_GNLZZGG0037VMBS/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-09-03_EP062580852563_111991886057_2026-06-27T19:36:25Z_GNLZZGG0037TKR3/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "Quick Pitch",
       "episodeTitle": "",
       "description": "All the latest baseball news, scores and highlights. Plus, a first look at upcoming matchups.",
-      "scheduledDate": 1788354000000,
+      "scheduledDate": 1788440400000,
       "duration": 60,
       "parentalRating": "",
       "programType": "Sports non-event",
       "genre": "Baseball",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-09-02_SH039225660000_107838083445_2020-08-03T13:50:35Z_p3527970_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-09-03_SH039225660000_107838083445_2020-08-03T13:50:35Z_p3527970_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "Quick Pitch",
       "episodeTitle": "",
       "description": "All the latest baseball news, scores and highlights. Plus, a first look at upcoming matchups.",
-      "scheduledDate": 1788357600000,
+      "scheduledDate": 1788444000000,
       "duration": 60,
       "parentalRating": "",
       "programType": "Sports non-event",
       "genre": "Baseball",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-09-02_SH039225660000_107838083445_2020-08-03T13:50:35Z_p3527970_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-09-03_SH039225660000_107838083445_2020-08-03T13:50:35Z_p3527970_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "Quick Pitch",
       "episodeTitle": "",
       "description": "All the latest baseball news, scores and highlights. Plus, a first look at upcoming matchups.",
-      "scheduledDate": 1788361200000,
+      "scheduledDate": 1788447600000,
       "duration": 60,
       "parentalRating": "",
       "programType": "Sports non-event",
       "genre": "Baseball",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-09-02_SH039225660000_107838083445_2020-08-03T13:50:35Z_p3527970_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-09-03_SH039225660000_107838083445_2020-08-03T13:50:35Z_p3527970_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "Not So Fast, My Friend: A Lee Corso Special",
+      "programTitle": "30 for 30",
+      "episodeTitle": "The U",
+      "description": "Director Billy Corben tells the story of how, during the 1980s, a University of Miami coach turned the Hurricanes into the self-styled bad boys of American football.",
+      "scheduledDate": 1788451200000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Documentary",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-09-03_EP023926430017_111894109020_2019-09-09T20:24:55Z_p7900761_e_h11_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Get Up",
       "episodeTitle": "",
-      "description": "",
-      "scheduledDate": 1788364800000,
-      "duration": 60,
+      "description": "Mike Greenberg, Laura Rutledge and Jalen Rose discuss and analyse the latest news from the world of sports.",
+      "scheduledDate": 1788458400000,
+      "duration": 120,
       "parentalRating": "",
       "programType": "Sports non-event",
-      "genre": "Special, Football",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-09-02_SH059905840000_111855231950_2025-08-18T10:35:56Z_p30909573_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
-    {
-      "programTitle": "World Series of Poker",
-      "episodeTitle": "Episode 5: Las Vegas",
-      "description": "All the action from the World Series of Poker, as some of the greatest sharks circle the table to devour the competition.",
-      "scheduledDate": 1788368400000,
-      "duration": 60,
-      "parentalRating": "",
-      "programType": "Sports non-event",
-      "genre": "Poker, Card games",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-09-02_SH050447430000_111830003673_2019-06-19T15:00:55Z_p8534623_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
-    {
-      "programTitle": "World Series of Poker",
-      "episodeTitle": "Episode 6: Las Vegas",
-      "description": "All the action from the World Series of Poker, as some of the greatest sharks circle the table to devour the competition.",
-      "scheduledDate": 1788372000000,
-      "duration": 60,
-      "parentalRating": "",
-      "programType": "Sports non-event",
-      "genre": "Poker, Card games",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-09-02_SH050447430000_111830003673_2019-06-19T15:00:55Z_p8534623_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "genre": "Sports talk",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-09-03_SH033268270000_107093139583_2026-03-24T04:04:44Z_p15158780_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     }
   ]
 }
