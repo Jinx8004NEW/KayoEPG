@@ -1,0 +1,18 @@
+{
+  "channel": "4KF1",
+  "date": "2026-09-06",
+  "source": "kayo-4k",
+  "fetchedAt": 1788365236178,
+  "fetchedAtIST": "2/9/2026, 9:37:16 pm",
+  "events": [
+    {
+      "eventId": "17avsw6m3ljfn1gmmxkvax6gm8",
+      "programTitle": "F1 Italy Race",
+      "scheduledDate": 1788699600000,
+      "duration": 120,
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/2azbli9xjrk8zw36gw7kqbxt_image-header_pRow_1787891788000/fill/none/top/none/80/1920/1080/webp/image?brand=kayo",
+      "competitionTitle": "Formula 1",
+      "sport": "Motorsport"
+    }
+  ]
+}

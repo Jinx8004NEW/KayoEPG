@@ -2,8 +2,8 @@
   "channel": "FAF",
   "date": "2026-09-04",
   "source": "kayo",
-  "fetchedAt": 1788337765878,
-  "fetchedAtIST": "2/9/2026, 1:59:25 pm",
+  "fetchedAt": 1788365220749,
+  "fetchedAtIST": "2/9/2026, 9:37:00 pm",
   "events": [
     {
       "programTitle": "AFL",
@@ -160,15 +160,15 @@
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-09-04_SH036489360000_112090732832_2020-10-14T05:10:24Z_p18959783_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "F",
-      "episodeTitle": "",
-      "description": "",
+      "programTitle": "AFL",
+      "episodeTitle": "Elimination Final: Geelong Cats vs Carlton",
+      "description": "Live from the MCG. Bounce time: 7:40pm AEST.",
       "scheduledDate": 1788514800000,
       "duration": 155,
       "parentalRating": "",
-      "programType": "",
-      "genre": "",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/Fallback_LTV_Fox_Footy/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "programType": "Sports event",
+      "genre": "Playoff sports, Australian rules football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-09-04_EP029151671448_112198365828_2026-09-02T13:54:22Z_GNLZZGG003M7PS6/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "Finals Footy on Fox",
@@ -248,15 +248,15 @@
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-09-04_EP029151671300_111354726892_2026-03-20T22:57:10Z_GNLZZGG0031DGBN/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "F",
-      "episodeTitle": "",
-      "description": "",
+      "programTitle": "AFL",
+      "episodeTitle": "Elimination Final: Geelong Cats vs Carlton",
+      "description": "Live from the MCG. Bounce time: 7:40pm AEST.",
       "scheduledDate": 1788543000000,
       "duration": 150,
       "parentalRating": "",
-      "programType": "",
-      "genre": "",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/Fallback_LTV_Fox_Footy/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "programType": "Sports event",
+      "genre": "Playoff sports, Australian rules football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-09-04_EP029151671448_112198365828_2026-09-02T13:54:22Z_GNLZZGG003M7PS6/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     }
   ]
 }
