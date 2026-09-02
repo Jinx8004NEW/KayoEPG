@@ -2,8 +2,8 @@
   "channel": "SPS",
   "date": "2026-09-02",
   "source": "kayo",
-  "fetchedAt": 1788301554547,
-  "fetchedAtIST": "2/9/2026, 3:55:54 am",
+  "fetchedAt": 1788319183098,
+  "fetchedAtIST": "2/9/2026, 8:49:43 am",
   "events": [
     {
       "programTitle": "SailGP",
@@ -95,9 +95,31 @@
     },
     {
       "programTitle": "Supercars Championship",
+      "episodeTitle": "Century Batteries Ipswich Super 440: Race 26",
+      "description": "Supercars compete in a series across Australia and New Zealand.",
+      "scheduledDate": 1788317040000,
+      "duration": 59,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Auto racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-09-02_SH027326760000_111068013985_2026-08-07T01:36:07Z_p522547_i_h10_ad/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Supercars Championship",
       "episodeTitle": "Century Batteries Ipswich Super 440: Race 27",
       "description": "Supercars compete in a series across Australia and New Zealand.",
       "scheduledDate": 1788319800000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Auto racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-09-02_SH027326760000_111068013985_2026-08-07T01:36:07Z_p522547_i_h10_ad/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Supercars Championship",
+      "episodeTitle": "Century Batteries Ipswich Super 440: Race 27",
+      "description": "Supercars compete in a series across Australia and New Zealand.",
+      "scheduledDate": 1788320580000,
       "duration": 60,
       "parentalRating": "",
       "programType": "Sports event",
@@ -110,6 +132,17 @@
       "description": "Supercars compete in a series across Australia and New Zealand.",
       "scheduledDate": 1788323400000,
       "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Auto racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-09-02_SH027326760000_111068013985_2026-08-07T01:36:07Z_p522547_i_h10_ad/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Supercars Championship",
+      "episodeTitle": "",
+      "description": "Supercars compete in a series across Australia and New Zealand.",
+      "scheduledDate": 1788324180000,
+      "duration": 62,
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Auto racing",
