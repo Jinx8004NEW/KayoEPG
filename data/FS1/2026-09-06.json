@@ -2,8 +2,8 @@
   "channel": "FS1",
   "date": "2026-09-06",
   "source": "kayo",
-  "fetchedAt": 1788424664204,
-  "fetchedAtIST": "3/9/2026, 2:07:44 pm",
+  "fetchedAt": 1788450967640,
+  "fetchedAtIST": "3/9/2026, 9:26:07 pm",
   "events": [
     {
       "programTitle": "Women's CPL T20 Cricket",
@@ -14,7 +14,7 @@
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Cricket",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-09-05_EP044402700027_112192190860_2026-09-02T10:57:55Z_GNLZZGG003M6Z61/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-09-05_EP044402700027_112231452213_2026-09-03T13:57:18Z_GNLZZGG003MDGWB/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "Test Cricket",
@@ -39,15 +39,15 @@
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-09-05_SH047728050000_100718435032_2019-07-11T07:40:24Z_p10335812_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "FOX SPORTS News",
+      "programTitle": "CPL T20 Cricket",
       "episodeTitle": "",
-      "description": "The latest highlights, reaction and analysis of the biggest sport stories from Australia and around the world.",
+      "description": "Coverage of action from the Caribbean Premier League T20 cricket.",
       "scheduledDate": 1788652500000,
       "duration": 245,
       "parentalRating": "",
-      "programType": "Sports non-event",
-      "genre": "News",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-09-05_SH042121470000_112219802794_2025-01-23T05:33:43Z_p21695748_i_h10_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "programType": "Sports event",
+      "genre": "Cricket",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-09-05_SH033351860000_111569687238_2023-08-23T16:53:32Z_p14393243_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     }
   ]
 }

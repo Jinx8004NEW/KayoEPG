@@ -2,8 +2,8 @@
   "channel": "FS3",
   "date": "2026-09-06",
   "source": "kayo",
-  "fetchedAt": 1788424664217,
-  "fetchedAtIST": "3/9/2026, 2:07:44 pm",
+  "fetchedAt": 1788450967705,
+  "fetchedAtIST": "3/9/2026, 9:26:07 pm",
   "events": [
     {
       "programTitle": "2026 Open Championship",
@@ -17,10 +17,21 @@
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-09-05_SH065192120000_112099282410_2026-06-18T14:36:18Z_p32512173_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
+      "programTitle": "Getting a Round In",
+      "episodeTitle": "Craig Wing",
+      "description": "Australian professional golfer, Paul Gow hosts celebrities as his playing partners who share his love for the game of golf.",
+      "scheduledDate": 1788643800000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Series",
+      "genre": "Golf, Interview",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-09-05_SH048121120000_110998856207_2023-07-18T05:56:16Z_p25221374_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
       "programTitle": "DP World Tour Golf",
       "episodeTitle": "Husqvarna British Masters, Third Round",
       "description": "From The Belfry in Sutton Coldfield, West Midlands, United Kingdom.",
-      "scheduledDate": 1788643800000,
+      "scheduledDate": 1788645600000,
       "duration": 90,
       "parentalRating": "",
       "programType": "Sports event",
@@ -32,6 +43,17 @@
       "episodeTitle": "Ally Challenge",
       "description": "Replays of past PGA Tour competitions.",
       "scheduledDate": 1788649200000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-09-05_SH051073670000_111289607870_2020-11-09T05:21:00Z_p18099468_i_h8_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "PGA Tour Champions Golf",
+      "episodeTitle": "Ally Challenge",
+      "description": "Replays of past PGA Tour competitions.",
+      "scheduledDate": 1788651000000,
       "duration": 60,
       "parentalRating": "",
       "programType": "Sports non-event",
