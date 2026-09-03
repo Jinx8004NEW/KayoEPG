@@ -2,8 +2,8 @@
   "channel": "FS1",
   "date": "2026-09-03",
   "source": "kayo",
-  "fetchedAt": 1788405733111,
-  "fetchedAtIST": "3/9/2026, 8:52:13 am",
+  "fetchedAt": 1788424664202,
+  "fetchedAtIST": "3/9/2026, 2:07:44 pm",
   "events": [
     {
       "programTitle": "Men's Ashes",
@@ -138,10 +138,32 @@
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-09-03_SH033446590000_98978823590_2023-09-29T14:53:53Z_p8163404_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
+      "programTitle": "Test Cricket",
+      "episodeTitle": "England v Pakistan, 2nd Test Review",
+      "description": "Following a dominant win by England in the opening Test, Pakistan must deliver a powerful comeback as the series transitions to Lord's.",
+      "scheduledDate": 1788422640000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Cricket, Classic sport event",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-09-03_SH033446590000_98978823590_2023-09-29T14:53:53Z_p8163404_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
       "programTitle": "CPL T20 Cricket",
       "episodeTitle": "Trinbago Knight Riders vs Antigua & Barbuda Falcons",
       "description": "From Queen's Park Oval in Port-of-Spain, Port of Spain, Trinidad and Tobago.",
       "scheduledDate": 1788426000000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Cricket",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-09-03_EP033351860199_112142477394_2026-08-30T13:44:12Z_GNLZZGG003JZ5J0/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "CPL T20 Cricket",
+      "episodeTitle": "Trinbago Knight Riders vs Antigua & Barbuda Falcons",
+      "description": "From Queen's Park Oval in Port-of-Spain, Port of Spain, Trinidad and Tobago.",
+      "scheduledDate": 1788426240000,
       "duration": 30,
       "parentalRating": "",
       "programType": "Sports event",
@@ -160,6 +182,17 @@
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-09-03_SH035785770000_107989498592_2020-08-11T06:00:22Z_p18623917_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
+      "programTitle": "Fox Mini Classics",
+      "episodeTitle": "2001/02 3rd Test: Australia v New Zealand",
+      "description": "Highlights and mini matches from cricket matches around Australia and the rest of the world.",
+      "scheduledDate": 1788428040000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Classic sport event, Cricket",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-09-03_SH035785770000_107989498592_2020-08-11T06:00:22Z_p18623917_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
       "programTitle": "Ashes Archive",
       "episodeTitle": "",
       "description": "Showcases classic Tests, ODIs and T20 matches played on Aussie soil against Australia's biggest rivals.",
@@ -169,6 +202,28 @@
       "programType": "Series",
       "genre": "Cricket",
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-09-03_SH034952550000_112112708047_2020-04-24T19:15:07Z_p18225721_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Keepin' It Cricket",
+      "episodeTitle": "",
+      "description": "",
+      "scheduledDate": 1788429840000,
+      "duration": 55,
+      "parentalRating": "",
+      "programType": "Series",
+      "genre": "Cricket",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/Fallback_LTV_Fox_Cricket/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Warnie: Classic Test Matches",
+      "episodeTitle": "1991/92 4th Test AUS vs IND",
+      "description": "A showcase of some classic Test cricket matches featuring Shane Warne, the greatest leg spin bowler of all time.",
+      "scheduledDate": 1788433140000,
+      "duration": 31,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Cricket",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-09-03_SH035175710000_112139795341_2020-05-27T22:25:07Z_p18327087_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "Warnie: Classic Test Matches",
@@ -182,15 +237,15 @@
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-09-03_SH035175710000_112139795341_2020-05-27T22:25:07Z_p18327087_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "Fox Cricket Pre Game",
-      "episodeTitle": "Women's ODI: England v Ireland, Game 1",
-      "description": "The team present an extensive preview of all the action to come with the latest news, the best analysis, entertainment and interviews.",
+      "programTitle": "Women's One-Day International Cricket",
+      "episodeTitle": "2nd ODI: England vs Ireland",
+      "description": "From Incora County Ground in Derby, Derbyshire, United Kingdom.",
       "scheduledDate": 1788435000000,
-      "duration": 30,
+      "duration": 230,
       "parentalRating": "",
-      "programType": "Sports non-event",
+      "programType": "Sports event",
       "genre": "Cricket",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-09-03_SH035786310000_111887034140_2025-11-20T06:27:30Z_p18624259_i_h10_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-09-03_SH033300360000_96687414592_2024-03-21T08:33:46Z_p16537220_e_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "Women's One-Day International Cricket",

@@ -1,0 +1,42 @@
+{
+  "channel": "FS3",
+  "date": "2026-09-06",
+  "source": "kayo",
+  "fetchedAt": 1788424664217,
+  "fetchedAtIST": "3/9/2026, 2:07:44 pm",
+  "events": [
+    {
+      "programTitle": "2026 Open Championship",
+      "episodeTitle": "Final Round",
+      "description": "From Royal Birkdale Golf Club in Southport, Lancashire, England.",
+      "scheduledDate": 1788636600000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-09-05_SH065192120000_112099282410_2026-06-18T14:36:18Z_p32512173_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "DP World Tour Golf",
+      "episodeTitle": "Husqvarna British Masters, Third Round",
+      "description": "From The Belfry in Sutton Coldfield, West Midlands, United Kingdom.",
+      "scheduledDate": 1788643800000,
+      "duration": 90,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-09-05_SH040914080000_111510780655_2022-04-26T15:48:27Z_p20993758_i_h8_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "PGA Tour Champions Golf",
+      "episodeTitle": "Ally Challenge",
+      "description": "Replays of past PGA Tour competitions.",
+      "scheduledDate": 1788649200000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-09-05_SH051073670000_111289607870_2020-11-09T05:21:00Z_p18099468_i_h8_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    }
+  ]
+}

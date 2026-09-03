@@ -2,8 +2,8 @@
   "channel": "RTV",
   "date": "2026-09-04",
   "source": "kayo",
-  "fetchedAt": 1788405733167,
-  "fetchedAtIST": "3/9/2026, 8:52:13 am",
+  "fetchedAt": 1788424664259,
+  "fetchedAtIST": "3/9/2026, 2:07:44 pm",
   "events": [
     {
       "programTitle": "Get on SA",
@@ -94,15 +94,15 @@
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/Fallback_LTV_Racing_TV/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "Racing Review",
+      "programTitle": "Racing Live",
       "episodeTitle": "",
-      "description": "A full recap of racing from Wangaratta.",
+      "description": "Features comprehensive coverage of some of the top horse racing events taking place in Australia and Hong Kong.",
       "scheduledDate": 1788489000000,
-      "duration": 30,
+      "duration": 285,
       "parentalRating": "",
-      "programType": "Sports non-event",
+      "programType": "Series",
       "genre": "Horse racing",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/148460_2026-09-04_SH065368570000_110412511319_2022-09-19T11:46:59Z_p872189_i_h8_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/148460_2026-09-04_SH029317280000_107969791548_2019-10-09T21:00:41Z_p15322312_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "Racing Live",

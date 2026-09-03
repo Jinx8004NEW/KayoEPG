@@ -2,8 +2,8 @@
   "channel": "FS1",
   "date": "2026-09-05",
   "source": "kayo",
-  "fetchedAt": 1788405733112,
-  "fetchedAtIST": "3/9/2026, 8:52:13 am",
+  "fetchedAt": 1788424664203,
+  "fetchedAtIST": "3/9/2026, 2:07:44 pm",
   "events": [
     {
       "programTitle": "Men's Ashes",
@@ -61,15 +61,202 @@
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/Fallback_LTV_Fox_Cricket/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "CPL T20 Cricket",
+      "programTitle": "FOX SPORTS News",
       "episodeTitle": "",
-      "description": "Coverage of action from the Caribbean Premier League T20 cricket.",
+      "description": "The latest highlights, reaction and analysis of the biggest sport stories from Australia and around the world.",
       "scheduledDate": 1788562500000,
       "duration": 245,
       "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "News",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-09-04_SH042121470000_112219802794_2025-01-23T05:33:43Z_p21695748_i_h10_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Test Day",
+      "episodeTitle": "Australia v Bangladesh, 1st Test Review",
+      "description": "A look at some of the highlights from the recent test match play, with an analysis of some of the best moments.",
+      "scheduledDate": 1788577200000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Classic sport event, Cricket",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-09-05_SH031158690000_100796229602_2024-01-19T05:13:15Z_p16331760_i_h10_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Test Day",
+      "episodeTitle": "Australia v Bangladesh, 2nd Test Review",
+      "description": "A look at some of the highlights from the recent test match play, with an analysis of some of the best moments.",
+      "scheduledDate": 1788580800000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Classic sport event, Cricket",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-09-05_SH031158690000_100796229602_2024-01-19T05:13:15Z_p16331760_i_h10_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Cricket Classics",
+      "episodeTitle": "ODI - 1993/94 3rd Final Australia vs South Africa",
+      "description": "Sports experts take a look at some of the most classic cricket matches ever played in order to analyse and understand the sport better.",
+      "scheduledDate": 1788584400000,
+      "duration": 50,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Cricket",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-09-05_SH034744900000_111892271523_2025-02-28T10:44:38Z_p223333_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "One-Day International Cricket",
+      "episodeTitle": "1997/98: Australia vs South Africa, 3rd Final",
+      "description": "Coverage of one-day cricket matches contested by international teams.",
+      "scheduledDate": 1788587400000,
+      "duration": 50,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Cricket, Classic sport event",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-09-05_SH034583010000_110095246552_2026-03-24T13:16:18Z_p8509066_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "One-Day International Cricket",
+      "episodeTitle": "2002: Australia vs South Africa, Game 6",
+      "description": "Watch the sixth game of Australia playing against South Africa in 2002.",
+      "scheduledDate": 1788590400000,
+      "duration": 50,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Cricket, Classic sport event",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-09-05_SH034583010000_110095246552_2026-03-24T13:16:18Z_p8509066_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "CPL T20 Cricket",
+      "episodeTitle": "Guyana Amazon Warriors vs Jamaica Kingsmen",
+      "description": "Coverage of action from the Caribbean Premier League T20 cricket.",
+      "scheduledDate": 1788593400000,
+      "duration": 30,
+      "parentalRating": "",
       "programType": "Sports event",
       "genre": "Cricket",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-09-04_SH033351860000_111569687238_2023-08-23T16:53:32Z_p14393243_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-09-05_EP033351860201_112089227021_2026-08-30T13:44:40Z_GNLZZGG003JZ5M5/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Test Cricket",
+      "episodeTitle": "England v Pakistan, 2nd Test Review",
+      "description": "Following a dominant win by England in the opening Test, Pakistan must deliver a powerful comeback as the series transitions to Lord's.",
+      "scheduledDate": 1788595200000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Cricket, Classic sport event",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-09-05_SH033446590000_98978823590_2023-09-29T14:53:53Z_p8163404_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Sport Special",
+      "episodeTitle": "",
+      "description": "Tune into the latest news and comprehensive analysis of different sporting events around the globe.",
+      "scheduledDate": 1788598800000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Other",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/Fallback_LTV_Fox_Cricket/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Sport Special",
+      "episodeTitle": "",
+      "description": "Tune into the latest news and comprehensive analysis of different sporting events around the globe.",
+      "scheduledDate": 1788602400000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Other",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/Fallback_LTV_Fox_Cricket/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Sport Special",
+      "episodeTitle": "",
+      "description": "Tune into the latest news and comprehensive analysis of different sporting events around the globe.",
+      "scheduledDate": 1788606000000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Other",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/Fallback_LTV_Fox_Cricket/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Sport Special",
+      "episodeTitle": "",
+      "description": "Tune into the latest news and comprehensive analysis of different sporting events around the globe.",
+      "scheduledDate": 1788609600000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Other",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/Fallback_LTV_Fox_Cricket/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Test Day",
+      "episodeTitle": "Australia v Bangladesh, 2nd Test Review",
+      "description": "A look at some of the highlights from the recent test match play, with an analysis of some of the best moments.",
+      "scheduledDate": 1788613200000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Classic sport event, Cricket",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-09-05_SH031158690000_100796229602_2024-01-19T05:13:15Z_p16331760_i_h10_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Sport Special",
+      "episodeTitle": "",
+      "description": "Tune into the latest news and comprehensive analysis of different sporting events around the globe.",
+      "scheduledDate": 1788616800000,
+      "duration": 59,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Other",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/Fallback_LTV_Fox_Cricket/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Sport Special",
+      "episodeTitle": "",
+      "description": "Tune into the latest news and comprehensive analysis of different sporting events around the globe.",
+      "scheduledDate": 1788620340000,
+      "duration": 59,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Other",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/Fallback_LTV_Fox_Cricket/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Sport Special",
+      "episodeTitle": "",
+      "description": "Tune into the latest news and comprehensive analysis of different sporting events around the globe.",
+      "scheduledDate": 1788623880000,
+      "duration": 59,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Other",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/Fallback_LTV_Fox_Cricket/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Men's Ashes",
+      "episodeTitle": "2013/14 2nd Test Review",
+      "description": "Action from the Ashes as England and Australia compete for the famous urn.",
+      "scheduledDate": 1788627420000,
+      "duration": 50,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Classic sport event, Cricket",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-09-05_SH047728050000_100718435032_2019-07-11T07:40:24Z_p10335812_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Men's Ashes",
+      "episodeTitle": "2013/14 4th Test Review",
+      "description": "Revisits the 2013-14 4th Test match of the Men's Ashes played between Australia and England.",
+      "scheduledDate": 1788630420000,
+      "duration": 68,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Classic sport event, Cricket",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-09-05_SH047728050000_100718435032_2019-07-11T07:40:24Z_p10335812_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     }
   ]
 }

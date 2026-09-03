@@ -2,8 +2,8 @@
   "channel": "FSP",
   "date": "2026-09-05",
   "source": "kayo",
-  "fetchedAt": 1788405733136,
-  "fetchedAtIST": "3/9/2026, 8:52:13 am",
+  "fetchedAt": 1788424664229,
+  "fetchedAtIST": "3/9/2026, 2:07:44 pm",
   "events": [
     {
       "programTitle": "Sport Special",
@@ -17,26 +17,26 @@
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/Fallback_LTV_Fox_Sports_505/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "CPL T20 Cricket",
+      "programTitle": "FOX SPORTS News",
       "episodeTitle": "",
-      "description": "Coverage of action from the Caribbean Premier League T20 cricket.",
+      "description": "The latest highlights, reaction and analysis of the biggest sport stories from Australia and around the world.",
       "scheduledDate": 1788547800000,
       "duration": 5,
       "parentalRating": "",
-      "programType": "Sports event",
-      "genre": "Cricket",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-09-04_SH033351860000_111569687238_2023-08-23T16:53:32Z_p14393243_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "programType": "Sports non-event",
+      "genre": "News",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-09-04_SH042121470000_111993586873_2025-01-23T05:33:43Z_p21695748_i_h10_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "CPL T20 Cricket",
+      "programTitle": "FOX SPORTS News",
       "episodeTitle": "",
-      "description": "Coverage of action from the Caribbean Premier League T20 cricket.",
+      "description": "The latest highlights, reaction and analysis of the biggest sport stories from Australia and around the world.",
       "scheduledDate": 1788548100000,
       "duration": 125,
       "parentalRating": "",
-      "programType": "Sports event",
-      "genre": "Cricket",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-09-04_SH033351860000_111569687238_2023-08-23T16:53:32Z_p14393243_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "programType": "Sports non-event",
+      "genre": "News",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-09-04_SH042121470000_111993586873_2025-01-23T05:33:43Z_p21695748_i_h10_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "MotoGP Racing",
@@ -70,6 +70,215 @@
       "programType": "Sports event",
       "genre": "Golf",
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-09-04_SH040914080000_111510780655_2022-04-26T15:48:27Z_p20993758_i_h8_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "SailGP",
+      "episodeTitle": "Sassnitz, Day 2",
+      "description": "",
+      "scheduledDate": 1788566400000,
+      "duration": 90,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Sailing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-09-05_SH051028760000_111582415077_2021-04-23T21:46:53Z_p19827810_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "PBR Bull Riding",
+      "episodeTitle": "",
+      "description": "Coverage of the action from the Professional Bull Riders events.",
+      "scheduledDate": 1788571800000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Bull riding",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-09-05_SH033364560000_110114392996_2017-09-14T16:13:00Z_p12572769_i_h10_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "PBR Bull Riding",
+      "episodeTitle": "",
+      "description": "Coverage of the action from the Professional Bull Riders events.",
+      "scheduledDate": 1788575400000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Bull riding",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-09-05_SH033364560000_110114392996_2017-09-14T16:13:00Z_p12572769_i_h10_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "MotoGP Mini",
+      "episodeTitle": "",
+      "description": "Experience all the action and highlights from the MotoGP championship races.",
+      "scheduledDate": 1788579000000,
+      "duration": 10,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Classic sport event, Motorsports, Motorcycle racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-09-05_SH035786450000_105695703154_2020-08-14T07:40:24Z_p18624430_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "DP World Tour Golf",
+      "episodeTitle": "Husqvarna British Masters, Second Round",
+      "description": "From The Belfry in Sutton Coldfield, West Midlands, United Kingdom.",
+      "scheduledDate": 1788579600000,
+      "duration": 90,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-09-05_SH040914080000_111510780655_2022-04-26T15:48:27Z_p20993758_i_h8_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NRLW Pre Game",
+      "episodeTitle": "",
+      "description": "Fox League's studio panel presents an extensive coverage of the action. They'll have talking points, confirmation of team line-ups, as well as interviews with players and coaches.",
+      "scheduledDate": 1788585000000,
+      "duration": 5,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Rugby league, Rugby",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-09-05_SH042252980000_111575328375_2022-03-23T00:55:54Z_p21769277_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NRL Women's Premiership",
+      "episodeTitle": "North Queensland Cowboys vs Sydney Roosters",
+      "description": "From Queensland Country Bank Stadium in Townsville, Queensland, Australia.",
+      "scheduledDate": 1788585300000,
+      "duration": 100,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Rugby league, Rugby",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-09-05_EP030419250280_112099155486_2026-08-04T16:57:32Z_GNLZZGG003DKKKT/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Sport Special",
+      "episodeTitle": "",
+      "description": "Tune into the latest news and comprehensive analysis of different sporting events around the globe.",
+      "scheduledDate": 1788591300000,
+      "duration": 15,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Other",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/Fallback_LTV_Fox_Sports_505/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NRLW Pre Game",
+      "episodeTitle": "",
+      "description": "Fox League's studio panel presents an extensive coverage of the action. They'll have talking points, confirmation of team line-ups, as well as interviews with players and coaches.",
+      "scheduledDate": 1788592200000,
+      "duration": 5,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Rugby league, Rugby",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-09-05_SH042252980000_111575328375_2022-03-23T00:55:54Z_p21769277_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NRL Women's Premiership",
+      "episodeTitle": "Newcastle Knights vs Canterbury-Bankstown Bulldogs",
+      "description": "From McDonald Jones Stadium in Newcastle, New South Wales, Australia.",
+      "scheduledDate": 1788592500000,
+      "duration": 100,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Rugby league, Rugby",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-09-05_EP030419250281_112099155491_2026-08-04T16:57:28Z_GNLZZGG003DKKZW/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "MotoGP Racing",
+      "episodeTitle": "Grand Prix of Aragon",
+      "description": "From MotorLand Aragón in Aragon, Spain.",
+      "scheduledDate": 1788598500000,
+      "duration": 65,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Motorcycle racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-09-05_SH028104880000_112186554419_2025-04-17T20:03:48Z_p445587_i_h8_ae/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "SailGP",
+      "episodeTitle": "Sassnitz, Day 2",
+      "description": "",
+      "scheduledDate": 1788602400000,
+      "duration": 90,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Sailing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-09-05_SH051028760000_111582415077_2021-04-23T21:46:53Z_p19827810_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "SailGP",
+      "episodeTitle": "Valencia, Day 1",
+      "description": "",
+      "scheduledDate": 1788607800000,
+      "duration": 90,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Sailing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-09-05_SH051028760000_111582415077_2021-04-23T21:46:53Z_p19827810_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "PBR Bull Riding",
+      "episodeTitle": "",
+      "description": "Coverage of the action from the Professional Bull Riders events.",
+      "scheduledDate": 1788613200000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Bull riding",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-09-05_SH033364560000_110114392996_2017-09-14T16:13:00Z_p12572769_i_h10_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Supercars Championship",
+      "episodeTitle": "Century Batteries Ipswich Super 440: Races 26 & 27",
+      "description": "Highlights and replays of classic races of the international motor racing series for Supercars.",
+      "scheduledDate": 1788616800000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Series",
+      "genre": "Auto racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-09-05_SH035728470000_102439454374_2018-12-17T21:00:00Z_p16276370_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Supercars Championship",
+      "episodeTitle": "Century Batteries Ipswich Super 440: Race 28",
+      "description": "Highlights and replays of classic races of the international motor racing series for Supercars.",
+      "scheduledDate": 1788620400000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Series",
+      "genre": "Auto racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-09-05_SH035728470000_102439454374_2018-12-17T21:00:00Z_p16276370_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "MotoGP Racing",
+      "episodeTitle": "Grand Prix of Aragon, Sprint Race",
+      "description": "From MotorLand Aragón in Aragon, Spain.",
+      "scheduledDate": 1788624000000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Motorcycle racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-09-05_SH028104880000_112186554419_2025-04-17T20:03:48Z_p445587_i_h8_ae/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "MotoGP Racing",
+      "episodeTitle": "Grand Prix of Aragon",
+      "description": "From MotorLand Aragón in Aragon, Spain.",
+      "scheduledDate": 1788625800000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Motorcycle racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-09-05_SH028104880000_112186554419_2025-04-17T20:03:48Z_p445587_i_h8_ae/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "MotoGP Racing",
+      "episodeTitle": "Grand Prix of Aragon",
+      "description": "From MotorLand Aragón in Aragon, Spain.",
+      "scheduledDate": 1788629400000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Motorcycle racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-09-05_SH028104880000_112186554419_2025-04-17T20:03:48Z_p445587_i_h8_ae/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     }
   ]
 }

@@ -1,0 +1,75 @@
+{
+  "channel": "SPS",
+  "date": "2026-09-06",
+  "source": "kayo",
+  "fetchedAt": 1788424664237,
+  "fetchedAtIST": "3/9/2026, 2:07:44 pm",
+  "events": [
+    {
+      "programTitle": "Supercars Championship",
+      "episodeTitle": "Century Batteries Ipswich Super 440: Race 27",
+      "description": "Supercars compete in a series across Australia and New Zealand.",
+      "scheduledDate": 1788633000000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Auto racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-09-05_SH027326760000_111068013985_2026-08-07T01:36:07Z_p522547_i_h10_ad/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Supercars Championship",
+      "episodeTitle": "",
+      "description": "Supercars compete in a series across Australia and New Zealand.",
+      "scheduledDate": 1788636600000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Auto racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-09-05_SH027326760000_111068013985_2026-08-07T01:36:07Z_p522547_i_h10_ad/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Formula 1",
+      "episodeTitle": "Italian Grand Prix, Practice 3",
+      "description": "From Autodromo Nazionale Monza in Monza, Lombardy, Italy.",
+      "scheduledDate": 1788640200000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Auto racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-09-05_SH027326820000_111922734417_2025-07-16T14:05:24Z_p691060_i_h8_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Formula 1",
+      "episodeTitle": "Italian Grand Prix, Qualifying",
+      "description": "From Autodromo Nazionale Monza in Monza, Lombardy, Italy.",
+      "scheduledDate": 1788643800000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Auto racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-09-05_SH027326820000_111922734417_2025-07-16T14:05:24Z_p691060_i_h8_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Ted's Notebook",
+      "episodeTitle": "",
+      "description": "Ted Kravitz gives an exciting behind-the-scenes look at the world of Formula 1.",
+      "scheduledDate": 1788647400000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Auto racing, Motorsports",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-09-05_SH038161890000_106370532176_2021-03-17T07:49:14Z_p9739735_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NASCAR O'Reilly Auto Parts Series",
+      "episodeTitle": "Fleetio 200",
+      "description": "From Darlington Raceway in Darlington, S.C.",
+      "scheduledDate": 1788649200000,
+      "duration": 180,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Auto racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-09-05_EP062929950023_112197255881_2026-08-31T18:54:25Z_p32240421_b_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    }
+  ]
+}

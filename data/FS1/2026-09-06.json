@@ -1,0 +1,53 @@
+{
+  "channel": "FS1",
+  "date": "2026-09-06",
+  "source": "kayo",
+  "fetchedAt": 1788424664204,
+  "fetchedAtIST": "3/9/2026, 2:07:44 pm",
+  "events": [
+    {
+      "programTitle": "Women's CPL T20 Cricket",
+      "episodeTitle": "Barbados Tridents vs Trinbago Knight Riders",
+      "description": "From Kensington Oval in Bridgetown, Saint Michael, Barbados.",
+      "scheduledDate": 1788634500000,
+      "duration": 245,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Cricket",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-09-05_EP044402700027_112192190860_2026-09-02T10:57:55Z_GNLZZGG003M6Z61/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Test Cricket",
+      "episodeTitle": "2nd Test, Day 5: England v Pakistan",
+      "description": "Coverage and highlights from international test cricket matches.",
+      "scheduledDate": 1788649200000,
+      "duration": 20,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Cricket, Classic sport event",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-09-05_SH033446590000_98978823590_2023-09-29T14:53:53Z_p8163404_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Men's Ashes",
+      "episodeTitle": "2013/14 5th Test Review",
+      "description": "Revisits the 2013-14 5th Test match of the Men's Ashes played between Australia and England.",
+      "scheduledDate": 1788650400000,
+      "duration": 35,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Classic sport event, Cricket",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-09-05_SH047728050000_100718435032_2019-07-11T07:40:24Z_p10335812_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "FOX SPORTS News",
+      "episodeTitle": "",
+      "description": "The latest highlights, reaction and analysis of the biggest sport stories from Australia and around the world.",
+      "scheduledDate": 1788652500000,
+      "duration": 245,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "News",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-09-05_SH042121470000_112219802794_2025-01-23T05:33:43Z_p21695748_i_h10_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    }
+  ]
+}

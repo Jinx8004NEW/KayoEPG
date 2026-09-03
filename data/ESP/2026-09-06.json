@@ -1,0 +1,53 @@
+{
+  "channel": "ESP",
+  "date": "2026-09-06",
+  "source": "kayo",
+  "fetchedAt": 1788424664249,
+  "fetchedAtIST": "3/9/2026, 2:07:44 pm",
+  "events": [
+    {
+      "programTitle": "2026 FIBA Women's Basketball World Cup",
+      "episodeTitle": "France vs. Republic of Korea",
+      "description": "",
+      "scheduledDate": 1788633300000,
+      "duration": 130,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Basketball",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-09-05_SH065882380000_112212393437_2026-08-25T17:35:23Z_p33580700_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "College Football",
+      "episodeTitle": "Texas vs Texas State",
+      "description": "From Darrell K. Royal - Texas Memorial Stadium in Austin, Texas.",
+      "scheduledDate": 1788641100000,
+      "duration": 105,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-09-05_EP064738030155_112197765543_2026-06-18T22:33:20Z_GNLZZGG0036TBXF/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "College Football Scoreboard",
+      "episodeTitle": "",
+      "description": "Highlights and up to the minute scores during the college football season, with a look at the major storylines in the competition.",
+      "scheduledDate": 1788647400000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-09-05_SH033268260000_112098059515_2019-12-21T18:40:07Z_p629287_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "College Football",
+      "episodeTitle": "Texas A&M vs Missouri State",
+      "description": "From Kyle Field in College Station, Texas",
+      "scheduledDate": 1788649200000,
+      "duration": 180,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-09-05_EP064738030182_112198664073_2026-06-19T01:29:18Z_GNLZZGG0036V72N/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    }
+  ]
+}

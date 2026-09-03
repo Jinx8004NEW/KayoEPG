@@ -1,0 +1,97 @@
+{
+  "channel": "SP2",
+  "date": "2026-09-06",
+  "source": "kayo",
+  "fetchedAt": 1788424664212,
+  "fetchedAtIST": "3/9/2026, 2:07:44 pm",
+  "events": [
+    {
+      "programTitle": "Sport Special",
+      "episodeTitle": "",
+      "description": "Tune into the latest news and comprehensive analysis of different sporting events around the globe.",
+      "scheduledDate": 1788638400000,
+      "duration": 55,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Other",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/Fallback_LTV_Fox_League/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NRL Mini",
+      "episodeTitle": "New Zealand Warriors v Manly Sea Eagles",
+      "description": "A comprehensive summary of the match played is provided in an expedited timeframe.",
+      "scheduledDate": 1788641700000,
+      "duration": 20,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Rugby league, Rugby",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-09-05_SH035786430000_106552413658_2020-10-16T18:30:18Z_p18624350_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NRL Mini",
+      "episodeTitle": "North Queensland Cowboys v Canberra Raiders",
+      "description": "A comprehensive summary of the match played is provided in an expedited timeframe.",
+      "scheduledDate": 1788642900000,
+      "duration": 20,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Rugby league, Rugby",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-09-05_SH035786430000_106552413658_2020-10-16T18:30:18Z_p18624350_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NRL Mini",
+      "episodeTitle": "Cronulla Sharks v Melbourne Storm",
+      "description": "A comprehensive summary of the match played is provided in an expedited timeframe.",
+      "scheduledDate": 1788644100000,
+      "duration": 20,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Rugby league, Rugby",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-09-05_SH035786430000_106552413658_2020-10-16T18:30:18Z_p18624350_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NRL Rugby Post Match Studio : Super Saturday",
+      "episodeTitle": "Round 27",
+      "description": "A panel of experts break down the day's games, providing the latest on injuries, reaction from press conferences and news from around the NRL.",
+      "scheduledDate": 1788645300000,
+      "duration": 70,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Other",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-09-05_SH034570230000_110449992975_2020-03-09T08:20:09Z_p16690470_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Face-To-Face on Fox",
+      "episodeTitle": "Ben Ikin",
+      "description": "Jake Duke and Yvonne Sampson chat candidly with prominent figures in the game of rugby league and Australian society.",
+      "scheduledDate": 1788649500000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Sports talk, Rugby, Rugby league",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-09-05_SH047168440000_107963082214_2026-05-25T11:55:41Z_p19607826_i_h10_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NRL Mini",
+      "episodeTitle": "New Zealand Warriors v Manly Sea Eagles",
+      "description": "A comprehensive summary of the match played is provided in an expedited timeframe.",
+      "scheduledDate": 1788651300000,
+      "duration": 20,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Rugby league, Rugby",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-09-05_SH035786430000_106552413658_2020-10-16T18:30:18Z_p18624350_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NRL Mini",
+      "episodeTitle": "North Queensland Cowboys v Canberra Raiders",
+      "description": "A comprehensive summary of the match played is provided in an expedited timeframe.",
+      "scheduledDate": 1788652500000,
+      "duration": 20,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Rugby league, Rugby",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-09-05_SH035786430000_106552413658_2020-10-16T18:30:18Z_p18624350_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    }
+  ]
+}
