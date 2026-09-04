@@ -1,0 +1,64 @@
+{
+  "channel": "ES2",
+  "date": "2026-09-07",
+  "source": "kayo",
+  "fetchedAt": 1788492026467,
+  "fetchedAtIST": "4/9/2026, 8:50:26 am",
+  "events": [
+    {
+      "programTitle": "College Football",
+      "episodeTitle": "South Carolina State vs Florida A&M",
+      "description": "From Hard Rock Stadium in Miami Gardens, Fla.",
+      "scheduledDate": 1788721200000,
+      "duration": 180,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-09-06_EP064738030203_112197255904_2026-06-19T01:28:32Z_GNLZZGG0036V51B/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "In Depth With Graham Bensinger",
+      "episodeTitle": "Lincoln Riley",
+      "description": "USC head coach Lincoln Riley reflects on the origins of his career and discusses his departure from Oklahoma; a tour of Riley's Palos Verdes home.",
+      "scheduledDate": 1788732000000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Series",
+      "genre": "Sports talk, Interview",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-09-06_SH033308670000_109955717893_2026-01-13T18:05:19Z_p8178298_i_h8_ad/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "SEC Storied",
+      "episodeTitle": "Saturday Night Lights",
+      "description": "Exploring the athletic history of the Southeastern Conference, from the athletes and coaches to defining games and moments.",
+      "scheduledDate": 1788733800000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Documentary",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-09-06_SH033491980000_112235588630_2026-09-03T16:25:50Z_p8766233_i_h8_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "College Football Scoreboard",
+      "episodeTitle": "",
+      "description": "Highlights and up to the minute scores during the college football season, with a look at the major storylines in the competition.",
+      "scheduledDate": 1788737400000,
+      "duration": 7,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-09-06_SH033268260000_112098059515_2019-12-21T18:40:07Z_p629287_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "College Football",
+      "episodeTitle": "Louisville vs Ole Miss",
+      "description": "From Nissan Stadium in Nashville, Tenn.",
+      "scheduledDate": 1788737820000,
+      "duration": 203,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-09-06_EP064738030206_112201409877_2026-06-19T01:28:48Z_GNLZZGG0036V9Y2/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    }
+  ]
+}

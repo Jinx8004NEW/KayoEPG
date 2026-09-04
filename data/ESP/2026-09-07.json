@@ -1,0 +1,64 @@
+{
+  "channel": "ESP",
+  "date": "2026-09-07",
+  "source": "kayo",
+  "fetchedAt": 1788492026462,
+  "fetchedAtIST": "4/9/2026, 8:50:26 am",
+  "events": [
+    {
+      "programTitle": "2026 FIBA Women's Basketball World Cup",
+      "episodeTitle": "Italy vs. United States",
+      "description": "Uber Arena",
+      "scheduledDate": 1788719700000,
+      "duration": 130,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Basketball",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-09-06_SH065882380000_112219089335_2026-08-25T17:35:23Z_p33580700_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "In Depth With Graham Bensinger",
+      "episodeTitle": "Pete Rose",
+      "description": "Looks back at the sit down with MLB's hit king Pete Rose, where he recalls a childhood that moulded his success, a personal moment with Joe DiMaggio, and the scandal that banned Rose from baseball.",
+      "scheduledDate": 1788727500000,
+      "duration": 15,
+      "parentalRating": "",
+      "programType": "Series",
+      "genre": "Sports talk, Interview",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-09-06_EP033308670138_112199918543_2025-07-23T14:34:13Z_p28383014_e_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "In Depth With Graham Bensinger",
+      "episodeTitle": "Albert Pujols",
+      "description": "Three-time MVP Albert Pujols opens up about his tough upbringing in the Dominican Republic, a faith-driven approach towards befriending PED users and his contentious departure from the Cardinals.",
+      "scheduledDate": 1788728400000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Series",
+      "genre": "Sports talk, Interview",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-09-06_EP033308670039_111980467157_2022-06-08T20:05:40Z_p16716719_e_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "MLB Ultimate Lineup",
+      "episodeTitle": "The Most Entertaining Players We Ever Saw",
+      "description": "MLB Ultimate Lineup takes a look at 'The Most Entertaining Players We Ever Saw'. Players who keep us glued to our seats including Pedro Martinez, Rickey Henderson and Torii Hunter.",
+      "scheduledDate": 1788730200000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Baseball",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-09-06_EP038442780004_112198989395_2022-09-21T05:46:38Z_p11139115_e_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "MLB Baseball",
+      "episodeTitle": "Chicago White Sox vs Minnesota Twins",
+      "description": "From Rate Field in Chicago.",
+      "scheduledDate": 1788732000000,
+      "duration": 180,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Baseball",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-09-06_EP062580852599_112231840906_2026-06-27T19:27:52Z_GNLZZGG0037VK5E/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    }
+  ]
+}

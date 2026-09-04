@@ -1,0 +1,42 @@
+{
+  "channel": "SPS",
+  "date": "2026-09-07",
+  "source": "kayo",
+  "fetchedAt": 1788492026449,
+  "fetchedAtIST": "4/9/2026, 8:50:26 am",
+  "events": [
+    {
+      "programTitle": "Formula 1",
+      "episodeTitle": "Italian Grand Prix, Qualifying",
+      "description": "From Autodromo Nazionale Monza in Monza, Lombardy, Italy.",
+      "scheduledDate": 1788721200000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Auto racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-09-06_SH027326820000_111922734417_2025-07-16T14:05:24Z_p691060_i_h8_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "F1 Mini",
+      "episodeTitle": "Italian Grand Prix",
+      "description": "Highlights of the world's most iconic Formula 1 Grands Prix, featuring every podium and overtake.",
+      "scheduledDate": 1788724800000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Motorsports, Classic sport event",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-09-06_SH036452570000_107032703571_2020-11-19T03:00:48Z_p18944992_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NASCAR Cup Series",
+      "episodeTitle": "Cook Out Southern 500",
+      "description": "From Darlington Raceway in Darlington, S.C.",
+      "scheduledDate": 1788726600000,
+      "duration": 300,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Auto racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-09-06_EP035183560215_112204343515_2026-08-31T18:44:33Z_p32224241_b_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    }
+  ]
+}

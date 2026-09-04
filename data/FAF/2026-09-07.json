@@ -1,0 +1,31 @@
+{
+  "channel": "FAF",
+  "date": "2026-09-07",
+  "source": "kayo",
+  "fetchedAt": 1788492026431,
+  "fetchedAtIST": "4/9/2026, 8:50:26 am",
+  "events": [
+    {
+      "programTitle": "AFL",
+      "episodeTitle": "Fremantle vs Hawthorn",
+      "description": "From Optus Stadium in Perth, Western Australia, Australia.",
+      "scheduledDate": 1788724800000,
+      "duration": 150,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Australian rules football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-09-06_EP029151671300_111354726892_2026-03-20T22:57:10Z_GNLZZGG0031DGBN/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "AFL",
+      "episodeTitle": "Elimination Final: Geelong Cats vs Carlton",
+      "description": "Live from the MCG. Bounce time: 7:40pm AEST.",
+      "scheduledDate": 1788733800000,
+      "duration": 150,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Playoff sports, Australian rules football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-09-06_EP029151671448_112201484411_2026-09-02T16:53:10Z_GNLZZGG003M8B7T/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    }
+  ]
+}
