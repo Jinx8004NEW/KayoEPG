@@ -2,8 +2,8 @@
   "channel": "ESP",
   "date": "2026-09-04",
   "source": "kayo",
-  "fetchedAt": 1788492026461,
-  "fetchedAtIST": "4/9/2026, 8:50:26 am",
+  "fetchedAt": 1788510982190,
+  "fetchedAtIST": "4/9/2026, 2:06:22 pm",
   "events": [
     {
       "programTitle": "College Football Live",
@@ -248,15 +248,26 @@
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-09-04_EP033308670039_111980467157_2022-06-08T20:05:40Z_p16716719_e_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "The Pat McAfee Show",
-      "episodeTitle": "",
-      "description": "Former NFL punter Pat McAfee brings his humour, sarcasm and candour to the microphone to highlight the day's top stories.",
+      "programTitle": "The Captain",
+      "episodeTitle": "A Star in the Fabric",
+      "description": "Derek and Hannah Jeter share intimate details of their difficult journey on the way to parenthood. Jeter achieves another dream by becoming the owner of the Miami Marlins, but his journey is fraught with criticism and unfinished business.",
       "scheduledDate": 1788537600000,
-      "duration": 120,
+      "duration": 60,
       "parentalRating": "",
-      "programType": "Series",
-      "genre": "Sports talk",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-09-04_SH048483860000_111648065422_2020-09-10T14:31:07Z_p18762527_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "programType": "Sports non-event",
+      "genre": "Documentary, Baseball",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-09-04_EP043825540005_111239801448_2022-10-18T03:47:14Z_p22431057_e_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "E",
+      "episodeTitle": "",
+      "description": "",
+      "scheduledDate": 1788541200000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "",
+      "genre": "",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/Fallback_LTV_ESPN1/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "Quick Pitch",

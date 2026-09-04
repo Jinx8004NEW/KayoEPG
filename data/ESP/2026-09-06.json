@@ -2,8 +2,8 @@
   "channel": "ESP",
   "date": "2026-09-06",
   "source": "kayo",
-  "fetchedAt": 1788492026462,
-  "fetchedAtIST": "4/9/2026, 8:50:26 am",
+  "fetchedAt": 1788510982190,
+  "fetchedAtIST": "4/9/2026, 2:06:22 pm",
   "events": [
     {
       "programTitle": "2026 FIBA Women's Basketball World Cup",
@@ -120,7 +120,7 @@
       "episodeTitle": "Türkiye vs. Australia",
       "description": "",
       "scheduledDate": 1788685200000,
-      "duration": 150,
+      "duration": 180,
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Basketball",
@@ -139,9 +139,31 @@
     },
     {
       "programTitle": "College Football",
+      "episodeTitle": "California vs UCLA",
+      "description": "From California Memorial Stadium in Berkeley, Calif.",
+      "scheduledDate": 1788696000000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-09-06_EP064738030200_112201409943_2026-06-19T01:28:39Z_GNLZZGG0036VFJ1/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "College Football",
       "episodeTitle": "Texas A&M vs Missouri State",
       "description": "From Kyle Field in College Station, Texas",
       "scheduledDate": 1788701400000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-09-06_EP064738030182_112198664073_2026-06-19T01:29:18Z_GNLZZGG0036V72N/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "College Football",
+      "episodeTitle": "Texas A&M vs Missouri State",
+      "description": "From Kyle Field in College Station, Texas",
+      "scheduledDate": 1788703200000,
       "duration": 120,
       "parentalRating": "",
       "programType": "Sports event",
@@ -158,6 +180,17 @@
       "programType": "Sports non-event",
       "genre": "Baseball",
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-09-06_SH039225660000_107838083445_2020-08-03T13:50:35Z_p3527970_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "It All Starts In Melbourne",
+      "episodeTitle": "",
+      "description": "",
+      "scheduledDate": 1788710400000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Special",
+      "genre": "Special, Football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-09-06_SH065979450000_112247656695_2026-08-27T06:23:13Z_p33916205_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "Sandy Brondello: A Basketball Life",
