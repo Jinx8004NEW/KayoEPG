@@ -1,0 +1,75 @@
+{
+  "channel": "FAF",
+  "date": "2026-09-08",
+  "source": "kayo",
+  "fetchedAt": 1788578558812,
+  "fetchedAtIST": "5/9/2026, 8:52:38 am",
+  "events": [
+    {
+      "programTitle": "AFL 360",
+      "episodeTitle": "",
+      "description": "An in-depth examination of events and issues regarding all things AFL. Includes interviews with coaches and players, recaps, and breaking news.",
+      "scheduledDate": 1788805800000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Series",
+      "genre": "Sports talk, Australian rules football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-09-07_SH029292320000_109514254203_2026-07-03T00:25:57Z_p15311210_i_h10_af/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "On the Couch",
+      "episodeTitle": "",
+      "description": "Provides in-depth coverage of the Australian Football League, as well as the latest news and excitement in the latest rounds, and exclusive interviews with players and coaches.",
+      "scheduledDate": 1788809400000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Series",
+      "genre": "Sports talk, Australian rules football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-09-07_SH029281610000_107287396495_2026-03-12T06:07:22Z_p15306959_i_h10_ae/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "AFL",
+      "episodeTitle": "Elimination Final: Geelong Cats vs Carlton",
+      "description": "Live from the MCG. Bounce time: 7:40pm AEST.",
+      "scheduledDate": 1788813000000,
+      "duration": 153,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Playoff sports, Australian rules football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-09-07_EP029151671448_112201484411_2026-09-02T16:53:10Z_GNLZZGG003M8B7T/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "AFL Mini",
+      "episodeTitle": "Qualifying Final: Sydney Swans v Brisbane Lions",
+      "description": "Condensed highlights, reaction and analysis of the biggest sport stories from Australia and around the world.",
+      "scheduledDate": 1788822180000,
+      "duration": 20,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Australian rules football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-09-07_SH042238570000_104529301600_2022-03-07T04:36:21Z_p21759801_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "AFL Mini",
+      "episodeTitle": "Elimination Final: Adelaide Crows v Western Bulldogs",
+      "description": "Condensed highlights, reaction and analysis of the biggest sport stories from Australia and around the world.",
+      "scheduledDate": 1788823380000,
+      "duration": 20,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Australian rules football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-09-07_SH042238570000_104529301600_2022-03-07T04:36:21Z_p21759801_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "AFL Mini",
+      "episodeTitle": "Qualifying Final: Fremantle Dockers v Hawthorn Hawks",
+      "description": "Condensed highlights, reaction and analysis of the biggest sport stories from Australia and around the world.",
+      "scheduledDate": 1788824580000,
+      "duration": 20,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Australian rules football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-09-07_SH042238570000_104529301600_2022-03-07T04:36:21Z_p21759801_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    }
+  ]
+}

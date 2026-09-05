@@ -1,0 +1,53 @@
+{
+  "channel": "ESP",
+  "date": "2026-09-08",
+  "source": "kayo",
+  "fetchedAt": 1788578558832,
+  "fetchedAtIST": "5/9/2026, 8:52:38 am",
+  "events": [
+    {
+      "programTitle": "2026 FIBA Women's Basketball World Cup",
+      "episodeTitle": "United States vs. Czechia",
+      "description": "From Uber Arena in Berlin.",
+      "scheduledDate": 1788806100000,
+      "duration": 130,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Basketball",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-09-07_SH065882380000_112269213176_2026-08-25T17:35:23Z_p33580700_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "ESPN FC Shorts",
+      "episodeTitle": "All-Time XI, Divers on the Pitch, & Howe vs. Arteta",
+      "description": "Presents top football highlights in YouTube Shorts.",
+      "scheduledDate": 1788813900000,
+      "duration": 15,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Soccer",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-09-07_SH046564100000_112201409922_2023-05-17T15:16:11Z_p24027877_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "The Pat McAfee Show",
+      "episodeTitle": "",
+      "description": "Former NFL punter Pat McAfee brings his humour, sarcasm and candour to the microphone to highlight the day's top stories.",
+      "scheduledDate": 1788814800000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Series",
+      "genre": "Sports talk",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-09-07_SH048483860000_111648065422_2020-09-10T14:31:07Z_p18762527_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "30 for 30 Shorts",
+      "episodeTitle": "Spy Ball / Holy Grail / Fields of Fear / Great Imposter",
+      "description": "Spy Ball / Holy Grail / Fields of Fear / Great Imposter.",
+      "scheduledDate": 1788822000000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Documentary",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-09-07_SH033234650000_111251502876_2019-12-24T10:40:17Z_p10143938_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    }
+  ]
+}

@@ -2,8 +2,8 @@
   "channel": "ES2",
   "date": "2026-09-07",
   "source": "kayo",
-  "fetchedAt": 1788559851002,
-  "fetchedAtIST": "5/9/2026, 3:40:51 am",
+  "fetchedAt": 1788578558835,
+  "fetchedAtIST": "5/9/2026, 8:52:38 am",
   "events": [
     {
       "programTitle": "College Football",
@@ -59,6 +59,105 @@
       "programType": "Sports event",
       "genre": "Football",
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-09-06_EP064738030206_112201409877_2026-06-19T01:28:48Z_GNLZZGG0036V9Y2/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "SEC Storied",
+      "episodeTitle": "Miracles",
+      "description": "Explore the stories behind both the Mardi Gras Miracle and the Bluegrass Miracle.",
+      "scheduledDate": 1788750000000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Documentary",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-09-07_EP033491980044_112198944743_2025-11-04T13:39:21Z_p31484860_e_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "College Football",
+      "episodeTitle": "Prairie View A&M vs Texas Southern",
+      "description": "From Panther Stadium in Prairie View, Texas.",
+      "scheduledDate": 1788753600000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-09-07_EP064738030202_112197255902_2026-06-19T01:28:29Z_GNLZZGG0036V6DE/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "College Football",
+      "episodeTitle": "South Carolina State vs Florida A&M",
+      "description": "From Hard Rock Stadium in Miami Gardens, Fla.",
+      "scheduledDate": 1788760800000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-09-07_EP064738030203_112197255904_2026-06-19T01:28:32Z_GNLZZGG0036V51B/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "College Football",
+      "episodeTitle": "Louisville vs Ole Miss",
+      "description": "From Nissan Stadium in Nashville, Tenn.",
+      "scheduledDate": 1788768000000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-09-07_EP064738030206_112201409877_2026-06-19T01:28:48Z_GNLZZGG0036V9Y2/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "MLB Baseball",
+      "episodeTitle": "Chicago White Sox vs Minnesota Twins",
+      "description": "From Rate Field in Chicago.",
+      "scheduledDate": 1788775200000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Baseball",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-09-07_EP062580852599_112231840906_2026-06-27T19:27:52Z_GNLZZGG0037VK5E/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Get Up",
+      "episodeTitle": "",
+      "description": "Mike Greenberg, Laura Rutledge and Jalen Rose discuss and analyse the latest news from the world of sports.",
+      "scheduledDate": 1788782400000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Sports talk",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-09-07_SH033268270000_107093139583_2026-03-24T04:04:44Z_p15158780_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "First Take",
+      "episodeTitle": "",
+      "description": "Stephen A. Smith joins Molly Qerim Rose to debate the hottest topics in sports.",
+      "scheduledDate": 1788789600000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Sports talk, News, Debate",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-09-07_SH033280060000_108193810385_2025-11-07T06:36:14Z_p186291_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Get Up",
+      "episodeTitle": "",
+      "description": "Mike Greenberg, Laura Rutledge and Jalen Rose discuss and analyse the latest news from the world of sports.",
+      "scheduledDate": 1788793200000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Sports talk",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-09-07_SH033268270000_107093139583_2026-03-24T04:04:44Z_p15158780_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "30 for 30",
+      "episodeTitle": "The Philly Special",
+      "description": "Players, coaches and fans explore the play that gives the Philadelphia Eagles their first Super Bowl victory over the New England Patriots.",
+      "scheduledDate": 1788800400000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Documentary",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-09-07_SH023926430000_112114622806_2025-07-16T16:24:28Z_p7817579_i_h8_ae/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     }
   ]
 }

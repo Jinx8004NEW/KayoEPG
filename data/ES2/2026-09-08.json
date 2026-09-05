@@ -1,0 +1,64 @@
+{
+  "channel": "ES2",
+  "date": "2026-09-08",
+  "source": "kayo",
+  "fetchedAt": 1788578558836,
+  "fetchedAtIST": "5/9/2026, 8:52:38 am",
+  "events": [
+    {
+      "programTitle": "Premier Lacrosse League",
+      "episodeTitle": "Denver Outlaws vs. Utah Archers",
+      "description": "From Zions Bank Stadium in Herriman, Utah.",
+      "scheduledDate": 1788807600000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Playoff sports, Lacrosse",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-09-07_EP043301890183_112287717374_2026-09-04T23:11:45Z_GNLZZGG003MWGY9/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "The Domonique Foxworth Show",
+      "episodeTitle": "",
+      "description": "Domonique Foxworth shares his take on current sports events and participants.",
+      "scheduledDate": 1788814800000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Sports talk",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-09-07_SH051617750000_109986842499_2024-04-30T21:42:58Z_p27226335_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "SportsCenter",
+      "episodeTitle": "",
+      "description": "The team deliver the latest news, highlights, and inside information from the wide world of sports, as well as trending topics across social media platforms.",
+      "scheduledDate": 1788818400000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "News, Sports talk",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-09-07_SH033259060000_109832503473_2018-04-18T10:39:00Z_p186674_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "College Football Countdown",
+      "episodeTitle": "",
+      "description": "This pre-game, half-time and post-game show airs each Saturday during the college football season, with former NFL offensive lineman Mark May and Texas head coach Mack Brown sitting in the analysts' chairs.",
+      "scheduledDate": 1788822000000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-09-07_SH033280090000_111890055019_2017-09-16T00:03:00Z_p221260_i_h10_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "College Football",
+      "episodeTitle": "Florida State vs SMU",
+      "description": "From Doak S. Campbell Stadium in Tallahassee, Fla.",
+      "scheduledDate": 1788823800000,
+      "duration": 180,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-09-07_EP064738030207_112201409881_2026-06-19T01:29:18Z_GNLZZGG0036VHHP/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    }
+  ]
+}
