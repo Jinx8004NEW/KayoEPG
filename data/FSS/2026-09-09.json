@@ -1,0 +1,42 @@
+{
+  "channel": "FSS",
+  "date": "2026-09-09",
+  "source": "kayo",
+  "fetchedAt": 1788683131012,
+  "fetchedAtIST": "6/9/2026, 1:55:31 pm",
+  "events": [
+    {
+      "programTitle": "SailGP",
+      "episodeTitle": "Spain SGP",
+      "description": "Coverage from the annual sailing league for fast, cutting-edge 50-foot catamarans.",
+      "scheduledDate": 1788897600000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Sailing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-09-08_SH039936010000_108224779666_2024-11-22T10:14:23Z_p16560598_i_h10_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "The Bowls Show",
+      "episodeTitle": "",
+      "description": "All the latest in the world of competitive bowls, including exclusive interviews, event highlights, club tours and coaching insight.",
+      "scheduledDate": 1788901200000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Other",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-09-08_SH024802440000_107847958042_2017-03-10T00:18:00Z_p13123463_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Formula 1",
+      "episodeTitle": "Italian Grand Prix",
+      "description": "From Autodromo Nazionale Monza in Monza, Lombardy, Italy.",
+      "scheduledDate": 1788904800000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Auto racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-09-08_SH027326820000_111922734417_2025-07-16T14:05:24Z_p691060_i_h8_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    }
+  ]
+}

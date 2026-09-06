@@ -2,16 +2,25 @@
   "channel": "4KL",
   "date": "2026-09-06",
   "source": "kayo-4k",
-  "fetchedAt": 1788664966645,
-  "fetchedAtIST": "6/9/2026, 8:52:46 am",
+  "fetchedAt": 1788683146304,
+  "fetchedAtIST": "6/9/2026, 1:55:46 pm",
   "events": [
     {
       "eventId": "t4otybq66pv50qqb86cejttx80",
       "programTitle": "Dragons v Broncos",
       "scheduledDate": 1788659400000,
-      "duration": 220,
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/9umlaqt0tq0yruxsm4yrmkocs_image-header_pRow_1788313817000/fill/none/top/none/80/1920/1080/webp/image?brand=kayo",
+      "duration": 104,
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/2vag40wy7hbfuzykke5z4b3ym_image-header_pRow_1788313817000/fill/none/top/none/80/1920/1080/webp/image?brand=kayo",
       "competitionTitle": "NRL Women",
+      "sport": "Rugby League"
+    },
+    {
+      "eventId": "1albdegaij4o11rdjvebbnsmyt",
+      "programTitle": "Dragons v Eels",
+      "scheduledDate": 1788667200000,
+      "duration": 120,
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/4p7mj6ijxbm9gv5diz66mvk0m_image-header_pRow_1788313497000/fill/none/top/none/80/1920/1080/webp/image?brand=kayo",
+      "competitionTitle": "NRL",
       "sport": "Rugby League"
     }
   ]
