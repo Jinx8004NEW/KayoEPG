@@ -2,8 +2,8 @@
   "channel": "FSP",
   "date": "2026-09-09",
   "source": "kayo",
-  "fetchedAt": 1788731942495,
-  "fetchedAtIST": "7/9/2026, 3:29:02 am",
+  "fetchedAt": 1788751272929,
+  "fetchedAtIST": "7/9/2026, 8:51:12 am",
   "events": [
     {
       "programTitle": "SailGP",
@@ -37,6 +37,193 @@
       "programType": "Sports event",
       "genre": "Golf",
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-09-08_SH040914080000_111510780655_2022-04-26T15:48:27Z_p20993758_i_h8_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Formula 1",
+      "episodeTitle": "Italian Grand Prix, Qualifying",
+      "description": "From Autodromo Nazionale Monza in Monza, Lombardy, Italy.",
+      "scheduledDate": 1788912000000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Auto racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-09-09_SH027326820000_111922734417_2025-07-16T14:05:24Z_p691060_i_h8_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Formula 1",
+      "episodeTitle": "Italian Grand Prix",
+      "description": "From Autodromo Nazionale Monza in Monza, Lombardy, Italy.",
+      "scheduledDate": 1788915600000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Auto racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-09-09_SH027326820000_111922734417_2025-07-16T14:05:24Z_p691060_i_h8_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Ted's Notebook",
+      "episodeTitle": "",
+      "description": "Ted Kravitz gives an exciting behind-the-scenes look at the world of Formula 1.",
+      "scheduledDate": 1788922800000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Auto racing, Motorsports",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-09-09_SH038161890000_106370532176_2021-03-17T07:49:14Z_p9739735_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "FIM Superbike World Championship",
+      "episodeTitle": "French Round, Race 1",
+      "description": "From Circuit de Nevers Magny-Cours in Magny-Cours, Nièvre, France.",
+      "scheduledDate": 1788924600000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Motorcycle racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-09-09_SH050933440000_112305496713_2024-03-13T11:13:41Z_p26891785_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "FIM Superbike World Championship",
+      "episodeTitle": "French Round, Race 2",
+      "description": "From Circuit de Nevers Magny-Cours in Magny-Cours, Nièvre, France.",
+      "scheduledDate": 1788928200000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Motorcycle racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-09-09_SH050933440000_112305496713_2024-03-13T11:13:41Z_p26891785_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "The Bowls Show",
+      "episodeTitle": "",
+      "description": "All the latest in the world of competitive bowls, including exclusive interviews, event highlights, club tours and coaching insight.",
+      "scheduledDate": 1788931800000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Other",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-09-09_SH024802440000_107847958042_2017-03-10T00:18:00Z_p13123463_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "PBR Bull Riding",
+      "episodeTitle": "",
+      "description": "Coverage of the action from the Professional Bull Riders events.",
+      "scheduledDate": 1788935400000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Bull riding",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-09-09_SH033364560000_110114392996_2017-09-14T16:13:00Z_p12572769_i_h10_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "PBR Bull Riding",
+      "episodeTitle": "",
+      "description": "Coverage of the action from the Professional Bull Riders events.",
+      "scheduledDate": 1788939000000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Bull riding",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-09-09_SH033364560000_110114392996_2017-09-14T16:13:00Z_p12572769_i_h10_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "FIM Superbike World Championship",
+      "episodeTitle": "French Round, Race 1",
+      "description": "From Circuit de Nevers Magny-Cours in Magny-Cours, Nièvre, France.",
+      "scheduledDate": 1788942600000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Motorcycle racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-09-09_SH050933440000_112305496713_2024-03-13T11:13:41Z_p26891785_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "FIM Superbike World Championship",
+      "episodeTitle": "French Round, Race 2",
+      "description": "From Circuit de Nevers Magny-Cours in Magny-Cours, Nièvre, France.",
+      "scheduledDate": 1788946200000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Motorcycle racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-09-09_SH050933440000_112305496713_2024-03-13T11:13:41Z_p26891785_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "PBR Bull Riding",
+      "episodeTitle": "",
+      "description": "Coverage of the action from the Professional Bull Riders events.",
+      "scheduledDate": 1788949800000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Bull riding",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-09-09_SH033364560000_110114392996_2017-09-14T16:13:00Z_p12572769_i_h10_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "PBR Bull Riding",
+      "episodeTitle": "",
+      "description": "Coverage of the action from the Professional Bull Riders events.",
+      "scheduledDate": 1788953400000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Bull riding",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-09-09_SH033364560000_110114392996_2017-09-14T16:13:00Z_p12572769_i_h10_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "PBR Bull Riding",
+      "episodeTitle": "",
+      "description": "Coverage of the action from the Professional Bull Riders events.",
+      "scheduledDate": 1788957000000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Bull riding",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-09-09_SH033364560000_110114392996_2017-09-14T16:13:00Z_p12572769_i_h10_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Getting a Round In",
+      "episodeTitle": "",
+      "description": "Australian professional golfer, Paul Gow hosts celebrities as his playing partners who share his love for the game of golf.",
+      "scheduledDate": 1788960600000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Series",
+      "genre": "Golf, Interview",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-09-09_SH048121120000_110998856207_2023-07-18T05:56:16Z_p25221374_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "DP World Tour Golf",
+      "episodeTitle": "Turkish Airlines Open, Final Round",
+      "description": "Golfing action from the DP World Tour.",
+      "scheduledDate": 1788962400000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-09-09_SH040914080000_111510780655_2022-04-26T15:48:27Z_p20993758_i_h8_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "SailGP",
+      "episodeTitle": "Valencia, Day 1",
+      "description": "",
+      "scheduledDate": 1788969600000,
+      "duration": 90,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Sailing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-09-09_SH051028760000_112280706976_2021-04-23T21:46:53Z_p19827810_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "SailGP",
+      "episodeTitle": "Valencia, Day 2",
+      "description": "",
+      "scheduledDate": 1788975000000,
+      "duration": 90,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Sailing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-09-09_SH051028760000_112280706976_2021-04-23T21:46:53Z_p19827810_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     }
   ]
 }

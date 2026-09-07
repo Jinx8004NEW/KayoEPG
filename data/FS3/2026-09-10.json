@@ -1,0 +1,53 @@
+{
+  "channel": "FS3",
+  "date": "2026-09-10",
+  "source": "kayo",
+  "fetchedAt": 1788751272901,
+  "fetchedAtIST": "7/9/2026, 8:51:12 am",
+  "events": [
+    {
+      "programTitle": "LPGA Tour Golf",
+      "episodeTitle": "",
+      "description": "Comprehensive coverage and full game replays of all the action-packed golfing events from the LPGA Tour.",
+      "scheduledDate": 1788984000000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-09-09_SH031583890000_109900390814_2025-12-31T05:35:12Z_p767017_i_h8_af/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Getting a Round In",
+      "episodeTitle": "",
+      "description": "Australian professional golfer, Paul Gow hosts celebrities as his playing partners who share his love for the game of golf.",
+      "scheduledDate": 1788991200000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Series",
+      "genre": "Golf, Interview",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-09-09_SH048121120000_110998856207_2023-07-18T05:56:16Z_p25221374_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "European PGA Tour Highlights",
+      "episodeTitle": "Omega European Masters",
+      "description": "All the action and highlights from European Tour golf.",
+      "scheduledDate": 1788993000000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-09-09_SH037026900000_107999152353_2022-09-05T13:56:59Z_p9656797_i_h10_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Road to the Presidents Cup",
+      "episodeTitle": "",
+      "description": "",
+      "scheduledDate": 1788994800000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-09-09_SH065965780000_112200417947_2026-08-24T05:58:59Z_p33378430_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    }
+  ]
+}
