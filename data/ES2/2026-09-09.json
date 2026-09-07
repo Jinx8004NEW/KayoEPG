@@ -2,19 +2,30 @@
   "channel": "ES2",
   "date": "2026-09-09",
   "source": "kayo",
-  "fetchedAt": 1788771666627,
-  "fetchedAtIST": "7/9/2026, 2:31:06 pm",
+  "fetchedAt": 1788801885545,
+  "fetchedAtIST": "7/9/2026, 10:54:45 pm",
   "events": [
     {
       "programTitle": "College Football Live",
       "episodeTitle": "",
       "description": "Breaking news, analysis, features, roundtable discussions, and interviews covering all the latest events from the world of college football.",
       "scheduledDate": 1788894000000,
-      "duration": 60,
+      "duration": 30,
       "parentalRating": "",
       "programType": "Sports non-event",
       "genre": "Football, News",
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-09-08_SH033651660000_110974424461_2017-12-12T23:22:00Z_p221266_i_h10_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "In Depth With Graham Bensinger",
+      "episodeTitle": "Jay Leno",
+      "description": "Renowned journalist Graham Bensinger interviews some of the biggest names in sports, discussing their lives and careers and some controversial topics.",
+      "scheduledDate": 1788895800000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Series",
+      "genre": "Sports talk, Interview",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-09-08_EP033308670153_112361112308_2025-08-11T17:55:02Z_p29929742_e_h11_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "NFL Live",
