@@ -1,0 +1,31 @@
+{
+  "channel": "FS3",
+  "date": "2026-09-11",
+  "source": "kayo",
+  "fetchedAt": 1788838087353,
+  "fetchedAtIST": "8/9/2026, 8:58:07 am",
+  "events": [
+    {
+      "programTitle": "PGA Korn Ferry Tour Golf",
+      "episodeTitle": "Simmons Bank Open for the Snedeker Foundation, First Round",
+      "description": "From Vanderbilt Legends Club, North Course in Franklin, Tenn.",
+      "scheduledDate": 1789070400000,
+      "duration": 180,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-09-10_EP034202650197_112286824105_2026-08-17T22:05:52Z_p33713590_b_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "DP World Tour Golf",
+      "episodeTitle": "Amgen Irish Open, First Round",
+      "description": "From Trump International Golf Links & Hotel in Doonbeg, Ireland.",
+      "scheduledDate": 1789081200000,
+      "duration": 90,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-09-10_SH040914080000_111510780655_2022-04-26T15:48:27Z_p20993758_i_h8_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    }
+  ]
+}
