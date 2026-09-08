@@ -2,8 +2,8 @@
   "channel": "FSP",
   "date": "2026-09-09",
   "source": "kayo",
-  "fetchedAt": 1788856803617,
-  "fetchedAtIST": "8/9/2026, 2:10:03 pm",
+  "fetchedAt": 1788883798442,
+  "fetchedAtIST": "8/9/2026, 9:39:58 pm",
   "events": [
     {
       "programTitle": "SailGP",
@@ -17,20 +17,20 @@
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-09-08_SH051028760000_112367882509_2021-04-23T21:46:53Z_p19827810_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "PGA Tour Golf",
-      "episodeTitle": "BMW Championship, Final Round",
-      "description": "From Bellerive Country Club in St. Louis.",
+      "programTitle": "2026 TOUR Championship",
+      "episodeTitle": "Final Round",
+      "description": "From East Lake Golf Club in Atlanta.",
       "scheduledDate": 1788897600000,
       "duration": 120,
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Golf",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-09-08_EP030899371420_112199541774_2026-08-05T00:33:33Z_p32045085_b_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-09-08_SH065760920000_112398870634_2026-07-20T21:25:55Z_p33406701_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "DP World Tour Golf",
-      "episodeTitle": "Turkish Airlines Open, Final Round",
-      "description": "Golfing action from the DP World Tour.",
+      "episodeTitle": "Omega European Masters, Final Round",
+      "description": "From Crans-sur-Sierre Golf Club in Crans Montana, Valais, Switzerland.",
       "scheduledDate": 1788904800000,
       "duration": 120,
       "parentalRating": "",
@@ -62,7 +62,7 @@
     },
     {
       "programTitle": "Ted's Notebook",
-      "episodeTitle": "",
+      "episodeTitle": "Italian Grand Prix: Race",
       "description": "Ted Kravitz gives an exciting behind-the-scenes look at the world of Formula 1.",
       "scheduledDate": 1788922800000,
       "duration": 30,
@@ -171,15 +171,26 @@
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-09-09_SH033364560000_110114392996_2017-09-14T16:13:00Z_p12572769_i_h10_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "PBR Bull Riding",
-      "episodeTitle": "",
-      "description": "Coverage of the action from the Professional Bull Riders events.",
+      "programTitle": "Getting a Round In",
+      "episodeTitle": "Zoe Badwi",
+      "description": "Australian professional golfer, Paul Gow hosts celebrities as his playing partners who share his love for the game of golf.",
       "scheduledDate": 1788957000000,
-      "duration": 60,
+      "duration": 45,
+      "parentalRating": "",
+      "programType": "Series",
+      "genre": "Golf, Interview",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-09-09_SH048121120000_110998856207_2023-07-18T05:56:16Z_p25221374_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "ETPL",
+      "episodeTitle": "Dublin Guardians vs. Belfast Wolves",
+      "description": "",
+      "scheduledDate": 1788959700000,
+      "duration": 225,
       "parentalRating": "",
       "programType": "Sports event",
-      "genre": "Bull riding",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-09-09_SH033364560000_110114392996_2017-09-14T16:13:00Z_p12572769_i_h10_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "genre": "Cricket",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-09-09_EP065792820013_112400119589_2026-09-04T19:57:36Z_GNLZZGG003MVTYW/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "Getting a Round In",
@@ -213,6 +224,17 @@
       "programType": "Sports event",
       "genre": "Sailing",
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-09-09_SH051028760000_112367882509_2021-04-23T21:46:53Z_p19827810_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "F1 Mini",
+      "episodeTitle": "Italian Grand Prix",
+      "description": "Highlights of the world's most iconic Formula 1 Grands Prix, featuring every podium and overtake.",
+      "scheduledDate": 1788973200000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Motorsports, Classic sport event",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-09-09_SH036452570000_107032703571_2020-11-19T03:00:48Z_p18944992_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "SailGP",

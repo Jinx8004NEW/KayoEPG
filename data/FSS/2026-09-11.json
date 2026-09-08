@@ -2,8 +2,8 @@
   "channel": "FSS",
   "date": "2026-09-11",
   "source": "kayo",
-  "fetchedAt": 1788856803632,
-  "fetchedAtIST": "8/9/2026, 2:10:03 pm",
+  "fetchedAt": 1788883798458,
+  "fetchedAtIST": "8/9/2026, 9:39:58 pm",
   "events": [
     {
       "programTitle": "SailGP",
@@ -21,7 +21,7 @@
       "episodeTitle": "",
       "description": "Follows world record-holding surfer Blake Johnston's journey of transforming personal tragedy into meaningful action, examining how suicide impacts communities and how genuine relationships, bravery, and open dialogue can inspire transformation.",
       "scheduledDate": 1789070400000,
-      "duration": 70,
+      "duration": 75,
       "parentalRating": "M",
       "programType": "Feature Film",
       "genre": "Documentary",
@@ -40,6 +40,28 @@
     },
     {
       "programTitle": "World Surf League Highlights",
+      "episodeTitle": "2026 Rip Curl Pro Bells Beach",
+      "description": "Action from the World Surf League.",
+      "scheduledDate": 1789074900000,
+      "duration": 45,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Surfing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-09-10_SH037137820000_107844260793_2023-03-28T14:37:31Z_p12753420_i_h8_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "World Surf League Highlights",
+      "episodeTitle": "Margaret River Pro",
+      "description": "Action from the World Surf League.",
+      "scheduledDate": 1789077600000,
+      "duration": 45,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Surfing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-09-10_SH037137820000_107844260793_2023-03-28T14:37:31Z_p12753420_i_h8_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "World Surf League Highlights",
       "episodeTitle": "",
       "description": "Action from the World Surf League.",
       "scheduledDate": 1789078200000,
@@ -51,10 +73,32 @@
     },
     {
       "programTitle": "World Surf League Highlights",
+      "episodeTitle": "2026 Bonsoy Gold Coast Pro",
+      "description": "Action from the World Surf League.",
+      "scheduledDate": 1789080300000,
+      "duration": 45,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Surfing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-09-10_SH037137820000_107844260793_2023-03-28T14:37:31Z_p12753420_i_h8_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "World Surf League Highlights",
       "episodeTitle": "",
       "description": "Action from the World Surf League.",
       "scheduledDate": 1789081800000,
       "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Surfing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-09-10_SH037137820000_107844260793_2023-03-28T14:37:31Z_p12753420_i_h8_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "World Surf League Highlights",
+      "episodeTitle": "Corona Cero New Zealand Pro",
+      "description": "Action from the World Surf League.",
+      "scheduledDate": 1789083000000,
+      "duration": 45,
       "parentalRating": "",
       "programType": "Sports non-event",
       "genre": "Surfing",

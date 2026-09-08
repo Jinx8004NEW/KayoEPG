@@ -2,8 +2,8 @@
   "channel": "FAF",
   "date": "2026-09-11",
   "source": "kayo",
-  "fetchedAt": 1788856803612,
-  "fetchedAtIST": "8/9/2026, 2:10:03 pm",
+  "fetchedAt": 1788883798436,
+  "fetchedAtIST": "8/9/2026, 9:39:58 pm",
   "events": [
     {
       "programTitle": "First Crack Preview",
@@ -17,21 +17,54 @@
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-09-10_SH051721160000_107151644963_2025-04-29T07:35:22Z_p27625219_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "AFL 360",
-      "episodeTitle": "",
-      "description": "An in-depth examination of events and issues regarding all things AFL. Includes interviews with coaches and players, recaps, and breaking news.",
+      "programTitle": "AFL Mini",
+      "episodeTitle": "Round 15: Fremantle Dockers v Geelong Cats",
+      "description": "Condensed highlights, reaction and analysis of the biggest sport stories from Australia and around the world.",
       "scheduledDate": 1789067700000,
-      "duration": 60,
+      "duration": 20,
       "parentalRating": "",
-      "programType": "Series",
-      "genre": "Sports talk, Australian rules football",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-09-10_SH029292320000_109514254203_2026-07-03T00:25:57Z_p15311210_i_h10_af/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "programType": "Sports non-event",
+      "genre": "Australian rules football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-09-10_SH042238570000_104529301600_2022-03-07T04:36:21Z_p21759801_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "First Crack Preview",
+      "episodeTitle": "",
+      "description": "An expert panel analyse the round ahead and take a look at all the major happenings in the world of footy.",
+      "scheduledDate": 1789068900000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Australian rules football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-09-10_SH051721160000_107151644963_2025-04-29T07:35:22Z_p27625219_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "AFL Mini",
+      "episodeTitle": "Round 8: Carlton Blues v St Kilda Saints",
+      "description": "Condensed highlights, reaction and analysis of the biggest sport stories from Australia and around the world.",
+      "scheduledDate": 1789070700000,
+      "duration": 20,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Australian rules football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-09-10_SH042238570000_104529301600_2022-03-07T04:36:21Z_p21759801_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "First Crack Preview",
       "episodeTitle": "",
       "description": "An expert panel analyse the round ahead and take a look at all the major happenings in the world of footy.",
       "scheduledDate": 1789071300000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Australian rules football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-09-10_SH051721160000_107151644963_2025-04-29T07:35:22Z_p27625219_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "First Crack Preview",
+      "episodeTitle": "",
+      "description": "An expert panel analyse the round ahead and take a look at all the major happenings in the world of footy.",
+      "scheduledDate": 1789071900000,
       "duration": 30,
       "parentalRating": "",
       "programType": "Sports non-event",
@@ -50,6 +83,17 @@
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-09-10_SH042238570000_104529301600_2022-03-07T04:36:21Z_p21759801_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
+      "programTitle": "AFL Mini",
+      "episodeTitle": "Round 15: Fremantle Dockers v Geelong Cats",
+      "description": "Condensed highlights, reaction and analysis of the biggest sport stories from Australia and around the world.",
+      "scheduledDate": 1789073700000,
+      "duration": 20,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Australian rules football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-09-10_SH042238570000_104529301600_2022-03-07T04:36:21Z_p21759801_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
       "programTitle": "AFL",
       "episodeTitle": "Fremantle vs Hawthorn",
       "description": "From Optus Stadium in Perth, Western Australia, Australia.",
@@ -61,10 +105,32 @@
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-09-10_EP029151671300_111354726892_2026-03-20T22:57:10Z_GNLZZGG0031DGBN/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
+      "programTitle": "AFL",
+      "episodeTitle": "Qualifying Final: Fremantle vs Hawthorn",
+      "description": "Live from Optus Stadium. Bounce time: 8:10 pm AEST.",
+      "scheduledDate": 1789074900000,
+      "duration": 145,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Playoff sports, Australian rules football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-09-10_EP029151671447_112386184323_2026-09-02T13:54:57Z_GNLZZGG003M7PKT/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
       "programTitle": "Classic AFL",
       "episodeTitle": "",
       "description": "Condensed highlights and a look back at full replays of some of the greatest encounters from the Australian Football League.",
       "scheduledDate": 1789083300000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Classic sport event, Australian rules football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-09-10_SH028096630000_102142641835_2018-11-27T09:00:00Z_p14740563_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Classic AFL",
+      "episodeTitle": "2017 Round 14: Geelong vs Fremantle",
+      "description": "The Geelong Cats, with some players out due to injury, take on the Fremantle Dockers in this round 14 match from the 2017 Premiership season.",
+      "scheduledDate": 1789083600000,
       "duration": 30,
       "parentalRating": "",
       "programType": "Sports event",

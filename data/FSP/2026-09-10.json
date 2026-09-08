@@ -2,8 +2,8 @@
   "channel": "FSP",
   "date": "2026-09-10",
   "source": "kayo",
-  "fetchedAt": 1788856803617,
-  "fetchedAtIST": "8/9/2026, 2:10:03 pm",
+  "fetchedAt": 1788883798443,
+  "fetchedAtIST": "8/9/2026, 9:39:58 pm",
   "events": [
     {
       "programTitle": "FIM Superbike World Championship",
@@ -40,7 +40,7 @@
     },
     {
       "programTitle": "NASCAR O'Reilly Auto Parts Series Highlights",
-      "episodeTitle": "MillerTech Battery 250",
+      "episodeTitle": "Fleetio 200",
       "description": "Highlights of the various races taking place at the NASCAR O'Reilly Auto Parts Series.",
       "scheduledDate": 1788991200000,
       "duration": 60,
@@ -51,7 +51,7 @@
     },
     {
       "programTitle": "NASCAR Cup Racing Series",
-      "episodeTitle": "Darlington Raceway",
+      "episodeTitle": "Daytona International Speedway",
       "description": "Coverage of the NASCAR Cup Series, professional stock car racing in the United States.",
       "scheduledDate": 1788994800000,
       "duration": 60,
@@ -85,24 +85,24 @@
     {
       "programTitle": "MotoGP Racing",
       "episodeTitle": "Grand Prix of Aragon, Sprint Race",
-      "description": "From MotorLand Aragón in Aragon, Spain.",
+      "description": "Action from MotoGP racing.",
       "scheduledDate": 1789005600000,
       "duration": 30,
       "parentalRating": "",
       "programType": "Sports event",
-      "genre": "Motorcycle racing",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-09-10_SH028104880000_112186554419_2025-04-17T20:03:48Z_p445587_i_h8_ae/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "genre": "Family, Classic sport event, Motorcycle racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-09-10_SH035853180000_112358172067_2017-10-24T00:43:00Z_p445588_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "MotoGP Racing",
       "episodeTitle": "Grand Prix of Aragon",
-      "description": "From MotorLand Aragón in Aragon, Spain.",
+      "description": "Action from MotoGP racing.",
       "scheduledDate": 1789007400000,
       "duration": 60,
       "parentalRating": "",
       "programType": "Sports event",
-      "genre": "Motorcycle racing",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-09-10_SH028104880000_112186554419_2025-04-17T20:03:48Z_p445587_i_h8_ae/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "genre": "Family, Classic sport event, Motorcycle racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-09-10_SH035853180000_112358172067_2017-10-24T00:43:00Z_p445588_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "MotorRacing 360",
@@ -149,15 +149,15 @@
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/Fallback_LTV_Fox_Sports_505/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "PBR Bull Riding",
+      "programTitle": "Pro Bull Riders",
       "episodeTitle": "",
-      "description": "Coverage of the action from the Professional Bull Riders events.",
+      "description": "",
       "scheduledDate": 1789025400000,
       "duration": 60,
       "parentalRating": "",
-      "programType": "Sports event",
+      "programType": "Sports non-event",
       "genre": "Bull riding",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-09-10_SH033364560000_110114392996_2017-09-14T16:13:00Z_p12572769_i_h10_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-09-10_SH060756560000_112399825563_2018-11-27T11:21:00Z_p12819416_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "Formula 1",
@@ -193,26 +193,26 @@
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-09-10_SH051028760000_112367882509_2021-04-23T21:46:53Z_p19827810_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "Sport Special",
-      "episodeTitle": "",
-      "description": "Tune into the latest news and comprehensive analysis of different sporting events around the globe.",
+      "programTitle": "MotoGP Mini",
+      "episodeTitle": "Aragon",
+      "description": "Fresh off his Silverstone win, Raul Fernandez targets another standout performance on home soil in Spain as the championship battle intensifies.",
       "scheduledDate": 1789047000000,
       "duration": 25,
       "parentalRating": "",
-      "programType": "Sports non-event",
-      "genre": "Other",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/Fallback_LTV_Fox_Sports_505/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "programType": "Sports event",
+      "genre": "Classic sport event, Motorsports, Motorcycle racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-09-10_SH035786450000_105695703154_2020-08-14T07:40:24Z_p18624430_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "Women's CPL T20 Cricket",
-      "episodeTitle": "Trinbago Knight Riders vs Jamaica Empress",
+      "programTitle": "CPL T20 Cricket",
+      "episodeTitle": "Barbados Tridents vs St. Kitts & Nevis Patriots",
       "description": "From Kensington Oval in Bridgetown, Saint Michael, Barbados.",
       "scheduledDate": 1789048500000,
       "duration": 245,
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Cricket",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-09-10_EP044402700030_112257523145_2026-09-04T04:45:33Z_GNLZZGG003MN96C/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-09-10_EP033351860208_112399825567_2026-09-08T04:42:55Z_GNLZZGG003N3TN9/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "Porsche SuperCup",

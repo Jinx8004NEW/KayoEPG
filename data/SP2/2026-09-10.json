@@ -2,8 +2,8 @@
   "channel": "SP2",
   "date": "2026-09-10",
   "source": "kayo",
-  "fetchedAt": 1788856803597,
-  "fetchedAtIST": "8/9/2026, 2:10:03 pm",
+  "fetchedAt": 1788883798418,
+  "fetchedAtIST": "8/9/2026, 9:39:58 pm",
   "events": [
     {
       "programTitle": "NRL",
@@ -106,7 +106,7 @@
     },
     {
       "programTitle": "Face-To-Face on Fox",
-      "episodeTitle": "Craig Gower",
+      "episodeTitle": "Ben Ikin Part 2",
       "description": "Jake Duke and Yvonne Sampson chat candidly with prominent figures in the game of rugby league and Australian society.",
       "scheduledDate": 1789007400000,
       "duration": 30,
@@ -160,15 +160,15 @@
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-09-10_SH029171760000_103512401493_2025-03-19T07:04:18Z_p15251449_i_h10_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "Rugby League Rewind",
-      "episodeTitle": "",
-      "description": "A journey back to some of the most historic moments in rugby league history and some of the game's greatest matches.",
+      "programTitle": "NRL Classic Match",
+      "episodeTitle": "2017 Elimination Final: Cronulla-Sutherland Sharks v North Queensland Cowboys",
+      "description": "Re-live some of the best rugby league clashes from the Premiership's past.",
       "scheduledDate": 1789020000000,
       "duration": 60,
       "parentalRating": "",
       "programType": "Sports event",
-      "genre": "Classic sport event, Rugby league",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-09-10_SH035309220000_101997306219_2020-06-04T05:30:16Z_p18385895_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "genre": "Rugby, Classic sport event",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-09-10_SH034822800000_100794011205_2020-04-08T22:50:08Z_p18168517_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "The Fan",
@@ -182,11 +182,33 @@
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-09-10_SH029171760000_103512401493_2025-03-19T07:04:18Z_p15251449_i_h10_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
+      "programTitle": "NRL Tonight",
+      "episodeTitle": "",
+      "description": "A look back at the latest NRL events and matches with special guests, expert opinions and breaking news.",
+      "scheduledDate": 1789025400000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Sports talk, Rugby league",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-09-10_SH030523220000_107952200542_2020-03-16T19:50:14Z_p15943624_i_h10_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NRLW on Fox",
+      "episodeTitle": "",
+      "description": "Lara Pitt chats with current and former players about all the latest NRLW headlines, results and upcoming fixtures.",
+      "scheduledDate": 1789027200000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Series",
+      "genre": "Rugby, Rugby league",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-09-10_SH048020300000_112166871701_2023-07-07T05:21:56Z_p25151338_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
       "programTitle": "NRL 360",
       "episodeTitle": "",
       "description": "The expert team discuss key issues and topics across the rugby league with legends and current players of the game. There are reviews, news and a variety of views from around the sport landscape.",
-      "scheduledDate": 1789025400000,
-      "duration": 62,
+      "scheduledDate": 1789029000000,
+      "duration": 60,
       "parentalRating": "",
       "programType": "Sports non-event",
       "genre": "Sports talk, Rugby league",
@@ -215,6 +237,17 @@
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-09-10_SH048020300000_112166871701_2023-07-07T05:21:56Z_p25151338_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
+      "programTitle": "NRLW on Fox",
+      "episodeTitle": "",
+      "description": "Lara Pitt chats with current and former players about all the latest NRLW headlines, results and upcoming fixtures.",
+      "scheduledDate": 1789032600000,
+      "duration": 15,
+      "parentalRating": "",
+      "programType": "Series",
+      "genre": "Rugby, Rugby league",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-09-10_SH048020300000_112166871701_2023-07-07T05:21:56Z_p25151338_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
       "programTitle": "NRL Women's Premiership",
       "episodeTitle": "Sydney Roosters vs Canterbury-Bankstown Bulldogs",
       "description": "Live from Allianz Stadium. Kick off at 7:45PM AEST.",
@@ -226,15 +259,15 @@
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-09-10_EP030419250286_112255464460_2026-08-07T22:51:45Z_GNLZZGG003FCXQM/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "Get Em' Onside",
+      "programTitle": "NRL 360",
       "episodeTitle": "",
-      "description": "Joel Caine and Sean 'The Trader' provide an in-depth look into the latest Super Saturday odds for the NRL.",
+      "description": "The expert team discuss key issues and topics across the rugby league with legends and current players of the game. There are reviews, news and a variety of views from around the sport landscape.",
       "scheduledDate": 1789039500000,
-      "duration": 30,
+      "duration": 60,
       "parentalRating": "",
       "programType": "Sports non-event",
-      "genre": "Rugby league, Sports talk",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-09-10_SH034726250000_107033247745_2020-05-27T05:35:11Z_p18124645_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "genre": "Sports talk, Rugby league",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-09-10_SH029161050000_110779849480_2026-03-24T08:25:06Z_p11964078_i_h10_ae/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "Face-To-Face on Fox",
@@ -248,15 +281,15 @@
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-09-10_SH047168440000_107963082214_2026-05-25T11:55:41Z_p19607826_i_h10_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "NRLW Premiership Mini",
-      "episodeTitle": "Sydney Roosters v Canterbury Bulldogs",
-      "description": "Condensed highlights of some of the greatest encounters from the NRL Women's competition.",
+      "programTitle": "Get Em' Onside",
+      "episodeTitle": "Finals - Week 1",
+      "description": "Joel Caine and Sean 'The Trader' provide an in-depth look into the latest Super Saturday odds for the NRL.",
       "scheduledDate": 1789043100000,
-      "duration": 20,
+      "duration": 30,
       "parentalRating": "",
       "programType": "Sports non-event",
-      "genre": "Rugby league, Rugby",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-09-10_SH042238410000_109229287001_2022-03-07T01:46:13Z_p21759648_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "genre": "Rugby league, Sports talk",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-09-10_SH034726250000_107033247745_2020-05-27T05:35:11Z_p18124645_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "NRLW on Fox",
@@ -268,6 +301,28 @@
       "programType": "Series",
       "genre": "Rugby, Rugby league",
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-09-10_SH048020300000_112166871701_2023-07-07T05:21:56Z_p25151338_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NRLW Premiership Mini",
+      "episodeTitle": "Sydney Roosters v Canterbury Bulldogs",
+      "description": "Condensed highlights of some of the greatest encounters from the NRL Women's competition.",
+      "scheduledDate": 1789044900000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Rugby league, Rugby",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-09-10_SH042238410000_109229287001_2022-03-07T01:46:13Z_p21759648_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NRL 360",
+      "episodeTitle": "",
+      "description": "The expert team discuss key issues and topics across the rugby league with legends and current players of the game. There are reviews, news and a variety of views from around the sport landscape.",
+      "scheduledDate": 1789046700000,
+      "duration": 55,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Sports talk, Rugby league",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-09-10_SH029161050000_110779849480_2026-03-24T08:25:06Z_p11964078_i_h10_ae/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "NRLW Premiership Mini",
@@ -296,7 +351,7 @@
       "episodeTitle": "Sydney Roosters v Canterbury Bulldogs",
       "description": "Condensed highlights of some of the greatest encounters from the NRL Women's competition.",
       "scheduledDate": 1789050000000,
-      "duration": 20,
+      "duration": 25,
       "parentalRating": "",
       "programType": "Sports non-event",
       "genre": "Rugby league, Rugby",
@@ -312,6 +367,17 @@
       "programType": "Sports non-event",
       "genre": "Sports talk, Rugby, Rugby league",
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-09-10_SH047168440000_107963082214_2026-05-25T11:55:41Z_p19607826_i_h10_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NRL 360",
+      "episodeTitle": "",
+      "description": "The expert team discuss key issues and topics across the rugby league with legends and current players of the game. There are reviews, news and a variety of views from around the sport landscape.",
+      "scheduledDate": 1789051500000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Sports talk, Rugby league",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-09-10_SH029161050000_110779849480_2026-03-24T08:25:06Z_p11964078_i_h10_ae/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "NRLW Premiership Mini",
@@ -336,6 +402,17 @@
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-09-10_SH029171760000_103512401493_2025-03-19T07:04:18Z_p15251449_i_h10_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
+      "programTitle": "NRL Women's Premiership",
+      "episodeTitle": "Sydney Roosters vs Canterbury-Bankstown Bulldogs",
+      "description": "Live from Allianz Stadium. Kick off at 7:45PM AEST.",
+      "scheduledDate": 1789055100000,
+      "duration": 20,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Rugby league, Rugby",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-09-10_EP030419250286_112255464460_2026-08-07T22:51:45Z_GNLZZGG003FCXQM/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
       "programTitle": "NRLW Premiership Mini",
       "episodeTitle": "Sydney Roosters v Canterbury Bulldogs",
       "description": "Condensed highlights of some of the greatest encounters from the NRL Women's competition.",
@@ -345,6 +422,17 @@
       "programType": "Sports non-event",
       "genre": "Rugby league, Rugby",
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-09-10_SH042238410000_109229287001_2022-03-07T01:46:13Z_p21759648_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NRL 360",
+      "episodeTitle": "",
+      "description": "The expert team discuss key issues and topics across the rugby league with legends and current players of the game. There are reviews, news and a variety of views from around the sport landscape.",
+      "scheduledDate": 1789056300000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Sports talk, Rugby league",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-09-10_SH029161050000_110779849480_2026-03-24T08:25:06Z_p11964078_i_h10_ae/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "NRLW on Fox",
@@ -369,15 +457,15 @@
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-09-10_SH042238410000_109229287001_2022-03-07T01:46:13Z_p21759648_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "NRLW on Fox",
+      "programTitle": "NRL 360",
       "episodeTitle": "",
-      "description": "Lara Pitt chats with current and former players about all the latest NRLW headlines, results and upcoming fixtures.",
+      "description": "The expert team discuss key issues and topics across the rugby league with legends and current players of the game. There are reviews, news and a variety of views from around the sport landscape.",
       "scheduledDate": 1789061100000,
-      "duration": 45,
+      "duration": 60,
       "parentalRating": "",
-      "programType": "Series",
-      "genre": "Rugby, Rugby league",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-09-10_SH048020300000_112166871701_2023-07-07T05:21:56Z_p25151338_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "programType": "Sports non-event",
+      "genre": "Sports talk, Rugby league",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-09-10_SH029161050000_110779849480_2026-03-24T08:25:06Z_p11964078_i_h10_ae/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "NRLW Premiership Mini",
@@ -385,6 +473,17 @@
       "description": "Condensed highlights of some of the greatest encounters from the NRL Women's competition.",
       "scheduledDate": 1789063800000,
       "duration": 20,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Rugby league, Rugby",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-09-10_SH042238410000_109229287001_2022-03-07T01:46:13Z_p21759648_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NRLW Premiership Mini",
+      "episodeTitle": "Sydney Roosters v Canterbury Bulldogs",
+      "description": "Condensed highlights of some of the greatest encounters from the NRL Women's competition.",
+      "scheduledDate": 1789064700000,
+      "duration": 30,
       "parentalRating": "",
       "programType": "Sports non-event",
       "genre": "Rugby league, Rugby",

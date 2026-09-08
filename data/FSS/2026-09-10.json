@@ -2,8 +2,8 @@
   "channel": "FSS",
   "date": "2026-09-10",
   "source": "kayo",
-  "fetchedAt": 1788856803632,
-  "fetchedAtIST": "8/9/2026, 2:10:03 pm",
+  "fetchedAt": 1788883798458,
+  "fetchedAtIST": "8/9/2026, 9:39:58 pm",
   "events": [
     {
       "programTitle": "NASCAR Cup Racing Series",
@@ -150,7 +150,7 @@
     },
     {
       "programTitle": "Getting a Round In",
-      "episodeTitle": "",
+      "episodeTitle": "Kate McCarthy",
       "description": "Australian professional golfer, Paul Gow hosts celebrities as his playing partners who share his love for the game of golf.",
       "scheduledDate": 1789029000000,
       "duration": 30,
@@ -160,15 +160,15 @@
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-09-10_SH048121120000_110998856207_2023-07-18T05:56:16Z_p25221374_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "Road to the Presidents Cup",
-      "episodeTitle": "",
-      "description": "A look ahead to the Presidents Cup, a competition between American and International golfers that takes place this year at Medinah Country Club in Medinah, Ill.",
+      "programTitle": "ETPL",
+      "episodeTitle": "Rotterdam Dockers vs. Glasgow Cosmic",
+      "description": "",
       "scheduledDate": 1789030800000,
-      "duration": 60,
+      "duration": 255,
       "parentalRating": "",
-      "programType": "Sports non-event",
-      "genre": "Golf",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-09-10_SH065965780000_112349043808_2026-08-24T05:58:59Z_p33378430_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "programType": "Sports event",
+      "genre": "Cricket",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-09-10_EP065792820014_112400316342_2026-09-04T23:40:16Z_GNLZZGG003MWQ3Y/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "World Surf League Highlights",
@@ -213,6 +213,17 @@
       "programType": "Sports event",
       "genre": "Darts",
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-09-10_SH032967320000_109954612423_2024-10-04T13:14:55Z_p644283_i_h8_ah/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "ETPL",
+      "episodeTitle": "Belfast Wolves vs. Amsterdam Flames",
+      "description": "",
+      "scheduledDate": 1789046100000,
+      "duration": 225,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Cricket",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-09-10_EP065792820015_112400316349_2026-09-04T23:49:27Z_GNLZZGG003MX1RK/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "Darts",

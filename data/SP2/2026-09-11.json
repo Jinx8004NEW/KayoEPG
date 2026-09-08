@@ -2,8 +2,8 @@
   "channel": "SP2",
   "date": "2026-09-11",
   "source": "kayo",
-  "fetchedAt": 1788856803598,
-  "fetchedAtIST": "8/9/2026, 2:10:03 pm",
+  "fetchedAt": 1788883798418,
+  "fetchedAtIST": "8/9/2026, 9:39:58 pm",
   "events": [
     {
       "programTitle": "Sport Special",
@@ -15,6 +15,28 @@
       "programType": "Sports non-event",
       "genre": "Other",
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/Fallback_LTV_Fox_League/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "English Super League Pre-Game",
+      "episodeTitle": "Round 27: York Knights v Bradford Bulls",
+      "description": "Experts discuss the line-ups, key tactics, and predictions before the Super League kick-off.",
+      "scheduledDate": 1789066500000,
+      "duration": 135,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Rugby league, Rugby",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-09-10_SH050627460000_104351472372_2024-03-13T11:13:41Z_p26943516_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NRL 360",
+      "episodeTitle": "",
+      "description": "The expert team discuss key issues and topics across the rugby league with legends and current players of the game. There are reviews, news and a variety of views from around the sport landscape.",
+      "scheduledDate": 1789074600000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Sports talk, Rugby league",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-09-10_SH029161050000_110779849480_2026-03-24T08:25:06Z_p11964078_i_h10_ae/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "NRLW on Fox",
@@ -39,15 +61,15 @@
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-09-10_SH042238410000_109229287001_2022-03-07T01:46:13Z_p21759648_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "Face-To-Face on Fox",
-      "episodeTitle": "Craig Gower",
-      "description": "Jake Duke and Yvonne Sampson chat candidly with prominent figures in the game of rugby league and Australian society.",
+      "programTitle": "NRL",
+      "episodeTitle": "",
+      "description": "Comprehensive coverage and full game replays of all the matches played in Australia's National Rugby League.",
       "scheduledDate": 1789079400000,
-      "duration": 30,
+      "duration": 60,
       "parentalRating": "",
-      "programType": "Sports non-event",
-      "genre": "Sports talk, Rugby, Rugby league",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-09-10_SH047168440000_107963082214_2026-05-25T11:55:41Z_p19607826_i_h10_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "programType": "Sports event",
+      "genre": "Rugby league, Rugby",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-09-10_SH031720960000_112359113277_2025-02-14T21:33:28Z_p817685_i_h8_ad/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "Rugby League Rewind",
@@ -59,6 +81,17 @@
       "programType": "Sports event",
       "genre": "Classic sport event, Rugby league",
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-09-10_SH035309220000_101997306219_2020-06-04T05:30:16Z_p18385895_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NRL 360",
+      "episodeTitle": "",
+      "description": "The expert team discuss key issues and topics across the rugby league with legends and current players of the game. There are reviews, news and a variety of views from around the sport landscape.",
+      "scheduledDate": 1789083000000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Sports talk, Rugby league",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-09-10_SH029161050000_110779849480_2026-03-24T08:25:06Z_p11964078_i_h10_ae/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     }
   ]
 }
