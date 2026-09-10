@@ -1,25 +1,16 @@
 {
   "channel": "4KF",
-  "date": "2026-09-05",
+  "date": "2026-09-11",
   "source": "kayo-4k",
-  "fetchedAt": 1788631100028,
-  "fetchedAtIST": "5/9/2026, 11:28:20 pm",
+  "fetchedAt": 1789067054724,
+  "fetchedAtIST": "11/9/2026, 12:34:14 am",
   "events": [
     {
-      "eventId": "gw12psh0vyvy01mz050yc6g9nl",
-      "programTitle": "Sydney v Brisbane",
-      "scheduledDate": 1788585300000,
-      "duration": 199,
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/e5tl0541d0d6pe3avfbjmhcny_image-header_pRow_1788148260000/fill/none/top/none/80/1920/1080/webp/image?brand=kayo",
-      "competitionTitle": "AFL",
-      "sport": "Australian Rules Football"
-    },
-    {
-      "eventId": "1nlxbc5yqef9y1k28gezhcij9m",
-      "programTitle": "Adelaide v Western Bulldogs",
-      "scheduledDate": 1788600900000,
-      "duration": 251,
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/5y9r3fdkaz4x52e2txs5pyl03_image-header_pRow_1788148310000/fill/none/top/none/80/1920/1080/webp/image?brand=kayo",
+      "eventId": "1mkv4gv3h8y44d6gxjdj1kon90",
+      "programTitle": "Fremantle v Geelong Semi Final",
+      "scheduledDate": 1789121400000,
+      "duration": 130,
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/6kfps1ngoihn8ldplbbi0ntw0_image-header_pRow_1788840111000/fill/none/top/none/80/1920/1080/webp/image?brand=kayo",
       "competitionTitle": "AFL",
       "sport": "Australian Rules Football"
     }
