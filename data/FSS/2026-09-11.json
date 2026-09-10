@@ -2,8 +2,8 @@
   "channel": "FSS",
   "date": "2026-09-11",
   "source": "kayo",
-  "fetchedAt": 1789029758199,
-  "fetchedAtIST": "10/9/2026, 2:12:38 pm",
+  "fetchedAt": 1789055856371,
+  "fetchedAtIST": "10/9/2026, 9:27:36 pm",
   "events": [
     {
       "programTitle": "SailGP",
@@ -21,7 +21,7 @@
       "episodeTitle": "",
       "description": "Follows world record-holding surfer Blake Johnston's journey of transforming personal tragedy into meaningful action, examining how suicide impacts communities and how genuine relationships, bravery, and open dialogue can inspire transformation.",
       "scheduledDate": 1789070400000,
-      "duration": 75,
+      "duration": 70,
       "parentalRating": "M",
       "programType": "Feature Film",
       "genre": "Documentary",
@@ -29,10 +29,10 @@
     },
     {
       "programTitle": "World Surf League Highlights",
-      "episodeTitle": "",
+      "episodeTitle": "2026 Rip Curl Pro Bells Beach",
       "description": "Action from the World Surf League.",
       "scheduledDate": 1789074600000,
-      "duration": 60,
+      "duration": 50,
       "parentalRating": "",
       "programType": "Sports non-event",
       "genre": "Surfing",
@@ -186,11 +186,22 @@
       "episodeTitle": "Aragon",
       "description": "Fresh off his Silverstone win, Raul Fernandez targets another standout performance on home soil in Spain as the championship battle intensifies.",
       "scheduledDate": 1789108200000,
-      "duration": 60,
+      "duration": 25,
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Classic sport event, Motorsports, Motorcycle racing",
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-09-11_SH035786450000_105695703154_2020-08-14T07:40:24Z_p18624430_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Moto3 GP Racing",
+      "episodeTitle": "Red Bull Grand Prix of San Marino and the Rimini Riviera, Free Practice 1",
+      "description": "From Misano World Circuit Marco Simoncelli in Misano Adriatico, Rimini, Italy.",
+      "scheduledDate": 1789109700000,
+      "duration": 45,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Motorcycle racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-09-11_SH046925390000_110253896884_2025-03-18T14:45:03Z_p15289756_i_h8_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "F1 Mini",
@@ -204,19 +215,30 @@
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-09-11_SH036452570000_107032703571_2020-11-19T03:00:48Z_p18944992_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "Ted's Notebook",
-      "episodeTitle": "",
-      "description": "Ted Kravitz gives an exciting behind-the-scenes look at the world of Formula 1.",
+      "programTitle": "Formula 1",
+      "episodeTitle": "Spanish Grand Prix: Paddock Uncut",
+      "description": "Features all the action and highlights from Formula 1 racing.",
+      "scheduledDate": 1789112400000,
+      "duration": 20,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Classic sport event, Motorsports, Auto racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-09-11_SH035915380000_109578600751_2023-09-29T11:04:19Z_p8544413_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "PGA Tour Highlights",
+      "episodeTitle": "PGA Championship, Final Round",
+      "description": "Highlights from PGA Tour events featuring the world's best golfers in action. Hosts track the progression of the game while reviewing the changes in technologies and techniques.",
       "scheduledDate": 1789113600000,
       "duration": 30,
       "parentalRating": "",
-      "programType": "Sports non-event",
-      "genre": "Auto racing, Motorsports",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-09-11_SH038161890000_106370532176_2021-03-17T07:49:14Z_p9739735_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "programType": "Sports event",
+      "genre": "Classic sport event, Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-09-11_SH032355110000_106892699068_2023-03-16T12:30:24Z_p9060599_i_h10_ae/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "DP World Tour Golf",
-      "episodeTitle": "Amgen Irish Open, Second Round",
+      "episodeTitle": "Amgen Irish Open, First Round",
       "description": "From Trump International Golf Links & Hotel in Doonbeg, Ireland.",
       "scheduledDate": 1789115400000,
       "duration": 330,
@@ -227,7 +249,7 @@
     },
     {
       "programTitle": "World Surf League Highlights",
-      "episodeTitle": "",
+      "episodeTitle": "Fiji Pro",
       "description": "Action from the World Surf League.",
       "scheduledDate": 1789135200000,
       "duration": 30,
@@ -238,7 +260,7 @@
     },
     {
       "programTitle": "World Surf League: Dawn Patrol",
-      "episodeTitle": "Lexus Trestles Pro",
+      "episodeTitle": "",
       "description": "Join the WSL commentary team as they bring you the latest news and expert analysis.",
       "scheduledDate": 1789137000000,
       "duration": 30,
@@ -249,10 +271,10 @@
     },
     {
       "programTitle": "WSL Tour",
-      "episodeTitle": "Championship Tour: Lexus Trestles Pro",
+      "episodeTitle": "",
       "description": "Coverage of surfing action from the WSL.",
       "scheduledDate": 1789138800000,
-      "duration": 540,
+      "duration": 210,
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Surfing",

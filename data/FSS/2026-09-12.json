@@ -2,9 +2,31 @@
   "channel": "FSS",
   "date": "2026-09-12",
   "source": "kayo",
-  "fetchedAt": 1789029758199,
-  "fetchedAtIST": "10/9/2026, 2:12:38 pm",
+  "fetchedAt": 1789055856372,
+  "fetchedAtIST": "10/9/2026, 9:27:36 pm",
   "events": [
+    {
+      "programTitle": "WSL Tour",
+      "episodeTitle": "Championship Tour: Lexus Trestles Pro",
+      "description": "Coverage of surfing action from the WSL.",
+      "scheduledDate": 1789151400000,
+      "duration": 150,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Surfing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-09-11_SH033247690000_110929981520_2019-03-19T05:40:29Z_p16589355_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "SIGN OFF",
+      "episodeTitle": "",
+      "description": "Sign off.",
+      "scheduledDate": 1789160400000,
+      "duration": 180,
+      "parentalRating": "",
+      "programType": "Off Air",
+      "genre": "Special",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-09-11_SH000191120000_111690195482_2026-08-21T14:58:20Z_p480440_i_h8_ad/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
     {
       "programTitle": "Formula 1",
       "episodeTitle": "Spanish Grand Prix, Practice 1",
@@ -28,15 +50,15 @@
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-09-12_SH027326820000_111922734417_2025-07-16T14:05:24Z_p691060_i_h8_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "The F1 Show",
+      "programTitle": "F",
       "episodeTitle": "",
-      "description": "A look at the latest and greatest of Formula 1, from track stories to features, highlighting the experiences on and off of the track.",
+      "description": "",
       "scheduledDate": 1789178400000,
-      "duration": 60,
+      "duration": 61,
       "parentalRating": "",
-      "programType": "Sports non-event",
-      "genre": "Auto racing, Sports talk",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-09-12_SH029317340000_103666898102_2018-10-16T09:21:00Z_p9108923_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "programType": "",
+      "genre": "",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/Fallback_LTV_Fox_Sports_507/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "DP World Tour Golf",
@@ -51,6 +73,17 @@
     },
     {
       "programTitle": "AFL Women's Premiership",
+      "episodeTitle": "Hawthorn Hawks vs Western Bulldogs",
+      "description": "From Kennedy Community Centre in Melbourne, Australia.",
+      "scheduledDate": 1789182060000,
+      "duration": 119,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Australian rules football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-09-12_EP029247970775_112508630300_2026-08-03T17:46:48Z_GNLZZGG003DV9SW/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "AFL Women's Premiership",
       "episodeTitle": "",
       "description": "Coverage of matches played as part of the premier women's Australian rules competition.",
       "scheduledDate": 1789187400000,
@@ -59,6 +92,17 @@
       "programType": "Sports event",
       "genre": "Australian rules football",
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-09-12_SH029247970000_110054474737_2025-09-19T17:14:25Z_p14834144_i_h8_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "AFL Women's Premiership",
+      "episodeTitle": "Adelaide Crows vs Geelong Cats",
+      "description": "From Thomas Farms Oval in Unley, South Australia, Australia.",
+      "scheduledDate": 1789189200000,
+      "duration": 210,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Australian rules football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-09-12_EP029247970777_112361112658_2026-08-03T17:47:52Z_GNLZZGG003DVFDS/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "AFL Women's Premiership",
@@ -72,15 +116,26 @@
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-09-12_SH029247970000_110054474737_2025-09-19T17:14:25Z_p14834144_i_h8_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "DP World Tour Golf",
-      "episodeTitle": "Amgen Irish Open, Second Round",
-      "description": "From Trump International Golf Links & Hotel in Doonbeg, Ireland.",
+      "programTitle": "Sports Special",
+      "episodeTitle": "",
+      "description": "Takes a look at the toughest sportsmen on the planet for the ride of a lifetime as they take on the meanest bulls in the world in a bid to be crowned Australia's best bull rider.",
       "scheduledDate": 1789201800000,
-      "duration": 90,
+      "duration": 60,
       "parentalRating": "",
-      "programType": "Sports event",
-      "genre": "Golf",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-09-12_SH040914080000_111510780655_2022-04-26T15:48:27Z_p20993758_i_h8_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "programType": "Sports non-event",
+      "genre": "Special",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/Fallback_LTV_Fox_Sports_507/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "F",
+      "episodeTitle": "",
+      "description": "",
+      "scheduledDate": 1789205400000,
+      "duration": 196,
+      "parentalRating": "",
+      "programType": "",
+      "genre": "",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/Fallback_LTV_Fox_Sports_507/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "Supercars Championship",
@@ -138,6 +193,17 @@
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-09-12_SH035728470000_102439454374_2018-12-17T21:00:00Z_p16276370_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
+      "programTitle": "F",
+      "episodeTitle": "",
+      "description": "",
+      "scheduledDate": 1789217160000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "",
+      "genre": "",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/Fallback_LTV_Fox_Sports_507/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
       "programTitle": "SailGP",
       "episodeTitle": "Spain SGP",
       "description": "Highlights from the 10th event of the 2026 Rolex SailGP Championship, which takes place in the Spanish city of Valencia.",
@@ -149,15 +215,26 @@
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-09-12_SH039936010000_108224779666_2024-11-22T10:14:23Z_p16560598_i_h10_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
+      "programTitle": "F",
+      "episodeTitle": "",
+      "description": "",
+      "scheduledDate": 1789218960000,
+      "duration": 39,
+      "parentalRating": "",
+      "programType": "",
+      "genre": "",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/Fallback_LTV_Fox_Sports_507/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
       "programTitle": "Women's CPL T20 Cricket",
-      "episodeTitle": "Barbados Tridents vs Trinbago Knight Riders",
+      "episodeTitle": "Trinbago Knight Riders vs Guyana Amazon Warriors",
       "description": "From Kensington Oval in Bridgetown, Saint Michael, Barbados.",
       "scheduledDate": 1789221300000,
       "duration": 240,
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Cricket",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-09-12_EP044402700027_112437177061_2026-09-03T19:16:13Z_GNLZZGG003MHJVG/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-09-12_EP044402700031_112507057990_2026-09-07T14:02:36Z_GNLZZGG003N2JBE/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "WSL Tour",

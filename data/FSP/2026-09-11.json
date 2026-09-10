@@ -2,19 +2,19 @@
   "channel": "FSP",
   "date": "2026-09-11",
   "source": "kayo",
-  "fetchedAt": 1789029758190,
-  "fetchedAtIST": "10/9/2026, 2:12:38 pm",
+  "fetchedAt": 1789055856359,
+  "fetchedAtIST": "10/9/2026, 9:27:36 pm",
   "events": [
     {
-      "programTitle": "Sport Special",
-      "episodeTitle": "",
-      "description": "Tune into the latest news and comprehensive analysis of different sporting events around the globe.",
+      "programTitle": "Getting a Round In",
+      "episodeTitle": "Kate McCarthy",
+      "description": "Australian professional golfer, Paul Gow hosts celebrities as his playing partners who share his love for the game of golf.",
       "scheduledDate": 1789065000000,
-      "duration": 25,
+      "duration": 30,
       "parentalRating": "",
-      "programType": "Sports non-event",
-      "genre": "Other",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/Fallback_LTV_Fox_Sports_505/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "programType": "Series",
+      "genre": "Golf, Interview",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-09-10_SH048121120000_110998856207_2023-07-18T05:56:16Z_p25221374_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "English Super League Pre-Game",
@@ -28,15 +28,15 @@
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-09-10_SH050627460000_104351472372_2024-03-13T11:13:41Z_p26943516_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "English Super League Pre-Game",
-      "episodeTitle": "",
-      "description": "Experts discuss the line-ups, key tactics, and predictions before the Super League kick-off.",
+      "programTitle": "Formula 1",
+      "episodeTitle": "Italian Grand Prix",
+      "description": "From Autodromo Nazionale Monza in Monza, Lombardy, Italy.",
       "scheduledDate": 1789066800000,
       "duration": 120,
       "parentalRating": "",
-      "programType": "Sports non-event",
-      "genre": "Rugby league, Rugby",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-09-10_SH050627460000_104351472372_2024-03-13T11:13:41Z_p26943516_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "programType": "Sports event",
+      "genre": "Auto racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-09-10_SH027326820000_111922734417_2025-07-16T14:05:24Z_p691060_i_h8_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "SailGP",
@@ -62,7 +62,7 @@
     },
     {
       "programTitle": "Getting a Round In",
-      "episodeTitle": "",
+      "episodeTitle": "Kate McCarthy",
       "description": "Australian professional golfer, Paul Gow hosts celebrities as his playing partners who share his love for the game of golf.",
       "scheduledDate": 1789084800000,
       "duration": 30,
@@ -106,7 +106,7 @@
     },
     {
       "programTitle": "Getting a Round In",
-      "episodeTitle": "",
+      "episodeTitle": "Kate McCarthy",
       "description": "Australian professional golfer, Paul Gow hosts celebrities as his playing partners who share his love for the game of golf.",
       "scheduledDate": 1789099200000,
       "duration": 30,
@@ -138,15 +138,15 @@
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-09-11_EP034202650197_112403639810_2026-08-17T22:05:52Z_p33713590_b_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "NRLW Pre Game",
-      "episodeTitle": "",
-      "description": "Fox League's studio panel presents an extensive coverage of the action. They'll have talking points, confirmation of team line-ups, as well as interviews with players and coaches.",
+      "programTitle": "NRL Women's Premiership",
+      "episodeTitle": "Wests Tigers vs Canberra Raiders",
+      "description": "Live from Leichhardt Oval. Kick off at 5:40PM AEST.",
       "scheduledDate": 1789112100000,
-      "duration": 5,
+      "duration": 105,
       "parentalRating": "",
-      "programType": "Sports non-event",
+      "programType": "Sports event",
       "genre": "Rugby league, Rugby",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-09-11_SH042252980000_111575328375_2022-03-23T00:55:54Z_p21769277_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-09-11_EP030419250288_112282555085_2026-08-07T22:52:57Z_GNLZZGG003FCZ86/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "NRL Women's Premiership",
@@ -164,7 +164,7 @@
       "episodeTitle": "Amgen Irish Open, First Round",
       "description": "From Trump International Golf Links & Hotel in Doonbeg, Ireland.",
       "scheduledDate": 1789118400000,
-      "duration": 85,
+      "duration": 90,
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Golf",
@@ -175,6 +175,28 @@
       "episodeTitle": "Red Bull Grand Prix of San Marino and the Rimini Riviera, Free Practice 2",
       "description": "From Misano World Circuit Marco Simoncelli in Misano Adriatico, Rimini, Italy.",
       "scheduledDate": 1789123500000,
+      "duration": 45,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Motorcycle racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-09-11_SH046925390000_110253896884_2025-03-18T14:45:03Z_p15289756_i_h8_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "MotoGP Mini",
+      "episodeTitle": "Aragon",
+      "description": "Fresh off his Silverstone win, Raul Fernandez targets another standout performance on home soil in Spain as the championship battle intensifies.",
+      "scheduledDate": 1789123800000,
+      "duration": 20,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Classic sport event, Motorsports, Motorcycle racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-09-11_SH035786450000_105695703154_2020-08-14T07:40:24Z_p18624430_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Moto3 GP Racing",
+      "episodeTitle": "Red Bull Grand Prix of San Marino and the Rimini Riviera, Free Practice 2",
+      "description": "From Misano World Circuit Marco Simoncelli in Misano Adriatico, Rimini, Italy.",
+      "scheduledDate": 1789125000000,
       "duration": 45,
       "parentalRating": "",
       "programType": "Sports event",
@@ -193,6 +215,17 @@
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-09-11_SH046925380000_111927914647_2025-11-10T09:54:32Z_p13059050_i_h10_ae/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
+      "programTitle": "Moto2 GP Racing",
+      "episodeTitle": "Red Bull Grand Prix of San Marino and the Rimini Riviera, Free Practice 2",
+      "description": "From Misano World Circuit Marco Simoncelli in Misano Adriatico, Rimini, Italy.",
+      "scheduledDate": 1789127700000,
+      "duration": 55,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Motorcycle racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-09-11_SH046925380000_111927914647_2025-11-10T09:54:32Z_p13059050_i_h10_ae/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
       "programTitle": "MotoGP Racing",
       "episodeTitle": "Grand Prix of San Marino and the Rimini Riviera, Free Practice 2",
       "description": "From Misano World Circuit Marco Simoncelli in Misano Adriatico, Rimini, Italy.",
@@ -204,6 +237,28 @@
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-09-11_SH028104880000_112186554419_2025-04-17T20:03:48Z_p445587_i_h8_ae/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
+      "programTitle": "MotoGP Racing",
+      "episodeTitle": "Grand Prix of San Marino and the Rimini Riviera, Free Practice 2",
+      "description": "From Misano World Circuit Marco Simoncelli in Misano Adriatico, Rimini, Italy.",
+      "scheduledDate": 1789131000000,
+      "duration": 80,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Motorcycle racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-09-11_SH028104880000_112186554419_2025-04-17T20:03:48Z_p445587_i_h8_ae/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "PGA Tour Highlights",
+      "episodeTitle": "Road to the Presidents Cup",
+      "description": "Highlights from PGA Tour events featuring the world's best golfers in action. Hosts track the progression of the game while reviewing the changes in technologies and techniques.",
+      "scheduledDate": 1789135800000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Classic sport event, Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-09-11_SH032355110000_106892699068_2023-03-16T12:30:24Z_p9060599_i_h10_ae/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
       "programTitle": "Road to the Presidents Cup",
       "episodeTitle": "",
       "description": "A look ahead to the Presidents Cup, a competition between American and International golfers that takes place this year at Medinah Country Club in Medinah, Ill.",
@@ -213,6 +268,17 @@
       "programType": "Sports non-event",
       "genre": "Golf",
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-09-11_SH065965780000_112456644661_2026-08-24T05:58:59Z_p33378430_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Getting a Round In",
+      "episodeTitle": "Kate McCarthy",
+      "description": "Australian professional golfer, Paul Gow hosts celebrities as his playing partners who share his love for the game of golf.",
+      "scheduledDate": 1789139400000,
+      "duration": 40,
+      "parentalRating": "",
+      "programType": "Series",
+      "genre": "Golf, Interview",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-09-11_SH048121120000_110998856207_2023-07-18T05:56:16Z_p25221374_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "Getting a Round In",
@@ -237,9 +303,20 @@
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/Fallback_LTV_Fox_Sports_505/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "DP World Tour Golf",
+      "programTitle": "F",
       "episodeTitle": "",
-      "description": "Golfing action from the DP World Tour.",
+      "description": "",
+      "scheduledDate": 1789141800000,
+      "duration": 10,
+      "parentalRating": "",
+      "programType": "",
+      "genre": "",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/Fallback_LTV_Fox_Sports_505/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "DP World Tour Golf",
+      "episodeTitle": "Amgen Irish Open, Second Round",
+      "description": "From Trump International Golf Links & Hotel in Doonbeg, Ireland.",
       "scheduledDate": 1789142400000,
       "duration": 120,
       "parentalRating": "",
@@ -249,7 +326,7 @@
     },
     {
       "programTitle": "Getting a Round In",
-      "episodeTitle": "",
+      "episodeTitle": "Kate McCarthy",
       "description": "Australian professional golfer, Paul Gow hosts celebrities as his playing partners who share his love for the game of golf.",
       "scheduledDate": 1789149600000,
       "duration": 30,
