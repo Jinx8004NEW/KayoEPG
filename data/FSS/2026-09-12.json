@@ -2,8 +2,8 @@
   "channel": "FSS",
   "date": "2026-09-12",
   "source": "kayo",
-  "fetchedAt": 1789067037587,
-  "fetchedAtIST": "11/9/2026, 12:33:57 am",
+  "fetchedAt": 1789078710799,
+  "fetchedAtIST": "11/9/2026, 3:48:30 am",
   "events": [
     {
       "programTitle": "WSL Tour",
@@ -50,15 +50,15 @@
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-09-12_SH027326820000_111922734417_2025-07-16T14:05:24Z_p691060_i_h8_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "F",
-      "episodeTitle": "",
-      "description": "",
+      "programTitle": "The F1 Show",
+      "episodeTitle": "Spain",
+      "description": "The F1 Show takes an inside look at the Spanish Grand Prix of 2018, with exclusive interviews with special guests and behind-the-scenes footage ahead of the race.",
       "scheduledDate": 1789178400000,
       "duration": 61,
       "parentalRating": "",
-      "programType": "",
-      "genre": "",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/Fallback_LTV_Fox_Sports_507/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "programType": "Sports non-event",
+      "genre": "Auto racing, Sports talk",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-09-12_SH029317340000_103666898102_2018-10-16T09:21:00Z_p9108923_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "DP World Tour Golf",
@@ -127,15 +127,15 @@
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/Fallback_LTV_Fox_Sports_507/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "F",
-      "episodeTitle": "",
+      "programTitle": "ETPL",
+      "episodeTitle": "Belfast Wolves vs Rotterdam Dockers",
       "description": "",
       "scheduledDate": 1789205400000,
       "duration": 196,
       "parentalRating": "",
-      "programType": "",
-      "genre": "",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/Fallback_LTV_Fox_Sports_507/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "programType": "Sports event",
+      "genre": "Cricket",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-09-12_EP065792820008_112514062934_2026-09-07T07:52:16Z_GNLZZGG003N14PF/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "Supercars Championship",
@@ -193,15 +193,15 @@
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-09-12_SH035728470000_102439454374_2018-12-17T21:00:00Z_p16276370_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "F",
-      "episodeTitle": "",
-      "description": "",
+      "programTitle": "Supercars Championship",
+      "episodeTitle": "AirTouch 500 at The Bend: Qualifying",
+      "description": "Supercars compete in a series across Australia and New Zealand.",
       "scheduledDate": 1789217160000,
       "duration": 30,
       "parentalRating": "",
-      "programType": "",
-      "genre": "",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/Fallback_LTV_Fox_Sports_507/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "programType": "Sports event",
+      "genre": "Auto racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-09-12_SH027326760000_112279031880_2026-08-07T01:36:07Z_p522547_i_h10_ad/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "SailGP",
@@ -215,15 +215,15 @@
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-09-12_SH039936010000_108224779666_2024-11-22T10:14:23Z_p16560598_i_h10_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "F",
-      "episodeTitle": "",
-      "description": "",
+      "programTitle": "Supercars Championship",
+      "episodeTitle": "AirTouch 500 at The Bend: Top 10 Shoot Out",
+      "description": "Supercars compete in a series across Australia and New Zealand.",
       "scheduledDate": 1789218960000,
       "duration": 39,
       "parentalRating": "",
-      "programType": "",
-      "genre": "",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/Fallback_LTV_Fox_Sports_507/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "programType": "Sports event",
+      "genre": "Auto racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-09-12_SH027326760000_112279031880_2026-08-07T01:36:07Z_p522547_i_h10_ad/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "Women's CPL T20 Cricket",
