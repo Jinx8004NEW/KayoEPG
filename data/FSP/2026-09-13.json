@@ -1,0 +1,64 @@
+{
+  "channel": "FSP",
+  "date": "2026-09-13",
+  "source": "kayo",
+  "fetchedAt": 1789010986369,
+  "fetchedAtIST": "10/9/2026, 8:59:46 am",
+  "events": [
+    {
+      "programTitle": "SailGP",
+      "episodeTitle": "Valencia, Day 1",
+      "description": "",
+      "scheduledDate": 1789237800000,
+      "duration": 90,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Sailing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-09-12_SH051028760000_112367882509_2021-04-23T21:46:53Z_p19827810_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "SailGP",
+      "episodeTitle": "Valencia, Day 2",
+      "description": "",
+      "scheduledDate": 1789243200000,
+      "duration": 90,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Sailing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-09-12_SH051028760000_112367882509_2021-04-23T21:46:53Z_p19827810_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "MotoGP Racing",
+      "episodeTitle": "Grand Prix of San Marino and the Rimini Riviera, Qualifying",
+      "description": "From Misano World Circuit Marco Simoncelli in Misano Adriatico, Rimini, Italy.",
+      "scheduledDate": 1789248600000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Motorcycle racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-09-12_SH028104880000_112186554419_2025-04-17T20:03:48Z_p445587_i_h8_ae/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "MotoGP Racing",
+      "episodeTitle": "Grand Prix of San Marino and the Rimini Riviera, Sprint Race",
+      "description": "From Misano World Circuit Marco Simoncelli in Misano Adriatico, Rimini, Italy.",
+      "scheduledDate": 1789252200000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Motorcycle racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-09-12_SH028104880000_112186554419_2025-04-17T20:03:48Z_p445587_i_h8_ae/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NASCAR O'Reilly Auto Parts Series",
+      "episodeTitle": "Nu Way 225",
+      "description": "From World Wide Technology Raceway at Gateway in Madison, Ill.",
+      "scheduledDate": 1789254000000,
+      "duration": 210,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Auto racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-09-12_SH062929950000_112304319640_2026-01-29T07:26:42Z_p31656944_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    }
+  ]
+}
