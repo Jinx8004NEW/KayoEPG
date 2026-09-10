@@ -2,8 +2,8 @@
   "channel": "FSN",
   "date": "2026-09-11",
   "source": "kayo",
-  "fetchedAt": 1789010985812,
-  "fetchedAtIST": "10/9/2026, 8:59:45 am",
+  "fetchedAt": 1789029758166,
+  "fetchedAtIST": "10/9/2026, 2:12:38 pm",
   "events": [
     {
       "programTitle": "FOX SPORTS News",
@@ -202,6 +202,116 @@
       "programType": "Sports event",
       "genre": "Cricket, Classic sport event",
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103083_2026-09-11_SH033446590000_98978823590_2023-09-29T14:53:53Z_p8163404_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Test Cricket",
+      "episodeTitle": "2nd Test, Day 2: Australia vs. Bangladesh",
+      "description": "Coverage and highlights from international test cricket matches.",
+      "scheduledDate": 1789096800000,
+      "duration": 20,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Cricket, Classic sport event",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103083_2026-09-11_SH033446590000_98978823590_2023-09-29T14:53:53Z_p8163404_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Test Cricket",
+      "episodeTitle": "2nd Test, Day 3: Australia vs. Bangladesh",
+      "description": "Coverage and highlights from international test cricket matches.",
+      "scheduledDate": 1789098000000,
+      "duration": 20,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Cricket, Classic sport event",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103083_2026-09-11_SH033446590000_98978823590_2023-09-29T14:53:53Z_p8163404_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "F1 Mini",
+      "episodeTitle": "Italian Grand Prix",
+      "description": "Highlights of the world's most iconic Formula 1 Grands Prix, featuring every podium and overtake.",
+      "scheduledDate": 1789099200000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Motorsports, Classic sport event",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103083_2026-09-11_SH036452570000_107032703571_2020-11-19T03:00:48Z_p18944992_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "AFL 360",
+      "episodeTitle": "",
+      "description": "An in-depth examination of events and issues regarding all things AFL. Includes interviews with coaches and players, recaps, and breaking news.",
+      "scheduledDate": 1789101000000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Series",
+      "genre": "Sports talk, Australian rules football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103083_2026-09-11_SH029292320000_109514254203_2026-07-03T00:25:57Z_p15311210_i_h10_af/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "First Crack Preview",
+      "episodeTitle": "",
+      "description": "An expert panel analyse the round ahead and take a look at all the major happenings in the world of footy.",
+      "scheduledDate": 1789104600000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Australian rules football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103083_2026-09-11_SH051721160000_107151644963_2025-04-29T07:35:22Z_p27625219_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "F1 Mini",
+      "episodeTitle": "Italian Grand Prix",
+      "description": "Highlights of the world's most iconic Formula 1 Grands Prix, featuring every podium and overtake.",
+      "scheduledDate": 1789106400000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Motorsports, Classic sport event",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103083_2026-09-11_SH036452570000_107032703571_2020-11-19T03:00:48Z_p18944992_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "First Crack Preview",
+      "episodeTitle": "",
+      "description": "An expert panel analyse the round ahead and take a look at all the major happenings in the world of footy.",
+      "scheduledDate": 1789108200000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Australian rules football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103083_2026-09-11_SH051721160000_107151644963_2025-04-29T07:35:22Z_p27625219_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NRL Tonight",
+      "episodeTitle": "",
+      "description": "A look back at the latest NRL events and matches with special guests, expert opinions and breaking news.",
+      "scheduledDate": 1789110000000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Sports talk, Rugby league",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103083_2026-09-11_SH030523220000_107952200542_2020-03-16T19:50:14Z_p15943624_i_h10_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "FOX SPORTS News",
+      "episodeTitle": "",
+      "description": "The latest highlights, reaction and analysis of the biggest sport stories from Australia and around the world.",
+      "scheduledDate": 1789111800000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "News",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103083_2026-09-11_SH042121470000_112219802794_2025-01-23T05:33:43Z_p21695748_i_h10_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "AFL Tonight",
+      "episodeTitle": "",
+      "description": "A look back at all the latest AFL news and matches, with big name guests, sports experts and breaking news.",
+      "scheduledDate": 1789113600000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Series",
+      "genre": "Sports talk, Australian rules football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103083_2026-09-11_SH030522950000_111163805717_2026-03-12T06:26:52Z_p15943411_i_h10_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     }
   ]
 }
