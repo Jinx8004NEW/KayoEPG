@@ -1,0 +1,31 @@
+{
+  "channel": "FS3",
+  "date": "2026-09-14",
+  "source": "kayo",
+  "fetchedAt": 1789097231445,
+  "fetchedAtIST": "11/9/2026, 8:57:11 am",
+  "events": [
+    {
+      "programTitle": "PGA Korn Ferry Tour Golf",
+      "episodeTitle": "Simmons Bank Open for the Snedeker Foundation, Final Round",
+      "description": "From Vanderbilt Legends Club, North Course in Franklin, Tenn.",
+      "scheduledDate": 1789333200000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-09-13_EP034202650198_112454270623_2026-08-17T22:05:51Z_p33751572_b_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "2026 Solheim Cup",
+      "episodeTitle": "Final Day",
+      "description": "From Bernardus GC in the Netherlands.",
+      "scheduledDate": 1789340400000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-09-13_SH065998810000_112498531562_2026-08-05T21:08:37Z_p33713632_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    }
+  ]
+}

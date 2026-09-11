@@ -1,0 +1,75 @@
+{
+  "channel": "FAF",
+  "date": "2026-09-14",
+  "source": "kayo",
+  "fetchedAt": 1789097231454,
+  "fetchedAtIST": "11/9/2026, 8:57:11 am",
+  "events": [
+    {
+      "programTitle": "AFL Women's Premiership",
+      "episodeTitle": "North Melbourne Kangaroos vs Carlton Blues",
+      "description": "Live from Arden Street. Bounce time: 3:05pm AEST.",
+      "scheduledDate": 1789324200000,
+      "duration": 90,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Australian rules football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-09-13_EP029247970782_112514610948_2026-08-03T17:47:29Z_GNLZZGG003DVCBF/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "The W Debrief",
+      "episodeTitle": "",
+      "description": "",
+      "scheduledDate": 1789329600000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Australian rules football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-09-13_SH060384060000_112452438939_2025-10-15T06:35:17Z_p31174602_b_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "AFL",
+      "episodeTitle": "Brisbane Lions vs. Adelaide Crows",
+      "description": "Live from the Gabba. Bounce time: 7:35pm AEST.",
+      "scheduledDate": 1789331400000,
+      "duration": 150,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Playoff sports, Australian rules football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-09-13_EP029151671452_112514454034_2026-09-08T19:46:37Z_GNLZZGG003N8MYG/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "The W Debrief",
+      "episodeTitle": "",
+      "description": "",
+      "scheduledDate": 1789340400000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Australian rules football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-09-13_SH060384060000_112452438939_2025-10-15T06:35:17Z_p31174602_b_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "AFL Women's Premiership",
+      "episodeTitle": "Melbourne Demons vs Port Adelaide Power",
+      "description": "From Casey Fields in Melbourne, Victoria, Australia.",
+      "scheduledDate": 1789342200000,
+      "duration": 15,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Australian rules football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-09-13_EP029247970779_112455313775_2026-07-21T00:17:35Z_GNLZZGG003BV582/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "AFL Women's Premiership",
+      "episodeTitle": "Richmond Tigers vs St. Kilda Saints",
+      "description": "Live from Windy Hill. Bounce time: 1:05pm AEST.",
+      "scheduledDate": 1789343100000,
+      "duration": 15,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Australian rules football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-09-13_EP029247970780_112514406729_2026-08-03T17:47:32Z_GNLZZGG003DV8EE/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    }
+  ]
+}

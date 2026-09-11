@@ -1,0 +1,42 @@
+{
+  "channel": "ESP",
+  "date": "2026-09-14",
+  "source": "kayo",
+  "fetchedAt": 1789097231481,
+  "fetchedAtIST": "11/9/2026, 8:57:11 am",
+  "events": [
+    {
+      "programTitle": "In Depth With Graham Bensinger",
+      "episodeTitle": "Joe Thomas",
+      "description": "NFL player Joe Thomas sits down with Graham to discuss Roger Goodell, brain damage, and why he's staying with Cleveland.",
+      "scheduledDate": 1789329600000,
+      "duration": 25,
+      "parentalRating": "",
+      "programType": "Series",
+      "genre": "Sports talk, Interview",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-09-13_EP033308670016_112482281193_2022-06-08T17:35:59Z_p13929580_e_h10_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NFL Football",
+      "episodeTitle": "Philadelphia Eagles vs Washington Commanders",
+      "description": "From Lincoln Financial Field in Philadelphia.",
+      "scheduledDate": 1789331100000,
+      "duration": 185,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-09-13_EP029371131845_112451569082_2026-07-15T04:37:29Z_GNLZZGG0039KTKG/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NFL Blitz",
+      "episodeTitle": "",
+      "description": "All of the best action from the National Football League.",
+      "scheduledDate": 1789342200000,
+      "duration": 45,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Family, Football, News, Newsmagazine",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-09-13_SH060667300000_110937783149_2022-09-12T05:46:51Z_p22911383_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    }
+  ]
+}

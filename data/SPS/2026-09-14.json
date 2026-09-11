@@ -1,0 +1,42 @@
+{
+  "channel": "SPS",
+  "date": "2026-09-14",
+  "source": "kayo",
+  "fetchedAt": 1789097231468,
+  "fetchedAtIST": "11/9/2026, 8:57:11 am",
+  "events": [
+    {
+      "programTitle": "NASCAR Cup Series",
+      "episodeTitle": "Enjoy Illinois 300",
+      "description": "From World Wide Technology Raceway at Gateway in Madison, Ill.",
+      "scheduledDate": 1789324200000,
+      "duration": 240,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Auto racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-09-13_EP035183560216_112525196008_2026-09-10T21:04:40Z_p32224280_b_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "F1 Mini",
+      "episodeTitle": "Spanish Grand Prix",
+      "description": "Highlights of the world's most iconic Formula 1 Grands Prix, featuring every podium and overtake.",
+      "scheduledDate": 1789338600000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Motorsports, Classic sport event",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-09-13_SH036452570000_107032703571_2020-11-19T03:00:48Z_p18944992_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Formula 1",
+      "episodeTitle": "Spanish Grand Prix",
+      "description": "From the Circuito de Madring in Madrid.",
+      "scheduledDate": 1789340400000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Auto racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-09-13_EP027326820865_112497725123_2026-08-05T15:27:37Z_p32388153_b_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    }
+  ]
+}

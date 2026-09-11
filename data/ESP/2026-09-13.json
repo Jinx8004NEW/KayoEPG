@@ -2,8 +2,8 @@
   "channel": "ESP",
   "date": "2026-09-13",
   "source": "kayo",
-  "fetchedAt": 1789078710807,
-  "fetchedAtIST": "11/9/2026, 3:48:30 am",
+  "fetchedAt": 1789097231480,
+  "fetchedAtIST": "11/9/2026, 8:57:11 am",
   "events": [
     {
       "programTitle": "College Football",
@@ -37,6 +37,127 @@
       "programType": "Sports event",
       "genre": "Football",
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-09-12_EP064738030307_112459659433_2026-06-19T04:33:37Z_GNLZZGG0036VZMN/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "College Football Scoreboard",
+      "episodeTitle": "",
+      "description": "Highlights and up to the minute scores during the college football season, with a look at the major storylines in the competition.",
+      "scheduledDate": 1789264800000,
+      "duration": 15,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-09-13_SH033268260000_112437273027_2019-12-21T18:40:07Z_p629287_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "College Football",
+      "episodeTitle": "Utah vs Arkansas",
+      "description": "From Rice-Eccles Stadium in Salt Lake City.",
+      "scheduledDate": 1789265700000,
+      "duration": 180,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-09-13_EP064738030338_112464754315_2026-06-19T04:33:36Z_GNLZZGG0036VE5F/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "ESPN FC Shorts",
+      "episodeTitle": "All-Time Starting XI & Start, Bench, Drop",
+      "description": "Presents top football highlights in YouTube Shorts.",
+      "scheduledDate": 1789276500000,
+      "duration": 15,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Soccer",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-09-13_SH046564100000_112201409922_2023-05-17T15:16:11Z_p24027877_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "2026 FIBA Women's Basketball World Cup",
+      "episodeTitle": "",
+      "description": "",
+      "scheduledDate": 1789277400000,
+      "duration": 90,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Basketball",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-09-13_SH065882380000_112510541209_2026-08-25T17:35:23Z_p33580700_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "2026 FIBA Women's Basketball World Cup",
+      "episodeTitle": "",
+      "description": "",
+      "scheduledDate": 1789282800000,
+      "duration": 90,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Basketball",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-09-13_SH065882380000_112510541209_2026-08-25T17:35:23Z_p33580700_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "ESPN FC",
+      "episodeTitle": "",
+      "description": "ESPN FC brings you a round-up of the latest news from the world of football, including in-depth analysis and exclusive interviews.",
+      "scheduledDate": 1789288200000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Series",
+      "genre": "Soccer, Sports talk",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-09-13_SH033236780000_109573421566_2026-05-25T06:15:30Z_p10106369_i_h11_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "College Football",
+      "episodeTitle": "Texas vs Ohio State",
+      "description": "From Darrell K. Royal - Texas Memorial Stadium in Austin, Texas.",
+      "scheduledDate": 1789290000000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-09-13_EP064738030328_112464563105_2026-06-19T04:34:09Z_GNLZZGG0036W5KD/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "College Football",
+      "episodeTitle": "Utah vs Arkansas",
+      "description": "From Rice-Eccles Stadium in Salt Lake City.",
+      "scheduledDate": 1789297200000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-09-13_EP064738030338_112464754315_2026-06-19T04:33:36Z_GNLZZGG0036VE5F/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "College Football Final",
+      "episodeTitle": "",
+      "description": "Matt Barrie, Joey Galloway and Jesse Palmer take a look at the latest college football action, recapping the games and discussing the highlights.",
+      "scheduledDate": 1789304400000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-09-13_SH033308190000_112448607241_2018-01-20T00:41:00Z_p221262_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Sunday NFL Countdown",
+      "episodeTitle": "",
+      "description": "Samantha Ponder, with a team of analysts, introduces the features and directs the storylines associated with the day's games.",
+      "scheduledDate": 1789308000000,
+      "duration": 180,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-09-13_SH033308210000_112449211624_2019-09-06T20:20:11Z_p924452_i_h8_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NFL Football",
+      "episodeTitle": "Houston Texans vs Buffalo Bills",
+      "description": "Coverage of matches played as part of America's National Football League.",
+      "scheduledDate": 1789318800000,
+      "duration": 180,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-09-13_EP029371131843_112448384871_2026-07-15T04:31:15Z_GNLZZGG0039KSCR/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     }
   ]
 }

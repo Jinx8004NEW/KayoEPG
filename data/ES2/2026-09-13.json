@@ -2,8 +2,8 @@
   "channel": "ES2",
   "date": "2026-09-13",
   "source": "kayo",
-  "fetchedAt": 1789078710810,
-  "fetchedAtIST": "11/9/2026, 3:48:30 am",
+  "fetchedAt": 1789097231486,
+  "fetchedAtIST": "11/9/2026, 8:57:11 am",
   "events": [
     {
       "programTitle": "College Football Scoreboard",
@@ -81,6 +81,127 @@
       "programType": "Sports event",
       "genre": "Football",
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-09-12_EP064738030328_112464563105_2026-06-19T04:34:09Z_GNLZZGG0036W5KD/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NBL27: The Season Begins",
+      "episodeTitle": "",
+      "description": "",
+      "scheduledDate": 1789268400000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Special",
+      "genre": "Special, News, Basketball",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-09-13_SH066031260000_112437036566_2026-08-28T05:45:40Z_p33958225_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "College Football",
+      "episodeTitle": "Oklahoma State vs Oregon",
+      "description": "From Boone Pickens Stadium in Stillwater, Okla.",
+      "scheduledDate": 1789272000000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-09-13_EP064738030265_112459421981_2026-06-19T04:29:39Z_GNLZZGG0036VTTB/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "College Football",
+      "episodeTitle": "Texas A&M vs Arizona State",
+      "description": "From Kyle Field in College Station, Texas",
+      "scheduledDate": 1789279200000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-09-13_EP064738030268_112463841732_2026-06-19T04:29:58Z_GNLZZGG0036VT58/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "College Football",
+      "episodeTitle": "Kentucky vs Alabama",
+      "description": "From Kroger Field in Lexington, Ky.",
+      "scheduledDate": 1789286400000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-09-13_EP064738030276_112462376655_2026-06-19T04:29:09Z_GNLZZGG0036VL4B/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "College Football",
+      "episodeTitle": "Georgia Tech vs Tennessee",
+      "description": "From Bobby Dodd Stadium in Atlanta.",
+      "scheduledDate": 1789293600000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-09-13_EP064738030307_112459659433_2026-06-19T04:33:37Z_GNLZZGG0036VZMN/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "SportsCenter",
+      "episodeTitle": "",
+      "description": "The team deliver the latest news, highlights, and inside information from the wide world of sports, as well as trending topics across social media platforms.",
+      "scheduledDate": 1789300800000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "News, Sports talk",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-09-13_SH033259060000_109832503473_2018-04-18T10:39:00Z_p186674_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Quick Pitch",
+      "episodeTitle": "",
+      "description": "All the latest baseball news, scores and highlights. Plus, a first look at upcoming matchups.",
+      "scheduledDate": 1789304400000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Baseball",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-09-13_SH039225660000_107838083445_2020-08-03T13:50:35Z_p3527970_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "In Depth With Graham Bensinger",
+      "episodeTitle": "Gridiron Greats",
+      "description": "NFL greats reflect on the biggest moments of their career; Joe Namath, Jerry Rice, LaDainian Tomlinson and others share the lessons they learned along the way to the top.",
+      "scheduledDate": 1789308000000,
+      "duration": 20,
+      "parentalRating": "",
+      "programType": "Series",
+      "genre": "Sports talk, Interview",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-09-13_EP033308670127_112441871068_2025-07-23T15:24:10Z_p26440572_e_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "2026 FIBA Women's Basketball World Cup",
+      "episodeTitle": "",
+      "description": "",
+      "scheduledDate": 1789309200000,
+      "duration": 130,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Basketball",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-09-13_SH065882380000_112510541209_2026-08-25T17:35:23Z_p33580700_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Quick Pitch",
+      "episodeTitle": "",
+      "description": "All the latest baseball news, scores and highlights. Plus, a first look at upcoming matchups.",
+      "scheduledDate": 1789317000000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Baseball",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-09-13_SH039225660000_107838083445_2020-08-03T13:50:35Z_p3527970_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "2026 FIBA Women's Basketball World Cup",
+      "episodeTitle": "",
+      "description": "",
+      "scheduledDate": 1789320600000,
+      "duration": 150,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Basketball",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-09-13_SH065882380000_112510541209_2026-08-25T17:35:23Z_p33580700_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     }
   ]
 }
