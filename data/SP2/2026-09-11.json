@@ -2,8 +2,8 @@
   "channel": "SP2",
   "date": "2026-09-11",
   "source": "kayo",
-  "fetchedAt": 1789116043928,
-  "fetchedAtIST": "11/9/2026, 2:10:43 pm",
+  "fetchedAt": 1789142446648,
+  "fetchedAtIST": "11/9/2026, 9:30:46 pm",
   "events": [
     {
       "programTitle": "Sport Special",
@@ -358,6 +358,17 @@
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-09-11_SH030581580000_106659540500_2019-03-27T09:00:28Z_p15983477_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
+      "programTitle": "NRL Friday Night Footy on Fox",
+      "episodeTitle": "",
+      "description": "Join the Fox Footy team for an extensive review of tonight's action. Our panel of experts will dissect where the game was won and lost, with the best analysis and opinions!",
+      "scheduledDate": 1789141500000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Rugby league",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/Fallback_LTV_Fox_League/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
       "programTitle": "NRL Mini",
       "episodeTitle": "Qualifying Final",
       "description": "A comprehensive summary of the match played is provided in an expedited timeframe.",
@@ -381,6 +392,28 @@
     },
     {
       "programTitle": "NRL Mini",
+      "episodeTitle": "",
+      "description": "A comprehensive summary of the match played is provided in an expedited timeframe.",
+      "scheduledDate": 1789145100000,
+      "duration": 20,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Rugby league, Rugby",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-09-11_SH035786430000_106552413658_2020-10-16T18:30:18Z_p18624350_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Face-To-Face on Fox",
+      "episodeTitle": "Ben Ikin Part 2",
+      "description": "Jake Duke and Yvonne Sampson chat candidly with prominent figures in the game of rugby league and Australian society.",
+      "scheduledDate": 1789146300000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Sports talk, Rugby, Rugby league",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-09-11_SH047168440000_107963082214_2026-05-25T11:55:41Z_p19607826_i_h10_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NRL Mini",
       "episodeTitle": "Qualifying Final 1",
       "description": "A comprehensive summary of the match played is provided in an expedited timeframe.",
       "scheduledDate": 1789146660000,
@@ -389,6 +422,17 @@
       "programType": "Sports non-event",
       "genre": "Rugby league, Rugby",
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-09-11_SH035786430000_106552413658_2020-10-16T18:30:18Z_p18624350_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NRL",
+      "episodeTitle": "",
+      "description": "Comprehensive coverage and full game replays of all the matches played in Australia's National Rugby League.",
+      "scheduledDate": 1789148100000,
+      "duration": 55,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Rugby league, Rugby",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-09-11_SH031720960000_112359113277_2025-02-14T21:33:28Z_p817685_i_h8_ad/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "NRL Mini",

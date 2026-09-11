@@ -2,8 +2,8 @@
   "channel": "RTV",
   "date": "2026-09-12",
   "source": "kayo",
-  "fetchedAt": 1789116043985,
-  "fetchedAtIST": "11/9/2026, 2:10:43 pm",
+  "fetchedAt": 1789142446679,
+  "fetchedAtIST": "11/9/2026, 9:30:46 pm",
   "events": [
     {
       "programTitle": "The Analyser",
@@ -248,10 +248,21 @@
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/148460_2026-09-12_SH065368570000_110412511319_2022-09-19T11:46:59Z_p872189_i_h8_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
+      "programTitle": "Racing Review",
+      "episodeTitle": "",
+      "description": "A full recap of racing from Wangaratta.",
+      "scheduledDate": 1789215300000,
+      "duration": 45,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Horse racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/148460_2026-09-12_SH065368570000_110412511319_2022-09-19T11:46:59Z_p872189_i_h8_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
       "programTitle": "The Triple Trio",
       "episodeTitle": "",
       "description": "A panel of experts present a frank and fearless discussion of Hong Kong horse racing, covering the top meets and speaking with jockeys.",
-      "scheduledDate": 1789215300000,
+      "scheduledDate": 1789217100000,
       "duration": 60,
       "parentalRating": "",
       "programType": "Sports non-event",
@@ -262,7 +273,7 @@
       "programTitle": "The Triple Trio",
       "episodeTitle": "",
       "description": "A panel of experts present a frank and fearless discussion of Hong Kong horse racing, covering the top meets and speaking with jockeys.",
-      "scheduledDate": 1789217100000,
+      "scheduledDate": 1789218000000,
       "duration": 60,
       "parentalRating": "",
       "programType": "Sports non-event",

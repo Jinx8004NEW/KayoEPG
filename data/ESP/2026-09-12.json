@@ -2,8 +2,8 @@
   "channel": "ESP",
   "date": "2026-09-12",
   "source": "kayo",
-  "fetchedAt": 1789116043970,
-  "fetchedAtIST": "11/9/2026, 2:10:43 pm",
+  "fetchedAt": 1789142446671,
+  "fetchedAtIST": "11/9/2026, 9:30:46 pm",
   "events": [
     {
       "programTitle": "Fantasy Focus",
@@ -35,7 +35,7 @@
       "duration": 30,
       "parentalRating": "",
       "programType": "Sports non-event",
-      "genre": "Football",
+      "genre": "Football, Documentary",
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-09-11_SH033308300000_109663848319_2017-10-23T13:02:00Z_p448767_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
@@ -227,14 +227,14 @@
     },
     {
       "programTitle": "2026 FIBA Women's Basketball World Cup",
-      "episodeTitle": "",
-      "description": "",
+      "episodeTitle": "France vs. Germany",
+      "description": "From Uber Arena in Berlin.",
       "scheduledDate": 1789222800000,
       "duration": 130,
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Basketball",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-09-12_SH065882380000_112510541209_2026-08-25T17:35:23Z_p33580700_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-09-12_SH065882380000_112543242535_2026-08-25T17:35:23Z_p33580700_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "Quick Pitch",
@@ -260,14 +260,14 @@
     },
     {
       "programTitle": "2026 FIBA Women's Basketball World Cup",
-      "episodeTitle": "",
-      "description": "",
+      "episodeTitle": "Spain vs. United States",
+      "description": "From Uber Arena in Berlin.",
       "scheduledDate": 1789235400000,
       "duration": 130,
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Basketball",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-09-12_SH065882380000_112510541209_2026-08-25T17:35:23Z_p33580700_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-09-12_SH065882380000_112543242535_2026-08-25T17:35:23Z_p33580700_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     }
   ]
 }

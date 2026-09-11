@@ -2,8 +2,8 @@
   "channel": "ESP",
   "date": "2026-09-13",
   "source": "kayo",
-  "fetchedAt": 1789116043971,
-  "fetchedAtIST": "11/9/2026, 2:10:43 pm",
+  "fetchedAt": 1789142446672,
+  "fetchedAtIST": "11/9/2026, 9:30:46 pm",
   "events": [
     {
       "programTitle": "College Football",
@@ -73,25 +73,25 @@
     },
     {
       "programTitle": "2026 FIBA Women's Basketball World Cup",
-      "episodeTitle": "",
-      "description": "",
+      "episodeTitle": "France vs. Germany",
+      "description": "From Uber Arena in Berlin.",
       "scheduledDate": 1789277400000,
       "duration": 90,
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Basketball",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-09-13_SH065882380000_112510541209_2026-08-25T17:35:23Z_p33580700_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-09-13_SH065882380000_112543242535_2026-08-25T17:35:23Z_p33580700_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "2026 FIBA Women's Basketball World Cup",
-      "episodeTitle": "",
-      "description": "",
+      "episodeTitle": "Spain vs. United States",
+      "description": "From Uber Arena in Berlin.",
       "scheduledDate": 1789282800000,
       "duration": 90,
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Basketball",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-09-13_SH065882380000_112510541209_2026-08-25T17:35:23Z_p33580700_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-09-13_SH065882380000_112543242535_2026-08-25T17:35:23Z_p33580700_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "ESPN FC",
@@ -157,7 +157,7 @@
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Football",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-09-13_EP029371131843_112448384871_2026-07-15T04:31:15Z_GNLZZGG0039KSCR/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-09-13_EP029371131843_112556052887_2026-07-15T04:31:15Z_GNLZZGG0039KSCR/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     }
   ]
 }
