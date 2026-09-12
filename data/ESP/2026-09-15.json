@@ -2,15 +2,15 @@
   "channel": "ESP",
   "date": "2026-09-15",
   "source": "kayo",
-  "fetchedAt": 1789201575368,
-  "fetchedAtIST": "12/9/2026, 1:56:15 pm",
+  "fetchedAt": 1789225740879,
+  "fetchedAtIST": "12/9/2026, 8:39:00 pm",
   "events": [
     {
       "programTitle": "NFL Live",
       "episodeTitle": "",
       "description": "Wendi Nix and analysts break down the latest news in the NFL, offering views on players, coaches and management.",
       "scheduledDate": 1789412400000,
-      "duration": 90,
+      "duration": 120,
       "parentalRating": "",
       "programType": "Sports non-event",
       "genre": "Football",
