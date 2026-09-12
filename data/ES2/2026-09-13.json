@@ -2,8 +2,8 @@
   "channel": "ES2",
   "date": "2026-09-13",
   "source": "kayo",
-  "fetchedAt": 1789236609257,
-  "fetchedAtIST": "12/9/2026, 11:40:09 pm",
+  "fetchedAt": 1789250287317,
+  "fetchedAtIST": "13/9/2026, 3:28:07 am",
   "events": [
     {
       "programTitle": "College Football Scoreboard",
@@ -61,15 +61,15 @@
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-09-12_SH033268260000_112437273027_2019-12-21T18:40:07Z_p629287_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "NCAA Football",
-      "episodeTitle": "Autotrader Kickoff",
-      "description": "American football coverage from the NCAA, North America's college and university competition.",
+      "programTitle": "College Football",
+      "episodeTitle": "",
+      "description": "American college football action.",
       "scheduledDate": 1789255800000,
       "duration": 7,
       "parentalRating": "",
-      "programType": "Sports non-event",
+      "programType": "Sports event",
       "genre": "Football",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-09-12_SH037337590000_112441862614_2020-09-25T17:30:30Z_p8432704_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-09-12_SH033268200000_111663728641_2021-12-22T16:16:53Z_p191261_i_h8_ag/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "College Football",
@@ -172,8 +172,8 @@
     },
     {
       "programTitle": "2026 FIBA Women's Basketball World Cup",
-      "episodeTitle": "Final 3-4: Teams TBA",
-      "description": "From Uber Arena in Berlin.",
+      "episodeTitle": "Spain vs Germany",
+      "description": "",
       "scheduledDate": 1789309200000,
       "duration": 130,
       "parentalRating": "",
@@ -193,11 +193,22 @@
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-09-13_SH039225660000_107838083445_2020-08-03T13:50:35Z_p3527970_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "2026 FIBA Women's Basketball World Cup",
-      "episodeTitle": "Final: Teams TBA",
-      "description": "From Uber Arena in Berlin.",
+      "programTitle": "In Depth With Graham Bensinger",
+      "episodeTitle": "Charles Barkley",
+      "description": "Graham sits down with Charles Barkley, who shares stories of a life-changing clash with the law as a child and accepting cash from agents while in college.",
       "scheduledDate": 1789320600000,
-      "duration": 150,
+      "duration": 20,
+      "parentalRating": "",
+      "programType": "Series",
+      "genre": "Sports talk, Interview",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-09-13_SH033308670000_112516878633_2026-01-13T18:05:19Z_p8178298_i_h8_ad/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "2026 FIBA Women's Basketball World Cup",
+      "episodeTitle": "United States vs France",
+      "description": "",
+      "scheduledDate": 1789321800000,
+      "duration": 130,
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Basketball",

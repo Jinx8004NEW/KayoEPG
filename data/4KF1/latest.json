@@ -1,52 +1,16 @@
 {
   "channel": "4KF1",
-  "date": "2026-09-12",
+  "date": "2026-09-13",
   "source": "kayo-4k",
-  "fetchedAt": 1789236624981,
-  "fetchedAtIST": "12/9/2026, 11:40:24 pm",
+  "fetchedAt": 1789250303583,
+  "fetchedAtIST": "13/9/2026, 3:28:23 am",
   "events": [
     {
-      "eventId": "1d9td1ddzqn91mcwg33k6mov8",
-      "programTitle": "Supercars The Bend Practice & Supports",
-      "scheduledDate": 1789170300000,
-      "duration": 324,
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/91t7t1g0agt6cynyq9sfkhv6s_image-header_pRow_1788840640000/fill/none/top/none/80/1920/1080/webp/image?brand=kayo",
-      "competitionTitle": "V8 Supercars",
-      "sport": "Motorsport"
-    },
-    {
-      "eventId": "jiyd0ip8wh6u15sdc5i31pkkk",
-      "programTitle": "Supercars The Bend Qualifying & Supports",
-      "scheduledDate": 1789188900000,
-      "duration": 155,
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/39tg1xeff9y64gcikcvwkguie_image-header_pRow_1788840726000/fill/none/top/none/80/1920/1080/webp/image?brand=kayo",
-      "competitionTitle": "V8 Supercars",
-      "sport": "Motorsport"
-    },
-    {
-      "eventId": "418hyfnwwwnxzarmnky6dyqm",
-      "programTitle": "Supercars The Bend Top 10 Shootout",
-      "scheduledDate": 1789197300000,
-      "duration": 61,
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/co8oh2ie83nnmv2od5f2ut6z9_image-header_pRow_1788840756000/fill/none/top/none/80/1920/1080/webp/image?brand=kayo",
-      "competitionTitle": "V8 Supercars",
-      "sport": "Motorsport"
-    },
-    {
-      "eventId": "na9nt8xb2o5u168n17f7dwjuv",
-      "programTitle": "F1 Spain Practice 3",
-      "scheduledDate": 1789209000000,
-      "duration": 187,
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/69t0k5x4istd2f3php499orkw_image-header_pRow_1788408683000/fill/none/top/none/80/1920/1080/webp/image?brand=kayo",
-      "competitionTitle": "Formula 1",
-      "sport": "Motorsport"
-    },
-    {
-      "eventId": "btpkhoj5a52l163d289fecv62",
-      "programTitle": "F1 Spain Qualifying",
-      "scheduledDate": 1789221600000,
+      "eventId": "12p0clroccfgk1oihpuc3nzgdh",
+      "programTitle": "F1 Spain Race",
+      "scheduledDate": 1789304400000,
       "duration": 120,
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/di4u4nu0xh4y9lkjx6sba4lzh_image-header_pRow_1788408723000/fill/none/top/none/80/1920/1080/webp/image?brand=kayo",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/4al00ldclzvfd9tdx9b3z8gcf_image-header_pRow_1788408781000/fill/none/top/none/80/1920/1080/webp/image?brand=kayo",
       "competitionTitle": "Formula 1",
       "sport": "Motorsport"
     }
