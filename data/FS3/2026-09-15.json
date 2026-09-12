@@ -1,0 +1,31 @@
+{
+  "channel": "FS3",
+  "date": "2026-09-15",
+  "source": "kayo",
+  "fetchedAt": 1789183972019,
+  "fetchedAtIST": "12/9/2026, 9:02:52 am",
+  "events": [
+    {
+      "programTitle": "PGA Tour Golf",
+      "episodeTitle": "Puerto Rico Open, Final Round",
+      "description": "From Grand Reserve Golf Course in Rio Grande, Puerto Rico.",
+      "scheduledDate": 1789416000000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-09-14_SH030899370000_110982182699_2025-07-31T11:34:53Z_p845788_i_h8_af/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "DP World Tour Golf",
+      "episodeTitle": "Amgen Irish Open, Third Round",
+      "description": "From Trump International Golf Links & Hotel in Doonbeg, Ireland.",
+      "scheduledDate": 1789423200000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-09-14_EP040914080701_112564447269_2026-09-11T12:42:13Z_GNLZZGG003NL6QG/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    }
+  ]
+}

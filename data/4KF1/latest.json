@@ -2,9 +2,18 @@
   "channel": "4KF1",
   "date": "2026-09-12",
   "source": "kayo-4k",
-  "fetchedAt": 1789165101671,
-  "fetchedAtIST": "12/9/2026, 3:48:21 am",
+  "fetchedAt": 1789183988881,
+  "fetchedAtIST": "12/9/2026, 9:03:08 am",
   "events": [
+    {
+      "eventId": "1d9td1ddzqn91mcwg33k6mov8",
+      "programTitle": "Supercars The Bend Practice & Supports",
+      "scheduledDate": 1789170300000,
+      "duration": 370,
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/6xyf10eo3b9di8nthnverh92g_image-header_pRow_1788840640000/fill/none/top/none/80/1920/1080/webp/image?brand=kayo",
+      "competitionTitle": "V8 Supercars",
+      "sport": "Motorsport"
+    },
     {
       "eventId": "na9nt8xb2o5u168n17f7dwjuv",
       "programTitle": "F1 Spain Practice 3",

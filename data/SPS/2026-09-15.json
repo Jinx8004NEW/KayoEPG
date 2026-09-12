@@ -1,0 +1,42 @@
+{
+  "channel": "SPS",
+  "date": "2026-09-15",
+  "source": "kayo",
+  "fetchedAt": 1789183972045,
+  "fetchedAtIST": "12/9/2026, 9:02:52 am",
+  "events": [
+    {
+      "programTitle": "Formula 1",
+      "episodeTitle": "Spanish Grand Prix",
+      "description": "From the Circuito de Madring in Madrid.",
+      "scheduledDate": 1789417800000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Auto racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-09-14_EP027326820865_112564753693_2026-08-05T15:27:37Z_p32388153_b_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Formula 1 Chequered Flag",
+      "episodeTitle": "Spain Grand Prix",
+      "description": "A recap of all the Formula 1 racing action, featuring highlights and analysis.",
+      "scheduledDate": 1789425000000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Auto racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-09-14_SH038537820000_108756450962_2020-03-11T21:20:06Z_p17998973_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Ted's Notebook",
+      "episodeTitle": "",
+      "description": "Ted Kravitz gives an exciting behind-the-scenes look at the world of Formula 1.",
+      "scheduledDate": 1789428600000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Auto racing, Motorsports",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-09-14_SH038161890000_106370532176_2021-03-17T07:49:14Z_p9739735_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    }
+  ]
+}
