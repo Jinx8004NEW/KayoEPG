@@ -2,9 +2,45 @@
   "channel": "4KF1",
   "date": "2026-09-13",
   "source": "kayo-4k",
-  "fetchedAt": 1789250303583,
-  "fetchedAtIST": "13/9/2026, 3:28:23 am",
+  "fetchedAt": 1789270748784,
+  "fetchedAtIST": "13/9/2026, 9:09:08 am",
   "events": [
+    {
+      "eventId": "dixgnij1b9io1cpjbnhqydsb8",
+      "programTitle": "Supercars The Bend Supports",
+      "scheduledDate": 1789252200000,
+      "duration": 132,
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/9d40uiry04o5nkuth3sqxlq89_image-header_pRow_1788832757000/fill/none/top/none/80/1920/1080/webp/image?brand=kayo",
+      "competitionTitle": "V8 Supercars",
+      "sport": "Motorsport"
+    },
+    {
+      "eventId": "1sxx6r72nw10y1idgecgb9d987",
+      "programTitle": "Supercars The Bend Warm Up",
+      "scheduledDate": 1789259400000,
+      "duration": 53,
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/5q18v9vytcs97uoedsw16uyxu_image-header_pRow_1788840798000/fill/none/top/none/80/1920/1080/webp/image?brand=kayo",
+      "competitionTitle": "V8 Supercars",
+      "sport": "Motorsport"
+    },
+    {
+      "eventId": "19e129ewna48u16bh4jn1xe0vt",
+      "programTitle": "Supercars The Bend Supports",
+      "scheduledDate": 1789262100000,
+      "duration": 195,
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/1atwde5b5z33q3uh819nx3vq9_image-header_pRow_1788832756000/fill/none/top/none/80/1920/1080/webp/image?brand=kayo",
+      "competitionTitle": "V8 Supercars",
+      "sport": "Motorsport"
+    },
+    {
+      "eventId": "kvojvdb6p44w1x56uorwyf6i1",
+      "programTitle": "Supercars The Bend 500",
+      "scheduledDate": 1789270200000,
+      "duration": 335,
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/ejdws0wrr9210rqhji593kxd3_image-header_pRow_1788840910000/fill/none/top/none/80/1920/1080/webp/image?brand=kayo",
+      "competitionTitle": "V8 Supercars",
+      "sport": "Motorsport"
+    },
     {
       "eventId": "12p0clroccfgk1oihpuc3nzgdh",
       "programTitle": "F1 Spain Race",
