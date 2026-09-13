@@ -2,8 +2,8 @@
   "channel": "SP2",
   "date": "2026-09-13",
   "source": "kayo",
-  "fetchedAt": 1789270734822,
-  "fetchedAtIST": "13/9/2026, 9:08:54 am",
+  "fetchedAt": 1789314292140,
+  "fetchedAtIST": "13/9/2026, 9:14:52 pm",
   "events": [
     {
       "programTitle": "NRL Mini",
@@ -314,11 +314,33 @@
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-09-13_SH035786430000_106552413658_2020-10-16T18:30:18Z_p18624350_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
+      "programTitle": "NRL Mini",
+      "episodeTitle": "Qualifying Final 1",
+      "description": "A comprehensive summary of the match played is provided in an expedited timeframe.",
+      "scheduledDate": 1789313940000,
+      "duration": 56,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Rugby league, Rugby",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-09-13_SH035786430000_106552413658_2020-10-16T18:30:18Z_p18624350_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
       "programTitle": "NRL",
       "episodeTitle": "",
       "description": "Comprehensive coverage and full game replays of all the matches played in Australia's National Rugby League.",
       "scheduledDate": 1789316400000,
       "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Rugby league, Rugby",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-09-13_SH031720960000_112359113277_2025-02-14T21:33:28Z_p817685_i_h8_ad/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NRL",
+      "episodeTitle": "",
+      "description": "Comprehensive coverage and full game replays of all the matches played in Australia's National Rugby League.",
+      "scheduledDate": 1789317300000,
+      "duration": 58,
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Rugby league, Rugby",
@@ -339,8 +361,30 @@
       "programTitle": "NRL",
       "episodeTitle": "",
       "description": "Comprehensive coverage and full game replays of all the matches played in Australia's National Rugby League.",
+      "scheduledDate": 1789320780000,
+      "duration": 55,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Rugby league, Rugby",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-09-13_SH031720960000_112359113277_2025-02-14T21:33:28Z_p817685_i_h8_ad/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NRL",
+      "episodeTitle": "",
+      "description": "Comprehensive coverage and full game replays of all the matches played in Australia's National Rugby League.",
       "scheduledDate": 1789323600000,
       "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Rugby league, Rugby",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-09-13_SH031720960000_112359113277_2025-02-14T21:33:28Z_p817685_i_h8_ad/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NRL",
+      "episodeTitle": "",
+      "description": "Comprehensive coverage and full game replays of all the matches played in Australia's National Rugby League.",
+      "scheduledDate": 1789324080000,
+      "duration": 59,
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Rugby league, Rugby",

@@ -2,19 +2,52 @@
   "channel": "FSS",
   "date": "2026-09-14",
   "source": "kayo",
-  "fetchedAt": 1789270734851,
-  "fetchedAtIST": "13/9/2026, 9:08:54 am",
+  "fetchedAt": 1789314292169,
+  "fetchedAtIST": "13/9/2026, 9:14:52 pm",
   "events": [
     {
-      "programTitle": "2026 TOUR Championship",
-      "episodeTitle": "Final Round",
-      "description": "From East Lake Golf Club in Atlanta.",
+      "programTitle": "European Tour Highlights",
+      "episodeTitle": "Omega European Masters, Final Round",
+      "description": "All the action and highlights from European Tour golf.",
+      "scheduledDate": 1789326000000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-09-13_SH034593530000_112614942615_2022-09-05T13:56:59Z_p9656797_i_h10_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "In Pieces Together",
+      "episodeTitle": "",
+      "description": "Follows world record-holding surfer Blake Johnston's journey of transforming personal tragedy into meaningful action, examining how suicide impacts communities and how genuine relationships, bravery, and open dialogue can inspire transformation.",
+      "scheduledDate": 1789333200000,
+      "duration": 75,
+      "parentalRating": "M",
+      "programType": "Feature Film",
+      "genre": "Documentary",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-09-13_MV028121960000_112615937123_2026-05-13T05:35:40Z_p32978814_i_h10_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "SailGP",
+      "episodeTitle": "Valencia, Day 2",
+      "description": "",
+      "scheduledDate": 1789337700000,
+      "duration": 105,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Sailing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-09-13_SH051028760000_112367882509_2021-04-23T21:46:53Z_p19827810_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "PGA Tour Golf",
+      "episodeTitle": "",
+      "description": "Professional golfers compete against one another in the PGA Tour to win the coveted title.",
       "scheduledDate": 1789344000000,
       "duration": 120,
       "parentalRating": "",
       "programType": "Sports event",
-      "genre": "Golf",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-09-14_SH065760920000_112507058331_2026-07-20T21:25:55Z_p33406701_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "genre": "Classic sport event, Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-09-14_SH035325650000_112615937126_2023-06-26T11:35:50Z_p8997822_i_h8_ad/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "PGA Tour Highlights",
@@ -113,7 +146,7 @@
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Golf",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-09-14_EP040914080704_112564607128_2026-09-11T12:43:08Z_GNLZZGG003NL73G/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-09-14_EP040914080704_112619606022_2026-09-11T12:43:08Z_GNLZZGG003NL73G/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "Getting a Round In",

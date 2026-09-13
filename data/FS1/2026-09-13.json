@@ -2,8 +2,8 @@
   "channel": "FS1",
   "date": "2026-09-13",
   "source": "kayo",
-  "fetchedAt": 1789270734813,
-  "fetchedAtIST": "13/9/2026, 9:08:54 am",
+  "fetchedAt": 1789314292131,
+  "fetchedAtIST": "13/9/2026, 9:14:52 pm",
   "events": [
     {
       "programTitle": "Test Cricket",
@@ -191,6 +191,17 @@
       "programType": "Sports event",
       "genre": "Cricket",
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-09-13_EP029804991871_112515304843_2026-09-10T17:00:36Z_GNLZZGG003NWG49/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "T20 Cricket",
+      "episodeTitle": "Afghanistan vs. India",
+      "description": "The opening T20 of the three game series gets underway at Arun Jaitley Stadium in Delhi.",
+      "scheduledDate": 1789307400000,
+      "duration": 245,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Cricket",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-09-13_EP029805000637_112613287007_2026-09-07T07:50:28Z_GNLZZGG003N13M5/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "The Tea Break",

@@ -2,8 +2,8 @@
   "channel": "FSS",
   "date": "2026-09-13",
   "source": "kayo",
-  "fetchedAt": 1789270734850,
-  "fetchedAtIST": "13/9/2026, 9:08:54 am",
+  "fetchedAt": 1789314292168,
+  "fetchedAtIST": "13/9/2026, 9:14:52 pm",
   "events": [
     {
       "programTitle": "2026 WBSC Women's Softball World Cup",
@@ -128,14 +128,25 @@
     },
     {
       "programTitle": "2026 WBSC Women's Softball World Cup",
-      "episodeTitle": "",
-      "description": "",
+      "episodeTitle": "China vs. New Zealand",
+      "description": "The final qualifying group sees six nations competing for a ticket to the World Cup.",
       "scheduledDate": 1789311300000,
-      "duration": 185,
+      "duration": 155,
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Softball",
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-09-13_SH066059810000_112449211639_2026-06-10T20:05:46Z_p33318706_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "WSL Replay",
+      "episodeTitle": "Rio",
+      "description": "Highlights from Rio de Janeiro, Brazil.",
+      "scheduledDate": 1789320600000,
+      "duration": 45,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Surfing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-09-13_SH051672730000_112432669054_2026-09-09T04:34:58Z_p27411189_i_h10_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "WSL Tour",
@@ -147,6 +158,17 @@
       "programType": "Sports event",
       "genre": "Surfing",
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-09-13_SH033247690000_110929981520_2019-03-19T05:40:29Z_p16589355_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "WSL Replay",
+      "episodeTitle": "Tahiti",
+      "description": "Highlights from Teahupo'o, Tahiti.",
+      "scheduledDate": 1789323300000,
+      "duration": 45,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Surfing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-09-13_SH051672730000_112432669054_2026-09-09T04:34:58Z_p27411189_i_h10_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     }
   ]
 }
