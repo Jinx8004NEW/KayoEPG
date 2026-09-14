@@ -2,8 +2,8 @@
   "channel": "FS3",
   "date": "2026-09-14",
   "source": "kayo",
-  "fetchedAt": 1789378712456,
-  "fetchedAtIST": "14/9/2026, 3:08:32 pm",
+  "fetchedAt": 1789408268629,
+  "fetchedAtIST": "14/9/2026, 11:21:08 pm",
   "events": [
     {
       "programTitle": "PGA Korn Ferry Tour Golf",
@@ -140,24 +140,24 @@
     {
       "programTitle": "PGA Tour Golf",
       "episodeTitle": "Cognizant Classic, Final Round",
-      "description": "From PGA National Champion Course in Palm Beach Gardens, Fla.",
+      "description": "Professional golfers compete against one another in the PGA Tour to win the coveted title.",
       "scheduledDate": 1789401600000,
       "duration": 120,
       "parentalRating": "",
       "programType": "Sports event",
-      "genre": "Golf",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-09-14_EP030899371325_112514062926_2026-02-17T20:06:06Z_p32042587_b_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "genre": "Classic sport event, Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-09-14_SH035325650000_112615937126_2023-06-26T11:35:50Z_p8997822_i_h8_ad/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "PGA Tour Golf",
       "episodeTitle": "Arnold Palmer Invitational, Final Round",
-      "description": "From Bay Hill Club & Lodge in Orlando, Fla.",
+      "description": "Professional golfers compete against one another in the PGA Tour to win the coveted title.",
       "scheduledDate": 1789408800000,
       "duration": 120,
       "parentalRating": "",
       "programType": "Sports event",
-      "genre": "Golf",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-09-14_EP030899371332_112514062887_2026-02-18T22:45:35Z_p32042637_b_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "genre": "Classic sport event, Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-09-14_SH035325650000_112615937126_2023-06-26T11:35:50Z_p8997822_i_h8_ad/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     }
   ]
 }

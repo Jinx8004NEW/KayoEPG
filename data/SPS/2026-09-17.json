@@ -2,8 +2,8 @@
   "channel": "SPS",
   "date": "2026-09-17",
   "source": "kayo",
-  "fetchedAt": 1789378712484,
-  "fetchedAtIST": "14/9/2026, 3:08:32 pm",
+  "fetchedAt": 1789408269023,
+  "fetchedAtIST": "14/9/2026, 11:21:09 pm",
   "events": [
     {
       "programTitle": "Formula 1",
@@ -18,14 +18,14 @@
     },
     {
       "programTitle": "Formula 1",
-      "episodeTitle": "Spanish Grand Prix",
-      "description": "From the Circuito de Madring in Madrid.",
+      "episodeTitle": "Spanish Grand Prix: Race",
+      "description": "Features all the action and highlights from Formula 1 racing.",
       "scheduledDate": 1789588800000,
       "duration": 120,
       "parentalRating": "",
       "programType": "Sports event",
-      "genre": "Auto racing",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-09-16_EP027326820865_112564753693_2026-08-05T15:27:37Z_p32388153_b_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "genre": "Classic sport event, Motorsports, Auto racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-09-16_SH035915380000_109578600751_2023-09-29T11:04:19Z_p8544413_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "MotorRacing 360",
@@ -40,14 +40,14 @@
     },
     {
       "programTitle": "Supercars Championship",
-      "episodeTitle": "AirTouch 500 at The Bend: Day 1",
-      "description": "Highlights and replays of classic races of the international motor racing series for Supercars.",
+      "episodeTitle": "",
+      "description": "Supercars compete in a series across Australia and New Zealand.",
       "scheduledDate": 1789599600000,
       "duration": 120,
       "parentalRating": "",
-      "programType": "Series",
+      "programType": "Sports event",
       "genre": "Auto racing",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-09-16_SH035728470000_102439454374_2018-12-17T21:00:00Z_p16276370_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-09-16_SH027326760000_112279031880_2026-08-07T01:36:07Z_p522547_i_h10_ad/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     }
   ]
 }

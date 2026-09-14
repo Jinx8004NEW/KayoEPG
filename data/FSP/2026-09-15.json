@@ -2,9 +2,64 @@
   "channel": "FSP",
   "date": "2026-09-15",
   "source": "kayo",
-  "fetchedAt": 1789378712474,
-  "fetchedAtIST": "14/9/2026, 3:08:32 pm",
+  "fetchedAt": 1789408269004,
+  "fetchedAtIST": "14/9/2026, 11:21:09 pm",
   "events": [
+    {
+      "programTitle": "MotoGP Racing",
+      "episodeTitle": "Grand Prix of San Marino: Race",
+      "description": "Action from MotoGP racing.",
+      "scheduledDate": 1789417800000,
+      "duration": 25,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Family, Classic sport event, Motorcycle racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-09-14_SH035853180000_112358172067_2017-10-24T00:43:00Z_p445588_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "2026 WBSC Women's Softball World Cup",
+      "episodeTitle": "New Zealand vs. Mexico",
+      "description": "From Devon Park in Oklahoma City, Okla.",
+      "scheduledDate": 1789419300000,
+      "duration": 155,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Softball",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-09-14_SH066059810000_112449211639_2026-06-10T20:05:46Z_p33318706_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Supercars Mini",
+      "episodeTitle": "",
+      "description": "Australia's premier touring car racing competition, known for high-powered V8 machines and intense, close-quarters racing.",
+      "scheduledDate": 1789428600000,
+      "duration": 25,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Classic sport event, Auto racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-09-14_SH035786470000_105377021933_2020-08-20T08:30:31Z_p18624449_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "2026 WBSC Women's Softball World Cup",
+      "episodeTitle": "United States vs. New Zealand",
+      "description": "From Devon Park in Oklahoma City, Okla.",
+      "scheduledDate": 1789430100000,
+      "duration": 155,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Softball",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-09-14_SH066059810000_112449211639_2026-06-10T20:05:46Z_p33318706_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "MotoGP Racing",
+      "episodeTitle": "2026 Grand Prix of San Marino: Sprint Race",
+      "description": "Action from MotoGP racing.",
+      "scheduledDate": 1789439400000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Family, Classic sport event, Motorcycle racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-09-15_SH035853180000_112358172067_2017-10-24T00:43:00Z_p445588_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
     {
       "programTitle": "Formula 1",
       "episodeTitle": "Spanish Grand Prix",
@@ -17,15 +72,15 @@
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-09-15_EP027326820865_112564753693_2026-08-05T15:27:37Z_p32388153_b_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "SailGP: Racing on the Edge",
+      "programTitle": "Inside Sailing",
       "episodeTitle": "",
-      "description": "Go under the hood of the supercharged F50 catamaran developed specifically for SailGP, find out how the concept for the league was born, watch the first rivalries emerge and more.",
+      "description": "All the latest news and features from some of the greatest sailing locations around the world; from windsurfing to yachting, this series brings you all the secrets to success.",
       "scheduledDate": 1789448400000,
       "duration": 30,
       "parentalRating": "",
       "programType": "Sports non-event",
-      "genre": "Sailing",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-09-15_SH038439390000_112031183300_2021-04-20T21:06:12Z_p19817224_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "genre": "Sailing, Yacht racing, Bus./financial",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-09-15_SH034433060000_111287577459_2025-05-15T06:46:25Z_p9550538_i_h11_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "International Brawling Championship",
@@ -39,26 +94,26 @@
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-09-15_SH065139570000_112495914993_2026-08-14T21:50:59Z_p33539447_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "MotoGP Racing",
-      "episodeTitle": "Grand Prix of San Marino and the Rimini Riviera, Sprint Race",
-      "description": "From Misano World Circuit Marco Simoncelli in Misano Adriatico, Rimini, Italy.",
-      "scheduledDate": 1789453800000,
-      "duration": 30,
-      "parentalRating": "",
-      "programType": "Sports event",
-      "genre": "Motorcycle racing",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-09-15_EP028104881564_112564936202_2026-09-11T09:48:42Z_GNLZZGG003NZS84/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
-    {
       "programTitle": "52 Super Series",
       "episodeTitle": "",
       "description": "Teams from all over the world compete with each other in the 52 Super Series, a monohull yacht racing competition, to clinch the number one spot.",
-      "scheduledDate": 1789455600000,
+      "scheduledDate": 1789453800000,
       "duration": 30,
       "parentalRating": "",
       "programType": "Series",
       "genre": "Sailing, Watersports",
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-09-15_SH064993470000_112455686540_2023-03-16T14:17:12Z_p23293654_i_h10_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "The Bowls Show",
+      "episodeTitle": "",
+      "description": "All the latest in the world of competitive bowls, including exclusive interviews, event highlights, club tours and coaching insight.",
+      "scheduledDate": 1789455600000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Other",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-09-15_SH024802440000_107847958042_2017-03-10T00:18:00Z_p13123463_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "The Bowls Show",
@@ -75,12 +130,34 @@
       "programTitle": "UFC Countdown",
       "episodeTitle": "UFC: 331 Van vs. Pantoja 2",
       "description": "Go inside the lives and training camps of UFC athletes as they prepare for the next UFC pay-per-view event.",
-      "scheduledDate": 1789461000000,
-      "duration": 60,
+      "scheduledDate": 1789459200000,
+      "duration": 30,
       "parentalRating": "",
       "programType": "Sports non-event",
       "genre": "Mixed martial arts, Documentary",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-09-15_SH030408650000_111163590718_2026-01-22T17:35:05Z_p308818_i_h8_ae/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-09-15_SH030408650000_112647340619_2026-01-22T17:35:05Z_p308818_i_h8_ae/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "MotoGP Racing",
+      "episodeTitle": "2026 Grand Prix of San Marino: Sprint Race",
+      "description": "Action from MotoGP racing.",
+      "scheduledDate": 1789461000000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Family, Classic sport event, Motorcycle racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-09-15_SH035853180000_112358172067_2017-10-24T00:43:00Z_p445588_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "ETPL",
+      "episodeTitle": "Amsterdam Flames vs. Dublin Guardians",
+      "description": "",
+      "scheduledDate": 1789462800000,
+      "duration": 240,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Cricket",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-09-15_EP065792820020_112649242707_2026-08-21T17:03:50Z_GNLZZGG003HLYZ2/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "ETPL",
@@ -95,32 +172,32 @@
     },
     {
       "programTitle": "MotoGP Racing",
-      "episodeTitle": "Grand Prix of San Marino and the Rimini Riviera",
+      "episodeTitle": "Grand Prix of San Marino - Race",
       "description": "From Misano World Circuit Marco Simoncelli in Misano Adriatico, Rimini, Italy.",
       "scheduledDate": 1789477200000,
       "duration": 60,
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Motorcycle racing",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-09-15_EP028104881565_112564712289_2026-09-11T18:02:01Z_GNLZZGG003NQ4HM/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-09-15_SH028104880000_112186554419_2025-04-17T20:03:48Z_p445587_i_h8_ae/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "MotoGP Racing",
-      "episodeTitle": "Grand Prix of San Marino and the Rimini Riviera, Sprint Race",
-      "description": "From Misano World Circuit Marco Simoncelli in Misano Adriatico, Rimini, Italy.",
+      "episodeTitle": "2026 Grand Prix of San Marino: Sprint Race",
+      "description": "Action from MotoGP racing.",
       "scheduledDate": 1789480800000,
       "duration": 30,
       "parentalRating": "",
       "programType": "Sports event",
-      "genre": "Motorcycle racing",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-09-15_EP028104881564_112564936202_2026-09-11T09:48:42Z_GNLZZGG003NZS84/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "genre": "Family, Classic sport event, Motorcycle racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-09-15_SH035853180000_112358172067_2017-10-24T00:43:00Z_p445588_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "MotoGP Mini",
-      "episodeTitle": "",
-      "description": "Experience all the action and highlights from the MotoGP championship races.",
+      "episodeTitle": "Aragon",
+      "description": "Fresh off his Silverstone win, Raul Fernandez targets another standout performance on home soil in Spain as the championship battle intensifies.",
       "scheduledDate": 1789482600000,
-      "duration": 20,
+      "duration": 25,
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Classic sport event, Motorsports, Motorcycle racing",
@@ -132,6 +209,39 @@
       "description": "",
       "scheduledDate": 1789483800000,
       "duration": 730,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Softball",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-09-15_SH066059810000_112449211639_2026-06-10T20:05:46Z_p33318706_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "2026 WBSC Women's Softball World Cup",
+      "episodeTitle": "Brazil vs. Netherlands",
+      "description": "From Devon Park in Oklahoma City, Okla.",
+      "scheduledDate": 1789484100000,
+      "duration": 155,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Softball",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-09-15_SH066059810000_112449211639_2026-06-10T20:05:46Z_p33318706_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "MotoGP: After The Flag",
+      "episodeTitle": "San Marino",
+      "description": "The commentary team interview the top riders and wrap up the weekend of action after the Grand Prix.",
+      "scheduledDate": 1789493400000,
+      "duration": 25,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Motorcycle racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-09-15_SH045144180000_107134189895_2022-10-28T12:27:14Z_p23278858_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "2026 WBSC Women's Softball World Cup",
+      "episodeTitle": "Mexico vs. China",
+      "description": "From Devon Park in Oklahoma City, Okla.",
+      "scheduledDate": 1789494900000,
+      "duration": 155,
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Softball",

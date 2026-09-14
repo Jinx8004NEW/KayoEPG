@@ -2,8 +2,8 @@
   "channel": "SPS",
   "date": "2026-09-14",
   "source": "kayo",
-  "fetchedAt": 1789378712482,
-  "fetchedAtIST": "14/9/2026, 3:08:32 pm",
+  "fetchedAt": 1789408269011,
+  "fetchedAtIST": "14/9/2026, 11:21:09 pm",
   "events": [
     {
       "programTitle": "NASCAR Cup Series",
@@ -231,6 +231,17 @@
       "description": "",
       "scheduledDate": 1789405200000,
       "duration": 210,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Pool",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-09-14_SH065842990000_112448296581_2026-08-24T10:18:24Z_p33871357_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Ultimate Pool NxtGen",
+      "episodeTitle": "Week 2",
+      "description": "",
+      "scheduledDate": 1789405500000,
+      "duration": 205,
       "parentalRating": "",
       "programType": "Sports non-event",
       "genre": "Pool",

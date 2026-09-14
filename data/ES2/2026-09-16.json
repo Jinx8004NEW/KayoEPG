@@ -2,8 +2,8 @@
   "channel": "ES2",
   "date": "2026-09-16",
   "source": "kayo",
-  "fetchedAt": 1789378712507,
-  "fetchedAtIST": "14/9/2026, 3:08:32 pm",
+  "fetchedAt": 1789408269040,
+  "fetchedAtIST": "14/9/2026, 11:21:09 pm",
   "events": [
     {
       "programTitle": "The Pat McAfee Show",
@@ -72,15 +72,15 @@
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-09-16_SH032424080000_108239731292_2021-04-08T22:26:28Z_p186288_i_h8_ae/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "NFL Live",
+      "programTitle": "E",
       "episodeTitle": "",
-      "description": "Wendi Nix and analysts break down the latest news in the NFL, offering views on players, coaches and management.",
+      "description": "",
       "scheduledDate": 1789525800000,
-      "duration": 60,
+      "duration": 90,
       "parentalRating": "",
-      "programType": "Sports non-event",
-      "genre": "Football",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-09-16_SH033280050000_112279371150_2022-08-27T02:25:47Z_p267723_i_h8_ae/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "programType": "",
+      "genre": "",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/Fallback_LTV_ESPN2/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "Return of the Clowns",
@@ -92,6 +92,17 @@
       "programType": "Sports non-event",
       "genre": "Special, Baseball",
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-09-16_SH064874550000_112452234900_2026-06-22T18:45:15Z_p33394009_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "2026 Corgi Races at Emerald Downs",
+      "episodeTitle": "",
+      "description": "An event featuring over 100 corgis racing for the Championship trophy.",
+      "scheduledDate": 1789531200000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Special, Dog racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-09-16_SH065465580000_112184352782_2026-08-07T14:06:34Z_p33689992_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "NFL's Greatest Games",
@@ -179,7 +190,7 @@
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Baseball",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-09-16_EP062580852937_112558251954_2026-08-28T04:45:15Z_GNLZZGG003JS6TH/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-09-16_EP062580852736_112556604788_2026-06-27T19:32:14Z_GNLZZGG0037TXBH/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "Quick Pitch",

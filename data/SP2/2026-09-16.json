@@ -2,30 +2,30 @@
   "channel": "SP2",
   "date": "2026-09-16",
   "source": "kayo",
-  "fetchedAt": 1789378712448,
-  "fetchedAtIST": "14/9/2026, 3:08:32 pm",
+  "fetchedAt": 1789408268622,
+  "fetchedAtIST": "14/9/2026, 11:21:08 pm",
   "events": [
     {
       "programTitle": "NRL",
-      "episodeTitle": "Penrith Panthers vs Sydney Roosters",
-      "description": "Live from CommBank Stadium. Kick off at 4:05PM AEST.",
+      "episodeTitle": "New Zealand Warriors vs Dolphins",
+      "description": "From Go Media Stadium in Penrose, Auckland, New Zealand.",
       "scheduledDate": 1789498800000,
       "duration": 60,
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Playoff sports, Rugby league, Rugby",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-09-15_EP031720961242_112514716167_2026-09-06T23:09:51Z_GNLZZGG003ME20P/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-09-15_EP031720961240_112640156101_2026-09-06T23:04:51Z_GNLZZGG003MYYEV/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "NRLW Premiership Mini",
-      "episodeTitle": "Cronulla Sharks v St George Illawarra Dragons",
-      "description": "Condensed highlights of some of the greatest encounters from the NRL Women's competition.",
+      "programTitle": "NRL Women's Premiership",
+      "episodeTitle": "Cronulla-Sutherland Sharks vs St. George Illawarra Dragons",
+      "description": "Ocean Protect Stadium",
       "scheduledDate": 1789502400000,
       "duration": 20,
       "parentalRating": "",
-      "programType": "Sports non-event",
+      "programType": "Sports event",
       "genre": "Rugby league, Rugby",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-09-15_SH042238410000_109229287001_2022-03-07T01:46:13Z_p21759648_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-09-15_EP030419250287_112640291295_2026-08-07T22:53:51Z_GNLZZGG003FCZHP/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "NRLW Premiership Mini",
@@ -62,7 +62,7 @@
     },
     {
       "programTitle": "Face-To-Face on Fox",
-      "episodeTitle": "Justin Hodges",
+      "episodeTitle": "Craig Gower",
       "description": "Jake Duke and Yvonne Sampson chat candidly with prominent figures in the game of rugby league and Australian society.",
       "scheduledDate": 1789509600000,
       "duration": 30,
@@ -90,7 +90,7 @@
       "duration": 30,
       "parentalRating": "",
       "programType": "Sports non-event",
-      "genre": "Other",
+      "genre": "Rugby league",
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/Fallback_LTV_Fox_League/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
@@ -106,7 +106,7 @@
     },
     {
       "programTitle": "Face-To-Face on Fox",
-      "episodeTitle": "Justin Hodges",
+      "episodeTitle": "Craig Gower",
       "description": "Jake Duke and Yvonne Sampson chat candidly with prominent figures in the game of rugby league and Australian society.",
       "scheduledDate": 1789520400000,
       "duration": 30,
@@ -128,7 +128,7 @@
     },
     {
       "programTitle": "Face-To-Face on Fox",
-      "episodeTitle": "Justin Hodges",
+      "episodeTitle": "Craig Gower",
       "description": "Jake Duke and Yvonne Sampson chat candidly with prominent figures in the game of rugby league and Australian society.",
       "scheduledDate": 1789525800000,
       "duration": 30,
@@ -150,7 +150,7 @@
     },
     {
       "programTitle": "Face-To-Face on Fox",
-      "episodeTitle": "Justin Hodges",
+      "episodeTitle": "Craig Gower",
       "description": "Jake Duke and Yvonne Sampson chat candidly with prominent figures in the game of rugby league and Australian society.",
       "scheduledDate": 1789531200000,
       "duration": 30,
@@ -172,7 +172,7 @@
     },
     {
       "programTitle": "Face-To-Face on Fox",
-      "episodeTitle": "Justin Hodges",
+      "episodeTitle": "Craig Gower",
       "description": "Jake Duke and Yvonne Sampson chat candidly with prominent figures in the game of rugby league and Australian society.",
       "scheduledDate": 1789536600000,
       "duration": 30,
@@ -194,7 +194,7 @@
     },
     {
       "programTitle": "The Run Home with Scope and Fletch",
-      "episodeTitle": "",
+      "episodeTitle": "Wednesday",
       "description": "Scope and Fletch take a look at what's topical in rugby league and the latest NRL round.",
       "scheduledDate": 1789542000000,
       "duration": 60,
@@ -227,8 +227,8 @@
     },
     {
       "programTitle": "The Fan",
-      "episodeTitle": "Episode 26",
-      "description": "Bulldogs stars on their passionate fans; Sharks players on Craig Fitzgibbon, Kaeo Weekes on his bloodline; Vossy talks with Scott Prince.",
+      "episodeTitle": "",
+      "description": "Rugby League's biggest fan, Andrew Voss, explores the game from a fan's perspective and chats with some of the biggest rugby league enthusiasts on the way.",
       "scheduledDate": 1789551000000,
       "duration": 30,
       "parentalRating": "",
@@ -327,13 +327,13 @@
     {
       "programTitle": "NRL",
       "episodeTitle": "Cronulla-Sutherland Sharks vs North Queensland Cowboys",
-      "description": "Live from Allianz Stadium. Kick off at 7:50PM AEST.",
+      "description": "From Allianz Stadium in Sydney.",
       "scheduledDate": 1789574400000,
       "duration": 60,
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Playoff sports, Rugby league, Rugby",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-09-16_EP031720961241_112514454037_2026-09-06T22:52:37Z_GNLZZGG003MYVV6/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-09-16_EP031720961241_112640214060_2026-09-06T22:52:37Z_GNLZZGG003MYVV6/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "NRL",

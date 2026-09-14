@@ -2,8 +2,8 @@
   "channel": "ESP",
   "date": "2026-09-16",
   "source": "kayo",
-  "fetchedAt": 1789378712500,
-  "fetchedAtIST": "14/9/2026, 3:08:32 pm",
+  "fetchedAt": 1789408269035,
+  "fetchedAtIST": "14/9/2026, 11:21:09 pm",
   "events": [
     {
       "programTitle": "NBA Today",
@@ -91,7 +91,7 @@
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Baseball",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-09-16_EP062580852937_112558251954_2026-08-28T04:45:15Z_GNLZZGG003JS6TH/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-09-16_EP062580852736_112556604788_2026-06-27T19:32:14Z_GNLZZGG0037TXBH/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "SportsCenter",
@@ -116,21 +116,10 @@
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-09-16_SH033259060000_109832503473_2018-04-18T10:39:00Z_p186674_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "2026 Corgi Races at Emerald Downs",
-      "episodeTitle": "",
-      "description": "An event featuring over 100 corgis racing for the Championship trophy.",
-      "scheduledDate": 1789534800000,
-      "duration": 30,
-      "parentalRating": "",
-      "programType": "Sports non-event",
-      "genre": "Special, Dog racing",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-09-16_SH065465580000_112184352782_2026-08-07T14:06:34Z_p33689992_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
-    {
       "programTitle": "Meadowlands Racetrack Wiener Dog Derby",
       "episodeTitle": "",
       "description": "",
-      "scheduledDate": 1789536600000,
+      "scheduledDate": 1789534800000,
       "duration": 30,
       "parentalRating": "",
       "programType": "Sports non-event",
@@ -141,12 +130,23 @@
       "programTitle": "Great American Events",
       "episodeTitle": "T-Rex World Championship Races at Emerald Downs",
       "description": "Showcases a mix of major national sporting events and distinct local competitions across America.",
-      "scheduledDate": 1789538400000,
+      "scheduledDate": 1789536600000,
       "duration": 30,
       "parentalRating": "",
       "programType": "Sports non-event",
       "genre": "Multi-sport event",
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-09-16_SH035458390000_112188351207_2020-02-10T07:55:13Z_p709459_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Turf Wars Adult Kickball: Battle of The Stars",
+      "episodeTitle": "",
+      "description": "Showcasing top-tier adult kickball action from the leading Turf Wars circuit.",
+      "scheduledDate": 1789538400000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Special, Outdoors",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-09-16_SH065515090000_112182920900_2026-07-23T16:16:02Z_p33658266_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "Turf Wars Adult Kickball: Battle of The Stars",
@@ -158,6 +158,17 @@
       "programType": "Sports non-event",
       "genre": "Special, Outdoors",
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-09-16_SH065515090000_112182920900_2026-07-23T16:16:02Z_p33658266_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "E",
+      "episodeTitle": "",
+      "description": "",
+      "scheduledDate": 1789542000000,
+      "duration": 90,
+      "parentalRating": "",
+      "programType": "",
+      "genre": "",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/Fallback_LTV_ESPN1/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "Great American Events",
@@ -190,7 +201,7 @@
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Baseball",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-09-16_EP062580852937_112558251954_2026-08-28T04:45:15Z_GNLZZGG003JS6TH/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-09-16_EP062580852736_112556604788_2026-06-27T19:32:14Z_GNLZZGG0037TXBH/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "SC: Australia Weekly",

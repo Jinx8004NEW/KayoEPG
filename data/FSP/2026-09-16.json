@@ -2,9 +2,64 @@
   "channel": "FSP",
   "date": "2026-09-16",
   "source": "kayo",
-  "fetchedAt": 1789378712475,
-  "fetchedAtIST": "14/9/2026, 3:08:32 pm",
+  "fetchedAt": 1789408269004,
+  "fetchedAtIST": "14/9/2026, 11:21:09 pm",
   "events": [
+    {
+      "programTitle": "Supercars Mini",
+      "episodeTitle": "",
+      "description": "Australia's premier touring car racing competition, known for high-powered V8 machines and intense, close-quarters racing.",
+      "scheduledDate": 1789504200000,
+      "duration": 25,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Classic sport event, Auto racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-09-15_SH035786470000_105377021933_2020-08-20T08:30:31Z_p18624449_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "F",
+      "episodeTitle": "",
+      "description": "",
+      "scheduledDate": 1789505700000,
+      "duration": 155,
+      "parentalRating": "",
+      "programType": "",
+      "genre": "",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/Fallback_LTV_Fox_Sports_505/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "MotoGP: After The Flag",
+      "episodeTitle": "San Marino",
+      "description": "The commentary team interview the top riders and wrap up the weekend of action after the Grand Prix.",
+      "scheduledDate": 1789515000000,
+      "duration": 25,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Motorcycle racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-09-15_SH045144180000_107134189895_2022-10-28T12:27:14Z_p23278858_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "F",
+      "episodeTitle": "",
+      "description": "",
+      "scheduledDate": 1789516500000,
+      "duration": 155,
+      "parentalRating": "",
+      "programType": "",
+      "genre": "",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/Fallback_LTV_Fox_Sports_505/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Getting a Round In",
+      "episodeTitle": "",
+      "description": "Australian professional golfer, Paul Gow hosts celebrities as his playing partners who share his love for the game of golf.",
+      "scheduledDate": 1789525800000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Series",
+      "genre": "Golf, Interview",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-09-16_SH048121120000_110998856207_2023-07-18T05:56:16Z_p25221374_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
     {
       "programTitle": "52 Super Series",
       "episodeTitle": "",
@@ -17,19 +72,19 @@
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-09-16_SH064993470000_112455686540_2023-03-16T14:17:12Z_p23293654_i_h10_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "DP World Tour Golf",
-      "episodeTitle": "Amgen Irish Open, Final Round",
-      "description": "From Trump International Golf Links & Hotel in Doonbeg, Ireland.",
+      "programTitle": "F",
+      "episodeTitle": "",
+      "description": "",
       "scheduledDate": 1789529400000,
       "duration": 120,
       "parentalRating": "",
-      "programType": "Sports event",
-      "genre": "Golf",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-09-16_EP040914080704_112619606022_2026-09-11T12:43:08Z_GNLZZGG003NL73G/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "programType": "",
+      "genre": "",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/Fallback_LTV_Fox_Sports_505/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "International Brawling Championship",
-      "episodeTitle": "Highlights: IBC01",
+      "episodeTitle": "Highlights: IBC02",
       "description": "Step inside the raw and uncompromising world of underground fight culture.",
       "scheduledDate": 1789536600000,
       "duration": 60,
@@ -47,18 +102,18 @@
       "parentalRating": "",
       "programType": "Sports non-event",
       "genre": "Mixed martial arts, Documentary",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-09-16_SH030408650000_111163590718_2026-01-22T17:35:05Z_p308818_i_h8_ae/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-09-16_SH030408650000_112647340619_2026-01-22T17:35:05Z_p308818_i_h8_ae/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "PBR Bull Riding",
+      "programTitle": "Pro Bull Riding",
       "episodeTitle": "",
-      "description": "Coverage of the action from the Professional Bull Riders events.",
+      "description": "The best bull riders in Australia and the world compete for prize money on the professional bull riding circuit.",
       "scheduledDate": 1789543800000,
       "duration": 60,
       "parentalRating": "",
-      "programType": "Sports event",
+      "programType": "Sports non-event",
       "genre": "Bull riding",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-09-16_SH033364560000_110114392996_2017-09-14T16:13:00Z_p12572769_i_h10_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-09-16_SH029446100000_108472165776_2018-05-25T09:42:00Z_p15394895_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "Fight Week",
@@ -91,29 +146,29 @@
       "parentalRating": "",
       "programType": "Sports non-event",
       "genre": "Mixed martial arts, Documentary",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-09-16_SH030408650000_111163590718_2026-01-22T17:35:05Z_p308818_i_h8_ae/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-09-16_SH030408650000_112647340619_2026-01-22T17:35:05Z_p308818_i_h8_ae/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "PBR Bull Riding",
+      "programTitle": "Pro Bull Riding",
       "episodeTitle": "",
-      "description": "Coverage of the action from the Professional Bull Riders events.",
+      "description": "The best bull riders in Australia and the world compete for prize money on the professional bull riding circuit.",
       "scheduledDate": 1789560000000,
       "duration": 60,
       "parentalRating": "",
-      "programType": "Sports event",
+      "programType": "Sports non-event",
       "genre": "Bull riding",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-09-16_SH033364560000_110114392996_2017-09-14T16:13:00Z_p12572769_i_h10_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-09-16_SH029446100000_108472165776_2018-05-25T09:42:00Z_p15394895_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "PGA Tour Champions Golf",
-      "episodeTitle": "Sanford International, Final Round",
-      "description": "From Minnehaha Country Club in Sioux Falls, S.D.",
+      "programTitle": "NASCAR Cup Series",
+      "episodeTitle": "Enjoy Illinois 300",
+      "description": "From World Wide Technology Raceway at Gateway in Madison, Ill.",
       "scheduledDate": 1789563600000,
       "duration": 60,
       "parentalRating": "",
       "programType": "Sports event",
-      "genre": "Golf",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-09-16_EP034248570453_112635742721_2026-08-17T22:26:03Z_p33738301_b_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "genre": "Auto racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-09-16_EP035183560216_112564528615_2026-09-10T21:04:40Z_p32224280_b_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "F1 Mini",
@@ -131,7 +186,7 @@
       "episodeTitle": "",
       "description": "Australia's premier touring car racing competition, known for high-powered V8 machines and intense, close-quarters racing.",
       "scheduledDate": 1789569000000,
-      "duration": 20,
+      "duration": 25,
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Classic sport event, Auto racing",
@@ -143,6 +198,39 @@
       "description": "",
       "scheduledDate": 1789570200000,
       "duration": 730,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Softball",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-09-16_SH066059810000_112449211639_2026-06-10T20:05:46Z_p33318706_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "2026 WBSC Women's Softball World Cup",
+      "episodeTitle": "",
+      "description": "",
+      "scheduledDate": 1789570500000,
+      "duration": 155,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Softball",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-09-16_SH066059810000_112449211639_2026-06-10T20:05:46Z_p33318706_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "MotoGP: After The Flag",
+      "episodeTitle": "San Marino",
+      "description": "The commentary team interview the top riders and wrap up the weekend of action after the Grand Prix.",
+      "scheduledDate": 1789579800000,
+      "duration": 25,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Motorcycle racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-09-16_SH045144180000_107134189895_2022-10-28T12:27:14Z_p23278858_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "2026 WBSC Women's Softball World Cup",
+      "episodeTitle": "",
+      "description": "",
+      "scheduledDate": 1789581300000,
+      "duration": 155,
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Softball",
