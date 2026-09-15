@@ -2,8 +2,8 @@
   "channel": "FSS",
   "date": "2026-09-16",
   "source": "kayo",
-  "fetchedAt": 1789426727692,
-  "fetchedAtIST": "15/9/2026, 4:28:47 am",
+  "fetchedAt": 1789444102183,
+  "fetchedAtIST": "15/9/2026, 9:18:22 am",
   "events": [
     {
       "programTitle": "WSL Tour",
@@ -193,15 +193,15 @@
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-09-16_SH029446100000_108472165776_2018-05-25T09:42:00Z_p15394895_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "F",
-      "episodeTitle": "",
-      "description": "",
+      "programTitle": "WSL Tour",
+      "episodeTitle": "Championship Tour: Lexus Trestles Pro",
+      "description": "Coverage of surfing action from the WSL.",
       "scheduledDate": 1789570800000,
       "duration": 480,
       "parentalRating": "",
-      "programType": "",
-      "genre": "",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/Fallback_LTV_Fox_Sports_507/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "programType": "Sports event",
+      "genre": "Surfing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-09-16_SH033247690000_110929981520_2019-03-19T05:40:29Z_p16589355_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "To Be Announced",

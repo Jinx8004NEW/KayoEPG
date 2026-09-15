@@ -1,0 +1,53 @@
+{
+  "channel": "ES2",
+  "date": "2026-09-18",
+  "source": "kayo",
+  "fetchedAt": 1789444102191,
+  "fetchedAtIST": "15/9/2026, 9:18:22 am",
+  "events": [
+    {
+      "programTitle": "The Pat McAfee Show",
+      "episodeTitle": "",
+      "description": "Former NFL punter Pat McAfee brings his humour, sarcasm and candour to the microphone to highlight the day's top stories.",
+      "scheduledDate": 1789675200000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Series",
+      "genre": "Sports talk",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-09-17_SH048483860000_111648065422_2020-09-10T14:31:07Z_p18762527_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Pardon the Interruption",
+      "episodeTitle": "",
+      "description": "Tony Kornheiser and Mike Wilbon have intense discussions and interview guests about the top headlines in news and sports.",
+      "scheduledDate": 1789682400000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Sports talk",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-09-17_SH032424080000_108239731292_2021-04-08T22:26:28Z_p186288_i_h8_ae/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Prime 9",
+      "episodeTitle": "Hitting Duos",
+      "description": "Presents a countdown of the all-time top nine hitting duos in baseball history.",
+      "scheduledDate": 1789684200000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Baseball",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-09-17_EP034894280007_112381553802_2022-09-20T11:27:16Z_p8723926_e_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "MLB Baseball",
+      "episodeTitle": "Houston Astros vs Kansas City Royals",
+      "description": "From Daikin Park in Houston.",
+      "scheduledDate": 1789686000000,
+      "duration": 180,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Baseball",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-09-17_EP062580852744_112649566194_2026-06-27T19:32:00Z_GNLZZGG0037V4R4/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    }
+  ]
+}

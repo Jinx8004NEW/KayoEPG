@@ -1,0 +1,53 @@
+{
+  "channel": "FS3",
+  "date": "2026-09-18",
+  "source": "kayo",
+  "fetchedAt": 1789444101996,
+  "fetchedAtIST": "15/9/2026, 9:18:21 am",
+  "events": [
+    {
+      "programTitle": "PGA Tour Golf",
+      "episodeTitle": "Biltmore Championship Asheville, First Round",
+      "description": "From The Cliffs at Walnut Cove in Asheville, N.C.",
+      "scheduledDate": 1789671600000,
+      "duration": 180,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-09-17_EP030899371422_112664343518_2026-09-14T13:20:57Z_GNLZZGG003NEX6P/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "2026 Solheim Cup",
+      "episodeTitle": "Highlights",
+      "description": "",
+      "scheduledDate": 1789682400000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-09-17_SH065998810000_112643879378_2026-08-05T21:08:37Z_p33713632_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "European PGA Tour Highlights",
+      "episodeTitle": "Amgen Irish Open",
+      "description": "All the action and highlights from European Tour golf.",
+      "scheduledDate": 1789686000000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-09-17_SH037026900000_112448059278_2022-09-05T13:56:59Z_p9656797_i_h10_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "PGA Korn Ferry Tour Golf",
+      "episodeTitle": "Nationwide Children's Hospital Championship, First Round",
+      "description": "From The Ohio State University Golf Club in Upper Arlington, Ohio.",
+      "scheduledDate": 1789687800000,
+      "duration": 90,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-09-17_EP034202650199_112649241750_2026-08-25T19:34:16Z_p33752767_b_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    }
+  ]
+}

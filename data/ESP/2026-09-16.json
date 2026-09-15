@@ -2,8 +2,8 @@
   "channel": "ESP",
   "date": "2026-09-16",
   "source": "kayo",
-  "fetchedAt": 1789426727706,
-  "fetchedAtIST": "15/9/2026, 4:28:47 am",
+  "fetchedAt": 1789444102187,
+  "fetchedAtIST": "15/9/2026, 9:18:22 am",
   "events": [
     {
       "programTitle": "NBA Today",
@@ -91,7 +91,7 @@
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Baseball",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-09-16_EP062580852736_112556604788_2026-06-27T19:32:14Z_GNLZZGG0037TXBH/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-09-16_EP062580852736_112653308059_2026-06-27T19:32:14Z_GNLZZGG0037TXBH/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "SportsCenter",
@@ -160,15 +160,15 @@
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-09-16_SH065515090000_112182920900_2026-07-23T16:16:02Z_p33658266_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "E",
+      "programTitle": "14 Days in Gainesville",
       "episodeTitle": "",
       "description": "",
       "scheduledDate": 1789542000000,
       "duration": 90,
       "parentalRating": "",
-      "programType": "",
-      "genre": "",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/Fallback_LTV_ESPN1/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "programType": "Sports non-event",
+      "genre": "Special, Documentary",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-09-16_SH066137920000_112653307415_2026-09-14T05:45:34Z_p34100260_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "Great American Events",
@@ -201,7 +201,7 @@
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Baseball",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-09-16_EP062580852736_112556604788_2026-06-27T19:32:14Z_GNLZZGG0037TXBH/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-09-16_EP062580852736_112653308059_2026-06-27T19:32:14Z_GNLZZGG0037TXBH/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "SC: Australia Weekly",

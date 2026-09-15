@@ -2,8 +2,8 @@
   "channel": "RTV",
   "date": "2026-09-16",
   "source": "kayo",
-  "fetchedAt": 1789426727714,
-  "fetchedAtIST": "15/9/2026, 4:28:47 am",
+  "fetchedAt": 1789444102194,
+  "fetchedAtIST": "15/9/2026, 9:18:22 am",
   "events": [
     {
       "programTitle": "Racing to Win",
@@ -39,15 +39,15 @@
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/148460_2026-09-15_SH041213850000_110926995106_2021-12-08T06:46:54Z_p21189378_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "The Emergencies",
+      "programTitle": "Racing Review",
       "episodeTitle": "",
-      "description": "",
+      "description": "A full recap of racing from Wangaratta.",
       "scheduledDate": 1789503300000,
       "duration": 30,
       "parentalRating": "",
-      "programType": "Special",
-      "genre": "Special",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/148460_2026-09-15_SH066056070000_112642690051_2026-09-14T08:55:20Z_p34059952_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "programType": "Sports non-event",
+      "genre": "Horse racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/148460_2026-09-15_SH065368570000_110412511319_2022-09-19T11:46:59Z_p872189_i_h8_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "Get on Blackbook",

@@ -1,0 +1,31 @@
+{
+  "channel": "FSP",
+  "date": "2026-09-18",
+  "source": "kayo",
+  "fetchedAt": 1789444102176,
+  "fetchedAtIST": "15/9/2026, 9:18:22 am",
+  "events": [
+    {
+      "programTitle": "UFC Countdown",
+      "episodeTitle": "UFC: 331 Van vs. Pantoja 2",
+      "description": "Go inside the lives and training camps of UFC athletes as they prepare for the next UFC pay-per-view event.",
+      "scheduledDate": 1789682400000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Mixed martial arts, Documentary",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-09-17_SH030408650000_112647340619_2026-01-22T17:35:05Z_p308818_i_h8_ae/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "DP World Tour Golf",
+      "episodeTitle": "Amgen Irish Open, First Round",
+      "description": "From Trump International Golf Links & Hotel in Doonbeg, Ireland.",
+      "scheduledDate": 1789686000000,
+      "duration": 90,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-09-17_EP040914080702_112649242005_2026-09-11T09:25:30Z_GNLZZGG003NZFH7/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    }
+  ]
+}
