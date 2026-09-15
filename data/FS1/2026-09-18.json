@@ -2,8 +2,8 @@
   "channel": "FS1",
   "date": "2026-09-18",
   "source": "kayo",
-  "fetchedAt": 1789444101985,
-  "fetchedAtIST": "15/9/2026, 9:18:21 am",
+  "fetchedAt": 1789463705964,
+  "fetchedAtIST": "15/9/2026, 2:45:05 pm",
   "events": [
     {
       "programTitle": "To Be Announced",
@@ -15,6 +15,50 @@
       "programType": "TBA",
       "genre": "Special, Entertainment",
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-09-17_SH027575020000_112134147688_2021-11-15T14:36:19Z_p514472_b_h8_dp/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Test Cricket",
+      "episodeTitle": "Australia v Bangladesh, 2nd Test",
+      "description": "Coverage and highlights from international test cricket matches.",
+      "scheduledDate": 1789680600000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Cricket, Classic sport event",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-09-17_SH033446590000_98978823590_2023-09-29T14:53:53Z_p8163404_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Test Cricket",
+      "episodeTitle": "England v Pakistan, 3rd Test",
+      "description": "Coverage and highlights from international test cricket matches.",
+      "scheduledDate": 1789684200000,
+      "duration": 65,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Cricket, Classic sport event",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-09-17_SH033446590000_98978823590_2023-09-29T14:53:53Z_p8163404_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "One-Day International Cricket",
+      "episodeTitle": "Zimbabwe v Australia, 1st ODI",
+      "description": "Coverage of one-day cricket matches contested by international teams.",
+      "scheduledDate": 1789688100000,
+      "duration": 20,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Cricket, Classic sport event",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/Fallback_LTV_Fox_Cricket/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "CPL T20 Cricket",
+      "episodeTitle": "",
+      "description": "Coverage of action from the Caribbean Premier League T20 cricket.",
+      "scheduledDate": 1789689300000,
+      "duration": 245,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Cricket",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-09-17_SH033351860000_111569687238_2023-08-23T16:53:32Z_p14393243_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     }
   ]
 }
