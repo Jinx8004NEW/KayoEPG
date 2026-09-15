@@ -1,114 +1,59 @@
 {
   "channel": "ESP",
-  "date": "2026-09-15",
+  "date": "2026-09-16",
   "source": "kayo",
-  "fetchedAt": 1789489638894,
-  "fetchedAtIST": "15/9/2026, 9:57:18 pm",
+  "fetchedAt": 1789512254246,
+  "fetchedAtIST": "16/9/2026, 4:14:14 am",
   "events": [
+    {
+      "programTitle": "NBA Today",
+      "episodeTitle": "",
+      "description": "Daily NBA show from Los Angeles about everything you need to know about your favourite sport.",
+      "scheduledDate": 1789498800000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Sports talk, Basketball",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-09-15_SH040441750000_109626193132_2021-11-02T16:57:12Z_p20706981_i_h10_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
     {
       "programTitle": "NFL Live",
       "episodeTitle": "",
       "description": "Wendi Nix and analysts break down the latest news in the NFL, offering views on players, coaches and management.",
-      "scheduledDate": 1789412400000,
-      "duration": 120,
+      "scheduledDate": 1789502400000,
+      "duration": 60,
       "parentalRating": "",
       "programType": "Sports non-event",
       "genre": "Football",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-09-14_SH033280050000_112279371150_2022-08-27T02:25:47Z_p267723_i_h8_ae/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-09-15_SH033280050000_112279371150_2022-08-27T02:25:47Z_p267723_i_h8_ae/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "2026 FIBA Women's Basketball World Cup",
-      "episodeTitle": "Final: Teams TBA",
-      "description": "From Uber Arena in Berlin.",
-      "scheduledDate": 1789417800000,
-      "duration": 30,
-      "parentalRating": "",
-      "programType": "Sports event",
-      "genre": "Basketball",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-09-14_SH065882380000_112543242535_2026-08-25T17:35:23Z_p33580700_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
-    {
-      "programTitle": "SportsCenter",
+      "programTitle": "SC: Australia Weekly",
       "episodeTitle": "",
-      "description": "The team deliver the latest news, highlights, and inside information from the wide world of sports, as well as trending topics across social media platforms.",
-      "scheduledDate": 1789419600000,
+      "description": "Delivers key sporting news, major highlights and expert analysis.",
+      "scheduledDate": 1789506000000,
       "duration": 30,
       "parentalRating": "",
-      "programType": "Sports non-event",
-      "genre": "News, Sports talk",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-09-14_SH033259060000_109832503473_2018-04-18T10:39:00Z_p186674_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "programType": "Series",
+      "genre": "News",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-09-15_SH065376100000_111577890861_2026-08-05T03:16:28Z_p30227362_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "Pardon the Interruption",
       "episodeTitle": "",
       "description": "Tony Kornheiser and Mike Wilbon have intense discussions and interview guests about the top headlines in news and sports.",
-      "scheduledDate": 1789421400000,
+      "scheduledDate": 1789507800000,
       "duration": 30,
       "parentalRating": "",
       "programType": "Sports non-event",
       "genre": "Sports talk",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-09-14_SH032424080000_108239731292_2021-04-08T22:26:28Z_p186288_i_h8_ae/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
-    {
-      "programTitle": "Monday Night Countdown",
-      "episodeTitle": "",
-      "description": "Analysts Matt Hasselbeck, Robert Griffin III and Scott Van Pelt discuss Sunday's NFL games and the latest league news.",
-      "scheduledDate": 1789423200000,
-      "duration": 120,
-      "parentalRating": "",
-      "programType": "Sports non-event",
-      "genre": "Football",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-09-14_SH033280040000_112077074161_2024-11-21T10:13:40Z_p806866_i_h11_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
-    {
-      "programTitle": "Monday Night Kickoff",
-      "episodeTitle": "",
-      "description": "NFL analysts Eric Allen, Merril Hoge, Sean Salisbury, and Mark Schlereth preview the Monday night football action.",
-      "scheduledDate": 1789430400000,
-      "duration": 15,
-      "parentalRating": "",
-      "programType": "Sports non-event",
-      "genre": "Sports talk, Football",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-09-15_SH033280030000_112500513209_2023-09-22T16:44:06Z_p15740913_i_h11_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
-    {
-      "programTitle": "NFL Football",
-      "episodeTitle": "Kansas City Chiefs vs Denver Broncos",
-      "description": "From Arrowhead Stadium in Kansas City, MO.",
-      "scheduledDate": 1789431300000,
-      "duration": 180,
-      "parentalRating": "",
-      "programType": "Sports event",
-      "genre": "Football",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-09-15_EP029371131850_112575786626_2026-07-15T04:34:04Z_GNLZZGG0039KGJB/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
-    {
-      "programTitle": "Monday Night Postgame",
-      "episodeTitle": "",
-      "description": "A recap of the Monday Night Footy match with highlights, interviews and more.",
-      "scheduledDate": 1789442100000,
-      "duration": 15,
-      "parentalRating": "",
-      "programType": "Sports non-event",
-      "genre": "Football",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-09-15_SH039852720000_112128517583_2023-09-22T16:53:40Z_p20481475_i_h10_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
-    {
-      "programTitle": "SportsCenter With Scott Van Pelt",
-      "episodeTitle": "",
-      "description": "Scott Van Pelt presents the day in sport through his unique perspective with highlights, special guests and his One Big Thing commentary.",
-      "scheduledDate": 1789443000000,
-      "duration": 60,
-      "parentalRating": "",
-      "programType": "Sports non-event",
-      "genre": "News, Sports talk",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-09-15_SH034580420000_111889810065_2017-02-22T22:01:00Z_p13816005_i_h10_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-09-15_SH032424080000_108239731292_2021-04-08T22:26:28Z_p186288_i_h8_ae/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "SportsCenter",
       "episodeTitle": "",
       "description": "The team deliver the latest news, highlights, and inside information from the wide world of sports, as well as trending topics across social media platforms.",
-      "scheduledDate": 1789446600000,
+      "scheduledDate": 1789509600000,
       "duration": 60,
       "parentalRating": "",
       "programType": "Sports non-event",
@@ -119,7 +64,7 @@
       "programTitle": "SC: Australia Weekly",
       "episodeTitle": "",
       "description": "Delivers key sporting news, major highlights and expert analysis.",
-      "scheduledDate": 1789450200000,
+      "scheduledDate": 1789513200000,
       "duration": 30,
       "parentalRating": "",
       "programType": "Series",
@@ -127,103 +72,202 @@
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-09-15_SH065376100000_111577890861_2026-08-05T03:16:28Z_p30227362_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "NFL Football",
-      "episodeTitle": "Kansas City Chiefs vs Denver Broncos",
-      "description": "From Arrowhead Stadium in Kansas City, MO.",
-      "scheduledDate": 1789452000000,
-      "duration": 120,
+      "programTitle": "SportsCenter Australia & NZ",
+      "episodeTitle": "",
+      "description": "Looks at the day's essential US sports news, highlights and analysis across NFL, NBA, MLB, NHL, college sports, major events and more.",
+      "scheduledDate": 1789515000000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Series",
+      "genre": "Sports talk",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-09-15_SH034494390000_102282491960_2020-04-24T17:20:20Z_p16719850_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "MLB Baseball",
+      "episodeTitle": "Texas Rangers vs Boston Red Sox",
+      "description": "From Globe Life Field in Arlington, Texas.",
+      "scheduledDate": 1789516800000,
+      "duration": 180,
       "parentalRating": "",
       "programType": "Sports event",
-      "genre": "Football",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-09-15_EP029371131850_112575786626_2026-07-15T04:34:04Z_GNLZZGG0039KGJB/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "genre": "Baseball",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-09-16_EP062580852736_112653308059_2026-06-27T19:32:14Z_GNLZZGG0037TXBH/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "SC: Australia Weekly",
+      "programTitle": "SportsCenter",
       "episodeTitle": "",
-      "description": "Delivers key sporting news, major highlights and expert analysis.",
-      "scheduledDate": 1789459200000,
+      "description": "The team deliver the latest news, highlights, and inside information from the wide world of sports, as well as trending topics across social media platforms.",
+      "scheduledDate": 1789527600000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "News, Sports talk",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-09-16_SH033259060000_109832503473_2018-04-18T10:39:00Z_p186674_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "SportsCenter",
+      "episodeTitle": "",
+      "description": "The team deliver the latest news, highlights, and inside information from the wide world of sports, as well as trending topics across social media platforms.",
+      "scheduledDate": 1789531200000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "News, Sports talk",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-09-16_SH033259060000_109832503473_2018-04-18T10:39:00Z_p186674_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Meadowlands Racetrack Wiener Dog Derby",
+      "episodeTitle": "",
+      "description": "",
+      "scheduledDate": 1789534800000,
       "duration": 30,
       "parentalRating": "",
-      "programType": "Series",
-      "genre": "News",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-09-15_SH065376100000_111577890861_2026-08-05T03:16:28Z_p30227362_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "programType": "Sports non-event",
+      "genre": "Special, Animals, Pets",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-09-16_SH065465990000_112184069105_2026-07-27T16:46:24Z_p33659309_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Great American Events",
+      "episodeTitle": "T-Rex World Championship Races at Emerald Downs",
+      "description": "Showcases a mix of major national sporting events and distinct local competitions across America.",
+      "scheduledDate": 1789536600000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Multi-sport event",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-09-16_SH035458390000_112188351207_2020-02-10T07:55:13Z_p709459_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Turf Wars Adult Kickball: Battle of The Stars",
+      "episodeTitle": "",
+      "description": "Showcasing top-tier adult kickball action from the leading Turf Wars circuit.",
+      "scheduledDate": 1789538400000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Special, Outdoors",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-09-16_SH065515090000_112182920900_2026-07-23T16:16:02Z_p33658266_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Turf Wars Adult Kickball: Battle of The Stars",
+      "episodeTitle": "",
+      "description": "Showcasing top-tier adult kickball action from the leading Turf Wars circuit.",
+      "scheduledDate": 1789540200000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Special, Outdoors",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-09-16_SH065515090000_112182920900_2026-07-23T16:16:02Z_p33658266_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "14 Days in Gainesville",
+      "episodeTitle": "",
+      "description": "",
+      "scheduledDate": 1789542000000,
+      "duration": 90,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Special, Documentary",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-09-16_SH066137920000_112690942436_2026-09-15T17:15:17Z_p34100260_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Great American Events",
+      "episodeTitle": "Donk Toss Bikini Island Challenge",
+      "description": "The cast of Bikini Island come for a heated doubles tournament, paired with the OG DONK founders.",
+      "scheduledDate": 1789543800000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Multi-sport event",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-09-16_SH035458390000_112188351207_2020-02-10T07:55:13Z_p709459_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "ESPN FC",
       "episodeTitle": "",
       "description": "ESPN FC brings you a round-up of the latest news from the world of football, including in-depth analysis and exclusive interviews.",
-      "scheduledDate": 1789461000000,
+      "scheduledDate": 1789547400000,
       "duration": 30,
       "parentalRating": "",
       "programType": "Series",
       "genre": "Soccer, Sports talk",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-09-15_SH033236780000_109573421566_2026-05-25T06:15:30Z_p10106369_i_h11_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-09-16_SH033236780000_109573421566_2026-05-25T06:15:30Z_p10106369_i_h11_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "NFL Football",
-      "episodeTitle": "Kansas City Chiefs vs Denver Broncos",
-      "description": "From Arrowhead Stadium in Kansas City, MO.",
-      "scheduledDate": 1789462800000,
-      "duration": 150,
+      "programTitle": "MLB Baseball",
+      "episodeTitle": "Texas Rangers vs Boston Red Sox",
+      "description": "From Globe Life Field in Arlington, Texas.",
+      "scheduledDate": 1789549200000,
+      "duration": 120,
       "parentalRating": "",
       "programType": "Sports event",
-      "genre": "Football",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-09-15_EP029371131850_112575786626_2026-07-15T04:34:04Z_GNLZZGG0039KGJB/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "genre": "Baseball",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-09-16_EP062580852736_112653308059_2026-06-27T19:32:14Z_GNLZZGG0037TXBH/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "SC: Australia Weekly",
       "episodeTitle": "",
       "description": "Delivers key sporting news, major highlights and expert analysis.",
-      "scheduledDate": 1789471800000,
+      "scheduledDate": 1789556400000,
       "duration": 30,
       "parentalRating": "",
       "programType": "Series",
       "genre": "News",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-09-15_SH065376100000_111577890861_2026-08-05T03:16:28Z_p30227362_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-09-16_SH065376100000_111577890861_2026-08-05T03:16:28Z_p30227362_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "ESPN FC",
+      "episodeTitle": "",
+      "description": "ESPN FC brings you a round-up of the latest news from the world of football, including in-depth analysis and exclusive interviews.",
+      "scheduledDate": 1789558200000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Series",
+      "genre": "Soccer, Sports talk",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-09-16_SH033236780000_109573421566_2026-05-25T06:15:30Z_p10106369_i_h11_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "Get Up",
       "episodeTitle": "",
       "description": "Mike Greenberg, Laura Rutledge and Jalen Rose discuss and analyse the latest news from the world of sports.",
-      "scheduledDate": 1789473600000,
+      "scheduledDate": 1789560000000,
       "duration": 120,
       "parentalRating": "",
       "programType": "Sports non-event",
       "genre": "Sports talk",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-09-15_SH033268270000_107093139583_2026-03-24T04:04:44Z_p15158780_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-09-16_SH033268270000_107093139583_2026-03-24T04:04:44Z_p15158780_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "First Take",
       "episodeTitle": "",
       "description": "Stephen A. Smith joins Molly Qerim Rose to debate the hottest topics in sports.",
-      "scheduledDate": 1789480800000,
+      "scheduledDate": 1789567200000,
       "duration": 120,
       "parentalRating": "",
       "programType": "Sports non-event",
       "genre": "Sports talk, News, Debate",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-09-15_SH033280060000_108193810385_2025-11-07T06:36:14Z_p186291_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-09-16_SH033280060000_108193810385_2025-11-07T06:36:14Z_p186291_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "The Pat McAfee Show",
       "episodeTitle": "",
       "description": "Former NFL punter Pat McAfee brings his humour, sarcasm and candour to the microphone to highlight the day's top stories.",
-      "scheduledDate": 1789488000000,
-      "duration": 120,
+      "scheduledDate": 1789574400000,
+      "duration": 60,
       "parentalRating": "",
       "programType": "Series",
       "genre": "Sports talk",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-09-15_SH048483860000_111648065422_2020-09-10T14:31:07Z_p18762527_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-09-16_SH048483860000_111648065422_2020-09-10T14:31:07Z_p18762527_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "Big Day With Peter Schrager",
-      "episodeTitle": "",
-      "description": "",
-      "scheduledDate": 1789495200000,
-      "duration": 60,
+      "programTitle": "MLB Baseball",
+      "episodeTitle": "Cleveland Guardians vs Chicago White Sox",
+      "description": "From Progressive Field in Cleveland.",
+      "scheduledDate": 1789578000000,
+      "duration": 180,
       "parentalRating": "",
-      "programType": "Sports non-event",
-      "genre": "Football",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-09-15_SH066067040000_112518379169_2026-09-10T19:25:26Z_p34014283_i_h10_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "programType": "Sports event",
+      "genre": "Baseball",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-09-16_EP062580852729_112619229502_2026-06-27T19:39:10Z_GNLZZGG0037TVGK/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     }
   ]
 }
