@@ -2,8 +2,8 @@
   "channel": "RTV",
   "date": "2026-09-18",
   "source": "kayo",
-  "fetchedAt": 1789575522202,
-  "fetchedAtIST": "16/9/2026, 9:48:42 pm",
+  "fetchedAt": 1789598454947,
+  "fetchedAtIST": "17/9/2026, 4:10:54 am",
   "events": [
     {
       "programTitle": "Get on SA",
@@ -94,15 +94,15 @@
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/Fallback_LTV_Racing_TV/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "Famous Five",
+      "programTitle": "Racing Live",
       "episodeTitle": "",
-      "description": "Sam Doran takes a look back at five of the most memorable editions of different horse races held around Australia.",
+      "description": "Features comprehensive coverage of some of the top horse racing events taking place in Australia and Hong Kong.",
       "scheduledDate": 1789698600000,
-      "duration": 30,
+      "duration": 285,
       "parentalRating": "",
-      "programType": "Sports event",
-      "genre": "Classic sport event, Horse racing",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/148460_2026-09-18_SH040610410000_112115908217_2021-10-18T06:17:14Z_p20855944_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "programType": "Series",
+      "genre": "Horse racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/148460_2026-09-18_SH029317280000_112642301077_2019-10-09T21:00:41Z_p15322312_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "Racing Live",
