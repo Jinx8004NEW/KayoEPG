@@ -1,0 +1,53 @@
+{
+  "channel": "FSP",
+  "date": "2026-09-19",
+  "source": "kayo",
+  "fetchedAt": 1789530320902,
+  "fetchedAtIST": "16/9/2026, 9:15:20 am",
+  "events": [
+    {
+      "programTitle": "SailGP",
+      "episodeTitle": "Valencia, Day 2",
+      "description": "",
+      "scheduledDate": 1789756200000,
+      "duration": 90,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Sailing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-09-18_SH051028760000_112367882509_2021-04-23T21:46:53Z_p19827810_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Formula 1",
+      "episodeTitle": "Spanish Grand Prix",
+      "description": "From the Circuito de Madring in Madrid.",
+      "scheduledDate": 1789761600000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Auto racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-09-18_EP027326820865_112677691972_2026-09-11T12:49:44Z_GNLZZGG003NL8J1/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "PBR Bull Riding",
+      "episodeTitle": "",
+      "description": "Coverage of the action from the Professional Bull Riders events.",
+      "scheduledDate": 1789768800000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Bull riding",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-09-18_SH033364560000_110114392996_2017-09-14T16:13:00Z_p12572769_i_h10_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "States of Mind",
+      "episodeTitle": "",
+      "description": "",
+      "scheduledDate": 1789772400000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Special",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/Fallback_LTV_Fox_Sports_505/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    }
+  ]
+}

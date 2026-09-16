@@ -1,0 +1,75 @@
+{
+  "channel": "ES2",
+  "date": "2026-09-19",
+  "source": "kayo",
+  "fetchedAt": 1789530320932,
+  "fetchedAtIST": "16/9/2026, 9:15:20 am",
+  "events": [
+    {
+      "programTitle": "Get Up",
+      "episodeTitle": "",
+      "description": "Mike Greenberg, Laura Rutledge and Jalen Rose discuss and analyse the latest news from the world of sports.",
+      "scheduledDate": 1789758000000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Sports talk",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-09-18_SH033268270000_107093139583_2026-03-24T04:04:44Z_p15158780_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NFL Blitz",
+      "episodeTitle": "",
+      "description": "All of the best action from the National Football League.",
+      "scheduledDate": 1789765200000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Family, Football, News, Newsmagazine",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-09-18_SH060667300000_110937783149_2022-09-12T05:46:51Z_p22911383_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "College Football Live",
+      "episodeTitle": "",
+      "description": "Breaking news, analysis, features, roundtable discussions, and interviews covering all the latest events from the world of college football.",
+      "scheduledDate": 1789767000000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Football, News",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-09-18_SH033651660000_112673605497_2017-12-12T23:22:00Z_p221266_i_h10_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "SportsCenter",
+      "episodeTitle": "",
+      "description": "The team deliver the latest news, highlights, and inside information from the wide world of sports, as well as trending topics across social media platforms.",
+      "scheduledDate": 1789768800000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "News, Sports talk",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-09-18_SH033259060000_109832503473_2018-04-18T10:39:00Z_p186674_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "College Football Countdown",
+      "episodeTitle": "",
+      "description": "This pre-game, half-time and post-game show airs each Saturday during the college football season, with former NFL offensive lineman Mark May and Texas head coach Mack Brown sitting in the analysts' chairs.",
+      "scheduledDate": 1789772400000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-09-18_SH033280090000_112673605459_2017-09-16T00:03:00Z_p221260_i_h10_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "College Football",
+      "episodeTitle": "Wake Forest vs Miami",
+      "description": "From Allegacy Federal Credit Union Stadium in Winston Salem, N.C.",
+      "scheduledDate": 1789774200000,
+      "duration": 180,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-09-18_EP064738030343_112688646246_2026-06-19T07:22:50Z_GNLZZGG0036WB7T/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    }
+  ]
+}

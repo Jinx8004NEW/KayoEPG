@@ -1,0 +1,31 @@
+{
+  "channel": "FS3",
+  "date": "2026-09-19",
+  "source": "kayo",
+  "fetchedAt": 1789530320892,
+  "fetchedAtIST": "16/9/2026, 9:15:20 am",
+  "events": [
+    {
+      "programTitle": "PGA Tour Golf",
+      "episodeTitle": "Biltmore Championship Asheville, Second Round",
+      "description": "From The Cliffs at Walnut Cove in Asheville, N.C.",
+      "scheduledDate": 1789758000000,
+      "duration": 180,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-09-18_EP030899371423_112667806855_2026-09-15T03:23:01Z_GNLZZGG003P0ZZX/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "PGA Tour Champions Golf",
+      "episodeTitle": "PURE Insurance Championship, First Round",
+      "description": "From Pebble Beach Golf Links in Pebble Beach, Calif.",
+      "scheduledDate": 1789768800000,
+      "duration": 180,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-09-18_EP034248570379_112649241820_2025-08-07T16:24:12Z_p30853261_b_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    }
+  ]
+}

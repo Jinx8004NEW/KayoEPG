@@ -2,8 +2,8 @@
   "channel": "FS3",
   "date": "2026-09-18",
   "source": "kayo",
-  "fetchedAt": 1789512254226,
-  "fetchedAtIST": "16/9/2026, 4:14:14 am",
+  "fetchedAt": 1789530320891,
+  "fetchedAtIST": "16/9/2026, 9:15:20 am",
   "events": [
     {
       "programTitle": "PGA Tour Golf",
@@ -48,6 +48,94 @@
       "programType": "Sports event",
       "genre": "Golf",
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-09-17_EP034202650199_112649241750_2026-08-25T19:34:16Z_p33752767_b_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Ladies Euro Tour Golf",
+      "episodeTitle": "La Sella Open, First Round",
+      "description": "Golf action from the Ladies European Tour.",
+      "scheduledDate": 1789693200000,
+      "duration": 90,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-09-18_SH033826880000_112279482585_2025-02-19T19:54:01Z_p8177536_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "PGA Tour Golf",
+      "episodeTitle": "Biltmore Championship Asheville, First Round",
+      "description": "From The Cliffs at Walnut Cove in Asheville, N.C.",
+      "scheduledDate": 1789698600000,
+      "duration": 90,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-09-18_EP030899371422_112690692869_2026-09-14T13:20:57Z_GNLZZGG003NEX6P/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "DP World Tour Golf",
+      "episodeTitle": "BMW PGA Championship, First Round",
+      "description": "From Wentworth Club in Virginia Water, Surrey, United Kingdom.",
+      "scheduledDate": 1789704000000,
+      "duration": 90,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-09-18_EP040914080706_112682445341_2026-09-15T11:26:42Z_GNLZZGG003P1L4S/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "PGA Korn Ferry Tour Golf",
+      "episodeTitle": "Nationwide Children's Hospital Championship, First Round",
+      "description": "From The Ohio State University Golf Club in Upper Arlington, Ohio.",
+      "scheduledDate": 1789709400000,
+      "duration": 90,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-09-18_EP034202650199_112649241750_2026-08-25T19:34:16Z_p33752767_b_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "2026 Solheim Cup",
+      "episodeTitle": "Highlights",
+      "description": "",
+      "scheduledDate": 1789714800000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-09-18_SH065998810000_112643879378_2026-08-05T21:08:37Z_p33713632_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Ladies Euro Tour Golf",
+      "episodeTitle": "La Sella Open, First Round",
+      "description": "Golf action from the Ladies European Tour.",
+      "scheduledDate": 1789718400000,
+      "duration": 90,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-09-18_SH033826880000_112279482585_2025-02-19T19:54:01Z_p8177536_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "PGA Tour Golf",
+      "episodeTitle": "Biltmore Championship Asheville, First Round",
+      "description": "From The Cliffs at Walnut Cove in Asheville, N.C.",
+      "scheduledDate": 1789723800000,
+      "duration": 90,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-09-18_EP030899371422_112690692869_2026-09-14T13:20:57Z_GNLZZGG003NEX6P/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "PGA Tour Golf",
+      "episodeTitle": "",
+      "description": "Coverage of golf tournaments played around the world.",
+      "scheduledDate": 1789729200000,
+      "duration": 480,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-09-18_SH030899370000_110982182699_2025-07-31T11:34:53Z_p845788_i_h8_af/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     }
   ]
 }
