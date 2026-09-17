@@ -2,8 +2,8 @@
   "channel": "SPS",
   "date": "2026-09-19",
   "source": "kayo",
-  "fetchedAt": 1789598454925,
-  "fetchedAtIST": "17/9/2026, 4:10:54 am",
+  "fetchedAt": 1789617022882,
+  "fetchedAtIST": "17/9/2026, 9:20:22 am",
   "events": [
     {
       "programTitle": "NASCAR Cup Racing Series",
@@ -37,6 +37,182 @@
       "programType": "Sports event",
       "genre": "Auto racing",
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-09-18_EP062929950025_112728046457_2026-09-14T13:20:45Z_GNLZZGG003NEX6D/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Supercars Championship",
+      "episodeTitle": "Highlights - AirTouch 500 at The Bend",
+      "description": "Highlights and replays of classic races of the international motor racing series for Supercars.",
+      "scheduledDate": 1789783200000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Series",
+      "genre": "Auto racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-09-19_SH035728470000_102439454374_2018-12-17T21:00:00Z_p16276370_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "FIM Endurance World Championship Motorcycle Racing",
+      "episodeTitle": "8 Hours of Suzuka",
+      "description": "Jack Miller swaps Grand Prix duties for endurance action as he takes on the Suzuka 8 Hours, one of the crown jewels of the FIM Endurance World Championship.",
+      "scheduledDate": 1789786800000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Classic sport event, Motorcycle",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-09-19_SH034903020000_112454543665_2022-06-01T21:25:54Z_p9170851_b_h10_bd/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Moto2 GP Racing",
+      "episodeTitle": "Red Bull Grand Prix of San Marino and the Rimini Riviera",
+      "description": "From Misano World Circuit Marco Simoncelli in Misano Adriatico, Rimini, Italy.",
+      "scheduledDate": 1789790400000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Motorcycle racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-09-19_EP046925380375_112604566970_2026-09-11T09:43:20Z_GNLZZGG003NZPMT/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "MotoGP Racing",
+      "episodeTitle": "Grand Prix of San Marino and the Rimini Riviera, Sprint Race",
+      "description": "From Misano World Circuit Marco Simoncelli in Misano Adriatico, Rimini, Italy.",
+      "scheduledDate": 1789794000000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Motorcycle racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-09-19_EP028104881564_112564936202_2026-09-11T09:48:42Z_GNLZZGG003NZS84/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "MotoGP Racing",
+      "episodeTitle": "Grand Prix of San Marino and the Rimini Riviera",
+      "description": "From Misano World Circuit Marco Simoncelli in Misano Adriatico, Rimini, Italy.",
+      "scheduledDate": 1789795800000,
+      "duration": 65,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Motorcycle racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-09-19_EP028104881565_112673347901_2026-09-11T18:02:01Z_GNLZZGG003NQ4HM/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Moto3 GP Racing",
+      "episodeTitle": "Qatar Airways Grand Prix of Austria, Practice",
+      "description": "From Red Bull Ring in Austria.",
+      "scheduledDate": 1789799700000,
+      "duration": 40,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Motorcycle racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-09-19_EP046925390388_112673605523_2026-09-14T15:22:21Z_GNLZZGG003NEQ2Z/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Moto2 GP Racing",
+      "episodeTitle": "Qatar Airways Grand Prix of Austria, Practice",
+      "description": "From Red Bull Ring in Austria.",
+      "scheduledDate": 1789802100000,
+      "duration": 45,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Motorcycle racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-09-19_EP046925380379_112673605360_2026-09-14T15:22:27Z_GNLZZGG003NEQ3T/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "MotoGP Racing",
+      "episodeTitle": "Qatar Airways Grand Prix of Austria, Practice",
+      "description": "From Red Bull Ring in Austria.",
+      "scheduledDate": 1789804800000,
+      "duration": 45,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Motorcycle racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-09-19_EP028104881568_112673605673_2026-09-14T17:20:35Z_GNLZZGG003P04F6/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "MotoGP Racing",
+      "episodeTitle": "Qatar Airways Grand Prix of Austria, Qualifying",
+      "description": "From Red Bull Ring in Austria.",
+      "scheduledDate": 1789807500000,
+      "duration": 65,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Motorcycle racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-09-19_EP028104881569_112682428479_2026-09-15T11:26:51Z_GNLZZGG003P1L87/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "MotoGP Racing",
+      "episodeTitle": "Inside Ducati: San Marino",
+      "description": "Action from MotoGP racing.",
+      "scheduledDate": 1789811400000,
+      "duration": 15,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Family, Classic sport event, Motorcycle racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-09-19_SH035853180000_112358172067_2017-10-24T00:43:00Z_p445588_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "MotoGP Racing",
+      "episodeTitle": "BWIN Grand Prix of Austria, Sprint Race",
+      "description": "From Red Bull Ring in Austria.",
+      "scheduledDate": 1789812300000,
+      "duration": 35,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Motorcycle racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-09-19_SH028104880000_112186554419_2025-04-17T20:03:48Z_p445587_i_h8_ae/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Moto3 GP Racing",
+      "episodeTitle": "BWIN Grand Prix of Austria, Qualifying",
+      "description": "From Red Bull Ring in Austria.",
+      "scheduledDate": 1789814400000,
+      "duration": 55,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Motorcycle racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-09-19_SH046925390000_110253896884_2025-03-18T14:45:03Z_p15289756_i_h8_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Moto2 GP Racing",
+      "episodeTitle": "Qatar Airways Grand Prix of Austria, Qualifying",
+      "description": "From Red Bull Ring in Austria.",
+      "scheduledDate": 1789817700000,
+      "duration": 55,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Motorcycle racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-09-19_EP046925380381_112673605415_2026-09-14T15:21:45Z_GNLZZGG003NEQ09/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "MotoGP Racing",
+      "episodeTitle": "Qatar Airways Grand Prix of Austria, Sprint Race",
+      "description": "From Red Bull Ring in Austria.",
+      "scheduledDate": 1789821000000,
+      "duration": 75,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Motorcycle racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-09-19_EP028104881570_112677753130_2026-09-15T09:22:02Z_GNLZZGG003P1M6P/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "ETPL",
+      "episodeTitle": "Qualifier: Teams TBA",
+      "description": "",
+      "scheduledDate": 1789825500000,
+      "duration": 195,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Cricket",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-09-19_SH065792820000_112411227428_2026-08-12T15:16:06Z_p33837247_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "FIM Speedway Grand Prix Series",
+      "episodeTitle": "Round 10: Poland",
+      "description": "Professional riders compete in a motorcycle speedway racing competition organised by the International Motorcycling Federation (FIM) to emerge victorious and win the coveted title.",
+      "scheduledDate": 1789837200000,
+      "duration": 180,
+      "parentalRating": "",
+      "programType": "Series",
+      "genre": "Motorcycle",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-09-19_SH052529490000_109961681573_2024-01-30T22:43:07Z_p7832673_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     }
   ]
 }

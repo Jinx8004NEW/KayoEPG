@@ -2,8 +2,8 @@
   "channel": "ESP",
   "date": "2026-09-19",
   "source": "kayo",
-  "fetchedAt": 1789598454934,
-  "fetchedAtIST": "17/9/2026, 4:10:54 am",
+  "fetchedAt": 1789617022894,
+  "fetchedAtIST": "17/9/2026, 9:20:22 am",
   "events": [
     {
       "programTitle": "NBA Today",
@@ -81,6 +81,149 @@
       "programType": "Sports event",
       "genre": "Baseball",
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-09-18_EP062580852754_112726114019_2026-06-27T19:27:36Z_GNLZZGG0037VGWV/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "MLB Epic Moments",
+      "episodeTitle": "Pedro's Peak",
+      "description": "Thought to be unavailable to pitch in Game 5 of the 1999 ALDS against Cleveland because of an injury suffered in Game 1, Pedro Martinez instead authored one of the single most inspiring performances in postseason history.",
+      "scheduledDate": 1789783200000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Series",
+      "genre": "Baseball",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-09-19_EP034893820004_112673605503_2023-02-17T07:17:41Z_p11227816_e_h11_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NFL Blitz",
+      "episodeTitle": "",
+      "description": "All of the best action from the National Football League.",
+      "scheduledDate": 1789785000000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Family, Football, News, Newsmagazine",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-09-19_SH060667300000_110937783149_2022-09-12T05:46:51Z_p22911383_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "MLB 25: Greatest Postseason Home Runs",
+      "episodeTitle": "",
+      "description": "MLB 25 take a look at the greatest postseason Home Runs.",
+      "scheduledDate": 1789786800000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Special, Baseball",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-09-19_SH038916670000_112673605616_2020-04-07T18:35:18Z_p18143212_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "SportsCenter",
+      "episodeTitle": "Top Plays of August",
+      "description": "The team deliver the latest news, highlights, and inside information from the wide world of sports, as well as trending topics across social media platforms.",
+      "scheduledDate": 1789790400000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "News, Sports talk",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-09-19_SH033259060000_109832503473_2018-04-18T10:39:00Z_p186674_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "SEC Storied",
+      "episodeTitle": "BAMA SB",
+      "description": "The 2012 Alabama softball team captures the SEC's first national title in the sport with a talented team powered by friendship, grit, and selflessness.",
+      "scheduledDate": 1789792200000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Documentary",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-09-19_EP033491980048_112673646051_2025-03-27T03:44:16Z_p26998278_e_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "College Football",
+      "episodeTitle": "Wake Forest vs Miami",
+      "description": "From Allegacy Federal Credit Union Stadium in Winston Salem, N.C.",
+      "scheduledDate": 1789795800000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-09-19_EP064738030343_112688646246_2026-06-19T07:22:50Z_GNLZZGG0036WB7T/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Equestrianism",
+      "episodeTitle": "Spruce Meadows",
+      "description": "Features highlights and action from global equestrian events.",
+      "scheduledDate": 1789803000000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Classic sport event, Equestrian",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-09-19_SH033378090000_112551754366_2026-02-23T05:36:25Z_p8199266_i_h10_ap/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "ESPN FC",
+      "episodeTitle": "",
+      "description": "ESPN FC brings you a round-up of the latest news from the world of football, including in-depth analysis and exclusive interviews.",
+      "scheduledDate": 1789806600000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Series",
+      "genre": "Soccer, Sports talk",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-09-19_SH033236780000_109573421566_2026-05-25T06:15:30Z_p10106369_i_h11_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NBL Pregame",
+      "episodeTitle": "",
+      "description": "A preview of upcoming games from the National Basketball League.",
+      "scheduledDate": 1789808400000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Basketball",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-09-19_SH048723300000_112673605432_2023-09-20T11:04:17Z_p25650942_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NBL Basketball",
+      "episodeTitle": "Melbourne United vs Adelaide 36ers",
+      "description": "Live from John Cain Arena. Tip off at 7:30PM AEST.",
+      "scheduledDate": 1789810200000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Basketball",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-09-19_EP028902080627_112673605677_2026-08-31T16:54:32Z_GNLZZGG003JKZ0S/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NBL",
+      "episodeTitle": "Perth Wildcats vs South East Melbourne Phoenix",
+      "description": "Live from RAC Arena. Tip off at 9:30PM AEST.",
+      "scheduledDate": 1789817400000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Basketball",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-09-19_EP029269501364_112673646075_2026-08-31T17:16:50Z_GNLZZGG003JL4TQ/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "College GameDay",
+      "episodeTitle": "",
+      "description": "Rece Davis, Lee Corso, Kirk Herbstreit, and Desmond Howard provide their take on US football, complete with reports and unique analysis.",
+      "scheduledDate": 1789824600000,
+      "duration": 150,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-09-19_SH033268870000_112730117322_2024-11-04T17:34:02Z_p629309_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "College Football",
+      "episodeTitle": "Arkansas vs Georgia",
+      "description": "From Donald W. Reynolds Razorback Stadium in Fayetteville, Ark.",
+      "scheduledDate": 1789833600000,
+      "duration": 180,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-09-19_EP064738030398_112733350439_2026-06-19T07:25:04Z_GNLZZGG0036WTB3/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     }
   ]
 }
