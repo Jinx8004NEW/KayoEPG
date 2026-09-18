@@ -2,9 +2,31 @@
   "channel": "FAF",
   "date": "2026-09-19",
   "source": "kayo",
-  "fetchedAt": 1789702631154,
-  "fetchedAtIST": "18/9/2026, 9:07:11 am",
+  "fetchedAt": 1789721473125,
+  "fetchedAtIST": "18/9/2026, 2:21:13 pm",
   "events": [
+    {
+      "programTitle": "F",
+      "episodeTitle": "",
+      "description": "",
+      "scheduledDate": 1789763400000,
+      "duration": 15,
+      "parentalRating": "",
+      "programType": "",
+      "genre": "",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/Fallback_LTV_Fox_Footy/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "F",
+      "episodeTitle": "",
+      "description": "",
+      "scheduledDate": 1789764300000,
+      "duration": 150,
+      "parentalRating": "",
+      "programType": "",
+      "genre": "",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/Fallback_LTV_Fox_Footy/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
     {
       "programTitle": "Sport Special",
       "episodeTitle": "",
@@ -17,15 +39,81 @@
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/Fallback_LTV_Fox_Footy/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "Sport Special",
+      "programTitle": "F",
       "episodeTitle": "",
-      "description": "Tune into the latest news and comprehensive analysis of different sporting events around the globe.",
+      "description": "",
+      "scheduledDate": 1789773300000,
+      "duration": 15,
+      "parentalRating": "",
+      "programType": "",
+      "genre": "",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/Fallback_LTV_Fox_Footy/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "F",
+      "episodeTitle": "",
+      "description": "",
+      "scheduledDate": 1789774200000,
+      "duration": 150,
+      "parentalRating": "",
+      "programType": "",
+      "genre": "",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/Fallback_LTV_Fox_Footy/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "F",
+      "episodeTitle": "",
+      "description": "",
       "scheduledDate": 1789783200000,
-      "duration": 390,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "",
+      "genre": "",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/Fallback_LTV_Fox_Footy/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "F",
+      "episodeTitle": "",
+      "description": "",
+      "scheduledDate": 1789785000000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "",
+      "genre": "",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/Fallback_LTV_Fox_Footy/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "F",
+      "episodeTitle": "",
+      "description": "",
+      "scheduledDate": 1789792200000,
+      "duration": 90,
+      "parentalRating": "",
+      "programType": "",
+      "genre": "",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/Fallback_LTV_Fox_Footy/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Finals Footy on Fox",
+      "episodeTitle": "Finals Week 3",
+      "description": "Showcases full analysis, live coverage and expert breakdowns of the AFL finals series.",
+      "scheduledDate": 1789797600000,
+      "duration": 75,
       "parentalRating": "",
       "programType": "Sports non-event",
-      "genre": "Other",
+      "genre": "Sports talk, Australian rules football",
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/Fallback_LTV_Fox_Footy/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "AFL",
+      "episodeTitle": "Hawthorn vs. Brisbane Lions",
+      "description": "Live from the MCG. Bounce time: 5:15pm AEST.",
+      "scheduledDate": 1789802100000,
+      "duration": 155,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Playoff sports, Australian rules football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-09-19_EP029151671454_112723231592_2026-09-12T13:42:36Z_GNLZZGG003NYXDP/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "Sport Special",
@@ -39,6 +127,39 @@
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/Fallback_LTV_Fox_Footy/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
+      "programTitle": "Finals Footy on Fox",
+      "episodeTitle": "Finals Week 3",
+      "description": "Showcases full analysis, live coverage and expert breakdowns of the AFL finals series.",
+      "scheduledDate": 1789811400000,
+      "duration": 70,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Sports talk, Australian rules football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/Fallback_LTV_Fox_Footy/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "In the Back Pocket",
+      "episodeTitle": "Brownlow Special",
+      "description": "A team of experts take a look at the betting markets for upcoming matches and try to pick a winner for each match.",
+      "scheduledDate": 1789815600000,
+      "duration": 10,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Sports talk",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/Fallback_LTV_Fox_Footy/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "AFL",
+      "episodeTitle": "Hawthorn vs. Brisbane Lions",
+      "description": "Live from the MCG. Bounce time: 5:15pm AEST.",
+      "scheduledDate": 1789816200000,
+      "duration": 150,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Playoff sports, Australian rules football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-09-19_EP029151671454_112723231592_2026-09-12T13:42:36Z_GNLZZGG003NYXDP/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
       "programTitle": "Sport Special",
       "episodeTitle": "",
       "description": "Tune into the latest news and comprehensive analysis of different sporting events around the globe.",
@@ -50,6 +171,17 @@
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/Fallback_LTV_Fox_Footy/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
+      "programTitle": "AFL",
+      "episodeTitle": "Sydney Swans vs. Fremantle",
+      "description": "Live from the SCG. Bounce time: 7:40pm AEST.",
+      "scheduledDate": 1789825200000,
+      "duration": 150,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Playoff sports, Australian rules football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-09-19_EP029151671453_112723231593_2026-09-11T22:53:57Z_GNLZZGG003NQYR9/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
       "programTitle": "Sport Special",
       "episodeTitle": "",
       "description": "Tune into the latest news and comprehensive analysis of different sporting events around the globe.",
@@ -58,6 +190,28 @@
       "parentalRating": "",
       "programType": "Sports non-event",
       "genre": "Other",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/Fallback_LTV_Fox_Footy/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "F",
+      "episodeTitle": "",
+      "description": "",
+      "scheduledDate": 1789834200000,
+      "duration": 90,
+      "parentalRating": "",
+      "programType": "",
+      "genre": "",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/Fallback_LTV_Fox_Footy/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "F",
+      "episodeTitle": "",
+      "description": "",
+      "scheduledDate": 1789839600000,
+      "duration": 90,
+      "parentalRating": "",
+      "programType": "",
+      "genre": "",
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/Fallback_LTV_Fox_Footy/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {

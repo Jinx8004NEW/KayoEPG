@@ -1,0 +1,42 @@
+{
+  "channel": "ESP",
+  "date": "2026-09-21",
+  "source": "kayo",
+  "fetchedAt": 1789721473148,
+  "fetchedAtIST": "18/9/2026, 2:21:13 pm",
+  "events": [
+    {
+      "programTitle": "In Depth With Graham Bensinger",
+      "episodeTitle": "Michael Strahan",
+      "description": "NFL veteran and Good Morning America co-host Michael Strahan discusses his controversial move from Live with Kelly and Michael to GMA, business and retirement, his football career, and memories from growing up in Germany.",
+      "scheduledDate": 1789934400000,
+      "duration": 25,
+      "parentalRating": "",
+      "programType": "Series",
+      "genre": "Sports talk, Interview",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-09-20_EP033308670025_112675073345_2025-07-23T15:05:05Z_p15233585_e_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NFL Football",
+      "episodeTitle": "Dallas Cowboys vs Washington Commanders",
+      "description": "From AT&T Stadium in Arlington, Texas.",
+      "scheduledDate": 1789935900000,
+      "duration": 185,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-09-20_EP029371131860_112779442381_2026-07-15T04:36:22Z_GNLZZGG0039L1MF/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NFL Blitz",
+      "episodeTitle": "",
+      "description": "All of the best action from the National Football League.",
+      "scheduledDate": 1789947000000,
+      "duration": 45,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Family, Football, News, Newsmagazine",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-09-20_SH060667300000_110937783149_2022-09-12T05:46:51Z_p22911383_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    }
+  ]
+}

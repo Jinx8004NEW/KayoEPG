@@ -2,8 +2,8 @@
   "channel": "FSS",
   "date": "2026-09-18",
   "source": "kayo",
-  "fetchedAt": 1789702631167,
-  "fetchedAtIST": "18/9/2026, 9:07:11 am",
+  "fetchedAt": 1789721473141,
+  "fetchedAtIST": "18/9/2026, 2:21:13 pm",
   "events": [
     {
       "programTitle": "Formula 1",
@@ -83,22 +83,33 @@
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-09-18_EP033351860214_112691550071_2026-09-14T19:55:48Z_GNLZZGG003P0C55/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "Darts",
-      "episodeTitle": "World Series of Darts Finals: Day 1",
-      "description": "From Salzburgarena in Salzburg, Austria.",
+      "programTitle": "F",
+      "episodeTitle": "",
+      "description": "",
       "scheduledDate": 1789722000000,
       "duration": 120,
       "parentalRating": "",
-      "programType": "Sports event",
-      "genre": "Darts",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-09-18_SH032967320000_109954612423_2024-10-04T13:14:55Z_p644283_i_h8_ah/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "programType": "",
+      "genre": "",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/Fallback_LTV_Fox_Sports_507/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "F",
+      "episodeTitle": "",
+      "description": "",
+      "scheduledDate": 1789729200000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "",
+      "genre": "",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/Fallback_LTV_Fox_Sports_507/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "UFC Countdown",
       "episodeTitle": "UFC: 331 Van vs. Pantoja 2",
       "description": "Go inside the lives and training camps of UFC athletes as they prepare for the next UFC pay-per-view event.",
-      "scheduledDate": 1789729200000,
-      "duration": 60,
+      "scheduledDate": 1789731000000,
+      "duration": 30,
       "parentalRating": "",
       "programType": "Sports non-event",
       "genre": "Mixed martial arts, Documentary",
@@ -107,7 +118,7 @@
     {
       "programTitle": "Fight Week",
       "episodeTitle": "UFC 331",
-      "description": "Fox Sports reporters take a look at the UFC results, previews, and news from the previous UFC Fight Week.",
+      "description": "The best preview of UFC 331 where Joshua Van defends his flyweight title against Alexandre Pantoja.",
       "scheduledDate": 1789732800000,
       "duration": 30,
       "parentalRating": "",
@@ -127,15 +138,37 @@
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-09-18_SH033481830000_108135373984_2018-10-16T10:28:00Z_p276762_i_h10_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "ETPL",
-      "episodeTitle": "",
-      "description": "",
+      "programTitle": "SailGP Highlights",
+      "episodeTitle": "Andalucía - Cádiz, Spain",
+      "description": "Features all the best sailing highlights from competitions across the globe.",
       "scheduledDate": 1789736400000,
-      "duration": 240,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Sailing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/Fallback_LTV_Fox_Sports_507/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "MotorRacing 360",
+      "episodeTitle": "",
+      "description": "Entertaining and informative discussions about all the biggest news across the week in motor sport, including Supercars, Formula 1 and MotoGP.",
+      "scheduledDate": 1789740000000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Series",
+      "genre": "Motorsports",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/Fallback_LTV_Fox_Sports_507/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "WSL Tour",
+      "episodeTitle": "Championship Tour: Lexus Trestles Pro",
+      "description": "Coverage of surfing action from the WSL.",
+      "scheduledDate": 1789743600000,
+      "duration": 480,
       "parentalRating": "",
       "programType": "Sports event",
-      "genre": "Cricket",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-09-18_SH065792820000_112411227428_2026-08-12T15:16:06Z_p33837247_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "genre": "Surfing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-09-18_SH033247690000_110929981520_2019-03-19T05:40:29Z_p16589355_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "WSL Tour",

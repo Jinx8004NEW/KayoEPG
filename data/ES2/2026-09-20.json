@@ -2,8 +2,8 @@
   "channel": "ES2",
   "date": "2026-09-20",
   "source": "kayo",
-  "fetchedAt": 1789702631190,
-  "fetchedAtIST": "18/9/2026, 9:07:11 am",
+  "fetchedAt": 1789721473153,
+  "fetchedAtIST": "18/9/2026, 2:21:13 pm",
   "events": [
     {
       "programTitle": "College Football Scoreboard",
@@ -48,6 +48,127 @@
       "programType": "Sports event",
       "genre": "Football",
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-09-19_EP064738030453_112732866421_2026-06-19T10:30:25Z_GNLZZGG0036X9K6/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "College Football Scoreboard",
+      "episodeTitle": "",
+      "description": "Highlights and up to the minute scores during the college football season, with a look at the major storylines in the competition.",
+      "scheduledDate": 1789869600000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-09-20_SH033268260000_112437273027_2019-12-21T18:40:07Z_p629287_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "College Football",
+      "episodeTitle": "Sacramento State vs North Dakota State",
+      "description": "From Hornet Stadium in Sacramento, Calif.",
+      "scheduledDate": 1789871400000,
+      "duration": 180,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-09-20_EP064738030467_112791866657_2026-06-19T10:32:18Z_GNLZZGG0036XM57/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "SportsCenter",
+      "episodeTitle": "",
+      "description": "The team deliver the latest news, highlights, and inside information from the wide world of sports, as well as trending topics across social media platforms.",
+      "scheduledDate": 1789882200000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "News, Sports talk",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-09-20_SH033259060000_109832503473_2018-04-18T10:39:00Z_p186674_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "College Football",
+      "episodeTitle": "Arkansas vs Georgia",
+      "description": "From Donald W. Reynolds Razorback Stadium in Fayetteville, Ark.",
+      "scheduledDate": 1789885800000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-09-20_EP064738030398_112733350439_2026-06-19T07:25:04Z_GNLZZGG0036WTB3/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "ESPN FC",
+      "episodeTitle": "",
+      "description": "ESPN FC brings you a round-up of the latest news from the world of football, including in-depth analysis and exclusive interviews.",
+      "scheduledDate": 1789893000000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Series",
+      "genre": "Soccer, Sports talk",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-09-20_SH033236780000_109573421566_2026-05-25T06:15:30Z_p10106369_i_h11_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "College Football Final",
+      "episodeTitle": "",
+      "description": "Matt Barrie, Joey Galloway and Jesse Palmer take a look at the latest college football action, recapping the games and discussing the highlights.",
+      "scheduledDate": 1789894800000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-09-20_SH033308190000_112674398131_2018-01-20T00:41:00Z_p221262_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "ESPN FC Shorts",
+      "episodeTitle": "All-Time XI & Divers on the Pitch",
+      "description": "Presents top football highlights in YouTube Shorts.",
+      "scheduledDate": 1789898400000,
+      "duration": 10,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Soccer, News",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-09-20_SH046564100000_112676020402_2023-05-17T15:16:11Z_p24027877_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Eredivisie Soccer",
+      "episodeTitle": "Feyenoord vs FC Utrecht",
+      "description": "From Feijenoord Stadium in Rotterdam, South Holland, Netherlands.",
+      "scheduledDate": 1789899000000,
+      "duration": 125,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Soccer",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-09-20_EP059662140320_112785421314_2026-07-08T19:32:00Z_GNLZZGG0038KCLL/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "College Football",
+      "episodeTitle": "Clemson vs North Carolina",
+      "description": "From Clemson Memorial Stadium in Clemson, S.C.",
+      "scheduledDate": 1789906500000,
+      "duration": 135,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-09-20_EP064738030390_112735338103_2026-06-19T07:24:18Z_GNLZZGG0036WZ7E/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "College Football",
+      "episodeTitle": "Auburn vs Florida",
+      "description": "From Jordan-Hare Stadium in Auburn, Ala.",
+      "scheduledDate": 1789914600000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-09-20_EP064738030453_112732866421_2026-06-19T10:30:25Z_GNLZZGG0036X9K6/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Premier Lacrosse League",
+      "episodeTitle": "Denver Outlaws vs. Philadelphia Waterdogs",
+      "description": "From Sports Illustrated Stadium in Harrison, N.J.",
+      "scheduledDate": 1789921800000,
+      "duration": 150,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Playoff sports, Lacrosse",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-09-20_EP043301890185_112769155934_2026-09-09T04:44:01Z_GNLZZGG003NB039/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     }
   ]
 }
