@@ -2,19 +2,74 @@
   "channel": "SPS",
   "date": "2026-09-21",
   "source": "kayo",
-  "fetchedAt": 1789721473137,
-  "fetchedAtIST": "18/9/2026, 2:21:13 pm",
+  "fetchedAt": 1789747096822,
+  "fetchedAtIST": "18/9/2026, 9:28:16 pm",
   "events": [
     {
-      "programTitle": "To Be Announced",
-      "episodeTitle": "",
-      "description": "The programming for this time slot has yet to be determined and is being confirmed by the broadcast channel.",
-      "scheduledDate": 1789938000000,
-      "duration": 240,
+      "programTitle": "MotoGP Racing",
+      "episodeTitle": "Qatar Airways Grand Prix of Austria, Sprint Race",
+      "description": "From Red Bull Ring in Austria.",
+      "scheduledDate": 1789929000000,
+      "duration": 30,
       "parentalRating": "",
-      "programType": "TBA",
-      "genre": "Special, Entertainment",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-09-20_SH027575020000_112769671032_2021-11-15T14:36:19Z_p514472_b_h8_dp/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "programType": "Sports event",
+      "genre": "Motorcycle racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-09-20_EP028104881570_112772823988_2026-09-17T17:33:09Z_GNLZZGG003PG5VS/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NASCAR O'Reilly Auto Parts Series Highlights",
+      "episodeTitle": "Food City 300",
+      "description": "Highlights of the various races taking place at the NASCAR O'Reilly Auto Parts Series.",
+      "scheduledDate": 1789930800000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Auto racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-09-20_SH062934750000_111812088477_2026-08-05T10:46:39Z_p32273555_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NASCAR Cup Racing Series",
+      "episodeTitle": "Bristol Motor Speedway",
+      "description": "Coverage of the NASCAR Cup Series, professional stock car racing in the United States.",
+      "scheduledDate": 1789934400000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Classic sport event, Motorsports, Auto racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-09-20_SH056052770000_110216247140_2024-02-28T07:23:12Z_p8599472_i_h10_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "FIM Superbike World Championship Highlights",
+      "episodeTitle": "France, Race 1",
+      "description": "Highlights and all the action from the FIM Superbike World Championship series, featuring modified production motorcycles.",
+      "scheduledDate": 1789938000000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Classic sport event, Motorcycle racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-09-20_SH064540680000_112805549439_2024-03-12T06:43:23Z_p26892822_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "FIM Superbike World Championship Highlights",
+      "episodeTitle": "France, Race 2",
+      "description": "Highlights and all the action from the FIM Superbike World Championship series, featuring modified production motorcycles.",
+      "scheduledDate": 1789941600000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Classic sport event, Motorcycle racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-09-20_SH064540680000_112805549439_2024-03-12T06:43:23Z_p26892822_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "MotoGP Racing",
+      "episodeTitle": "Qatar Airways Grand Prix of Austria",
+      "description": "From Red Bull Ring in Austria.",
+      "scheduledDate": 1789945200000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Motorcycle racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-09-20_EP028104881571_112806319233_2026-09-17T17:28:55Z_GNLZZGG003PG54Z/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     }
   ]
 }

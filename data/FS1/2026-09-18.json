@@ -2,8 +2,8 @@
   "channel": "FS1",
   "date": "2026-09-18",
   "source": "kayo",
-  "fetchedAt": 1789721473104,
-  "fetchedAtIST": "18/9/2026, 2:21:13 pm",
+  "fetchedAt": 1789747096796,
+  "fetchedAtIST": "18/9/2026, 9:28:16 pm",
   "events": [
     {
       "programTitle": "To Be Announced",
@@ -160,26 +160,26 @@
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-09-18_EP029804690371_112767504437_2026-09-17T14:14:55Z_GNLZZGG003PF2QY/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "F",
-      "episodeTitle": "",
-      "description": "",
+      "programTitle": "Test Cricket",
+      "episodeTitle": "Australia v Bangladesh, 1st Test",
+      "description": "Coverage and highlights from international test cricket matches.",
       "scheduledDate": 1789745400000,
       "duration": 60,
       "parentalRating": "",
-      "programType": "",
-      "genre": "",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/Fallback_LTV_Fox_Cricket/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "programType": "Sports event",
+      "genre": "Cricket, Classic sport event",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-09-18_SH033446590000_98978823590_2023-09-29T14:53:53Z_p8163404_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "F",
-      "episodeTitle": "",
-      "description": "",
+      "programTitle": "Test Cricket",
+      "episodeTitle": "Australia v Bangladesh, 2nd Test",
+      "description": "Coverage and highlights from international test cricket matches.",
       "scheduledDate": 1789749000000,
       "duration": 60,
       "parentalRating": "",
-      "programType": "",
-      "genre": "",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/Fallback_LTV_Fox_Cricket/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "programType": "Sports event",
+      "genre": "Cricket, Classic sport event",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-09-18_SH033446590000_98978823590_2023-09-29T14:53:53Z_p8163404_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "To Be Announced",
@@ -193,15 +193,15 @@
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-09-18_SH027575020000_112769671032_2021-11-15T14:36:19Z_p514472_b_h8_dp/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "F",
+      "programTitle": "Test Cricket",
       "episodeTitle": "",
-      "description": "",
+      "description": "Coverage and highlights from international test cricket matches.",
       "scheduledDate": 1789752600000,
       "duration": 60,
       "parentalRating": "",
-      "programType": "",
-      "genre": "",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/Fallback_LTV_Fox_Cricket/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "programType": "Sports event",
+      "genre": "Cricket, Classic sport event",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-09-18_SH033446590000_98978823590_2023-09-29T14:53:53Z_p8163404_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     }
   ]
 }

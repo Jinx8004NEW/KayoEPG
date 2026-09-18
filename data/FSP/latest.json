@@ -2,8 +2,8 @@
   "channel": "FSP",
   "date": "2026-09-18",
   "source": "kayo",
-  "fetchedAt": 1789721473129,
-  "fetchedAtIST": "18/9/2026, 2:21:13 pm",
+  "fetchedAt": 1789747096816,
+  "fetchedAtIST": "18/9/2026, 9:28:16 pm",
   "events": [
     {
       "programTitle": "UFC Countdown",
@@ -105,15 +105,15 @@
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-09-18_EP040914080707_112757966635_2026-09-16T15:21:32Z_GNLZZGG003P7W3Q/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "SailGP",
-      "episodeTitle": "Valencia, Day 1",
-      "description": "",
+      "programTitle": "SailGP Highlights",
+      "episodeTitle": "2026 Spain, Day 1",
+      "description": "Features all the best sailing highlights from competitions across the globe.",
       "scheduledDate": 1789750800000,
       "duration": 90,
       "parentalRating": "",
-      "programType": "Sports event",
+      "programType": "Sports non-event",
       "genre": "Sailing",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-09-18_SH051028760000_112367882509_2021-04-23T21:46:53Z_p19827810_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-09-18_SH039043160000_112166871707_2022-11-22T06:36:35Z_p17178369_i_h10_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     }
   ]
 }

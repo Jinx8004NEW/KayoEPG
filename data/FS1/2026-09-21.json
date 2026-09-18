@@ -2,19 +2,96 @@
   "channel": "FS1",
   "date": "2026-09-21",
   "source": "kayo",
-  "fetchedAt": 1789721473105,
-  "fetchedAtIST": "18/9/2026, 2:21:13 pm",
+  "fetchedAt": 1789747096798,
+  "fetchedAtIST": "18/9/2026, 9:28:16 pm",
   "events": [
     {
-      "programTitle": "To Be Announced",
-      "episodeTitle": "",
-      "description": "The programming for this time slot has yet to be determined and is being confirmed by the broadcast channel.",
-      "scheduledDate": 1789938000000,
-      "duration": 240,
+      "programTitle": "Ashes Classics",
+      "episodeTitle": "2002/03: Australia vs England, 5th Test",
+      "description": "",
+      "scheduledDate": 1789930800000,
+      "duration": 60,
       "parentalRating": "",
-      "programType": "TBA",
-      "genre": "Special, Entertainment",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-09-20_SH027575020000_112769671032_2021-11-15T14:36:19Z_p514472_b_h8_dp/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "programType": "Sports non-event",
+      "genre": "Cricket",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-09-20_SH064479260000_109946786336_2019-07-11T06:20:10Z_p14752161_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "T20 Cricket",
+      "episodeTitle": "England vs Sri Lanka",
+      "description": "Coverage of Twenty20 cricket matches contested by international teams, featuring all the exciting action.",
+      "scheduledDate": 1789934400000,
+      "duration": 20,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Cricket",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-09-20_EP029805000640_112805549483_2026-08-26T19:48:56Z_GNLZZGG003JGL5W/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "T20 Mini",
+      "episodeTitle": "England v Sri Lanka, Game 2",
+      "description": "Condensed highlights and classic matches from T20 cricket matches.",
+      "scheduledDate": 1789935600000,
+      "duration": 20,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Classic sport event, Cricket",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-09-20_SH036489390000_79559987170_2021-06-10T12:37:23Z_p18959790_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "T20 Mini",
+      "episodeTitle": "England v Sri Lanka, Game 3",
+      "description": "Condensed highlights and classic matches from T20 cricket matches.",
+      "scheduledDate": 1789936800000,
+      "duration": 20,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Classic sport event, Cricket",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-09-20_SH036489390000_79559987170_2021-06-10T12:37:23Z_p18959790_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "CPL T20 Cricket",
+      "episodeTitle": "Eliminator: Barbados Tridents vs Jamaica Kingsmen",
+      "description": "From Kensington Oval in Bridgetown, Saint Michael, Barbados.",
+      "scheduledDate": 1789938000000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Cricket",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-09-20_EP033351860214_112691550071_2026-09-14T19:55:48Z_GNLZZGG003P0C55/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "CPL T20 Cricket",
+      "episodeTitle": "Guyana Amazon Warriors vs Antigua & Barbuda Falcons",
+      "description": "From Providence Stadium in Providence, Demerara-Mahaica, Guyana.",
+      "scheduledDate": 1789939800000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Cricket",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-09-20_EP033351860215_112793607445_2026-09-14T19:58:46Z_GNLZZGG003P0DZS/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "CPL T20 Cricket",
+      "episodeTitle": "Qualifier 2: Teams TBA",
+      "description": "Coverage of action from the Caribbean Premier League T20 cricket.",
+      "scheduledDate": 1789941600000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Cricket",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-09-20_SH033351860000_111569687238_2023-08-23T16:53:32Z_p14393243_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "CPL T20 Cricket",
+      "episodeTitle": "Final: Teams TBA",
+      "description": "Coverage of action from the Caribbean Premier League T20 cricket.",
+      "scheduledDate": 1789943400000,
+      "duration": 300,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Cricket",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-09-20_SH033351860000_111569687238_2023-08-23T16:53:32Z_p14393243_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     }
   ]
 }

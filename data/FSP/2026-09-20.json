@@ -2,8 +2,8 @@
   "channel": "FSP",
   "date": "2026-09-20",
   "source": "kayo",
-  "fetchedAt": 1789721473130,
-  "fetchedAtIST": "18/9/2026, 2:21:13 pm",
+  "fetchedAt": 1789747096817,
+  "fetchedAtIST": "18/9/2026, 9:28:16 pm",
   "events": [
     {
       "programTitle": "F1 Mini",
@@ -21,15 +21,26 @@
       "episodeTitle": "UFC: 331 Van vs. Pantoja 2",
       "description": "Go inside the lives and training camps of UFC athletes as they prepare for the next UFC pay-per-view event.",
       "scheduledDate": 1789853400000,
-      "duration": 60,
+      "duration": 30,
       "parentalRating": "",
       "programType": "Sports non-event",
       "genre": "Mixed martial arts, Documentary",
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-09-19_EP030408650110_112684260742_2026-09-15T07:06:21Z_p34034309_e_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
+      "programTitle": "F1 Mini",
+      "episodeTitle": "Spanish Grand Prix",
+      "description": "Highlights of the world's most iconic Formula 1 Grands Prix, featuring every podium and overtake.",
+      "scheduledDate": 1789855200000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Motorsports, Classic sport event",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-09-19_SH036452570000_107032703571_2020-11-19T03:00:48Z_p18944992_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
       "programTitle": "SailGP",
-      "episodeTitle": "Switzerland, Day 1",
+      "episodeTitle": "Geneva, Day 1",
       "description": "",
       "scheduledDate": 1789857000000,
       "duration": 90,
@@ -40,14 +51,14 @@
     },
     {
       "programTitle": "Auto Racing",
-      "episodeTitle": "Shannons SpeedSeries: Round 5 - Sydney, Day 1",
+      "episodeTitle": "Shannons SpeedSeries: Round 5 - Sydney, Day 2",
       "description": "Comprehensive coverage and full game replays of all the exciting action and events from the world of auto racing.",
       "scheduledDate": 1789862400000,
       "duration": 420,
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Auto racing",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-09-20_SH028105000000_110189214795_2018-09-19T12:09:00Z_p8801850_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-09-20_SH028105000000_112799975944_2018-09-19T12:09:00Z_p8801850_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "FIM Endurance World Championship",

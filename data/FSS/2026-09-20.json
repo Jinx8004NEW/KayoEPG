@@ -2,8 +2,8 @@
   "channel": "FSS",
   "date": "2026-09-20",
   "source": "kayo",
-  "fetchedAt": 1789721473141,
-  "fetchedAtIST": "18/9/2026, 2:21:13 pm",
+  "fetchedAt": 1789747096825,
+  "fetchedAtIST": "18/9/2026, 9:28:16 pm",
   "events": [
     {
       "programTitle": "MotoGP Racing",
@@ -29,7 +29,7 @@
     },
     {
       "programTitle": "SailGP",
-      "episodeTitle": "Switzerland, Day 1",
+      "episodeTitle": "Geneva, Day 1",
       "description": "",
       "scheduledDate": 1789866000000,
       "duration": 90,
@@ -62,7 +62,7 @@
     },
     {
       "programTitle": "Getting a Round In",
-      "episodeTitle": "",
+      "episodeTitle": "Carter Gordon",
       "description": "Australian professional golfer, Paul Gow hosts celebrities as his playing partners who share his love for the game of golf.",
       "scheduledDate": 1789884000000,
       "duration": 30,
@@ -73,14 +73,14 @@
     },
     {
       "programTitle": "PGA Tour Golf",
-      "episodeTitle": "Biltmore Championship Asheville, Third Round",
-      "description": "From The Cliffs at Walnut Cove in Asheville, N.C.",
+      "episodeTitle": "Biltmore Championship, Third Round",
+      "description": "Third-round action of the Biltmore Championship from The Cliffs at Walnut Cove.",
       "scheduledDate": 1789885800000,
       "duration": 90,
       "parentalRating": "",
       "programType": "Sports event",
-      "genre": "Golf",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-09-20_EP030899371424_112792261886_2026-09-18T05:22:16Z_GNLZZGG003PH257/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "genre": "Classic sport event, Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-09-20_SH035325650000_112615937126_2023-06-26T11:35:50Z_p8997822_i_h8_ad/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "Darts",
@@ -106,10 +106,10 @@
     },
     {
       "programTitle": "Darts",
-      "episodeTitle": "World Series of Darts Final: Final Day, Day Session",
-      "description": "From Salzburgarena in Salzburg, Austria.",
+      "episodeTitle": "World Darts Championship - Day 4",
+      "description": "Covering of all the action from darts events around the world.",
       "scheduledDate": 1789902000000,
-      "duration": 180,
+      "duration": 240,
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Darts",
@@ -125,6 +125,17 @@
       "programType": "Sports non-event",
       "genre": "Other",
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/Fallback_LTV_Fox_Sports_507/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "WSL Tour",
+      "episodeTitle": "Championship Tour: Lexus Trestles Pro",
+      "description": "Coverage of surfing action from the WSL.",
+      "scheduledDate": 1789916400000,
+      "duration": 540,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Surfing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-09-20_SH033247690000_110929981520_2019-03-19T05:40:29Z_p16589355_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "Sport Special",

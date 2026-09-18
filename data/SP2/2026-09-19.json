@@ -2,9 +2,20 @@
   "channel": "SP2",
   "date": "2026-09-19",
   "source": "kayo",
-  "fetchedAt": 1789721473113,
-  "fetchedAtIST": "18/9/2026, 2:21:13 pm",
+  "fetchedAt": 1789747096803,
+  "fetchedAtIST": "18/9/2026, 9:28:16 pm",
   "events": [
+    {
+      "programTitle": "English Super League Pre-Game",
+      "episodeTitle": "Elimination final: Wakefield Trinity v Leigh Leopards",
+      "description": "Experts discuss the line-ups, key tactics, and predictions before the Super League kick-off.",
+      "scheduledDate": 1789756200000,
+      "duration": 170,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Rugby league, Rugby",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-09-18_SH050627460000_104351472372_2024-03-13T11:13:41Z_p26943516_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
     {
       "programTitle": "Sport Special",
       "episodeTitle": "",
@@ -50,6 +61,17 @@
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-09-18_SH029161050000_110779849480_2026-03-24T08:25:06Z_p11964078_i_h10_ae/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
+      "programTitle": "NRL Classic Match",
+      "episodeTitle": "2023 Elimination Final: Cronulla Sharks vs Sydney Roosters",
+      "description": "Re-live some of the best rugby league clashes from the Premiership's past.",
+      "scheduledDate": 1789766400000,
+      "duration": 20,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Rugby, Classic sport event",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-09-18_SH034822800000_100794011205_2020-04-08T22:50:08Z_p18168517_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
       "programTitle": "Sport Special",
       "episodeTitle": "",
       "description": "Tune into the latest news and comprehensive analysis of different sporting events around the globe.",
@@ -61,15 +83,37 @@
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/Fallback_LTV_Fox_League/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "Rugby League Rewind",
+      "programTitle": "NRL",
+      "episodeTitle": "Cronulla-Sutherland Sharks vs Sydney Roosters",
+      "description": "From Suncorp Stadium in Milton, Queensland, Australia.",
+      "scheduledDate": 1789767600000,
+      "duration": 20,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Rugby league, Rugby",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-09-18_SH031720960000_112690348734_2025-02-14T21:33:28Z_p817685_i_h8_ad/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NRL Classic Match",
       "episodeTitle": "",
-      "description": "A journey back to some of the most historic moments in rugby league history and some of the game's greatest matches.",
+      "description": "Re-live some of the best rugby league clashes from the Premiership's past.",
       "scheduledDate": 1789768800000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Rugby, Classic sport event",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-09-18_SH034822800000_100794011205_2020-04-08T22:50:08Z_p18168517_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NRL Classic Match",
+      "episodeTitle": "2023 Elimination Final: Cronulla Sharks vs Sydney Roosters",
+      "description": "Re-live some of the best rugby league clashes from the Premiership's past.",
+      "scheduledDate": 1789770600000,
       "duration": 60,
       "parentalRating": "",
       "programType": "Sports event",
-      "genre": "Classic sport event, Rugby league",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-09-18_SH035309220000_101997306219_2020-06-04T05:30:16Z_p18385895_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "genre": "Rugby, Classic sport event",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-09-18_SH034822800000_100794011205_2020-04-08T22:50:08Z_p18168517_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "Rugby League Rewind",
@@ -81,6 +125,17 @@
       "programType": "Sports event",
       "genre": "Classic sport event, Rugby league",
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-09-18_SH035309220000_101997306219_2020-06-04T05:30:16Z_p18385895_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NRL Classic Match",
+      "episodeTitle": "",
+      "description": "Re-live some of the best rugby league clashes from the Premiership's past.",
+      "scheduledDate": 1789774200000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Rugby, Classic sport event",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-09-18_SH034822800000_100794011205_2020-04-08T22:50:08Z_p18168517_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "Saturday League Kick Off",
@@ -95,7 +150,7 @@
     },
     {
       "programTitle": "Get Em' Onside",
-      "episodeTitle": "",
+      "episodeTitle": "Finals Week 2",
       "description": "Joel Caine and Sean 'The Trader' provide an in-depth look into the latest Super Saturday odds for the NRL.",
       "scheduledDate": 1789783200000,
       "duration": 30,
@@ -105,20 +160,20 @@
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-09-19_SH034726250000_107033247745_2020-05-27T05:35:11Z_p18124645_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "Rugby League Rewind",
-      "episodeTitle": "",
-      "description": "A journey back to some of the most historic moments in rugby league history and some of the game's greatest matches.",
+      "programTitle": "NRL Classic Match",
+      "episodeTitle": "2023 Elimination Final: Cronulla Sharks vs Sydney Roosters",
+      "description": "Re-live some of the best rugby league clashes from the Premiership's past.",
       "scheduledDate": 1789785000000,
       "duration": 60,
       "parentalRating": "",
       "programType": "Sports event",
-      "genre": "Classic sport event, Rugby league",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-09-19_SH035309220000_101997306219_2020-06-04T05:30:16Z_p18385895_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "genre": "Rugby, Classic sport event",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-09-19_SH034822800000_100794011205_2020-04-08T22:50:08Z_p18168517_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "Face-To-Face on Fox",
-      "episodeTitle": "Justin Hodges",
-      "description": "Jake Duke and Yvonne Sampson chat candidly with prominent figures in the game of rugby league and Australian society.",
+      "episodeTitle": "Craig Gower",
+      "description": "Panthers legend Craig Gower speaks to Jake Duke about his colourful career, Premiership glory and his legacy in Rugby League.",
       "scheduledDate": 1789788600000,
       "duration": 30,
       "parentalRating": "",
@@ -127,26 +182,70 @@
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-09-19_SH047168440000_107963082214_2026-05-25T11:55:41Z_p19607826_i_h10_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "NRLW Pre Game",
-      "episodeTitle": "",
-      "description": "Fox League's studio panel presents an extensive coverage of the action. They'll have talking points, confirmation of team line-ups, as well as interviews with players and coaches.",
+      "programTitle": "The Fan",
+      "episodeTitle": "Episode 26",
+      "description": "Bulldogs stars on their passionate fans; Sharks players on Craig Fitzgibbon, Kaeo Weekes on his bloodline; Vossy talks with Scott Prince.",
       "scheduledDate": 1789790400000,
       "duration": 30,
       "parentalRating": "",
       "programType": "Sports non-event",
+      "genre": "Rugby",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-09-19_SH029171760000_103512401493_2025-03-19T07:04:18Z_p15251449_i_h10_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NRL Mini",
+      "episodeTitle": "Elimination Final: South Sydney Rabbitohs vs Newcastle Knights",
+      "description": "A comprehensive summary of the match played is provided in an expedited timeframe.",
+      "scheduledDate": 1789792200000,
+      "duration": 20,
+      "parentalRating": "",
+      "programType": "Sports non-event",
       "genre": "Rugby league, Rugby",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-09-19_SH042252980000_111575328375_2022-03-23T00:55:54Z_p21769277_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-09-19_SH035786430000_106552413658_2020-10-16T18:30:18Z_p18624350_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NRL Mini",
+      "episodeTitle": "Cronulla-Sutherland Sharks vs North Queensland Cowboys",
+      "description": "A comprehensive summary of the match played is provided in an expedited timeframe.",
+      "scheduledDate": 1789793400000,
+      "duration": 20,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Rugby league, Rugby",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-09-19_SH035786430000_106552413658_2020-10-16T18:30:18Z_p18624350_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NRL",
+      "episodeTitle": "Penrith Panthers vs Sydney Roosters",
+      "description": "Live from CommBank Stadium. Kick off at 4:05PM AEST.",
+      "scheduledDate": 1789794600000,
+      "duration": 20,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Playoff sports, Rugby league, Rugby",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-09-19_EP031720961242_112514716167_2026-09-06T23:09:51Z_GNLZZGG003ME20P/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Finals Footy on Fox",
+      "episodeTitle": "Week 1",
+      "description": "Showcases full analysis, live coverage and expert breakdowns of the AFL finals series.",
+      "scheduledDate": 1789795800000,
+      "duration": 35,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Sports talk, Australian rules football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-09-19_SH036489360000_112090732832_2020-10-14T05:10:24Z_p18959783_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "NRL Women's Premiership",
-      "episodeTitle": "Newcastle Knights vs Gold Coast Titans",
-      "description": "Live from McDonald Jones Stadium. Kick off at 1:45PM AEST.",
-      "scheduledDate": 1789792200000,
+      "episodeTitle": "Brisbane Broncos vs Newcastle Knights",
+      "description": "Live from Totally Workwear Stadium. Kick off at 4:05PM AEST.",
+      "scheduledDate": 1789797900000,
       "duration": 100,
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Rugby league, Rugby",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-09-19_EP030419250290_112653308124_2026-09-02T22:56:08Z_GNLZZGG003M9VNW/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-09-19_EP030419250292_112799212687_2026-09-15T13:08:41Z_GNLZZGG003P3VQ7/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "NRLW Pre Game",
@@ -172,10 +271,32 @@
     },
     {
       "programTitle": "Finals Footy on Fox",
+      "episodeTitle": "Week 1",
+      "description": "Showcases full analysis, live coverage and expert breakdowns of the AFL finals series.",
+      "scheduledDate": 1789803900000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Sports talk, Australian rules football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-09-19_SH036489360000_112090732832_2020-10-14T05:10:24Z_p18959783_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Finals Footy on Fox",
       "episodeTitle": "",
       "description": "Showcases full analysis, live coverage and expert breakdowns of the AFL finals series.",
       "scheduledDate": 1789804800000,
       "duration": 110,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Sports talk, Australian rules football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-09-19_SH036489360000_112090732832_2020-10-14T05:10:24Z_p18959783_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Finals Footy on Fox",
+      "episodeTitle": "Finals Week 2",
+      "description": "Showcases full analysis, live coverage and expert breakdowns of the AFL finals series.",
+      "scheduledDate": 1789805700000,
+      "duration": 95,
       "parentalRating": "",
       "programType": "Sports non-event",
       "genre": "Sports talk, Australian rules football",
@@ -194,10 +315,10 @@
     },
     {
       "programTitle": "Finals Footy on Fox",
-      "episodeTitle": "",
+      "episodeTitle": "Finals Week 2",
       "description": "Showcases full analysis, live coverage and expert breakdowns of the AFL finals series.",
       "scheduledDate": 1789818300000,
-      "duration": 50,
+      "duration": 60,
       "parentalRating": "",
       "programType": "Sports non-event",
       "genre": "Sports talk, Australian rules football",
@@ -215,19 +336,30 @@
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-09-19_SH034726250000_107033247745_2020-05-27T05:35:11Z_p18124645_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "Face-To-Face on Fox",
-      "episodeTitle": "Justin Hodges",
-      "description": "Jake Duke and Yvonne Sampson chat candidly with prominent figures in the game of rugby league and Australian society.",
+      "programTitle": "Get Em' Onside",
+      "episodeTitle": "Finals Week 2",
+      "description": "Joel Caine and Sean 'The Trader' provide an in-depth look into the latest Super Saturday odds for the NRL.",
       "scheduledDate": 1789821900000,
-      "duration": 30,
+      "duration": 10,
       "parentalRating": "",
       "programType": "Sports non-event",
-      "genre": "Sports talk, Rugby, Rugby league",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-09-19_SH047168440000_107963082214_2026-05-25T11:55:41Z_p19607826_i_h10_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "genre": "Rugby league, Sports talk",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-09-19_SH034726250000_107033247745_2020-05-27T05:35:11Z_p18124645_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "NRL Mini",
-      "episodeTitle": "Semifinal 1",
+      "episodeTitle": "Semifinal: Sydney Roosters vs Cronulla Sharks",
+      "description": "A comprehensive summary of the match played is provided in an expedited timeframe.",
+      "scheduledDate": 1789822500000,
+      "duration": 20,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Rugby league, Rugby",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-09-19_SH035786430000_106552413658_2020-10-16T18:30:18Z_p18624350_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NRL Mini",
+      "episodeTitle": "Semifinal: Sydney Roosters vs Cronulla Sharks",
       "description": "A comprehensive summary of the match played is provided in an expedited timeframe.",
       "scheduledDate": 1789823700000,
       "duration": 20,
@@ -237,15 +369,15 @@
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-09-19_SH035786430000_106552413658_2020-10-16T18:30:18Z_p18624350_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "NRL Mini",
-      "episodeTitle": "Semifinal 1",
-      "description": "A comprehensive summary of the match played is provided in an expedited timeframe.",
+      "programTitle": "NRLW Premiership Mini",
+      "episodeTitle": "Elimination Final: Brisbane Broncos vs. Newcastle Knights",
+      "description": "Condensed highlights of some of the greatest encounters from the NRL Women's competition.",
       "scheduledDate": 1789824900000,
-      "duration": 20,
+      "duration": 25,
       "parentalRating": "",
       "programType": "Sports non-event",
       "genre": "Rugby league, Rugby",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-09-19_SH035786430000_106552413658_2020-10-16T18:30:18Z_p18624350_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-09-19_SH042238410000_109229287001_2022-03-07T01:46:13Z_p21759648_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "Sport Special",
@@ -257,6 +389,39 @@
       "programType": "Sports non-event",
       "genre": "Other",
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/Fallback_LTV_Fox_League/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NRL",
+      "episodeTitle": "Sydney Roosters vs Cronulla-Sutherland Sharks",
+      "description": "Live from Allianz Stadium. Kick off at 7:50PM AEST.",
+      "scheduledDate": 1789826400000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Playoff sports, Rugby league, Rugby",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-09-19_EP031720961243_112771684163_2026-09-13T13:41:51Z_GNLZZGG003NE49Y/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Finals Footy on Fox",
+      "episodeTitle": "Finals Week 2",
+      "description": "Showcases full analysis, live coverage and expert breakdowns of the AFL finals series.",
+      "scheduledDate": 1789830000000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Sports talk, Australian rules football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-09-19_SH036489360000_112090732832_2020-10-14T05:10:24Z_p18959783_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "English Super League Pre-Game",
+      "episodeTitle": "Elimination Final: Warrington Wolves v Hull FC",
+      "description": "Elimination final of the Super League from Halliwell Jones Stadium. Scheduled start of play - 0230 AEST.",
+      "scheduledDate": 1789833600000,
+      "duration": 180,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Rugby league, Rugby",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-09-19_SH050627460000_104351472372_2024-03-13T11:13:41Z_p26943516_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "Sport Special",

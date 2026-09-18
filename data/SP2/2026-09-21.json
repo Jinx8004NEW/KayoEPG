@@ -2,30 +2,107 @@
   "channel": "SP2",
   "date": "2026-09-21",
   "source": "kayo",
-  "fetchedAt": 1789721473114,
-  "fetchedAtIST": "18/9/2026, 2:21:13 pm",
+  "fetchedAt": 1789747096804,
+  "fetchedAtIST": "18/9/2026, 9:28:16 pm",
   "events": [
     {
-      "programTitle": "Sport Special",
-      "episodeTitle": "",
-      "description": "Tune into the latest news and comprehensive analysis of different sporting events around the globe.",
-      "scheduledDate": 1789934400000,
-      "duration": 120,
+      "programTitle": "NRL",
+      "episodeTitle": "Sydney Roosters vs Cronulla-Sutherland Sharks",
+      "description": "Live from Allianz Stadium. Kick off at 7:50PM AEST.",
+      "scheduledDate": 1789930800000,
+      "duration": 60,
       "parentalRating": "",
-      "programType": "Sports non-event",
-      "genre": "Other",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/Fallback_LTV_Fox_League/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "programType": "Sports event",
+      "genre": "Playoff sports, Rugby league, Rugby",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-09-20_EP031720961243_112771684163_2026-09-13T13:41:51Z_GNLZZGG003NE49Y/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "Sport Special",
+      "programTitle": "NRL",
+      "episodeTitle": "New Zealand Warriors vs Newcastle Knights",
+      "description": "Live from Eden Park. Kick off at 4:05PM AEST.",
+      "scheduledDate": 1789934400000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Playoff sports, Rugby league, Rugby",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-09-20_EP031720961244_112805311979_2026-09-13T13:42:13Z_GNLZZGG003NE4J4/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Finals Footy with Matty Johns",
       "episodeTitle": "",
-      "description": "Tune into the latest news and comprehensive analysis of different sporting events around the globe.",
+      "description": "Matty Johns is joined by a panel of hosts and guests to discuss footy news and updates during the NRL finals.",
+      "scheduledDate": 1789938000000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Series",
+      "genre": "Sports talk, Rugby league",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-09-20_SH033196300000_112444583890_2019-10-09T17:20:38Z_p17392964_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NRL Mini",
+      "episodeTitle": "Semifinal: Sydney Roosters vs Cronulla Sharks",
+      "description": "A comprehensive summary of the match played is provided in an expedited timeframe.",
       "scheduledDate": 1789941600000,
-      "duration": 240,
+      "duration": 20,
       "parentalRating": "",
       "programType": "Sports non-event",
-      "genre": "Other",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/Fallback_LTV_Fox_League/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "genre": "Rugby league, Rugby",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-09-20_SH035786430000_106552413658_2020-10-16T18:30:18Z_p18624350_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NRL Mini",
+      "episodeTitle": "Semifinal: New Zealand Warriors vs Newcastle Knights",
+      "description": "A comprehensive summary of the match played is provided in an expedited timeframe.",
+      "scheduledDate": 1789942800000,
+      "duration": 20,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Rugby league, Rugby",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-09-20_SH035786430000_106552413658_2020-10-16T18:30:18Z_p18624350_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NRL Women's Premiership",
+      "episodeTitle": "Wests Tigers vs Canberra Raiders",
+      "description": "Live from Campbelltown Sports Stadium. Kick off at 7:50PM AEST.",
+      "scheduledDate": 1789944000000,
+      "duration": 20,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Rugby league, Rugby",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-09-20_EP030419250291_112799108702_2026-09-15T12:52:23Z_GNLZZGG003P3G96/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NRL Women's Premiership",
+      "episodeTitle": "Brisbane Broncos vs Newcastle Knights",
+      "description": "Live from Totally Workwear Stadium. Kick off at 4:05PM AEST.",
+      "scheduledDate": 1789945200000,
+      "duration": 20,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Rugby league, Rugby",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-09-20_EP030419250292_112799212687_2026-09-15T13:08:41Z_GNLZZGG003P3VQ7/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NRL Mini",
+      "episodeTitle": "Semifinal: Sydney Roosters vs Cronulla Sharks",
+      "description": "A comprehensive summary of the match played is provided in an expedited timeframe.",
+      "scheduledDate": 1789946400000,
+      "duration": 20,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Rugby league, Rugby",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-09-20_SH035786430000_106552413658_2020-10-16T18:30:18Z_p18624350_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NRL Mini",
+      "episodeTitle": "Semifinal: New Zealand Warriors vs Newcastle Knights",
+      "description": "A comprehensive summary of the match played is provided in an expedited timeframe.",
+      "scheduledDate": 1789947600000,
+      "duration": 20,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Rugby league, Rugby",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-09-20_SH035786430000_106552413658_2020-10-16T18:30:18Z_p18624350_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     }
   ]
 }
