@@ -1,0 +1,42 @@
+{
+  "channel": "FSP",
+  "date": "2026-09-22",
+  "source": "kayo",
+  "fetchedAt": 1789788855478,
+  "fetchedAtIST": "19/9/2026, 9:04:15 am",
+  "events": [
+    {
+      "programTitle": "SailGP",
+      "episodeTitle": "Geneva, Day 1",
+      "description": "",
+      "scheduledDate": 1790022600000,
+      "duration": 90,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Sailing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-09-21_SH051028760000_112367882509_2021-04-23T21:46:53Z_p19827810_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "SailGP",
+      "episodeTitle": "Geneva, Day 2",
+      "description": "",
+      "scheduledDate": 1790028000000,
+      "duration": 90,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Sailing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-09-21_SH051028760000_112367882509_2021-04-23T21:46:53Z_p19827810_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Pro Bull Riding",
+      "episodeTitle": "",
+      "description": "The best bull riders in Australia and the world compete for prize money on the professional bull riding circuit.",
+      "scheduledDate": 1790033400000,
+      "duration": 61,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Bull riding",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-09-21_SH029446100000_108472165776_2018-05-25T09:42:00Z_p15394895_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "channel": "ES2",
+  "date": "2026-09-22",
+  "source": "kayo",
+  "fetchedAt": 1789788855564,
+  "fetchedAtIST": "19/9/2026, 9:04:15 am",
+  "events": [
+    {
+      "programTitle": "NBA Today",
+      "episodeTitle": "",
+      "description": "Daily NBA show from Los Angeles about everything you need to know about your favourite sport.",
+      "scheduledDate": 1790017200000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Sports talk, Basketball",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-09-21_SH040441750000_109626193132_2021-11-02T16:57:12Z_p20706981_i_h10_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "The Pat McAfee Show",
+      "episodeTitle": "",
+      "description": "Former NFL punter Pat McAfee brings his humour, sarcasm and candour to the microphone to highlight the day's top stories.",
+      "scheduledDate": 1790020800000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Series",
+      "genre": "Sports talk",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-09-21_SH048483860000_111648065422_2020-09-10T14:31:07Z_p18762527_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "The Rich Eisen Show",
+      "episodeTitle": "",
+      "description": "Host Rich Eisen covers sports, pop culture and humour with a blend of humour and insight, featuring an array of signature guests.",
+      "scheduledDate": 1790028000000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Sports talk",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-09-21_SH060883280000_110028318924_2025-09-03T19:34:05Z_p31028239_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "SportsCenter",
+      "episodeTitle": "",
+      "description": "The team deliver the latest news, highlights, and inside information from the wide world of sports, as well as trending topics across social media platforms.",
+      "scheduledDate": 1790031600000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "News, Sports talk",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-09-21_SH033259060000_109832503473_2018-04-18T10:39:00Z_p186674_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    }
+  ]
+}

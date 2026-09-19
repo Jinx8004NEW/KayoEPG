@@ -1,0 +1,86 @@
+{
+  "channel": "FAF",
+  "date": "2026-09-22",
+  "source": "kayo",
+  "fetchedAt": 1789788855475,
+  "fetchedAtIST": "19/9/2026, 9:04:15 am",
+  "events": [
+    {
+      "programTitle": "On the Couch",
+      "episodeTitle": "",
+      "description": "Provides in-depth coverage of the Australian Football League, as well as the latest news and excitement in the latest rounds, and exclusive interviews with players and coaches.",
+      "scheduledDate": 1790017200000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Series",
+      "genre": "Sports talk, Australian rules football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-09-21_SH029281610000_107287396495_2026-03-12T06:07:22Z_p15306959_i_h10_ae/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "AFLW Mini",
+      "episodeTitle": "Round 6: St Kilda v West Coast Eagles",
+      "description": "Winless St. Kilda hosts West Coast at RSEA Park on Sunday afternoon as they battle for an important victory.",
+      "scheduledDate": 1790020800000,
+      "duration": 15,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Australian rules football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-09-21_SH038251630000_111269523232_2025-10-16T04:55:13Z_p19768743_b_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "AFL Women's Premiership",
+      "episodeTitle": "Brisbane Lions vs Adelaide Crows",
+      "description": "From Brighton Homes Arena in Queensland, Australia.",
+      "scheduledDate": 1790021700000,
+      "duration": 15,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Australian rules football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-09-21_EP029247970792_112799231782_2026-07-21T00:16:21Z_GNLZZGG003BV5Q8/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "AFL",
+      "episodeTitle": "Hawthorn vs. Brisbane Lions",
+      "description": "Live from the MCG. Bounce time: 5:15pm AEST.",
+      "scheduledDate": 1790022600000,
+      "duration": 150,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Playoff sports, Australian rules football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-09-21_EP029151671454_112723231592_2026-09-12T13:42:36Z_GNLZZGG003NYXDP/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "AFL Mini",
+      "episodeTitle": "Preliminary Final: Sydney Swans vs Fremantle",
+      "description": "The Swans host the Dockers in a massive Preliminary Final at the SCG with a spot in the Grand Final up for grabs.",
+      "scheduledDate": 1790031600000,
+      "duration": 20,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Australian rules football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-09-21_SH042238570000_104529301600_2022-03-07T04:36:21Z_p21759801_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "AFL Mini",
+      "episodeTitle": "Preliminary Final: Hawthorn Hawks vs Brisbane Lions",
+      "description": "Hawthorn and Brisbane meet for the very first time in a final, and the Fox Footy team will be right there with the best analysis and entertainment from the MCG.",
+      "scheduledDate": 1790032800000,
+      "duration": 20,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Australian rules football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-09-21_SH042238570000_104529301600_2022-03-07T04:36:21Z_p21759801_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "AFL Mini",
+      "episodeTitle": "Preliminary Final: Sydney Swans vs Fremantle",
+      "description": "The Swans host the Dockers in a massive Preliminary Final at the SCG with a spot in the Grand Final up for grabs.",
+      "scheduledDate": 1790034000000,
+      "duration": 20,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Australian rules football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-09-21_SH042238570000_104529301600_2022-03-07T04:36:21Z_p21759801_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    }
+  ]
+}

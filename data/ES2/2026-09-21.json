@@ -2,8 +2,8 @@
   "channel": "ES2",
   "date": "2026-09-21",
   "source": "kayo",
-  "fetchedAt": 1789770089137,
-  "fetchedAtIST": "19/9/2026, 3:51:29 am",
+  "fetchedAt": 1789788855564,
+  "fetchedAtIST": "19/9/2026, 9:04:15 am",
   "events": [
     {
       "programTitle": "College Football Final",
@@ -37,6 +37,149 @@
       "programType": "Sports event",
       "genre": "Baseball",
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-09-20_EP062580852793_112805327331_2026-06-27T19:32:37Z_GNLZZGG0037W989/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Setting the Tempo",
+      "episodeTitle": "The 14th Team",
+      "description": "",
+      "scheduledDate": 1789956000000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Documentary, Basketball",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-09-21_SH066183310000_112768872063_2026-09-17T14:56:21Z_p33971306_i_h10_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Setting the Tempo",
+      "episodeTitle": "CBA or Delay",
+      "description": "",
+      "scheduledDate": 1789957800000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Documentary, Basketball",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-09-21_SH066183310000_112768872063_2026-09-17T14:56:21Z_p33971306_i_h10_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Setting the Tempo",
+      "episodeTitle": "Welcome to Training Camp",
+      "description": "",
+      "scheduledDate": 1789959600000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Documentary, Basketball",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-09-21_SH066183310000_112768872063_2026-09-17T14:56:21Z_p33971306_i_h10_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Setting the Tempo",
+      "episodeTitle": "Time to Set the Tempo",
+      "description": "",
+      "scheduledDate": 1789961400000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Documentary, Basketball",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-09-21_SH066183310000_112768872063_2026-09-17T14:56:21Z_p33971306_i_h10_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NFL Football",
+      "episodeTitle": "New England Patriots vs Pittsburgh Steelers",
+      "description": "From Gillette Stadium in Foxboro, Mass.",
+      "scheduledDate": 1789963200000,
+      "duration": 150,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-09-21_EP029371131856_112771385428_2026-07-15T04:34:41Z_GNLZZGG0039KXZ0/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NFL Football",
+      "episodeTitle": "Dallas Cowboys vs Washington Commanders",
+      "description": "From AT&T Stadium in Arlington, Texas.",
+      "scheduledDate": 1789972200000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-09-21_EP029371131860_112821220980_2026-07-15T04:36:22Z_GNLZZGG0039L1MF/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "ESPN FC",
+      "episodeTitle": "",
+      "description": "ESPN FC brings you a round-up of the latest news from the world of football, including in-depth analysis and exclusive interviews.",
+      "scheduledDate": 1789979400000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Series",
+      "genre": "Soccer, Sports talk",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-09-21_SH033236780000_109573421566_2026-05-25T06:15:30Z_p10106369_i_h11_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NFL Football",
+      "episodeTitle": "Kansas City Chiefs vs Indianapolis Colts",
+      "description": "From Arrowhead Stadium in Kansas City, MO.",
+      "scheduledDate": 1789981200000,
+      "duration": 150,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-09-21_EP029371131865_112817449219_2026-07-15T04:36:17Z_GNLZZGG0039K69J/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "MLB Baseball",
+      "episodeTitle": "Baltimore Orioles vs Milwaukee Brewers",
+      "description": "From Oriole Park at Camden Yards in Baltimore.",
+      "scheduledDate": 1789990200000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Baseball",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-09-21_EP062580852793_112805327331_2026-06-27T19:32:37Z_GNLZZGG0037W989/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Premier Lacrosse League",
+      "episodeTitle": "Denver Outlaws vs. Philadelphia Waterdogs",
+      "description": "From Sports Illustrated Stadium in Harrison, N.J.",
+      "scheduledDate": 1789997400000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Playoff sports, Lacrosse",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-09-21_EP043301890185_112769155934_2026-09-09T04:44:01Z_GNLZZGG003NB039/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NFL Minis",
+      "episodeTitle": "Pittsburgh Steelers at New England Patriot",
+      "description": "A collection of special condensed replays featuring the best highlights and all the key moments on the field.",
+      "scheduledDate": 1790004600000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Classic sport event, Football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-09-21_SH036425140000_112544470268_2020-10-08T06:20:45Z_p18931248_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "First Take",
+      "episodeTitle": "",
+      "description": "Stephen A. Smith joins Molly Qerim Rose to debate the hottest topics in sports.",
+      "scheduledDate": 1790006400000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Sports talk, News, Debate",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-09-21_SH033280060000_108193810385_2025-11-07T06:36:14Z_p186291_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "The Domonique Foxworth Show",
+      "episodeTitle": "",
+      "description": "Domonique Foxworth shares his take on current sports events and participants.",
+      "scheduledDate": 1790013600000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Sports talk",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-09-21_SH051617750000_109986842499_2024-04-30T21:42:58Z_p27226335_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     }
   ]
 }
