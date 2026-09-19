@@ -2,19 +2,41 @@
   "channel": "FS3",
   "date": "2026-09-20",
   "source": "kayo",
-  "fetchedAt": 1789788855466,
-  "fetchedAtIST": "19/9/2026, 9:04:15 am",
+  "fetchedAt": 1789807036862,
+  "fetchedAtIST": "19/9/2026, 2:07:16 pm",
   "events": [
     {
-      "programTitle": "PGA Korn Ferry Tour Golf",
-      "episodeTitle": "Nationwide Children's Hospital Championship, Third Round",
-      "description": "From The Ohio State University Golf Club in Upper Arlington, Ohio.",
+      "programTitle": "Getting a Round In",
+      "episodeTitle": "Carter Gordon",
+      "description": "Australian professional golfer, Paul Gow hosts celebrities as his playing partners who share his love for the game of golf.",
+      "scheduledDate": 1789844400000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Series",
+      "genre": "Golf, Interview",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-09-19_SH048121120000_110998856207_2023-07-18T05:56:16Z_p25221374_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "F",
+      "episodeTitle": "",
+      "description": "",
+      "scheduledDate": 1789846200000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "",
+      "genre": "",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/Fallback_LTV_Fox_Sports_503/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "2026 Solheim Cup",
+      "episodeTitle": "Final Day",
+      "description": "From Bernardus GC in the Netherlands.",
       "scheduledDate": 1789848000000,
       "duration": 120,
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Golf",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-09-19_EP034202650201_112816578621_2026-08-25T19:34:36Z_p33752968_b_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-09-19_SH065998810000_112803935607_2026-08-05T21:08:37Z_p33713632_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "PGA Tour Champions Golf",

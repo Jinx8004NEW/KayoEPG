@@ -2,8 +2,8 @@
   "channel": "FSS",
   "date": "2026-09-19",
   "source": "kayo",
-  "fetchedAt": 1789788855554,
-  "fetchedAtIST": "19/9/2026, 9:04:15 am",
+  "fetchedAt": 1789807036889,
+  "fetchedAtIST": "19/9/2026, 2:07:16 pm",
   "events": [
     {
       "programTitle": "WSL Tour",
@@ -72,15 +72,15 @@
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-09-19_SH050906890000_112524436963_2024-04-05T08:23:57Z_p26765620_i_h8_ad/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "UFC Countdown",
-      "episodeTitle": "UFC: 331 Van vs. Pantoja 2",
-      "description": "Go inside the lives and training camps of UFC athletes as they prepare for the next UFC pay-per-view event.",
+      "programTitle": "World Surf League Highlights",
+      "episodeTitle": "Trestles: Final Day",
+      "description": "Action from the World Surf League.",
       "scheduledDate": 1789812000000,
       "duration": 27,
-      "parentalRating": "",
+      "parentalRating": "PG",
       "programType": "Sports non-event",
-      "genre": "Mixed martial arts, Documentary",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-09-19_EP030408650110_112684260742_2026-09-15T07:06:21Z_p34034309_e_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "genre": "Surfing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/Fallback_LTV_Fox_Sports_507/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "Fight Week",

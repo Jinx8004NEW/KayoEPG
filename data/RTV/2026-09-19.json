@@ -2,8 +2,8 @@
   "channel": "RTV",
   "date": "2026-09-19",
   "source": "kayo",
-  "fetchedAt": 1789788855568,
-  "fetchedAtIST": "19/9/2026, 9:04:15 am",
+  "fetchedAt": 1789807036909,
+  "fetchedAtIST": "19/9/2026, 2:07:16 pm",
   "events": [
     {
       "programTitle": "The Analyser",
@@ -142,7 +142,7 @@
       "episodeTitle": "",
       "description": "Features comprehensive coverage of some of the top horse racing events taking place in Australia and Hong Kong.",
       "scheduledDate": 1789804800000,
-      "duration": 75,
+      "duration": 105,
       "parentalRating": "",
       "programType": "Series",
       "genre": "Horse racing",
@@ -160,10 +160,32 @@
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/148460_2026-09-19_SH047643540000_99514215733_2023-06-01T05:16:14Z_p24858187_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
+      "programTitle": "Calling the Cup",
+      "episodeTitle": "",
+      "description": "For the first time Racing.com brings together four legendary broadcasters to share their favourite memories of calling Australia's most iconic and famous race, the Melbourne Cup.",
+      "scheduledDate": 1789811100000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Special, Horse",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/148460_2026-09-19_SH033477270000_112829066157_2019-10-30T21:40:41Z_p17534282_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
       "programTitle": "Racing Review",
       "episodeTitle": "",
       "description": "A full recap of racing from Wangaratta.",
       "scheduledDate": 1789812900000,
+      "duration": 45,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Horse racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/148460_2026-09-19_SH065368570000_110412511319_2022-09-19T11:46:59Z_p872189_i_h8_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Racing Review",
+      "episodeTitle": "",
+      "description": "A full recap of racing from Wangaratta.",
+      "scheduledDate": 1789814700000,
       "duration": 45,
       "parentalRating": "",
       "programType": "Sports non-event",
@@ -193,15 +215,37 @@
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/148460_2026-09-19_SH065368570000_110412511319_2022-09-19T11:46:59Z_p872189_i_h8_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "The Triple Trio",
+      "programTitle": "Racing Review",
       "episodeTitle": "",
-      "description": "A panel of experts present a frank and fearless discussion of Hong Kong horse racing, covering the top meets and speaking with jockeys.",
+      "description": "A full recap of racing from Wangaratta.",
       "scheduledDate": 1789819200000,
-      "duration": 60,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Horse racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/148460_2026-09-19_SH065368570000_110412511319_2022-09-19T11:46:59Z_p872189_i_h8_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "They Once Raced Here",
+      "episodeTitle": "",
+      "description": "Ed Sadler is joined by author and historian Chris Ganly to take a nostalgic trip through time. Together, they explore and discuss the rich, vibrant and deeply fascinating history behind some of Victoria's long-forgotten racetracks.",
+      "scheduledDate": 1789821000000,
+      "duration": 15,
       "parentalRating": "",
       "programType": "Sports non-event",
       "genre": "Other",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/148460_2026-09-19_SH047643540000_99514215733_2023-06-01T05:16:14Z_p24858187_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/Fallback_LTV_Racing_TV/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Racing Review",
+      "episodeTitle": "",
+      "description": "A full recap of racing from Wangaratta.",
+      "scheduledDate": 1789821900000,
+      "duration": 45,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Horse racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/148460_2026-09-19_SH065368570000_110412511319_2022-09-19T11:46:59Z_p872189_i_h8_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "Racing Review",
@@ -209,6 +253,17 @@
       "description": "A full recap of racing from Wangaratta.",
       "scheduledDate": 1789822800000,
       "duration": 45,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Horse racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/148460_2026-09-19_SH065368570000_110412511319_2022-09-19T11:46:59Z_p872189_i_h8_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Racing Review",
+      "episodeTitle": "",
+      "description": "A full recap of racing from Wangaratta.",
+      "scheduledDate": 1789824600000,
+      "duration": 30,
       "parentalRating": "",
       "programType": "Sports non-event",
       "genre": "Horse racing",
