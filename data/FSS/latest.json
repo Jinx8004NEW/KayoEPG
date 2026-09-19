@@ -1,119 +1,152 @@
 {
   "channel": "FSS",
-  "date": "2026-09-19",
+  "date": "2026-09-20",
   "source": "kayo",
-  "fetchedAt": 1789842432391,
-  "fetchedAtIST": "19/9/2026, 11:57:12 pm",
+  "fetchedAt": 1789855881241,
+  "fetchedAtIST": "20/9/2026, 3:41:21 am",
   "events": [
     {
-      "programTitle": "WSL Tour",
-      "episodeTitle": "Championship Tour: Lexus Trestles Pro",
-      "description": "Coverage of surfing action from the WSL.",
-      "scheduledDate": 1789772400000,
-      "duration": 60,
+      "programTitle": "MotoGP Racing",
+      "episodeTitle": "Qatar Airways Grand Prix of Austria, Sprint Race",
+      "description": "From Red Bull Ring in Austria.",
+      "scheduledDate": 1789862400000,
+      "duration": 30,
       "parentalRating": "",
       "programType": "Sports event",
-      "genre": "Surfing",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-09-18_SH033247690000_110929981520_2019-03-19T05:40:29Z_p16589355_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "genre": "Motorcycle racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-09-20_EP028104881570_112772823988_2026-09-17T17:33:09Z_GNLZZGG003PG5VS/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "SailGP Highlights",
-      "episodeTitle": "2026 Spain, Day 1",
-      "description": "Features all the best sailing highlights from competitions across the globe.",
-      "scheduledDate": 1789776000000,
-      "duration": 90,
+      "programTitle": "F1 Mini",
+      "episodeTitle": "Spanish Grand Prix",
+      "description": "Highlights of the world's most iconic Formula 1 Grands Prix, featuring every podium and overtake.",
+      "scheduledDate": 1789864200000,
+      "duration": 30,
       "parentalRating": "",
-      "programType": "Sports non-event",
-      "genre": "Sailing",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-09-19_SH039043160000_112166871707_2022-11-22T06:36:35Z_p17178369_i_h10_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "programType": "Sports event",
+      "genre": "Motorsports, Classic sport event",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-09-20_SH036452570000_107032703571_2020-11-19T03:00:48Z_p18944992_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "SailGP Highlights",
-      "episodeTitle": "2026 Spain, Day 2",
-      "description": "Features all the best sailing highlights from competitions across the globe.",
-      "scheduledDate": 1789781400000,
+      "programTitle": "SailGP",
+      "episodeTitle": "Geneva, Day 1",
+      "description": "",
+      "scheduledDate": 1789866000000,
       "duration": 90,
       "parentalRating": "",
-      "programType": "Sports non-event",
+      "programType": "Sports event",
       "genre": "Sailing",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-09-19_SH039043160000_112166871707_2022-11-22T06:36:35Z_p17178369_i_h10_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-09-20_SH051028760000_112367882509_2021-04-23T21:46:53Z_p19827810_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "DP World Tour Golf",
-      "episodeTitle": "BMW PGA Championship, Second Round",
+      "episodeTitle": "BMW PGA Championship, Third Round",
       "description": "From Wentworth Club in Virginia Water, Surrey, United Kingdom.",
-      "scheduledDate": 1789786800000,
+      "scheduledDate": 1789871400000,
       "duration": 90,
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Golf",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-09-19_EP040914080707_112757966635_2026-09-16T15:21:32Z_GNLZZGG003P7W3Q/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
-    {
-      "programTitle": "PGA Tour Golf",
-      "episodeTitle": "Biltmore Championship Asheville, Second Round",
-      "description": "From The Cliffs at Walnut Cove in Asheville, N.C.",
-      "scheduledDate": 1789792200000,
-      "duration": 90,
-      "parentalRating": "",
-      "programType": "Sports event",
-      "genre": "Golf",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-09-19_EP030899371423_112806445288_2026-09-18T05:22:06Z_GNLZZGG003PH250/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
-    {
-      "programTitle": "T100 Triathlon World Tour Highlights",
-      "episodeTitle": "France",
-      "description": "Highlights and insights from the T100 Triathlon World Tour, where professional triathletes compete against each other to win the coveted title.",
-      "scheduledDate": 1789797600000,
-      "duration": 240,
-      "parentalRating": "",
-      "programType": "Sports non-event",
-      "genre": "Triathlon",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-09-19_SH050906890000_112524436963_2024-04-05T08:23:57Z_p26765620_i_h8_ad/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
-    {
-      "programTitle": "World Surf League Highlights",
-      "episodeTitle": "Trestles: Final Day",
-      "description": "Action from the World Surf League.",
-      "scheduledDate": 1789812000000,
-      "duration": 27,
-      "parentalRating": "PG",
-      "programType": "Sports non-event",
-      "genre": "Surfing",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/Fallback_LTV_Fox_Sports_507/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
-    {
-      "programTitle": "Fight Week",
-      "episodeTitle": "UFC 331",
-      "description": "The best preview of UFC 331 where Joshua Van defends his flyweight title against Alexandre Pantoja.",
-      "scheduledDate": 1789813620000,
-      "duration": 33,
-      "parentalRating": "",
-      "programType": "Series",
-      "genre": "Sports talk, Mixed martial arts, Boxing",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-09-19_SH028549290000_94258305657_2024-01-18T22:33:02Z_p14982509_i_h10_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-09-20_EP040914080708_112792261885_2026-09-18T05:21:43Z_GNLZZGG003PH23G/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "Darts",
-      "episodeTitle": "World Series Finals: Day 3, Day Session",
+      "episodeTitle": "World Series Finals: Day 3, Night Session",
       "description": "Covering of all the action from darts events around the world.",
-      "scheduledDate": 1789815600000,
+      "scheduledDate": 1789876800000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Darts",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-09-20_SH032967320000_109954612423_2024-10-04T13:14:55Z_p644283_i_h8_ah/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Getting a Round In",
+      "episodeTitle": "Carter Gordon",
+      "description": "Australian professional golfer, Paul Gow hosts celebrities as his playing partners who share his love for the game of golf.",
+      "scheduledDate": 1789884000000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Series",
+      "genre": "Golf, Interview",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-09-20_SH048121120000_110998856207_2023-07-18T05:56:16Z_p25221374_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "PGA Tour Golf",
+      "episodeTitle": "Biltmore Championship, Third Round",
+      "description": "Third-round action of the Biltmore Championship from The Cliffs at Walnut Cove.",
+      "scheduledDate": 1789885800000,
+      "duration": 90,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Classic sport event, Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-09-20_SH035325650000_112615937126_2023-06-26T11:35:50Z_p8997822_i_h8_ad/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Darts",
+      "episodeTitle": "World Series Finals: Day 3, Night Session",
+      "description": "Covering of all the action from darts events around the world.",
+      "scheduledDate": 1789891200000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Darts",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-09-20_SH032967320000_109954612423_2024-10-04T13:14:55Z_p644283_i_h8_ah/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NASCAR Cup Racing Series",
+      "episodeTitle": "Bristol Motor Speedway",
+      "description": "Coverage of the NASCAR Cup Series, professional stock car racing in the United States.",
+      "scheduledDate": 1789898400000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Classic sport event, Motorsports, Auto racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-09-20_SH056052770000_110216247140_2024-02-28T07:23:12Z_p8599472_i_h10_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Darts",
+      "episodeTitle": "World Darts Championship - Day 4",
+      "description": "Covering of all the action from darts events around the world.",
+      "scheduledDate": 1789902000000,
       "duration": 240,
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Darts",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-09-19_SH032967320000_109954612423_2024-10-04T13:14:55Z_p644283_i_h8_ah/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-09-20_SH032967320000_109954612423_2024-10-04T13:14:55Z_p644283_i_h8_ah/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Sport Special",
+      "episodeTitle": "",
+      "description": "Tune into the latest news and comprehensive analysis of different sporting events around the globe.",
+      "scheduledDate": 1789912800000,
+      "duration": 240,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Other",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/Fallback_LTV_Fox_Sports_507/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "WSL Tour",
       "episodeTitle": "Championship Tour: Lexus Trestles Pro",
       "description": "Coverage of surfing action from the WSL.",
-      "scheduledDate": 1789830000000,
+      "scheduledDate": 1789916400000,
       "duration": 540,
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Surfing",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-09-19_SH033247690000_110929981520_2019-03-19T05:40:29Z_p16589355_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-09-20_SH033247690000_110929981520_2019-03-19T05:40:29Z_p16589355_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Sport Special",
+      "episodeTitle": "",
+      "description": "Tune into the latest news and comprehensive analysis of different sporting events around the globe.",
+      "scheduledDate": 1789927200000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Other",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/Fallback_LTV_Fox_Sports_507/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     }
   ]
 }
