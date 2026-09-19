@@ -2,8 +2,8 @@
   "channel": "FS3",
   "date": "2026-09-20",
   "source": "kayo",
-  "fetchedAt": 1789807036862,
-  "fetchedAtIST": "19/9/2026, 2:07:16 pm",
+  "fetchedAt": 1789831839050,
+  "fetchedAtIST": "19/9/2026, 9:00:39 pm",
   "events": [
     {
       "programTitle": "Getting a Round In",
@@ -17,15 +17,15 @@
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-09-19_SH048121120000_110998856207_2023-07-18T05:56:16Z_p25221374_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "F",
+      "programTitle": "How Good is Golf",
       "episodeTitle": "",
-      "description": "",
+      "description": "Paul Gow talks everything golf, taking people through the greatest game of all, showing them how to play, where to play and what equipment to use.",
       "scheduledDate": 1789846200000,
       "duration": 30,
       "parentalRating": "",
-      "programType": "",
-      "genre": "",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/Fallback_LTV_Fox_Sports_503/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "programType": "Sports non-event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-09-19_SH047697570000_112826563949_2026-01-16T17:55:26Z_p24911210_i_h10_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "2026 Solheim Cup",
@@ -36,7 +36,7 @@
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Golf",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-09-19_SH065998810000_112803935607_2026-08-05T21:08:37Z_p33713632_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-09-19_SH065998810000_112829066166_2026-08-05T21:08:37Z_p33713632_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "PGA Tour Champions Golf",
@@ -135,7 +135,7 @@
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Golf",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-09-20_EP040914080709_112797821316_2026-09-15T15:23:12Z_GNLZZGG003P4X16/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-09-20_EP040914080709_112832455792_2026-09-19T09:20:36Z_GNLZZGG003PNQG2/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "2026 PGA Championship",
