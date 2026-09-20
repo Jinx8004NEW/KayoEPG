@@ -1,0 +1,86 @@
+{
+  "channel": "ES2",
+  "date": "2026-09-23",
+  "source": "kayo",
+  "fetchedAt": 1789876202220,
+  "fetchedAtIST": "20/9/2026, 9:20:02 am",
+  "events": [
+    {
+      "programTitle": "In Depth With Graham Bensinger",
+      "episodeTitle": "Gridiron Greats",
+      "description": "NFL greats reflect on the biggest moments of their career; Joe Namath, Jerry Rice, LaDainian Tomlinson and others share the lessons they learned along the way to the top.",
+      "scheduledDate": 1790101800000,
+      "duration": 25,
+      "parentalRating": "",
+      "programType": "Series",
+      "genre": "Sports talk, Interview",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-09-22_EP033308670127_112719750027_2025-07-23T15:24:10Z_p26440572_e_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "UEFA Women's Champions League",
+      "episodeTitle": "Arsenal vs. HB Køge",
+      "description": "Do Estádio de Meadow Park, em Borehamwood, Inglaterra.",
+      "scheduledDate": 1790103300000,
+      "duration": 125,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Soccer",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-09-22_EP032279220160_112803833470_2026-09-08T01:43:23Z_GNLZZGG003N3DKQ/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "In Depth With Graham Bensinger",
+      "episodeTitle": "Adam DeVine",
+      "description": "Renowned journalist Graham Bensinger interviews some of the biggest names in sports, discussing their lives and careers and some controversial topics.",
+      "scheduledDate": 1790110800000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Series",
+      "genre": "Sports talk, Interview",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-09-22_EP033308670150_112759163041_2025-07-17T15:24:57Z_p29831428_e_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "SC: Australia Weekly",
+      "episodeTitle": "",
+      "description": "Delivers key sporting news, major highlights and expert analysis.",
+      "scheduledDate": 1790112600000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Series",
+      "genre": "News",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-09-22_SH065376100000_111577890861_2026-08-05T03:16:28Z_p30227362_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "College Football Live",
+      "episodeTitle": "",
+      "description": "Breaking news, analysis, features, roundtable discussions, and interviews covering all the latest events from the world of college football.",
+      "scheduledDate": 1790114400000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Football, News",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-09-22_SH033651660000_112673605497_2017-12-12T23:22:00Z_p221266_i_h10_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Pardon the Interruption",
+      "episodeTitle": "",
+      "description": "Tony Kornheiser and Mike Wilbon have intense discussions and interview guests about the top headlines in news and sports.",
+      "scheduledDate": 1790116200000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Sports talk",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-09-22_SH032424080000_108239731292_2021-04-08T22:26:28Z_p186288_i_h8_ae/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NFL Live",
+      "episodeTitle": "",
+      "description": "Wendi Nix and analysts break down the latest news in the NFL, offering views on players, coaches and management.",
+      "scheduledDate": 1790118000000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-09-22_SH033280050000_112279371150_2022-08-27T02:25:47Z_p267723_i_h8_ae/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "channel": "FS1",
+  "date": "2026-09-23",
+  "source": "kayo",
+  "fetchedAt": 1789876201746,
+  "fetchedAtIST": "20/9/2026, 9:20:01 am",
+  "events": [
+    {
+      "programTitle": "One-Day International Cricket",
+      "episodeTitle": "England vs Sri Lanka",
+      "description": "Coverage of one-day cricket matches contested by international teams.",
+      "scheduledDate": 1790103600000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Cricket",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-09-22_EP029804690359_112834586996_2026-08-26T19:49:50Z_GNLZZGG003JGLS7/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Ashes Classics",
+      "episodeTitle": "2010/11: Australia vs England, 3rd Test",
+      "description": "",
+      "scheduledDate": 1790105400000,
+      "duration": 90,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Cricket",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-09-22_SH064479260000_109946786336_2019-07-11T06:20:10Z_p14752161_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "To Be Announced",
+      "episodeTitle": "",
+      "description": "The programming for this time slot has yet to be determined and is being confirmed by the broadcast channel.",
+      "scheduledDate": 1790110800000,
+      "duration": 240,
+      "parentalRating": "",
+      "programType": "TBA",
+      "genre": "Special, Entertainment",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-09-22_SH027575020000_112769671032_2021-11-15T14:36:19Z_p514472_b_h8_dp/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    }
+  ]
+}

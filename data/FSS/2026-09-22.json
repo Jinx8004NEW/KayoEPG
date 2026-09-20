@@ -2,8 +2,8 @@
   "channel": "FSS",
   "date": "2026-09-22",
   "source": "kayo",
-  "fetchedAt": 1789855881242,
-  "fetchedAtIST": "20/9/2026, 3:41:21 am",
+  "fetchedAt": 1789876202204,
+  "fetchedAtIST": "20/9/2026, 9:20:02 am",
   "events": [
     {
       "programTitle": "SailGP",
@@ -48,6 +48,149 @@
       "programType": "Sports event",
       "genre": "Classic sport event, Golf",
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-09-21_SH035325650000_112615937126_2023-06-26T11:35:50Z_p8997822_i_h8_ad/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Darts",
+      "episodeTitle": "World Series Finals: Final Day, Night Session",
+      "description": "Covering of all the action from darts events around the world.",
+      "scheduledDate": 1790038800000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Darts",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-09-22_SH032967320000_109954612423_2024-10-04T13:14:55Z_p644283_i_h8_ah/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "SailGP",
+      "episodeTitle": "Geneva, Day 1",
+      "description": "",
+      "scheduledDate": 1790046000000,
+      "duration": 90,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Sailing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-09-22_SH051028760000_112367882509_2021-04-23T21:46:53Z_p19827810_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "SailGP",
+      "episodeTitle": "Geneva, Day 2",
+      "description": "",
+      "scheduledDate": 1790051400000,
+      "duration": 90,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Sailing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-09-22_SH051028760000_112367882509_2021-04-23T21:46:53Z_p19827810_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Darts",
+      "episodeTitle": "World Series Finals: Final Day, Night Session",
+      "description": "Covering of all the action from darts events around the world.",
+      "scheduledDate": 1790056800000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Darts",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-09-22_SH032967320000_109954612423_2024-10-04T13:14:55Z_p644283_i_h8_ah/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "PGA Tour Golf",
+      "episodeTitle": "Biltmore Championship, Final Round",
+      "description": "Final round action of the Biltmore Championship from The Cliffs at Walnut Cove.",
+      "scheduledDate": 1790064000000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Classic sport event, Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-09-22_SH035325650000_112615937126_2023-06-26T11:35:50Z_p8997822_i_h8_ad/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "European PGA Tour Highlights",
+      "episodeTitle": "BMW PGA",
+      "description": "All the action and highlights from European Tour golf.",
+      "scheduledDate": 1790071200000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-09-22_SH037026900000_112448059278_2022-09-05T13:56:59Z_p9656797_i_h10_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Auto Racing",
+      "episodeTitle": "Shannons SpeedSeries: Round 5 - Sydney, Day 1",
+      "description": "Comprehensive coverage and full game replays of all the exciting action and events from the world of auto racing.",
+      "scheduledDate": 1790073000000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Auto racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-09-22_SH028105000000_112799975944_2018-09-19T12:09:00Z_p8801850_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Auto Racing",
+      "episodeTitle": "Shannons SpeedSeries - Sydney, Day 2",
+      "description": "Coverage of motor racing events.",
+      "scheduledDate": 1790076600000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Auto racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-09-22_SH031965880000_112449921438_2024-07-02T08:13:30Z_p334889_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "The Bowls Show",
+      "episodeTitle": "",
+      "description": "All the latest in the world of competitive bowls, including exclusive interviews, event highlights, club tours and coaching insight.",
+      "scheduledDate": 1790080200000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Other",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-09-22_SH024802440000_107847958042_2017-03-10T00:18:00Z_p13123463_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Getting a Round In",
+      "episodeTitle": "",
+      "description": "Australian professional golfer, Paul Gow hosts celebrities as his playing partners who share his love for the game of golf.",
+      "scheduledDate": 1790083800000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Series",
+      "genre": "Golf, Interview",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-09-22_SH048121120000_110998856207_2023-07-18T05:56:16Z_p25221374_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "SailGP",
+      "episodeTitle": "Geneva, Day 1",
+      "description": "",
+      "scheduledDate": 1790085600000,
+      "duration": 90,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Sailing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-09-22_SH051028760000_112367882509_2021-04-23T21:46:53Z_p19827810_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "SailGP",
+      "episodeTitle": "Geneva, Day 2",
+      "description": "",
+      "scheduledDate": 1790091000000,
+      "duration": 90,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Sailing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-09-22_SH051028760000_112367882509_2021-04-23T21:46:53Z_p19827810_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "2026 PGA Championship",
+      "episodeTitle": "Final Round",
+      "description": "From Aronimink Golf Club in Newtown Square, Pa.",
+      "scheduledDate": 1790096400000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-09-22_SH064233100000_112799256502_2026-04-14T20:17:56Z_p32512159_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     }
   ]
 }

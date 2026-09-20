@@ -2,8 +2,8 @@
   "channel": "FSS",
   "date": "2026-09-20",
   "source": "kayo",
-  "fetchedAt": 1789855881241,
-  "fetchedAtIST": "20/9/2026, 3:41:21 am",
+  "fetchedAt": 1789876202203,
+  "fetchedAtIST": "20/9/2026, 9:20:02 am",
   "events": [
     {
       "programTitle": "MotoGP Racing",
@@ -127,15 +127,48 @@
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/Fallback_LTV_Fox_Sports_507/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "WSL Tour",
-      "episodeTitle": "Championship Tour: Lexus Trestles Pro",
-      "description": "Coverage of surfing action from the WSL.",
+      "programTitle": "WSL Replay",
+      "episodeTitle": "Rip Curl Pro Bells Beach",
+      "description": "Presents the replay and highlights of WSL Championship Tour and Challenger Series.",
       "scheduledDate": 1789916400000,
-      "duration": 540,
+      "duration": 50,
       "parentalRating": "",
-      "programType": "Sports event",
+      "programType": "Sports non-event",
       "genre": "Surfing",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-09-20_SH033247690000_110929981520_2019-03-19T05:40:29Z_p16589355_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-09-20_SH051672730000_112432669054_2026-09-09T04:34:58Z_p27411189_i_h10_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "WSL Replay",
+      "episodeTitle": "Margaret River Pro",
+      "description": "Presents the replay and highlights of WSL Championship Tour and Challenger Series.",
+      "scheduledDate": 1789919400000,
+      "duration": 50,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Surfing, Documentary",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-09-20_SH051672730000_112432669054_2026-09-09T04:34:58Z_p27411189_i_h10_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "WSL Replay",
+      "episodeTitle": "Bonsoy Gold Coast Pro",
+      "description": "Presents the replay and highlights of WSL Championship Tour and Challenger Series.",
+      "scheduledDate": 1789922400000,
+      "duration": 50,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Surfing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-09-20_SH051672730000_112432669054_2026-09-09T04:34:58Z_p27411189_i_h10_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "WSL Replay",
+      "episodeTitle": "New Zealand Pro",
+      "description": "Presents the replay and highlights of WSL Championship Tour and Challenger Series.",
+      "scheduledDate": 1789925400000,
+      "duration": 50,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Surfing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-09-20_SH051672730000_112432669054_2026-09-09T04:34:58Z_p27411189_i_h10_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "Sport Special",
@@ -147,6 +180,17 @@
       "programType": "Sports non-event",
       "genre": "Other",
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/Fallback_LTV_Fox_Sports_507/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "WSL Replay",
+      "episodeTitle": "El Salvador",
+      "description": "Presents the replay and highlights of WSL Championship Tour and Challenger Series.",
+      "scheduledDate": 1789928400000,
+      "duration": 50,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Surfing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-09-20_SH051672730000_112432669054_2026-09-09T04:34:58Z_p27411189_i_h10_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     }
   ]
 }

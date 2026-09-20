@@ -1,0 +1,53 @@
+{
+  "channel": "FSP",
+  "date": "2026-09-23",
+  "source": "kayo",
+  "fetchedAt": 1789876201949,
+  "fetchedAtIST": "20/9/2026, 9:20:01 am",
+  "events": [
+    {
+      "programTitle": "SailGP",
+      "episodeTitle": "Geneva, Day 2",
+      "description": "",
+      "scheduledDate": 1790105400000,
+      "duration": 90,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Sailing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-09-22_SH051028760000_112367882509_2021-04-23T21:46:53Z_p19827810_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "MotoGP Racing",
+      "episodeTitle": "Qatar Airways Grand Prix of Austria, Sprint Race",
+      "description": "From Red Bull Ring in Austria.",
+      "scheduledDate": 1790110800000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Motorcycle racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-09-22_EP028104881570_112772823988_2026-09-17T17:33:09Z_GNLZZGG003PG5VS/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "MotoGP Racing",
+      "episodeTitle": "Qatar Airways Grand Prix of Austria",
+      "description": "From Red Bull Ring in Austria.",
+      "scheduledDate": 1790112600000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Motorcycle racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-09-22_EP028104881571_112806319233_2026-09-17T17:28:55Z_GNLZZGG003PG54Z/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Darts",
+      "episodeTitle": "World Series Finals: Final Day, Night Session",
+      "description": "Covering of all the action from darts events around the world.",
+      "scheduledDate": 1790116200000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Darts",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-09-22_SH032967320000_109954612423_2024-10-04T13:14:55Z_p644283_i_h8_ah/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    }
+  ]
+}

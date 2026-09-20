@@ -2,8 +2,8 @@
   "channel": "FS3",
   "date": "2026-09-22",
   "source": "kayo",
-  "fetchedAt": 1789855881218,
-  "fetchedAtIST": "20/9/2026, 3:41:21 am",
+  "fetchedAt": 1789876201797,
+  "fetchedAtIST": "20/9/2026, 9:20:01 am",
   "events": [
     {
       "programTitle": "PGA Tour Highlights",
@@ -26,6 +26,160 @@
       "programType": "Sports event",
       "genre": "Golf",
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-09-21_EP044669240004_112675062768_2022-08-15T17:05:56Z_p22762134_b_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "2024 Presidents Cup",
+      "episodeTitle": "Final Day",
+      "description": "From Royal Montreal Golf Club in L'Ile-Bizard, Que.",
+      "scheduledDate": 1790035200000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-09-22_SH052879030000_112279762264_2024-08-12T20:53:42Z_p27908485_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "2015 Presidents Cup Official Film",
+      "episodeTitle": "",
+      "description": "",
+      "scheduledDate": 1790042400000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Special, Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-09-22_SH066208450000_112805549648_2024-10-04T04:03:17Z_p28311212_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "2017 Presidents Cup - Official Film",
+      "episodeTitle": "",
+      "description": "",
+      "scheduledDate": 1790046000000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Special",
+      "genre": "Special, Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-09-22_SH044669210000_112558889177_2019-12-11T01:00:17Z_p14878687_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "2019 Presidents Cup - Official Film",
+      "episodeTitle": "",
+      "description": "",
+      "scheduledDate": 1790049600000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Special",
+      "genre": "Special, Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-09-22_SH044669190000_112426662776_2020-03-16T15:30:17Z_p18006217_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "2022 Presidents Cup: Official Film",
+      "episodeTitle": "",
+      "description": "",
+      "scheduledDate": 1790053200000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Special, Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-09-22_SH066208490000_112805549628_2024-02-14T10:13:37Z_p23570871_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "PGA Tour Highlights",
+      "episodeTitle": "2024 Presidents Cup Official Film",
+      "description": "Highlights from PGA Tour events featuring the world's best golfers in action. Hosts track the progression of the game while reviewing the changes in technologies and techniques.",
+      "scheduledDate": 1790056800000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Classic sport event, Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-09-22_SH032355110000_106892699068_2023-03-16T12:30:24Z_p9060599_i_h10_ae/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "PGA Tour Highlights",
+      "episodeTitle": "Road to the Presidents Cup",
+      "description": "Highlights from PGA Tour events featuring the world's best golfers in action. Hosts track the progression of the game while reviewing the changes in technologies and techniques.",
+      "scheduledDate": 1790060400000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Classic sport event, Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-09-22_SH032355110000_106892699068_2023-03-16T12:30:24Z_p9060599_i_h10_ae/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Road to the Presidents Cup",
+      "episodeTitle": "",
+      "description": "A look ahead to the Presidents Cup, a competition between American and International golfers that takes place this year at Medinah Country Club in Medinah, Ill.",
+      "scheduledDate": 1790064000000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-09-22_SH065965780000_112830199521_2026-08-24T05:58:59Z_p33378430_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Road to the Presidents Cup",
+      "episodeTitle": "",
+      "description": "A look ahead to the Presidents Cup, a competition between American and International golfers that takes place this year at Medinah Country Club in Medinah, Ill.",
+      "scheduledDate": 1790067600000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-09-22_SH065965780000_112830199521_2026-08-24T05:58:59Z_p33378430_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "PGA Tour Golf",
+      "episodeTitle": "1998 Presidents Cup - Final Day",
+      "description": "Professional golfers compete against one another in the PGA Tour to win the coveted title.",
+      "scheduledDate": 1790071200000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Classic sport event, Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-09-22_SH035325650000_112615937126_2023-06-26T11:35:50Z_p8997822_i_h8_ad/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "PGA Tour Golf",
+      "episodeTitle": "2000 Presidents Cup - Final Day",
+      "description": "Professional golfers compete against one another in the PGA Tour to win the coveted title.",
+      "scheduledDate": 1790078400000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Classic sport event, Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-09-22_SH035325650000_112615937126_2023-06-26T11:35:50Z_p8997822_i_h8_ad/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "PGA Tour Golf",
+      "episodeTitle": "2003 Presidents Cup - Final Day",
+      "description": "Professional golfers compete against one another in the PGA Tour to win the coveted title.",
+      "scheduledDate": 1790085600000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Classic sport event, Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-09-22_SH035325650000_112615937126_2023-06-26T11:35:50Z_p8997822_i_h8_ad/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "The 2009 Presidents Cup - Official Film",
+      "episodeTitle": "",
+      "description": "",
+      "scheduledDate": 1790092800000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Special",
+      "genre": "Special, Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-09-22_SH044669170000_112676789071_2022-09-21T03:46:23Z_p7930670_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Live from the Presidents Cup",
+      "episodeTitle": "",
+      "description": "",
+      "scheduledDate": 1790096400000,
+      "duration": 180,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-09-22_SH052952550000_112467861790_2026-09-09T20:20:29Z_p22737534_i_h8_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     }
   ]
 }
