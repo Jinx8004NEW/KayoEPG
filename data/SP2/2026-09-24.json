@@ -1,0 +1,42 @@
+{
+  "channel": "SP2",
+  "date": "2026-09-24",
+  "source": "kayo",
+  "fetchedAt": 1789962398954,
+  "fetchedAtIST": "21/9/2026, 9:16:38 am",
+  "events": [
+    {
+      "programTitle": "NRL",
+      "episodeTitle": "New Zealand Warriors vs Dolphins",
+      "description": "From Go Media Stadium in Penrose, Auckland, New Zealand.",
+      "scheduledDate": 1790190000000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Playoff sports, Rugby league, Rugby",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-09-23_EP031720961240_112640156101_2026-09-06T23:04:51Z_GNLZZGG003MYYEV/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Sport Special",
+      "episodeTitle": "",
+      "description": "Tune into the latest news and comprehensive analysis of different sporting events around the globe.",
+      "scheduledDate": 1790193600000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Other",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/Fallback_LTV_Fox_League/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Sport Special",
+      "episodeTitle": "",
+      "description": "Tune into the latest news and comprehensive analysis of different sporting events around the globe.",
+      "scheduledDate": 1790200800000,
+      "duration": 240,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Other",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/Fallback_LTV_Fox_League/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    }
+  ]
+}

@@ -2,8 +2,8 @@
   "channel": "FSS",
   "date": "2026-09-21",
   "source": "kayo",
-  "fetchedAt": 1789942447357,
-  "fetchedAtIST": "21/9/2026, 3:44:07 am",
+  "fetchedAt": 1789962398978,
+  "fetchedAtIST": "21/9/2026, 9:16:38 am",
   "events": [
     {
       "programTitle": "WSL Replay",
@@ -98,7 +98,7 @@
       "episodeTitle": "Biltmore Championship, Final Round",
       "description": "Final round action of the Biltmore Championship from The Cliffs at Walnut Cove.",
       "scheduledDate": 1789963200000,
-      "duration": 120,
+      "duration": 124,
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Classic sport event, Golf",
@@ -117,10 +117,32 @@
     },
     {
       "programTitle": "SailGP",
+      "episodeTitle": "Geneva, Day 1",
+      "description": "",
+      "scheduledDate": 1789970640000,
+      "duration": 88,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Sailing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-09-21_SH051028760000_112367882509_2021-04-23T21:46:53Z_p19827810_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "SailGP",
       "episodeTitle": "Geneva, Day 2",
       "description": "",
       "scheduledDate": 1789975800000,
       "duration": 90,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Sailing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-09-21_SH051028760000_112367882509_2021-04-23T21:46:53Z_p19827810_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "SailGP",
+      "episodeTitle": "Geneva, Day 2",
+      "description": "",
+      "scheduledDate": 1789975920000,
+      "duration": 89,
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Sailing",
@@ -138,6 +160,17 @@
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-09-21_SH032967320000_109954612423_2024-10-04T13:14:55Z_p644283_i_h8_ah/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
+      "programTitle": "Darts",
+      "episodeTitle": "World Series Finals: Final Day, Night Session",
+      "description": "Covering of all the action from darts events around the world.",
+      "scheduledDate": 1789981260000,
+      "duration": 121,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Darts",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-09-21_SH032967320000_109954612423_2024-10-04T13:14:55Z_p644283_i_h8_ah/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
       "programTitle": "2026 PGA Championship",
       "episodeTitle": "Final Round",
       "description": "From Aronimink Golf Club in Newtown Square, Pa.",
@@ -149,11 +182,33 @@
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-09-21_SH064233100000_112799256502_2026-04-14T20:17:56Z_p32512159_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
+      "programTitle": "2026 PGA Championship",
+      "episodeTitle": "Final Round",
+      "description": "From Aronimink Golf Club in Newtown Square, Pa.",
+      "scheduledDate": 1789988520000,
+      "duration": 121,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-09-21_SH064233100000_112799256502_2026-04-14T20:17:56Z_p32512159_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
       "programTitle": "PGA Tour Golf",
       "episodeTitle": "Biltmore Championship, Final Round",
       "description": "Final round action of the Biltmore Championship from The Cliffs at Walnut Cove.",
       "scheduledDate": 1789995600000,
       "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Classic sport event, Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-09-21_SH035325650000_112615937126_2023-06-26T11:35:50Z_p8997822_i_h8_ad/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "PGA Tour Golf",
+      "episodeTitle": "Biltmore Championship, Final Round",
+      "description": "Final round action of the Biltmore Championship from The Cliffs at Walnut Cove.",
+      "scheduledDate": 1789995780000,
+      "duration": 57,
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Classic sport event, Golf",

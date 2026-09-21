@@ -1,0 +1,64 @@
+{
+  "channel": "ES2",
+  "date": "2026-09-24",
+  "source": "kayo",
+  "fetchedAt": 1789962398989,
+  "fetchedAtIST": "21/9/2026, 9:16:38 am",
+  "events": [
+    {
+      "programTitle": "In Depth With Graham Bensinger",
+      "episodeTitle": "Lindsey Vonn",
+      "description": "Olympic ski racer Lindsey Vonn invites Graham to her new Park City, Utah, mountain retreat. The alpine World Cup champion discusses retired life, her dozens of injuries and the daily battle with permanent physical damage.",
+      "scheduledDate": 1790188200000,
+      "duration": 25,
+      "parentalRating": "",
+      "programType": "Series",
+      "genre": "Sports talk, Interview",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-09-23_EP033308670060_112759519823_2025-07-23T15:04:30Z_p18824610_e_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "UEFA Women's Champions League",
+      "episodeTitle": "Chelsea vs. FK Austria Wien",
+      "description": "From Kingsmeadow in Kingston upon Thames, England, United Kingdom.",
+      "scheduledDate": 1790189700000,
+      "duration": 125,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Soccer",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-09-23_EP032279220162_112803860984_2026-09-08T01:42:40Z_GNLZZGG003N3DTL/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "The Pat McAfee Show",
+      "episodeTitle": "",
+      "description": "Former NFL punter Pat McAfee brings his humour, sarcasm and candour to the microphone to highlight the day's top stories.",
+      "scheduledDate": 1790197200000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Series",
+      "genre": "Sports talk",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-09-23_SH048483860000_111648065422_2020-09-10T14:31:07Z_p18762527_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NFL's Greatest Games",
+      "episodeTitle": "",
+      "description": "Recounts the NFL's greatest and most memorable games.",
+      "scheduledDate": 1790204400000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Football, Classic sport event",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-09-23_SH033234220000_112790487672_2020-09-25T18:31:20Z_p817028_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NFL's Greatest Games",
+      "episodeTitle": "",
+      "description": "Recounts the NFL's greatest and most memorable games.",
+      "scheduledDate": 1790206200000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Football, Classic sport event",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-09-23_SH033234220000_112790487672_2020-09-25T18:31:20Z_p817028_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    }
+  ]
+}

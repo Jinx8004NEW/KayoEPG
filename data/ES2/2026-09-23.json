@@ -2,8 +2,8 @@
   "channel": "ES2",
   "date": "2026-09-23",
   "source": "kayo",
-  "fetchedAt": 1789942447365,
-  "fetchedAtIST": "21/9/2026, 3:44:07 am",
+  "fetchedAt": 1789962398988,
+  "fetchedAtIST": "21/9/2026, 9:16:38 am",
   "events": [
     {
       "programTitle": "In Depth With Graham Bensinger",
@@ -81,6 +81,149 @@
       "programType": "Sports non-event",
       "genre": "Football",
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-09-22_SH033280050000_112279371150_2022-08-27T02:25:47Z_p267723_i_h8_ae/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NFL's Greatest Games",
+      "episodeTitle": "",
+      "description": "Recounts the NFL's greatest and most memorable games.",
+      "scheduledDate": 1790121600000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Football, Classic sport event",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-09-23_SH033234220000_112790487672_2020-09-25T18:31:20Z_p817028_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "30 for 30",
+      "episodeTitle": "Fernando Nation",
+      "description": "Director Cruz Angeles chronicles the impact of Los Angeles Dodgers pitching great Fernando Valenzuela on the Mexican-American community and baseball in general in the early 1980s.",
+      "scheduledDate": 1790125200000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Documentary",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-09-23_EP023926430021_109896022290_2023-05-22T17:16:47Z_p8272757_e_h8_ad/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "MLB Baseball",
+      "episodeTitle": "Los Angeles Dodgers vs San Diego Padres",
+      "description": "From Uniqlo Field at Dodger Stadium in Los Angeles.",
+      "scheduledDate": 1790128800000,
+      "duration": 180,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Baseball",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-09-23_EP062580852826_112853007964_2026-06-27T19:36:37Z_GNLZZGG0037V7YM/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "SportsCenter",
+      "episodeTitle": "",
+      "description": "The team deliver the latest news, highlights, and inside information from the wide world of sports, as well as trending topics across social media platforms.",
+      "scheduledDate": 1790139600000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "News, Sports talk",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-09-23_SH033259060000_109832503473_2018-04-18T10:39:00Z_p186674_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NFL's Greatest Games",
+      "episodeTitle": "",
+      "description": "Recounts the NFL's greatest and most memorable games.",
+      "scheduledDate": 1790143200000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Football, Classic sport event",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-09-23_SH033234220000_112790487672_2020-09-25T18:31:20Z_p817028_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "WNBA Basketball",
+      "episodeTitle": "Indiana Fever vs Minnesota Lynx",
+      "description": "From Gainbridge Fieldhouse in Indianapolis.",
+      "scheduledDate": 1790146800000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Basketball",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-09-23_EP033268231116_112832363125_2026-06-25T04:37:02Z_GNLZZGG0037BYCS/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "WNBA Basketball",
+      "episodeTitle": "Las Vegas Aces vs Los Angeles Sparks",
+      "description": "From Michelob ULTRA Arena in Las Vegas.",
+      "scheduledDate": 1790154000000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Basketball",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-09-23_EP033268231117_112832378965_2026-06-25T04:36:33Z_GNLZZGG0037BKB3/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "MLB Baseball",
+      "episodeTitle": "Los Angeles Dodgers vs San Diego Padres",
+      "description": "From Uniqlo Field at Dodger Stadium in Los Angeles.",
+      "scheduledDate": 1790161200000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Baseball",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-09-23_EP062580852826_112853007964_2026-06-27T19:36:37Z_GNLZZGG0037V7YM/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Quick Pitch",
+      "episodeTitle": "",
+      "description": "All the latest baseball news, scores and highlights. Plus, a first look at upcoming matchups.",
+      "scheduledDate": 1790168400000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Baseball",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-09-23_SH039225660000_107838083445_2020-08-03T13:50:35Z_p3527970_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Quick Pitch",
+      "episodeTitle": "",
+      "description": "All the latest baseball news, scores and highlights. Plus, a first look at upcoming matchups.",
+      "scheduledDate": 1790172000000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Baseball",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-09-23_SH039225660000_107838083445_2020-08-03T13:50:35Z_p3527970_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Quick Pitch",
+      "episodeTitle": "",
+      "description": "All the latest baseball news, scores and highlights. Plus, a first look at upcoming matchups.",
+      "scheduledDate": 1790175600000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Baseball",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-09-23_SH039225660000_107838083445_2020-08-03T13:50:35Z_p3527970_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Get Up",
+      "episodeTitle": "",
+      "description": "Mike Greenberg, Laura Rutledge and Jalen Rose discuss and analyse the latest news from the world of sports.",
+      "scheduledDate": 1790179200000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Sports talk",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-09-23_SH033268270000_107093139583_2026-03-24T04:04:44Z_p15158780_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "College Football Live",
+      "episodeTitle": "",
+      "description": "Breaking news, analysis, features, roundtable discussions, and interviews covering all the latest events from the world of college football.",
+      "scheduledDate": 1790186400000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Football, News",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-09-23_SH033651660000_112673605497_2017-12-12T23:22:00Z_p221266_i_h10_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     }
   ]
 }

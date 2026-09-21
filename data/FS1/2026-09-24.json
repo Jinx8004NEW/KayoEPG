@@ -1,0 +1,86 @@
+{
+  "channel": "FS1",
+  "date": "2026-09-24",
+  "source": "kayo",
+  "fetchedAt": 1789962398947,
+  "fetchedAtIST": "21/9/2026, 9:16:38 am",
+  "events": [
+    {
+      "programTitle": "Ashes Classics",
+      "episodeTitle": "2010/11: Australia vs England, 3rd Test",
+      "description": "",
+      "scheduledDate": 1790193600000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Cricket",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-09-23_SH064479260000_109946786336_2019-07-11T06:20:10Z_p14752161_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Test Cricket",
+      "episodeTitle": "2nd Test, Day 3: Australia vs. Bangladesh",
+      "description": "Coverage and highlights from international test cricket matches.",
+      "scheduledDate": 1790195400000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Cricket, Classic sport event",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-09-23_SH033446590000_98978823590_2023-09-29T14:53:53Z_p8163404_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "CPL T20 Cricket",
+      "episodeTitle": "Eliminator: Barbados Tridents vs Jamaica Kingsmen",
+      "description": "From Kensington Oval in Bridgetown, Saint Michael, Barbados.",
+      "scheduledDate": 1790199000000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Cricket",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-09-23_EP033351860214_112691550071_2026-09-14T19:55:48Z_GNLZZGG003P0C55/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "CPL T20 Cricket",
+      "episodeTitle": "Guyana Amazon Warriors vs Antigua & Barbuda Falcons",
+      "description": "From Providence Stadium in Providence, Demerara-Mahaica, Guyana.",
+      "scheduledDate": 1790200800000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Cricket",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-09-23_EP033351860215_112793607445_2026-09-14T19:58:46Z_GNLZZGG003P0DZS/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "CPL T20 Cricket",
+      "episodeTitle": "Qualifier 2: Jamaica Kingsmen vs Guyana Amazon Warriors",
+      "description": "From Sabina Park in Kingston, Kingston, Jamaica.",
+      "scheduledDate": 1790202600000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Cricket",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-09-23_EP033351860216_112809734733_2026-09-18T17:31:00Z_GNLZZGG003PJESR/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "CPL T20 Cricket",
+      "episodeTitle": "Final: Antigua & Barbuda Falcons vs Jamaica Kingsmen",
+      "description": "Coverage of action from the Caribbean Premier League T20 cricket.",
+      "scheduledDate": 1790204400000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Cricket",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-09-23_EP033351860217_112836981662_2026-09-19T19:40:40Z_GNLZZGG003PNE7D/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Test Cricket",
+      "episodeTitle": "England v Pakistan, 3rd Test",
+      "description": "Coverage and highlights from international test cricket matches.",
+      "scheduledDate": 1790206200000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Cricket, Classic sport event",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-09-23_SH033446590000_98978823590_2023-09-29T14:53:53Z_p8163404_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    }
+  ]
+}
