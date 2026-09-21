@@ -1,169 +1,81 @@
 {
   "channel": "FS1",
-  "date": "2026-09-21",
+  "date": "2026-09-22",
   "source": "kayo",
-  "fetchedAt": 1790013445019,
-  "fetchedAtIST": "21/9/2026, 11:27:25 pm",
+  "fetchedAt": 1790031763531,
+  "fetchedAtIST": "22/9/2026, 4:32:43 am",
   "events": [
     {
-      "programTitle": "Ashes Classics",
-      "episodeTitle": "2002/03: Australia vs England, 5th Test",
-      "description": "",
-      "scheduledDate": 1789930800000,
+      "programTitle": "Test Cricket",
+      "episodeTitle": "2nd Test, Day 2: Australia vs Bangladesh",
+      "description": "Coverage and highlights from international test cricket matches.",
+      "scheduledDate": 1790016900000,
+      "duration": 65,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Cricket, Classic sport event",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-09-21_SH033446590000_98978823590_2023-09-29T14:53:53Z_p8163404_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Test Cricket",
+      "episodeTitle": "Australia v Bangladesh, 1st Test",
+      "description": "Coverage and highlights from international test cricket matches.",
+      "scheduledDate": 1790020800000,
       "duration": 60,
       "parentalRating": "",
-      "programType": "Sports non-event",
-      "genre": "Cricket",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-09-20_SH064479260000_109946786336_2019-07-11T06:20:10Z_p14752161_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "programType": "Sports event",
+      "genre": "Cricket, Classic sport event",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-09-21_SH033446590000_98978823590_2023-09-29T14:53:53Z_p8163404_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "T20 Cricket",
-      "episodeTitle": "England vs Sri Lanka",
-      "description": "Coverage of Twenty20 cricket matches contested by international teams, featuring all the exciting action.",
-      "scheduledDate": 1789934400000,
-      "duration": 20,
+      "programTitle": "Test Cricket",
+      "episodeTitle": "Australia v Bangladesh, 2nd Test",
+      "description": "Coverage and highlights from international test cricket matches.",
+      "scheduledDate": 1790024400000,
+      "duration": 60,
       "parentalRating": "",
       "programType": "Sports event",
-      "genre": "Cricket",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-09-20_EP029805000640_112805549483_2026-08-26T19:48:56Z_GNLZZGG003JGL5W/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
-    {
-      "programTitle": "T20 Mini",
-      "episodeTitle": "England v Sri Lanka, Game 2",
-      "description": "Condensed highlights and classic matches from T20 cricket matches.",
-      "scheduledDate": 1789935600000,
-      "duration": 20,
-      "parentalRating": "",
-      "programType": "Sports event",
-      "genre": "Classic sport event, Cricket",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-09-20_SH036489390000_79559987170_2021-06-10T12:37:23Z_p18959790_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
-    {
-      "programTitle": "T20 Mini",
-      "episodeTitle": "England v Sri Lanka, Game 3",
-      "description": "Condensed highlights and classic matches from T20 cricket matches.",
-      "scheduledDate": 1789936800000,
-      "duration": 20,
-      "parentalRating": "",
-      "programType": "Sports event",
-      "genre": "Classic sport event, Cricket",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-09-20_SH036489390000_79559987170_2021-06-10T12:37:23Z_p18959790_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "genre": "Cricket, Classic sport event",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-09-21_SH033446590000_98978823590_2023-09-29T14:53:53Z_p8163404_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "CPL T20 Cricket",
       "episodeTitle": "Eliminator: Barbados Tridents vs Jamaica Kingsmen",
       "description": "From Kensington Oval in Bridgetown, Saint Michael, Barbados.",
-      "scheduledDate": 1789938000000,
+      "scheduledDate": 1790028000000,
       "duration": 30,
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Cricket",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-09-20_EP033351860214_112691550071_2026-09-14T19:55:48Z_GNLZZGG003P0C55/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-09-21_EP033351860214_112691550071_2026-09-14T19:55:48Z_GNLZZGG003P0C55/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "CPL T20 Cricket",
       "episodeTitle": "Guyana Amazon Warriors vs Antigua & Barbuda Falcons",
       "description": "From Providence Stadium in Providence, Demerara-Mahaica, Guyana.",
-      "scheduledDate": 1789939800000,
+      "scheduledDate": 1790029800000,
       "duration": 30,
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Cricket",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-09-20_EP033351860215_112793607445_2026-09-14T19:58:46Z_GNLZZGG003P0DZS/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-09-21_EP033351860215_112793607445_2026-09-14T19:58:46Z_GNLZZGG003P0DZS/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "CPL T20 Cricket",
       "episodeTitle": "Qualifier 2: Jamaica Kingsmen vs Guyana Amazon Warriors",
       "description": "From Sabina Park in Kingston, Kingston, Jamaica.",
-      "scheduledDate": 1789941600000,
+      "scheduledDate": 1790031600000,
       "duration": 30,
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Cricket",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-09-20_EP033351860216_112809734733_2026-09-18T17:31:00Z_GNLZZGG003PJESR/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-09-21_EP033351860216_112809734733_2026-09-18T17:31:00Z_GNLZZGG003PJESR/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "CPL T20 Cricket",
       "episodeTitle": "Final: Antigua & Barbuda Falcons vs Jamaica Kingsmen",
       "description": "Coverage of action from the Caribbean Premier League T20 cricket.",
-      "scheduledDate": 1789943400000,
-      "duration": 300,
-      "parentalRating": "",
-      "programType": "Sports event",
-      "genre": "Cricket",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-09-20_EP033351860217_112836981662_2026-09-19T19:40:40Z_GNLZZGG003PNE7D/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
-    {
-      "programTitle": "One-Day International Cricket",
-      "episodeTitle": "Zimbabwe v Australia, Game 3",
-      "description": "Coverage of one-day cricket matches contested by international teams.",
-      "scheduledDate": 1789961400000,
-      "duration": 60,
-      "parentalRating": "",
-      "programType": "Sports event",
-      "genre": "Cricket, Classic sport event",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-09-21_SH034583010000_110095246552_2026-03-24T13:16:18Z_p8509066_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
-    {
-      "programTitle": "One-Day International Cricket",
-      "episodeTitle": "Zimbabwe v Australia, Game 3",
-      "description": "Coverage of one-day cricket matches contested by international teams.",
-      "scheduledDate": 1789965000000,
-      "duration": 20,
-      "parentalRating": "",
-      "programType": "Sports event",
-      "genre": "Cricket, Classic sport event",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-09-21_SH034583010000_110095246552_2026-03-24T13:16:18Z_p8509066_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
-    {
-      "programTitle": "T20 Mini",
-      "episodeTitle": "England v Sri Lanka, Game 3",
-      "description": "Condensed highlights and classic matches from T20 cricket matches.",
-      "scheduledDate": 1789966200000,
-      "duration": 20,
-      "parentalRating": "",
-      "programType": "Sports event",
-      "genre": "Classic sport event, Cricket",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-09-21_SH036489390000_79559987170_2021-06-10T12:37:23Z_p18959790_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
-    {
-      "programTitle": "One-Day International Cricket",
-      "episodeTitle": "Zimbabwe v Australia, Game 3",
-      "description": "Coverage of one-day cricket matches contested by international teams.",
-      "scheduledDate": 1789967400000,
-      "duration": 20,
-      "parentalRating": "",
-      "programType": "Sports event",
-      "genre": "Cricket, Classic sport event",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-09-21_SH034583010000_110095246552_2026-03-24T13:16:18Z_p8509066_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
-    {
-      "programTitle": "Test Cricket",
-      "episodeTitle": "Australia v New Zealand: 1st Test, Day 1",
-      "description": "Coverage and highlights from international test cricket matches.",
-      "scheduledDate": 1789968600000,
-      "duration": 60,
-      "parentalRating": "",
-      "programType": "Sports event",
-      "genre": "Cricket, Classic sport event",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-09-21_SH033446590000_98978823590_2023-09-29T14:53:53Z_p8163404_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
-    {
-      "programTitle": "Test Cricket",
-      "episodeTitle": "",
-      "description": "Coverage and highlights from international test cricket matches.",
-      "scheduledDate": 1789972200000,
-      "duration": 60,
-      "parentalRating": "",
-      "programType": "Sports event",
-      "genre": "Cricket, Classic sport event",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-09-21_SH033446590000_98978823590_2023-09-29T14:53:53Z_p8163404_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
-    {
-      "programTitle": "CPL T20 Cricket",
-      "episodeTitle": "Final: Antigua & Barbuda Falcons vs Jamaica Kingsmen",
-      "description": "Coverage of action from the Caribbean Premier League T20 cricket.",
-      "scheduledDate": 1789975800000,
+      "scheduledDate": 1790033400000,
       "duration": 30,
       "parentalRating": "",
       "programType": "Sports event",
@@ -171,169 +83,202 @@
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-09-21_EP033351860217_112836981662_2026-09-19T19:40:40Z_GNLZZGG003PNE7D/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
+      "programTitle": "Test Cricket",
+      "episodeTitle": "1st Test, Day 1: England v Pakistan",
+      "description": "The Bazball era is over as England begin their first Test series without Ben Stokes and Brendon McCullum.",
+      "scheduledDate": 1790035200000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Cricket, Classic sport event",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-09-22_SH033446590000_98978823590_2023-09-29T14:53:53Z_p8163404_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Test Cricket",
+      "episodeTitle": "England v Pakistan, 2nd Test Review",
+      "description": "Following a dominant win by England in the opening Test, Pakistan must deliver a powerful comeback as the series transitions to Lord's.",
+      "scheduledDate": 1790038800000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Cricket, Classic sport event",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-09-22_SH033446590000_98978823590_2023-09-29T14:53:53Z_p8163404_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Test Cricket",
+      "episodeTitle": "England v Pakistan, 3rd Test",
+      "description": "Coverage and highlights from international test cricket matches.",
+      "scheduledDate": 1790042400000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Cricket, Classic sport event",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-09-22_SH033446590000_98978823590_2023-09-29T14:53:53Z_p8163404_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "One-Day International Cricket",
+      "episodeTitle": "Zimbabwe v Australia, 1st ODI",
+      "description": "Coverage of one-day cricket matches contested by international teams.",
+      "scheduledDate": 1790046000000,
+      "duration": 20,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Cricket, Classic sport event",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-09-22_SH034583010000_110095246552_2026-03-24T13:16:18Z_p8509066_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "One-Day International Cricket",
+      "episodeTitle": "Zimbabwe v Australia, Game 2",
+      "description": "Coverage of one-day cricket matches contested by international teams.",
+      "scheduledDate": 1790047200000,
+      "duration": 20,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Cricket, Classic sport event",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-09-22_SH034583010000_110095246552_2026-03-24T13:16:18Z_p8509066_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
       "programTitle": "One-Day International Cricket",
       "episodeTitle": "Zimbabwe v Australia, Game 3",
       "description": "Coverage of one-day cricket matches contested by international teams.",
-      "scheduledDate": 1789977600000,
+      "scheduledDate": 1790048400000,
+      "duration": 20,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Cricket, Classic sport event",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-09-22_SH034583010000_110095246552_2026-03-24T13:16:18Z_p8509066_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "One-Day International Cricket",
+      "episodeTitle": "Zimbabwe v Australia, Game 3",
+      "description": "Coverage of one-day cricket matches contested by international teams.",
+      "scheduledDate": 1790049600000,
       "duration": 60,
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Cricket, Classic sport event",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-09-21_SH034583010000_110095246552_2026-03-24T13:16:18Z_p8509066_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-09-22_SH034583010000_110095246552_2026-03-24T13:16:18Z_p8509066_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "One-Day International Cricket",
-      "episodeTitle": "2025 Australia v South Africa, Game 1",
-      "description": "Coverage of one-day cricket matches contested by international teams.",
-      "scheduledDate": 1789981200000,
-      "duration": 20,
+      "programTitle": "CPL T20 Cricket",
+      "episodeTitle": "Eliminator: Barbados Tridents vs Jamaica Kingsmen",
+      "description": "From Kensington Oval in Bridgetown, Saint Michael, Barbados.",
+      "scheduledDate": 1790053200000,
+      "duration": 30,
       "parentalRating": "",
       "programType": "Sports event",
-      "genre": "Cricket, Classic sport event",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-09-21_SH034583010000_110095246552_2026-03-24T13:16:18Z_p8509066_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "genre": "Cricket",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-09-22_EP033351860214_112691550071_2026-09-14T19:55:48Z_GNLZZGG003P0C55/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "One-Day International Cricket",
-      "episodeTitle": "2025 Australia v South Africa, Game 2",
-      "description": "Coverage of one-day cricket matches contested by international teams.",
-      "scheduledDate": 1789982400000,
-      "duration": 20,
+      "programTitle": "CPL T20 Cricket",
+      "episodeTitle": "Guyana Amazon Warriors vs Antigua & Barbuda Falcons",
+      "description": "From Providence Stadium in Providence, Demerara-Mahaica, Guyana.",
+      "scheduledDate": 1790055000000,
+      "duration": 30,
       "parentalRating": "",
       "programType": "Sports event",
-      "genre": "Cricket, Classic sport event",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-09-21_SH034583010000_110095246552_2026-03-24T13:16:18Z_p8509066_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "genre": "Cricket",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-09-22_EP033351860215_112793607445_2026-09-14T19:58:46Z_GNLZZGG003P0DZS/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "One-Day International Cricket",
-      "episodeTitle": "2025 Australia v South Africa, Game 3",
-      "description": "Coverage of one-day cricket matches contested by international teams.",
-      "scheduledDate": 1789983600000,
-      "duration": 20,
+      "programTitle": "CPL T20 Cricket",
+      "episodeTitle": "Qualifier 2: Jamaica Kingsmen vs Guyana Amazon Warriors",
+      "description": "From Sabina Park in Kingston, Kingston, Jamaica.",
+      "scheduledDate": 1790056800000,
+      "duration": 30,
       "parentalRating": "",
       "programType": "Sports event",
-      "genre": "Cricket, Classic sport event",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-09-21_SH034583010000_110095246552_2026-03-24T13:16:18Z_p8509066_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "genre": "Cricket",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-09-22_EP033351860216_112809734733_2026-09-18T17:31:00Z_GNLZZGG003PJESR/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "CPL T20 Cricket",
+      "episodeTitle": "Final: Antigua & Barbuda Falcons vs Jamaica Kingsmen",
+      "description": "Coverage of action from the Caribbean Premier League T20 cricket.",
+      "scheduledDate": 1790058600000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Cricket",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-09-22_EP033351860217_112836981662_2026-09-19T19:40:40Z_GNLZZGG003PNE7D/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "Test Cricket",
-      "episodeTitle": "",
-      "description": "Coverage and highlights from international test cricket matches.",
-      "scheduledDate": 1789984800000,
+      "episodeTitle": "England v Pakistan, 2nd Test Review",
+      "description": "Following a dominant win by England in the opening Test, Pakistan must deliver a powerful comeback as the series transitions to Lord's.",
+      "scheduledDate": 1790060400000,
       "duration": 60,
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Cricket, Classic sport event",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-09-21_SH033446590000_98978823590_2023-09-29T14:53:53Z_p8163404_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-09-22_SH033446590000_98978823590_2023-09-29T14:53:53Z_p8163404_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "Test Cricket",
-      "episodeTitle": "",
+      "episodeTitle": "England v Pakistan, 3rd Test",
       "description": "Coverage and highlights from international test cricket matches.",
-      "scheduledDate": 1789988400000,
+      "scheduledDate": 1790064000000,
       "duration": 60,
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Cricket, Classic sport event",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-09-21_SH033446590000_98978823590_2023-09-29T14:53:53Z_p8163404_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-09-22_SH033446590000_98978823590_2023-09-29T14:53:53Z_p8163404_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Keepin' It Cricket",
+      "episodeTitle": "",
+      "description": "",
+      "scheduledDate": 1790067600000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Series",
+      "genre": "Cricket",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/Fallback_LTV_Fox_Cricket/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "T20 Cricket",
       "episodeTitle": "England vs Sri Lanka",
       "description": "Coverage of Twenty20 cricket matches contested by international teams, featuring all the exciting action.",
-      "scheduledDate": 1789992000000,
+      "scheduledDate": 1790071200000,
       "duration": 20,
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Cricket",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-09-21_EP029805000640_112805549483_2026-08-26T19:48:56Z_GNLZZGG003JGL5W/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-09-22_EP029805000640_112805549483_2026-08-26T19:48:56Z_GNLZZGG003JGL5W/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "T20 Mini",
       "episodeTitle": "England v Sri Lanka, Game 2",
       "description": "Condensed highlights and classic matches from T20 cricket matches.",
-      "scheduledDate": 1789993200000,
+      "scheduledDate": 1790072400000,
       "duration": 20,
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Classic sport event, Cricket",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-09-21_SH036489390000_79559987170_2021-06-10T12:37:23Z_p18959790_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-09-22_SH036489390000_79559987170_2021-06-10T12:37:23Z_p18959790_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "T20 Mini",
       "episodeTitle": "England v Sri Lanka, Game 3",
       "description": "Condensed highlights and classic matches from T20 cricket matches.",
-      "scheduledDate": 1789994400000,
+      "scheduledDate": 1790073600000,
       "duration": 20,
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Classic sport event, Cricket",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-09-21_SH036489390000_79559987170_2021-06-10T12:37:23Z_p18959790_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-09-22_SH036489390000_79559987170_2021-06-10T12:37:23Z_p18959790_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "One-Day International Cricket",
-      "episodeTitle": "Zimbabwe v Australia, Game 3",
+      "episodeTitle": "England vs Sri Lanka",
       "description": "Coverage of one-day cricket matches contested by international teams.",
-      "scheduledDate": 1789995600000,
-      "duration": 60,
+      "scheduledDate": 1790074800000,
+      "duration": 480,
       "parentalRating": "",
       "programType": "Sports event",
-      "genre": "Cricket, Classic sport event",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-09-21_SH034583010000_110095246552_2026-03-24T13:16:18Z_p8509066_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
-    {
-      "programTitle": "Test Day",
-      "episodeTitle": "Australia v Bangladesh, 1st Test Day 1",
-      "description": "A look at some of the highlights from the recent test match play, with an analysis of some of the best moments.",
-      "scheduledDate": 1789999200000,
-      "duration": 60,
-      "parentalRating": "",
-      "programType": "Sports event",
-      "genre": "Classic sport event, Cricket",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-09-21_SH031158690000_100796229602_2024-01-19T05:13:15Z_p16331760_i_h10_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
-    {
-      "programTitle": "Test Cricket",
-      "episodeTitle": "Australia v Bangladesh, 1st Test Day 2",
-      "description": "Coverage and highlights from international test cricket matches.",
-      "scheduledDate": 1790002800000,
-      "duration": 60,
-      "parentalRating": "",
-      "programType": "Sports event",
-      "genre": "Cricket, Classic sport event",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-09-21_SH033446590000_98978823590_2023-09-29T14:53:53Z_p8163404_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
-    {
-      "programTitle": "Test Cricket",
-      "episodeTitle": "1st Test, Day 3: Australia v Bangladesh",
-      "description": "Coverage and highlights from international test cricket matches.",
-      "scheduledDate": 1790006400000,
-      "duration": 55,
-      "parentalRating": "",
-      "programType": "Sports event",
-      "genre": "Cricket, Classic sport event",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-09-21_SH033446590000_98978823590_2023-09-29T14:53:53Z_p8163404_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
-    {
-      "programTitle": "Test Cricket",
-      "episodeTitle": "1st Test, Day 4: Australia v Bangladesh",
-      "description": "Australia host Bangladesh for the first time in 23 years as the series begins at TIO Stadium, Darwin.",
-      "scheduledDate": 1790009700000,
-      "duration": 60,
-      "parentalRating": "",
-      "programType": "Sports event",
-      "genre": "Cricket, Classic sport event",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-09-21_SH033446590000_98978823590_2023-09-29T14:53:53Z_p8163404_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
-    {
-      "programTitle": "Test Cricket",
-      "episodeTitle": "2nd Test, Day 1: Australia vs Bangladesh",
-      "description": "Coverage and highlights from international test cricket matches.",
-      "scheduledDate": 1790013300000,
-      "duration": 60,
-      "parentalRating": "",
-      "programType": "Sports event",
-      "genre": "Cricket, Classic sport event",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-09-21_SH033446590000_98978823590_2023-09-29T14:53:53Z_p8163404_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "genre": "Cricket",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-09-22_EP029804690359_112834586996_2026-08-26T19:49:50Z_GNLZZGG003JGLS7/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     }
   ]
 }
