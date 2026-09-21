@@ -2,8 +2,8 @@
   "channel": "FSP",
   "date": "2026-09-22",
   "source": "kayo",
-  "fetchedAt": 1789983733057,
-  "fetchedAtIST": "21/9/2026, 3:12:13 pm",
+  "fetchedAt": 1790013445048,
+  "fetchedAtIST": "21/9/2026, 11:27:25 pm",
   "events": [
     {
       "programTitle": "SailGP",
@@ -40,14 +40,14 @@
     },
     {
       "programTitle": "Supercars Championship",
-      "episodeTitle": "",
-      "description": "Supercars compete in a series across Australia and New Zealand.",
+      "episodeTitle": "Highlights - AirTouch 500 at The Bend",
+      "description": "Highlights and replays of classic races of the international motor racing series for Supercars.",
       "scheduledDate": 1790037060000,
       "duration": 59,
       "parentalRating": "",
-      "programType": "Sports event",
+      "programType": "Series",
       "genre": "Auto racing",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-09-22_SH027326760000_112737644805_2026-08-07T01:36:07Z_p522547_i_h10_ad/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-09-22_SH035728470000_102439454374_2018-12-17T21:00:00Z_p16276370_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "MotoGP Racing",
@@ -107,7 +107,7 @@
     {
       "programTitle": "European PGA Tour Highlights",
       "episodeTitle": "BMW PGA",
-      "description": "All the action and highlights from European Tour golf.",
+      "description": "Highlights from Wentworth Club in Virginia Water, England.",
       "scheduledDate": 1790060400000,
       "duration": 30,
       "parentalRating": "",

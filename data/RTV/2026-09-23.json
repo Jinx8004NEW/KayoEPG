@@ -2,8 +2,8 @@
   "channel": "RTV",
   "date": "2026-09-23",
   "source": "kayo",
-  "fetchedAt": 1789983733094,
-  "fetchedAtIST": "21/9/2026, 3:12:13 pm",
+  "fetchedAt": 1790013445084,
+  "fetchedAtIST": "21/9/2026, 11:27:25 pm",
   "events": [
     {
       "programTitle": "Racing Review",
@@ -52,7 +52,7 @@
     {
       "programTitle": "Get on Blackbook",
       "episodeTitle": "",
-      "description": "Join the team to dissect the weekend's racing, covering the horses to follow, all the big stories, and futures bets.",
+      "description": "The team dissect the weekend's racing, covering the horses to follow and the big stories.",
       "scheduledDate": 1790109900000,
       "duration": 30,
       "parentalRating": "",
@@ -171,15 +171,15 @@
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/148460_2026-09-23_SH029437720000_107971181386_2019-10-09T21:40:26Z_p15391316_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "Champions - Black Caviar",
+      "programTitle": "Champions",
       "episodeTitle": "",
-      "description": "A chronicle of the career of Australia's sprinting champion race mare, Black Caviar, who went undefeated in 25 races, including 14 Group 1 victories.",
+      "description": "The team take a look back at some horse racing champions, winners of multiple Melbourne Cups and millions of dollars in prize money.",
       "scheduledDate": 1790175600000,
       "duration": 30,
       "parentalRating": "",
-      "programType": "Special",
-      "genre": "Special, Horse racing",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/148460_2026-09-23_SH038877420000_112736130500_2021-06-07T04:26:53Z_p20082615_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "programType": "Sports non-event",
+      "genre": "Horse racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/148460_2026-09-23_SH029317200000_84343426409_2020-06-05T08:30:20Z_p15322103_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "Racing Review",
