@@ -2,8 +2,8 @@
   "channel": "SPS",
   "date": "2026-09-22",
   "source": "kayo",
-  "fetchedAt": 1790031763912,
-  "fetchedAtIST": "22/9/2026, 4:32:43 am",
+  "fetchedAt": 1790048662463,
+  "fetchedAtIST": "22/9/2026, 9:14:22 am",
   "events": [
     {
       "programTitle": "PGA Tour Highlights",
@@ -171,15 +171,15 @@
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-09-22_SH036452570000_107032703571_2020-11-19T03:00:48Z_p18944992_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "Pro Bull Riding",
+      "programTitle": "PBR Bull Riding",
       "episodeTitle": "",
-      "description": "The best bull riders in Australia and the world compete for prize money on the professional bull riding circuit.",
+      "description": "Coverage of the action from the Professional Bull Riders events.",
       "scheduledDate": 1790071200000,
       "duration": 60,
       "parentalRating": "",
-      "programType": "Sports non-event",
+      "programType": "Sports event",
       "genre": "Bull riding",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-09-22_SH029446100000_108472165776_2018-05-25T09:42:00Z_p15394895_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-09-22_SH033364560000_110114392996_2017-09-14T16:13:00Z_p12572769_i_h10_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "International Brawling Championship",
