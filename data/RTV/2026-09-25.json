@@ -2,8 +2,8 @@
   "channel": "RTV",
   "date": "2026-09-25",
   "source": "kayo",
-  "fetchedAt": 1790180233944,
-  "fetchedAtIST": "23/9/2026, 9:47:13 pm",
+  "fetchedAt": 1790203517500,
+  "fetchedAtIST": "24/9/2026, 4:15:17 am",
   "events": [
     {
       "programTitle": "Get on SA",
@@ -94,15 +94,26 @@
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/Fallback_LTV_Racing_TV/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "Craig Newitt: Seven Days",
+      "programTitle": "J-Mac",
       "episodeTitle": "",
-      "description": "An intimate look into the events that sparked one of the most difficult weeks for Jockey Craig Newitt's riding career.",
+      "description": "The host sits down with James McDonald to discuss his three-peat of Cox Plate wins, and his chase for a fourth in 2025.",
       "scheduledDate": 1790303400000,
-      "duration": 30,
+      "duration": 15,
       "parentalRating": "",
-      "programType": "Sports non-event",
-      "genre": "Special, Horse racing",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/148460_2026-09-25_SH037734540000_112393478308_2021-02-18T04:56:10Z_p19524740_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "programType": "Special",
+      "genre": "Special, News, Horse racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/148460_2026-09-25_SH061103330000_112653308129_2025-10-21T09:24:26Z_p31471131_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Racing Live",
+      "episodeTitle": "",
+      "description": "Features comprehensive coverage of some of the top horse racing events taking place in Australia and Hong Kong.",
+      "scheduledDate": 1790304300000,
+      "duration": 255,
+      "parentalRating": "",
+      "programType": "Series",
+      "genre": "Horse racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/148460_2026-09-25_SH029317280000_112642301077_2019-10-09T21:00:41Z_p15322312_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "Racing Live",
@@ -114,6 +125,17 @@
       "programType": "Series",
       "genre": "Horse racing",
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/148460_2026-09-25_SH029317280000_112642301077_2019-10-09T21:00:41Z_p15322312_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Racenight Live",
+      "episodeTitle": "",
+      "description": "Coverage of horse racing events held throughout Australia and in Hong Kong, as well as analytics and in-depth reviews from the track.",
+      "scheduledDate": 1790319600000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Horse racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/148460_2026-09-25_SH029437720000_107971181386_2019-10-09T21:40:26Z_p15391316_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "Racenight Live",
@@ -131,11 +153,22 @@
       "episodeTitle": "",
       "description": "Coverage of horse racing events held throughout Australia and in Hong Kong, as well as analytics and in-depth reviews from the track.",
       "scheduledDate": 1790323200000,
-      "duration": 240,
+      "duration": 225,
       "parentalRating": "",
       "programType": "Sports non-event",
       "genre": "Horse racing",
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/148460_2026-09-25_SH029437720000_107971181386_2019-10-09T21:40:26Z_p15391316_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "The Analyser",
+      "episodeTitle": "",
+      "description": "Ben Asgari previews and examines the day's racing, featuring speed maps and replays for every race on the card.",
+      "scheduledDate": 1790336700000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Series",
+      "genre": "Sports talk",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/148460_2026-09-25_SH032528360000_103465362616_2019-10-09T21:40:24Z_p17053183_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "The Analyser",
@@ -152,12 +185,34 @@
       "programTitle": "Get On Extra",
       "episodeTitle": "",
       "description": "Lizzie Jelfs and a panel of experts join in for a lively discussion, previewing the best from the world of racing in Australia.",
+      "scheduledDate": 1790338500000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Horse racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/148460_2026-09-25_SH049165280000_101984695699_2024-08-28T07:33:42Z_p25994896_i_h11_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Get On Extra",
+      "episodeTitle": "",
+      "description": "Lizzie Jelfs and a panel of experts join in for a lively discussion, previewing the best from the world of racing in Australia.",
       "scheduledDate": 1790339400000,
       "duration": 30,
       "parentalRating": "",
       "programType": "Sports non-event",
       "genre": "Horse racing",
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/148460_2026-09-25_SH049165280000_101984695699_2024-08-28T07:33:42Z_p25994896_i_h11_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "R",
+      "episodeTitle": "",
+      "description": "",
+      "scheduledDate": 1790340300000,
+      "duration": 15,
+      "parentalRating": "",
+      "programType": "",
+      "genre": "",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/Fallback_LTV_Racing_TV/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "The Triple Trio",

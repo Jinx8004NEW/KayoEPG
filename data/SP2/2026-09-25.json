@@ -2,8 +2,8 @@
   "channel": "SP2",
   "date": "2026-09-25",
   "source": "kayo",
-  "fetchedAt": 1790180233891,
-  "fetchedAtIST": "23/9/2026, 9:47:13 pm",
+  "fetchedAt": 1790203517454,
+  "fetchedAtIST": "24/9/2026, 4:15:17 am",
   "events": [
     {
       "programTitle": "NRL",
@@ -171,15 +171,15 @@
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-09-25_SH028096630000_102142641835_2018-11-27T09:00:00Z_p14740563_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "F",
-      "episodeTitle": "",
-      "description": "",
+      "programTitle": "NRL Classic Match",
+      "episodeTitle": "2025 Round 9: Sydney Roosters v Dolphins",
+      "description": "Re-live some of the best rugby league clashes from the Premiership's past.",
       "scheduledDate": 1790307600000,
       "duration": 20,
       "parentalRating": "",
-      "programType": "",
-      "genre": "",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/Fallback_LTV_Fox_League/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "programType": "Sports event",
+      "genre": "Rugby, Classic sport event, Rugby league",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-09-25_SH034822800000_100794011205_2020-04-08T22:50:08Z_p18168517_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "NRL 360",
@@ -237,48 +237,48 @@
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-09-25_SH029161050000_110779849480_2026-03-24T08:25:06Z_p11964078_i_h10_ae/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "F",
+      "programTitle": "NRL Tonight",
       "episodeTitle": "",
-      "description": "",
+      "description": "A look back at the latest NRL events and matches with special guests, expert opinions and breaking news.",
       "scheduledDate": 1790323200000,
       "duration": 30,
       "parentalRating": "",
-      "programType": "",
-      "genre": "",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/Fallback_LTV_Fox_League/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "programType": "Sports non-event",
+      "genre": "Sports talk, Rugby league",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-09-25_SH030523220000_107952200542_2020-03-16T19:50:14Z_p15943624_i_h10_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "F",
-      "episodeTitle": "",
-      "description": "",
+      "programTitle": "Finals Footy on Fox",
+      "episodeTitle": "Finals Week 3",
+      "description": "Showcases full analysis, live coverage and expert breakdowns of the AFL finals series.",
       "scheduledDate": 1790325000000,
       "duration": 80,
       "parentalRating": "",
-      "programType": "",
-      "genre": "",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/Fallback_LTV_Fox_League/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "programType": "Sports non-event",
+      "genre": "Sports talk, Australian rules football, Rugby league",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-09-25_SH036489360000_112090732832_2020-10-14T05:10:24Z_p18959783_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "F",
-      "episodeTitle": "",
-      "description": "",
+      "programTitle": "NRL",
+      "episodeTitle": "Dolphins vs Sydney Roosters",
+      "description": "Live from Suncorp Stadium. Kick off at 7:50PM AEST.",
       "scheduledDate": 1790329800000,
       "duration": 115,
       "parentalRating": "",
-      "programType": "",
-      "genre": "",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/Fallback_LTV_Fox_League/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "programType": "Sports event",
+      "genre": "Playoff sports, Rugby league, Rugby",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-09-25_EP031720961246_112972231861_2026-09-20T13:44:05Z_GNLZZGG003PP98N/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "F",
-      "episodeTitle": "",
-      "description": "",
+      "programTitle": "Finals Footy on Fox",
+      "episodeTitle": "Finals Week 3",
+      "description": "Showcases full analysis, live coverage and expert breakdowns of the AFL finals series.",
       "scheduledDate": 1790336700000,
       "duration": 60,
       "parentalRating": "",
-      "programType": "",
-      "genre": "",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/Fallback_LTV_Fox_League/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "programType": "Sports non-event",
+      "genre": "Sports talk, Australian rules football, Rugby league",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-09-25_SH036489360000_112090732832_2020-10-14T05:10:24Z_p18959783_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "Get Em' Onside",
@@ -292,26 +292,26 @@
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-09-25_SH034726250000_107033247745_2020-05-27T05:35:11Z_p18124645_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "F",
-      "episodeTitle": "",
-      "description": "",
+      "programTitle": "NRL Mini",
+      "episodeTitle": "Preliminary Final: Dolphins v Sydney Roosters",
+      "description": "A comprehensive summary of the match played is provided in an expedited timeframe.",
       "scheduledDate": 1790340900000,
       "duration": 20,
       "parentalRating": "",
-      "programType": "",
-      "genre": "",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/Fallback_LTV_Fox_League/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "programType": "Sports non-event",
+      "genre": "Rugby league, Rugby",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-09-25_SH035786430000_106552413658_2020-10-16T18:30:18Z_p18624350_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "F",
-      "episodeTitle": "",
-      "description": "",
+      "programTitle": "NRL Mini",
+      "episodeTitle": "Preliminary Final: Dolphins v Sydney Roosters",
+      "description": "A comprehensive summary of the match played is provided in an expedited timeframe.",
       "scheduledDate": 1790342100000,
       "duration": 20,
       "parentalRating": "",
-      "programType": "",
-      "genre": "",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/Fallback_LTV_Fox_League/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "programType": "Sports non-event",
+      "genre": "Rugby league, Rugby",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-09-25_SH035786430000_106552413658_2020-10-16T18:30:18Z_p18624350_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "NRL Mini",
@@ -325,70 +325,70 @@
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-09-25_SH035786430000_106552413658_2020-10-16T18:30:18Z_p18624350_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "F",
-      "episodeTitle": "",
-      "description": "",
+      "programTitle": "NRL Mini",
+      "episodeTitle": "Preliminary Final: Dolphins v Sydney Roosters",
+      "description": "A comprehensive summary of the match played is provided in an expedited timeframe.",
       "scheduledDate": 1790343300000,
       "duration": 25,
       "parentalRating": "",
-      "programType": "",
-      "genre": "",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/Fallback_LTV_Fox_League/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "programType": "Sports non-event",
+      "genre": "Rugby league, Rugby",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-09-25_SH035786430000_106552413658_2020-10-16T18:30:18Z_p18624350_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "F",
-      "episodeTitle": "",
-      "description": "",
+      "programTitle": "Finals Footy on Fox",
+      "episodeTitle": "Finals Week 3",
+      "description": "Showcases full analysis, live coverage and expert breakdowns of the AFL finals series.",
       "scheduledDate": 1790344800000,
       "duration": 60,
       "parentalRating": "",
-      "programType": "",
-      "genre": "",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/Fallback_LTV_Fox_League/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "programType": "Sports non-event",
+      "genre": "Sports talk, Australian rules football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-09-25_SH036489360000_112090732832_2020-10-14T05:10:24Z_p18959783_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "F",
-      "episodeTitle": "",
-      "description": "",
+      "programTitle": "NRL",
+      "episodeTitle": "Dolphins vs Sydney Roosters",
+      "description": "Live from Suncorp Stadium. Kick off at 7:50PM AEST.",
       "scheduledDate": 1790348400000,
       "duration": 60,
       "parentalRating": "",
-      "programType": "",
-      "genre": "",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/Fallback_LTV_Fox_League/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "programType": "Sports event",
+      "genre": "Playoff sports, Rugby league, Rugby",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-09-25_EP031720961246_112972231861_2026-09-20T13:44:05Z_GNLZZGG003PP98N/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "F",
-      "episodeTitle": "",
-      "description": "",
+      "programTitle": "Finals Footy on Fox",
+      "episodeTitle": "Finals Week 3",
+      "description": "Showcases full analysis, live coverage and expert breakdowns of the AFL finals series.",
       "scheduledDate": 1790352000000,
       "duration": 70,
       "parentalRating": "",
-      "programType": "",
-      "genre": "",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/Fallback_LTV_Fox_League/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "programType": "Sports non-event",
+      "genre": "Sports talk, Australian rules football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-09-25_SH036489360000_112090732832_2020-10-14T05:10:24Z_p18959783_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "F",
-      "episodeTitle": "",
-      "description": "",
+      "programTitle": "NRL Mini",
+      "episodeTitle": "Preliminary Final: Dolphins v Sydney Roosters",
+      "description": "A comprehensive summary of the match played is provided in an expedited timeframe.",
       "scheduledDate": 1790356200000,
       "duration": 20,
       "parentalRating": "",
-      "programType": "",
-      "genre": "",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/Fallback_LTV_Fox_League/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "programType": "Sports non-event",
+      "genre": "Rugby league, Rugby",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-09-25_SH035786430000_106552413658_2020-10-16T18:30:18Z_p18624350_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "F",
-      "episodeTitle": "",
-      "description": "",
+      "programTitle": "Finals Footy on Fox",
+      "episodeTitle": "Finals Week 3",
+      "description": "Showcases full analysis, live coverage and expert breakdowns of the AFL finals series.",
       "scheduledDate": 1790357400000,
       "duration": 60,
       "parentalRating": "",
-      "programType": "",
-      "genre": "",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/Fallback_LTV_Fox_League/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "programType": "Sports non-event",
+      "genre": "Sports talk, Australian rules football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-09-25_SH036489360000_112090732832_2020-10-14T05:10:24Z_p18959783_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "Sport Special",

@@ -2,19 +2,19 @@
   "channel": "SP2",
   "date": "2026-09-26",
   "source": "kayo",
-  "fetchedAt": 1790180233891,
-  "fetchedAtIST": "23/9/2026, 9:47:13 pm",
+  "fetchedAt": 1790203517455,
+  "fetchedAtIST": "24/9/2026, 4:15:17 am",
   "events": [
     {
-      "programTitle": "F",
-      "episodeTitle": "",
-      "description": "",
+      "programTitle": "Rugby Super League",
+      "episodeTitle": "Leeds Rhinos vs. Warrington Wolves",
+      "description": "From Headingley Stadium in Leeds, England, United Kingdom.",
       "scheduledDate": 1790361000000,
       "duration": 90,
       "parentalRating": "",
-      "programType": "",
-      "genre": "",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/Fallback_LTV_Fox_League/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "programType": "Sports event",
+      "genre": "Playoff sports, Rugby league, Rugby",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-09-25_EP028779350862_112972231871_2026-09-20T13:41:47Z_GNLZZGG003PP8EK/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "Sport Special",

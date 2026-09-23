@@ -1,52 +1,25 @@
 {
   "channel": "4KF1",
-  "date": "2026-09-13",
+  "date": "2026-09-24",
   "source": "kayo-4k",
-  "fetchedAt": 1789314307979,
-  "fetchedAtIST": "13/9/2026, 9:15:07 pm",
+  "fetchedAt": 1790203533014,
+  "fetchedAtIST": "24/9/2026, 4:15:33 am",
   "events": [
     {
-      "eventId": "dixgnij1b9io1cpjbnhqydsb8",
-      "programTitle": "Supercars The Bend Supports",
-      "scheduledDate": 1789252200000,
-      "duration": 132,
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/9d40uiry04o5nkuth3sqxlq89_image-header_pRow_1788832757000/fill/none/top/none/80/1920/1080/webp/image?brand=kayo",
-      "competitionTitle": "V8 Supercars",
+      "eventId": "1gk85vv4hiqwjz63eu6fh2t9o",
+      "programTitle": "F1 Azerbaijan Practice 1",
+      "scheduledDate": 1790238600000,
+      "duration": 120,
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/bzz1yjg6yus5jyx7p8tb6wscg_image-header_pRow_1789519815000/fill/none/top/none/80/1920/1080/webp/image?brand=kayo",
+      "competitionTitle": "Formula 1",
       "sport": "Motorsport"
     },
     {
-      "eventId": "1sxx6r72nw10y1idgecgb9d987",
-      "programTitle": "Supercars The Bend Warm Up",
-      "scheduledDate": 1789259400000,
-      "duration": 53,
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/5q18v9vytcs97uoedsw16uyxu_image-header_pRow_1788840798000/fill/none/top/none/80/1920/1080/webp/image?brand=kayo",
-      "competitionTitle": "V8 Supercars",
-      "sport": "Motorsport"
-    },
-    {
-      "eventId": "19e129ewna48u16bh4jn1xe0vt",
-      "programTitle": "Supercars The Bend Supports",
-      "scheduledDate": 1789262100000,
-      "duration": 159,
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/dvs88964k630jxg4mweyky690_image-header_pRow_1788832756000/fill/none/top/none/80/1920/1080/webp/image?brand=kayo",
-      "competitionTitle": "V8 Supercars",
-      "sport": "Motorsport"
-    },
-    {
-      "eventId": "kvojvdb6p44w1x56uorwyf6i1",
-      "programTitle": "Supercars The Bend 500",
-      "scheduledDate": 1789270200000,
-      "duration": 317,
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/1fjr5nyd2m5t6l3s7viy2nrj1_image-header_pRow_1788840910000/fill/none/top/none/80/1920/1080/webp/image?brand=kayo",
-      "competitionTitle": "V8 Supercars",
-      "sport": "Motorsport"
-    },
-    {
-      "eventId": "12p0clroccfgk1oihpuc3nzgdh",
-      "programTitle": "F1 Spain Race",
-      "scheduledDate": 1789304400000,
-      "duration": 133,
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/ev7udr051t5thj08xlig0f7bm_image-header_pRow_1788408781000/fill/none/top/none/80/1920/1080/webp/image?brand=kayo",
+      "eventId": "d07enmctbkyt14kd03r0wzak0",
+      "programTitle": "F1 Azerbaijan Practice 2",
+      "scheduledDate": 1790251200000,
+      "duration": 120,
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/6xnx0c9sk4sbgu4huingwzlty_image-header_pRow_1789519969000/fill/none/top/none/80/1920/1080/webp/image?brand=kayo",
       "competitionTitle": "Formula 1",
       "sport": "Motorsport"
     }
