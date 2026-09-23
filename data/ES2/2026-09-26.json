@@ -1,0 +1,31 @@
+{
+  "channel": "ES2",
+  "date": "2026-09-26",
+  "source": "kayo",
+  "fetchedAt": 1790154493711,
+  "fetchedAtIST": "23/9/2026, 2:38:13 pm",
+  "events": [
+    {
+      "programTitle": "College Football",
+      "episodeTitle": "Temple vs Army",
+      "description": "From Lincoln Financial Field in Philadelphia.",
+      "scheduledDate": 1790366400000,
+      "duration": 180,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-09-25_EP064738030473_112931278260_2026-06-19T10:31:31Z_GNLZZGG0036XGKR/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "College Football",
+      "episodeTitle": "Alabama-Birmingham vs Navy",
+      "description": "From Protective Stadium in Birmingham, Ala.",
+      "scheduledDate": 1790377200000,
+      "duration": 180,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-09-25_EP064738030548_112932406285_2026-06-19T13:24:49Z_GNLZZGG0036Z3V7/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    }
+  ]
+}
