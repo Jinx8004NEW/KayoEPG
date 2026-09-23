@@ -2,8 +2,8 @@
   "channel": "FS1",
   "date": "2026-09-24",
   "source": "kayo",
-  "fetchedAt": 1790154493650,
-  "fetchedAtIST": "23/9/2026, 2:38:13 pm",
+  "fetchedAt": 1790180233882,
+  "fetchedAtIST": "23/9/2026, 9:47:13 pm",
   "events": [
     {
       "programTitle": "Test Cricket",
@@ -11,6 +11,17 @@
       "description": "Coverage and highlights from international test cricket matches.",
       "scheduledDate": 1790189700000,
       "duration": 65,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Cricket, Classic sport event",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-09-23_SH033446590000_98978823590_2023-09-29T14:53:53Z_p8163404_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Test Cricket",
+      "episodeTitle": "2nd Test, Day 2: Australia vs Bangladesh",
+      "description": "Coverage and highlights from international test cricket matches.",
+      "scheduledDate": 1790190000000,
+      "duration": 60,
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Cricket, Classic sport event",

@@ -2,9 +2,20 @@
   "channel": "SP2",
   "date": "2026-09-26",
   "source": "kayo",
-  "fetchedAt": 1790154493661,
-  "fetchedAtIST": "23/9/2026, 2:38:13 pm",
+  "fetchedAt": 1790180233891,
+  "fetchedAtIST": "23/9/2026, 9:47:13 pm",
   "events": [
+    {
+      "programTitle": "F",
+      "episodeTitle": "",
+      "description": "",
+      "scheduledDate": 1790361000000,
+      "duration": 90,
+      "parentalRating": "",
+      "programType": "",
+      "genre": "",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/Fallback_LTV_Fox_League/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
     {
       "programTitle": "Sport Special",
       "episodeTitle": "",

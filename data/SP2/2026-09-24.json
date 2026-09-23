@@ -2,8 +2,8 @@
   "channel": "SP2",
   "date": "2026-09-24",
   "source": "kayo",
-  "fetchedAt": 1790154493660,
-  "fetchedAtIST": "23/9/2026, 2:38:13 pm",
+  "fetchedAt": 1790180233890,
+  "fetchedAtIST": "23/9/2026, 9:47:13 pm",
   "events": [
     {
       "programTitle": "NRL",
@@ -227,11 +227,11 @@
     },
     {
       "programTitle": "Best of Fletch and Hindy",
-      "episodeTitle": "Knights",
+      "episodeTitle": "",
       "description": "A collection of some of the best Fletch and Hindy content from throughout 2020, featuring their feedback and antics.",
       "scheduledDate": 1790247600000,
       "duration": 30,
-      "parentalRating": "PG",
+      "parentalRating": "",
       "programType": "Series",
       "genre": "Sports talk, Rugby league",
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-09-24_SH036460010000_106892699097_2020-10-14T05:00:24Z_p18947660_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
@@ -315,14 +315,14 @@
     },
     {
       "programTitle": "NRL",
-      "episodeTitle": "",
-      "description": "Comprehensive coverage and full game replays of all the matches played in Australia's National Rugby League.",
+      "episodeTitle": "Sydney Roosters vs Cronulla-Sutherland Sharks",
+      "description": "Live from Allianz Stadium. Kick off at 7:50PM AEST.",
       "scheduledDate": 1790269200000,
       "duration": 60,
       "parentalRating": "",
       "programType": "Sports event",
-      "genre": "Rugby league, Rugby",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-09-24_SH031720960000_112690348734_2025-02-14T21:33:28Z_p817685_i_h8_ad/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "genre": "Playoff sports, Rugby league, Rugby",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-09-24_EP031720961243_112961219843_2026-09-13T13:41:51Z_GNLZZGG003NE49Y/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "NRL",

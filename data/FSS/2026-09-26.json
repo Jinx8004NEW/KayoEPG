@@ -2,9 +2,31 @@
   "channel": "FSS",
   "date": "2026-09-26",
   "source": "kayo",
-  "fetchedAt": 1790154493696,
-  "fetchedAtIST": "23/9/2026, 2:38:13 pm",
+  "fetchedAt": 1790180233926,
+  "fetchedAtIST": "23/9/2026, 9:47:13 pm",
   "events": [
+    {
+      "programTitle": "T100 Triathlon World Tour Highlights",
+      "episodeTitle": "France",
+      "description": "Highlights and insights from the T100 Triathlon World Tour, where professional triathletes compete against each other to win the coveted title.",
+      "scheduledDate": 1790361000000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Triathlon",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-09-25_SH050906890000_112524436963_2024-04-05T08:23:57Z_p26765620_i_h8_ad/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Supercars Championship",
+      "episodeTitle": "AirTouch 500 at The Bend: Race 29",
+      "description": "Highlights and replays of classic races of the international motor racing series for Supercars.",
+      "scheduledDate": 1790362800000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Series",
+      "genre": "Auto racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-09-25_SH035728470000_102439454374_2018-12-17T21:00:00Z_p16276370_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
     {
       "programTitle": "To Be Announced",
       "episodeTitle": "",

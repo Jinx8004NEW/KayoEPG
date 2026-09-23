@@ -2,8 +2,8 @@
   "channel": "SPS",
   "date": "2026-09-24",
   "source": "kayo",
-  "fetchedAt": 1790154493688,
-  "fetchedAtIST": "23/9/2026, 2:38:13 pm",
+  "fetchedAt": 1790180233917,
+  "fetchedAtIST": "23/9/2026, 9:47:13 pm",
   "events": [
     {
       "programTitle": "NASCAR Cup Racing Series",
@@ -127,15 +127,15 @@
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-09-24_SH035915380000_109578600751_2023-09-29T11:04:19Z_p8544413_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "British Superbike Championship Highlights",
-      "episodeTitle": "Round 9: Assen",
-      "description": "Highlights of the British Superbike Championships season.",
+      "programTitle": "Formula 1",
+      "episodeTitle": "2024 Azerbaijan Grand Prix",
+      "description": "Features all the action and highlights from Formula 1 racing.",
       "scheduledDate": 1790222400000,
       "duration": 60,
       "parentalRating": "",
-      "programType": "Series",
-      "genre": "Sports talk, Motorcycle racing",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-09-24_SH048348510000_95139729292_2022-06-29T15:47:12Z_p600954_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "programType": "Sports event",
+      "genre": "Classic sport event, Motorsports, Auto racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-09-24_SH035915380000_109578600751_2023-09-29T11:04:19Z_p8544413_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "Formula 1",
@@ -186,11 +186,22 @@
       "episodeTitle": "Azerbaijan Grand Prix, Practice 1",
       "description": "From Baku City Circuit in Baku, Azerbaijan.",
       "scheduledDate": 1790236800000,
-      "duration": 120,
+      "duration": 118,
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Auto racing",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-09-24_EP027326820866_112894797467_2026-09-21T19:23:24Z_GNLZZGG003PSBBW/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-09-24_EP027326820866_112968710037_2026-09-23T13:21:37Z_GNLZZGG003PWQW4/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "FIA Formula 2 Championship",
+      "episodeTitle": "Round 12: Baku, Qualifying",
+      "description": "From Baku City Circuit in Baku, Azerbaijan.",
+      "scheduledDate": 1790243880000,
+      "duration": 57,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Auto racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-09-24_EP033280150278_112894797464_2026-09-21T19:22:47Z_GNLZZGG003PSB95/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "FIA Formula 2 Championship",
@@ -202,6 +213,39 @@
       "programType": "Sports event",
       "genre": "Auto racing",
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-09-24_EP033280150278_112894797464_2026-09-21T19:22:47Z_GNLZZGG003PSB95/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "F2: Chasing the Dream",
+      "episodeTitle": "Monza",
+      "description": "Follows the journey of professional racers as they compete for the F2 championship, and highlights some of the best moments from the races.",
+      "scheduledDate": 1790247300000,
+      "duration": 15,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Motorsports, Action sports, Sports talk",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-09-24_SH047243960000_112455450949_2026-03-19T09:26:17Z_p18049858_i_h10_ae/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "F2: Chasing the Dream",
+      "episodeTitle": "",
+      "description": "Follows the journey of professional racers as they compete for the F2 championship, and highlights some of the best moments from the races.",
+      "scheduledDate": 1790248200000,
+      "duration": 20,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Motorsports, Action sports, Sports talk",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-09-24_SH047243960000_112455450949_2026-03-19T09:26:17Z_p18049858_i_h10_ae/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Formula 1",
+      "episodeTitle": "Azerbaijan Grand Prix, Practice 2",
+      "description": "From Baku City Circuit in Baku, Azerbaijan.",
+      "scheduledDate": 1790249400000,
+      "duration": 105,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Auto racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-09-24_EP027326820867_112968710073_2026-09-23T13:21:52Z_GNLZZGG003PWQXD/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "Formula 1",
@@ -238,7 +282,7 @@
     },
     {
       "programTitle": "F2: Chasing the Dream",
-      "episodeTitle": "Monza",
+      "episodeTitle": "",
       "description": "Follows the journey of professional racers as they compete for the F2 championship, and highlights some of the best moments from the races.",
       "scheduledDate": 1790262900000,
       "duration": 15,

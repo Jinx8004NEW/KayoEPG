@@ -2,8 +2,8 @@
   "channel": "FSP",
   "date": "2026-09-24",
   "source": "kayo",
-  "fetchedAt": 1790154493681,
-  "fetchedAtIST": "23/9/2026, 2:38:13 pm",
+  "fetchedAt": 1790180233909,
+  "fetchedAtIST": "23/9/2026, 9:47:13 pm",
   "events": [
     {
       "programTitle": "MotorRacing 360",
@@ -23,8 +23,8 @@
       "scheduledDate": 1790193600000,
       "duration": 60,
       "parentalRating": "",
-      "programType": "Sports non-event",
-      "genre": "Motorsports, Auto racing",
+      "programType": "Sports event",
+      "genre": "Classic sport event, Motorsports, Auto racing",
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-09-23_SH056052770000_110216247140_2024-02-28T07:23:12Z_p8599472_i_h10_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
@@ -116,15 +116,15 @@
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-09-24_SH065139570000_112495914993_2026-08-14T21:50:59Z_p33539447_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "European Challenge Magazine Series",
+      "programTitle": "Challenge Tour Highlights",
       "episodeTitle": "",
-      "description": "The Challenge Series is the European Challenge Tour's dedicated magazine show which takes golf fans behind the scenes of Europe's top developmental tour and gives you access all areas to the future stars of world golf.",
+      "description": "Highlights of competition from the European Challenge Tour.",
       "scheduledDate": 1790231400000,
       "duration": 30,
       "parentalRating": "",
       "programType": "Sports non-event",
-      "genre": "Golf, Sports talk",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-09-24_SH039586120000_62921117475_2021-08-11T05:17:12Z_p20462877_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-09-24_SH036150270000_96252219943_2013-09-24T15:15:00Z_p10008398_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "PGA Tour Champions Learning Center",
@@ -149,15 +149,26 @@
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/Fallback_LTV_Fox_Sports_505/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "SailGP",
-      "episodeTitle": "Geneva, Day 1",
-      "description": "",
+      "programTitle": "MotoGP Racing",
+      "episodeTitle": "Qatar Airways Grand Prix of Austria, Sprint Race",
+      "description": "From Red Bull Ring in Austria.",
       "scheduledDate": 1790238600000,
-      "duration": 90,
+      "duration": 30,
       "parentalRating": "",
       "programType": "Sports event",
-      "genre": "Sailing",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-09-24_SH051028760000_112367882509_2021-04-23T21:46:53Z_p19827810_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "genre": "Motorcycle racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-09-24_EP028104881570_112772823988_2026-09-17T17:33:09Z_GNLZZGG003PG5VS/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "AFL Women's Premiership",
+      "episodeTitle": "Geelong Cats vs Hawthorn Hawks",
+      "description": "Live from GMHBA Stadium. Bounce time: 7:15 pm AEST.",
+      "scheduledDate": 1790240400000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Australian rules football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-09-24_EP029247970793_112771784932_2026-07-21T00:18:16Z_GNLZZGG003BV6MJ/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "SailGP",
@@ -169,6 +180,17 @@
       "programType": "Sports event",
       "genre": "Sailing",
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-09-24_SH051028760000_112367882509_2021-04-23T21:46:53Z_p19827810_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Getting a Round In",
+      "episodeTitle": "",
+      "description": "Australian professional golfer, Paul Gow hosts celebrities as his playing partners who share his love for the game of golf.",
+      "scheduledDate": 1790247600000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Series",
+      "genre": "Golf, Interview",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-09-24_SH048121120000_110998856207_2023-07-18T05:56:16Z_p25221374_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "DP World Tour Golf",

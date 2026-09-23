@@ -2,8 +2,8 @@
   "channel": "FS1",
   "date": "2026-09-23",
   "source": "kayo",
-  "fetchedAt": 1790154493650,
-  "fetchedAtIST": "23/9/2026, 2:38:13 pm",
+  "fetchedAt": 1790180233881,
+  "fetchedAtIST": "23/9/2026, 9:47:13 pm",
   "events": [
     {
       "programTitle": "One-Day International Cricket",
@@ -292,15 +292,15 @@
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-09-23_SH033446590000_98978823590_2023-09-29T14:53:53Z_p8163404_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "Test Cricket",
-      "episodeTitle": "1st Test, Day 3: Australia v Bangladesh",
-      "description": "Coverage and highlights from international test cricket matches.",
+      "programTitle": "Test Day",
+      "episodeTitle": "Australia v Bangladesh, 1st Test Day 3",
+      "description": "A look at some of the highlights from the recent test match play, with an analysis of some of the best moments.",
       "scheduledDate": 1790179200000,
-      "duration": 55,
+      "duration": 60,
       "parentalRating": "",
       "programType": "Sports event",
-      "genre": "Cricket, Classic sport event",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-09-23_SH033446590000_98978823590_2023-09-29T14:53:53Z_p8163404_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "genre": "Classic sport event, Cricket",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-09-23_SH031158690000_100796229602_2024-01-19T05:13:15Z_p16331760_i_h10_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "Test Cricket",
@@ -314,21 +314,32 @@
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-09-23_SH033446590000_98978823590_2023-09-29T14:53:53Z_p8163404_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "To Be Announced",
-      "episodeTitle": "",
-      "description": "The programming for this time slot has yet to be determined and is being confirmed by the broadcast channel.",
+      "programTitle": "Test Cricket",
+      "episodeTitle": "1st Test, Day 4: Australia v Bangladesh",
+      "description": "Australia host Bangladesh for the first time in 23 years as the series begins at TIO Stadium, Darwin.",
       "scheduledDate": 1790182800000,
-      "duration": 180,
+      "duration": 60,
       "parentalRating": "",
-      "programType": "TBA",
-      "genre": "Special, Entertainment",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-09-23_SH027575020000_112769671032_2021-11-15T14:36:19Z_p514472_b_h8_dp/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "programType": "Sports event",
+      "genre": "Cricket, Classic sport event",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-09-23_SH033446590000_98978823590_2023-09-29T14:53:53Z_p8163404_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "Test Cricket",
       "episodeTitle": "2nd Test, Day 1: Australia vs Bangladesh",
       "description": "Coverage and highlights from international test cricket matches.",
       "scheduledDate": 1790186100000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Cricket, Classic sport event",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-09-23_SH033446590000_98978823590_2023-09-29T14:53:53Z_p8163404_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Test Cricket",
+      "episodeTitle": "2nd Test, Day 1: Australia vs Bangladesh",
+      "description": "Coverage and highlights from international test cricket matches.",
+      "scheduledDate": 1790186400000,
       "duration": 60,
       "parentalRating": "",
       "programType": "Sports event",

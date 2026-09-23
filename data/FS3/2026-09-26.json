@@ -2,8 +2,8 @@
   "channel": "FS3",
   "date": "2026-09-26",
   "source": "kayo",
-  "fetchedAt": 1790154493665,
-  "fetchedAtIST": "23/9/2026, 2:38:13 pm",
+  "fetchedAt": 1790180233897,
+  "fetchedAtIST": "23/9/2026, 9:47:13 pm",
   "events": [
     {
       "programTitle": "To Be Announced",
@@ -15,6 +15,17 @@
       "programType": "TBA",
       "genre": "Special, Entertainment",
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-09-25_SH027575020000_112769671032_2021-11-15T14:36:19Z_p514472_b_h8_dp/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Live from the Presidents Cup",
+      "episodeTitle": "",
+      "description": "A team representing the United States and an international team representing the rest of the world minus Europe compete for the Presidents Cup.",
+      "scheduledDate": 1790377200000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-09-25_SH052952550000_112870283834_2026-09-09T20:20:29Z_p22737534_i_h8_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     }
   ]
 }
