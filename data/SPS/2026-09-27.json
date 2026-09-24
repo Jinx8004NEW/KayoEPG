@@ -2,9 +2,20 @@
   "channel": "SPS",
   "date": "2026-09-27",
   "source": "kayo",
-  "fetchedAt": 1790240595220,
-  "fetchedAtIST": "24/9/2026, 2:33:15 pm",
+  "fetchedAt": 1790267942133,
+  "fetchedAtIST": "24/9/2026, 10:09:02 pm",
   "events": [
+    {
+      "programTitle": "Formula 1",
+      "episodeTitle": "Azerbaijan Grand Prix: Alternate Commentary, Race",
+      "description": "Features all the action and highlights from Formula 1 racing.",
+      "scheduledDate": 1790452800000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Classic sport event, Motorsports, Auto racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-09-26_SH035915380000_109578600751_2023-09-29T11:04:19Z_p8544413_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
     {
       "programTitle": "To Be Announced",
       "episodeTitle": "",
@@ -15,6 +26,39 @@
       "programType": "TBA",
       "genre": "Special, Entertainment",
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-09-26_SH027575020000_112769671032_2021-11-15T14:36:19Z_p514472_b_h8_dp/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Formula 1",
+      "episodeTitle": "Azerbaijan Grand Prix: Chequered Flag",
+      "description": "Features all the action and highlights from Formula 1 racing.",
+      "scheduledDate": 1790460000000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Classic sport event, Motorsports, Auto racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-09-26_SH035915380000_109578600751_2023-09-29T11:04:19Z_p8544413_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Ted's Notebook",
+      "episodeTitle": "Azerbaijan Grand Prix",
+      "description": "Ted Kravitz gives an exciting behind-the-scenes look at the world of Formula 1.",
+      "scheduledDate": 1790463600000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Auto racing, Motorsports",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-09-26_SH038161890000_106370532176_2021-03-17T07:49:14Z_p9739735_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "FIA Formula 2 Championship",
+      "episodeTitle": "2026: Baku, Feature Race",
+      "description": "",
+      "scheduledDate": 1790465400000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Classic sport event, Auto racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-09-26_SH066293040000_113010788600_2020-11-12T15:30:36Z_p19086087_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     }
   ]
 }

@@ -2,19 +2,74 @@
   "channel": "SP2",
   "date": "2026-09-27",
   "source": "kayo",
-  "fetchedAt": 1790240595197,
-  "fetchedAtIST": "24/9/2026, 2:33:15 pm",
+  "fetchedAt": 1790267942107,
+  "fetchedAtIST": "24/9/2026, 10:09:02 pm",
   "events": [
     {
-      "programTitle": "Sport Special",
-      "episodeTitle": "",
-      "description": "Tune into the latest news and comprehensive analysis of different sporting events around the globe.",
+      "programTitle": "NRL Classic Match",
+      "episodeTitle": "2020 Round 3: Penrith Panthers v Newcastle Knights",
+      "description": "Re-live some of the best rugby league clashes from the Premiership's past.",
+      "scheduledDate": 1790449200000,
+      "duration": 20,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Rugby, Classic sport event",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-09-26_SH034822800000_100794011205_2020-04-08T22:50:08Z_p18168517_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NRL Classic Match",
+      "episodeTitle": "2023 Round 7: Newcastle Knights v Penrith Panthers",
+      "description": "Re-live some of the best rugby league clashes from the Premiership's past.",
+      "scheduledDate": 1790450400000,
+      "duration": 20,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Rugby, Classic sport event",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-09-26_SH034822800000_100794011205_2020-04-08T22:50:08Z_p18168517_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NRL Classic Match",
+      "episodeTitle": "2023 Round 17: Penrith Panthers v Newcastle Knights",
+      "description": "Re-live some of the best rugby league clashes from the Premiership's past.",
+      "scheduledDate": 1790451600000,
+      "duration": 20,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Rugby, Classic sport event",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-09-26_SH034822800000_100794011205_2020-04-08T22:50:08Z_p18168517_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NRL",
+      "episodeTitle": "Dolphins vs Sydney Roosters",
+      "description": "Live from Suncorp Stadium. Kick off at 7:50PM AEST.",
       "scheduledDate": 1790452800000,
-      "duration": 120,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Playoff sports, Rugby league, Rugby",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-09-26_EP031720961246_112972231861_2026-09-20T13:44:05Z_GNLZZGG003PP98N/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NRLW Premiership Mini",
+      "episodeTitle": "Semifinal: Sydney Roosters vs Canberra Raiders",
+      "description": "Condensed highlights of some of the greatest encounters from the NRL Women's competition.",
+      "scheduledDate": 1790456400000,
+      "duration": 20,
       "parentalRating": "",
       "programType": "Sports non-event",
-      "genre": "Other",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/Fallback_LTV_Fox_League/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "genre": "Rugby league, Rugby",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-09-26_SH042238410000_109229287001_2022-03-07T01:46:13Z_p21759648_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NRL",
+      "episodeTitle": "Dolphins vs Sydney Roosters",
+      "description": "Live from Suncorp Stadium. Kick off at 7:50PM AEST.",
+      "scheduledDate": 1790457600000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Playoff sports, Rugby league, Rugby",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-09-26_EP031720961246_112972231861_2026-09-20T13:44:05Z_GNLZZGG003PP98N/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "Sport Special",
@@ -26,6 +81,61 @@
       "programType": "Sports non-event",
       "genre": "Other",
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/Fallback_LTV_Fox_League/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NRL Classic Match",
+      "episodeTitle": "2020 Round 3: Penrith Panthers v Newcastle Knights",
+      "description": "Re-live some of the best rugby league clashes from the Premiership's past.",
+      "scheduledDate": 1790461200000,
+      "duration": 20,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Rugby, Classic sport event",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-09-26_SH034822800000_100794011205_2020-04-08T22:50:08Z_p18168517_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NRL Classic Match",
+      "episodeTitle": "2023 Round 7: Newcastle Knights v Penrith Panthers",
+      "description": "Re-live some of the best rugby league clashes from the Premiership's past.",
+      "scheduledDate": 1790462400000,
+      "duration": 20,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Rugby, Classic sport event",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-09-26_SH034822800000_100794011205_2020-04-08T22:50:08Z_p18168517_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NRL Classic Match",
+      "episodeTitle": "2023 Round 17: Penrith Panthers v Newcastle Knights",
+      "description": "Re-live some of the best rugby league clashes from the Premiership's past.",
+      "scheduledDate": 1790463600000,
+      "duration": 20,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Rugby, Classic sport event",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-09-26_SH034822800000_100794011205_2020-04-08T22:50:08Z_p18168517_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NRL Mini",
+      "episodeTitle": "Preliminary Final: Dolphins v Sydney Roosters",
+      "description": "A comprehensive summary of the match played is provided in an expedited timeframe.",
+      "scheduledDate": 1790464800000,
+      "duration": 20,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Rugby league, Rugby",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-09-26_SH035786430000_106552413658_2020-10-16T18:30:18Z_p18624350_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NRLW Premiership Mini",
+      "episodeTitle": "Semifinal: Sydney Roosters vs Canberra Raiders",
+      "description": "Condensed highlights of some of the greatest encounters from the NRL Women's competition.",
+      "scheduledDate": 1790466000000,
+      "duration": 20,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Rugby league, Rugby",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-09-26_SH042238410000_109229287001_2022-03-07T01:46:13Z_p21759648_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     }
   ]
 }

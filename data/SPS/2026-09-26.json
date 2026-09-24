@@ -2,30 +2,85 @@
   "channel": "SPS",
   "date": "2026-09-26",
   "source": "kayo",
-  "fetchedAt": 1790240595219,
-  "fetchedAtIST": "24/9/2026, 2:33:15 pm",
+  "fetchedAt": 1790267942132,
+  "fetchedAtIST": "24/9/2026, 10:09:02 pm",
   "events": [
     {
       "programTitle": "FIM Superbike World Championship",
       "episodeTitle": "France: Race 2",
       "description": "From Circuit de Nevers Magny-Cours in Magny-Cours, Nièvre, France.",
       "scheduledDate": 1790362800000,
-      "duration": 120,
+      "duration": 60,
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Motorcycle racing",
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-09-25_SH050933440000_112305496713_2024-03-13T11:13:41Z_p26891785_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "To Be Announced",
-      "episodeTitle": "",
-      "description": "The programming for this time slot has yet to be determined and is being confirmed by the broadcast channel.",
-      "scheduledDate": 1790370000000,
-      "duration": 240,
+      "programTitle": "Formula 1",
+      "episodeTitle": "Azerbaijan Grand Prix, Practice 3",
+      "description": "From Baku City Circuit in Baku, Azerbaijan.",
+      "scheduledDate": 1790366400000,
+      "duration": 60,
       "parentalRating": "",
-      "programType": "TBA",
-      "genre": "Special, Entertainment",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-09-25_SH027575020000_112769671032_2021-11-15T14:36:19Z_p514472_b_h8_dp/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "programType": "Sports event",
+      "genre": "Auto racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-09-25_EP027326820868_112986765821_2026-09-23T23:21:35Z_GNLZZGG003PZ4HH/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Formula 1",
+      "episodeTitle": "Azerbaijan Grand Prix, Qualifying",
+      "description": "From Baku City Circuit in Baku, Azerbaijan.",
+      "scheduledDate": 1790370000000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Auto racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-09-25_EP027326820869_112986794027_2026-09-23T23:21:44Z_GNLZZGG003PZ4JF/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Ted's Notebook",
+      "episodeTitle": "",
+      "description": "Ted Kravitz gives an exciting behind-the-scenes look at the world of Formula 1.",
+      "scheduledDate": 1790373600000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Auto racing, Motorsports",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-09-25_SH038161890000_106370532176_2021-03-17T07:49:14Z_p9739735_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Formula 1",
+      "episodeTitle": "Azerbaijan Grand Prix, Practice 3",
+      "description": "From Baku City Circuit in Baku, Azerbaijan.",
+      "scheduledDate": 1790375400000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Auto racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-09-25_EP027326820868_112986765821_2026-09-23T23:21:35Z_GNLZZGG003PZ4HH/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Formula 1",
+      "episodeTitle": "Azerbaijan Grand Prix, Qualifying",
+      "description": "From Baku City Circuit in Baku, Azerbaijan.",
+      "scheduledDate": 1790379000000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Auto racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-09-25_EP027326820869_112986794027_2026-09-23T23:21:44Z_GNLZZGG003PZ4JF/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Formula 1",
+      "episodeTitle": "Azerbaijan Grand Prix, Practice 3",
+      "description": "From Baku City Circuit in Baku, Azerbaijan.",
+      "scheduledDate": 1790382600000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Auto racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-09-26_EP027326820868_112986765821_2026-09-23T23:21:35Z_GNLZZGG003PZ4HH/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "To Be Announced",
@@ -39,6 +94,39 @@
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-09-26_SH027575020000_112769671032_2021-11-15T14:36:19Z_p514472_b_h8_dp/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
+      "programTitle": "Formula 1",
+      "episodeTitle": "Azerbaijan Grand Prix, Qualifying",
+      "description": "From Baku City Circuit in Baku, Azerbaijan.",
+      "scheduledDate": 1790386200000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Auto racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-09-26_EP027326820869_112986794027_2026-09-23T23:21:44Z_GNLZZGG003PZ4JF/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Ted's Notebook",
+      "episodeTitle": "",
+      "description": "Ted Kravitz gives an exciting behind-the-scenes look at the world of Formula 1.",
+      "scheduledDate": 1790389800000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Auto racing, Motorsports",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-09-26_SH038161890000_106370532176_2021-03-17T07:49:14Z_p9739735_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Auto Racing",
+      "episodeTitle": "Hi-Tech Oils Super Series, Round 5, Winton Raceway, Day 2",
+      "description": "Comprehensive coverage and full game replays of all the exciting action and events from the world of auto racing.",
+      "scheduledDate": 1790391600000,
+      "duration": 241,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Auto racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-09-26_SH028105000000_112799975944_2018-09-19T12:09:00Z_p8801850_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
       "programTitle": "To Be Announced",
       "episodeTitle": "",
       "description": "The programming for this time slot has yet to be determined and is being confirmed by the broadcast channel.",
@@ -48,6 +136,39 @@
       "programType": "TBA",
       "genre": "Special, Entertainment",
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-09-26_SH027575020000_112769671032_2021-11-15T14:36:19Z_p514472_b_h8_dp/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "FIA Formula 2 Championship",
+      "episodeTitle": "Round 12: Baku, Feature Race 2",
+      "description": "From Baku City Circuit in Baku, Azerbaijan.",
+      "scheduledDate": 1790406060000,
+      "duration": 74,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Auto racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-09-26_EP033280150281_113010789156_2026-09-24T11:21:53Z_GNLZZGG003PK1ZY/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "F2: Chasing the Dream",
+      "episodeTitle": "",
+      "description": "Follows the journey of professional racers as they compete for the F2 championship, and highlights some of the best moments from the races.",
+      "scheduledDate": 1790410500000,
+      "duration": 15,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Motorsports, Action sports, Sports talk",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-09-26_SH047243960000_112455450949_2026-03-19T09:26:17Z_p18049858_i_h10_ae/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Formula 1",
+      "episodeTitle": "Azerbaijan Grand Prix, Qualifying",
+      "description": "From Baku City Circuit in Baku, Azerbaijan.",
+      "scheduledDate": 1790411400000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Auto racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-09-26_EP027326820869_112986794027_2026-09-23T23:21:44Z_GNLZZGG003PZ4JF/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "To Be Announced",
@@ -61,15 +182,114 @@
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-09-26_SH027575020000_112769671032_2021-11-15T14:36:19Z_p514472_b_h8_dp/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "To Be Announced",
-      "episodeTitle": "",
-      "description": "The programming for this time slot has yet to be determined and is being confirmed by the broadcast channel.",
-      "scheduledDate": 1790427600000,
-      "duration": 240,
+      "programTitle": "Formula 1",
+      "episodeTitle": "Azerbaijan Grand Prix: Pre Race",
+      "description": "Features all the action and highlights from Formula 1 racing.",
+      "scheduledDate": 1790415000000,
+      "duration": 85,
       "parentalRating": "",
-      "programType": "TBA",
-      "genre": "Special, Entertainment",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-09-26_SH027575020000_112769671032_2021-11-15T14:36:19Z_p514472_b_h8_dp/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "programType": "Sports event",
+      "genre": "Classic sport event, Motorsports, Auto racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-09-26_SH035915380000_109578600751_2023-09-29T11:04:19Z_p8544413_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Formula 1",
+      "episodeTitle": "Azerbaijan Grand Prix: Alternate Commentary, Race",
+      "description": "Features all the action and highlights from Formula 1 racing.",
+      "scheduledDate": 1790420100000,
+      "duration": 125,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Classic sport event, Motorsports, Auto racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-09-26_SH035915380000_109578600751_2023-09-29T11:04:19Z_p8544413_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Formula 1",
+      "episodeTitle": "Azerbaijan Grand Prix: Chequered Flag",
+      "description": "Features all the action and highlights from Formula 1 racing.",
+      "scheduledDate": 1790427600000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Classic sport event, Motorsports, Auto racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-09-26_SH035915380000_109578600751_2023-09-29T11:04:19Z_p8544413_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Ted's Notebook",
+      "episodeTitle": "Azerbaijan Grand Prix",
+      "description": "Ted Kravitz gives an exciting behind-the-scenes look at the world of Formula 1.",
+      "scheduledDate": 1790431200000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Auto racing, Motorsports",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-09-26_SH038161890000_106370532176_2021-03-17T07:49:14Z_p9739735_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "F1 Mini",
+      "episodeTitle": "Azerbaijan Grand Prix",
+      "description": "Highlights of the world's most iconic Formula 1 Grands Prix, featuring every podium and overtake.",
+      "scheduledDate": 1790433000000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Motorsports, Classic sport event",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-09-26_SH036452570000_107032703571_2020-11-19T03:00:48Z_p18944992_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "F1 Mini",
+      "episodeTitle": "Azerbaijan Grand Prix",
+      "description": "Highlights of the world's most iconic Formula 1 Grands Prix, featuring every podium and overtake.",
+      "scheduledDate": 1790434800000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Motorsports, Classic sport event",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-09-26_SH036452570000_107032703571_2020-11-19T03:00:48Z_p18944992_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Formula 1",
+      "episodeTitle": "Oscar Piastri's Top 10 Wins",
+      "description": "Features all the action and highlights from Formula 1 racing.",
+      "scheduledDate": 1790436600000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Classic sport event, Motorsports, Auto racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-09-26_SH035915380000_109578600751_2023-09-29T11:04:19Z_p8544413_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "F1 Mini",
+      "episodeTitle": "Azerbaijan Grand Prix",
+      "description": "Highlights of the world's most iconic Formula 1 Grands Prix, featuring every podium and overtake.",
+      "scheduledDate": 1790438400000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Motorsports, Classic sport event",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-09-26_SH036452570000_107032703571_2020-11-19T03:00:48Z_p18944992_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Supercars Championship",
+      "episodeTitle": "Biggest Crashes of 2025",
+      "description": "Highlights and replays of classic races of the international motor racing series for Supercars.",
+      "scheduledDate": 1790440200000,
+      "duration": 10,
+      "parentalRating": "",
+      "programType": "Series",
+      "genre": "Auto racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-09-26_SH035728470000_102439454374_2018-12-17T21:00:00Z_p16276370_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "FIM Speedway Grand Prix Series",
+      "episodeTitle": "Round 10: Poland",
+      "description": "Professional riders compete in a motorcycle speedway racing competition organised by the International Motorcycling Federation (FIM) to emerge victorious and win the coveted title.",
+      "scheduledDate": 1790440800000,
+      "duration": 200,
+      "parentalRating": "",
+      "programType": "Series",
+      "genre": "Motorcycle",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-09-26_EP052529490020_113010789188_2026-09-21T10:56:23Z_p34113870_e_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "To Be Announced",

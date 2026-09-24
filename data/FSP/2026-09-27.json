@@ -2,9 +2,31 @@
   "channel": "FSP",
   "date": "2026-09-27",
   "source": "kayo",
-  "fetchedAt": 1790240595213,
-  "fetchedAtIST": "24/9/2026, 2:33:15 pm",
+  "fetchedAt": 1790267942125,
+  "fetchedAtIST": "24/9/2026, 10:09:02 pm",
   "events": [
+    {
+      "programTitle": "LPGA Tour Golf",
+      "episodeTitle": "Walmart NW Arkansas Championship, First Round",
+      "description": "From Pinnacle Country Club in Rogers, Ark.",
+      "scheduledDate": 1790447400000,
+      "duration": 90,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-09-26_EP031583890494_112972231849_2024-09-19T18:23:59Z_p26176688_b_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "LPGA Tour Golf",
+      "episodeTitle": "Walmart NW Arkansas Championship, Second Round",
+      "description": "From Pinnacle Country Club in Rogers, Ark.",
+      "scheduledDate": 1790452800000,
+      "duration": 180,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-09-26_EP031583890717_113010788578_2026-08-25T19:34:27Z_p32164270_b_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
     {
       "programTitle": "To Be Announced",
       "episodeTitle": "",
@@ -15,6 +37,17 @@
       "programType": "TBA",
       "genre": "Special, Entertainment",
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-09-26_SH027575020000_112769671032_2021-11-15T14:36:19Z_p514472_b_h8_dp/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Darts",
+      "episodeTitle": "World Series Finals: Final Day, Night Session",
+      "description": "Covering of all the action from darts events around the world.",
+      "scheduledDate": 1790463600000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Darts",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-09-26_SH032967320000_109954612423_2024-10-04T13:14:55Z_p644283_i_h8_ah/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     }
   ]
 }
