@@ -1,0 +1,53 @@
+{
+  "channel": "ES2",
+  "date": "2026-09-27",
+  "source": "kayo",
+  "fetchedAt": 1790220857868,
+  "fetchedAtIST": "24/9/2026, 9:04:17 am",
+  "events": [
+    {
+      "programTitle": "College Football Scoreboard",
+      "episodeTitle": "",
+      "description": "Highlights and up to the minute scores during the college football season, with a look at the major storylines in the competition.",
+      "scheduledDate": 1790449200000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-09-26_SH033268260000_112437273027_2019-12-21T18:40:07Z_p629287_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "College Football",
+      "episodeTitle": "Georgia vs Oklahoma",
+      "description": "From Sanford Stadium in Athens, Ga.",
+      "scheduledDate": 1790451000000,
+      "duration": 180,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-09-26_EP064738030528_112972534948_2026-06-19T13:22:46Z_GNLZZGG0036XYW1/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "College Football Scoreboard",
+      "episodeTitle": "",
+      "description": "Highlights and up to the minute scores during the college football season, with a look at the major storylines in the competition.",
+      "scheduledDate": 1790461800000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-09-26_SH033268260000_112437273027_2019-12-21T18:40:07Z_p629287_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "College Football",
+      "episodeTitle": "Alabama vs South Carolina",
+      "description": "From Saban Field at Bryant-Denny Stadium in Tuscaloosa, Ala.",
+      "scheduledDate": 1790463600000,
+      "duration": 180,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-09-26_EP064738030519_112972760725_2026-06-19T13:21:52Z_GNLZZGG0036XKNE/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    }
+  ]
+}

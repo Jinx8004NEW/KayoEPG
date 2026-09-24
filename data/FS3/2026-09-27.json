@@ -1,0 +1,31 @@
+{
+  "channel": "FS3",
+  "date": "2026-09-27",
+  "source": "kayo",
+  "fetchedAt": 1790220857828,
+  "fetchedAtIST": "24/9/2026, 9:04:17 am",
+  "events": [
+    {
+      "programTitle": "2026 Presidents Cup",
+      "episodeTitle": "Day 3",
+      "description": "From Medinah Country Club in Medinah, Ill.",
+      "scheduledDate": 1790452800000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-09-26_SH066278790000_112974091945_2026-08-05T21:07:29Z_p33597240_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "To Be Announced",
+      "episodeTitle": "",
+      "description": "The programming for this time slot has yet to be determined and is being confirmed by the broadcast channel.",
+      "scheduledDate": 1790456400000,
+      "duration": 240,
+      "parentalRating": "",
+      "programType": "TBA",
+      "genre": "Special, Entertainment",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-09-26_SH027575020000_112769671032_2021-11-15T14:36:19Z_p514472_b_h8_dp/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    }
+  ]
+}
