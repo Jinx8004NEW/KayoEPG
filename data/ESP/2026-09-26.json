@@ -2,8 +2,8 @@
   "channel": "ESP",
   "date": "2026-09-26",
   "source": "kayo",
-  "fetchedAt": 1790220857862,
-  "fetchedAtIST": "24/9/2026, 9:04:17 am",
+  "fetchedAt": 1790240595233,
+  "fetchedAtIST": "24/9/2026, 2:33:15 pm",
   "events": [
     {
       "programTitle": "NBA Today",
@@ -50,26 +50,26 @@
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-09-25_SH032424080000_108239731292_2021-04-08T22:26:28Z_p186288_i_h8_ae/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "NFL Blitz",
-      "episodeTitle": "",
-      "description": "All of the best action from the National Football League.",
-      "scheduledDate": 1790373600000,
-      "duration": 30,
-      "parentalRating": "",
-      "programType": "Sports non-event",
-      "genre": "Family, Football, News, Newsmagazine",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-09-25_SH060667300000_110937783149_2022-09-12T05:46:51Z_p22911383_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
-    {
       "programTitle": "Nothing But Net",
       "episodeTitle": "Weekend Edition",
       "description": "Kane Pitman and Ryan Broekhoff preview the upcoming NBA and NBL action through their Aussie lens, with guest interviews, highlights and breaking news.",
-      "scheduledDate": 1790375400000,
+      "scheduledDate": 1790373600000,
       "duration": 30,
       "parentalRating": "",
       "programType": "Sports non-event",
       "genre": "Basketball",
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-09-25_SH047654740000_108130071776_2023-06-02T12:16:33Z_p24869175_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "MLB Baseball",
+      "episodeTitle": "Philadelphia Phillies vs Tampa Bay Rays",
+      "description": "From Citizens Bank Park in Philadelphia.",
+      "scheduledDate": 1790375400000,
+      "duration": 180,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Baseball",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-09-25_EP062580852861_112997649712_2026-06-27T19:35:40Z_GNLZZGG0037VN9N/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "MLB Baseball",
@@ -83,6 +83,17 @@
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-09-25_EP062580852865_112876222192_2026-06-27T19:34:17Z_GNLZZGG0037VW4H/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
+      "programTitle": "NFL Blitz",
+      "episodeTitle": "",
+      "description": "All of the best action from the National Football League.",
+      "scheduledDate": 1790386200000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Family, Football, News, Newsmagazine",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-09-26_SH060667300000_110937783149_2022-09-12T05:46:51Z_p22911383_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
       "programTitle": "NFL Live",
       "episodeTitle": "",
       "description": "Wendi Nix and analysts break down the latest news in the NFL, offering views on players, coaches and management.",
@@ -94,7 +105,7 @@
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-09-26_SH033280050000_112969172259_2022-08-27T02:25:47Z_p267723_i_h8_ae/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "",
+      "programTitle": "E60",
       "episodeTitle": "Second Wind: The Boomer and Gunnar Esiason Story",
       "description": "ESPN presents in-depth stories relating to American and international sports, featuring some of the biggest names in the field.",
       "scheduledDate": 1790391600000,
@@ -105,7 +116,7 @@
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-09-26_SH033308270000_79811912898_2019-10-17T14:20:31Z_p229472_i_h10_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "",
+      "programTitle": "E60",
       "episodeTitle": "Above the Tide -- 20 Years After Katrina",
       "description": "Ryan Clark explores the lingering impact of Hurricane Katrina on New Orleans and its people.",
       "scheduledDate": 1790395200000,
@@ -139,14 +150,14 @@
     },
     {
       "programTitle": "MLB Baseball",
-      "episodeTitle": "Boston Red Sox vs Chicago Cubs",
-      "description": "From Fenway Park in Boston.",
+      "episodeTitle": "Philadelphia Phillies vs Tampa Bay Rays",
+      "description": "From Citizens Bank Park in Philadelphia.",
       "scheduledDate": 1790402400000,
       "duration": 120,
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Baseball",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-09-26_EP062580852865_112876222192_2026-06-27T19:34:17Z_GNLZZGG0037VW4H/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-09-26_EP062580852861_112997649712_2026-06-27T19:35:40Z_GNLZZGG0037VN9N/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "NFL Blitz",

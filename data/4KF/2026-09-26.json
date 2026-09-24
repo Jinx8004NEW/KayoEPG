@@ -2,9 +2,27 @@
   "channel": "4KF",
   "date": "2026-09-26",
   "source": "kayo-4k",
-  "fetchedAt": 1790220872795,
-  "fetchedAtIST": "24/9/2026, 9:04:32 am",
+  "fetchedAt": 1790240611788,
+  "fetchedAtIST": "24/9/2026, 2:33:31 pm",
   "events": [
+    {
+      "eventId": "14malxc8syij01gj5swlxt7f9l",
+      "programTitle": "Grand Final Breakfast",
+      "scheduledDate": 1790377200000,
+      "duration": 130,
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/9wqppd4lydgmmcxjlcl4h1yyv_image-header_pRow_1790034295000/fill/none/top/none/80/1920/1080/webp/image?brand=kayo",
+      "competitionTitle": "AFL",
+      "sport": "Australian Rules Football"
+    },
+    {
+      "eventId": "1oxk5ak9r1qas1uohpplvta26w",
+      "programTitle": "Grand Final Day on Fox",
+      "scheduledDate": 1790381400000,
+      "duration": 130,
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/513ukms6uk35j35nozvbyvvm1_image-header_pRow_1790037154000/fill/none/top/none/80/1920/1080/webp/image?brand=kayo",
+      "competitionTitle": "AFL",
+      "sport": "Australian Rules Football"
+    },
     {
       "eventId": "1be4glwmbcohx181giped9u718",
       "programTitle": "Fremantle v Brisbane Grand Final",
