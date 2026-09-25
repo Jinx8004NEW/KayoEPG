@@ -2,8 +2,8 @@
   "channel": "FS1",
   "date": "2026-09-28",
   "source": "kayo",
-  "fetchedAt": 1790328400440,
-  "fetchedAtIST": "25/9/2026, 2:56:40 pm",
+  "fetchedAt": 1790354690485,
+  "fetchedAtIST": "25/9/2026, 10:14:50 pm",
   "events": [
     {
       "programTitle": "Test Cricket",
@@ -51,14 +51,14 @@
     },
     {
       "programTitle": "One-Day International Cricket",
-      "episodeTitle": "South Africa vs Australia",
-      "description": "From Wanderers Stadium in Johannesburg.",
+      "episodeTitle": "2nd ODI: South Africa v Australia",
+      "description": "Coverage of one-day cricket matches contested by international teams.",
       "scheduledDate": 1790550000000,
       "duration": 20,
       "parentalRating": "",
       "programType": "Sports event",
-      "genre": "Cricket",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-09-27_EP029804690373_113010788765_2026-09-17T19:51:01Z_GNLZZGG003PGDS1/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "genre": "Cricket, Classic sport event",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-09-27_SH034583010000_110095246552_2026-03-24T13:16:18Z_p8509066_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "One-Day International Cricket",
@@ -73,14 +73,14 @@
     },
     {
       "programTitle": "One-Day International Cricket",
-      "episodeTitle": "South Africa vs Australia",
-      "description": "From Wanderers Stadium in Johannesburg.",
+      "episodeTitle": "2nd ODI: South Africa v Australia",
+      "description": "Coverage of one-day cricket matches contested by international teams.",
       "scheduledDate": 1790552400000,
       "duration": 20,
       "parentalRating": "",
       "programType": "Sports event",
-      "genre": "Cricket",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-09-27_EP029804690373_113010788765_2026-09-17T19:51:01Z_GNLZZGG003PGDS1/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "genre": "Cricket, Classic sport event",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-09-27_SH034583010000_110095246552_2026-03-24T13:16:18Z_p8509066_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     }
   ]
 }
