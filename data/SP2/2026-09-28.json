@@ -2,8 +2,8 @@
   "channel": "SP2",
   "date": "2026-09-28",
   "source": "kayo",
-  "fetchedAt": 1790308266240,
-  "fetchedAtIST": "25/9/2026, 9:21:06 am",
+  "fetchedAt": 1790328400453,
+  "fetchedAtIST": "25/9/2026, 2:56:40 pm",
   "events": [
     {
       "programTitle": "NRL",
@@ -72,15 +72,15 @@
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-09-27_SH042238410000_109229287001_2022-03-07T01:46:13Z_p21759648_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "NRL Women's Premiership",
-      "episodeTitle": "Gold Coast Titans vs Brisbane Broncos",
-      "description": "From Cbus Super Stadium in Robina, Australia.",
+      "programTitle": "NRLW Premiership Mini",
+      "episodeTitle": "Semifinal: Gold Coast Titans vs Brisbane Broncos",
+      "description": "Condensed highlights of some of the greatest encounters from the NRL Women's competition.",
       "scheduledDate": 1790550000000,
       "duration": 20,
       "parentalRating": "",
-      "programType": "Sports event",
+      "programType": "Sports non-event",
       "genre": "Rugby league, Rugby",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-09-27_EP030419250295_113010789161_2026-09-22T19:54:08Z_GNLZZGG003PVTL0/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-09-27_SH042238410000_109229287001_2022-03-07T01:46:13Z_p21759648_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "NRL Mini",

@@ -2,8 +2,8 @@
   "channel": "SPS",
   "date": "2026-09-26",
   "source": "kayo",
-  "fetchedAt": 1790308266268,
-  "fetchedAtIST": "25/9/2026, 9:21:06 am",
+  "fetchedAt": 1790328400478,
+  "fetchedAtIST": "25/9/2026, 2:56:40 pm",
   "events": [
     {
       "programTitle": "FIM Superbike World Championship",
@@ -120,7 +120,7 @@
       "episodeTitle": "Hi-Tech Oils Super Series, Round 5, Winton Raceway, Day 2",
       "description": "Comprehensive coverage and full game replays of all the exciting action and events from the world of auto racing.",
       "scheduledDate": 1790391600000,
-      "duration": 241,
+      "duration": 240,
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Auto racing",
@@ -136,6 +136,17 @@
       "programType": "TBA",
       "genre": "Special, Entertainment",
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-09-26_SH027575020000_112769671032_2021-11-15T14:36:19Z_p514472_b_h8_dp/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "FIA Formula 2 Championship",
+      "episodeTitle": "Round 12: Baku, Feature Race 2",
+      "description": "From Baku City Circuit in Baku, Azerbaijan.",
+      "scheduledDate": 1790406000000,
+      "duration": 75,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Auto racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-09-26_EP033280150281_113051887010_2026-09-24T11:21:53Z_GNLZZGG003PK1ZY/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "FIA Formula 2 Championship",
@@ -289,7 +300,7 @@
       "parentalRating": "",
       "programType": "Series",
       "genre": "Motorcycle",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-09-26_EP052529490020_113010789188_2026-09-21T10:56:23Z_p34113870_e_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-09-26_EP052529490020_113045569358_2026-09-21T10:56:23Z_p34113870_e_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "To Be Announced",

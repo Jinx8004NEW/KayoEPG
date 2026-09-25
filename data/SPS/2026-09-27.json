@@ -2,8 +2,8 @@
   "channel": "SPS",
   "date": "2026-09-27",
   "source": "kayo",
-  "fetchedAt": 1790308266268,
-  "fetchedAtIST": "25/9/2026, 9:21:06 am",
+  "fetchedAt": 1790328400479,
+  "fetchedAtIST": "25/9/2026, 2:56:40 pm",
   "events": [
     {
       "programTitle": "Formula 1",
@@ -109,7 +109,18 @@
       "episodeTitle": "WSBK The Greatest - Instant Impact",
       "description": "Explore the life and career of six-time WorldSBK Champion Jonathan Rea, featuring exclusive interviews, race highlights, and intimate behind-the-scenes footage.",
       "scheduledDate": 1790494200000,
-      "duration": 15,
+      "duration": 13,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Motorsports, Motorcycle racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-09-27_SH047387770000_105213341155_2023-05-08T07:56:30Z_p24689061_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "MotoGP Specials",
+      "episodeTitle": "WSBK The Greatest: Behind the 65",
+      "description": "Relive some of the best moments and highlights of the MotoGP season.",
+      "scheduledDate": 1790494980000,
+      "duration": 12,
       "parentalRating": "",
       "programType": "Sports non-event",
       "genre": "Motorsports, Motorcycle racing",

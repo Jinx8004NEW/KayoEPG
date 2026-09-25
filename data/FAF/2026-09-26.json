@@ -2,8 +2,8 @@
   "channel": "FAF",
   "date": "2026-09-26",
   "source": "kayo",
-  "fetchedAt": 1790308266253,
-  "fetchedAtIST": "25/9/2026, 9:21:06 am",
+  "fetchedAt": 1790328400467,
+  "fetchedAtIST": "25/9/2026, 2:56:40 pm",
   "events": [
     {
       "programTitle": "Classic AFL",
@@ -120,7 +120,7 @@
       "episodeTitle": "Grand Final Breakfast",
       "description": "A collection of segments, expert discussions and the best footy moments leading up to AFL Grand Final Day.",
       "scheduledDate": 1790377200000,
-      "duration": 60,
+      "duration": 70,
       "parentalRating": "",
       "programType": "Sports non-event",
       "genre": "Sports talk, Australian rules football",
@@ -132,6 +132,17 @@
       "description": "",
       "scheduledDate": 1790380800000,
       "duration": 240,
+      "parentalRating": "",
+      "programType": "Special",
+      "genre": "Special, Australian rules football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/Fallback_LTV_Fox_Footy/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Grand Final Day on Fox",
+      "episodeTitle": "",
+      "description": "",
+      "scheduledDate": 1790381400000,
+      "duration": 230,
       "parentalRating": "",
       "programType": "Special",
       "genre": "Special, Australian rules football",

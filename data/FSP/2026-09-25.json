@@ -2,8 +2,8 @@
   "channel": "FSP",
   "date": "2026-09-25",
   "source": "kayo",
-  "fetchedAt": 1790308266259,
-  "fetchedAtIST": "25/9/2026, 9:21:06 am",
+  "fetchedAt": 1790328400471,
+  "fetchedAtIST": "25/9/2026, 2:56:40 pm",
   "events": [
     {
       "programTitle": "SailGP",
@@ -164,7 +164,7 @@
       "episodeTitle": "Melbourne Demons vs North Melbourne Kangaroos",
       "description": "Live from IKON Park. Bounce time: 7:15pm AEST.",
       "scheduledDate": 1790326800000,
-      "duration": 120,
+      "duration": 135,
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Australian rules football",
@@ -191,6 +191,17 @@
       "programType": "Sports non-event",
       "genre": "Triathlon",
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-09-25_SH050906890000_112524436963_2024-04-05T08:23:57Z_p26765620_i_h8_ad/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "My Game: Tiger Woods",
+      "episodeTitle": "My Equipment",
+      "description": "Tiger explains the detailed process he goes through to select his equipment.",
+      "scheduledDate": 1790334900000,
+      "duration": 15,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-09-25_SH035435950000_107134189906_2019-09-11T08:00:16Z_p17353505_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "DP World Tour Golf",
