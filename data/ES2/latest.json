@@ -1,207 +1,152 @@
 {
   "channel": "ES2",
-  "date": "2026-09-25",
+  "date": "2026-09-26",
   "source": "kayo",
-  "fetchedAt": 1790354690536,
-  "fetchedAtIST": "25/9/2026, 10:14:50 pm",
+  "fetchedAt": 1790377705742,
+  "fetchedAtIST": "26/9/2026, 4:38:25 am",
   "events": [
     {
-      "programTitle": "The Pat McAfee Show",
-      "episodeTitle": "",
-      "description": "Former NFL punter Pat McAfee brings his humour, sarcasm and candour to the microphone to highlight the day's top stories.",
-      "scheduledDate": 1790280000000,
-      "duration": 120,
-      "parentalRating": "",
-      "programType": "Series",
-      "genre": "Sports talk",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-09-24_SH048483860000_111648065422_2020-09-10T14:31:07Z_p18762527_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
-    {
-      "programTitle": "NFL Blitz",
-      "episodeTitle": "",
-      "description": "All of the best action from the National Football League.",
-      "scheduledDate": 1790287200000,
-      "duration": 30,
-      "parentalRating": "",
-      "programType": "Sports non-event",
-      "genre": "Family, Football, News, Newsmagazine",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-09-24_SH060667300000_110937783149_2022-09-12T05:46:51Z_p22911383_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
-    {
-      "programTitle": "Pardon the Interruption",
-      "episodeTitle": "",
-      "description": "Tony Kornheiser and Mike Wilbon have intense discussions and interview guests about the top headlines in news and sports.",
-      "scheduledDate": 1790289000000,
-      "duration": 30,
-      "parentalRating": "",
-      "programType": "Sports non-event",
-      "genre": "Sports talk",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-09-24_SH032424080000_108239731292_2021-04-08T22:26:28Z_p186288_i_h8_ae/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
-    {
-      "programTitle": "MLB Baseball",
-      "episodeTitle": "New York Yankees vs Tampa Bay Rays",
-      "description": "From Yankee Stadium in the Bronx, N.Y.",
-      "scheduledDate": 1790290800000,
+      "programTitle": "College Football",
+      "episodeTitle": "Temple vs Army",
+      "description": "From Lincoln Financial Field in Philadelphia.",
+      "scheduledDate": 1790366400000,
       "duration": 180,
       "parentalRating": "",
       "programType": "Sports event",
-      "genre": "Baseball",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-09-24_EP062580852834_113007664931_2026-06-27T19:39:40Z_GNLZZGG0037V8NG/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "genre": "Football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-09-25_EP064738030473_112931278260_2026-06-19T10:31:31Z_GNLZZGG0036XGKR/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "Major League Baseball",
-      "episodeTitle": "50 Most Incredible Collisions",
-      "description": "Coverage of the Major League Baseball in the USA, with a comprehensive round-up of highlights and game results.",
-      "scheduledDate": 1790301600000,
-      "duration": 60,
+      "programTitle": "College Football",
+      "episodeTitle": "Alabama-Birmingham vs Navy",
+      "description": "From Protective Stadium in Birmingham, Ala.",
+      "scheduledDate": 1790377200000,
+      "duration": 180,
       "parentalRating": "",
       "programType": "Sports event",
-      "genre": "Classic sport event, Baseball",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-09-25_SH033289510000_112761989244_2019-05-07T11:00:16Z_p8541870_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "genre": "Football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-09-25_EP064738030548_112932406285_2026-06-19T13:24:49Z_GNLZZGG0036Z3V7/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "MLB Superstars: World Powers",
+      "programTitle": "College Football Scoreboard",
       "episodeTitle": "",
-      "description": "MLB Superstars: World Powers celebrates the greatest international stars in the game, including Miguel Cabrera, Robinson Cano, David Ortiz, Yasiel Puig and Mariano Rivera.",
-      "scheduledDate": 1790305200000,
-      "duration": 30,
-      "parentalRating": "",
-      "programType": "Special",
-      "genre": "Special, Sports talk, Baseball",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-09-25_SH038390420000_112762870119_2020-06-11T02:30:17Z_p18387290_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
-    {
-      "programTitle": "My Most Memorable Game",
-      "episodeTitle": "Bob Gibson",
-      "description": "Bob Gibson talks about his record-setting 17 strikeout performance in Game One of the 1968 World Series.",
-      "scheduledDate": 1790307000000,
+      "description": "Highlights and up to the minute scores during the college football season, with a look at the major storylines in the competition.",
+      "scheduledDate": 1790388000000,
       "duration": 30,
       "parentalRating": "",
       "programType": "Sports non-event",
-      "genre": "Baseball",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-09-25_SH038385110000_112761908770_2018-02-03T10:01:00Z_p10436473_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "genre": "Football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-09-26_SH033268260000_112437273027_2019-12-21T18:40:07Z_p629287_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "",
-      "episodeTitle": "28 Outs: An Imperfect Story",
-      "description": "The account of Armando Galarraga's almost-perfect game, focusing on the individual responsible for its loss.",
-      "scheduledDate": 1790308800000,
+      "programTitle": "College Football",
+      "episodeTitle": "California vs Clemson",
+      "description": "From California Memorial Stadium in Berkeley, Calif.",
+      "scheduledDate": 1790389800000,
+      "duration": 180,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-09-26_EP064738030554_112932789492_2026-06-19T13:24:02Z_GNLZZGG0036Z622/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "SportsCenter With Scott Van Pelt",
+      "episodeTitle": "",
+      "description": "Scott Van Pelt presents the day in sport through his unique perspective with highlights, special guests and his One Big Thing commentary.",
+      "scheduledDate": 1790400600000,
       "duration": 60,
       "parentalRating": "",
       "programType": "Sports non-event",
-      "genre": "Newsmagazine, News",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-09-25_SH033308270000_79811912898_2019-10-17T14:20:31Z_p229472_i_h10_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
-    {
-      "programTitle": "UEFA Women's Champions League Highlights",
-      "episodeTitle": "",
-      "description": "Highlights from the UEFA Champions League matches, the premier women's club football tournament in Europe.",
-      "scheduledDate": 1790312400000,
-      "duration": 30,
-      "parentalRating": "",
-      "programType": "Sports non-event",
-      "genre": "Soccer",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-09-25_SH061600770000_112350961060_2025-10-10T22:14:22Z_p31371704_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "genre": "News, Sports talk",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-09-26_SH034580420000_111889810065_2017-02-22T22:01:00Z_p13816005_i_h10_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "NFL Blitz",
       "episodeTitle": "",
       "description": "All of the best action from the National Football League.",
-      "scheduledDate": 1790314200000,
+      "scheduledDate": 1790404200000,
       "duration": 30,
       "parentalRating": "",
       "programType": "Sports non-event",
       "genre": "Family, Football, News, Newsmagazine",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-09-25_SH060667300000_110937783149_2022-09-12T05:46:51Z_p22911383_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
-    {
-      "programTitle": "NFL Films Presents",
-      "episodeTitle": "Bad Moon Rison",
-      "description": "Andre Rison reflects on his '90s career, sharing tales from both on and off the field.",
-      "scheduledDate": 1790316000000,
-      "duration": 30,
-      "parentalRating": "",
-      "programType": "Sports non-event",
-      "genre": "Football, Documentary",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-09-25_SH033308300000_112884565537_2026-09-18T18:36:12Z_p448767_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-09-26_SH060667300000_110937783149_2022-09-12T05:46:51Z_p22911383_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "College Football",
-      "episodeTitle": "Tuskegee vs Benedict",
-      "description": "From Abbott Memorial Alumni Stadium in Tuskegee, Ala.",
-      "scheduledDate": 1790317800000,
+      "episodeTitle": "Alabama-Birmingham vs Navy",
+      "description": "From Protective Stadium in Birmingham, Ala.",
+      "scheduledDate": 1790406000000,
       "duration": 120,
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Football",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-09-25_EP064738032215_112913511622_2026-08-20T22:51:22Z_GNLZZGG003HX4SF/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
-    {
-      "programTitle": "NFL Football",
-      "episodeTitle": "Green Bay Packers vs Atlanta Falcons",
-      "description": "Live from Lambeau Field in Green Bay. Start time: 10:15am AEST.",
-      "scheduledDate": 1790325000000,
-      "duration": 150,
-      "parentalRating": "",
-      "programType": "Sports event",
-      "genre": "Football",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-09-25_EP029371131867_112936533066_2026-07-15T04:36:52Z_GNLZZGG0039KLPC/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-09-26_EP064738030548_112932406285_2026-06-19T13:24:49Z_GNLZZGG0036Z3V7/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "MLB Baseball",
-      "episodeTitle": "New York Yankees vs Tampa Bay Rays",
-      "description": "From Yankee Stadium in the Bronx, N.Y.",
-      "scheduledDate": 1790334000000,
+      "episodeTitle": "Philadelphia Phillies vs Tampa Bay Rays",
+      "description": "From Citizens Bank Park in Philadelphia.",
+      "scheduledDate": 1790413200000,
       "duration": 120,
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Baseball",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-09-25_EP062580852834_113007664931_2026-06-27T19:39:40Z_GNLZZGG0037V8NG/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-09-26_EP062580852861_113062160072_2026-06-27T19:35:40Z_GNLZZGG0037VN9N/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "College Football",
+      "episodeTitle": "California vs Clemson",
+      "description": "From California Memorial Stadium in Berkeley, Calif.",
+      "scheduledDate": 1790420400000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-09-26_EP064738030554_112932789492_2026-06-19T13:24:02Z_GNLZZGG0036Z622/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "Quick Pitch",
       "episodeTitle": "",
       "description": "All the latest baseball news, scores and highlights. Plus, a first look at upcoming matchups.",
-      "scheduledDate": 1790341200000,
+      "scheduledDate": 1790427600000,
       "duration": 60,
       "parentalRating": "",
       "programType": "Sports non-event",
       "genre": "Baseball",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-09-25_SH039225660000_107838083445_2020-08-03T13:50:35Z_p3527970_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-09-26_SH039225660000_107838083445_2020-08-03T13:50:35Z_p3527970_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "First Take",
+      "programTitle": "Quick Pitch",
       "episodeTitle": "",
-      "description": "Stephen A. Smith joins Molly Qerim Rose to debate the hottest topics in sports.",
-      "scheduledDate": 1790344800000,
-      "duration": 120,
+      "description": "All the latest baseball news, scores and highlights. Plus, a first look at upcoming matchups.",
+      "scheduledDate": 1790431200000,
+      "duration": 60,
       "parentalRating": "",
       "programType": "Sports non-event",
-      "genre": "Sports talk, News, Debate",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-09-25_SH033280060000_108193810385_2025-11-07T06:36:14Z_p186291_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "genre": "Baseball",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-09-26_SH039225660000_107838083445_2020-08-03T13:50:35Z_p3527970_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "The Pat McAfee Show",
+      "programTitle": "Quick Pitch",
       "episodeTitle": "",
-      "description": "Former NFL punter Pat McAfee brings his humour, sarcasm and candour to the microphone to highlight the day's top stories.",
-      "scheduledDate": 1790352000000,
-      "duration": 120,
-      "parentalRating": "",
-      "programType": "Series",
-      "genre": "Sports talk",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-09-25_SH048483860000_111648065422_2020-09-10T14:31:07Z_p18762527_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
-    {
-      "programTitle": "Get Up",
-      "episodeTitle": "",
-      "description": "Mike Greenberg, Laura Rutledge and Jalen Rose discuss and analyse the latest news from the world of sports.",
-      "scheduledDate": 1790359200000,
-      "duration": 120,
+      "description": "All the latest baseball news, scores and highlights. Plus, a first look at upcoming matchups.",
+      "scheduledDate": 1790434800000,
+      "duration": 60,
       "parentalRating": "",
       "programType": "Sports non-event",
-      "genre": "Sports talk",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-09-25_SH033268270000_107093139583_2026-03-24T04:04:44Z_p15158780_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "genre": "Baseball",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-09-26_SH039225660000_107838083445_2020-08-03T13:50:35Z_p3527970_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "College Football",
+      "episodeTitle": "Louisville vs Wake Forest",
+      "description": "From L&N Federal Credit Union Stadium in Louisville, Ky.",
+      "scheduledDate": 1790438400000,
+      "duration": 180,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-09-26_EP064738030534_112969083443_2026-06-19T13:23:08Z_GNLZZGG0036Z6DG/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     }
   ]
 }
