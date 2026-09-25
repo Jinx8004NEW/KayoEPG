@@ -2,8 +2,8 @@
   "channel": "FSN",
   "date": "2026-09-26",
   "source": "kayo",
-  "fetchedAt": 1790291029571,
-  "fetchedAtIST": "25/9/2026, 4:33:49 am",
+  "fetchedAt": 1790308266220,
+  "fetchedAtIST": "25/9/2026, 9:21:06 am",
   "events": [
     {
       "programTitle": "FOX SPORTS News",
@@ -103,6 +103,94 @@
       "programType": "Sports non-event",
       "genre": "Other",
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103083_2026-09-25_SH030733750000_101942752518_2020-02-11T08:40:09Z_p16118304_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Gameday Live",
+      "episodeTitle": "",
+      "description": "Tune in for all the overnight sporting highlights, plus a preview of all the weekend action across Australia.",
+      "scheduledDate": 1790377200000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Other",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103083_2026-09-25_SH030733750000_101942752518_2020-02-11T08:40:09Z_p16118304_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Gameday Live",
+      "episodeTitle": "",
+      "description": "Tune in for all the overnight sporting highlights, plus a preview of all the weekend action across Australia.",
+      "scheduledDate": 1790379000000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Other",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103083_2026-09-25_SH030733750000_101942752518_2020-02-11T08:40:09Z_p16118304_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "First Up: Everest Carnival",
+      "episodeTitle": "",
+      "description": "Julie Snook and Brad Gray keep up to date with the latest news and analysis in the lead-up to the richest race on turf, The Everest.",
+      "scheduledDate": 1790380800000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Horse racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103083_2026-09-26_SH066019570000_112550072180_2026-09-09T08:05:28Z_p34038241_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "AFL Grand Final Pre-Game",
+      "episodeTitle": "",
+      "description": "",
+      "scheduledDate": 1790384400000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Australian rules football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/Fallback_LTV_Fox_Sports_News/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "AFL Grand Final Pre-Game",
+      "episodeTitle": "",
+      "description": "",
+      "scheduledDate": 1790386200000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Australian rules football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/Fallback_LTV_Fox_Sports_News/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "AFL Grand Final Pre-Game",
+      "episodeTitle": "",
+      "description": "",
+      "scheduledDate": 1790388000000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Australian rules football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/Fallback_LTV_Fox_Sports_News/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "AFL Grand Final Pre-Game",
+      "episodeTitle": "",
+      "description": "",
+      "scheduledDate": 1790389800000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Australian rules football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/Fallback_LTV_Fox_Sports_News/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "AFL Grand Final Pre-Game",
+      "episodeTitle": "",
+      "description": "",
+      "scheduledDate": 1790391600000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Australian rules football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/Fallback_LTV_Fox_Sports_News/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     }
   ]
 }

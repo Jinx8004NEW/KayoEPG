@@ -1,0 +1,86 @@
+{
+  "channel": "FS1",
+  "date": "2026-09-28",
+  "source": "kayo",
+  "fetchedAt": 1790308266230,
+  "fetchedAtIST": "25/9/2026, 9:21:06 am",
+  "events": [
+    {
+      "programTitle": "Test Cricket",
+      "episodeTitle": "Australia v Bangladesh, 1st Test",
+      "description": "Coverage and highlights from international test cricket matches.",
+      "scheduledDate": 1790535600000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Cricket, Classic sport event",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-09-27_SH033446590000_98978823590_2023-09-29T14:53:53Z_p8163404_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Test Cricket",
+      "episodeTitle": "Australia v Bangladesh, 2nd Test",
+      "description": "Coverage and highlights from international test cricket matches.",
+      "scheduledDate": 1790539200000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Cricket, Classic sport event",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-09-27_SH033446590000_98978823590_2023-09-29T14:53:53Z_p8163404_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Test Cricket",
+      "episodeTitle": "",
+      "description": "Coverage and highlights from international test cricket matches.",
+      "scheduledDate": 1790542800000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Cricket, Classic sport event",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-09-27_SH033446590000_98978823590_2023-09-29T14:53:53Z_p8163404_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "One-Day International Cricket",
+      "episodeTitle": "South Africa vs Australia",
+      "description": "From Wanderers Stadium in Johannesburg.",
+      "scheduledDate": 1790546400000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Cricket",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-09-27_EP029804690373_113010788765_2026-09-17T19:51:01Z_GNLZZGG003PGDS1/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "One-Day International Cricket",
+      "episodeTitle": "South Africa vs Australia",
+      "description": "From Wanderers Stadium in Johannesburg.",
+      "scheduledDate": 1790550000000,
+      "duration": 20,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Cricket",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-09-27_EP029804690373_113010788765_2026-09-17T19:51:01Z_GNLZZGG003PGDS1/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "One-Day International Cricket",
+      "episodeTitle": "India vs West Indies",
+      "description": "From Greenfield International Stadium in Thiruvananthapuram, Kerala, India.",
+      "scheduledDate": 1790551200000,
+      "duration": 20,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Cricket",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-09-27_EP029804690362_113010788718_2026-08-26T19:51:47Z_GNLZZGG003JGQTB/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "One-Day International Cricket",
+      "episodeTitle": "South Africa vs Australia",
+      "description": "From Wanderers Stadium in Johannesburg.",
+      "scheduledDate": 1790552400000,
+      "duration": 20,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Cricket",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-09-27_EP029804690373_113010788765_2026-09-17T19:51:01Z_GNLZZGG003PGDS1/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    }
+  ]
+}

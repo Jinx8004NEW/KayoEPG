@@ -1,0 +1,53 @@
+{
+  "channel": "FSS",
+  "date": "2026-09-28",
+  "source": "kayo",
+  "fetchedAt": 1790308266277,
+  "fetchedAtIST": "25/9/2026, 9:21:06 am",
+  "events": [
+    {
+      "programTitle": "Formula 1",
+      "episodeTitle": "Azerbaijan Grand Prix: Qualifying",
+      "description": "Features all the action and highlights from Formula 1 racing.",
+      "scheduledDate": 1790537400000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Classic sport event, Motorsports, Auto racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-09-27_SH035915380000_109578600751_2023-09-29T11:04:19Z_p8544413_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Formula 1",
+      "episodeTitle": "Azerbaijan Grand Prix: Alternate Commentary, Race",
+      "description": "Features all the action and highlights from Formula 1 racing.",
+      "scheduledDate": 1790541000000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Classic sport event, Motorsports, Auto racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-09-27_SH035915380000_109578600751_2023-09-29T11:04:19Z_p8544413_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "SailGP Highlights",
+      "episodeTitle": "Geneva",
+      "description": "Features all the best sailing highlights from competitions across the globe.",
+      "scheduledDate": 1790548200000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Sailing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-09-27_SH039043160000_112166871707_2022-11-22T06:36:35Z_p17178369_i_h10_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Inside Sailing",
+      "episodeTitle": "",
+      "description": "All the latest news and features from some of the greatest sailing locations around the world; from windsurfing to yachting, this series brings you all the secrets to success.",
+      "scheduledDate": 1790551800000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Sailing, Yacht racing, Bus./financial",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-09-27_SH034433060000_111287577459_2025-05-15T06:46:25Z_p9550538_i_h11_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    }
+  ]
+}

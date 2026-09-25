@@ -1,0 +1,31 @@
+{
+  "channel": "ES2",
+  "date": "2026-09-28",
+  "source": "kayo",
+  "fetchedAt": 1790308266288,
+  "fetchedAtIST": "25/9/2026, 9:21:06 am",
+  "events": [
+    {
+      "programTitle": "NFL Football",
+      "episodeTitle": "Tampa Bay Buccaneers vs Minnesota Vikings",
+      "description": "From Raymond James Stadium in Tampa, Fla.",
+      "scheduledDate": 1790539200000,
+      "duration": 180,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-09-27_EP029371131877_113022096567_2026-07-15T04:38:32Z_GNLZZGG0039K2F1/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "College Football Final",
+      "episodeTitle": "",
+      "description": "Matt Barrie, Joey Galloway and Jesse Palmer take a look at the latest college football action, recapping the games and discussing the highlights.",
+      "scheduledDate": 1790550000000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-09-27_SH033308190000_112933695071_2018-01-20T00:41:00Z_p221262_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    }
+  ]
+}

@@ -2,8 +2,8 @@
   "channel": "ESP",
   "date": "2026-09-27",
   "source": "kayo",
-  "fetchedAt": 1790291029629,
-  "fetchedAtIST": "25/9/2026, 4:33:49 am",
+  "fetchedAt": 1790308266282,
+  "fetchedAtIST": "25/9/2026, 9:21:06 am",
   "events": [
     {
       "programTitle": "College Football Scoreboard",
@@ -81,6 +81,105 @@
       "programType": "Sports event",
       "genre": "Football",
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-09-26_EP064738030527_112969314724_2026-06-19T13:23:23Z_GNLZZGG0036XQMP/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "In Depth With Graham Bensinger",
+      "episodeTitle": "Lincoln Riley",
+      "description": "USC head coach Lincoln Riley reflects on the origins of his career and discusses his departure from Oklahoma; a tour of Riley's Palos Verdes home.",
+      "scheduledDate": 1790478000000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Series",
+      "genre": "Sports talk, Interview",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-09-27_SH033308670000_112801614915_2026-01-13T18:05:19Z_p8178298_i_h8_ad/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "In Depth With Graham Bensinger",
+      "episodeTitle": "Dolph Lundgren",
+      "description": "Actor Dolph Lundgren (\"Rocky IV\") discusses finding fame, the highs and lows of his relationship with Sylvester Stallone, and his cancer battle; Arnold Schwarzenegger.",
+      "scheduledDate": 1790479800000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Series",
+      "genre": "Sports talk, Interview",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-09-27_EP033308670114_112933694989_2025-07-23T15:24:12Z_p24619722_e_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "College Football",
+      "episodeTitle": "Louisville vs Wake Forest",
+      "description": "From L&N Federal Credit Union Stadium in Louisville, Ky.",
+      "scheduledDate": 1790481600000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-09-27_EP064738030534_112969083443_2026-06-19T13:23:08Z_GNLZZGG0036Z6DG/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NBL",
+      "episodeTitle": "Adelaide 36ers vs Cairns Taipans",
+      "description": "From Adelaide Entertainment Centre in Hindmarsh, South Australia, Australia.",
+      "scheduledDate": 1790488800000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Basketball",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-09-27_EP029269501385_112933694862_2026-09-09T20:59:36Z_GNLZZGG003NJ2R7/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NBL",
+      "episodeTitle": "Sydney Kings vs Illawarra Hawks",
+      "description": "",
+      "scheduledDate": 1790496000000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Basketball",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-09-27_EP029269501386_112933694994_2026-09-09T20:42:13Z_GNLZZGG003NHWR9/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "College Football",
+      "episodeTitle": "Alabama vs South Carolina",
+      "description": "From Saban Field at Bryant-Denny Stadium in Tuscaloosa, Ala.",
+      "scheduledDate": 1790503200000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-09-27_EP064738030519_112972760725_2026-06-19T13:21:52Z_GNLZZGG0036XKNE/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "College Football",
+      "episodeTitle": "Stanford vs Georgia Tech",
+      "description": "From Stanford Stadium in Stanford, Calif.",
+      "scheduledDate": 1790510400000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-09-27_EP064738030596_112973578140_2026-06-19T16:27:52Z_GNLZZGG0036K50F/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Sunday NFL Countdown",
+      "episodeTitle": "",
+      "description": "Samantha Ponder, with a team of analysts, introduces the features and directs the storylines associated with the day's games.",
+      "scheduledDate": 1790517600000,
+      "duration": 180,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-09-27_SH033308210000_112933694846_2019-09-06T20:20:11Z_p924452_i_h8_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NFL Football",
+      "episodeTitle": "Buffalo Bills vs Los Angeles Chargers",
+      "description": "From Highmark Blue Cross Blue Shield Stadium in Orchard Park, N.Y.",
+      "scheduledDate": 1790528400000,
+      "duration": 180,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-09-27_EP029371131875_113019948043_2026-07-15T07:25:42Z_GNLZZGG0039LDXN/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     }
   ]
 }

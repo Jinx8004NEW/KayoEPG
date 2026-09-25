@@ -1,0 +1,53 @@
+{
+  "channel": "FSP",
+  "date": "2026-09-28",
+  "source": "kayo",
+  "fetchedAt": 1790308266260,
+  "fetchedAtIST": "25/9/2026, 9:21:06 am",
+  "events": [
+    {
+      "programTitle": "FIM Superbike World Championship",
+      "episodeTitle": "Italian Round, Race 1",
+      "description": "From Cremona Circuit in Lombardy, Italy.",
+      "scheduledDate": 1790542800000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Motorcycle racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-09-27_EP050933440122_113029275937_2026-09-24T19:24:12Z_GNLZZGG003PKNCT/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "F1 Mini",
+      "episodeTitle": "Azerbaijan Grand Prix",
+      "description": "Highlights of the world's most iconic Formula 1 Grands Prix, featuring every podium and overtake.",
+      "scheduledDate": 1790546400000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Motorsports, Classic sport event",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-09-27_SH036452570000_107032703571_2020-11-19T03:00:48Z_p18944992_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "FIM Superbike World Championship",
+      "episodeTitle": "Italian Round, Race 2",
+      "description": "From Cremona Circuit in Lombardy, Italy.",
+      "scheduledDate": 1790548200000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Motorcycle racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-09-27_EP050933440123_113029275934_2026-09-24T19:24:08Z_GNLZZGG003PKNCB/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Darts",
+      "episodeTitle": "PDC ANZ Premier League: Week 1",
+      "description": "Covering of all the action from darts events around the world.",
+      "scheduledDate": 1790551800000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Darts",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-09-27_SH032967320000_109954612423_2024-10-04T13:14:55Z_p644283_i_h8_ah/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    }
+  ]
+}

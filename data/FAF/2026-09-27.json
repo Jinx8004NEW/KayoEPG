@@ -2,8 +2,8 @@
   "channel": "FAF",
   "date": "2026-09-27",
   "source": "kayo",
-  "fetchedAt": 1790291029606,
-  "fetchedAtIST": "25/9/2026, 4:33:49 am",
+  "fetchedAt": 1790308266254,
+  "fetchedAtIST": "25/9/2026, 9:21:06 am",
   "events": [
     {
       "programTitle": "AFL Mini",
@@ -48,6 +48,138 @@
       "programType": "Sports non-event",
       "genre": "Australian rules football",
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-09-26_SH042238570000_104529301600_2022-03-07T04:36:21Z_p21759801_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "AFL Women's Premiership",
+      "episodeTitle": "Carlton Blues vs Richmond Tigers",
+      "description": "Live from IKON Park. Bounce time: 4:05pm AEST.",
+      "scheduledDate": 1790467200000,
+      "duration": 15,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Australian rules football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-09-27_EP029247970796_112875748103_2026-07-21T00:18:27Z_GNLZZGG003BVDZP/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "AFL Women's Premiership",
+      "episodeTitle": "Melbourne Demons vs North Melbourne Kangaroos",
+      "description": "Live from IKON Park. Bounce time: 7:15pm AEST.",
+      "scheduledDate": 1790468100000,
+      "duration": 15,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Australian rules football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-09-27_EP029247970797_113031336566_2026-08-03T17:46:09Z_GNLZZGG003DVDH1/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "AFL",
+      "episodeTitle": "Fremantle vs. Brisbane Lions",
+      "description": "From Melbourne Cricket Ground in Melbourne, Victoria, Australia.",
+      "scheduledDate": 1790469000000,
+      "duration": 150,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Playoff sports, Australian rules football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-09-27_EP029151671455_112995306778_2026-09-19T16:43:14Z_GNLZZGG003PNYPS/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "AFL Women's Premiership",
+      "episodeTitle": "Collingwood Magpies vs GWS GIANTS",
+      "description": "Live from Victoria Park. Bounce time: 1:05pm AEST.",
+      "scheduledDate": 1790478000000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Australian rules football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-09-27_EP029247970798_112918939229_2026-07-21T00:18:23Z_GNLZZGG003BV95Z/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "AFL Women's Premiership",
+      "episodeTitle": "Sydney Swans vs Brisbane Lions",
+      "description": "Live from Henson Park. Bounce time: 3:05pm AEST.",
+      "scheduledDate": 1790485200000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Australian rules football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-09-27_EP029247970800_112920132662_2026-08-03T17:47:14Z_GNLZZGG003DVF01/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "AFL Women's Premiership",
+      "episodeTitle": "Gold Coast SUNS vs St. Kilda Saints",
+      "description": "From People First Stadium in Gold Coast, Queensland, Australia.",
+      "scheduledDate": 1790492400000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Australian rules football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-09-27_EP029247970801_113010789185_2026-07-21T00:18:09Z_GNLZZGG003BVG3H/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "The W Debrief",
+      "episodeTitle": "",
+      "description": "Experts review the week's major headlines, stand-out matches and biggest talking points from around the AFLW competition, delivering comprehensive analysis and discussion on women's football.",
+      "scheduledDate": 1790499600000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Australian rules football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-09-27_SH060384060000_112853610422_2025-10-15T06:35:17Z_p31174602_b_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "AFL",
+      "episodeTitle": "Fremantle vs. Brisbane Lions",
+      "description": "From Melbourne Cricket Ground in Melbourne, Victoria, Australia.",
+      "scheduledDate": 1790501400000,
+      "duration": 150,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Playoff sports, Australian rules football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-09-27_EP029151671455_112995306778_2026-09-19T16:43:14Z_GNLZZGG003PNYPS/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "AFL",
+      "episodeTitle": "Fremantle vs. Brisbane Lions",
+      "description": "From Melbourne Cricket Ground in Melbourne, Victoria, Australia.",
+      "scheduledDate": 1790510400000,
+      "duration": 150,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Playoff sports, Australian rules football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-09-27_EP029151671455_112995306778_2026-09-19T16:43:14Z_GNLZZGG003PNYPS/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "AFL",
+      "episodeTitle": "Fremantle vs. Brisbane Lions",
+      "description": "From Melbourne Cricket Ground in Melbourne, Victoria, Australia.",
+      "scheduledDate": 1790519400000,
+      "duration": 150,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Playoff sports, Australian rules football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-09-27_EP029151671455_112995306778_2026-09-19T16:43:14Z_GNLZZGG003PNYPS/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "The W Debrief",
+      "episodeTitle": "",
+      "description": "Experts review the week's major headlines, stand-out matches and biggest talking points from around the AFLW competition, delivering comprehensive analysis and discussion on women's football.",
+      "scheduledDate": 1790528400000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Australian rules football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-09-27_SH060384060000_112853610422_2025-10-15T06:35:17Z_p31174602_b_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "AFL",
+      "episodeTitle": "Fremantle vs. Brisbane Lions",
+      "description": "From Melbourne Cricket Ground in Melbourne, Victoria, Australia.",
+      "scheduledDate": 1790530200000,
+      "duration": 150,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Playoff sports, Australian rules football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-09-27_EP029151671455_112995306778_2026-09-19T16:43:14Z_GNLZZGG003PNYPS/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     }
   ]
 }

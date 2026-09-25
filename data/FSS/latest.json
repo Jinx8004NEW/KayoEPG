@@ -2,8 +2,8 @@
   "channel": "FSS",
   "date": "2026-09-25",
   "source": "kayo",
-  "fetchedAt": 1790291029622,
-  "fetchedAtIST": "25/9/2026, 4:33:49 am",
+  "fetchedAt": 1790308266275,
+  "fetchedAtIST": "25/9/2026, 9:21:06 am",
   "events": [
     {
       "programTitle": "One-Day International Cricket",
@@ -88,6 +88,17 @@
       "description": "",
       "scheduledDate": 1790303400000,
       "duration": 90,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Sailing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-09-25_SH051028760000_112367882509_2021-04-23T21:46:53Z_p19827810_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "SailGP",
+      "episodeTitle": "Geneva, Day 2",
+      "description": "",
+      "scheduledDate": 1790303520000,
+      "duration": 88,
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Sailing",
