@@ -2,16 +2,25 @@
   "channel": "4KL",
   "date": "2026-09-26",
   "source": "kayo-4k",
-  "fetchedAt": 1790395026396,
-  "fetchedAtIST": "26/9/2026, 9:27:06 am",
+  "fetchedAt": 1790414139075,
+  "fetchedAtIST": "26/9/2026, 2:45:39 pm",
   "events": [
     {
       "eventId": "1v4675ps4avc5rpvdaqlifyi00",
       "programTitle": "Bears v Magpies Grand Final",
       "scheduledDate": 1790395500000,
-      "duration": 160,
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/7blh4p88saxvtq2wbwftmrros_image-header_pRow_1790142411000/fill/none/top/none/80/1920/1080/webp/image?brand=kayo",
+      "duration": 122,
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/bifr0gydf8g89szf1ufz4nuis_image-header_pRow_1790142411000/fill/none/top/none/80/1920/1080/webp/image?brand=kayo",
       "competitionTitle": "QRL Women's Premiership",
+      "sport": "Rugby League"
+    },
+    {
+      "eventId": "13g14twdpr35g1s5fmigifes5t",
+      "programTitle": "Falcons v Dolphins Grand Final",
+      "scheduledDate": 1790403000000,
+      "duration": 131,
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/98mm6gfptnnbvi3ealyiu3mw1_image-header_pRow_1790143005000/fill/none/top/none/80/1920/1080/webp/image?brand=kayo",
+      "competitionTitle": "Queensland Cup",
       "sport": "Rugby League"
     }
   ]
