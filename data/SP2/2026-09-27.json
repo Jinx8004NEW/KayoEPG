@@ -2,8 +2,8 @@
   "channel": "SP2",
   "date": "2026-09-27",
   "source": "kayo",
-  "fetchedAt": 1790482066980,
-  "fetchedAtIST": "27/9/2026, 9:37:46 am",
+  "fetchedAt": 1790516088628,
+  "fetchedAtIST": "27/9/2026, 7:04:48 pm",
   "events": [
     {
       "programTitle": "NRL Classic Match",
@@ -347,11 +347,33 @@
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-09-27_SH035786430000_106552413658_2020-10-16T18:30:18Z_p18624350_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
+      "programTitle": "NRL Mini",
+      "episodeTitle": "Preliminary Final: Penrith Panthers v Newcastle Knights",
+      "description": "A comprehensive summary of the match played is provided in an expedited timeframe.",
+      "scheduledDate": 1790515500000,
+      "duration": 20,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Rugby league, Rugby",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-09-27_SH035786430000_106552413658_2020-10-16T18:30:18Z_p18624350_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
       "programTitle": "NRLW Premiership Mini",
       "episodeTitle": "Semifinal: Gold Coast Titans vs Brisbane Broncos",
       "description": "Condensed highlights of some of the greatest encounters from the NRL Women's competition.",
       "scheduledDate": 1790516100000,
       "duration": 25,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Rugby league, Rugby",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-09-27_SH042238410000_109229287001_2022-03-07T01:46:13Z_p21759648_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NRLW Premiership Mini",
+      "episodeTitle": "Semifinal: Gold Coast Titans vs Brisbane Broncos",
+      "description": "Condensed highlights of some of the greatest encounters from the NRL Women's competition.",
+      "scheduledDate": 1790516700000,
+      "duration": 19,
       "parentalRating": "",
       "programType": "Sports non-event",
       "genre": "Rugby league, Rugby",
@@ -372,8 +394,30 @@
       "programTitle": "NRL",
       "episodeTitle": "Penrith Panthers vs Newcastle Knights",
       "description": "Live from Accor Stadium. Kick off at 4:00PM AEST.",
+      "scheduledDate": 1790517840000,
+      "duration": 57,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Playoff sports, Rugby league, Rugby",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-09-27_EP031720961245_113010788996_2026-09-20T13:44:26Z_GNLZZGG003PP9HB/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NRL",
+      "episodeTitle": "Penrith Panthers vs Newcastle Knights",
+      "description": "Live from Accor Stadium. Kick off at 4:00PM AEST.",
       "scheduledDate": 1790521200000,
       "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Playoff sports, Rugby league, Rugby",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-09-27_EP031720961245_113010788996_2026-09-20T13:44:26Z_GNLZZGG003PP9HB/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NRL",
+      "episodeTitle": "Penrith Panthers vs Newcastle Knights",
+      "description": "Live from Accor Stadium. Kick off at 4:00PM AEST.",
+      "scheduledDate": 1790521260000,
+      "duration": 59,
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Playoff sports, Rugby league, Rugby",
