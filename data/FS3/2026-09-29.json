@@ -2,8 +2,8 @@
   "channel": "FS3",
   "date": "2026-09-29",
   "source": "kayo",
-  "fetchedAt": 1790461566199,
-  "fetchedAtIST": "27/9/2026, 3:56:06 am",
+  "fetchedAt": 1790482066989,
+  "fetchedAtIST": "27/9/2026, 9:37:46 am",
   "events": [
     {
       "programTitle": "PGA Tour Highlights",
@@ -70,6 +70,149 @@
       "programType": "Sports event",
       "genre": "Golf",
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-09-28_EP040914080713_113052378637_2026-09-24T15:22:29Z_GNLZZGG003PKB5N/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "LPGA Tour Golf",
+      "episodeTitle": "Walmart NW Arkansas Championship, Final Round",
+      "description": "From Pinnacle Country Club in Rogers, Ark.",
+      "scheduledDate": 1790645400000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-09-29_EP031583890718_113019652371_2026-08-25T19:34:59Z_p33753615_b_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "2026 Presidents Cup",
+      "episodeTitle": "Final Day",
+      "description": "From Medinah Country Club in Medinah, Ill.",
+      "scheduledDate": 1790652600000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-09-29_SH066278790000_112974091945_2026-08-05T21:07:29Z_p33597240_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Live from the Presidents Cup",
+      "episodeTitle": "Day 3",
+      "description": "A team representing the United States and an international team representing the rest of the world minus Europe compete for the Presidents Cup.",
+      "scheduledDate": 1790659800000,
+      "duration": 90,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-09-29_SH052952550000_112870283834_2026-09-09T20:20:29Z_p22737534_i_h8_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "European PGA Tour Highlights",
+      "episodeTitle": "Fedex Open De France",
+      "description": "All the action and highlights from European Tour golf.",
+      "scheduledDate": 1790665200000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-09-29_SH037026900000_112448059278_2022-09-05T13:56:59Z_p9656797_i_h10_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "LPGA Tour Golf",
+      "episodeTitle": "Walmart NW Arkansas Championship, Final Round",
+      "description": "From Pinnacle Country Club in Rogers, Ark.",
+      "scheduledDate": 1790667000000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-09-29_EP031583890718_113019652371_2026-08-25T19:34:59Z_p33753615_b_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "PGA Tour Highlights",
+      "episodeTitle": "Presidents Cup",
+      "description": "Highlights from PGA Tour events featuring the world's best golfers in action. Hosts track the progression of the game while reviewing the changes in technologies and techniques.",
+      "scheduledDate": 1790674200000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Classic sport event, Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-09-29_SH032355110000_106892699068_2023-03-16T12:30:24Z_p9060599_i_h10_ae/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Getting a Round In",
+      "episodeTitle": "",
+      "description": "Australian professional golfer, Paul Gow hosts celebrities as his playing partners who share his love for the game of golf.",
+      "scheduledDate": 1790677800000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Series",
+      "genre": "Golf, Interview",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-09-29_SH048121120000_110998856207_2023-07-18T05:56:16Z_p25221374_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "2026 Presidents Cup",
+      "episodeTitle": "Final Day",
+      "description": "From Medinah Country Club in Medinah, Ill.",
+      "scheduledDate": 1790679600000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-09-29_SH066278790000_112974091945_2026-08-05T21:07:29Z_p33597240_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Getting a Round In",
+      "episodeTitle": "",
+      "description": "Australian professional golfer, Paul Gow hosts celebrities as his playing partners who share his love for the game of golf.",
+      "scheduledDate": 1790686800000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Series",
+      "genre": "Golf, Interview",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-09-29_SH048121120000_110998856207_2023-07-18T05:56:16Z_p25221374_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "European PGA Tour Highlights",
+      "episodeTitle": "Fedex Open De France",
+      "description": "All the action and highlights from European Tour golf.",
+      "scheduledDate": 1790688600000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-09-29_SH037026900000_112448059278_2022-09-05T13:56:59Z_p9656797_i_h10_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "European PGA Tour Highlights",
+      "episodeTitle": "Qatar Masters",
+      "description": "The iconic Doha Golf Club is the venue for the Qatar Masters' tee-off.",
+      "scheduledDate": 1790690400000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-09-29_SH037026900000_112448059278_2022-09-05T13:56:59Z_p9656797_i_h10_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "European PGA Tour Highlights",
+      "episodeTitle": "Magical Kenya Open",
+      "description": "All the action and highlights from European Tour golf.",
+      "scheduledDate": 1790697600000,
+      "duration": 120,
+      "parentalRating": "PG",
+      "programType": "Sports non-event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-09-29_SH037026900000_112448059278_2022-09-05T13:56:59Z_p9656797_i_h10_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "European PGA Tour Highlights",
+      "episodeTitle": "Joburg Open",
+      "description": "All the action and highlights from European Tour golf.",
+      "scheduledDate": 1790704800000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-09-29_SH037026900000_112448059278_2022-09-05T13:56:59Z_p9656797_i_h10_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     }
   ]
 }

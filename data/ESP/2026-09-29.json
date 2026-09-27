@@ -2,8 +2,8 @@
   "channel": "ESP",
   "date": "2026-09-29",
   "source": "kayo",
-  "fetchedAt": 1790461566376,
-  "fetchedAtIST": "27/9/2026, 3:56:06 am",
+  "fetchedAt": 1790482067028,
+  "fetchedAtIST": "27/9/2026, 9:37:47 am",
   "events": [
     {
       "programTitle": "NFL Live",
@@ -48,6 +48,193 @@
       "programType": "Sports non-event",
       "genre": "Football",
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-09-28_SH033280040000_112729834822_2024-11-21T10:13:40Z_p806866_i_h11_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NFL Football",
+      "episodeTitle": "",
+      "description": "Coverage of matches played as part of America's National Football League.",
+      "scheduledDate": 1790640000000,
+      "duration": 15,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-09-29_SH029371130000_112361075973_2025-09-11T10:45:20Z_p191277_i_h10_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NFL Football",
+      "episodeTitle": "Chicago Bears vs Philadelphia Eagles",
+      "description": "From Soldier Field in Chicago.",
+      "scheduledDate": 1790640900000,
+      "duration": 180,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-09-29_EP029371132089_113093322420_2026-07-17T00:22:04Z_GNLZZGG003B9Y03/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Monday Night Postgame",
+      "episodeTitle": "",
+      "description": "A recap of the Monday Night Footy match with highlights, interviews and more.",
+      "scheduledDate": 1790651700000,
+      "duration": 15,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-09-29_SH039852720000_113050093871_2023-09-22T16:53:40Z_p20481475_i_h10_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "SportsCenter With Scott Van Pelt",
+      "episodeTitle": "",
+      "description": "Scott Van Pelt presents the day in sport through his unique perspective with highlights, special guests and his One Big Thing commentary.",
+      "scheduledDate": 1790652600000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "News, Sports talk",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-09-29_SH034580420000_111889810065_2017-02-22T22:01:00Z_p13816005_i_h10_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "SportsCenter",
+      "episodeTitle": "",
+      "description": "The team deliver the latest news, highlights, and inside information from the wide world of sports, as well as trending topics across social media platforms.",
+      "scheduledDate": 1790656200000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "News, Sports talk",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-09-29_SH033259060000_109832503473_2018-04-18T10:39:00Z_p186674_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "SC: Australia Weekly",
+      "episodeTitle": "",
+      "description": "Delivers key sporting news, major highlights and expert analysis.",
+      "scheduledDate": 1790659800000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Series",
+      "genre": "News",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-09-29_SH065376100000_111577890861_2026-08-05T03:16:28Z_p30227362_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "International Dance League",
+      "episodeTitle": "New York",
+      "description": "The world's best dance crews compete head-to-head for glory and prize money on the global stage.",
+      "scheduledDate": 1790661600000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Dance",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-09-29_SH065465050000_113050094157_2026-07-13T18:45:53Z_p33553747_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "International Dance League",
+      "episodeTitle": "Vancouver Series",
+      "description": "Coverage of round two of the 2026 International Dance League, presented from the Thunderbird Sports Centre in Vancouver, Canada. The event takes place on May 23, 2026.",
+      "scheduledDate": 1790665200000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Dance",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-09-29_SH065465050000_113050094157_2026-07-13T18:45:53Z_p33553747_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NFL Minis",
+      "episodeTitle": "2026: Philadelphia Eagles vs Chicago Bears",
+      "description": "A collection of special condensed replays featuring the best highlights and all the key moments on the field.",
+      "scheduledDate": 1790668800000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Classic sport event, Football, News",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-09-29_SH036425140000_112544470268_2020-10-08T06:20:45Z_p18931248_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "ESPN FC",
+      "episodeTitle": "",
+      "description": "ESPN FC brings you a round-up of the latest news from the world of football, including in-depth analysis and exclusive interviews.",
+      "scheduledDate": 1790670600000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Series",
+      "genre": "Soccer, Sports talk",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-09-29_SH033236780000_109573421566_2026-05-25T06:15:30Z_p10106369_i_h11_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "SC: Australia Weekly",
+      "episodeTitle": "",
+      "description": "Delivers key sporting news, major highlights and expert analysis.",
+      "scheduledDate": 1790672400000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Series",
+      "genre": "News",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-09-29_SH065376100000_111577890861_2026-08-05T03:16:28Z_p30227362_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NFL Football",
+      "episodeTitle": "Chicago Bears vs Philadelphia Eagles",
+      "description": "From Soldier Field in Chicago.",
+      "scheduledDate": 1790674200000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-09-29_EP029371132089_113093322420_2026-07-17T00:22:04Z_GNLZZGG003B9Y03/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "SC: Australia Weekly",
+      "episodeTitle": "",
+      "description": "Delivers key sporting news, major highlights and expert analysis.",
+      "scheduledDate": 1790681400000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Series",
+      "genre": "News",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-09-29_SH065376100000_111577890861_2026-08-05T03:16:28Z_p30227362_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Get Up",
+      "episodeTitle": "",
+      "description": "Mike Greenberg, Laura Rutledge and Jalen Rose discuss and analyse the latest news from the world of sports.",
+      "scheduledDate": 1790683200000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Sports talk",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-09-29_SH033268270000_107093139583_2026-03-24T04:04:44Z_p15158780_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "First Take",
+      "episodeTitle": "",
+      "description": "Stephen A. Smith joins Molly Qerim Rose to debate the hottest topics in sports.",
+      "scheduledDate": 1790690400000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Sports talk, News, Debate",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-09-29_SH033280060000_108193810385_2025-11-07T06:36:14Z_p186291_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "",
+      "episodeTitle": "Imperfect: The Roy Halladay Story",
+      "description": "On the 10th anniversary of his perfect game, and more than two years after his tragic death, Halladay's family speaks for the first time on camera about his struggles with addiction and mental health, and the details of his fatal plane crash.",
+      "scheduledDate": 1790697600000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Newsmagazine",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-09-29_SH033308270000_79811912898_2019-10-17T14:20:31Z_p229472_i_h10_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "MLB Baseball",
+      "episodeTitle": "",
+      "description": "Coverage of the action from the Major League Baseball.",
+      "scheduledDate": 1790701200000,
+      "duration": 180,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Baseball",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-09-29_SH033378420000_111070082461_2022-04-14T08:06:14Z_p191273_i_h8_ad/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     }
   ]
 }
