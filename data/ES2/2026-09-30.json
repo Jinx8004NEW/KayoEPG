@@ -2,8 +2,8 @@
   "channel": "ES2",
   "date": "2026-09-30",
   "source": "kayo",
-  "fetchedAt": 1790549476114,
-  "fetchedAtIST": "28/9/2026, 4:21:16 am",
+  "fetchedAt": 1790568533476,
+  "fetchedAtIST": "28/9/2026, 9:38:53 am",
   "events": [
     {
       "programTitle": "NBA Today",
@@ -37,6 +37,127 @@
       "programType": "Sports event",
       "genre": "Hockey",
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-09-29_EP033422284479_113064600190_2026-09-03T17:24:48Z_GNLZZGG003MFKEB/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NHL Hockey",
+      "episodeTitle": "Boston Bruins vs New York Rangers",
+      "description": "From TD Garden in Boston.",
+      "scheduledDate": 1790726400000,
+      "duration": 150,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Hockey",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-09-30_EP033422284481_113064600202_2026-09-10T01:16:46Z_GNLZZGG003NNLED/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NHL Hockey",
+      "episodeTitle": "Vegas Golden Knights vs Chicago Blackhawks",
+      "description": "From T-Mobile Arena in Las Vegas.",
+      "scheduledDate": 1790735400000,
+      "duration": 150,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Hockey",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-09-30_EP033422284483_113064612413_2026-08-01T02:52:32Z_GNLZZGG003DC6SV/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "MLB Baseball",
+      "episodeTitle": "",
+      "description": "Coverage of the action from the Major League Baseball.",
+      "scheduledDate": 1790744400000,
+      "duration": 105,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Baseball",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-09-30_SH033378420000_111070082461_2022-04-14T08:06:14Z_p191273_i_h8_ad/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "MLB Baseball",
+      "episodeTitle": "",
+      "description": "Coverage of the action from the Major League Baseball.",
+      "scheduledDate": 1790750700000,
+      "duration": 105,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Baseball",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-09-30_SH033378420000_111070082461_2022-04-14T08:06:14Z_p191273_i_h8_ad/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "ESPN FC",
+      "episodeTitle": "",
+      "description": "ESPN FC brings you a round-up of the latest news from the world of football, including in-depth analysis and exclusive interviews.",
+      "scheduledDate": 1790757000000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Series",
+      "genre": "Soccer, Sports talk",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-09-30_SH033236780000_109573421566_2026-05-25T06:15:30Z_p10106369_i_h11_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NHL Hockey",
+      "episodeTitle": "Carolina Hurricanes vs Florida Panthers",
+      "description": "From Lenovo Center in Raleigh, N.C.",
+      "scheduledDate": 1790758800000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Hockey",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-09-30_EP033422284479_113064600190_2026-09-03T17:24:48Z_GNLZZGG003MFKEB/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NHL Hockey",
+      "episodeTitle": "Vegas Golden Knights vs Chicago Blackhawks",
+      "description": "From T-Mobile Arena in Las Vegas.",
+      "scheduledDate": 1790766000000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Hockey",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-09-30_EP033422284483_113064612413_2026-08-01T02:52:32Z_GNLZZGG003DC6SV/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NHL Hockey",
+      "episodeTitle": "Boston Bruins vs New York Rangers",
+      "description": "From TD Garden in Boston.",
+      "scheduledDate": 1790773200000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Hockey",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-09-30_EP033422284481_113064600202_2026-09-10T01:16:46Z_GNLZZGG003NNLED/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "30 for 30",
+      "episodeTitle": "Four Days in October",
+      "description": "A look at one of the greatest comebacks in the history of sports, the 2004 ALCS that saw the Boston Red Sox become the first team in history to erase a 3-0 deficit against their rivals, the Yankees.",
+      "scheduledDate": 1790780400000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Documentary",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-09-30_EP023926430024_113055783418_2023-03-31T06:57:11Z_p8241252_e_h8_af/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "The Pat McAfee Show",
+      "episodeTitle": "",
+      "description": "Former NFL punter Pat McAfee brings his humour, sarcasm and candour to the microphone to highlight the day's top stories.",
+      "scheduledDate": 1790784000000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Series",
+      "genre": "Sports talk",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-09-30_SH048483860000_111648065422_2020-09-10T14:31:07Z_p18762527_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Big Day With Peter Schrager",
+      "episodeTitle": "",
+      "description": "Peter Schrager covers the biggest stories from across the sports world each day.",
+      "scheduledDate": 1790791200000,
+      "duration": 55,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-09-30_SH066067040000_113001491788_2026-09-10T19:25:26Z_p34014283_i_h10_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     }
   ]
 }

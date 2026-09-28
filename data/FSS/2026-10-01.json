@@ -1,0 +1,64 @@
+{
+  "channel": "FSS",
+  "date": "2026-10-01",
+  "source": "kayo",
+  "fetchedAt": 1790568533465,
+  "fetchedAtIST": "28/9/2026, 9:38:53 am",
+  "events": [
+    {
+      "programTitle": "SailGP",
+      "episodeTitle": "Geneva, Day 2",
+      "description": "",
+      "scheduledDate": 1790793000000,
+      "duration": 90,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Sailing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-09-30_SH051028760000_112367882509_2021-04-23T21:46:53Z_p19827810_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Sailing",
+      "episodeTitle": "America's Cup, Naples: Preliminary Regatta, Day 3",
+      "description": "Coverage of sailing action from around the world.",
+      "scheduledDate": 1790798400000,
+      "duration": 25,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Boat racing, Sailing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-09-30_SH031665920000_107782668492_2022-11-02T07:48:30Z_p481058_i_h10_ae/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Canada Super 60 Cricket League",
+      "episodeTitle": "Toronto Sixers v Brampton Blitz",
+      "description": "",
+      "scheduledDate": 1790799900000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Cricket",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-09-30_SH060999970000_113050094149_2025-10-12T01:41:23Z_p31355033_st_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "CPL T20 Cricket",
+      "episodeTitle": "Final: Antigua & Barbuda Falcons vs Jamaica Kingsmen",
+      "description": "Coverage of action from the Caribbean Premier League T20 cricket.",
+      "scheduledDate": 1790807100000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Cricket",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-09-30_EP033351860217_112836981662_2026-09-19T19:40:40Z_GNLZZGG003PNE7D/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Canada Super 60 Cricket League",
+      "episodeTitle": "Vancouver Anchors v Montreal Royal Tigers",
+      "description": "",
+      "scheduledDate": 1790808900000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Cricket",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-09-30_SH060999970000_113050094149_2025-10-12T01:41:23Z_p31355033_st_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    }
+  ]
+}
