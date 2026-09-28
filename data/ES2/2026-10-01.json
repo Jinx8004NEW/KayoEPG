@@ -2,8 +2,8 @@
   "channel": "ES2",
   "date": "2026-10-01",
   "source": "kayo",
-  "fetchedAt": 1790568533477,
-  "fetchedAtIST": "28/9/2026, 9:38:53 am",
+  "fetchedAt": 1790613095300,
+  "fetchedAtIST": "28/9/2026, 10:01:35 pm",
   "events": [
     {
       "programTitle": "UEFA Women's Champions League Soccer",
@@ -43,7 +43,7 @@
       "episodeTitle": "",
       "description": "The team deliver the latest news, highlights, and inside information from the wide world of sports, as well as trending topics across social media platforms.",
       "scheduledDate": 1790805600000,
-      "duration": 60,
+      "duration": 30,
       "parentalRating": "",
       "programType": "Sports non-event",
       "genre": "News, Sports talk",
@@ -53,12 +53,23 @@
       "programTitle": "WNBA Countdown",
       "episodeTitle": "",
       "description": "Presents WNBA news, analysis, highlights and interviews.",
-      "scheduledDate": 1790809200000,
+      "scheduledDate": 1790807400000,
       "duration": 30,
       "parentalRating": "",
       "programType": "Sports non-event",
       "genre": "Basketball",
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-09-30_SH052116940000_112715953890_2023-09-09T09:43:12Z_p24985197_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "WNBA Basketball",
+      "episodeTitle": "Atlanta Dream at Washington Mystics",
+      "description": "From CareFirst Arena in Washington, D.C.",
+      "scheduledDate": 1790809200000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Playoff sports, Basketball",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-09-30_EP033268231136_113199042853_2026-09-25T16:48:17Z_GNLZZGG003PQJQR/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "WNBA Basketball",

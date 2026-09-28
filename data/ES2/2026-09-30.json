@@ -2,8 +2,8 @@
   "channel": "ES2",
   "date": "2026-09-30",
   "source": "kayo",
-  "fetchedAt": 1790568533476,
-  "fetchedAtIST": "28/9/2026, 9:38:53 am",
+  "fetchedAt": 1790613095299,
+  "fetchedAtIST": "28/9/2026, 10:01:35 pm",
   "events": [
     {
       "programTitle": "NBA Today",
@@ -62,25 +62,25 @@
     },
     {
       "programTitle": "MLB Baseball",
-      "episodeTitle": "",
-      "description": "Coverage of the action from the Major League Baseball.",
+      "episodeTitle": "Chicago White Sox at Houston Astros",
+      "description": "From Daikin Park in Houston.",
       "scheduledDate": 1790744400000,
       "duration": 105,
       "parentalRating": "",
       "programType": "Sports event",
-      "genre": "Baseball",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-09-30_SH033378420000_111070082461_2022-04-14T08:06:14Z_p191273_i_h8_ad/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "genre": "Playoff sports, Baseball",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-09-30_EP062580852945_113211009703_2026-09-28T01:43:45Z_GNLZZGG003PYPCK/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "MLB Baseball",
-      "episodeTitle": "",
-      "description": "Coverage of the action from the Major League Baseball.",
+      "episodeTitle": "Boston Red Sox at New York Yankees",
+      "description": "From Yankee Stadium in the Bronx, N.Y.",
       "scheduledDate": 1790750700000,
       "duration": 105,
       "parentalRating": "",
       "programType": "Sports event",
-      "genre": "Baseball",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-09-30_SH033378420000_111070082461_2022-04-14T08:06:14Z_p191273_i_h8_ad/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "genre": "Playoff sports, Baseball",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-09-30_EP062580852946_113211032443_2026-09-28T01:43:51Z_GNLZZGG003PYPF7/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "ESPN FC",

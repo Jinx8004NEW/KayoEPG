@@ -2,8 +2,8 @@
   "channel": "ESP",
   "date": "2026-09-29",
   "source": "kayo",
-  "fetchedAt": 1790568533470,
-  "fetchedAtIST": "28/9/2026, 9:38:53 am",
+  "fetchedAt": 1790613095294,
+  "fetchedAtIST": "28/9/2026, 10:01:35 pm",
   "events": [
     {
       "programTitle": "NFL Live",
@@ -50,15 +50,15 @@
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-09-28_SH033280040000_112729834822_2024-11-21T10:13:40Z_p806866_i_h11_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "NFL Football",
+      "programTitle": "Monday Night Kickoff",
       "episodeTitle": "",
-      "description": "Coverage of matches played as part of America's National Football League.",
+      "description": "NFL analysts Eric Allen, Merril Hoge, Sean Salisbury, and Mark Schlereth preview the Monday night football action.",
       "scheduledDate": 1790640000000,
       "duration": 15,
       "parentalRating": "",
-      "programType": "Sports event",
-      "genre": "Football",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-09-29_SH029371130000_112361075973_2025-09-11T10:45:20Z_p191277_i_h10_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "programType": "Sports non-event",
+      "genre": "Sports talk, Football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-09-29_SH033280030000_112500513209_2023-09-22T16:44:06Z_p15740913_i_h11_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "NFL Football",
@@ -208,7 +208,7 @@
       "episodeTitle": "",
       "description": "Stephen A. Smith joins Molly Qerim Rose to debate the hottest topics in sports.",
       "scheduledDate": 1790690400000,
-      "duration": 120,
+      "duration": 180,
       "parentalRating": "",
       "programType": "Sports non-event",
       "genre": "Sports talk, News, Debate",
@@ -226,15 +226,26 @@
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-09-29_SH033308270000_79811912898_2019-10-17T14:20:31Z_p229472_i_h10_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "MLB Baseball",
-      "episodeTitle": "",
-      "description": "Coverage of the action from the Major League Baseball.",
+      "programTitle": "",
+      "episodeTitle": "Imperfect: The Roy Halladay Story",
+      "description": "On the 10th anniversary of his perfect game, and more than two years after his tragic death, Halladay's family speaks for the first time on camera about his struggles with addiction and mental health, and the details of his fatal plane crash.",
       "scheduledDate": 1790701200000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Newsmagazine",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-09-29_SH033308270000_79811912898_2019-10-17T14:20:31Z_p229472_i_h10_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "MLB Baseball",
+      "episodeTitle": "Philadelphia Phillies at Atlanta Braves",
+      "description": "From Truist Park in Atlanta.",
+      "scheduledDate": 1790704800000,
       "duration": 180,
       "parentalRating": "",
       "programType": "Sports event",
-      "genre": "Baseball",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-09-29_SH033378420000_111070082461_2022-04-14T08:06:14Z_p191273_i_h8_ad/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "genre": "Playoff sports, Baseball",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-09-29_EP062580852944_113210987393_2026-09-28T01:44:12Z_GNLZZGG003PYPJQ/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     }
   ]
 }

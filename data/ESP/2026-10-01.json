@@ -2,8 +2,8 @@
   "channel": "ESP",
   "date": "2026-10-01",
   "source": "kayo",
-  "fetchedAt": 1790568533471,
-  "fetchedAtIST": "28/9/2026, 9:38:53 am",
+  "fetchedAt": 1790613095295,
+  "fetchedAtIST": "28/9/2026, 10:01:35 pm",
   "events": [
     {
       "programTitle": "MLB Baseball",
@@ -15,6 +15,17 @@
       "programType": "Sports event",
       "genre": "Baseball",
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-09-30_SH033378420000_111070082461_2022-04-14T08:06:14Z_p191273_i_h8_ad/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "MLB Baseball",
+      "episodeTitle": "Chicago White Sox at Houston Astros",
+      "description": "From Daikin Park in Houston.",
+      "scheduledDate": 1790802000000,
+      "duration": 180,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Playoff sports, Baseball",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-09-30_EP062580852949_113209548538_2026-09-28T01:43:50Z_GNLZZGG003PYPDZ/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "MLB Baseball",
