@@ -1,207 +1,218 @@
 {
   "channel": "FSP",
-  "date": "2026-09-29",
+  "date": "2026-09-30",
   "source": "kayo",
-  "fetchedAt": 1790704032420,
-  "fetchedAtIST": "29/9/2026, 11:17:12 pm",
+  "fetchedAt": 1790724584056,
+  "fetchedAtIST": "30/9/2026, 4:59:44 am",
   "events": [
     {
-      "programTitle": "Sailing",
-      "episodeTitle": "America's Cup: Preliminary Regatta, Final Day",
-      "description": "A look at all the action, highlights, and recaps from the world's most exciting regattas and sailing events.",
-      "scheduledDate": 1790632800000,
-      "duration": 60,
-      "parentalRating": "",
-      "programType": "Sports non-event",
-      "genre": "Sailing",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-09-28_SH031659890000_110117113815_2024-10-29T09:13:53Z_p7964323_i_h10_ag/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
-    {
-      "programTitle": "F1 Mini",
-      "episodeTitle": "Azerbaijan Grand Prix",
-      "description": "Highlights of the world's most iconic Formula 1 Grands Prix, featuring every podium and overtake.",
-      "scheduledDate": 1790636400000,
-      "duration": 30,
+      "programTitle": "Formula 1",
+      "episodeTitle": "Azerbaijan Grand Prix: Alternate Commentary, Race",
+      "description": "Features all the action and highlights from Formula 1 racing.",
+      "scheduledDate": 1790719200000,
+      "duration": 120,
       "parentalRating": "",
       "programType": "Sports event",
-      "genre": "Motorsports, Classic sport event",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-09-28_SH036452570000_107032703571_2020-11-19T03:00:48Z_p18944992_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
-    {
-      "programTitle": "NASCAR Cup Racing Series",
-      "episodeTitle": "Kansas Speedway",
-      "description": "Coverage of the NASCAR Cup Series, professional stock car racing in the United States.",
-      "scheduledDate": 1790638200000,
-      "duration": 60,
-      "parentalRating": "",
-      "programType": "Sports non-event",
-      "genre": "Motorsports, Auto racing",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-09-28_SH056052770000_110216247140_2024-02-28T07:23:12Z_p8599472_i_h10_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "genre": "Classic sport event, Motorsports, Auto racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-09-29_SH035915380000_109578600751_2023-09-29T11:04:19Z_p8544413_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "FIM Superbike World Championship",
       "episodeTitle": "Italian Round, Race 1",
       "description": "From Cremona Circuit in Lombardy, Italy.",
-      "scheduledDate": 1790641800000,
+      "scheduledDate": 1790726400000,
       "duration": 60,
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Motorcycle racing",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-09-29_EP050933440122_113029275937_2026-09-24T19:24:12Z_GNLZZGG003PKNCT/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-09-30_EP050933440122_113029275937_2026-09-24T19:24:12Z_GNLZZGG003PKNCT/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "FIM Superbike World Championship",
       "episodeTitle": "Italian Round, Race 2",
       "description": "From Cremona Circuit in Lombardy, Italy.",
-      "scheduledDate": 1790645400000,
+      "scheduledDate": 1790730000000,
       "duration": 60,
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Motorcycle racing",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-09-29_EP050933440123_113066403288_2026-09-25T15:23:40Z_GNLZZGG003PQGPY/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
-    {
-      "programTitle": "LPGA Tour Golf",
-      "episodeTitle": "Walmart NW Arkansas Championship, Final Round",
-      "description": "From Pinnacle Country Club in Rogers, Ark.",
-      "scheduledDate": 1790649000000,
-      "duration": 120,
-      "parentalRating": "",
-      "programType": "Sports event",
-      "genre": "Golf",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-09-29_EP031583890718_113187195899_2026-08-25T19:34:59Z_p33753615_b_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
-    {
-      "programTitle": "Darts",
-      "episodeTitle": "World Grand Prix 2026 - Day 1",
-      "description": "Covering of all the action from darts events around the world.",
-      "scheduledDate": 1790656200000,
-      "duration": 120,
-      "parentalRating": "",
-      "programType": "Sports event",
-      "genre": "Darts",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-09-29_SH032967320000_109954612423_2024-10-04T13:14:55Z_p644283_i_h8_ah/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
-    {
-      "programTitle": "International Brawling Championship",
-      "episodeTitle": "Highlights: IBC01",
-      "description": "Step inside the raw and uncompromising world of underground fight culture.",
-      "scheduledDate": 1790663400000,
-      "duration": 60,
-      "parentalRating": "",
-      "programType": "Sports non-event",
-      "genre": "Mixed martial arts",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-09-29_SH065139570000_112495914993_2026-08-14T21:50:59Z_p33539447_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
-    {
-      "programTitle": "The Bowls Show",
-      "episodeTitle": "",
-      "description": "All the latest in the world of competitive bowls, including exclusive interviews, event highlights, club tours and coaching insight.",
-      "scheduledDate": 1790667000000,
-      "duration": 60,
-      "parentalRating": "",
-      "programType": "Sports non-event",
-      "genre": "Bowls",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-09-29_SH024802440000_107847958042_2017-03-10T00:18:00Z_p13123463_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
-    {
-      "programTitle": "UFC Countdown",
-      "episodeTitle": "UFC 332 Countdown: Silva vs. Wang",
-      "description": "Coverage of UFC training, including exclusive interviews, expert analysis and a look at the intense preparation of each fighter.",
-      "scheduledDate": 1790670600000,
-      "duration": 60,
-      "parentalRating": "",
-      "programType": "Sports non-event",
-      "genre": "Mixed martial arts, Documentary",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-09-29_SH030408650000_112647340619_2026-01-22T17:35:05Z_p308818_i_h8_ae/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
-    {
-      "programTitle": "Sailing",
-      "episodeTitle": "America's Cup, Naples: Preliminary Regatta, Day 1",
-      "description": "A look at all the action, highlights, and recaps from the world's most exciting regattas and sailing events.",
-      "scheduledDate": 1790674200000,
-      "duration": 60,
-      "parentalRating": "",
-      "programType": "Sports non-event",
-      "genre": "Sailing",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-09-29_SH031659890000_110117113815_2024-10-29T09:13:53Z_p7964323_i_h10_ag/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
-    {
-      "programTitle": "Sailing",
-      "episodeTitle": "America's Cup, Naples: Preliminary Regatta, Day 2",
-      "description": "A look at all the action, highlights, and recaps from the world's most exciting regattas and sailing events.",
-      "scheduledDate": 1790677800000,
-      "duration": 60,
-      "parentalRating": "",
-      "programType": "Sports non-event",
-      "genre": "Sailing",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-09-29_SH031659890000_110117113815_2024-10-29T09:13:53Z_p7964323_i_h10_ag/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
-    {
-      "programTitle": "Sailing",
-      "episodeTitle": "America's Cup: Preliminary Regatta, Final Day",
-      "description": "A look at all the action, highlights, and recaps from the world's most exciting regattas and sailing events.",
-      "scheduledDate": 1790681400000,
-      "duration": 60,
-      "parentalRating": "",
-      "programType": "Sports non-event",
-      "genre": "Sailing",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-09-29_SH031659890000_110117113815_2024-10-29T09:13:53Z_p7964323_i_h10_ag/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-09-30_EP050933440123_113066403288_2026-09-25T15:23:40Z_GNLZZGG003PQGPY/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "Getting a Round In",
       "episodeTitle": "",
       "description": "Australian professional golfer, Paul Gow hosts celebrities as his playing partners who share his love for the game of golf.",
-      "scheduledDate": 1790685000000,
+      "scheduledDate": 1790733600000,
       "duration": 30,
       "parentalRating": "",
       "programType": "Series",
       "genre": "Golf, Interview",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-09-29_SH048121120000_110998856207_2023-07-18T05:56:16Z_p25221374_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-09-30_SH048121120000_110998856207_2023-07-18T05:56:16Z_p25221374_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NASCAR Cup Racing Series",
+      "episodeTitle": "Kansas Speedway",
+      "description": "Coverage of the NASCAR Cup Series, professional stock car racing in the United States.",
+      "scheduledDate": 1790735400000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Motorsports, Auto racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-09-30_SH056052770000_110216247140_2024-02-28T07:23:12Z_p8599472_i_h10_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "UFC Countdown",
       "episodeTitle": "UFC 332 Countdown: Silva vs. Wang",
       "description": "Coverage of UFC training, including exclusive interviews, expert analysis and a look at the intense preparation of each fighter.",
-      "scheduledDate": 1790686800000,
-      "duration": 60,
+      "scheduledDate": 1790739000000,
+      "duration": 30,
       "parentalRating": "",
       "programType": "Sports non-event",
       "genre": "Mixed martial arts, Documentary",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-09-29_SH030408650000_112647340619_2026-01-22T17:35:05Z_p308818_i_h8_ae/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-09-30_SH030408650000_112647340619_2026-01-22T17:35:05Z_p308818_i_h8_ae/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "Darts",
-      "episodeTitle": "World Grand Prix 2026 - Day 1",
-      "description": "Covering of all the action from darts events around the world.",
-      "scheduledDate": 1790690400000,
-      "duration": 120,
+      "programTitle": "F1 Mini",
+      "episodeTitle": "Azerbaijan Grand Prix",
+      "description": "Highlights of the world's most iconic Formula 1 Grands Prix, featuring every podium and overtake.",
+      "scheduledDate": 1790740800000,
+      "duration": 30,
       "parentalRating": "",
       "programType": "Sports event",
-      "genre": "Darts",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-09-29_SH032967320000_109954612423_2024-10-04T13:14:55Z_p644283_i_h8_ah/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
-    {
-      "programTitle": "UFC Countdown",
-      "episodeTitle": "UFC 332 Countdown: Silva vs. Wang",
-      "description": "Coverage of UFC training, including exclusive interviews, expert analysis and a look at the intense preparation of each fighter.",
-      "scheduledDate": 1790697600000,
-      "duration": 60,
-      "parentalRating": "",
-      "programType": "Sports non-event",
-      "genre": "Mixed martial arts, Documentary",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-09-29_SH030408650000_112647340619_2026-01-22T17:35:05Z_p308818_i_h8_ae/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "genre": "Motorsports, Classic sport event",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-09-30_SH036452570000_107032703571_2020-11-19T03:00:48Z_p18944992_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "Darts",
       "episodeTitle": "World Grand Prix 2026 - Day 2",
       "description": "Covering of all the action from darts events around the world.",
-      "scheduledDate": 1790701200000,
-      "duration": 300,
+      "scheduledDate": 1790742600000,
+      "duration": 120,
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Darts",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-09-29_SH032967320000_109954612423_2024-10-04T13:14:55Z_p644283_i_h8_ah/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-09-30_SH032967320000_109954612423_2024-10-04T13:14:55Z_p644283_i_h8_ah/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "International Brawling Championship",
+      "episodeTitle": "Highlights: IBC01",
+      "description": "Step inside the raw and uncompromising world of underground fight culture.",
+      "scheduledDate": 1790749800000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Mixed martial arts",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-09-30_SH065139570000_112495914993_2026-08-14T21:50:59Z_p33539447_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Pro Bull Riding",
+      "episodeTitle": "",
+      "description": "The best bull riders in Australia and the world compete for prize money on the professional bull riding circuit.",
+      "scheduledDate": 1790753400000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Bull riding",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-09-30_SH029446100000_108472165776_2018-05-25T09:42:00Z_p15394895_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Fight Week",
+      "episodeTitle": "UFC 332",
+      "description": "Fox Sports reporters take a look at the UFC results, previews, and news from the previous UFC Fight Week.",
+      "scheduledDate": 1790757000000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Series",
+      "genre": "Sports talk, Mixed martial arts, Boxing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-09-30_SH028549290000_94258305657_2024-01-18T22:33:02Z_p14982509_i_h10_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "UFC Countdown",
+      "episodeTitle": "UFC 332 Countdown: Silva vs. Wang",
+      "description": "Coverage of UFC training, including exclusive interviews, expert analysis and a look at the intense preparation of each fighter.",
+      "scheduledDate": 1790758800000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Mixed martial arts, Documentary",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-09-30_SH030408650000_112647340619_2026-01-22T17:35:05Z_p308818_i_h8_ae/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "F1 Mini",
+      "episodeTitle": "Azerbaijan Grand Prix",
+      "description": "Highlights of the world's most iconic Formula 1 Grands Prix, featuring every podium and overtake.",
+      "scheduledDate": 1790760600000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Motorsports, Classic sport event",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-09-30_SH036452570000_107032703571_2020-11-19T03:00:48Z_p18944992_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Darts",
+      "episodeTitle": "PDC ANZ Premier League: Week 1",
+      "description": "Covering of all the action from darts events around the world.",
+      "scheduledDate": 1790762400000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Darts",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-09-30_SH032967320000_109954612423_2024-10-04T13:14:55Z_p644283_i_h8_ah/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "LPGA Tour Golf",
+      "episodeTitle": "Walmart NW Arkansas Championship, Final Round",
+      "description": "From Pinnacle Country Club in Rogers, Ark.",
+      "scheduledDate": 1790769600000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-09-30_EP031583890718_113187195899_2026-08-25T19:34:59Z_p33753615_b_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Sailing",
+      "episodeTitle": "America's Cup, Naples: Preliminary Regatta, Day 2",
+      "description": "A look at all the action, highlights, and recaps from the world's most exciting regattas and sailing events.",
+      "scheduledDate": 1790776800000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Sailing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-09-30_SH031659890000_110117113815_2024-10-29T09:13:53Z_p7964323_i_h10_ag/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Sailing",
+      "episodeTitle": "America's Cup: Preliminary Regatta, Final Day",
+      "description": "A look at all the action, highlights, and recaps from the world's most exciting regattas and sailing events.",
+      "scheduledDate": 1790780400000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Sailing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-09-30_SH031659890000_110117113815_2024-10-29T09:13:53Z_p7964323_i_h10_ag/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Darts",
+      "episodeTitle": "PDC ANZ Premier League: Week 1",
+      "description": "Covering of all the action from darts events around the world.",
+      "scheduledDate": 1790784000000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Darts",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-09-30_SH032967320000_109954612423_2024-10-04T13:14:55Z_p644283_i_h8_ah/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Darts",
+      "episodeTitle": "World Grand Prix 2026 - Day 3",
+      "description": "Covering of all the action from darts events around the world.",
+      "scheduledDate": 1790791200000,
+      "duration": 240,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Darts",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-09-30_SH032967320000_109954612423_2024-10-04T13:14:55Z_p644283_i_h8_ah/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     }
   ]
 }
