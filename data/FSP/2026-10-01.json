@@ -2,8 +2,8 @@
   "channel": "FSP",
   "date": "2026-10-01",
   "source": "kayo",
-  "fetchedAt": 1790677640538,
-  "fetchedAtIST": "29/9/2026, 3:57:20 pm",
+  "fetchedAt": 1790704032421,
+  "fetchedAtIST": "29/9/2026, 11:17:12 pm",
   "events": [
     {
       "programTitle": "FIM Superbike World Championship",
@@ -17,11 +17,22 @@
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-09-30_EP050933440123_113066403288_2026-09-25T15:23:40Z_GNLZZGG003PQGPY/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
+      "programTitle": "F1 Mini",
+      "episodeTitle": "Azerbaijan Grand Prix",
+      "description": "Highlights of the world's most iconic Formula 1 Grands Prix, featuring every podium and overtake.",
+      "scheduledDate": 1790809200000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Motorsports, Classic sport event",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-09-30_SH036452570000_107032703571_2020-11-19T03:00:48Z_p18944992_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
       "programTitle": "UFC Countdown",
       "episodeTitle": "UFC 332 Countdown: Silva vs. Wang",
       "description": "Coverage of UFC training, including exclusive interviews, expert analysis and a look at the intense preparation of each fighter.",
-      "scheduledDate": 1790809200000,
-      "duration": 60,
+      "scheduledDate": 1790811000000,
+      "duration": 30,
       "parentalRating": "",
       "programType": "Sports non-event",
       "genre": "Mixed martial arts, Documentary",
@@ -83,15 +94,15 @@
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-10-01_SH032967320000_109954612423_2024-10-04T13:14:55Z_p644283_i_h8_ah/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "F1 Mini",
-      "episodeTitle": "Azerbaijan Grand Prix",
-      "description": "Highlights of the world's most iconic Formula 1 Grands Prix, featuring every podium and overtake.",
+      "programTitle": "International Brawling Championship",
+      "episodeTitle": "Highlights: IBC01",
+      "description": "Step inside the raw and uncompromising world of underground fight culture.",
       "scheduledDate": 1790836200000,
-      "duration": 30,
+      "duration": 60,
       "parentalRating": "",
-      "programType": "Sports event",
-      "genre": "Motorsports, Classic sport event",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-10-01_SH036452570000_107032703571_2020-11-19T03:00:48Z_p18944992_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "programType": "Sports non-event",
+      "genre": "Mixed martial arts",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-10-01_SH065139570000_112495914993_2026-08-14T21:50:59Z_p33539447_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "SailGP: Racing on the Edge",
@@ -116,15 +127,15 @@
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-10-01_SH031659890000_110117113815_2024-10-29T09:13:53Z_p7964323_i_h10_ag/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "F1 Mini",
-      "episodeTitle": "Azerbaijan Grand Prix",
-      "description": "Highlights of the world's most iconic Formula 1 Grands Prix, featuring every podium and overtake.",
+      "programTitle": "SailGP: Racing on the Edge",
+      "episodeTitle": "",
+      "description": "Go under the hood of the supercharged F50 catamaran developed specifically for SailGP, find out how the concept for the league was born, watch the first rivalries emerge and more.",
       "scheduledDate": 1790843400000,
       "duration": 30,
       "parentalRating": "",
-      "programType": "Sports event",
-      "genre": "Motorsports, Classic sport event",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-10-01_SH036452570000_107032703571_2020-11-19T03:00:48Z_p18944992_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "programType": "Sports non-event",
+      "genre": "Sailing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-10-01_SH038439390000_112839961955_2021-04-20T21:06:12Z_p19817224_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "Pro Bull Riding",

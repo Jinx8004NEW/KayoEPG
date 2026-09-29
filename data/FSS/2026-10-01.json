@@ -2,8 +2,8 @@
   "channel": "FSS",
   "date": "2026-10-01",
   "source": "kayo",
-  "fetchedAt": 1790677640554,
-  "fetchedAtIST": "29/9/2026, 3:57:20 pm",
+  "fetchedAt": 1790704032430,
+  "fetchedAtIST": "29/9/2026, 11:17:12 pm",
   "events": [
     {
       "programTitle": "SailGP",
@@ -87,11 +87,22 @@
       "episodeTitle": "Whiterock Warriors v Mississauga Masters",
       "description": "From BC Place Stadium in Vancouver, British Columbia.",
       "scheduledDate": 1790818800000,
-      "duration": 120,
+      "duration": 115,
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Cricket",
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-10-01_SH060999970000_113050094149_2025-10-12T01:41:23Z_p31355033_st_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "LPGA Tour Golf",
+      "episodeTitle": "Walmart NW Arkansas Championship, Final Round",
+      "description": "From Pinnacle Country Club in Rogers, Ark.",
+      "scheduledDate": 1790825700000,
+      "duration": 125,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-10-01_EP031583890602_113019652275_2025-08-19T17:04:22Z_p30853378_b_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "LPGA Tour Golf",
@@ -113,7 +124,7 @@
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Cricket",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-10-01_SH034256680000_113242285644_2024-03-13T15:53:39Z_p16168939_i_h8_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-10-01_SH034256680000_113257267027_2024-03-13T15:53:39Z_p16168939_i_h8_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "One-Day International Cricket",
