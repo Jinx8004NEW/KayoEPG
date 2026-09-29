@@ -2,8 +2,8 @@
   "channel": "ES2",
   "date": "2026-10-01",
   "source": "kayo",
-  "fetchedAt": 1790640869207,
-  "fetchedAtIST": "29/9/2026, 5:44:29 am",
+  "fetchedAt": 1790677640565,
+  "fetchedAtIST": "29/9/2026, 3:57:20 pm",
   "events": [
     {
       "programTitle": "UEFA Women's Champions League Soccer",
@@ -81,6 +81,138 @@
       "programType": "Sports event",
       "genre": "Basketball",
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-09-30_SH033268230000_113064600197_2026-04-23T14:55:08Z_p191289_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "WNBA Basketball",
+      "episodeTitle": "Golden State Valkyries at Dallas Wings",
+      "description": "From College Park Center in Arlington, Tex.",
+      "scheduledDate": 1790816400000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Playoff sports, Basketball",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-10-01_EP033268231137_113221635313_2026-09-25T16:49:15Z_GNLZZGG003PQM8M/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "SportsCenter With Scott Van Pelt",
+      "episodeTitle": "",
+      "description": "Scott Van Pelt presents the day in sport through his unique perspective with highlights, special guests and his One Big Thing commentary.",
+      "scheduledDate": 1790823600000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "News, Sports talk",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-10-01_SH034580420000_111889810065_2017-02-22T22:01:00Z_p13816005_i_h10_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Peyton's Places",
+      "episodeTitle": "The Bills Mafia",
+      "description": "Hall of Fame member Peyton Manning visits important places associated with the NFL's 100 years of history.",
+      "scheduledDate": 1790827200000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-10-01_SH033308220000_110511162111_2021-02-15T04:16:32Z_p17183615_i_h11_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "UEFA Women's Champions League Soccer",
+      "episodeTitle": "OL Lyonnes vs. Chelsea",
+      "description": "From Parc Olympique Lyonnais in Décines-Charpieu, Rhône, France.",
+      "scheduledDate": 1790829000000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Soccer",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-10-01_EP032279230191_113215746927_2026-09-07T16:42:38Z_GNLZZGG003N2XFN/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "MLB Baseball",
+      "episodeTitle": "Chicago White Sox at Houston Astros",
+      "description": "From Daikin Park in Houston.",
+      "scheduledDate": 1790836200000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Playoff sports, Baseball",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-10-01_EP062580852949_113232146306_2026-09-28T01:43:50Z_GNLZZGG003PYPDZ/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "ESPN FC",
+      "episodeTitle": "",
+      "description": "ESPN FC brings you a round-up of the latest news from the world of football, including in-depth analysis and exclusive interviews.",
+      "scheduledDate": 1790843400000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Series",
+      "genre": "Soccer, Sports talk",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-10-01_SH033236780000_109573421566_2026-05-25T06:15:30Z_p10106369_i_h11_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "MLB Baseball",
+      "episodeTitle": "Philadelphia Phillies at Atlanta Braves",
+      "description": "From Truist Park in Atlanta.",
+      "scheduledDate": 1790845200000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Playoff sports, Baseball",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-10-01_EP062580852948_113230672529_2026-09-28T01:44:25Z_GNLZZGG003PYPPR/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "MLB Baseball",
+      "episodeTitle": "Boston Red Sox at New York Yankees",
+      "description": "From Yankee Stadium in the Bronx, N.Y.",
+      "scheduledDate": 1790852400000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Playoff sports, Baseball",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-10-01_EP062580852950_113230364838_2026-09-28T01:44:06Z_GNLZZGG003PYPJ2/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "MLB Baseball",
+      "episodeTitle": "Chicago Cubs at San Diego Padres",
+      "description": "From PETCO Park in San Diego.",
+      "scheduledDate": 1790859600000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Playoff sports, Baseball",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-10-01_EP062580852951_113229364535_2026-09-28T01:43:58Z_GNLZZGG003PYPGY/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "PGA Tour Champions Learning Center",
+      "episodeTitle": "SportsCenter",
+      "description": "Tips and tricks from the legends of the game.",
+      "scheduledDate": 1790866800000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-10-01_SH037817400000_112150007536_2022-11-29T05:17:24Z_p12531845_i_h10_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "The Pat McAfee Show",
+      "episodeTitle": "",
+      "description": "Former NFL punter Pat McAfee brings his humour, sarcasm and candour to the microphone to highlight the day's top stories.",
+      "scheduledDate": 1790870400000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Series",
+      "genre": "Sports talk",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-10-01_SH048483860000_111648065422_2020-09-10T14:31:07Z_p18762527_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "MLB Baseball",
+      "episodeTitle": "Philadelphia Phillies at Atlanta Braves",
+      "description": "From Truist Park in Atlanta.",
+      "scheduledDate": 1790877600000,
+      "duration": 360,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Playoff sports, Baseball",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-10-01_EP062580852952_113240957550_2026-09-28T01:44:30Z_GNLZZGG003PYPRJ/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     }
   ]
 }

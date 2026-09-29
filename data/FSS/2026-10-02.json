@@ -1,0 +1,64 @@
+{
+  "channel": "FSS",
+  "date": "2026-10-02",
+  "source": "kayo",
+  "fetchedAt": 1790677640555,
+  "fetchedAtIST": "29/9/2026, 3:57:20 pm",
+  "events": [
+    {
+      "programTitle": "NASCAR Cup Racing Series",
+      "episodeTitle": "Kansas Speedway",
+      "description": "Coverage of the NASCAR Cup Series, professional stock car racing in the United States.",
+      "scheduledDate": 1790881200000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Motorsports, Auto racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-10-01_SH056052770000_110216247140_2024-02-28T07:23:12Z_p8599472_i_h10_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Sailing",
+      "episodeTitle": "America's Cup, Naples: Preliminary Regatta, Day 3",
+      "description": "Coverage of sailing action from around the world.",
+      "scheduledDate": 1790884800000,
+      "duration": 25,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Boat racing, Sailing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-10-01_SH031665920000_107782668492_2022-11-02T07:48:30Z_p481058_i_h10_ae/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Women's Cricket",
+      "episodeTitle": "Canada Super 60: Vancouver Warriors v Vancouver Anchors",
+      "description": "",
+      "scheduledDate": 1790886300000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Cricket",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-10-01_SH034256680000_113242285644_2024-03-13T15:53:39Z_p16168939_i_h8_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "CPL T20 Cricket",
+      "episodeTitle": "Final: Antigua & Barbuda Falcons vs Jamaica Kingsmen",
+      "description": "Coverage of action from the Caribbean Premier League T20 cricket.",
+      "scheduledDate": 1790893500000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Cricket",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-10-01_EP033351860217_112836981662_2026-09-19T19:40:40Z_GNLZZGG003PNE7D/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Canada Super 60 Cricket League",
+      "episodeTitle": "Vancouver Anchors vs Brampton Blitz",
+      "description": "From BC Place Stadium in Vancouver, British Columbia.",
+      "scheduledDate": 1790895300000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Cricket",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-10-01_SH060999970000_113050094149_2025-10-12T01:41:23Z_p31355033_st_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    }
+  ]
+}

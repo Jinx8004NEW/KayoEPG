@@ -1,0 +1,27 @@
+{
+  "channel": "4KF1",
+  "date": "2026-10-03",
+  "source": "kayo-4k",
+  "fetchedAt": 1790677655476,
+  "fetchedAtIST": "29/9/2026, 3:57:35 pm",
+  "events": [
+    {
+      "eventId": "eszr0z2jk22c1022i8amdy9yq",
+      "programTitle": "F1 Bahrain Practice 3",
+      "scheduledDate": 1791000900000,
+      "duration": 120,
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/6o8kdigakz5n3r8aboxdujyw_image-header_pRow_1790143712000/fill/none/top/none/80/1920/1080/webp/image?brand=kayo",
+      "competitionTitle": "Formula 1",
+      "sport": "Motorsport"
+    },
+    {
+      "eventId": "1myvckn6stasv1nbgl71o1eham",
+      "programTitle": "F1 Bahrain Qualifying",
+      "scheduledDate": 1791010800000,
+      "duration": 120,
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/dj5gc6ipqdskbep6t72og1z65_image-header_pRow_1790143766000/fill/none/top/none/80/1920/1080/webp/image?brand=kayo",
+      "competitionTitle": "Formula 1",
+      "sport": "Motorsport"
+    }
+  ]
+}

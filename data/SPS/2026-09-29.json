@@ -2,8 +2,8 @@
   "channel": "SPS",
   "date": "2026-09-29",
   "source": "kayo",
-  "fetchedAt": 1790640869192,
-  "fetchedAtIST": "29/9/2026, 5:44:29 am",
+  "fetchedAt": 1790677640545,
+  "fetchedAtIST": "29/9/2026, 3:57:20 pm",
   "events": [
     {
       "programTitle": "Ted's Notebook",
@@ -186,11 +186,22 @@
       "episodeTitle": "UFC 332 Countdown: Silva vs. Wang",
       "description": "Coverage of UFC training, including exclusive interviews, expert analysis and a look at the intense preparation of each fighter.",
       "scheduledDate": 1790683200000,
-      "duration": 60,
+      "duration": 30,
       "parentalRating": "",
       "programType": "Sports non-event",
       "genre": "Mixed martial arts, Documentary",
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-09-29_SH030408650000_112647340619_2026-01-22T17:35:05Z_p308818_i_h8_ae/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "MotoGP Racing",
+      "episodeTitle": "Qatar Airways Grand Prix of Austria, Sprint Race",
+      "description": "From Red Bull Ring in Austria.",
+      "scheduledDate": 1790685000000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Motorcycle racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-09-29_EP028104881570_112772823988_2026-09-17T17:33:09Z_GNLZZGG003PG5VS/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "Sailing",

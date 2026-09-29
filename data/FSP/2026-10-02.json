@@ -1,0 +1,31 @@
+{
+  "channel": "FSP",
+  "date": "2026-10-02",
+  "source": "kayo",
+  "fetchedAt": 1790677640538,
+  "fetchedAtIST": "29/9/2026, 3:57:20 pm",
+  "events": [
+    {
+      "programTitle": "Sailing",
+      "episodeTitle": "America's Cup, Naples: Preliminary Regatta, Day 1",
+      "description": "A look at all the action, highlights, and recaps from the world's most exciting regattas and sailing events.",
+      "scheduledDate": 1790892000000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Sailing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-10-01_SH031659890000_110117113815_2024-10-29T09:13:53Z_p7964323_i_h10_ag/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Sailing",
+      "episodeTitle": "America's Cup, Naples: Preliminary Regatta, Day 2",
+      "description": "A look at all the action, highlights, and recaps from the world's most exciting regattas and sailing events.",
+      "scheduledDate": 1790895600000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Sailing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-10-01_SH031659890000_110117113815_2024-10-29T09:13:53Z_p7964323_i_h10_ag/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    }
+  ]
+}

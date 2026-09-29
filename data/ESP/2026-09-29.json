@@ -2,8 +2,8 @@
   "channel": "ESP",
   "date": "2026-09-29",
   "source": "kayo",
-  "fetchedAt": 1790640869201,
-  "fetchedAtIST": "29/9/2026, 5:44:29 am",
+  "fetchedAt": 1790677640558,
+  "fetchedAtIST": "29/9/2026, 3:57:20 pm",
   "events": [
     {
       "programTitle": "NFL Live",
@@ -208,22 +208,33 @@
       "episodeTitle": "",
       "description": "Stephen A. Smith joins Molly Qerim Rose to debate the hottest topics in sports.",
       "scheduledDate": 1790690400000,
-      "duration": 180,
+      "duration": 120,
       "parentalRating": "",
       "programType": "Sports non-event",
       "genre": "Sports talk, News, Debate",
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-09-29_SH033280060000_108193810385_2025-11-07T06:36:14Z_p186291_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "",
-      "episodeTitle": "Imperfect: The Roy Halladay Story",
-      "description": "On the 10th anniversary of his perfect game, and more than two years after his tragic death, Halladay's family speaks for the first time on camera about his struggles with addiction and mental health, and the details of his fatal plane crash.",
+      "programTitle": "In Depth With Graham Bensinger",
+      "episodeTitle": "Pete Rose",
+      "description": "Looks back at the sit down with MLB's hit king Pete Rose, where he recalls a childhood that moulded his success, a personal moment with Joe DiMaggio, and the scandal that banned Rose from baseball.",
       "scheduledDate": 1790697600000,
-      "duration": 60,
+      "duration": 30,
       "parentalRating": "",
-      "programType": "Sports non-event",
-      "genre": "Newsmagazine",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-09-29_SH033308270000_79811912898_2019-10-17T14:20:31Z_p229472_i_h10_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "programType": "Series",
+      "genre": "Sports talk, Interview",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-09-29_EP033308670138_113242687173_2025-07-23T14:34:13Z_p28383014_e_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "In Depth With Graham Bensinger",
+      "episodeTitle": "Albert Pujols",
+      "description": "Three-time MVP Albert Pujols opens up about his tough upbringing in the Dominican Republic, a faith-driven approach towards befriending PED users and his contentious departure from the Cardinals.",
+      "scheduledDate": 1790699400000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Series",
+      "genre": "Sports talk, Interview",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-09-29_EP033308670039_113242687174_2022-06-08T20:05:40Z_p16716719_e_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "",
@@ -245,7 +256,7 @@
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Playoff sports, Baseball",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-09-29_EP062580852944_113223368774_2026-09-28T01:44:12Z_GNLZZGG003PYPJQ/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-09-29_EP062580852944_113230632546_2026-09-28T01:44:12Z_GNLZZGG003PYPJQ/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     }
   ]
 }

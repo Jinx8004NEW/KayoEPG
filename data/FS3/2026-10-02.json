@@ -1,0 +1,20 @@
+{
+  "channel": "FS3",
+  "date": "2026-10-02",
+  "source": "kayo",
+  "fetchedAt": 1790677640524,
+  "fetchedAtIST": "29/9/2026, 3:57:20 pm",
+  "events": [
+    {
+      "programTitle": "PGA Tour Golf",
+      "episodeTitle": "Bank of Utah Championship, First Round",
+      "description": "From Black Desert Golf Course in Ivins, Utah.",
+      "scheduledDate": 1790888400000,
+      "duration": 180,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-10-01_EP030899371271_113055782658_2025-10-03T21:24:20Z_p29056273_b_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    }
+  ]
+}
