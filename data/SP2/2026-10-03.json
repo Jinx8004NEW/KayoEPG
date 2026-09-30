@@ -2,19 +2,30 @@
   "channel": "SP2",
   "date": "2026-10-03",
   "source": "kayo",
-  "fetchedAt": 1790742349337,
-  "fetchedAtIST": "30/9/2026, 9:55:49 am",
+  "fetchedAt": 1790779288418,
+  "fetchedAtIST": "30/9/2026, 8:11:28 pm",
   "events": [
     {
       "programTitle": "NRL",
       "episodeTitle": "Penrith Panthers vs Newcastle Knights",
       "description": "Live from Accor Stadium. Kick off at 4:00PM AEST.",
       "scheduledDate": 1790967600000,
-      "duration": 120,
+      "duration": 60,
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Playoff sports, Rugby league, Rugby",
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-10-02_EP031720961245_113010788996_2026-09-20T13:44:26Z_GNLZZGG003PP9HB/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NRL Classic Match",
+      "episodeTitle": "1997 Round 15: Newcastle Knights vs Sydney Roosters",
+      "description": "Re-live some of the best rugby league clashes from the Premiership's past.",
+      "scheduledDate": 1790971200000,
+      "duration": 90,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Rugby, Classic sport event",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-10-02_SH034822800000_100794011205_2020-04-08T22:50:08Z_p18168517_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "To Be Announced",
@@ -26,6 +37,39 @@
       "programType": "TBA",
       "genre": "Special, Entertainment",
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-10-02_SH027575020000_112769671032_2021-11-15T14:36:19Z_p514472_b_h8_dp/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Finals Footy with Matty Johns",
+      "episodeTitle": "Grand Final Edition",
+      "description": "Matty Johns is joined by a panel of hosts and guests to discuss footy news and updates during the NRL finals.",
+      "scheduledDate": 1790976600000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Series",
+      "genre": "Sports talk, Rugby league",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-10-02_SH033196300000_112444583890_2019-10-09T17:20:38Z_p17392964_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NRL Classic Match",
+      "episodeTitle": "2013 Preliminary Final: Sydney Roosters v Newcastle Knights",
+      "description": "Re-live some of the best rugby league clashes from the Premiership's past.",
+      "scheduledDate": 1790980200000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Rugby, Classic sport event",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-10-02_SH034822800000_100794011205_2020-04-08T22:50:08Z_p18168517_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Finals Footy with Matty Johns",
+      "episodeTitle": "Grand Final Edition",
+      "description": "Matty Johns is joined by a panel of hosts and guests to discuss footy news and updates during the NRL finals.",
+      "scheduledDate": 1790982000000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Series",
+      "genre": "Sports talk, Rugby league",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-10-02_SH033196300000_112444583890_2019-10-09T17:20:38Z_p17392964_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     }
   ]
 }

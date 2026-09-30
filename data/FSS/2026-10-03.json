@@ -2,19 +2,85 @@
   "channel": "FSS",
   "date": "2026-10-03",
   "source": "kayo",
-  "fetchedAt": 1790742349378,
-  "fetchedAtIST": "30/9/2026, 9:55:49 am",
+  "fetchedAt": 1790779288450,
+  "fetchedAtIST": "30/9/2026, 8:11:28 pm",
   "events": [
     {
-      "programTitle": "To Be Announced",
-      "episodeTitle": "",
-      "description": "The programming for this time slot has yet to be determined and is being confirmed by the broadcast channel.",
-      "scheduledDate": 1790974800000,
-      "duration": 240,
+      "programTitle": "Formula 1",
+      "episodeTitle": "Bahrain Grand Prix, Practice 1",
+      "description": "From Petronas Sepang International Circuit in Sepang, Malaysia.",
+      "scheduledDate": 1790967600000,
+      "duration": 60,
       "parentalRating": "",
-      "programType": "TBA",
-      "genre": "Special, Entertainment",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-10-02_SH027575020000_112769671032_2021-11-15T14:36:19Z_p514472_b_h8_dp/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "programType": "Sports event",
+      "genre": "Auto racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-10-02_EP027326820871_113293275948_2026-03-10T18:46:35Z_p32386364_b_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Formula 1",
+      "episodeTitle": "Bahrain Grand Prix, Practice 2",
+      "description": "From Petronas Sepang International Circuit in Sepang, Malaysia.",
+      "scheduledDate": 1790971200000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Auto racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-10-02_EP027326820872_113293275967_2026-03-10T18:46:11Z_p32386373_b_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Fight Week",
+      "episodeTitle": "UFC 332",
+      "description": "Fox Sports reporters take a look at the UFC results, previews, and news from the previous UFC Fight Week.",
+      "scheduledDate": 1790974800000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Series",
+      "genre": "Sports talk, Mixed martial arts, Boxing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-10-02_SH028549290000_94258305657_2024-01-18T22:33:02Z_p14982509_i_h10_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "UFC Countdown",
+      "episodeTitle": "UFC 332 Countdown: Silva vs. Wang",
+      "description": "Coverage of UFC training, including exclusive interviews, expert analysis and a look at the intense preparation of each fighter.",
+      "scheduledDate": 1790976600000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Mixed martial arts, Documentary",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-10-02_SH030408650000_112647340619_2026-01-22T17:35:05Z_p308818_i_h8_ae/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Fight Week",
+      "episodeTitle": "UFC 332",
+      "description": "Fox Sports reporters take a look at the UFC results, previews, and news from the previous UFC Fight Week.",
+      "scheduledDate": 1790978400000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Series",
+      "genre": "Sports talk, Mixed martial arts, Boxing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-10-02_SH028549290000_94258305657_2024-01-18T22:33:02Z_p14982509_i_h10_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "FIM Superbike World Championship",
+      "episodeTitle": "Italian Round, Race 1",
+      "description": "From Cremona Circuit in Lombardy, Italy.",
+      "scheduledDate": 1790980200000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Motorcycle racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-10-02_EP050933440122_113029275937_2026-09-24T19:24:12Z_GNLZZGG003PKNCT/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "FIM Superbike World Championship",
+      "episodeTitle": "Italy: Race 2",
+      "description": "Coverage of motorcycle action in the FIM Superbike World Championship.",
+      "scheduledDate": 1790983800000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Motorcycle racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/Fallback_LTV_Fox_Sports_507/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     }
   ]
 }
