@@ -1,196 +1,174 @@
 {
   "channel": "ESP",
-  "date": "2026-09-30",
+  "date": "2026-10-01",
   "source": "kayo",
-  "fetchedAt": 1790779288453,
-  "fetchedAtIST": "30/9/2026, 8:11:28 pm",
+  "fetchedAt": 1790800595612,
+  "fetchedAtIST": "1/10/2026, 2:06:35 am",
   "events": [
     {
       "programTitle": "MLB Baseball",
       "episodeTitle": "",
       "description": "Coverage of the action from the Major League Baseball.",
-      "scheduledDate": 1790712000000,
+      "scheduledDate": 1790798400000,
       "duration": 180,
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Baseball",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-09-29_SH033378420000_111070082461_2022-04-14T08:06:14Z_p191273_i_h8_ad/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-09-30_SH033378420000_111070082461_2022-04-14T08:06:14Z_p191273_i_h8_ad/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "MLB Baseball",
       "episodeTitle": "Chicago White Sox at Houston Astros",
       "description": "From Daikin Park in Houston.",
-      "scheduledDate": 1790715600000,
+      "scheduledDate": 1790802000000,
       "duration": 180,
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Playoff sports, Baseball",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-09-29_EP062580852945_113272395132_2026-09-28T01:43:45Z_GNLZZGG003PYPCK/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-09-30_EP062580852949_113323763509_2026-09-28T01:43:50Z_GNLZZGG003PYPDZ/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "MLB Baseball",
       "episodeTitle": "",
       "description": "Coverage of the action from the Major League Baseball.",
-      "scheduledDate": 1790722800000,
+      "scheduledDate": 1790809200000,
       "duration": 180,
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Baseball",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-09-29_SH033378420000_111070082461_2022-04-14T08:06:14Z_p191273_i_h8_ad/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-09-30_SH033378420000_111070082461_2022-04-14T08:06:14Z_p191273_i_h8_ad/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "MLB Baseball",
       "episodeTitle": "Boston Red Sox at New York Yankees",
       "description": "From Yankee Stadium in the Bronx, N.Y.",
-      "scheduledDate": 1790726400000,
+      "scheduledDate": 1790812800000,
       "duration": 180,
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Playoff sports, Baseball",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-09-30_EP062580852946_113272525235_2026-09-28T01:43:51Z_GNLZZGG003PYPF7/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
-    {
-      "programTitle": "MLB Baseball",
-      "episodeTitle": "",
-      "description": "Coverage of the action from the Major League Baseball.",
-      "scheduledDate": 1790733600000,
-      "duration": 180,
-      "parentalRating": "",
-      "programType": "Sports event",
-      "genre": "Baseball",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-09-30_SH033378420000_111070082461_2022-04-14T08:06:14Z_p191273_i_h8_ad/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-10-01_EP062580852950_113323861594_2026-09-28T01:44:06Z_GNLZZGG003PYPJ2/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "MLB Baseball",
       "episodeTitle": "Chicago Cubs at San Diego Padres",
       "description": "From PETCO Park in San Diego.",
-      "scheduledDate": 1790737200000,
+      "scheduledDate": 1790823600000,
       "duration": 120,
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Playoff sports, Baseball",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-09-30_EP062580852947_113272288712_2026-09-28T01:44:21Z_GNLZZGG003PYPP3/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-10-01_EP062580852951_113324008141_2026-09-28T01:43:58Z_GNLZZGG003PYPGY/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "MLB Baseball",
-      "episodeTitle": "Philadelphia Phillies at Atlanta Braves",
-      "description": "From Truist Park in Atlanta.",
-      "scheduledDate": 1790744400000,
-      "duration": 120,
-      "parentalRating": "",
-      "programType": "Sports event",
-      "genre": "Playoff sports, Baseball",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-09-30_EP062580852944_113272525234_2026-09-28T01:44:12Z_GNLZZGG003PYPJQ/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
-    {
-      "programTitle": "MLB Baseball",
+      "programTitle": "SportsCenter",
       "episodeTitle": "",
-      "description": "Coverage of the action from the Major League Baseball.",
-      "scheduledDate": 1790746200000,
+      "description": "The team deliver the latest news, highlights, and inside information from the wide world of sports, as well as trending topics across social media platforms.",
+      "scheduledDate": 1790830800000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "News, Sports talk",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-10-01_SH033259060000_109832503473_2018-04-18T10:39:00Z_p186674_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "WNBA Basketball",
+      "episodeTitle": "Atlanta Dream at Washington Mystics",
+      "description": "From CareFirst Arena in Washington, D.C.",
+      "scheduledDate": 1790834400000,
       "duration": 120,
       "parentalRating": "",
       "programType": "Sports event",
-      "genre": "Baseball",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-09-30_SH033378420000_111070082461_2022-04-14T08:06:14Z_p191273_i_h8_ad/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "genre": "Playoff sports, Basketball",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-10-01_EP033268231136_113337679358_2026-09-25T16:48:17Z_GNLZZGG003PQJQR/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Nothing But Net",
+      "episodeTitle": "",
+      "description": "Kane Pitman and Ryan Broekhoff preview the upcoming NBA and NBL action through their Aussie lens, with guest interviews, highlights and breaking news.",
+      "scheduledDate": 1790841600000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Basketball",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-10-01_SH047654740000_108130071776_2023-06-02T12:16:33Z_p24869175_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "NBL Pregame",
       "episodeTitle": "",
       "description": "A preview of upcoming games from the National Basketball League.",
-      "scheduledDate": 1790751600000,
+      "scheduledDate": 1790845200000,
       "duration": 30,
       "parentalRating": "",
       "programType": "Sports non-event",
       "genre": "Basketball",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-09-30_SH048723300000_112673605432_2023-09-20T11:04:17Z_p25650942_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-10-01_SH048723300000_112673605432_2023-09-20T11:04:17Z_p25650942_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "NBL",
-      "episodeTitle": "BNZ Breakers vs Cairns Taipans",
-      "description": "From Spark Arena in Auckland, Auckland, New Zealand.",
-      "scheduledDate": 1790753400000,
+      "episodeTitle": "Tasmania JackJumpers vs Melbourne United",
+      "description": "From MyState Bank Arena in Hobart, Tasmania, Australia.",
+      "scheduledDate": 1790847000000,
       "duration": 120,
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Basketball",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-09-30_EP029269501389_113049375241_2026-09-10T14:11:40Z_GNLZZGG003NW63R/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-10-01_EP029269501390_113055783289_2026-09-10T17:09:46Z_GNLZZGG003NWP3L/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "NBL",
-      "episodeTitle": "Sydney Kings vs Brisbane Bullets",
-      "description": "",
-      "scheduledDate": 1790760600000,
-      "duration": 120,
-      "parentalRating": "",
-      "programType": "Sports event",
-      "genre": "Basketball",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-09-30_EP029269501387_113049375458_2026-09-09T20:40:21Z_GNLZZGG003NHVN2/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
-    {
-      "programTitle": "MLB Baseball",
-      "episodeTitle": "Chicago Cubs at San Diego Padres",
-      "description": "From PETCO Park in San Diego.",
-      "scheduledDate": 1790767800000,
-      "duration": 120,
-      "parentalRating": "",
-      "programType": "Sports event",
-      "genre": "Playoff sports, Baseball",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-09-30_EP062580852947_113272288712_2026-09-28T01:44:21Z_GNLZZGG003PYPP3/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
-    {
-      "programTitle": "ESPN FC",
+      "programTitle": "NFL Blitz",
       "episodeTitle": "",
-      "description": "ESPN FC brings you a round-up of the latest news from the world of football, including in-depth analysis and exclusive interviews.",
-      "scheduledDate": 1790775000000,
+      "description": "All of the best action from the National Football League.",
+      "scheduledDate": 1790854200000,
       "duration": 30,
       "parentalRating": "",
-      "programType": "Series",
-      "genre": "Soccer, Sports talk",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-09-30_SH033236780000_109573421566_2026-05-25T06:15:30Z_p10106369_i_h11_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "programType": "Sports non-event",
+      "genre": "Family, Football, News, Newsmagazine",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-10-01_SH060667300000_113343285724_2022-09-12T05:46:51Z_p22911383_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "WNBA Basketball",
+      "episodeTitle": "Golden State Valkyries at Dallas Wings",
+      "description": "From College Park Center in Arlington, Tex.",
+      "scheduledDate": 1790856000000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Playoff sports, Basketball",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-10-01_EP033268231137_113263869155_2026-09-25T16:49:15Z_GNLZZGG003PQM8M/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "First Take",
       "episodeTitle": "",
       "description": "Stephen A. Smith joins Molly Qerim Rose to debate the hottest topics in sports.",
-      "scheduledDate": 1790776800000,
+      "scheduledDate": 1790863200000,
       "duration": 120,
       "parentalRating": "",
       "programType": "Sports non-event",
       "genre": "Sports talk, News, Debate",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-09-30_SH033280060000_108193810385_2025-11-07T06:36:14Z_p186291_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-10-01_SH033280060000_108193810385_2025-11-07T06:36:14Z_p186291_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "Return of the Clowns",
+      "programTitle": "Get Up",
       "episodeTitle": "",
-      "description": "The Sunday morning sports magazine show featuring the biggest names and the best stories in sports.",
-      "scheduledDate": 1790784000000,
-      "duration": 60,
+      "description": "Mike Greenberg, Laura Rutledge and Jalen Rose discuss and analyse the latest news from the world of sports.",
+      "scheduledDate": 1790870400000,
+      "duration": 120,
       "parentalRating": "",
       "programType": "Sports non-event",
-      "genre": "Special, Baseball",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-09-30_SH064874550000_113050093864_2026-06-22T18:45:15Z_p33394009_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "genre": "Sports talk",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-10-01_SH033268270000_107093139583_2026-03-24T04:04:44Z_p15158780_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "30 for 30",
-      "episodeTitle": "Four Days in October",
-      "description": "A look at one of the greatest comebacks in the history of sports, the 2004 ALCS that saw the Boston Red Sox become the first team in history to erase a 3-0 deficit against their rivals, the Yankees.",
-      "scheduledDate": 1790787600000,
-      "duration": 60,
+      "programTitle": "Big Day With Peter Schrager",
+      "episodeTitle": "",
+      "description": "Peter Schrager covers the biggest stories from across the sports world each day.",
+      "scheduledDate": 1790877600000,
+      "duration": 55,
       "parentalRating": "",
       "programType": "Sports non-event",
-      "genre": "Documentary",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-09-30_EP023926430024_113320510208_2023-03-31T06:57:11Z_p8241252_e_h8_af/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
-    {
-      "programTitle": "MLB Baseball",
-      "episodeTitle": "Philadelphia Phillies at Atlanta Braves",
-      "description": "From Truist Park in Atlanta.",
-      "scheduledDate": 1790791200000,
-      "duration": 180,
-      "parentalRating": "",
-      "programType": "Sports event",
-      "genre": "Playoff sports, Baseball",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-09-30_EP062580852948_113322926483_2026-09-28T01:44:25Z_GNLZZGG003PYPPR/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "genre": "Football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-10-01_SH066067040000_113001491788_2026-09-10T19:25:26Z_p34014283_i_h10_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     }
   ]
 }

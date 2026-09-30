@@ -1,59 +1,26 @@
 {
   "channel": "FS3",
-  "date": "2026-09-30",
+  "date": "2026-10-01",
   "source": "kayo",
-  "fetchedAt": 1790779288421,
-  "fetchedAtIST": "30/9/2026, 8:11:28 pm",
+  "fetchedAt": 1790800595589,
+  "fetchedAtIST": "1/10/2026, 2:06:35 am",
   "events": [
     {
-      "programTitle": "DP World Tour Golf",
-      "episodeTitle": "FedEx Open de France, Final Round",
-      "description": "From Le Golf National in Paris, France.",
-      "scheduledDate": 1790712000000,
+      "programTitle": "LPGA Tour Golf",
+      "episodeTitle": "Kroger Queen City Championship, Final Round",
+      "description": "",
+      "scheduledDate": 1790796600000,
       "duration": 120,
-      "parentalRating": "",
-      "programType": "Sports event",
-      "genre": "Golf",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-09-29_EP040914080713_113052378637_2026-09-24T15:22:29Z_GNLZZGG003PKB5N/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
-    {
-      "programTitle": "2026 Presidents Cup",
-      "episodeTitle": "Final Day",
-      "description": "From Medinah Country Club in Medinah, Ill.",
-      "scheduledDate": 1790719200000,
-      "duration": 120,
-      "parentalRating": "",
-      "programType": "Sports event",
-      "genre": "Golf",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-09-29_SH066278790000_113211222325_2026-08-05T21:07:29Z_p33597240_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
-    {
-      "programTitle": "Live from the Presidents Cup",
-      "episodeTitle": "Day 3",
-      "description": "A team representing the United States and an international team representing the rest of the world minus Europe compete for the Presidents Cup.",
-      "scheduledDate": 1790726400000,
-      "duration": 90,
       "parentalRating": "",
       "programType": "Sports non-event",
       "genre": "Golf",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-09-30_SH052952550000_112870283834_2026-09-09T20:20:29Z_p22737534_i_h8_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
-    {
-      "programTitle": "Getting a Round In",
-      "episodeTitle": "",
-      "description": "Australian professional golfer, Paul Gow hosts celebrities as his playing partners who share his love for the game of golf.",
-      "scheduledDate": 1790731800000,
-      "duration": 30,
-      "parentalRating": "",
-      "programType": "Series",
-      "genre": "Golf, Interview",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-09-30_SH048121120000_110998856207_2023-07-18T05:56:16Z_p25221374_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-09-30_SH047138530000_113010788562_2025-08-07T09:24:15Z_p8768636_i_h10_ah/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "LPGA Tour Golf",
       "episodeTitle": "Walmart NW Arkansas Championship, Final Round",
       "description": "From Pinnacle Country Club in Rogers, Ark.",
-      "scheduledDate": 1790733600000,
+      "scheduledDate": 1790803800000,
       "duration": 120,
       "parentalRating": "",
       "programType": "Sports event",
@@ -61,21 +28,10 @@
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-09-30_EP031583890718_113187195899_2026-08-25T19:34:59Z_p33753615_b_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "DP World Tour Golf",
-      "episodeTitle": "FedEx Open de France, Final Round",
-      "description": "From Le Golf National in Paris, France.",
-      "scheduledDate": 1790740800000,
-      "duration": 120,
-      "parentalRating": "",
-      "programType": "Sports event",
-      "genre": "Golf",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-09-30_EP040914080713_113052378637_2026-09-24T15:22:29Z_GNLZZGG003PKB5N/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
-    {
       "programTitle": "Getting a Round In",
       "episodeTitle": "",
       "description": "Australian professional golfer, Paul Gow hosts celebrities as his playing partners who share his love for the game of golf.",
-      "scheduledDate": 1790748000000,
+      "scheduledDate": 1790811000000,
       "duration": 30,
       "parentalRating": "",
       "programType": "Series",
@@ -83,70 +39,136 @@
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-09-30_SH048121120000_110998856207_2023-07-18T05:56:16Z_p25221374_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "Ladies European Tour Highlights",
-      "episodeTitle": "Ladies Italian Open",
-      "description": "Highlights and all the action from the tournaments of the women's professional circuit.",
-      "scheduledDate": 1790749800000,
-      "duration": 60,
+      "programTitle": "2026 Presidents Cup",
+      "episodeTitle": "Final Day",
+      "description": "From Medinah Country Club in Medinah, Ill.",
+      "scheduledDate": 1790812800000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-10-01_SH066278790000_113211222325_2026-08-05T21:07:29Z_p33597240_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Live from the Presidents Cup",
+      "episodeTitle": "Day 3",
+      "description": "A team representing the United States and an international team representing the rest of the world minus Europe compete for the Presidents Cup.",
+      "scheduledDate": 1790820000000,
+      "duration": 90,
       "parentalRating": "",
       "programType": "Sports non-event",
       "genre": "Golf",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-09-30_SH036024660000_106874281005_2022-04-25T08:36:28Z_p12733886_i_h10_ad/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-10-01_SH052952550000_112870283834_2026-09-09T20:20:29Z_p22737534_i_h8_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "DP World Tour Golf",
+      "episodeTitle": "FedEx Open de France, Final Round",
+      "description": "From Le Golf National in Paris, France.",
+      "scheduledDate": 1790825400000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-10-01_EP040914080713_113052378637_2026-09-24T15:22:29Z_GNLZZGG003PKB5N/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "PGA TOUR: The CUT",
       "episodeTitle": "",
       "description": "An insightful exploration of player profiles and a preview of various PGA Tour tournaments around the world.",
-      "scheduledDate": 1790753400000,
+      "scheduledDate": 1790832600000,
       "duration": 30,
       "parentalRating": "",
       "programType": "Sports non-event",
       "genre": "Golf",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-09-30_SH034181860000_111796196447_2022-01-21T12:57:01Z_p17650562_i_h8_al/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-10-01_SH034181860000_111796196447_2022-01-21T12:57:01Z_p17650562_i_h8_al/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "PGA Tour Golf Mini",
-      "episodeTitle": "Presidents Cup: Final Day",
-      "description": "A collection of special condensed replays featuring the best highlights and all the key moments from the course.",
-      "scheduledDate": 1790755200000,
-      "duration": 20,
+      "programTitle": "Getting a Round In",
+      "episodeTitle": "",
+      "description": "Australian professional golfer, Paul Gow hosts celebrities as his playing partners who share his love for the game of golf.",
+      "scheduledDate": 1790834400000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Series",
+      "genre": "Golf, Interview",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-10-01_SH048121120000_110998856207_2023-07-18T05:56:16Z_p25221374_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Challenge Series",
+      "episodeTitle": "",
+      "description": "Highlights of Challenge Tour tournaments from around the world.",
+      "scheduledDate": 1790836200000,
+      "duration": 30,
       "parentalRating": "",
       "programType": "Sports non-event",
       "genre": "Golf",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-09-30_SH047874460000_101769826726_2023-06-23T09:17:39Z_p25047305_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-10-01_SH038949530000_113055782716_2022-07-06T10:26:53Z_p10223016_i_h10_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "One-Day International Cricket",
-      "episodeTitle": "India vs West Indies",
-      "description": "From Assam Cricket Association Stadium in Guwahati, Assam, India.",
-      "scheduledDate": 1790756400000,
-      "duration": 480,
+      "programTitle": "European PGA Tour Highlights",
+      "episodeTitle": "Fedex Open De France",
+      "description": "All the action and highlights from European Tour golf.",
+      "scheduledDate": 1790838000000,
+      "duration": 30,
       "parentalRating": "",
-      "programType": "Sports event",
-      "genre": "Cricket",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-09-30_EP029804690363_113049375322_2026-08-26T19:47:21Z_GNLZZGG003JGKDQ/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
-    {
-      "programTitle": "One-Day International Cricket",
-      "episodeTitle": "India vs West Indies",
-      "description": "From Assam Cricket Association Stadium in Guwahati, Assam, India.",
-      "scheduledDate": 1790785200000,
-      "duration": 70,
-      "parentalRating": "",
-      "programType": "Sports event",
-      "genre": "Cricket",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-09-30_EP029804690363_113049375322_2026-08-26T19:47:21Z_GNLZZGG003JGKDQ/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "programType": "Sports non-event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-10-01_SH037026900000_112448059278_2022-09-05T13:56:59Z_p9656797_i_h10_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "LPGA Tour Golf",
-      "episodeTitle": "Mizuho Americas Open, Final Round",
-      "description": "",
-      "scheduledDate": 1790789400000,
+      "episodeTitle": "Walmart NW Arkansas Championship, Final Round",
+      "description": "From Pinnacle Country Club in Rogers, Ark.",
+      "scheduledDate": 1790839800000,
       "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-10-01_EP031583890718_113187195899_2026-08-25T19:34:59Z_p33753615_b_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "2026 Presidents Cup",
+      "episodeTitle": "Final Day",
+      "description": "From Medinah Country Club in Medinah, Ill.",
+      "scheduledDate": 1790847000000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-10-01_SH066278790000_113211222325_2026-08-05T21:07:29Z_p33597240_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Live from the Presidents Cup",
+      "episodeTitle": "Day 3",
+      "description": "A team representing the United States and an international team representing the rest of the world minus Europe compete for the Presidents Cup.",
+      "scheduledDate": 1790854200000,
+      "duration": 90,
       "parentalRating": "",
       "programType": "Sports non-event",
       "genre": "Golf",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-09-30_SH047138530000_113010788562_2025-08-07T09:24:15Z_p8768636_i_h10_ah/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-10-01_SH052952550000_112870283834_2026-09-09T20:20:29Z_p22737534_i_h8_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "PGA TOUR: The CUT",
+      "episodeTitle": "",
+      "description": "An insightful exploration of player profiles and a preview of various PGA Tour tournaments around the world.",
+      "scheduledDate": 1790859600000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-10-01_SH034181860000_111796196447_2022-01-21T12:57:01Z_p17650562_i_h8_al/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "PGA Tour Golf",
+      "episodeTitle": "Bank of Utah Championship, First Round",
+      "description": "From Black Desert Golf Course in Ivins, Utah.",
+      "scheduledDate": 1790861400000,
+      "duration": 450,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-10-01_EP030899371271_113055782658_2025-10-03T21:24:20Z_p29056273_b_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     }
   ]
 }
