@@ -1,0 +1,42 @@
+{
+  "channel": "FAF",
+  "date": "2026-10-03",
+  "source": "kayo",
+  "fetchedAt": 1790742349347,
+  "fetchedAtIST": "30/9/2026, 9:55:49 am",
+  "events": [
+    {
+      "programTitle": "AFL Women's Premiership",
+      "episodeTitle": "Carlton Blues vs Hawthorn Hawks",
+      "description": "Live from IKON Park. Bounce time: 7:15pm AEST.",
+      "scheduledDate": 1790970300000,
+      "duration": 90,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Australian rules football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-10-02_EP029247970802_112920177720_2026-07-24T02:50:48Z_GNLZZGG003CC40Z/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "AFL Women's Premiership",
+      "episodeTitle": "Richmond Tigers vs Geelong Cats",
+      "description": "Live from IKON Park. Bounce time: 7:15pm AEST.",
+      "scheduledDate": 1790975700000,
+      "duration": 90,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Australian rules football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-10-02_EP029247970803_112920225825_2026-07-24T02:50:30Z_GNLZZGG003CC07H/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "AFL",
+      "episodeTitle": "Fremantle vs. Brisbane Lions",
+      "description": "From Melbourne Cricket Ground in Melbourne, Victoria, Australia.",
+      "scheduledDate": 1790981100000,
+      "duration": 150,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Playoff sports, Australian rules football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-10-02_EP029151671455_112995306778_2026-09-19T16:43:14Z_GNLZZGG003PNYPS/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    }
+  ]
+}
