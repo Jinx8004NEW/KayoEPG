@@ -2,15 +2,15 @@
   "channel": "FAF",
   "date": "2026-10-04",
   "source": "kayo",
-  "fetchedAt": 1790829435169,
-  "fetchedAtIST": "1/10/2026, 10:07:15 am",
+  "fetchedAt": 1790867403145,
+  "fetchedAtIST": "1/10/2026, 8:40:03 pm",
   "events": [
     {
       "programTitle": "AFL Women's Premiership",
       "episodeTitle": "Greater Western Sydney Giants vs Essendon Bombers",
       "description": "From Henson Park in Marrickville, New South Wales, Australia.",
       "scheduledDate": 1791053100000,
-      "duration": 75,
+      "duration": 90,
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Australian rules football",
@@ -26,6 +26,39 @@
       "programType": "TBA",
       "genre": "Special, Entertainment",
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-10-03_SH027575020000_112769671032_2021-11-15T14:36:19Z_p514472_b_h8_dp/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "AFL Women's Premiership",
+      "episodeTitle": "Western Bulldogs vs St. Kilda Saints",
+      "description": "From Mars Stadium in Ballarat, Victoria, Australia.",
+      "scheduledDate": 1791058500000,
+      "duration": 90,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Australian rules football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-10-03_EP029247970805_113203971829_2026-07-24T02:50:27Z_GNLZZGG003CC9EL/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "AFL Women's Premiership",
+      "episodeTitle": "Brisbane Lions vs Gold Coast SUNS",
+      "description": "From Brighton Homes Arena in Queensland, Australia.",
+      "scheduledDate": 1791063900000,
+      "duration": 90,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Australian rules football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-10-03_EP029247970806_113203971809_2026-07-24T02:50:33Z_GNLZZGG003CC8C5/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "AFL Women's Premiership",
+      "episodeTitle": "Port Adelaide Power vs Adelaide Crows",
+      "description": "From Alberton Oval in Adelaide, South Australia, Australia.",
+      "scheduledDate": 1791069300000,
+      "duration": 90,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Australian rules football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-10-03_EP029247970807_112877614527_2026-07-24T02:50:34Z_GNLZZGG003CCDDD/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     }
   ]
 }

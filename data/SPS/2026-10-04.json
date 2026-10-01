@@ -2,8 +2,8 @@
   "channel": "SPS",
   "date": "2026-10-04",
   "source": "kayo",
-  "fetchedAt": 1790829435182,
-  "fetchedAtIST": "1/10/2026, 10:07:15 am",
+  "fetchedAt": 1790867403159,
+  "fetchedAtIST": "1/10/2026, 8:40:03 pm",
   "events": [
     {
       "programTitle": "To Be Announced",
@@ -15,6 +15,39 @@
       "programType": "TBA",
       "genre": "Special, Entertainment",
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-10-03_SH027575020000_112769671032_2021-11-15T14:36:19Z_p514472_b_h8_dp/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Formula 1",
+      "episodeTitle": "Bahrain Grand Prix, Practice 3",
+      "description": "Auto racing action from the Formula One circuit.",
+      "scheduledDate": 1791061200000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Auto racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-10-03_EP027326820808_113381231016_2026-03-10T19:05:37Z_p32386382_b_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Formula 1",
+      "episodeTitle": "Bahrain Grand Prix, Qualifying",
+      "description": "From Petronas Sepang International Circuit in Sepang, Malaysia.",
+      "scheduledDate": 1791064800000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Auto racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-10-03_EP027326820809_113381230995_2026-03-10T19:05:55Z_p32386396_b_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NASCAR O'Reilly Auto Parts Series",
+      "episodeTitle": "Focused Health 302",
+      "description": "From Las Vegas Motor Speedway in Las Vegas.",
+      "scheduledDate": 1791068400000,
+      "duration": 210,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Auto racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-10-03_EP062929950026_113380795631_2026-09-25T11:24:56Z_GNLZZGG003PQ1SM/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     }
   ]
 }

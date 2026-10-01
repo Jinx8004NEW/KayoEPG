@@ -2,8 +2,8 @@
   "channel": "ES2",
   "date": "2026-10-03",
   "source": "kayo",
-  "fetchedAt": 1790829435198,
-  "fetchedAtIST": "1/10/2026, 10:07:15 am",
+  "fetchedAt": 1790867403178,
+  "fetchedAtIST": "1/10/2026, 8:40:03 pm",
   "events": [
     {
       "programTitle": "First Take",
@@ -153,11 +153,33 @@
       "episodeTitle": "Idaho vs Montana State",
       "description": "American college football action.",
       "scheduledDate": 1791025200000,
-      "duration": 300,
+      "duration": 120,
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Football",
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-10-03_EP064738030685_113313461077_2026-06-19T22:25:36Z_GNLZZGG0036LT0L/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "In Depth With Graham Bensinger",
+      "episodeTitle": "Albert Pujols",
+      "description": "Three-time MVP Albert Pujols opens up about his tough upbringing in the Dominican Republic, a faith-driven approach towards befriending PED users and his contentious departure from the Cardinals.",
+      "scheduledDate": 1791032400000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Series",
+      "genre": "Sports talk, Interview",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-10-03_EP033308670039_113366550128_2022-06-08T20:05:40Z_p16716719_e_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "E60",
+      "episodeTitle": "Southpaw -- The Life and Legacy of Jim Abbott",
+      "description": "Born with one hand, Jim Abbott achieves unprecedented success in baseball and changes the world.",
+      "scheduledDate": 1791034200000,
+      "duration": 150,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Newsmagazine",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-10-03_SH033308270000_79811912898_2019-10-17T14:20:31Z_p229472_i_h10_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "Return of the Clowns",

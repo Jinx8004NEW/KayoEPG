@@ -2,8 +2,8 @@
   "channel": "SP2",
   "date": "2026-10-02",
   "source": "kayo",
-  "fetchedAt": 1790829435152,
-  "fetchedAtIST": "1/10/2026, 10:07:15 am",
+  "fetchedAt": 1790867403132,
+  "fetchedAtIST": "1/10/2026, 8:40:03 pm",
   "events": [
     {
       "programTitle": "NRL",
@@ -73,13 +73,13 @@
     },
     {
       "programTitle": "NRLW on Fox",
-      "episodeTitle": "",
+      "episodeTitle": "Grand Final Week",
       "description": "Lara Pitt chats with current and former players about all the latest NRLW headlines, results and upcoming fixtures.",
       "scheduledDate": 1790901000000,
       "duration": 30,
       "parentalRating": "",
       "programType": "Series",
-      "genre": "Rugby",
+      "genre": "Rugby, Rugby league",
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-10-02_SH048020300000_112166871701_2023-07-07T05:21:56Z_p25151338_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
@@ -95,13 +95,13 @@
     },
     {
       "programTitle": "NRLW on Fox",
-      "episodeTitle": "",
+      "episodeTitle": "Grand Final Week",
       "description": "Lara Pitt chats with current and former players about all the latest NRLW headlines, results and upcoming fixtures.",
       "scheduledDate": 1790906400000,
       "duration": 30,
       "parentalRating": "",
       "programType": "Series",
-      "genre": "Rugby",
+      "genre": "Rugby, Rugby league",
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-10-02_SH048020300000_112166871701_2023-07-07T05:21:56Z_p25151338_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
@@ -215,26 +215,37 @@
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-10-02_SH033196300000_112444583890_2019-10-09T17:20:38Z_p17392964_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "Fox Theatre 2012 Grand Final Canterbury vs Melbourne",
+      "programTitle": "Best of Fletch and Hindy",
       "episodeTitle": "",
-      "description": "A panel of experts reflect on the 2012 rugby league grand final between the Canterbury Bulldogs and the Melbourne Storm.",
+      "description": "A collection of some of the best Fletch and Hindy content from throughout 2020, featuring their feedback and antics.",
       "scheduledDate": 1790933400000,
-      "duration": 60,
+      "duration": 30,
       "parentalRating": "",
-      "programType": "Sports non-event",
-      "genre": "Special, Rugby league",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-10-02_SH035883120000_113055782827_2020-09-18T02:10:15Z_p18660045_i_h10_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "programType": "Series",
+      "genre": "Sports talk, Rugby league",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-10-02_SH036460010000_106892699097_2020-10-14T05:00:24Z_p18947660_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "NRL Classic Match",
       "episodeTitle": "2001 Grand Final Eels v Knights",
       "description": "Re-live some of the best rugby league clashes from the Premiership's past.",
-      "scheduledDate": 1790937000000,
+      "scheduledDate": 1790935200000,
       "duration": 30,
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Rugby, Classic sport event",
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-10-02_SH034822800000_100794011205_2020-04-08T22:50:08Z_p18168517_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Finals Footy with Matty Johns",
+      "episodeTitle": "Grand Final Edition",
+      "description": "Matty Johns is joined by a panel of hosts and guests to discuss footy news and updates during the NRL finals.",
+      "scheduledDate": 1790937000000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Series",
+      "genre": "Sports talk, Rugby league",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-10-02_SH033196300000_112444583890_2019-10-09T17:20:38Z_p17392964_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "Finals Footy with Matty Johns",
@@ -246,6 +257,17 @@
       "programType": "Series",
       "genre": "Sports talk, Rugby league",
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-10-02_SH033196300000_112444583890_2019-10-09T17:20:38Z_p17392964_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Best of Fletch and Hindy",
+      "episodeTitle": "",
+      "description": "A collection of some of the best Fletch and Hindy content from throughout 2020, featuring their feedback and antics.",
+      "scheduledDate": 1790940600000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Series",
+      "genre": "Sports talk, Rugby league",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-10-02_SH036460010000_106892699097_2020-10-14T05:00:24Z_p18947660_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "NRL Classic Match",
@@ -260,13 +282,13 @@
     },
     {
       "programTitle": "NRLW on Fox",
-      "episodeTitle": "",
+      "episodeTitle": "Grand Final Week",
       "description": "Lara Pitt chats with current and former players about all the latest NRLW headlines, results and upcoming fixtures.",
       "scheduledDate": 1790944200000,
       "duration": 30,
       "parentalRating": "",
       "programType": "Series",
-      "genre": "Rugby",
+      "genre": "Rugby, Rugby league",
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-10-02_SH048020300000_112166871701_2023-07-07T05:21:56Z_p25151338_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {

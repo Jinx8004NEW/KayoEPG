@@ -2,30 +2,74 @@
   "channel": "ESP",
   "date": "2026-10-04",
   "source": "kayo",
-  "fetchedAt": 1790829435194,
-  "fetchedAtIST": "1/10/2026, 10:07:15 am",
+  "fetchedAt": 1790867403173,
+  "fetchedAtIST": "1/10/2026, 8:40:03 pm",
   "events": [
     {
       "programTitle": "College Football Scoreboard",
       "episodeTitle": "",
       "description": "Highlights and up to the minute scores during the college football season, with a look at the major storylines in the competition.",
       "scheduledDate": 1791054000000,
-      "duration": 210,
+      "duration": 30,
       "parentalRating": "",
       "programType": "Sports non-event",
       "genre": "Football",
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-10-03_SH033268260000_112437273027_2019-12-21T18:40:07Z_p629287_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
+      "programTitle": "SportsCenter",
+      "episodeTitle": "Top Plays of September",
+      "description": "The team deliver the latest news, highlights, and inside information from the wide world of sports, as well as trending topics across social media platforms.",
+      "scheduledDate": 1791055800000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "News, Sports talk",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-10-03_SH033259060000_109832503473_2018-04-18T10:39:00Z_p186674_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "30 for 30",
+      "episodeTitle": "Hawaiian: The Legend of Eddie Aikau",
+      "description": "Chronicles the remarkable life and power of Eddie Aikau, Hawaiian big wave surfer, pioneering lifeguard and ultimately doomed crew member of the Polynesian voyaging canoe Hokule'a. His death served as inspiration to an entire spiritual movement.",
+      "scheduledDate": 1791057600000,
+      "duration": 90,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Documentary, Anthology",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-10-03_EP023926430015_113366532142_2017-04-07T07:05:00Z_p10117901_e_h10_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "30 for 30 Shorts",
+      "episodeTitle": "Great Trade Robbery/The Sweat Solution",
+      "description": "An unprecedented exploration of sports films from some of the most renowned directors around the world.",
+      "scheduledDate": 1791063000000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Documentary",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-10-03_SH033234650000_111251502876_2019-12-24T10:40:17Z_p10143938_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Sandy Brondello: A Basketball Life",
+      "episodeTitle": "",
+      "description": "Kane Pitman sits down with Sandy Brondello to trace her legendary career as player and coach.",
+      "scheduledDate": 1791064800000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Special",
+      "genre": "Special, Documentary",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-10-03_SH064244300000_113364316512_2026-07-17T04:25:47Z_p33062262_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
       "programTitle": "MLB Baseball",
-      "episodeTitle": "TBA at Tampa Bay Rays",
+      "episodeTitle": "New York Yankees at Tampa Bay Rays",
       "description": "From Tropicana Field in St. Petersburg, Fla.",
       "scheduledDate": 1791066600000,
-      "duration": 300,
+      "duration": 180,
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Playoff sports, Baseball",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-10-03_SH062580850000_113336627250_2022-04-14T08:06:14Z_p191273_i_h8_ad/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-10-03_EP062580852957_113371668580_2026-10-01T07:44:17Z_GNLZZGG003R80FQ/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     }
   ]
 }

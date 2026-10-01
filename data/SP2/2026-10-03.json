@@ -2,8 +2,8 @@
   "channel": "SP2",
   "date": "2026-10-03",
   "source": "kayo",
-  "fetchedAt": 1790829435152,
-  "fetchedAtIST": "1/10/2026, 10:07:15 am",
+  "fetchedAt": 1790867403132,
+  "fetchedAtIST": "1/10/2026, 8:40:03 pm",
   "events": [
     {
       "programTitle": "NRL",
@@ -105,15 +105,15 @@
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-10-03_SH028878770000_108440657874_2026-02-03T15:26:07Z_p8136636_i_h10_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "NRL Classic Match",
-      "episodeTitle": "2003 Grand Final Roosters v Panthers",
-      "description": "Re-live some of the best rugby league clashes from the Premiership's past.",
+      "programTitle": "Backstage with Cooper & Matty Johns",
+      "episodeTitle": "",
+      "description": "",
       "scheduledDate": 1791007200000,
-      "duration": 30,
+      "duration": 60,
       "parentalRating": "",
-      "programType": "Sports event",
-      "genre": "Rugby, Classic sport event",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-10-03_SH034822800000_100794011205_2020-04-08T22:50:08Z_p18168517_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "programType": "Sports non-event",
+      "genre": "Special, Rugby league",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/Fallback_LTV_Fox_League/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "Top 50 Greatest NRL Games",
@@ -127,32 +127,10 @@
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-10-03_SH037846950000_113333749558_2021-03-29T06:06:27Z_p19585172_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "Classic AFL",
-      "episodeTitle": "2023 Grand Final: Panthers v Broncos",
-      "description": "Condensed highlights and a look back at full replays of some of the greatest encounters from the Australian Football League.",
-      "scheduledDate": 1791010800000,
-      "duration": 30,
-      "parentalRating": "",
-      "programType": "Sports event",
-      "genre": "Classic sport event, Australian rules football",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-10-03_SH028096630000_102142641835_2018-11-27T09:00:00Z_p14740563_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
-    {
-      "programTitle": "Top 50 Greatest NRL Games",
-      "episodeTitle": "1981 Grand Final: Parramatta Eels vs Newtown Jets",
-      "description": "Fox League counts down 50 of the most intense and exciting clashes in Australian rugby league history.",
-      "scheduledDate": 1791012600000,
-      "duration": 30,
-      "parentalRating": "",
-      "programType": "Sports event",
-      "genre": "Classic sport event",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-10-03_SH037846950000_113333749558_2021-03-29T06:06:27Z_p19585172_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
-    {
       "programTitle": "NRL Classic Match",
       "episodeTitle": "1999 Grand Final: Melbourne Storm v St. George Illawarra Dragons",
       "description": "Re-live some of the best rugby league clashes from the Premiership's past.",
-      "scheduledDate": 1791014400000,
+      "scheduledDate": 1791010800000,
       "duration": 30,
       "parentalRating": "",
       "programType": "Sports event",
@@ -160,21 +138,10 @@
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-10-03_SH034822800000_100794011205_2020-04-08T22:50:08Z_p18168517_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "Top 50 Greatest NRL Games",
-      "episodeTitle": "1991 Grand Final: Penrith Panthers vs Canberra Raiders",
-      "description": "Fox League counts down 50 of the most intense and exciting clashes in Australian rugby league history.",
-      "scheduledDate": 1791016200000,
-      "duration": 30,
-      "parentalRating": "",
-      "programType": "Sports event",
-      "genre": "Classic sport event",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-10-03_SH037846950000_113333749558_2021-03-29T06:06:27Z_p19585172_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
-    {
       "programTitle": "NRL Grand Finals",
-      "episodeTitle": "2016 GF Storm vs Sharks",
+      "episodeTitle": "1991 GF Raiders vs Panthers",
       "description": "A celebration of some of the best grand finals in the history of Australia's National Rugby League, featuring classic goals and victories.",
-      "scheduledDate": 1791018000000,
+      "scheduledDate": 1791012600000,
       "duration": 30,
       "parentalRating": "",
       "programType": "Sports non-event",
@@ -182,26 +149,59 @@
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-10-03_SH036580220000_113050093903_2020-11-17T15:21:03Z_p19000014_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "NRL",
-      "episodeTitle": "2015 Grand Final: Broncos vs Cowboys",
-      "description": "A look at the action from Australia's National Rugby League, Australasia's top domestic rugby league competition.",
-      "scheduledDate": 1791019800000,
+      "programTitle": "NRL Grand Finals",
+      "episodeTitle": "2016 GF Storm vs Sharks",
+      "description": "A celebration of some of the best grand finals in the history of Australia's National Rugby League, featuring classic goals and victories.",
+      "scheduledDate": 1791014400000,
       "duration": 30,
       "parentalRating": "",
-      "programType": "Sports event",
-      "genre": "Rugby league, Classic sport event",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-10-03_SH031682720000_85057432064_2019-05-07T08:00:18Z_p9487394_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "programType": "Sports non-event",
+      "genre": "Rugby league",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-10-03_SH036580220000_113050093903_2020-11-17T15:21:03Z_p19000014_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NRL Grand Finals",
+      "episodeTitle": "2015 GF Broncos vs Cowboys",
+      "description": "A celebration of some of the best grand finals in the history of Australia's National Rugby League, featuring classic goals and victories.",
+      "scheduledDate": 1791016200000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Rugby league",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-10-03_SH036580220000_113050093903_2020-11-17T15:21:03Z_p19000014_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "NRL Classic Match",
       "episodeTitle": "1997 Grand Final: Newcastle Knights v Manly-Warringah Sea Eagles",
       "description": "Re-live some of the best rugby league clashes from the Premiership's past.",
-      "scheduledDate": 1791021600000,
+      "scheduledDate": 1791018000000,
       "duration": 30,
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Rugby, Classic sport event",
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-10-03_SH034822800000_100794011205_2020-04-08T22:50:08Z_p18168517_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NRL Grand Finals",
+      "episodeTitle": "1989 NSWRL Final: Canberra Raiders v Balmain Tigers",
+      "description": "A celebration of some of the best grand finals in the history of Australia's National Rugby League, featuring classic goals and victories.",
+      "scheduledDate": 1791019800000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Classic sport event, Rugby league",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-10-03_SH036580220000_113050093903_2020-11-17T15:21:03Z_p19000014_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Backstage with Cooper & Matty Johns",
+      "episodeTitle": "",
+      "description": "",
+      "scheduledDate": 1791021600000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Special, Rugby league",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/Fallback_LTV_Fox_League/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "Top 25 Fullbacks",
@@ -282,13 +282,13 @@
     },
     {
       "programTitle": "NRLW on Fox",
-      "episodeTitle": "",
+      "episodeTitle": "Grand Final Week",
       "description": "Lara Pitt chats with current and former players about all the latest NRLW headlines, results and upcoming fixtures.",
       "scheduledDate": 1791037800000,
       "duration": 30,
       "parentalRating": "",
       "programType": "Series",
-      "genre": "Rugby",
+      "genre": "Rugby, Rugby league",
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-10-03_SH048020300000_112166871701_2023-07-07T05:21:56Z_p25151338_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
@@ -307,7 +307,7 @@
       "episodeTitle": "Grand Final: Warrington Wolves v Wakefield Trinity",
       "description": "Experts discuss the line-ups, key tactics, and predictions before the Super League kick-off.",
       "scheduledDate": 1791043200000,
-      "duration": 240,
+      "duration": 250,
       "parentalRating": "",
       "programType": "Sports non-event",
       "genre": "Rugby league, Rugby",

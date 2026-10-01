@@ -2,15 +2,26 @@
   "channel": "FSS",
   "date": "2026-10-04",
   "source": "kayo",
-  "fetchedAt": 1790829435189,
-  "fetchedAtIST": "1/10/2026, 10:07:15 am",
+  "fetchedAt": 1790867403167,
+  "fetchedAtIST": "1/10/2026, 8:40:03 pm",
   "events": [
+    {
+      "programTitle": "Fight Week",
+      "episodeTitle": "UFC 332",
+      "description": "Fox Sports reporters take a look at the UFC results, previews, and news from the previous UFC Fight Week.",
+      "scheduledDate": 1791057600000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Series",
+      "genre": "Sports talk, Mixed martial arts, Boxing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-10-03_SH028549290000_94258305657_2024-01-18T22:33:02Z_p14982509_i_h10_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
     {
       "programTitle": "UFC Countdown",
       "episodeTitle": "UFC 332 Countdown: Silva vs. Wang",
       "description": "Coverage of UFC training, including exclusive interviews, expert analysis and a look at the intense preparation of each fighter.",
-      "scheduledDate": 1791057600000,
-      "duration": 60,
+      "scheduledDate": 1791059400000,
+      "duration": 30,
       "parentalRating": "",
       "programType": "Sports non-event",
       "genre": "Mixed martial arts, Documentary",
@@ -47,7 +58,7 @@
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Golf",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-10-03_EP040914080716_113334185405_2026-09-30T13:22:04Z_GNLZZGG003R5EE4/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-10-03_EP040914080716_113372028467_2026-09-30T13:22:04Z_GNLZZGG003R5EE4/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     }
   ]
 }

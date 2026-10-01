@@ -2,8 +2,8 @@
   "channel": "FS3",
   "date": "2026-10-03",
   "source": "kayo",
-  "fetchedAt": 1790829435160,
-  "fetchedAtIST": "1/10/2026, 10:07:15 am",
+  "fetchedAt": 1790867403138,
+  "fetchedAtIST": "1/10/2026, 8:40:03 pm",
   "events": [
     {
       "programTitle": "PGA Tour Golf",
@@ -47,7 +47,7 @@
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Golf",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-10-03_EP040914080715_113326110238_2026-09-30T11:22:55Z_GNLZZGG003R5XFS/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-10-03_EP040914080715_113369671271_2026-09-30T11:22:55Z_GNLZZGG003R5XFS/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "LPGA Tour Golf",
@@ -91,18 +91,29 @@
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Golf",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-10-03_EP040914080715_113326110238_2026-09-30T11:22:55Z_GNLZZGG003R5XFS/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-10-03_EP040914080715_113369671271_2026-09-30T11:22:55Z_GNLZZGG003R5XFS/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "DP World Tour Golf",
       "episodeTitle": "Alfred Dunhill Links Championship, Third Round",
       "description": "From The Old Course at St. Andrews in Fife, Scotland.",
       "scheduledDate": 1791025200000,
-      "duration": 330,
+      "duration": 300,
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Golf",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-10-03_EP040914080716_113334185405_2026-09-30T13:22:04Z_GNLZZGG003R5EE4/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-10-03_EP040914080716_113372028467_2026-09-30T13:22:04Z_GNLZZGG003R5EE4/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Rory McIlroy Melboure Sandbelt",
+      "episodeTitle": "",
+      "description": "",
+      "scheduledDate": 1791043200000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Special, Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/Fallback_LTV_Fox_Sports_503/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "PGA Tour Golf Mini",
@@ -150,14 +161,14 @@
     },
     {
       "programTitle": "LPGA Tour Golf",
-      "episodeTitle": "LOTTE Championship, Third Round",
+      "episodeTitle": "LOTTE Championship, Second Round",
       "description": "From Hoakalei Country Club in Ewa Beach, Hawaii.",
       "scheduledDate": 1791050400000,
-      "duration": 120,
+      "duration": 90,
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Golf",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-10-03_EP031583890319_113324436628_2023-03-02T21:35:48Z_p24166832_b_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-10-03_EP031583890318_113380795412_2023-03-02T21:35:49Z_p24166823_b_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     }
   ]
 }
