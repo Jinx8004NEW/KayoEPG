@@ -2,8 +2,8 @@
   "channel": "ES2",
   "date": "2026-10-03",
   "source": "kayo",
-  "fetchedAt": 1790800595618,
-  "fetchedAtIST": "1/10/2026, 2:06:35 am",
+  "fetchedAt": 1790829435198,
+  "fetchedAtIST": "1/10/2026, 10:07:15 am",
   "events": [
     {
       "programTitle": "First Take",
@@ -70,6 +70,116 @@
       "programType": "Sports non-event",
       "genre": "Basketball",
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-10-02_SH052116940000_112715953890_2023-09-09T09:43:12Z_p24985197_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "WNBA Basketball",
+      "episodeTitle": "",
+      "description": "All the basketball action from the WNBA.",
+      "scheduledDate": 1790985600000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Basketball",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-10-03_SH033268230000_113325605251_2026-04-23T14:55:08Z_p191289_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "College Football Scoreboard",
+      "episodeTitle": "",
+      "description": "Highlights and up to the minute scores during the college football season, with a look at the major storylines in the competition.",
+      "scheduledDate": 1790992800000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-10-03_SH033268260000_112437273027_2019-12-21T18:40:07Z_p629287_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "College Football",
+      "episodeTitle": "Idaho vs Montana State",
+      "description": "American college football action.",
+      "scheduledDate": 1790994600000,
+      "duration": 180,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-10-03_EP064738030685_113313461077_2026-06-19T22:25:36Z_GNLZZGG0036LT0L/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "SportsCenter",
+      "episodeTitle": "",
+      "description": "The team deliver the latest news, highlights, and inside information from the wide world of sports, as well as trending topics across social media platforms.",
+      "scheduledDate": 1791005400000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "News, Sports talk",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-10-03_SH033259060000_109832503473_2018-04-18T10:39:00Z_p186674_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "WNBA Basketball",
+      "episodeTitle": "",
+      "description": "All the basketball action from the WNBA.",
+      "scheduledDate": 1791009000000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Basketball",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-10-03_SH033268230000_113325605251_2026-04-23T14:55:08Z_p191289_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "ESPN FC",
+      "episodeTitle": "",
+      "description": "ESPN FC brings you a round-up of the latest news from the world of football, including in-depth analysis and exclusive interviews.",
+      "scheduledDate": 1791016200000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Series",
+      "genre": "Soccer, Sports talk",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-10-03_SH033236780000_109573421566_2026-05-25T06:15:30Z_p10106369_i_h11_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "College Football",
+      "episodeTitle": "Virginia Tech vs Pittsburgh",
+      "description": "From Lane Stadium in Blacksburg, Va.",
+      "scheduledDate": 1791018000000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-10-03_EP064738030599_113313461095_2026-06-19T16:27:21Z_GNLZZGG0036K9CK/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "College Football",
+      "episodeTitle": "Idaho vs Montana State",
+      "description": "American college football action.",
+      "scheduledDate": 1791025200000,
+      "duration": 300,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-10-03_EP064738030685_113313461077_2026-06-19T22:25:36Z_GNLZZGG0036LT0L/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Return of the Clowns",
+      "episodeTitle": "",
+      "description": "The Sunday morning sports magazine show featuring the biggest names and the best stories in sports.",
+      "scheduledDate": 1791043200000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Special, Baseball",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-10-03_SH064874550000_113050093864_2026-06-22T18:45:15Z_p33394009_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "My Most Memorable Game",
+      "episodeTitle": "John Smoltz",
+      "description": "Bob Costas and Tom Verducci sit down with John Smoltz to discuss his most memorable game.",
+      "scheduledDate": 1791046800000,
+      "duration": 180,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Baseball",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-10-03_SH038385110000_113315602711_2018-02-03T10:01:00Z_p10436473_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     }
   ]
 }

@@ -1,0 +1,31 @@
+{
+  "channel": "FSP",
+  "date": "2026-10-04",
+  "source": "kayo",
+  "fetchedAt": 1790829435175,
+  "fetchedAtIST": "1/10/2026, 10:07:15 am",
+  "events": [
+    {
+      "programTitle": "MotoGP Racing",
+      "episodeTitle": "Motul Grand Prix of Japan, Sprint Race",
+      "description": "From Mobility Resort Motegi in Totigi, Japan.",
+      "scheduledDate": 1791052200000,
+      "duration": 90,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Motorcycle racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-10-03_EP028104881578_113331569089_2026-09-30T11:23:43Z_GNLZZGG003R5XP8/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "To Be Announced",
+      "episodeTitle": "",
+      "description": "The programming for this time slot has yet to be determined and is being confirmed by the broadcast channel.",
+      "scheduledDate": 1791057600000,
+      "duration": 240,
+      "parentalRating": "",
+      "programType": "TBA",
+      "genre": "Special, Entertainment",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-10-03_SH027575020000_112769671032_2021-11-15T14:36:19Z_p514472_b_h8_dp/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    }
+  ]
+}

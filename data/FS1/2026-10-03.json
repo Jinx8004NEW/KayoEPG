@@ -2,8 +2,8 @@
   "channel": "FS1",
   "date": "2026-10-03",
   "source": "kayo",
-  "fetchedAt": 1790800595584,
-  "fetchedAtIST": "1/10/2026, 2:06:35 am",
+  "fetchedAt": 1790829435144,
+  "fetchedAtIST": "1/10/2026, 10:07:15 am",
   "events": [
     {
       "programTitle": "Test Cricket",
@@ -81,6 +81,138 @@
       "programType": "Sports event",
       "genre": "Cricket",
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-10-02_SH060999970000_113050094149_2025-10-12T01:41:23Z_p31355033_st_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "One-Day International Cricket",
+      "episodeTitle": "Mini Match: South Africa vs Australia, 3rd ODI",
+      "description": "Coverage of one-day cricket matches contested by international teams.",
+      "scheduledDate": 1790988600000,
+      "duration": 20,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Cricket, Classic sport event",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-10-03_SH034583010000_110095246552_2026-03-24T13:16:18Z_p8509066_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Ashes Classics",
+      "episodeTitle": "2006/07: Australia vs England, 4th Test",
+      "description": "Revisits archive footage of previous England-Australia cricket battles.",
+      "scheduledDate": 1790989800000,
+      "duration": 31,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Cricket",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-10-03_SH064479260000_113048372172_2019-07-11T06:20:10Z_p14752161_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Canada Super 60 Cricket League",
+      "episodeTitle": "Montreal Royal Tigers v Whiterock Warriors",
+      "description": "From BC Place Stadium in Vancouver, British Columbia.",
+      "scheduledDate": 1790991660000,
+      "duration": 114,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Cricket",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-10-03_SH060999970000_113050094149_2025-10-12T01:41:23Z_p31355033_st_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Test Cricket",
+      "episodeTitle": "Australia vs India, 4th Test",
+      "description": "Coverage and highlights from international test cricket matches.",
+      "scheduledDate": 1790998500000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Cricket, Classic sport event",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-10-03_SH033446590000_98978823590_2023-09-29T14:53:53Z_p8163404_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Test Cricket",
+      "episodeTitle": "Australia vs India, 5th Test",
+      "description": "Coverage and highlights from international test cricket matches.",
+      "scheduledDate": 1791002100000,
+      "duration": 66,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Cricket, Classic sport event",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-10-03_SH033446590000_98978823590_2023-09-29T14:53:53Z_p8163404_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Canada Super 60 Cricket League",
+      "episodeTitle": "Brampton Blitz v Mississauga Masters",
+      "description": "From BC Place Stadium in Vancouver, British Columbia.",
+      "scheduledDate": 1791006060000,
+      "duration": 119,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Cricket",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-10-03_SH060999970000_113050094149_2025-10-12T01:41:23Z_p31355033_st_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "One-Day International Cricket",
+      "episodeTitle": "India vs West Indies",
+      "description": "From Greenfield International Stadium in Thiruvananthapuram, Kerala, India.",
+      "scheduledDate": 1791013200000,
+      "duration": 20,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Cricket",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-10-03_EP029804690362_113100742468_2026-08-26T19:51:47Z_GNLZZGG003JGQTB/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "One-Day International Cricket",
+      "episodeTitle": "Mini Match: India vs West Indies, 2nd ODI",
+      "description": "Coverage of one-day cricket matches contested by international teams.",
+      "scheduledDate": 1791014400000,
+      "duration": 20,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Cricket, Classic sport event",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-10-03_SH034583010000_110095246552_2026-03-24T13:16:18Z_p8509066_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "One-Day International Cricket",
+      "episodeTitle": "India vs West Indies",
+      "description": "From Maharaja Yadavindra Singh International Cricket Stadium in India.",
+      "scheduledDate": 1791015600000,
+      "duration": 480,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Cricket",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-10-03_EP029804690369_113229443706_2026-09-13T16:42:59Z_GNLZZGG003NE4L6/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "One-Day International Cricket",
+      "episodeTitle": "India vs West Indies",
+      "description": "From Maharaja Yadavindra Singh International Cricket Stadium in India.",
+      "scheduledDate": 1791044400000,
+      "duration": 10,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Cricket",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-10-03_EP029804690369_113229443706_2026-09-13T16:42:59Z_GNLZZGG003NE4L6/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "One-Day International Cricket",
+      "episodeTitle": "1st ODI: South Africa v Australia",
+      "description": "Key players have arrived to join the team as the major South Africa tour starts in Durban.",
+      "scheduledDate": 1791045000000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Cricket, Classic sport event",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-10-03_SH034583010000_110095246552_2026-03-24T13:16:18Z_p8509066_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "One-Day International Cricket",
+      "episodeTitle": "South Africa vs Australia",
+      "description": "From Wanderers Stadium in Johannesburg.",
+      "scheduledDate": 1791048600000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Cricket",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-10-03_EP029804690373_113010788765_2026-09-17T19:51:01Z_GNLZZGG003PGDS1/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     }
   ]
 }

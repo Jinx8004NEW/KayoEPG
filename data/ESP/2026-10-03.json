@@ -2,8 +2,8 @@
   "channel": "ESP",
   "date": "2026-10-03",
   "source": "kayo",
-  "fetchedAt": 1790800595613,
-  "fetchedAtIST": "1/10/2026, 2:06:35 am",
+  "fetchedAt": 1790829435194,
+  "fetchedAtIST": "1/10/2026, 10:07:15 am",
   "events": [
     {
       "programTitle": "NBA Today",
@@ -81,6 +81,138 @@
       "programType": "Sports non-event",
       "genre": "Family, Football, News, Newsmagazine",
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-10-02_SH060667300000_113343285724_2022-09-12T05:46:51Z_p22911383_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Equestrianism",
+      "episodeTitle": "Spruce Meadows",
+      "description": "Features highlights and action from global equestrian events.",
+      "scheduledDate": 1790985600000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Classic sport event, Equestrian",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-10-03_SH033378090000_113203830539_2026-02-23T05:36:25Z_p8199266_i_h10_ap/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "ONE Fight Night 48: Erdogan vs. Elliott",
+      "episodeTitle": "",
+      "description": "From Lumpinee Boxing Stadium in Bangkok.",
+      "scheduledDate": 1790989200000,
+      "duration": 240,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Mixed martial arts, Martial arts",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-10-03_SH066340390000_113334857253_2026-09-28T21:44:46Z_p34081941_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "UEFA Women's Champions League Highlights",
+      "episodeTitle": "",
+      "description": "Highlights from the UEFA Champions League matches, the premier women's club football tournament in Europe.",
+      "scheduledDate": 1791003600000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Soccer",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-10-03_SH061600770000_112350961060_2025-10-10T22:14:22Z_p31371704_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "",
+      "episodeTitle": "Imperfect: The Roy Halladay Story",
+      "description": "On the 10th anniversary of his perfect game, and more than two years after his tragic death, Halladay's family speaks for the first time on camera about his struggles with addiction and mental health, and the details of his fatal plane crash.",
+      "scheduledDate": 1791005400000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Newsmagazine",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-10-03_SH033308270000_79811912898_2019-10-17T14:20:31Z_p229472_i_h10_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NFL Blitz",
+      "episodeTitle": "",
+      "description": "All of the best action from the National Football League.",
+      "scheduledDate": 1791009000000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Family, Football, News, Newsmagazine",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-10-03_SH060667300000_113343285724_2022-09-12T05:46:51Z_p22911383_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Nothing But Net",
+      "episodeTitle": "Weekend Edition",
+      "description": "Kane Pitman and Ryan Broekhoff preview the upcoming NBA and NBL action through their Aussie lens, with guest interviews, highlights and breaking news.",
+      "scheduledDate": 1791010800000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Basketball",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-10-03_SH047654740000_108130071776_2023-06-02T12:16:33Z_p24869175_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NBL",
+      "episodeTitle": "Brisbane Bullets vs Tasmania JackJumpers",
+      "description": "From Brisbane Entertainment Centre in Boondall, Queensland, Australia.",
+      "scheduledDate": 1791012600000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Basketball",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-10-03_EP029269501393_113203830512_2026-09-12T22:42:55Z_GNLZZGG003NYK98/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NBL",
+      "episodeTitle": "Melbourne United vs Cairns Taipans",
+      "description": "From John Cain Arena in Melbourne, Victoria, Australia.",
+      "scheduledDate": 1791019800000,
+      "duration": 150,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Basketball",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-10-03_EP029269501394_113203830553_2026-09-12T22:43:04Z_GNLZZGG003NYKCN/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NFL Films Presents",
+      "episodeTitle": "Portal Games With Cal Berkeley",
+      "description": "A unique perspective on the heroes and personalities of the NFL and how they influenced the history of the sport.",
+      "scheduledDate": 1791028800000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Football, Documentary",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-10-03_SH033308300000_113271413287_2026-09-18T18:36:12Z_p448767_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NFL Matchup",
+      "episodeTitle": "",
+      "description": "Get the latest news, info, analysis and straight talk from around all the action of the National Football League.",
+      "scheduledDate": 1791030600000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-10-03_SH033308410000_113203830588_2022-08-28T09:45:48Z_p816920_i_h10_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "College GameDay",
+      "episodeTitle": "",
+      "description": "Rece Davis, Lee Corso, Kirk Herbstreit, and Desmond Howard provide their take on US football, complete with reports and unique analysis.",
+      "scheduledDate": 1791032400000,
+      "duration": 180,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-10-03_SH033268870000_113203830513_2024-11-04T17:34:02Z_p629309_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "College Football",
+      "episodeTitle": "Mississippi State vs Alabama",
+      "description": "From Davis Wade Stadium in Starkville, Miss.",
+      "scheduledDate": 1791043200000,
+      "duration": 180,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-10-03_EP064738030609_113334825582_2026-06-19T16:28:41Z_GNLZZGG0036K3M4/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     }
   ]
 }

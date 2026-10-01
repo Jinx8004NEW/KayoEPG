@@ -2,8 +2,8 @@
   "channel": "RTV",
   "date": "2026-10-03",
   "source": "kayo",
-  "fetchedAt": 1790800595621,
-  "fetchedAtIST": "1/10/2026, 2:06:35 am",
+  "fetchedAt": 1790829435204,
+  "fetchedAtIST": "1/10/2026, 10:07:15 am",
   "events": [
     {
       "programTitle": "The Analyser",
@@ -11,7 +11,7 @@
       "description": "Ben Asgari previews and examines the day's racing, featuring speed maps and replays for every race on the card.",
       "scheduledDate": 1790965800000,
       "duration": 30,
-      "parentalRating": "NC",
+      "parentalRating": "",
       "programType": "Series",
       "genre": "Sports talk",
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/148460_2026-10-02_SH032528360000_103465362616_2019-10-09T21:40:24Z_p17053183_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
@@ -22,7 +22,7 @@
       "description": "Host Matt Hill and a panel of experts discuss the fixed betting markets and share their picks for upcoming race meetings.",
       "scheduledDate": 1790967600000,
       "duration": 60,
-      "parentalRating": "NC",
+      "parentalRating": "",
       "programType": "Sports non-event",
       "genre": "Sports talk, Horse racing",
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/148460_2026-10-02_SH029304330000_110220103349_2026-02-03T05:26:52Z_p15316392_i_h10_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
@@ -92,6 +92,182 @@
       "programType": "Series",
       "genre": "Horse racing",
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/Fallback_LTV_Racing_TV/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Get On Now",
+      "episodeTitle": "",
+      "description": "Join Matt Nevett, Dave Strehlau and Nick Foot every Saturday morning for the most up-to-date information, analysis and tips ahead of race-day.",
+      "scheduledDate": 1790988600000,
+      "duration": 10,
+      "parentalRating": "",
+      "programType": "Series",
+      "genre": "Horse racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/Fallback_LTV_Racing_TV/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Before the First",
+      "episodeTitle": "",
+      "description": "Brent Zerafa and a team of expert analysts preview upcoming Victorian racing action, shedding light on the key runners.",
+      "scheduledDate": 1790989200000,
+      "duration": 50,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Sports talk, Horse racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/148460_2026-10-03_SH029304390000_110350821972_2019-02-14T10:20:38Z_p15316398_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Racing Live",
+      "episodeTitle": "",
+      "description": "Features comprehensive coverage of some of the top horse racing events taking place in Australia and Hong Kong.",
+      "scheduledDate": 1790992200000,
+      "duration": 370,
+      "parentalRating": "",
+      "programType": "Series",
+      "genre": "Horse racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/148460_2026-10-03_SH029317280000_112642301077_2019-10-09T21:00:41Z_p15322312_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Racing Live",
+      "episodeTitle": "",
+      "description": "Features comprehensive coverage of some of the top horse racing events taking place in Australia and Hong Kong.",
+      "scheduledDate": 1791014400000,
+      "duration": 90,
+      "parentalRating": "",
+      "programType": "Series",
+      "genre": "Horse racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/148460_2026-10-03_SH029317280000_112642301077_2019-10-09T21:00:41Z_p15322312_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Raceday Mini",
+      "episodeTitle": "",
+      "description": "",
+      "scheduledDate": 1791019800000,
+      "duration": 15,
+      "parentalRating": "",
+      "programType": "Series",
+      "genre": "Horse racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/Fallback_LTV_Racing_TV/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "The Triple Trio",
+      "episodeTitle": "",
+      "description": "A panel of experts present a frank and fearless discussion of Hong Kong horse racing, covering the top meets and speaking with jockeys.",
+      "scheduledDate": 1791020700000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Other",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/148460_2026-10-03_SH047643540000_99514215733_2023-06-01T05:16:14Z_p24858187_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Raceday Mini",
+      "episodeTitle": "",
+      "description": "",
+      "scheduledDate": 1791024300000,
+      "duration": 15,
+      "parentalRating": "",
+      "programType": "Series",
+      "genre": "Horse racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/Fallback_LTV_Racing_TV/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Raceday Review",
+      "episodeTitle": "",
+      "description": "A look back at the action from events on the Australian horse racing calendar with analytics and in-depth reviews from the track.",
+      "scheduledDate": 1791025200000,
+      "duration": 45,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Horse racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/148460_2026-10-03_SH029304380000_107969744569_2019-10-09T23:20:18Z_p15316396_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Raceday Mini",
+      "episodeTitle": "",
+      "description": "",
+      "scheduledDate": 1791027900000,
+      "duration": 15,
+      "parentalRating": "",
+      "programType": "Series",
+      "genre": "Horse racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/Fallback_LTV_Racing_TV/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Racenight Live",
+      "episodeTitle": "",
+      "description": "Coverage of horse racing events held throughout Australia and in Hong Kong, as well as analytics and in-depth reviews from the track.",
+      "scheduledDate": 1791028800000,
+      "duration": 180,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Horse racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/148460_2026-10-03_SH029437720000_107971181386_2019-10-09T21:40:26Z_p15391316_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Raceday Review",
+      "episodeTitle": "",
+      "description": "A look back at the action from events on the Australian horse racing calendar with analytics and in-depth reviews from the track.",
+      "scheduledDate": 1791039600000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Horse racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/148460_2026-10-03_SH029304380000_107969744569_2019-10-09T23:20:18Z_p15316396_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Raceday Review",
+      "episodeTitle": "",
+      "description": "A look back at the action from events on the Australian horse racing calendar with analytics and in-depth reviews from the track.",
+      "scheduledDate": 1791041400000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Horse racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/148460_2026-10-03_SH029304380000_107969744569_2019-10-09T23:20:18Z_p15316396_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Raceday Review",
+      "episodeTitle": "",
+      "description": "A look back at the action from events on the Australian horse racing calendar with analytics and in-depth reviews from the track.",
+      "scheduledDate": 1791043200000,
+      "duration": 45,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Horse racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/148460_2026-10-03_SH029304380000_107969744569_2019-10-09T23:20:18Z_p15316396_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Raceday Review",
+      "episodeTitle": "",
+      "description": "A look back at the action from events on the Australian horse racing calendar with analytics and in-depth reviews from the track.",
+      "scheduledDate": 1791045900000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Horse racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/148460_2026-10-03_SH029304380000_107969744569_2019-10-09T23:20:18Z_p15316396_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Raceday Review",
+      "episodeTitle": "",
+      "description": "A look back at the action from events on the Australian horse racing calendar with analytics and in-depth reviews from the track.",
+      "scheduledDate": 1791047700000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Horse racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/148460_2026-10-03_SH029304380000_107969744569_2019-10-09T23:20:18Z_p15316396_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "The Triple Trio",
+      "episodeTitle": "",
+      "description": "A panel of experts present a frank and fearless discussion of Hong Kong horse racing, covering the top meets and speaking with jockeys.",
+      "scheduledDate": 1791049500000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Other",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/148460_2026-10-03_SH047643540000_99514215733_2023-06-01T05:16:14Z_p24858187_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     }
   ]
 }

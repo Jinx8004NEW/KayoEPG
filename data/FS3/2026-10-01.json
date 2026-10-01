@@ -2,8 +2,8 @@
   "channel": "FS3",
   "date": "2026-10-01",
   "source": "kayo",
-  "fetchedAt": 1790800595589,
-  "fetchedAtIST": "1/10/2026, 2:06:35 am",
+  "fetchedAt": 1790829435158,
+  "fetchedAtIST": "1/10/2026, 10:07:15 am",
   "events": [
     {
       "programTitle": "LPGA Tour Golf",
@@ -160,11 +160,22 @@
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-10-01_SH034181860000_111796196447_2022-01-21T12:57:01Z_p17650562_i_h8_al/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
+      "programTitle": "European PGA Tour Highlights",
+      "episodeTitle": "Fedex Open De France",
+      "description": "All the action and highlights from European Tour golf.",
+      "scheduledDate": 1790861400000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-10-01_SH037026900000_112448059278_2022-09-05T13:56:59Z_p9656797_i_h10_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
       "programTitle": "PGA Tour Golf",
       "episodeTitle": "Bank of Utah Championship, First Round",
       "description": "From Black Desert Golf Course in Ivins, Utah.",
-      "scheduledDate": 1790861400000,
-      "duration": 450,
+      "scheduledDate": 1790863200000,
+      "duration": 420,
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Golf",

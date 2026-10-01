@@ -2,8 +2,8 @@
   "channel": "FS3",
   "date": "2026-10-02",
   "source": "kayo",
-  "fetchedAt": 1790800595590,
-  "fetchedAtIST": "1/10/2026, 2:06:35 am",
+  "fetchedAt": 1790829435159,
+  "fetchedAtIST": "1/10/2026, 10:07:15 am",
   "events": [
     {
       "programTitle": "PGA Tour Golf",
@@ -127,11 +127,22 @@
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-10-02_EP031583890317_113055782804_2023-03-02T21:35:47Z_p24166803_b_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
+      "programTitle": "Getting a Round In",
+      "episodeTitle": "",
+      "description": "Australian professional golfer, Paul Gow hosts celebrities as his playing partners who share his love for the game of golf.",
+      "scheduledDate": 1790947800000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Series",
+      "genre": "Golf, Interview",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-10-02_SH048121120000_110998856207_2023-07-18T05:56:16Z_p25221374_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
       "programTitle": "PGA Tour Golf",
       "episodeTitle": "Bank of Utah Championship, Second Round",
       "description": "From Black Desert Golf Course in Ivins, Utah.",
-      "scheduledDate": 1790947800000,
-      "duration": 450,
+      "scheduledDate": 1790949600000,
+      "duration": 420,
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Golf",

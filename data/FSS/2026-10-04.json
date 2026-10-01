@@ -1,0 +1,53 @@
+{
+  "channel": "FSS",
+  "date": "2026-10-04",
+  "source": "kayo",
+  "fetchedAt": 1790829435189,
+  "fetchedAtIST": "1/10/2026, 10:07:15 am",
+  "events": [
+    {
+      "programTitle": "UFC Countdown",
+      "episodeTitle": "UFC 332 Countdown: Silva vs. Wang",
+      "description": "Coverage of UFC training, including exclusive interviews, expert analysis and a look at the intense preparation of each fighter.",
+      "scheduledDate": 1791057600000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Mixed martial arts, Documentary",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-10-03_SH030408650000_112647340619_2026-01-22T17:35:05Z_p308818_i_h8_ae/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Fight Week",
+      "episodeTitle": "UFC 332",
+      "description": "Fox Sports reporters take a look at the UFC results, previews, and news from the previous UFC Fight Week.",
+      "scheduledDate": 1791061200000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Series",
+      "genre": "Sports talk, Mixed martial arts, Boxing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-10-03_SH028549290000_94258305657_2024-01-18T22:33:02Z_p14982509_i_h10_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Darts",
+      "episodeTitle": "PDC ANZ Premier League: Week 2",
+      "description": "Covering of all the action from darts events around the world.",
+      "scheduledDate": 1791063000000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Darts",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-10-03_SH032967320000_109954612423_2024-10-04T13:14:55Z_p644283_i_h8_ah/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "DP World Tour Golf",
+      "episodeTitle": "Alfred Dunhill Links Championship, Third Round",
+      "description": "From The Old Course at St. Andrews in Fife, Scotland.",
+      "scheduledDate": 1791070200000,
+      "duration": 90,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-10-03_EP040914080716_113334185405_2026-09-30T13:22:04Z_GNLZZGG003R5EE4/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    }
+  ]
+}
