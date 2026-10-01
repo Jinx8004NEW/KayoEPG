@@ -1,16 +1,25 @@
 {
   "channel": "4KF1",
-  "date": "2026-09-26",
+  "date": "2026-10-02",
   "source": "kayo-4k",
-  "fetchedAt": 1790438229001,
-  "fetchedAtIST": "26/9/2026, 9:27:09 pm",
+  "fetchedAt": 1790887874005,
+  "fetchedAtIST": "2/10/2026, 2:21:14 am",
   "events": [
     {
-      "eventId": "1gm6vg7zwvz0f190qx5ocrbydf",
-      "programTitle": "F1 Azerbaijan Race",
-      "scheduledDate": 1790420400000,
-      "duration": 193,
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/84sqkg7k2595418rlrvdqr5sz_image-header_pRow_1789520230000/fill/none/top/none/80/1920/1080/webp/image?brand=kayo",
+      "eventId": "ealsgvz2dkid15krbukbmwrxe",
+      "programTitle": "F1 Bahrain Practice 1",
+      "scheduledDate": 1790913600000,
+      "duration": 120,
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/euyzp87qjf0dyecv1d486oaiy_image-header_pRow_1790143624000/fill/none/top/none/80/1920/1080/webp/image?brand=kayo",
+      "competitionTitle": "Formula 1",
+      "sport": "Motorsport"
+    },
+    {
+      "eventId": "g4njvszovuv91hml9mtplbsdk",
+      "programTitle": "F1 Bahrain Practice 2",
+      "scheduledDate": 1790927100000,
+      "duration": 120,
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/d7iddhqj78ngxddrpgq1mxc9k_image-header_pRow_1790143672000/fill/none/top/none/80/1920/1080/webp/image?brand=kayo",
       "competitionTitle": "Formula 1",
       "sport": "Motorsport"
     }
