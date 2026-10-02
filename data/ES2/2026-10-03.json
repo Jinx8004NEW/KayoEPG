@@ -2,8 +2,8 @@
   "channel": "ES2",
   "date": "2026-10-03",
   "source": "kayo",
-  "fetchedAt": 1790951441150,
-  "fetchedAtIST": "2/10/2026, 8:00:41 pm",
+  "fetchedAt": 1790972652285,
+  "fetchedAtIST": "3/10/2026, 1:54:12 am",
   "events": [
     {
       "programTitle": "First Take",
@@ -50,15 +50,15 @@
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-10-02_SH032424080000_108239731292_2021-04-08T22:26:28Z_p186288_i_h8_ae/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "E",
+      "programTitle": "The Breakdown With Peyton and Kuechly",
       "episodeTitle": "",
       "description": "",
       "scheduledDate": 1790982000000,
       "duration": 30,
       "parentalRating": "",
-      "programType": "",
-      "genre": "",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/Fallback_LTV_ESPN2/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "programType": "Sports non-event",
+      "genre": "Football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-10-02_SH066422700000_113438279266_2026-09-24T21:55:05Z_p34154641_i_h10_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "Bad Beats",
@@ -94,15 +94,15 @@
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-10-03_SH052116940000_112715953890_2023-09-09T09:43:12Z_p24985197_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "E",
-      "episodeTitle": "",
-      "description": "",
+      "programTitle": "WNBA Basketball",
+      "episodeTitle": "Dallas Wings at Golden State Valkyries",
+      "description": "From Chase Center in San Francisco.",
       "scheduledDate": 1790989200000,
       "duration": 120,
       "parentalRating": "",
-      "programType": "",
-      "genre": "",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/Fallback_LTV_ESPN2/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "programType": "Sports event",
+      "genre": "Playoff sports, Basketball",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-10-03_EP033268231143_113428305512_2026-09-25T16:49:37Z_GNLZZGG003PQMDH/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "College Football Scoreboard",
@@ -149,15 +149,15 @@
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-10-03_SH033259060000_109832503473_2018-04-18T10:39:00Z_p186674_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "E",
-      "episodeTitle": "",
-      "description": "",
+      "programTitle": "WNBA Basketball",
+      "episodeTitle": "Dallas Wings at Golden State Valkyries",
+      "description": "From Chase Center in San Francisco.",
       "scheduledDate": 1791009000000,
       "duration": 120,
       "parentalRating": "",
-      "programType": "",
-      "genre": "",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/Fallback_LTV_ESPN2/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "programType": "Sports event",
+      "genre": "Playoff sports, Basketball",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-10-03_EP033268231143_113428305512_2026-09-25T16:49:37Z_GNLZZGG003PQMDH/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "ESPN FC",

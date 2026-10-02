@@ -2,8 +2,8 @@
   "channel": "SP2",
   "date": "2026-10-04",
   "source": "kayo",
-  "fetchedAt": 1790951441109,
-  "fetchedAtIST": "2/10/2026, 8:00:41 pm",
+  "fetchedAt": 1790972652031,
+  "fetchedAtIST": "3/10/2026, 1:54:12 am",
   "events": [
     {
       "programTitle": "To Be Announced",
@@ -39,15 +39,15 @@
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-10-03_SH034822800000_100794011205_2020-04-08T22:50:08Z_p18168517_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "F",
-      "episodeTitle": "",
-      "description": "",
+      "programTitle": "NRL Classic Match",
+      "episodeTitle": "2026 Round 21: Sydney Roosters v Newcastle Knights",
+      "description": "Re-live some of the best rugby league clashes from the Premiership's past.",
       "scheduledDate": 1791061800000,
       "duration": 20,
       "parentalRating": "",
-      "programType": "",
-      "genre": "",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/Fallback_LTV_Fox_League/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "programType": "Sports event",
+      "genre": "Rugby, Classic sport event, Rugby league",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-10-03_SH034822800000_100794011205_2020-04-08T22:50:08Z_p18168517_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "NRLW on Fox",
@@ -256,7 +256,7 @@
       "parentalRating": "",
       "programType": "Sports non-event",
       "genre": "Rugby league, Rugby",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/Fallback_LTV_Fox_League/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-10-04_SH042238410000_109229287001_2022-03-07T01:46:13Z_p21759648_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "NRL Mini",
@@ -300,7 +300,7 @@
       "parentalRating": "",
       "programType": "Sports non-event",
       "genre": "Rugby league, Rugby",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/Fallback_LTV_Fox_League/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-10-04_SH042238410000_109229287001_2022-03-07T01:46:13Z_p21759648_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "NRL Mini",

@@ -1,152 +1,174 @@
 {
   "channel": "FS3",
-  "date": "2026-10-02",
+  "date": "2026-10-03",
   "source": "kayo",
-  "fetchedAt": 1790951441113,
-  "fetchedAtIST": "2/10/2026, 8:00:41 pm",
+  "fetchedAt": 1790972652093,
+  "fetchedAtIST": "3/10/2026, 1:54:12 am",
   "events": [
     {
       "programTitle": "PGA Tour Golf",
-      "episodeTitle": "Bank of Utah Championship, First Round",
+      "episodeTitle": "Bank of Utah Championship, Second Round",
       "description": "From Black Desert Golf Course in Ivins, Utah.",
-      "scheduledDate": 1790888400000,
+      "scheduledDate": 1790974800000,
       "duration": 180,
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Golf",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-10-01_EP030899371271_113055782658_2025-10-03T21:24:20Z_p29056273_b_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-10-02_EP030899371272_113055783133_2025-09-22T17:24:28Z_p29056290_b_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "LPGA Tour Golf",
-      "episodeTitle": "Lotte Championship, First Round",
+      "episodeTitle": "Lotte Championship, Second Round",
       "description": "From Hoakalei Country Club in Ewa Beach, Hawaii.",
-      "scheduledDate": 1790899200000,
+      "scheduledDate": 1790985600000,
       "duration": 180,
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Golf",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-10-02_EP031583890514_113055782806_2024-09-24T15:13:58Z_p28360018_b_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
-    {
-      "programTitle": "Getting a Round In",
-      "episodeTitle": "",
-      "description": "Australian professional golfer, Paul Gow hosts celebrities as his playing partners who share his love for the game of golf.",
-      "scheduledDate": 1790910000000,
-      "duration": 30,
-      "parentalRating": "",
-      "programType": "Series",
-      "genre": "Golf, Interview",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-10-02_SH048121120000_110998856207_2023-07-18T05:56:16Z_p25221374_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
-    {
-      "programTitle": "PGA Tour Golf",
-      "episodeTitle": "Bank of Utah Championship, First Round",
-      "description": "From Black Desert Golf Course in Ivins, Utah.",
-      "scheduledDate": 1790911800000,
-      "duration": 90,
-      "parentalRating": "",
-      "programType": "Sports event",
-      "genre": "Golf",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-10-02_EP030899371271_113055782658_2025-10-03T21:24:20Z_p29056273_b_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
-    {
-      "programTitle": "DP World Tour Golf",
-      "episodeTitle": "Alfred Dunhill Links Championship, First Round",
-      "description": "From The Old Course at St. Andrews in Fife, Scotland.",
-      "scheduledDate": 1790917200000,
-      "duration": 90,
-      "parentalRating": "",
-      "programType": "Sports event",
-      "genre": "Golf",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-10-02_EP040914080714_113277843716_2026-09-29T15:24:00Z_GNLZZGG003R3BCP/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
-    {
-      "programTitle": "LPGA Tour Golf",
-      "episodeTitle": "LOTTE Championship, First Round",
-      "description": "From Hoakalei Country Club in Ewa Beach, Hawaii.",
-      "scheduledDate": 1790922600000,
-      "duration": 90,
-      "parentalRating": "",
-      "programType": "Sports event",
-      "genre": "Golf",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-10-02_EP031583890317_113055782804_2023-03-02T21:35:47Z_p24166803_b_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
-    {
-      "programTitle": "Getting a Round In",
-      "episodeTitle": "",
-      "description": "Australian professional golfer, Paul Gow hosts celebrities as his playing partners who share his love for the game of golf.",
-      "scheduledDate": 1790928000000,
-      "duration": 30,
-      "parentalRating": "",
-      "programType": "Series",
-      "genre": "Golf, Interview",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-10-02_SH048121120000_110998856207_2023-07-18T05:56:16Z_p25221374_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
-    {
-      "programTitle": "How Good is Golf",
-      "episodeTitle": "Royal Hobart Golf Club",
-      "description": "Paul Gow talks everything golf, taking people through the greatest game of all, showing them how to play, where to play and what equipment to use.",
-      "scheduledDate": 1790929800000,
-      "duration": 30,
-      "parentalRating": "",
-      "programType": "Sports non-event",
-      "genre": "Golf",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-10-02_SH047697570000_112826563949_2026-01-16T17:55:26Z_p24911210_i_h10_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
-    {
-      "programTitle": "DP World Tour Golf",
-      "episodeTitle": "Alfred Dunhill Links Championship, First Round",
-      "description": "From The Old Course at St. Andrews in Fife, Scotland.",
-      "scheduledDate": 1790931600000,
-      "duration": 90,
-      "parentalRating": "",
-      "programType": "Sports event",
-      "genre": "Golf",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-10-02_EP040914080714_113277843716_2026-09-29T15:24:00Z_GNLZZGG003R3BCP/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
-    {
-      "programTitle": "PGA Tour Golf",
-      "episodeTitle": "Bank of Utah Championship, First Round",
-      "description": "From Black Desert Golf Course in Ivins, Utah.",
-      "scheduledDate": 1790937000000,
-      "duration": 90,
-      "parentalRating": "",
-      "programType": "Sports event",
-      "genre": "Golf",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-10-02_EP030899371271_113055782658_2025-10-03T21:24:20Z_p29056273_b_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
-    {
-      "programTitle": "LPGA Tour Golf",
-      "episodeTitle": "LOTTE Championship, First Round",
-      "description": "From Hoakalei Country Club in Ewa Beach, Hawaii.",
-      "scheduledDate": 1790942400000,
-      "duration": 90,
-      "parentalRating": "",
-      "programType": "Sports event",
-      "genre": "Golf",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-10-02_EP031583890317_113055782804_2023-03-02T21:35:47Z_p24166803_b_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
-    {
-      "programTitle": "Getting a Round In",
-      "episodeTitle": "",
-      "description": "Australian professional golfer, Paul Gow hosts celebrities as his playing partners who share his love for the game of golf.",
-      "scheduledDate": 1790947800000,
-      "duration": 30,
-      "parentalRating": "",
-      "programType": "Series",
-      "genre": "Golf, Interview",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-10-02_SH048121120000_110998856207_2023-07-18T05:56:16Z_p25221374_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-10-03_EP031583890515_113324222358_2024-09-24T15:13:48Z_p28362215_b_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "PGA Tour Golf",
       "episodeTitle": "Bank of Utah Championship, Second Round",
       "description": "From Black Desert Golf Course in Ivins, Utah.",
-      "scheduledDate": 1790949600000,
-      "duration": 420,
+      "scheduledDate": 1790996400000,
+      "duration": 90,
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Golf",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-10-02_EP030899371272_113055783133_2025-09-22T17:24:28Z_p29056290_b_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-10-03_EP030899371272_113055783133_2025-09-22T17:24:28Z_p29056290_b_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "DP World Tour Golf",
+      "episodeTitle": "Alfred Dunhill Links Championship, Second Round",
+      "description": "From The Old Course at St. Andrews in Fife, Scotland.",
+      "scheduledDate": 1791001800000,
+      "duration": 90,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-10-03_EP040914080715_113369671271_2026-09-30T11:22:55Z_GNLZZGG003R5XFS/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "LPGA Tour Golf",
+      "episodeTitle": "LOTTE Championship, First Round",
+      "description": "From Hoakalei Country Club in Ewa Beach, Hawaii.",
+      "scheduledDate": 1791007200000,
+      "duration": 90,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-10-03_EP031583890317_113055782804_2023-03-02T21:35:47Z_p24166803_b_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Getting a Round In",
+      "episodeTitle": "",
+      "description": "Australian professional golfer, Paul Gow hosts celebrities as his playing partners who share his love for the game of golf.",
+      "scheduledDate": 1791012600000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Series",
+      "genre": "Golf, Interview",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-10-03_SH048121120000_110998856207_2023-07-18T05:56:16Z_p25221374_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "PGA Tour Golf",
+      "episodeTitle": "Bank of Utah Championship, Second Round",
+      "description": "From Black Desert Golf Course in Ivins, Utah.",
+      "scheduledDate": 1791014400000,
+      "duration": 90,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-10-03_EP030899371272_113055783133_2025-09-22T17:24:28Z_p29056290_b_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "DP World Tour Golf",
+      "episodeTitle": "Alfred Dunhill Links Championship, Second Round",
+      "description": "From The Old Course at St. Andrews in Fife, Scotland.",
+      "scheduledDate": 1791019800000,
+      "duration": 90,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-10-03_EP040914080715_113369671271_2026-09-30T11:22:55Z_GNLZZGG003R5XFS/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "DP World Tour Golf",
+      "episodeTitle": "Alfred Dunhill Links Championship, Third Round",
+      "description": "From The Old Course at St. Andrews in Fife, Scotland.",
+      "scheduledDate": 1791025200000,
+      "duration": 300,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-10-03_EP040914080716_113392462602_2026-10-01T17:22:55Z_GNLZZGG003R9BX5/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Rory McIlroy Melboure Sandbelt",
+      "episodeTitle": "",
+      "description": "",
+      "scheduledDate": 1791043200000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Special, Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/Fallback_LTV_Fox_Sports_503/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "PGA Tour Golf Mini",
+      "episodeTitle": "PGA Championship, Final Round",
+      "description": "A collection of special condensed replays featuring the best highlights and all the key moments from the course.",
+      "scheduledDate": 1791045000000,
+      "duration": 25,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-10-03_SH047874460000_101769826726_2023-06-23T09:17:39Z_p25047305_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Golf",
+      "episodeTitle": "US Open: Final Round",
+      "description": "Watch the final round action of the US Open from Shinnecock Hills Golf Club.",
+      "scheduledDate": 1791046500000,
+      "duration": 15,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-10-03_SH032772030000_106659071362_2025-04-03T19:44:22Z_p706015_i_h8_ad/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "PGA Tour Golf Mini",
+      "episodeTitle": "The Open Championship: Final Round",
+      "description": "Showcases the final round action of The Open Championship from Royal Birkdale Golf Club.",
+      "scheduledDate": 1791047400000,
+      "duration": 20,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-10-03_SH047874460000_101769826726_2023-06-23T09:17:39Z_p25047305_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Getting a Round In",
+      "episodeTitle": "",
+      "description": "Australian professional golfer, Paul Gow hosts celebrities as his playing partners who share his love for the game of golf.",
+      "scheduledDate": 1791048600000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Series",
+      "genre": "Golf, Interview",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-10-03_SH048121120000_110998856207_2023-07-18T05:56:16Z_p25221374_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "LPGA Tour Golf",
+      "episodeTitle": "LOTTE Championship, Second Round",
+      "description": "From Hoakalei Country Club in Ewa Beach, Hawaii.",
+      "scheduledDate": 1791050400000,
+      "duration": 90,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-10-03_EP031583890318_113380795412_2023-03-02T21:35:49Z_p24166823_b_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     }
   ]
 }
