@@ -2,8 +2,8 @@
   "channel": "ESP",
   "date": "2026-10-04",
   "source": "kayo",
-  "fetchedAt": 1790887863284,
-  "fetchedAtIST": "2/10/2026, 2:21:03 am",
+  "fetchedAt": 1790915361595,
+  "fetchedAtIST": "2/10/2026, 9:59:21 am",
   "events": [
     {
       "programTitle": "College Football Scoreboard",
@@ -69,7 +69,139 @@
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Playoff sports, Baseball",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-10-03_EP062580852957_113371668580_2026-10-01T07:44:17Z_GNLZZGG003R80FQ/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-10-03_EP062580852957_113394839973_2026-10-01T07:44:17Z_GNLZZGG003R80FQ/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "In Depth With Graham Bensinger",
+      "episodeTitle": "James Patterson",
+      "description": "James Patterson, the literary icon who has sold more than 400 million books, shares stories from his advertising days.",
+      "scheduledDate": 1791077400000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Series",
+      "genre": "Sports talk, Interview",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-10-04_EP033308670157_113366532054_2025-08-07T15:04:04Z_p30064653_e_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "In Depth With Graham Bensinger",
+      "episodeTitle": "James Cameron",
+      "description": "Renowned journalist Graham Bensinger interviews some of the biggest names in sports, discussing their lives and careers and some controversial topics.",
+      "scheduledDate": 1791079200000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Series",
+      "genre": "Sports talk, Interview",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-10-04_EP033308670159_113366532104_2026-01-23T20:35:22Z_p32128296_e_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "",
+      "episodeTitle": "The Oklahoma Standard",
+      "description": "Explores the powerful bond between Oklahoma City and its NBA franchise, detailing how the Thunder helped a community heal from past tragedy by capturing the NBA championship 30 years later.",
+      "scheduledDate": 1791081000000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Newsmagazine",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-10-04_SH033308270000_79811912898_2019-10-17T14:20:31Z_p229472_i_h10_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Prime 9",
+      "episodeTitle": "Bloopers",
+      "description": "A countdown of the all-time top nine baseball bloopers.",
+      "scheduledDate": 1791084600000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Baseball",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-10-04_SH034894280000_107410377292_2022-06-30T18:06:26Z_p864395_i_h10_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NBL",
+      "episodeTitle": "South East Melbourne Phoenix vs Illawarra Hawks",
+      "description": "From John Cain Arena in Melbourne, Victoria, Australia.",
+      "scheduledDate": 1791086400000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Basketball",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-10-04_EP029269501395_113332292720_2026-09-14T16:58:18Z_GNLZZGG003P034F/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NBL",
+      "episodeTitle": "Adelaide 36ers vs BNZ Breakers",
+      "description": "From Adelaide Entertainment Centre in Hindmarsh, South Australia, Australia.",
+      "scheduledDate": 1791093600000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Basketball",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-10-04_EP029269501396_113333852332_2026-09-14T16:58:44Z_GNLZZGG003P036Z/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "MLB Baseball",
+      "episodeTitle": "",
+      "description": "Coverage of the action from the Major League Baseball.",
+      "scheduledDate": 1791100800000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Baseball",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-10-04_SH062580850000_113336627250_2022-04-14T08:06:14Z_p191273_i_h8_ad/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "MLB Baseball",
+      "episodeTitle": "New York Yankees at Tampa Bay Rays",
+      "description": "From Tropicana Field in St. Petersburg, Fla.",
+      "scheduledDate": 1791108000000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Playoff sports, Baseball",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-10-04_EP062580852957_113394839973_2026-10-01T07:44:17Z_GNLZZGG003R80FQ/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "MLB Baseball",
+      "episodeTitle": "",
+      "description": "Coverage of the action from the Major League Baseball.",
+      "scheduledDate": 1791115200000,
+      "duration": 90,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Baseball",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-10-04_SH062580850000_113336627250_2022-04-14T08:06:14Z_p191273_i_h8_ad/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NFL Football",
+      "episodeTitle": "Indianapolis Colts vs Washington Commanders",
+      "description": "From Tottenham Hotspur Stadium in London.",
+      "scheduledDate": 1791120600000,
+      "duration": 180,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-10-04_EP029371131884_113366386000_2026-07-15T04:38:17Z_GNLZZGG0039KPGS/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NFL Matchup",
+      "episodeTitle": "",
+      "description": "Get the latest news, info, analysis and straight talk from around all the action of the National Football League.",
+      "scheduledDate": 1791131400000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-10-04_SH033308410000_113203830588_2022-08-28T09:45:48Z_p816920_i_h10_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NFL Football",
+      "episodeTitle": "Philadelphia Eagles vs Los Angeles Rams",
+      "description": "From Lincoln Financial Field in Philadelphia.",
+      "scheduledDate": 1791133200000,
+      "duration": 180,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-10-04_EP029371131889_113351237833_2026-07-15T07:26:25Z_GNLZZGG0039LHYD/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     }
   ]
 }

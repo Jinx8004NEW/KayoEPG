@@ -2,8 +2,8 @@
   "channel": "ES2",
   "date": "2026-10-04",
   "source": "kayo",
-  "fetchedAt": 1790887863288,
-  "fetchedAtIST": "2/10/2026, 2:21:03 am",
+  "fetchedAt": 1790915361599,
+  "fetchedAtIST": "2/10/2026, 9:59:21 am",
   "events": [
     {
       "programTitle": "MLB Baseball",
@@ -15,6 +15,116 @@
       "programType": "Sports event",
       "genre": "Baseball",
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-10-03_SH062580850000_113336627250_2022-04-14T08:06:14Z_p191273_i_h8_ad/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "MLB Baseball",
+      "episodeTitle": "",
+      "description": "Coverage of the action from the Major League Baseball.",
+      "scheduledDate": 1791073800000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Baseball",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-10-04_SH062580850000_113336627250_2022-04-14T08:06:14Z_p191273_i_h8_ad/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "MLB Epic Moments",
+      "episodeTitle": "Boston Idiots",
+      "description": "In 2004 the Boston Red Sox were on the verge of getting swept by their bitter rivals, the New York Yankees, in the ALCS. But this self-proclaimed team of idiots refused to believe in the curse and made history.",
+      "scheduledDate": 1791077400000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Series",
+      "genre": "Baseball",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-10-04_EP034893820006_113333852145_2023-08-07T02:43:41Z_p11731089_e_h10_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "MLB Network Presents",
+      "episodeTitle": "The Impossible Dream: Red Sox Nation Begins",
+      "description": "A series of documentaries and profiles on some of baseball's most prominent personalities.",
+      "scheduledDate": 1791079200000,
+      "duration": 90,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Baseball",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-10-04_SH034893870000_113332292756_2025-06-10T05:15:07Z_p11364240_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "College Football",
+      "episodeTitle": "Arizona State vs Baylor",
+      "description": "From Mountain America Stadium in Tempe, Ariz.",
+      "scheduledDate": 1791084600000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-10-04_EP064738030676_113392405743_2026-06-19T22:24:13Z_GNLZZGG0036LMY1/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "MLB Baseball",
+      "episodeTitle": "Chicago White Sox at Cleveland Guardians",
+      "description": "From Progressive Field in Cleveland.",
+      "scheduledDate": 1791091800000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Playoff sports, Baseball",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-10-04_EP062580852956_113395306939_2026-10-01T04:45:23Z_GNLZZGG003R7JET/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "ESPN FC",
+      "episodeTitle": "",
+      "description": "ESPN FC brings you a round-up of the latest news from the world of football, including in-depth analysis and exclusive interviews.",
+      "scheduledDate": 1791099000000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Series",
+      "genre": "Soccer, Sports talk",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-10-04_SH033236780000_109573421566_2026-05-25T06:15:30Z_p10106369_i_h11_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "College Football",
+      "episodeTitle": "Mississippi State vs Alabama",
+      "description": "From Davis Wade Stadium in Starkville, Miss.",
+      "scheduledDate": 1791100800000,
+      "duration": 240,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-10-04_EP064738030609_113386977591_2026-06-19T16:28:41Z_GNLZZGG0036K3M4/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "College Football",
+      "episodeTitle": "Missouri vs Florida",
+      "description": "From Faurot Field in Columbia, Mo.",
+      "scheduledDate": 1791115200000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-10-04_EP064738030683_113388809985_2026-06-19T22:22:33Z_GNLZZGG0036LL2D/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Sunday NFL Countdown",
+      "episodeTitle": "",
+      "description": "Samantha Ponder, with a team of analysts, introduces the features and directs the storylines associated with the day's games.",
+      "scheduledDate": 1791122400000,
+      "duration": 180,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-10-04_SH033308210000_113333852444_2019-09-06T20:20:11Z_p924452_i_h8_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "College Football",
+      "episodeTitle": "North Carolina vs Notre Dame",
+      "description": "From Kenan Stadium in Chapel Hill, N.C.",
+      "scheduledDate": 1791133200000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-10-04_EP064738030612_113341133006_2026-06-19T16:27:33Z_GNLZZGG0036KFKB/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     }
   ]
 }

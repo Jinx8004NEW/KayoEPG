@@ -2,8 +2,8 @@
   "channel": "ESP",
   "date": "2026-10-03",
   "source": "kayo",
-  "fetchedAt": 1790887863283,
-  "fetchedAtIST": "2/10/2026, 2:21:03 am",
+  "fetchedAt": 1790915361595,
+  "fetchedAtIST": "2/10/2026, 9:59:21 am",
   "events": [
     {
       "programTitle": "NBA Today",
@@ -116,7 +116,7 @@
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-10-03_SH061600770000_112350961060_2025-10-10T22:14:22Z_p31371704_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "E60",
+      "programTitle": "",
       "episodeTitle": "Imperfect: The Roy Halladay Story",
       "description": "On the 10th anniversary of his perfect game, and more than two years after his tragic death, Halladay's family speaks for the first time on camera about his struggles with addiction and mental health, and the details of his fatal plane crash.",
       "scheduledDate": 1791005400000,
@@ -212,7 +212,7 @@
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Football",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-10-03_EP064738030609_113334825582_2026-06-19T16:28:41Z_GNLZZGG0036K3M4/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-10-03_EP064738030609_113386977591_2026-06-19T16:28:41Z_GNLZZGG0036K3M4/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     }
   ]
 }
