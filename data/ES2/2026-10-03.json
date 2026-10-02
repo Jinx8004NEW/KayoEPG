@@ -2,8 +2,8 @@
   "channel": "ES2",
   "date": "2026-10-03",
   "source": "kayo",
-  "fetchedAt": 1790915361598,
-  "fetchedAtIST": "2/10/2026, 9:59:21 am",
+  "fetchedAt": 1790951441150,
+  "fetchedAtIST": "2/10/2026, 8:00:41 pm",
   "events": [
     {
       "programTitle": "First Take",
@@ -50,37 +50,59 @@
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-10-02_SH032424080000_108239731292_2021-04-08T22:26:28Z_p186288_i_h8_ae/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
+      "programTitle": "E",
+      "episodeTitle": "",
+      "description": "",
+      "scheduledDate": 1790982000000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "",
+      "genre": "",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/Fallback_LTV_ESPN2/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Bad Beats",
+      "episodeTitle": "",
+      "description": "",
+      "scheduledDate": 1790983800000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Gaming",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-10-02_SH040518500000_113428305520_2021-10-05T15:17:13Z_p20777822_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
       "programTitle": "Nothing But Net",
       "episodeTitle": "Weekend Edition",
       "description": "Kane Pitman and Ryan Broekhoff preview the upcoming NBA and NBL action through their Aussie lens, with guest interviews, highlights and breaking news.",
-      "scheduledDate": 1790982000000,
+      "scheduledDate": 1790985600000,
       "duration": 30,
       "parentalRating": "",
       "programType": "Sports non-event",
       "genre": "Basketball",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-10-02_SH047654740000_108130071776_2023-06-02T12:16:33Z_p24869175_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-10-03_SH047654740000_108130071776_2023-06-02T12:16:33Z_p24869175_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "WNBA Countdown",
       "episodeTitle": "",
       "description": "Presents WNBA news, analysis, highlights and interviews.",
-      "scheduledDate": 1790983800000,
+      "scheduledDate": 1790987400000,
       "duration": 30,
       "parentalRating": "",
       "programType": "Sports non-event",
       "genre": "Basketball",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-10-02_SH052116940000_112715953890_2023-09-09T09:43:12Z_p24985197_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-10-03_SH052116940000_112715953890_2023-09-09T09:43:12Z_p24985197_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "WNBA Basketball",
+      "programTitle": "E",
       "episodeTitle": "",
-      "description": "All the basketball action from the WNBA.",
-      "scheduledDate": 1790985600000,
+      "description": "",
+      "scheduledDate": 1790989200000,
       "duration": 120,
       "parentalRating": "",
-      "programType": "Sports event",
-      "genre": "Basketball",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-10-03_SH033268230000_113389475893_2026-04-23T14:55:08Z_p191289_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "programType": "",
+      "genre": "",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/Fallback_LTV_ESPN2/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "College Football Scoreboard",
@@ -105,6 +127,17 @@
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-10-03_EP064738030685_113313461077_2026-06-19T22:25:36Z_GNLZZGG0036LT0L/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
+      "programTitle": "College Football",
+      "episodeTitle": "Idaho vs Montana State",
+      "description": "American college football action.",
+      "scheduledDate": 1790996400000,
+      "duration": 150,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-10-03_EP064738030685_113313461077_2026-06-19T22:25:36Z_GNLZZGG0036LT0L/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
       "programTitle": "SportsCenter",
       "episodeTitle": "",
       "description": "The team deliver the latest news, highlights, and inside information from the wide world of sports, as well as trending topics across social media platforms.",
@@ -116,15 +149,15 @@
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-10-03_SH033259060000_109832503473_2018-04-18T10:39:00Z_p186674_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "WNBA Basketball",
+      "programTitle": "E",
       "episodeTitle": "",
-      "description": "All the basketball action from the WNBA.",
+      "description": "",
       "scheduledDate": 1791009000000,
       "duration": 120,
       "parentalRating": "",
-      "programType": "Sports event",
-      "genre": "Basketball",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-10-03_SH033268230000_113389475893_2026-04-23T14:55:08Z_p191289_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "programType": "",
+      "genre": "",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/Fallback_LTV_ESPN2/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "ESPN FC",

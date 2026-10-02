@@ -2,8 +2,8 @@
   "channel": "FS1",
   "date": "2026-10-04",
   "source": "kayo",
-  "fetchedAt": 1790915361557,
-  "fetchedAtIST": "2/10/2026, 9:59:21 am",
+  "fetchedAt": 1790951441102,
+  "fetchedAtIST": "2/10/2026, 8:00:41 pm",
   "events": [
     {
       "programTitle": "One-Day International Cricket",
@@ -32,11 +32,22 @@
       "episodeTitle": "Mini Match: South Africa vs Australia, 3rd ODI",
       "description": "Coverage of one-day cricket matches contested by international teams.",
       "scheduledDate": 1791057600000,
-      "duration": 26,
+      "duration": 25,
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Cricket, Classic sport event",
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-10-03_SH034583010000_110095246552_2026-03-24T13:16:18Z_p8509066_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Canada Super 60 Cricket League",
+      "episodeTitle": "Whiterock Warriors v Vancouver Anchors",
+      "description": "From BC Place Stadium in Vancouver, British Columbia.",
+      "scheduledDate": 1791059100000,
+      "duration": 115,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Cricket",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-10-03_SH060999970000_113365533045_2026-10-01T07:15:46Z_p31355033_b_h11_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "Canada Super 60 Cricket League",
@@ -76,11 +87,22 @@
       "episodeTitle": "2013/14 5th Test Review",
       "description": "Revisits the 2013-14 5th Test match of the Men's Ashes played between Australia and England.",
       "scheduledDate": 1791075000000,
-      "duration": 36,
+      "duration": 35,
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Classic sport event, Cricket",
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-10-04_SH047728050000_100718435032_2019-07-11T07:40:24Z_p10335812_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Canada Super 60 Cricket League",
+      "episodeTitle": "Mississauga Masters v Toronto Sixers",
+      "description": "From BC Place Stadium in Vancouver, British Columbia.",
+      "scheduledDate": 1791077100000,
+      "duration": 115,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Cricket",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-10-04_SH060999970000_113365533045_2026-10-01T07:15:46Z_p31355033_b_h11_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "Canada Super 60 Cricket League",
@@ -142,11 +164,22 @@
       "episodeTitle": "3rd ODI: India v West Indies",
       "description": "Coverage of one-day cricket matches contested by international teams.",
       "scheduledDate": 1791091200000,
-      "duration": 21,
+      "duration": 20,
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Cricket, Classic sport event",
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-10-04_SH034583010000_110095246552_2026-03-24T13:16:18Z_p8509066_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Canada Super 60 Cricket League",
+      "episodeTitle": "Brampton Blitz v Montreal Royal Tigers",
+      "description": "",
+      "scheduledDate": 1791092400000,
+      "duration": 115,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Cricket",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-10-04_SH060999970000_113365533045_2026-10-01T07:15:46Z_p31355033_b_h11_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "Canada Super 60 Cricket League",

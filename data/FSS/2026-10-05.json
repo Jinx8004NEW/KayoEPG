@@ -2,19 +2,63 @@
   "channel": "FSS",
   "date": "2026-10-05",
   "source": "kayo",
-  "fetchedAt": 1790915361591,
-  "fetchedAtIST": "2/10/2026, 9:59:21 am",
+  "fetchedAt": 1790951441140,
+  "fetchedAtIST": "2/10/2026, 8:00:41 pm",
   "events": [
     {
-      "programTitle": "To Be Announced",
-      "episodeTitle": "",
-      "description": "The programming for this time slot has yet to be determined and is being confirmed by the broadcast channel.",
-      "scheduledDate": 1791144000000,
-      "duration": 240,
+      "programTitle": "Sailing",
+      "episodeTitle": "America's Cup, Naples: Preliminary Regatta, Day 1",
+      "description": "Coverage of sailing action from around the world.",
+      "scheduledDate": 1791140400000,
+      "duration": 60,
       "parentalRating": "",
-      "programType": "TBA",
-      "genre": "Special, Entertainment",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-10-04_SH027575020000_112769671032_2021-11-15T14:36:19Z_p514472_b_h8_dp/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "programType": "Sports event",
+      "genre": "Boat racing, Sailing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-10-04_SH031665920000_107782668492_2022-11-02T07:48:30Z_p481058_i_h10_ae/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Sailing",
+      "episodeTitle": "America's Cup, Naples: Preliminary Regatta, Day 2",
+      "description": "Coverage of sailing action from around the world.",
+      "scheduledDate": 1791144000000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Boat racing, Sailing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-10-04_SH031665920000_107782668492_2022-11-02T07:48:30Z_p481058_i_h10_ae/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Sailing",
+      "episodeTitle": "America's Cup, Naples: Preliminary Regatta, Day 3",
+      "description": "Coverage of sailing action from around the world.",
+      "scheduledDate": 1791147600000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Boat racing, Sailing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-10-04_SH031665920000_107782668492_2022-11-02T07:48:30Z_p481058_i_h10_ae/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "SailGP",
+      "episodeTitle": "Geneva, Day 1",
+      "description": "",
+      "scheduledDate": 1791151200000,
+      "duration": 90,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Sailing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-10-04_SH051028760000_112367882509_2021-04-23T21:46:53Z_p19827810_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "SailGP",
+      "episodeTitle": "Geneva, Day 2",
+      "description": "",
+      "scheduledDate": 1791156600000,
+      "duration": 90,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Sailing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-10-04_SH051028760000_112367882509_2021-04-23T21:46:53Z_p19827810_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     }
   ]
 }

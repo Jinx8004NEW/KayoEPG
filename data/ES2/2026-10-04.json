@@ -2,30 +2,30 @@
   "channel": "ES2",
   "date": "2026-10-04",
   "source": "kayo",
-  "fetchedAt": 1790915361599,
-  "fetchedAtIST": "2/10/2026, 9:59:21 am",
+  "fetchedAt": 1790951441151,
+  "fetchedAtIST": "2/10/2026, 8:00:41 pm",
   "events": [
     {
-      "programTitle": "MLB Baseball",
+      "programTitle": "E",
       "episodeTitle": "",
-      "description": "Coverage of the action from the Major League Baseball.",
+      "description": "",
       "scheduledDate": 1791057600000,
       "duration": 270,
       "parentalRating": "",
-      "programType": "Sports event",
-      "genre": "Baseball",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-10-03_SH062580850000_113336627250_2022-04-14T08:06:14Z_p191273_i_h8_ad/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "programType": "",
+      "genre": "",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/Fallback_LTV_ESPN2/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "MLB Baseball",
+      "programTitle": "E",
       "episodeTitle": "",
-      "description": "Coverage of the action from the Major League Baseball.",
+      "description": "",
       "scheduledDate": 1791073800000,
       "duration": 60,
       "parentalRating": "",
-      "programType": "Sports event",
-      "genre": "Baseball",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-10-04_SH062580850000_113336627250_2022-04-14T08:06:14Z_p191273_i_h8_ad/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "programType": "",
+      "genre": "",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/Fallback_LTV_ESPN2/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "MLB Epic Moments",
