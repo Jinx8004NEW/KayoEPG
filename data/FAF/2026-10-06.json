@@ -1,0 +1,42 @@
+{
+  "channel": "FAF",
+  "date": "2026-10-06",
+  "source": "kayo",
+  "fetchedAt": 1791000719654,
+  "fetchedAtIST": "3/10/2026, 9:41:59 am",
+  "events": [
+    {
+      "programTitle": "AFL Trading Day",
+      "episodeTitle": "Day 1",
+      "description": "A panel of experts discusses all the player movements across the AFL, including all the proposals and rumours.",
+      "scheduledDate": 1791232200000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Sports talk",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-10-05_SH036713040000_113448542027_2025-10-15T06:35:58Z_p19064956_b_h10_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "AFL",
+      "episodeTitle": "Qualifying Final: Fremantle vs Hawthorn",
+      "description": "From Optus Stadium in Perth, Western Australia, Australia.",
+      "scheduledDate": 1791234000000,
+      "duration": 150,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Playoff sports, Australian rules football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-10-05_EP029151671447_113441602073_2026-09-02T13:54:57Z_GNLZZGG003M7PKT/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "AFL Trading Day",
+      "episodeTitle": "Day 1",
+      "description": "A panel of experts discusses all the player movements across the AFL, including all the proposals and rumours.",
+      "scheduledDate": 1791243000000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Sports talk",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-10-05_SH036713040000_113448542027_2025-10-15T06:35:58Z_p19064956_b_h10_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    }
+  ]
+}

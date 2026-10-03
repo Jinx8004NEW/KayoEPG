@@ -1,0 +1,53 @@
+{
+  "channel": "ES2",
+  "date": "2026-10-06",
+  "source": "kayo",
+  "fetchedAt": 1791000719685,
+  "fetchedAtIST": "3/10/2026, 9:41:59 am",
+  "events": [
+    {
+      "programTitle": "NBA Today",
+      "episodeTitle": "",
+      "description": "Daily NBA show from Los Angeles about everything you need to know about your favourite sport.",
+      "scheduledDate": 1791226800000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Sports talk, Basketball",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-10-05_SH040441750000_109626193132_2021-11-02T16:57:12Z_p20706981_i_h10_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "MLB Epic Moments",
+      "episodeTitle": "A Battle in the Bronx",
+      "description": "Red Sox vs. Yankees from Oct. 16, 2003.",
+      "scheduledDate": 1791230400000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Series",
+      "genre": "Baseball",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-10-05_SH034893820000_107891973572_2024-03-28T17:33:17Z_p10817344_i_h8_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "MLB Epic Moments",
+      "episodeTitle": "Pedro's Peak",
+      "description": "Thought to be unavailable to pitch in Game 5 of the 1999 ALDS against Cleveland because of an injury suffered in Game 1, Pedro Martinez instead authored one of the single most inspiring performances in postseason history.",
+      "scheduledDate": 1791232200000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Series",
+      "genre": "Baseball",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-10-05_EP034893820004_113376427355_2023-02-17T07:17:41Z_p11227816_e_h11_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "MLB Baseball",
+      "episodeTitle": "Chicago White Sox at Cleveland Guardians",
+      "description": "From Progressive Field in Cleveland.",
+      "scheduledDate": 1791234000000,
+      "duration": 180,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Playoff sports, Baseball",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-10-05_EP062580852960_113439626868_2026-10-01T04:45:21Z_GNLZZGG003R7JE7/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    }
+  ]
+}

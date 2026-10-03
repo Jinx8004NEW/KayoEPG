@@ -1,0 +1,75 @@
+{
+  "channel": "FS1",
+  "date": "2026-10-06",
+  "source": "kayo",
+  "fetchedAt": 1791000719630,
+  "fetchedAtIST": "3/10/2026, 9:41:59 am",
+  "events": [
+    {
+      "programTitle": "One-Day International Cricket",
+      "episodeTitle": "Mini Match: South Africa vs Australia, 3rd ODI",
+      "description": "Coverage of one-day cricket matches contested by international teams.",
+      "scheduledDate": 1791226800000,
+      "duration": 20,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Cricket, Classic sport event",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-10-05_SH034583010000_110095246552_2026-03-24T13:16:18Z_p8509066_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Fox Cricket Ashes Classics",
+      "episodeTitle": "2013/14 1st Test - Brisbane",
+      "description": "Highlights from some of the most exciting test matches between Australia and England from the history of The Ashes.",
+      "scheduledDate": 1791228000000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Classic sport event, Cricket",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-10-05_SH041148630000_113335438488_2021-12-14T10:47:34Z_p21143876_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Fox Cricket Ashes Classics",
+      "episodeTitle": "2013/14 2nd Test - Adelaide",
+      "description": "Highlights from some of the most exciting test matches between Australia and England from the history of The Ashes.",
+      "scheduledDate": 1791231600000,
+      "duration": 50,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Classic sport event, Cricket",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-10-05_SH041148630000_113335438488_2021-12-14T10:47:34Z_p21143876_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Ashes Archive",
+      "episodeTitle": "2013/14: Australia v England - 3rd Test",
+      "description": "Showcases classic Tests, ODIs and T20 matches played on Aussie soil against Australia's biggest rivals.",
+      "scheduledDate": 1791234600000,
+      "duration": 50,
+      "parentalRating": "",
+      "programType": "Series",
+      "genre": "Cricket",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-10-05_SH034952550000_112112708047_2020-04-24T19:15:07Z_p18225721_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Fox Cricket Ashes Classics",
+      "episodeTitle": "2013/14 4th Test - Melbourne",
+      "description": "Highlights from some of the most exciting test matches between Australia and England from the history of The Ashes.",
+      "scheduledDate": 1791237600000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Classic sport event, Cricket",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-10-05_SH041148630000_113335438488_2021-12-14T10:47:34Z_p21143876_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Fox Cricket Ashes Classics",
+      "episodeTitle": "2013/14 5th Test - Sydney",
+      "description": "Highlights from some of the most exciting test matches between Australia and England from the history of The Ashes.",
+      "scheduledDate": 1791241200000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Classic sport event, Cricket",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-10-05_SH041148630000_113335438488_2021-12-14T10:47:34Z_p21143876_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    }
+  ]
+}

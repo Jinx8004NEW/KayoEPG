@@ -1,0 +1,42 @@
+{
+  "channel": "FS3",
+  "date": "2026-10-06",
+  "source": "kayo",
+  "fetchedAt": 1791000719646,
+  "fetchedAtIST": "3/10/2026, 9:41:59 am",
+  "events": [
+    {
+      "programTitle": "PGA Tour Golf",
+      "episodeTitle": "Bank of Utah Championship, Final Round",
+      "description": "From Black Desert Golf Course in Ivins, Utah.",
+      "scheduledDate": 1791226800000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-10-05_EP030899371426_113432114631_2026-10-01T09:21:28Z_GNLZZGG003R854Z/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "DP World Tour Golf",
+      "episodeTitle": "Alfred Dunhill Links Championship, Final Round",
+      "description": "From The Old Course at St. Andrews in Fife, Scotland.",
+      "scheduledDate": 1791234000000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-10-05_EP040914080612_113432476127_2026-10-01T17:23:19Z_GNLZZGG003R9BZH/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "LPGA Tour Golf",
+      "episodeTitle": "Lotte Championship, Final Round",
+      "description": "From Hoakalei Country Club in Ewa Beach, Hawaii.",
+      "scheduledDate": 1791241200000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-10-05_EP031583890719_113433989098_2026-10-02T09:21:36Z_GNLZZGG003RCB8C/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    }
+  ]
+}
