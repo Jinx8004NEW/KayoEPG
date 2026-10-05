@@ -2,8 +2,8 @@
   "channel": "FAF",
   "date": "2026-10-05",
   "source": "kayo",
-  "fetchedAt": 1791154180757,
-  "fetchedAtIST": "5/10/2026, 4:19:40 am",
+  "fetchedAt": 1791174702594,
+  "fetchedAtIST": "5/10/2026, 10:01:42 am",
   "events": [
     {
       "programTitle": "To Be Announced",
@@ -175,11 +175,22 @@
       "episodeTitle": "",
       "description": "Experts review the week's major headlines, stand-out matches and biggest talking points from around the AFLW competition, delivering comprehensive analysis and discussion on women's football.",
       "scheduledDate": 1791178200000,
-      "duration": 31,
+      "duration": 30,
       "parentalRating": "",
       "programType": "Sports non-event",
       "genre": "Australian rules football",
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-10-05_SH060384060000_112853610422_2025-10-15T06:35:17Z_p31174602_b_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Sportsday",
+      "episodeTitle": "",
+      "description": "",
+      "scheduledDate": 1791180000000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Series",
+      "genre": "Sports talk",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-10-05_SH064457380000_110016850993_2026-07-16T05:37:10Z_p33161441_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "Sportsday",
@@ -296,7 +307,7 @@
       "episodeTitle": "Day 1",
       "description": "A panel of experts discusses all the player movements across the AFL, including all the proposals and rumours.",
       "scheduledDate": 1791199800000,
-      "duration": 30,
+      "duration": 60,
       "parentalRating": "",
       "programType": "Sports non-event",
       "genre": "Sports talk",
@@ -374,7 +385,7 @@
       "description": "Condensed highlights, reaction and analysis of the biggest sport stories from Australia and around the world.",
       "scheduledDate": 1791223200000,
       "duration": 150,
-      "parentalRating": "PG",
+      "parentalRating": "",
       "programType": "Sports non-event",
       "genre": "Australian rules football",
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-10-05_SH042238570000_104529301600_2022-03-07T04:36:21Z_p21759801_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"

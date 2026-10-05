@@ -2,8 +2,8 @@
   "channel": "FS3",
   "date": "2026-10-06",
   "source": "kayo",
-  "fetchedAt": 1791154180750,
-  "fetchedAtIST": "5/10/2026, 4:19:40 am",
+  "fetchedAt": 1791174702585,
+  "fetchedAtIST": "5/10/2026, 10:01:42 am",
   "events": [
     {
       "programTitle": "PGA Tour Golf",
@@ -36,7 +36,7 @@
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Golf",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-10-05_EP031583890719_113433989098_2026-10-02T09:21:36Z_GNLZZGG003RCB8C/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-10-05_EP031583890719_113518128733_2026-10-02T09:21:36Z_GNLZZGG003RCB8C/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "PGA Tour Highlights",
@@ -87,11 +87,22 @@
       "episodeTitle": "PGA Championship, Final Round",
       "description": "A collection of special condensed replays featuring the best highlights and all the key moments from the course.",
       "scheduledDate": 1791262800000,
-      "duration": 30,
+      "duration": 20,
       "parentalRating": "",
       "programType": "Sports non-event",
       "genre": "Golf",
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-10-06_SH047874460000_101769826726_2023-06-23T09:17:39Z_p25047305_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Golf",
+      "episodeTitle": "US Open: Final Round",
+      "description": "Watch the final round action of the US Open from Shinnecock Hills Golf Club.",
+      "scheduledDate": 1791264000000,
+      "duration": 20,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-10-06_SH032772030000_106659071362_2025-04-03T19:44:22Z_p706015_i_h8_ad/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "Golf",
@@ -103,6 +114,17 @@
       "programType": "Sports non-event",
       "genre": "Golf",
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-10-06_SH032772030000_106659071362_2025-04-03T19:44:22Z_p706015_i_h8_ad/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "PGA Tour Golf Mini",
+      "episodeTitle": "The Open Championship: Final Round",
+      "description": "Showcases the final round action of The Open Championship from Royal Birkdale Golf Club.",
+      "scheduledDate": 1791265200000,
+      "duration": 20,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-10-06_SH047874460000_101769826726_2023-06-23T09:17:39Z_p25047305_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "PGA Tour Golf Mini",
@@ -135,7 +157,7 @@
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Golf",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-10-06_EP031583890719_113433989098_2026-10-02T09:21:36Z_GNLZZGG003RCB8C/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-10-06_EP031583890719_113518128733_2026-10-02T09:21:36Z_GNLZZGG003RCB8C/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "PGA Tour Highlights",
@@ -175,7 +197,18 @@
       "episodeTitle": "St. Jude Championship Final Round",
       "description": "A collection of special condensed replays featuring the best highlights and all the key moments from the course.",
       "scheduledDate": 1791282600000,
-      "duration": 30,
+      "duration": 20,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-10-06_SH047874460000_101769826726_2023-06-23T09:17:39Z_p25047305_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "PGA Tour Golf Mini",
+      "episodeTitle": "BMW Championship, Final Round",
+      "description": "A collection of special condensed replays featuring the best highlights and all the key moments from the course.",
+      "scheduledDate": 1791283800000,
+      "duration": 20,
       "parentalRating": "",
       "programType": "Sports non-event",
       "genre": "Golf",
@@ -187,6 +220,17 @@
       "description": "A collection of special condensed replays featuring the best highlights and all the key moments from the course.",
       "scheduledDate": 1791284400000,
       "duration": 15,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-10-06_SH047874460000_101769826726_2023-06-23T09:17:39Z_p25047305_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "PGA Tour Golf Mini",
+      "episodeTitle": "Tour Championship, Final Round",
+      "description": "A collection of special condensed replays featuring the best highlights and all the key moments from the course.",
+      "scheduledDate": 1791285000000,
+      "duration": 20,
       "parentalRating": "",
       "programType": "Sports non-event",
       "genre": "Golf",
