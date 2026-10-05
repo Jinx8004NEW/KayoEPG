@@ -2,8 +2,8 @@
   "channel": "FAF",
   "date": "2026-10-08",
   "source": "kayo",
-  "fetchedAt": 1791174702596,
-  "fetchedAtIST": "5/10/2026, 10:01:42 am",
+  "fetchedAt": 1791219148022,
+  "fetchedAtIST": "5/10/2026, 10:22:28 pm",
   "events": [
     {
       "programTitle": "To Be Announced",
@@ -15,6 +15,39 @@
       "programType": "TBA",
       "genre": "Special, Entertainment",
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-10-07_SH027575020000_112769671032_2021-11-15T14:36:19Z_p514472_b_h8_dp/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "AFL Trading Day",
+      "episodeTitle": "Day 3",
+      "description": "A panel of experts discuss all the player movements across the AFL, including all the proposals and rumours.",
+      "scheduledDate": 1791405000000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Sports talk, Australian rules football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-10-07_SH036713040000_113524789106_2025-10-15T06:35:58Z_p19064956_b_h10_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "AFL",
+      "episodeTitle": "Brisbane Lions vs. Adelaide Crows",
+      "description": "From Brisbane Cricket Ground in Brisbane, Queensland, Australia.",
+      "scheduledDate": 1791406800000,
+      "duration": 150,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Playoff sports, Australian rules football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-10-07_EP029151671452_113535363066_2026-09-08T19:46:37Z_GNLZZGG003N8MYG/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "AFL Trading Day",
+      "episodeTitle": "Day 3",
+      "description": "A panel of experts discuss all the player movements across the AFL, including all the proposals and rumours.",
+      "scheduledDate": 1791415800000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Sports talk, Australian rules football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-10-07_SH036713040000_113524789106_2025-10-15T06:35:58Z_p19064956_b_h10_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     }
   ]
 }

@@ -2,19 +2,63 @@
   "channel": "ES2",
   "date": "2026-10-08",
   "source": "kayo",
-  "fetchedAt": 1791174702625,
-  "fetchedAtIST": "5/10/2026, 10:01:42 am",
+  "fetchedAt": 1791219148079,
+  "fetchedAtIST": "5/10/2026, 10:22:28 pm",
   "events": [
     {
-      "programTitle": "To Be Announced",
+      "programTitle": "College Football Live",
       "episodeTitle": "",
-      "description": "The programming for this time slot has yet to be determined and is being confirmed by the broadcast channel.",
-      "scheduledDate": 1791403200000,
-      "duration": 240,
+      "description": "Breaking news, analysis, features, roundtable discussions, and interviews covering all the latest events from the world of college football.",
+      "scheduledDate": 1791399600000,
+      "duration": 30,
       "parentalRating": "",
-      "programType": "TBA",
-      "genre": "Special, Entertainment",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-10-07_SH027575020000_112769671032_2021-11-15T14:36:19Z_p514472_b_h8_dp/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "programType": "Sports non-event",
+      "genre": "Football, News",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-10-07_SH033651660000_113531114122_2017-12-12T23:22:00Z_p221266_i_h10_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Prime 9",
+      "episodeTitle": "Characters",
+      "description": "Ranking the best of the best, on the field and off.",
+      "scheduledDate": 1791401400000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Baseball",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-10-07_SH034894280000_107410377292_2022-06-30T18:06:26Z_p864395_i_h10_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "MLB Baseball",
+      "episodeTitle": "Cleveland Guardians at Chicago White Sox",
+      "description": "From Rate Field in Chicago.",
+      "scheduledDate": 1791403200000,
+      "duration": 180,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Playoff sports, Baseball",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-10-07_EP062580852966_113535374021_2026-10-01T04:46:07Z_GNLZZGG003R7M77/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "My Most Memorable Game",
+      "episodeTitle": "Bob Gibson",
+      "description": "Bob Gibson talks about his record-setting 17 strikeout performance in Game One of the 1968 World Series.",
+      "scheduledDate": 1791414000000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Baseball",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-10-07_SH038385110000_113531114117_2018-02-03T10:01:00Z_p10436473_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Prime 9",
+      "episodeTitle": "All-1970's Team",
+      "description": "Ranking the best of the best, on the field and off.",
+      "scheduledDate": 1791415800000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Baseball",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-10-07_SH034894280000_107410377292_2022-06-30T18:06:26Z_p864395_i_h10_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     }
   ]
 }

@@ -2,9 +2,31 @@
   "channel": "SP2",
   "date": "2026-10-08",
   "source": "kayo",
-  "fetchedAt": 1791174702581,
-  "fetchedAtIST": "5/10/2026, 10:01:42 am",
+  "fetchedAt": 1791219148009,
+  "fetchedAtIST": "5/10/2026, 10:22:28 pm",
   "events": [
+    {
+      "programTitle": "NRL",
+      "episodeTitle": "Sydney Roosters vs Cronulla-Sutherland Sharks",
+      "description": "From Allianz Stadium in Sydney.",
+      "scheduledDate": 1791397800000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Playoff sports, Rugby league, Rugby",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-10-07_EP031720961243_113430545453_2026-09-13T13:41:51Z_GNLZZGG003NE49Y/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NRL",
+      "episodeTitle": "",
+      "description": "Comprehensive coverage and full game replays of all the matches played in Australia's National Rugby League.",
+      "scheduledDate": 1791401400000,
+      "duration": 285,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Rugby league, Rugby",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-10-07_SH031720960000_113055987103_2025-02-14T21:33:28Z_p817685_i_h8_ad/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
     {
       "programTitle": "To Be Announced",
       "episodeTitle": "",

@@ -2,19 +2,74 @@
   "channel": "ESP",
   "date": "2026-10-07",
   "source": "kayo",
-  "fetchedAt": 1791174702620,
-  "fetchedAtIST": "5/10/2026, 10:01:42 am",
+  "fetchedAt": 1791219148075,
+  "fetchedAtIST": "5/10/2026, 10:22:28 pm",
   "events": [
     {
-      "programTitle": "To Be Announced",
+      "programTitle": "NBA Today",
       "episodeTitle": "",
-      "description": "The programming for this time slot has yet to be determined and is being confirmed by the broadcast channel.",
-      "scheduledDate": 1791316800000,
-      "duration": 240,
+      "description": "Daily NBA show from Los Angeles about everything you need to know about your favourite sport.",
+      "scheduledDate": 1791313200000,
+      "duration": 60,
       "parentalRating": "",
-      "programType": "TBA",
-      "genre": "Special, Entertainment",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-10-06_SH027575020000_112769671032_2021-11-15T14:36:19Z_p514472_b_h8_dp/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "programType": "Sports non-event",
+      "genre": "Sports talk, Basketball",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-10-06_SH040441750000_109626193132_2021-11-02T16:57:12Z_p20706981_i_h10_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "College Football Live",
+      "episodeTitle": "",
+      "description": "Breaking news, analysis, features, roundtable discussions, and interviews covering all the latest events from the world of college football.",
+      "scheduledDate": 1791316800000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Football, News",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-10-06_SH033651660000_113531114122_2017-12-12T23:22:00Z_p221266_i_h10_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Bad Beats",
+      "episodeTitle": "",
+      "description": "",
+      "scheduledDate": 1791318600000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Gaming",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-10-06_SH040518500000_113428305520_2021-10-05T15:17:13Z_p20777822_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Derek Jeter: Night 2 Remember",
+      "episodeTitle": "",
+      "description": "For those lucky enough to attend Yankees Captain Derek Jeter's final home game, the farewell scene was indescribable.",
+      "scheduledDate": 1791320400000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Special",
+      "genre": "Special, Baseball",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-10-06_SH035146540000_113531114113_2017-10-05T19:44:00Z_p11121183_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "SportsCenter Australia & NZ",
+      "episodeTitle": "",
+      "description": "Looks at the day's essential US sports news, highlights and analysis across NFL, NBA, MLB, NHL, college sports, major events and more.",
+      "scheduledDate": 1791322200000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Series",
+      "genre": "Sports talk",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-10-06_SH034494390000_102282491960_2020-04-24T17:20:20Z_p16719850_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "MLB Baseball",
+      "episodeTitle": "Los Angeles Dodgers at Atlanta Braves",
+      "description": "From Truist Park in Atlanta.",
+      "scheduledDate": 1791324000000,
+      "duration": 180,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Playoff sports, Baseball",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-10-06_EP062580852962_113536875989_2026-10-02T04:47:24Z_GNLZZGG003RC5H5/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "To Be Announced",
@@ -28,6 +83,28 @@
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-10-07_SH027575020000_112769671032_2021-11-15T14:36:19Z_p514472_b_h8_dp/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
+      "programTitle": "My Most Memorable Game",
+      "episodeTitle": "Johnny Bench",
+      "description": "Bob Costas and Tom Verducci sit down with Hall of Famer Johnny Bench to discuss Johnny's fondest memories from his most memorable game.",
+      "scheduledDate": 1791334800000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Baseball",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-10-07_SH038385110000_113531114117_2018-02-03T10:01:00Z_p10436473_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "MLB Baseball",
+      "episodeTitle": "Milwaukee Brewers at San Diego Padres",
+      "description": "From PETCO Park in San Diego.",
+      "scheduledDate": 1791336600000,
+      "duration": 180,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Playoff sports, Baseball",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-10-07_EP062580852963_113536911076_2026-10-01T07:45:16Z_GNLZZGG003R80S1/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
       "programTitle": "To Be Announced",
       "episodeTitle": "",
       "description": "The programming for this time slot has yet to be determined and is being confirmed by the broadcast channel.",
@@ -39,15 +116,70 @@
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-10-07_SH027575020000_112769671032_2021-11-15T14:36:19Z_p514472_b_h8_dp/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "To Be Announced",
-      "episodeTitle": "",
-      "description": "The programming for this time slot has yet to be determined and is being confirmed by the broadcast channel.",
-      "scheduledDate": 1791360000000,
-      "duration": 240,
+      "programTitle": "Prime 9",
+      "episodeTitle": "Characters",
+      "description": "Ranking the best of the best, on the field and off.",
+      "scheduledDate": 1791347400000,
+      "duration": 60,
       "parentalRating": "",
-      "programType": "TBA",
-      "genre": "Special, Entertainment",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-10-07_SH027575020000_112769671032_2021-11-15T14:36:19Z_p514472_b_h8_dp/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "programType": "Sports non-event",
+      "genre": "Baseball",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-10-07_SH034894280000_107410377292_2022-06-30T18:06:26Z_p864395_i_h10_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Prime 9",
+      "episodeTitle": "Plays at the Plate",
+      "description": "MLB Prime 9 counts down the list of baseball's greatest plays at the plate.",
+      "scheduledDate": 1791351000000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Baseball",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-10-07_EP034894280001_113531114118_2023-11-20T18:33:29Z_p8394603_e_h10_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "MLB Baseball",
+      "episodeTitle": "Los Angeles Dodgers at Atlanta Braves",
+      "description": "From Truist Park in Atlanta.",
+      "scheduledDate": 1791352800000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Playoff sports, Baseball",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-10-07_EP062580852962_113536875989_2026-10-02T04:47:24Z_GNLZZGG003RC5H5/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NBL Pregame",
+      "episodeTitle": "",
+      "description": "A preview of upcoming games from the National Basketball League.",
+      "scheduledDate": 1791360000000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Basketball",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-10-07_SH048723300000_113531114176_2023-09-20T11:04:17Z_p25650942_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NBL Basketball",
+      "episodeTitle": "Adelaide 36ers vs Melbourne United",
+      "description": "From Adelaide Entertainment Centre in Hindmarsh, South Australia, Australia.",
+      "scheduledDate": 1791361800000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Basketball",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-10-07_EP028902080659_113531114123_2026-09-16T20:03:06Z_GNLZZGG003P8V5P/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "MLB Baseball",
+      "episodeTitle": "Milwaukee Brewers at San Diego Padres",
+      "description": "From PETCO Park in San Diego.",
+      "scheduledDate": 1791369000000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Playoff sports, Baseball",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-10-07_EP062580852963_113536911076_2026-10-01T07:45:16Z_GNLZZGG003R80S1/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "To Be Announced",
@@ -61,15 +193,48 @@
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-10-07_SH027575020000_112769671032_2021-11-15T14:36:19Z_p514472_b_h8_dp/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "To Be Announced",
+      "programTitle": "Get Up",
       "episodeTitle": "",
-      "description": "The programming for this time slot has yet to be determined and is being confirmed by the broadcast channel.",
-      "scheduledDate": 1791388800000,
-      "duration": 240,
+      "description": "Mike Greenberg, Laura Rutledge and Jalen Rose discuss and analyse the latest news from the world of sports.",
+      "scheduledDate": 1791376200000,
+      "duration": 90,
       "parentalRating": "",
-      "programType": "TBA",
-      "genre": "Special, Entertainment",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-10-07_SH027575020000_112769671032_2021-11-15T14:36:19Z_p514472_b_h8_dp/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "programType": "Sports non-event",
+      "genre": "Sports talk",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-10-07_SH033268270000_107093139583_2026-03-24T04:04:44Z_p15158780_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "First Take",
+      "episodeTitle": "",
+      "description": "Stephen A. Smith joins Molly Qerim Rose to debate the hottest topics in sports.",
+      "scheduledDate": 1791381600000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Sports talk, News, Debate",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-10-07_SH033280060000_108193810385_2025-11-07T06:36:14Z_p186291_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "The Pat McAfee Show",
+      "episodeTitle": "",
+      "description": "Former NFL punter Pat McAfee brings his humour, sarcasm and candour to the microphone to highlight the day's top stories.",
+      "scheduledDate": 1791388800000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Series",
+      "genre": "Sports talk",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-10-07_SH048483860000_111648065422_2020-09-10T14:31:07Z_p18762527_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Big Day With Peter Schrager",
+      "episodeTitle": "",
+      "description": "Peter Schrager covers the biggest stories from across the sports world each day.",
+      "scheduledDate": 1791396000000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-10-07_SH066067040000_113476685170_2026-09-10T19:25:26Z_p34014283_i_h10_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     }
   ]
 }

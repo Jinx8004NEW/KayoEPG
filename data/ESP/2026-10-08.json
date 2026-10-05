@@ -2,19 +2,63 @@
   "channel": "ESP",
   "date": "2026-10-08",
   "source": "kayo",
-  "fetchedAt": 1791174702621,
-  "fetchedAtIST": "5/10/2026, 10:01:42 am",
+  "fetchedAt": 1791219148076,
+  "fetchedAtIST": "5/10/2026, 10:22:28 pm",
   "events": [
     {
-      "programTitle": "To Be Announced",
+      "programTitle": "NBA Today",
       "episodeTitle": "",
-      "description": "The programming for this time slot has yet to be determined and is being confirmed by the broadcast channel.",
-      "scheduledDate": 1791403200000,
-      "duration": 240,
+      "description": "Daily NBA show from Los Angeles about everything you need to know about your favourite sport.",
+      "scheduledDate": 1791399600000,
+      "duration": 60,
       "parentalRating": "",
-      "programType": "TBA",
-      "genre": "Special, Entertainment",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-10-07_SH027575020000_112769671032_2021-11-15T14:36:19Z_p514472_b_h8_dp/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "programType": "Sports non-event",
+      "genre": "Sports talk, Basketball",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-10-07_SH040441750000_109626193132_2021-11-02T16:57:12Z_p20706981_i_h10_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NFL Live",
+      "episodeTitle": "",
+      "description": "Wendi Nix and analysts break down the latest news in the NFL, offering views on players, coaches and management.",
+      "scheduledDate": 1791403200000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-10-07_SH033280050000_112969172259_2022-08-27T02:25:47Z_p267723_i_h8_ae/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "SportsCenter",
+      "episodeTitle": "",
+      "description": "The team deliver the latest news, highlights, and inside information from the wide world of sports, as well as trending topics across social media platforms.",
+      "scheduledDate": 1791406800000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "News, Sports talk",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-10-07_SH033259060000_109832503473_2018-04-18T10:39:00Z_p186674_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Pardon the Interruption",
+      "episodeTitle": "",
+      "description": "Tony Kornheiser and Mike Wilbon have intense discussions and interview guests about the top headlines in news and sports.",
+      "scheduledDate": 1791408600000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Sports talk",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-10-07_SH032424080000_108239731292_2021-04-08T22:26:28Z_p186288_i_h8_ae/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "MLB Baseball",
+      "episodeTitle": "Los Angeles Dodgers at Atlanta Braves",
+      "description": "From Truist Park in Atlanta.",
+      "scheduledDate": 1791410400000,
+      "duration": 180,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Playoff sports, Baseball",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-10-07_EP062580852967_113536925420_2026-10-02T04:47:01Z_GNLZZGG003RC5MV/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     }
   ]
 }
