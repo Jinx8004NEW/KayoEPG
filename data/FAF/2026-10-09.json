@@ -1,0 +1,42 @@
+{
+  "channel": "FAF",
+  "date": "2026-10-09",
+  "source": "kayo",
+  "fetchedAt": 1791249002241,
+  "fetchedAtIST": "6/10/2026, 6:40:02 am",
+  "events": [
+    {
+      "programTitle": "AFL Trading Day",
+      "episodeTitle": "Day 4",
+      "description": "A panel of experts discuss all the player movements across the AFL, including all the proposals and rumours.",
+      "scheduledDate": 1791491400000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Sports talk, Australian rules football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-10-08_SH036713040000_113524789106_2025-10-15T06:35:58Z_p19064956_b_h10_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "AFL",
+      "episodeTitle": "Sydney Swans vs. Fremantle",
+      "description": "From Sydney Cricket Ground in Sydney.",
+      "scheduledDate": 1791493200000,
+      "duration": 150,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Playoff sports, Australian rules football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-10-08_EP029151671453_113535774656_2026-09-11T22:53:57Z_GNLZZGG003NQYR9/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "AFL Trading Day",
+      "episodeTitle": "Day 4",
+      "description": "A panel of experts discuss all the player movements across the AFL, including all the proposals and rumours.",
+      "scheduledDate": 1791502200000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Sports talk, Australian rules football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-10-08_SH036713040000_113524789106_2025-10-15T06:35:58Z_p19064956_b_h10_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    }
+  ]
+}

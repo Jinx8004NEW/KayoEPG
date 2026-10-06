@@ -1,218 +1,207 @@
 {
   "channel": "FSP",
-  "date": "2026-10-05",
+  "date": "2026-10-06",
   "source": "kayo",
-  "fetchedAt": 1791219148025,
-  "fetchedAtIST": "5/10/2026, 10:22:28 pm",
+  "fetchedAt": 1791249002247,
+  "fetchedAtIST": "6/10/2026, 6:40:02 am",
   "events": [
-    {
-      "programTitle": "Darts",
-      "episodeTitle": "World Grand Prix: Final",
-      "description": "Covering of all the action from darts events around the world.",
-      "scheduledDate": 1791140400000,
-      "duration": 180,
-      "parentalRating": "",
-      "programType": "Sports event",
-      "genre": "Darts",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-10-04_SH032967320000_109954612423_2024-10-04T13:14:55Z_p644283_i_h8_ah/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
-    {
-      "programTitle": "To Be Announced",
-      "episodeTitle": "",
-      "description": "The programming for this time slot has yet to be determined and is being confirmed by the broadcast channel.",
-      "scheduledDate": 1791144000000,
-      "duration": 240,
-      "parentalRating": "",
-      "programType": "TBA",
-      "genre": "Special, Entertainment",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-10-04_SH027575020000_112769671032_2021-11-15T14:36:19Z_p514472_b_h8_dp/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
-    {
-      "programTitle": "MotoGP Racing",
-      "episodeTitle": "Motul Grand Prix of Japan, Sprint Race",
-      "description": "From Mobility Resort Motegi in Totigi, Japan.",
-      "scheduledDate": 1791151200000,
-      "duration": 30,
-      "parentalRating": "",
-      "programType": "Sports event",
-      "genre": "Motorcycle racing",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-10-04_EP028104881578_113331569089_2026-09-30T11:23:43Z_GNLZZGG003R5XP8/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
-    {
-      "programTitle": "MotoGP Racing",
-      "episodeTitle": "Motul Grand Prix of Japan",
-      "description": "From Mobility Resort Motegi in Totigi, Japan.",
-      "scheduledDate": 1791153000000,
-      "duration": 60,
-      "parentalRating": "",
-      "programType": "Sports event",
-      "genre": "Motorcycle racing",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-10-04_EP028104881580_113432170032_2026-09-30T11:23:32Z_GNLZZGG003R5XN0/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
     {
       "programTitle": "Darts",
       "episodeTitle": "PDC ANZ Premier League: Week 2",
       "description": "Covering of all the action from darts events around the world.",
-      "scheduledDate": 1791156600000,
-      "duration": 120,
-      "parentalRating": "",
-      "programType": "Sports event",
-      "genre": "Darts",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-10-04_SH032967320000_109954612423_2024-10-04T13:14:55Z_p644283_i_h8_ah/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
-    {
-      "programTitle": "Darts",
-      "episodeTitle": "World Grand Prix: Final",
-      "description": "Covering of all the action from darts events around the world.",
-      "scheduledDate": 1791163800000,
+      "scheduledDate": 1791232200000,
       "duration": 120,
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Darts",
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-10-05_SH032967320000_109954612423_2024-10-04T13:14:55Z_p644283_i_h8_ah/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Getting a Round In",
+      "episodeTitle": "Chris Goulding",
+      "description": "Australian professional golfer, Paul Gow hosts celebrities as his playing partners who share his love for the game of golf.",
+      "scheduledDate": 1791239400000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Series",
+      "genre": "Golf, Interview",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-10-05_SH048121120000_110998856207_2023-07-18T05:56:16Z_p25221374_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "F1 Mini",
+      "episodeTitle": "Bahrain Grand Prix",
+      "description": "Highlights of the world's most iconic Formula 1 Grands Prix, featuring every podium and overtake.",
+      "scheduledDate": 1791241200000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Motorsports, Classic sport event",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-10-05_SH036452570000_107032703571_2020-11-19T03:00:48Z_p18944992_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "DP World Tour Golf",
+      "episodeTitle": "Alfred Dunhill Links Championship, Final Round",
+      "description": "From The Old Course at St. Andrews in Fife, Scotland.",
+      "scheduledDate": 1791243000000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-10-05_EP040914080612_113432476127_2026-10-01T17:23:19Z_GNLZZGG003R9BZH/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "Moto2 GP Racing",
       "episodeTitle": "Motul Grand Prix of Japan",
       "description": "From Mobility Resort Motegi in Totigi, Japan.",
-      "scheduledDate": 1791171000000,
+      "scheduledDate": 1791250200000,
       "duration": 60,
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Motorcycle racing",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-10-05_EP046925380386_113374648402_2026-09-30T11:22:51Z_GNLZZGG003R5XDV/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-10-06_EP046925380386_113540253054_2026-09-30T11:22:51Z_GNLZZGG003R5XDV/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "MotoGP Racing",
-      "episodeTitle": "Motul Grand Prix of Japan, Sprint Race",
-      "description": "From Mobility Resort Motegi in Totigi, Japan.",
-      "scheduledDate": 1791174600000,
-      "duration": 30,
+      "programTitle": "LPGA Tour Golf",
+      "episodeTitle": "Lotte Championship, Final Round",
+      "description": "From Hoakalei Country Club in Ewa Beach, Hawaii.",
+      "scheduledDate": 1791253800000,
+      "duration": 120,
       "parentalRating": "",
       "programType": "Sports event",
-      "genre": "Motorcycle racing",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-10-05_EP028104881578_113331569089_2026-09-30T11:23:43Z_GNLZZGG003R5XP8/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-10-06_EP031583890719_113518128733_2026-10-02T09:21:36Z_GNLZZGG003RCB8C/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "MotoGP Racing",
       "episodeTitle": "Motul Grand Prix of Japan",
       "description": "From Mobility Resort Motegi in Totigi, Japan.",
-      "scheduledDate": 1791176400000,
+      "scheduledDate": 1791261000000,
       "duration": 60,
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Motorcycle racing",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-10-05_EP028104881580_113432170032_2026-09-30T11:23:32Z_GNLZZGG003R5XN0/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-10-06_EP028104881580_113432170032_2026-09-30T11:23:32Z_GNLZZGG003R5XN0/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "MotoGP: After The Flag",
-      "episodeTitle": "Japan",
-      "description": "The commentary team interview the top riders and wrap up the weekend of action after the Grand Prix.",
-      "scheduledDate": 1791180000000,
-      "duration": 30,
+      "programTitle": "PGA Tour Highlights",
+      "episodeTitle": "Bank of Utah Championship",
+      "description": "Highlights from PGA Tour events featuring the world's best golfers in action. Hosts track the progression of the game while reviewing the changes in technologies and techniques.",
+      "scheduledDate": 1791264600000,
+      "duration": 60,
       "parentalRating": "",
-      "programType": "Sports non-event",
-      "genre": "Motorcycle racing",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-10-05_SH045144180000_112768561209_2022-10-28T12:27:14Z_p23278858_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "programType": "Sports event",
+      "genre": "Classic sport event, Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-10-06_SH032355110000_106892699068_2023-03-16T12:30:24Z_p9060599_i_h10_ae/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "NASCAR O'Reilly Auto Parts Series Highlights",
-      "episodeTitle": "Focused Health 302",
-      "description": "Highlights of the various races taking place at the NASCAR O'Reilly Auto Parts Series.",
-      "scheduledDate": 1791181800000,
+      "programTitle": "Pro Bull Riding",
+      "episodeTitle": "Caboolture",
+      "description": "The best bull riders in Australia and the world compete for prize money on the professional bull riding circuit.",
+      "scheduledDate": 1791268200000,
       "duration": 60,
       "parentalRating": "",
       "programType": "Sports non-event",
-      "genre": "Auto racing",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-10-05_SH062934750000_111812088477_2026-08-05T10:46:39Z_p32273555_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "genre": "Bull riding",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-10-06_SH029446100000_108472165776_2018-05-25T09:42:00Z_p15394895_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "British Superbike Championship Highlights",
+      "episodeTitle": "Round 10: Donington Park",
+      "description": "Highlights of the British Superbike Championships season.",
+      "scheduledDate": 1791271800000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Series",
+      "genre": "Sports talk, Motorcycle racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-10-06_SH048348510000_95139729292_2022-06-29T15:47:12Z_p600954_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Getting a Round In",
+      "episodeTitle": "",
+      "description": "Australian professional golfer, Paul Gow hosts celebrities as his playing partners who share his love for the game of golf.",
+      "scheduledDate": 1791275400000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Series",
+      "genre": "Golf, Interview",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-10-06_SH048121120000_110998856207_2023-07-18T05:56:16Z_p25221374_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "NASCAR Cup Racing Series",
       "episodeTitle": "Las Vegas Motor Speedway",
       "description": "Coverage of the NASCAR Cup Series, professional stock car racing in the United States.",
-      "scheduledDate": 1791185400000,
+      "scheduledDate": 1791277200000,
       "duration": 60,
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Classic sport event, Motorsports, Auto racing",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-10-05_SH056052770000_110216247140_2024-02-28T07:23:12Z_p8599472_i_h10_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
-    {
-      "programTitle": "Darts",
-      "episodeTitle": "World Grand Prix: Final",
-      "description": "Covering of all the action from darts events around the world.",
-      "scheduledDate": 1791189000000,
-      "duration": 120,
-      "parentalRating": "",
-      "programType": "Sports event",
-      "genre": "Darts",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-10-05_SH032967320000_109954612423_2024-10-04T13:14:55Z_p644283_i_h8_ah/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
-    {
-      "programTitle": "MotoGP Racing",
-      "episodeTitle": "Motul Grand Prix of Japan, Sprint Race",
-      "description": "From Mobility Resort Motegi in Totigi, Japan.",
-      "scheduledDate": 1791196200000,
-      "duration": 30,
-      "parentalRating": "",
-      "programType": "Sports event",
-      "genre": "Motorcycle racing",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-10-05_EP028104881578_113331569089_2026-09-30T11:23:43Z_GNLZZGG003R5XP8/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-10-06_SH056052770000_110216247140_2024-02-28T07:23:12Z_p8599472_i_h10_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "MotoGP Racing",
       "episodeTitle": "Motul Grand Prix of Japan",
       "description": "From Mobility Resort Motegi in Totigi, Japan.",
-      "scheduledDate": 1791198000000,
+      "scheduledDate": 1791280800000,
       "duration": 60,
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Motorcycle racing",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-10-05_EP028104881580_113432170032_2026-09-30T11:23:32Z_GNLZZGG003R5XN0/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
-    {
-      "programTitle": "NASCAR Cup Racing Series",
-      "episodeTitle": "Las Vegas Motor Speedway",
-      "description": "Coverage of the NASCAR Cup Series, professional stock car racing in the United States.",
-      "scheduledDate": 1791201600000,
-      "duration": 60,
-      "parentalRating": "",
-      "programType": "Sports event",
-      "genre": "Classic sport event, Motorsports, Auto racing",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-10-05_SH056052770000_110216247140_2024-02-28T07:23:12Z_p8599472_i_h10_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
-    {
-      "programTitle": "Darts",
-      "episodeTitle": "PDC ANZ Premier League: Week 2",
-      "description": "Covering of all the action from darts events around the world.",
-      "scheduledDate": 1791205200000,
-      "duration": 120,
-      "parentalRating": "",
-      "programType": "Sports event",
-      "genre": "Darts",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-10-05_SH032967320000_109954612423_2024-10-04T13:14:55Z_p644283_i_h8_ah/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-10-06_EP028104881580_113432170032_2026-09-30T11:23:32Z_GNLZZGG003R5XN0/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "Darts",
       "episodeTitle": "World Grand Prix: Final",
       "description": "Covering of all the action from darts events around the world.",
-      "scheduledDate": 1791212400000,
+      "scheduledDate": 1791284400000,
       "duration": 120,
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Darts",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-10-05_SH032967320000_109954612423_2024-10-04T13:14:55Z_p644283_i_h8_ah/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-10-06_SH032967320000_109954612423_2024-10-04T13:14:55Z_p644283_i_h8_ah/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "Pool",
-      "episodeTitle": "Ultimate Pool Nxtgen Adult Pairs: Finals, Night",
-      "description": "Action from the world of pool.",
-      "scheduledDate": 1791219600000,
-      "duration": 210,
+      "programTitle": "SailGP",
+      "episodeTitle": "Geneva, Day 1",
+      "description": "",
+      "scheduledDate": 1791291600000,
+      "duration": 90,
       "parentalRating": "",
       "programType": "Sports event",
-      "genre": "Billiards",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-10-05_SH038615030000_100974382724_2020-08-12T11:50:16Z_p466719_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "genre": "Sailing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-10-06_SH051028760000_112367882509_2021-04-23T21:46:53Z_p19827810_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "SailGP",
+      "episodeTitle": "Geneva, Day 2",
+      "description": "",
+      "scheduledDate": 1791297000000,
+      "duration": 90,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Sailing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-10-06_SH051028760000_112367882509_2021-04-23T21:46:53Z_p19827810_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Formula 1",
+      "episodeTitle": "Bahrain Grand Prix, Race",
+      "description": "Features all the action and highlights from Formula 1 racing.",
+      "scheduledDate": 1791302400000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Classic sport event, Motorsports, Auto racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-10-06_SH035915380000_109578600751_2023-09-29T11:04:19Z_p8544413_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "FIA Formula 2 Championship",
+      "episodeTitle": "2026: Baku, Feature Race",
+      "description": "",
+      "scheduledDate": 1791309600000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Classic sport event, Auto racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-10-06_SH066293040000_113441601975_2020-11-12T15:30:36Z_p19086087_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     }
   ]
 }
