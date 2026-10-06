@@ -2,8 +2,8 @@
   "channel": "SP2",
   "date": "2026-10-07",
   "source": "kayo",
-  "fetchedAt": 1791249002219,
-  "fetchedAtIST": "6/10/2026, 6:40:02 am",
+  "fetchedAt": 1791284617244,
+  "fetchedAtIST": "6/10/2026, 4:33:37 pm",
   "events": [
     {
       "programTitle": "NRL Mini",
@@ -340,7 +340,7 @@
       "episodeTitle": "",
       "description": "A collection of some of the best Fletch and Hindy content from throughout 2020, featuring their feedback and antics.",
       "scheduledDate": 1791367800000,
-      "duration": 30,
+      "duration": 35,
       "parentalRating": "",
       "programType": "Series",
       "genre": "Sports talk, Rugby league",
@@ -351,6 +351,17 @@
       "episodeTitle": "",
       "description": "A collection of some of the best Fletch and Hindy content from throughout 2020, featuring their feedback and antics.",
       "scheduledDate": 1791369600000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Series",
+      "genre": "Sports talk, Rugby league",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-10-07_SH036460010000_106892699097_2020-10-14T05:00:24Z_p18947660_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Best of Fletch and Hindy",
+      "episodeTitle": "",
+      "description": "A collection of some of the best Fletch and Hindy content from throughout 2020, featuring their feedback and antics.",
+      "scheduledDate": 1791369900000,
       "duration": 30,
       "parentalRating": "",
       "programType": "Series",
@@ -369,11 +380,33 @@
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-10-07_SH035786430000_106552413658_2020-10-16T18:30:18Z_p18624350_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
+      "programTitle": "NRL Mini",
+      "episodeTitle": "Grand Final: Sydney Roosters vs Newcastle Knights",
+      "description": "A comprehensive summary of the match played is provided in an expedited timeframe.",
+      "scheduledDate": 1791371700000,
+      "duration": 20,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Rugby league, Rugby",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-10-07_SH035786430000_106552413658_2020-10-16T18:30:18Z_p18624350_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
       "programTitle": "English Super League Pre-Game",
       "episodeTitle": "Grand Final: Warrington Wolves v Wakefield Trinity",
       "description": "A historic match between two teams seeking their first Super League title: Sam Burgess's Warrington qualified by defeating Leeds, while Wakefield upset Wigan.",
       "scheduledDate": 1791372600000,
       "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Rugby league, Rugby",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-10-07_SH050627460000_104351472372_2024-03-13T11:13:41Z_p26943516_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "English Super League Pre-Game",
+      "episodeTitle": "Grand Final: Warrington Wolves v Wakefield Trinity",
+      "description": "A historic match between two teams seeking their first Super League title: Sam Burgess's Warrington qualified by defeating Leeds, while Wakefield upset Wigan.",
+      "scheduledDate": 1791372900000,
+      "duration": 55,
       "parentalRating": "",
       "programType": "Sports non-event",
       "genre": "Rugby league, Rugby",
@@ -402,15 +435,15 @@
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-10-07_EP031720961247_113444497212_2026-09-27T13:42:48Z_GNLZZGG003PYM7N/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "NRL",
-      "episodeTitle": "Sydney Roosters vs Newcastle Knights",
-      "description": "Live from Accor Stadium. Kick off at 7:30PM AEDT.",
+      "programTitle": "Finals Footy on Fox",
+      "episodeTitle": "Finals Week 2",
+      "description": "Showcases full analysis, live coverage and expert breakdowns of the AFL finals series.",
       "scheduledDate": 1791378000000,
       "duration": 90,
       "parentalRating": "",
-      "programType": "Sports event",
-      "genre": "Playoff sports, Rugby league, Rugby",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-10-07_EP031720961247_113444497212_2026-09-27T13:42:48Z_GNLZZGG003PYM7N/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "programType": "Sports non-event",
+      "genre": "Sports talk, Australian rules football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-10-07_SH036489360000_112090732832_2020-10-14T05:10:24Z_p18959783_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "NRL",

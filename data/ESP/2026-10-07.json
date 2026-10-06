@@ -2,8 +2,8 @@
   "channel": "ESP",
   "date": "2026-10-07",
   "source": "kayo",
-  "fetchedAt": 1791249002270,
-  "fetchedAtIST": "6/10/2026, 6:40:02 am",
+  "fetchedAt": 1791284617278,
+  "fetchedAtIST": "6/10/2026, 4:33:37 pm",
   "events": [
     {
       "programTitle": "NBA Today",
@@ -69,7 +69,7 @@
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Playoff sports, Baseball",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-10-06_EP062580852962_113551677021_2026-10-02T04:47:24Z_GNLZZGG003RC5H5/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-10-06_EP062580852962_113578588793_2026-10-02T04:47:24Z_GNLZZGG003RC5H5/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "To Be Announced",
@@ -102,7 +102,7 @@
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Playoff sports, Baseball",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-10-07_EP062580852963_113536911076_2026-10-01T07:45:16Z_GNLZZGG003R80S1/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-10-07_EP062580852963_113578545621_2026-10-01T07:45:16Z_GNLZZGG003R80S1/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "To Be Announced",
@@ -120,11 +120,22 @@
       "episodeTitle": "Characters",
       "description": "Ranking the best of the best, on the field and off.",
       "scheduledDate": 1791347400000,
-      "duration": 60,
+      "duration": 30,
       "parentalRating": "",
       "programType": "Sports non-event",
       "genre": "Baseball",
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-10-07_SH034894280000_107410377292_2022-06-30T18:06:26Z_p864395_i_h10_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Baseball Tonight",
+      "episodeTitle": "",
+      "description": "Major League Baseball highlights, news, and information show providing comprehensive season long coverage.",
+      "scheduledDate": 1791349200000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "News, Baseball",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-10-07_SH033235530000_112980364972_2026-08-10T19:26:00Z_p337588_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "Prime 9",
@@ -146,7 +157,7 @@
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Playoff sports, Baseball",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-10-07_EP062580852962_113551677021_2026-10-02T04:47:24Z_GNLZZGG003RC5H5/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-10-07_EP062580852962_113578588793_2026-10-02T04:47:24Z_GNLZZGG003RC5H5/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "NBL Pregame",
@@ -179,7 +190,7 @@
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Playoff sports, Baseball",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-10-07_EP062580852963_113536911076_2026-10-01T07:45:16Z_GNLZZGG003R80S1/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-10-07_EP062580852963_113578545621_2026-10-01T07:45:16Z_GNLZZGG003R80S1/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "To Be Announced",

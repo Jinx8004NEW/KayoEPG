@@ -2,18 +2,18 @@
   "channel": "FSS",
   "date": "2026-10-08",
   "source": "kayo",
-  "fetchedAt": 1791249002265,
-  "fetchedAtIST": "6/10/2026, 6:40:02 am",
+  "fetchedAt": 1791284617274,
+  "fetchedAtIST": "6/10/2026, 4:33:37 pm",
   "events": [
     {
       "programTitle": "PGA Korn Ferry Tour Highlights",
-      "episodeTitle": "Compliance Solutions Championship, Final Round",
+      "episodeTitle": "Compliance Solutions Championship",
       "description": "Key highlights from the Korn Ferry Tour tournaments, the PGA Tour's development circuit.",
       "scheduledDate": 1791399600000,
       "duration": 60,
       "parentalRating": "",
-      "programType": "Sports event",
-      "genre": "Golf, Classic sport event",
+      "programType": "Sports non-event",
+      "genre": "Golf",
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-10-07_SH062567610000_113529375108_2021-06-08T17:16:46Z_p17120790_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
@@ -116,15 +116,15 @@
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-10-08_SH037817400000_112150007536_2022-11-29T05:17:24Z_p12531845_i_h10_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "DP World Tour Golf",
-      "episodeTitle": "Alfred Dunhill Links Championship, Final Round",
-      "description": "From The Old Course at St. Andrews in Fife, Scotland.",
+      "programTitle": "European PGA Tour Highlights",
+      "episodeTitle": "Alfred Dunhill Links Championship",
+      "description": "All the action and highlights from European Tour golf.",
       "scheduledDate": 1791442800000,
       "duration": 30,
       "parentalRating": "",
-      "programType": "Sports event",
+      "programType": "Sports non-event",
       "genre": "Golf",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-10-08_EP040914080612_113432476127_2026-10-01T17:23:19Z_GNLZZGG003R9BZH/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-10-08_SH037026900000_112448059278_2022-09-05T13:56:59Z_p9656797_i_h10_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "UIM E1 World Championship Highlights",
