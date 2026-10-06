@@ -2,8 +2,8 @@
   "channel": "FSS",
   "date": "2026-10-07",
   "source": "kayo",
-  "fetchedAt": 1791284617273,
-  "fetchedAtIST": "6/10/2026, 4:33:37 pm",
+  "fetchedAt": 1791309696970,
+  "fetchedAtIST": "6/10/2026, 11:31:36 pm",
   "events": [
     {
       "programTitle": "SailGP",
@@ -161,14 +161,14 @@
     },
     {
       "programTitle": "PGA Tour Champions Golf",
-      "episodeTitle": "Jefferson Lehigh Valley Classic, Final Round",
-      "description": "Golfing action from the PGA Tour Champions.",
+      "episodeTitle": "Jefferson Lehigh Valley Classic",
+      "description": "Replays of past PGA Tour competitions.",
       "scheduledDate": 1791361800000,
       "duration": 60,
       "parentalRating": "",
-      "programType": "Sports event",
+      "programType": "Sports non-event",
       "genre": "Golf",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-10-07_EP034248570458_113529375109_2026-09-09T20:10:32Z_p33900438_b_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-10-07_SH051073670000_113532652791_2020-11-09T05:21:00Z_p18099468_i_h8_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "European PGA Tour Highlights",
