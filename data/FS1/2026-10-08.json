@@ -2,8 +2,8 @@
   "channel": "FS1",
   "date": "2026-10-08",
   "source": "kayo",
-  "fetchedAt": 1791309696927,
-  "fetchedAtIST": "6/10/2026, 11:31:36 pm",
+  "fetchedAt": 1791329862833,
+  "fetchedAtIST": "7/10/2026, 5:07:42 am",
   "events": [
     {
       "programTitle": "Test Cricket",
@@ -307,7 +307,7 @@
       "episodeTitle": "Zimbabwe v Australia, Game 3",
       "description": "Coverage of one-day cricket matches contested by international teams.",
       "scheduledDate": 1791482400000,
-      "duration": 120,
+      "duration": 60,
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Cricket, Classic sport event",

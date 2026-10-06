@@ -2,8 +2,8 @@
   "channel": "RTV",
   "date": "2026-10-08",
   "source": "kayo",
-  "fetchedAt": 1791309696990,
-  "fetchedAtIST": "6/10/2026, 11:31:36 pm",
+  "fetchedAt": 1791329862882,
+  "fetchedAtIST": "7/10/2026, 5:07:42 am",
   "events": [
     {
       "programTitle": "Raceday Review",
@@ -83,15 +83,15 @@
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/Fallback_LTV_Racing_TV/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "Famous Five",
+      "programTitle": "Get On!",
       "episodeTitle": "",
-      "description": "Sam Doran takes a look back at five of the most memorable editions of different horse races held around Australia.",
+      "description": "Host Matt Hill and a panel of experts discuss the fixed betting markets and share their picks for upcoming race meetings.",
       "scheduledDate": 1791423000000,
-      "duration": 30,
+      "duration": 60,
       "parentalRating": "",
-      "programType": "Sports event",
-      "genre": "Classic sport event, Horse racing",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/148460_2026-10-08_SH040610410000_113333436487_2021-10-18T06:17:14Z_p20855944_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "programType": "Sports non-event",
+      "genre": "Sports talk, Horse racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/148460_2026-10-08_SH029304330000_110220103349_2026-02-03T05:26:52Z_p15316392_i_h10_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "The Trial Show",
@@ -105,15 +105,26 @@
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/148460_2026-10-08_SH029304450000_110540634744_2019-10-09T21:00:43Z_p15316474_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "Get On!",
+      "programTitle": "Get on SA",
       "episodeTitle": "",
-      "description": "Host Matt Hill and a panel of experts discuss the fixed betting markets and share their picks for upcoming race meetings.",
+      "description": "A preview of all the big races as James Jordan and Matt Campbell examine racing through a South Australian lens.",
       "scheduledDate": 1791426600000,
-      "duration": 60,
+      "duration": 30,
       "parentalRating": "",
       "programType": "Sports non-event",
       "genre": "Sports talk, Horse racing",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/148460_2026-10-08_SH029304330000_110220103349_2026-02-03T05:26:52Z_p15316392_i_h10_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/148460_2026-10-08_SH038656280000_110220103348_2025-07-15T02:53:41Z_p19973783_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Racing Live",
+      "episodeTitle": "",
+      "description": "Features comprehensive coverage of some of the top horse racing events taking place in Australia and Hong Kong.",
+      "scheduledDate": 1791428400000,
+      "duration": 240,
+      "parentalRating": "",
+      "programType": "Series",
+      "genre": "Horse racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/148460_2026-10-08_SH029317280000_112642301077_2019-10-09T21:00:41Z_p15322312_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "Get on SA",

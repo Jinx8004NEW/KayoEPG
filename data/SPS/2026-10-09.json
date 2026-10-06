@@ -2,19 +2,52 @@
   "channel": "SPS",
   "date": "2026-10-09",
   "source": "kayo",
-  "fetchedAt": 1791309696965,
-  "fetchedAtIST": "6/10/2026, 11:31:36 pm",
+  "fetchedAt": 1791329862863,
+  "fetchedAtIST": "7/10/2026, 5:07:42 am",
   "events": [
     {
-      "programTitle": "To Be Announced",
-      "episodeTitle": "",
-      "description": "The programming for this time slot has yet to be determined and is being confirmed by the broadcast channel.",
-      "scheduledDate": 1791489600000,
-      "duration": 240,
+      "programTitle": "Supercars Championship",
+      "episodeTitle": "Repco Bathurst 1000: Day 1, Practice",
+      "description": "Supercars compete in a series across Australia and New Zealand.",
+      "scheduledDate": 1791486000000,
+      "duration": 60,
       "parentalRating": "",
-      "programType": "TBA",
-      "genre": "Special, Entertainment",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-10-08_SH027575020000_112769671032_2021-11-15T14:36:19Z_p514472_b_h8_dp/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "programType": "Sports event",
+      "genre": "Auto racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-10-08_EP027326761257_113536856491_2026-10-02T13:27:37Z_GNLZZGG003RCQYD/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Formula 1",
+      "episodeTitle": "Singapore Grand Prix: Paddock Uncut",
+      "description": "Features all the action and highlights from Formula 1 racing.",
+      "scheduledDate": 1791489600000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Classic sport event, Motorsports, Auto racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-10-08_SH035915380000_109578600751_2023-09-29T11:04:19Z_p8544413_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Supercars Championship",
+      "episodeTitle": "Repco Bathurst 1000: Supports",
+      "description": "Supercars compete in a series across Australia and New Zealand.",
+      "scheduledDate": 1791491400000,
+      "duration": 140,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Auto racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-10-08_EP027326761259_113535363123_2026-10-02T13:27:01Z_GNLZZGG003RCQKM/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Supercars Championship",
+      "episodeTitle": "",
+      "description": "Supercars compete in a series across Australia and New Zealand.",
+      "scheduledDate": 1791499800000,
+      "duration": 370,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Auto racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-10-08_SH027326760000_112737644805_2026-08-07T01:36:07Z_p522547_i_h10_ad/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     }
   ]
 }
