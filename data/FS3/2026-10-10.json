@@ -1,0 +1,42 @@
+{
+  "channel": "FS3",
+  "date": "2026-10-10",
+  "source": "kayo",
+  "fetchedAt": 1791406986089,
+  "fetchedAtIST": "8/10/2026, 2:33:06 am",
+  "events": [
+    {
+      "programTitle": "PGA Korn Ferry Tour Golf",
+      "episodeTitle": "Korn Ferry Tour Championship, Second Round",
+      "description": "Golfing action from the PGA Korn Ferry Tour.",
+      "scheduledDate": 1791572400000,
+      "duration": 180,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-10-09_EP034202650207_113641261834_2026-09-16T18:14:59Z_p33945072_b_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "PGA Tour Golf",
+      "episodeTitle": "Baycurrent Classic, First Round",
+      "description": "From Yokohama Country Club in Yokohama, Kanagawa, Japan.",
+      "scheduledDate": 1791583200000,
+      "duration": 90,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-10-09_EP030899371427_113581561554_2026-10-02T13:22:51Z_GNLZZGG003RCQ8D/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Rory McIlroy Melboure Sandbelt",
+      "episodeTitle": "",
+      "description": "",
+      "scheduledDate": 1791588600000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Special, Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/Fallback_LTV_Fox_Sports_503/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    }
+  ]
+}
