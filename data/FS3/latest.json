@@ -1,103 +1,15 @@
 {
   "channel": "FS3",
-  "date": "2026-10-08",
+  "date": "2026-10-09",
   "source": "kayo",
-  "fetchedAt": 1791472602646,
-  "fetchedAtIST": "8/10/2026, 8:46:42 pm",
+  "fetchedAt": 1791493470551,
+  "fetchedAtIST": "9/10/2026, 2:34:30 am",
   "events": [
-    {
-      "programTitle": "LPGA Tour Golf",
-      "episodeTitle": "Lotte Championship, Final Round",
-      "description": "From Hoakalei Country Club in Ewa Beach, Hawaii.",
-      "scheduledDate": 1791399600000,
-      "duration": 120,
-      "parentalRating": "",
-      "programType": "Sports event",
-      "genre": "Golf",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-10-07_EP031583890719_113518128733_2026-10-02T09:21:36Z_GNLZZGG003RCB8C/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
-    {
-      "programTitle": "To Be Announced",
-      "episodeTitle": "",
-      "description": "The programming for this time slot has yet to be determined and is being confirmed by the broadcast channel.",
-      "scheduledDate": 1791403200000,
-      "duration": 240,
-      "parentalRating": "",
-      "programType": "TBA",
-      "genre": "Special, Entertainment",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-10-07_SH027575020000_112769671032_2021-11-15T14:36:19Z_p514472_b_h8_dp/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
-    {
-      "programTitle": "PGA Tour Golf",
-      "episodeTitle": "Bank of Utah Championship, Final Round",
-      "description": "From Black Desert Golf Course in Ivins, Utah.",
-      "scheduledDate": 1791406800000,
-      "duration": 120,
-      "parentalRating": "",
-      "programType": "Sports event",
-      "genre": "Golf",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-10-07_EP030899371426_113574234297_2026-10-01T09:21:28Z_GNLZZGG003R854Z/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
-    {
-      "programTitle": "DP World Tour Golf",
-      "episodeTitle": "Alfred Dunhill Links Championship, Final Round",
-      "description": "From The Old Course at St. Andrews in Fife, Scotland.",
-      "scheduledDate": 1791414000000,
-      "duration": 120,
-      "parentalRating": "",
-      "programType": "Sports event",
-      "genre": "Golf",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-10-07_EP040914080612_113432476127_2026-10-01T17:23:19Z_GNLZZGG003R9BZH/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
-    {
-      "programTitle": "Legends Tour Highlights",
-      "episodeTitle": "2026 Staysure Marbella Legends",
-      "description": "The best moments and analysis from this year's senior tour.",
-      "scheduledDate": 1791421200000,
-      "duration": 60,
-      "parentalRating": "",
-      "programType": "Sports non-event",
-      "genre": "Golf",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-10-08_SH039624520000_107151323978_2020-09-28T06:30:59Z_p18780386_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
-    {
-      "programTitle": "Challenge Series",
-      "episodeTitle": "",
-      "description": "Highlights of Challenge Tour tournaments from around the world.",
-      "scheduledDate": 1791424800000,
-      "duration": 30,
-      "parentalRating": "",
-      "programType": "Sports non-event",
-      "genre": "Golf",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-10-08_SH038949530000_113536526104_2022-07-06T10:26:53Z_p10223016_i_h10_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
-    {
-      "programTitle": "PGA Tour Champions Learning Center",
-      "episodeTitle": "",
-      "description": "Tips and tricks from the legends of the game.",
-      "scheduledDate": 1791426600000,
-      "duration": 30,
-      "parentalRating": "",
-      "programType": "Sports non-event",
-      "genre": "Golf",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-10-08_SH037817400000_112150007536_2022-11-29T05:17:24Z_p12531845_i_h10_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
-    {
-      "programTitle": "PGA Tour Golf",
-      "episodeTitle": "Baycurrent Classic, First Round",
-      "description": "From Yokohama Country Club in Yokohama, Kanagawa, Japan.",
-      "scheduledDate": 1791428400000,
-      "duration": 240,
-      "parentalRating": "",
-      "programType": "Sports event",
-      "genre": "Golf",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-10-08_SH030899370000_110982182699_2025-07-31T11:34:53Z_p845788_i_h8_af/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
     {
       "programTitle": "Getting a Round In",
       "episodeTitle": "Chris Goulding",
       "description": "Australian professional golfer, Paul Gow hosts celebrities as his playing partners who share his love for the game of golf.",
-      "scheduledDate": 1791442800000,
+      "scheduledDate": 1791484200000,
       "duration": 30,
       "parentalRating": "",
       "programType": "Series",
@@ -105,32 +17,21 @@
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-10-08_SH048121120000_110998856207_2023-07-18T05:56:16Z_p25221374_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "European PGA Tour Highlights",
-      "episodeTitle": "Alfred Dunhill Links Championship",
-      "description": "All the action and highlights from European Tour golf.",
-      "scheduledDate": 1791444600000,
-      "duration": 30,
+      "programTitle": "PGA Korn Ferry Tour Golf",
+      "episodeTitle": "Korn Ferry Tour Championship, First Round",
+      "description": "Golfing action from the PGA Korn Ferry Tour.",
+      "scheduledDate": 1791486000000,
+      "duration": 180,
       "parentalRating": "",
-      "programType": "Sports non-event",
+      "programType": "Sports event",
       "genre": "Golf",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-10-08_SH037026900000_112448059278_2022-09-05T13:56:59Z_p9656797_i_h10_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
-    {
-      "programTitle": "PGA Tour Champions Golf",
-      "episodeTitle": "Jefferson Lehigh Valley Classic",
-      "description": "Replays of past PGA Tour competitions.",
-      "scheduledDate": 1791446400000,
-      "duration": 60,
-      "parentalRating": "",
-      "programType": "Sports non-event",
-      "genre": "Golf",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-10-08_SH051073670000_113532652791_2020-11-09T05:21:00Z_p18099468_i_h8_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-10-08_EP034202650206_113674212507_2026-08-25T19:34:47Z_p33934507_b_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "PGA Tour Golf",
       "episodeTitle": "Baycurrent Classic, First Round",
       "description": "From Yokohama Country Club in Yokohama, Kanagawa, Japan.",
-      "scheduledDate": 1791450000000,
+      "scheduledDate": 1791496800000,
       "duration": 90,
       "parentalRating": "",
       "programType": "Sports event",
@@ -138,59 +39,114 @@
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-10-08_SH030899370000_110982182699_2025-07-31T11:34:53Z_p845788_i_h8_af/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "Rory McIlroy Melboure Sandbelt",
-      "episodeTitle": "",
-      "description": "",
-      "scheduledDate": 1791455400000,
-      "duration": 30,
-      "parentalRating": "",
-      "programType": "Sports non-event",
-      "genre": "Special, Golf",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/Fallback_LTV_Fox_Sports_503/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
-    {
-      "programTitle": "Getting a Round In",
-      "episodeTitle": "Chris Goulding",
-      "description": "Australian professional golfer, Paul Gow hosts celebrities as his playing partners who share his love for the game of golf.",
-      "scheduledDate": 1791457200000,
-      "duration": 30,
-      "parentalRating": "",
-      "programType": "Series",
-      "genre": "Golf, Interview",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-10-08_SH048121120000_110998856207_2023-07-18T05:56:16Z_p25221374_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
-    {
-      "programTitle": "European PGA Tour Highlights",
-      "episodeTitle": "Alfred Dunhill Links Championship",
-      "description": "All the action and highlights from European Tour golf.",
-      "scheduledDate": 1791459000000,
-      "duration": 30,
-      "parentalRating": "",
-      "programType": "Sports non-event",
-      "genre": "Golf",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-10-08_SH037026900000_112448059278_2022-09-05T13:56:59Z_p9656797_i_h10_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
-    {
       "programTitle": "DP World Tour Golf",
       "episodeTitle": "Open de España, First Round",
       "description": "From Club de Campo Villa de Madrid in Madrid.",
-      "scheduledDate": 1791460800000,
-      "duration": 300,
+      "scheduledDate": 1791502200000,
+      "duration": 90,
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Golf",
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-10-08_EP040914080717_113661999621_2026-10-02T11:21:45Z_GNLZZGG003RCFTP/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
+      "programTitle": "Getting a Round In",
+      "episodeTitle": "Chris Goulding",
+      "description": "Australian professional golfer, Paul Gow hosts celebrities as his playing partners who share his love for the game of golf.",
+      "scheduledDate": 1791507600000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Series",
+      "genre": "Golf, Interview",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-10-09_SH048121120000_110998856207_2023-07-18T05:56:16Z_p25221374_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
       "programTitle": "PGA Tour Golf",
       "episodeTitle": "Baycurrent Classic, First Round",
       "description": "From Yokohama Country Club in Yokohama, Kanagawa, Japan.",
-      "scheduledDate": 1791478800000,
+      "scheduledDate": 1791509400000,
       "duration": 90,
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Golf",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-10-08_SH030899370000_110982182699_2025-07-31T11:34:53Z_p845788_i_h8_af/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-10-09_SH030899370000_110982182699_2025-07-31T11:34:53Z_p845788_i_h8_af/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "PGA Tour Golf",
+      "episodeTitle": "Baycurrent Classic, Second Round",
+      "description": "From Yokohama Country Club in Yokohama, Kanagawa, Japan.",
+      "scheduledDate": 1791514800000,
+      "duration": 240,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-10-09_SH030899370000_110982182699_2025-07-31T11:34:53Z_p845788_i_h8_af/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "DP World Tour Golf",
+      "episodeTitle": "Open de España, First Round",
+      "description": "From Club de Campo Villa de Madrid in Madrid.",
+      "scheduledDate": 1791529200000,
+      "duration": 90,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-10-09_EP040914080717_113661999621_2026-10-02T11:21:45Z_GNLZZGG003RCFTP/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "PGA Tour Golf",
+      "episodeTitle": "Baycurrent Classic, Second Round",
+      "description": "From Yokohama Country Club in Yokohama, Kanagawa, Japan.",
+      "scheduledDate": 1791534600000,
+      "duration": 90,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-10-09_EP030899371428_113662089971_2026-09-29T11:42:13Z_GNLZZGG003R2K97/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Getting a Round In",
+      "episodeTitle": "Chris Goulding",
+      "description": "Australian professional golfer, Paul Gow hosts celebrities as his playing partners who share his love for the game of golf.",
+      "scheduledDate": 1791540000000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Series",
+      "genre": "Golf, Interview",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-10-09_SH048121120000_110998856207_2023-07-18T05:56:16Z_p25221374_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "DP World Tour Golf",
+      "episodeTitle": "Open de España, First Round",
+      "description": "From Club de Campo Villa de Madrid in Madrid.",
+      "scheduledDate": 1791541800000,
+      "duration": 90,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-10-09_EP040914080717_113661999621_2026-10-02T11:21:45Z_GNLZZGG003RCFTP/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "DP World Tour Golf",
+      "episodeTitle": "Acciona Open de España, Second Round",
+      "description": "From Club de Campo Villa de Madrid in Madrid.",
+      "scheduledDate": 1791547200000,
+      "duration": 300,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-10-09_SH040914080000_113263749683_2022-04-26T15:48:27Z_p20993758_i_h8_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "2026 Presidents Cup",
+      "episodeTitle": "Final Day",
+      "description": "From Medinah Country Club in Medinah, Ill.",
+      "scheduledDate": 1791565200000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-10-09_SH066278790000_113540570691_2026-08-05T21:07:29Z_p33597240_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     }
   ]
 }

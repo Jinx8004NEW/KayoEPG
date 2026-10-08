@@ -1,92 +1,37 @@
 {
   "channel": "FAF",
-  "date": "2026-10-08",
+  "date": "2026-10-09",
   "source": "kayo",
-  "fetchedAt": 1791472602651,
-  "fetchedAtIST": "8/10/2026, 8:46:42 pm",
+  "fetchedAt": 1791493470559,
+  "fetchedAtIST": "9/10/2026, 2:34:30 am",
   "events": [
     {
-      "programTitle": "To Be Announced",
-      "episodeTitle": "",
-      "description": "The programming for this time slot has yet to be determined and is being confirmed by the broadcast channel.",
-      "scheduledDate": 1791403200000,
-      "duration": 240,
-      "parentalRating": "",
-      "programType": "TBA",
-      "genre": "Special, Entertainment",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-10-07_SH027575020000_112769671032_2021-11-15T14:36:19Z_p514472_b_h8_dp/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
-    {
       "programTitle": "AFL Trading Day",
-      "episodeTitle": "Day 3",
+      "episodeTitle": "Day 4",
       "description": "A panel of experts discuss all the player movements across the AFL, including all the proposals and rumours.",
-      "scheduledDate": 1791405000000,
+      "scheduledDate": 1791491400000,
       "duration": 30,
       "parentalRating": "",
       "programType": "Sports non-event",
       "genre": "Sports talk, Australian rules football",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-10-07_SH036713040000_113524789106_2025-10-15T06:35:58Z_p19064956_b_h10_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-10-08_SH036713040000_113524789106_2025-10-15T06:35:58Z_p19064956_b_h10_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "AFL",
-      "episodeTitle": "Brisbane Lions vs. Adelaide Crows",
-      "description": "From Brisbane Cricket Ground in Brisbane, Queensland, Australia.",
-      "scheduledDate": 1791406800000,
+      "episodeTitle": "Sydney Swans vs. Fremantle",
+      "description": "From Sydney Cricket Ground in Sydney.",
+      "scheduledDate": 1791493200000,
       "duration": 150,
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Playoff sports, Australian rules football",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-10-07_EP029151671452_113535363066_2026-09-08T19:46:37Z_GNLZZGG003N8MYG/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-10-08_EP029151671453_113535774656_2026-09-11T22:53:57Z_GNLZZGG003NQYR9/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "AFL Trading Day",
-      "episodeTitle": "Day 3",
+      "episodeTitle": "Day 4",
       "description": "A panel of experts discuss all the player movements across the AFL, including all the proposals and rumours.",
-      "scheduledDate": 1791415800000,
-      "duration": 30,
-      "parentalRating": "",
-      "programType": "Sports non-event",
-      "genre": "Sports talk, Australian rules football",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-10-07_SH036713040000_113524789106_2025-10-15T06:35:58Z_p19064956_b_h10_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
-    {
-      "programTitle": "AFL Mini",
-      "episodeTitle": "Round 4: North Melbourne Kangaroos v Carlton Blues",
-      "description": "Condensed highlights, reaction and analysis of the biggest sport stories from Australia and around the world.",
-      "scheduledDate": 1791417600000,
-      "duration": 20,
-      "parentalRating": "",
-      "programType": "Sports non-event",
-      "genre": "Australian rules football",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-10-08_SH042238570000_104529301600_2022-03-07T04:36:21Z_p21759801_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
-    {
-      "programTitle": "AFL Mini",
-      "episodeTitle": "Round 4: Adelaide Crows vs Fremantle Dockers",
-      "description": "Condensed highlights, reaction and analysis of the biggest sport stories from Australia and around the world.",
-      "scheduledDate": 1791418800000,
-      "duration": 20,
-      "parentalRating": "",
-      "programType": "Sports non-event",
-      "genre": "Australian rules football",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-10-08_SH042238570000_104529301600_2022-03-07T04:36:21Z_p21759801_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
-    {
-      "programTitle": "AFL Mini",
-      "episodeTitle": "Round 4: Richmond Tigers v Port Adelaide Power",
-      "description": "Condensed highlights, reaction and analysis of the biggest sport stories from Australia and around the world.",
-      "scheduledDate": 1791420000000,
-      "duration": 20,
-      "parentalRating": "",
-      "programType": "Sports non-event",
-      "genre": "Australian rules football",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-10-08_SH042238570000_104529301600_2022-03-07T04:36:21Z_p21759801_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
-    {
-      "programTitle": "AFL Trading Day",
-      "episodeTitle": "Day 3",
-      "description": "A panel of experts discuss all the player movements across the AFL, including all the proposals and rumours.",
-      "scheduledDate": 1791421200000,
+      "scheduledDate": 1791502200000,
       "duration": 30,
       "parentalRating": "",
       "programType": "Sports non-event",
@@ -95,344 +40,355 @@
     },
     {
       "programTitle": "AFL Mini",
-      "episodeTitle": "Round 4: West Coast Eagles v Sydney Swans",
+      "episodeTitle": "Round 5: Geelong Cats v West Coast Eagles",
       "description": "Condensed highlights, reaction and analysis of the biggest sport stories from Australia and around the world.",
-      "scheduledDate": 1791423000000,
+      "scheduledDate": 1791504000000,
       "duration": 20,
       "parentalRating": "",
       "programType": "Sports non-event",
       "genre": "Australian rules football",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-10-08_SH042238570000_104529301600_2022-03-07T04:36:21Z_p21759801_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-10-09_SH042238570000_104529301600_2022-03-07T04:36:21Z_p21759801_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "AFL Mini",
-      "episodeTitle": "Round 4: Melbourne Demons v Gold Coast Suns",
+      "episodeTitle": "Round 5: Greater Western Sydney Giants v Richmond Tigers",
       "description": "Condensed highlights, reaction and analysis of the biggest sport stories from Australia and around the world.",
-      "scheduledDate": 1791424200000,
+      "scheduledDate": 1791505200000,
       "duration": 20,
       "parentalRating": "",
       "programType": "Sports non-event",
       "genre": "Australian rules football",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-10-08_SH042238570000_104529301600_2022-03-07T04:36:21Z_p21759801_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-10-09_SH042238570000_104529301600_2022-03-07T04:36:21Z_p21759801_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "AFL Mini",
-      "episodeTitle": "Round 4: Western Bulldogs v Essendon Bombers",
+      "episodeTitle": "Round 5: Port Adelaide Power v St Kilda Saints",
       "description": "Condensed highlights, reaction and analysis of the biggest sport stories from Australia and around the world.",
-      "scheduledDate": 1791425400000,
+      "scheduledDate": 1791506400000,
       "duration": 20,
       "parentalRating": "",
       "programType": "Sports non-event",
       "genre": "Australian rules football",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-10-08_SH042238570000_104529301600_2022-03-07T04:36:21Z_p21759801_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-10-09_SH042238570000_104529301600_2022-03-07T04:36:21Z_p21759801_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "AFL Trading Day",
-      "episodeTitle": "Day 3",
+      "episodeTitle": "Day 4",
       "description": "A panel of experts discuss all the player movements across the AFL, including all the proposals and rumours.",
-      "scheduledDate": 1791426600000,
+      "scheduledDate": 1791507600000,
       "duration": 30,
       "parentalRating": "",
       "programType": "Sports non-event",
       "genre": "Sports talk, Australian rules football",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-10-08_SH036713040000_113524789106_2025-10-15T06:35:58Z_p19064956_b_h10_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-10-09_SH036713040000_113524789106_2025-10-15T06:35:58Z_p19064956_b_h10_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "AFL Mini",
-      "episodeTitle": "Round 4: Hawthorn Hawks v Geelong Cats",
+      "episodeTitle": "Round 6: Carlton Blues v Collingwood Magpies",
       "description": "Condensed highlights, reaction and analysis of the biggest sport stories from Australia and around the world.",
-      "scheduledDate": 1791428400000,
+      "scheduledDate": 1791509400000,
       "duration": 20,
       "parentalRating": "",
       "programType": "Sports non-event",
       "genre": "Australian rules football",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-10-08_SH042238570000_104529301600_2022-03-07T04:36:21Z_p21759801_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-10-09_SH042238570000_104529301600_2022-03-07T04:36:21Z_p21759801_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "AFL Mini",
-      "episodeTitle": "Round 5: Adelaide Crows v Carlton Blues",
+      "episodeTitle": "Round 6: Geelong Cats v Western Bulldogs",
       "description": "Condensed highlights, reaction and analysis of the biggest sport stories from Australia and around the world.",
-      "scheduledDate": 1791429600000,
+      "scheduledDate": 1791510600000,
       "duration": 20,
       "parentalRating": "",
       "programType": "Sports non-event",
       "genre": "Australian rules football",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-10-08_SH042238570000_104529301600_2022-03-07T04:36:21Z_p21759801_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-10-09_SH042238570000_104529301600_2022-03-07T04:36:21Z_p21759801_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "AFL Mini",
-      "episodeTitle": "Round 5: Collingwood Magpies v Fremantle Dockers",
+      "episodeTitle": "Round 6: Sydney Swans v Greater Western Sydney Giants",
       "description": "Condensed highlights, reaction and analysis of the biggest sport stories from Australia and around the world.",
-      "scheduledDate": 1791430800000,
+      "scheduledDate": 1791511800000,
       "duration": 20,
       "parentalRating": "",
       "programType": "Sports non-event",
       "genre": "Australian rules football",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-10-08_SH042238570000_104529301600_2022-03-07T04:36:21Z_p21759801_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-10-09_SH042238570000_104529301600_2022-03-07T04:36:21Z_p21759801_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "AFL Trading Day",
-      "episodeTitle": "Day 3",
+      "episodeTitle": "Day 4",
       "description": "A panel of experts discuss all the player movements across the AFL, including all the proposals and rumours.",
-      "scheduledDate": 1791432000000,
+      "scheduledDate": 1791513000000,
       "duration": 30,
       "parentalRating": "",
       "programType": "Sports non-event",
       "genre": "Sports talk, Australian rules football",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-10-08_SH036713040000_113524789106_2025-10-15T06:35:58Z_p19064956_b_h10_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-10-09_SH036713040000_113524789106_2025-10-15T06:35:58Z_p19064956_b_h10_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "AFL Mini",
-      "episodeTitle": "Round 5: Essendon Bombers v Melbourne Demons",
+      "episodeTitle": "Round 6: Gold Coast Suns v Essendon Bombers",
       "description": "Condensed highlights, reaction and analysis of the biggest sport stories from Australia and around the world.",
-      "scheduledDate": 1791433800000,
+      "scheduledDate": 1791514800000,
       "duration": 20,
       "parentalRating": "",
       "programType": "Sports non-event",
       "genre": "Australian rules football",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-10-08_SH042238570000_104529301600_2022-03-07T04:36:21Z_p21759801_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-10-09_SH042238570000_104529301600_2022-03-07T04:36:21Z_p21759801_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "AFL Mini",
-      "episodeTitle": "Round 5: Sydney Swans v Gold Coast Suns",
+      "episodeTitle": "Round 6: Hawthorn Hawks v Port Adelaide Power",
       "description": "Condensed highlights, reaction and analysis of the biggest sport stories from Australia and around the world.",
-      "scheduledDate": 1791435000000,
+      "scheduledDate": 1791516000000,
       "duration": 20,
       "parentalRating": "",
       "programType": "Sports non-event",
       "genre": "Australian rules football",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-10-08_SH042238570000_104529301600_2022-03-07T04:36:21Z_p21759801_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-10-09_SH042238570000_104529301600_2022-03-07T04:36:21Z_p21759801_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "AFL Mini",
-      "episodeTitle": "Round 5: Hawthorn Hawks v Western Bulldogs",
+      "episodeTitle": "Round 6: Adelaide Crows v St Kilda Saints",
       "description": "Condensed highlights, reaction and analysis of the biggest sport stories from Australia and around the world.",
-      "scheduledDate": 1791436200000,
+      "scheduledDate": 1791517200000,
       "duration": 20,
       "parentalRating": "",
       "programType": "Sports non-event",
       "genre": "Australian rules football",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-10-08_SH042238570000_104529301600_2022-03-07T04:36:21Z_p21759801_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
-    {
-      "programTitle": "AFL Trading Day",
-      "episodeTitle": "Day 3",
-      "description": "A panel of experts discuss all the player movements across the AFL, including all the proposals and rumours.",
-      "scheduledDate": 1791437400000,
-      "duration": 30,
-      "parentalRating": "",
-      "programType": "Sports non-event",
-      "genre": "Sports talk, Australian rules football",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-10-08_SH036713040000_113524789106_2025-10-15T06:35:58Z_p19064956_b_h10_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-10-09_SH042238570000_104529301600_2022-03-07T04:36:21Z_p21759801_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "AFL Trading Day",
       "episodeTitle": "Day 4",
       "description": "A panel of experts discuss all the player movements across the AFL, including all the proposals and rumours.",
-      "scheduledDate": 1791439200000,
+      "scheduledDate": 1791518400000,
       "duration": 30,
       "parentalRating": "",
       "programType": "Sports non-event",
       "genre": "Sports talk, Australian rules football",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-10-08_SH036713040000_113524789106_2025-10-15T06:35:58Z_p19064956_b_h10_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-10-09_SH036713040000_113524789106_2025-10-15T06:35:58Z_p19064956_b_h10_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "AFL Mini",
+      "episodeTitle": "Round 6: North Melbourne Kangaroos v Richmond Tigers",
+      "description": "Condensed highlights, reaction and analysis of the biggest sport stories from Australia and around the world.",
+      "scheduledDate": 1791520200000,
+      "duration": 20,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Australian rules football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-10-09_SH042238570000_104529301600_2022-03-07T04:36:21Z_p21759801_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "AFL Mini",
+      "episodeTitle": "Round 6: Melbourne Demons v Brisbane Lions",
+      "description": "Condensed highlights, reaction and analysis of the biggest sport stories from Australia and around the world.",
+      "scheduledDate": 1791521400000,
+      "duration": 20,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Australian rules football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-10-09_SH042238570000_104529301600_2022-03-07T04:36:21Z_p21759801_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "AFL Mini",
+      "episodeTitle": "Round 6: West Coast Eagles v Fremantle Dockers",
+      "description": "Condensed highlights, reaction and analysis of the biggest sport stories from Australia and around the world.",
+      "scheduledDate": 1791522600000,
+      "duration": 20,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Australian rules football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-10-09_SH042238570000_104529301600_2022-03-07T04:36:21Z_p21759801_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "AFL Trading Day",
       "episodeTitle": "Day 4",
       "description": "A panel of experts discuss all the player movements across the AFL, including all the proposals and rumours.",
-      "scheduledDate": 1791441000000,
+      "scheduledDate": 1791523800000,
       "duration": 30,
       "parentalRating": "",
       "programType": "Sports non-event",
       "genre": "Sports talk, Australian rules football",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-10-08_SH036713040000_113524789106_2025-10-15T06:35:58Z_p19064956_b_h10_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-10-09_SH036713040000_113524789106_2025-10-15T06:35:58Z_p19064956_b_h10_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "AFL Trading Day",
-      "episodeTitle": "Day 4",
+      "episodeTitle": "Day 5",
       "description": "A panel of experts discuss all the player movements across the AFL, including all the proposals and rumours.",
-      "scheduledDate": 1791442800000,
+      "scheduledDate": 1791525600000,
       "duration": 30,
       "parentalRating": "",
       "programType": "Sports non-event",
       "genre": "Sports talk, Australian rules football",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-10-08_SH036713040000_113524789106_2025-10-15T06:35:58Z_p19064956_b_h10_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-10-09_SH036713040000_113524789106_2025-10-15T06:35:58Z_p19064956_b_h10_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "AFL Trading Day",
-      "episodeTitle": "Day 4",
+      "episodeTitle": "Day 5",
       "description": "A panel of experts discuss all the player movements across the AFL, including all the proposals and rumours.",
-      "scheduledDate": 1791444600000,
+      "scheduledDate": 1791527400000,
       "duration": 30,
       "parentalRating": "",
       "programType": "Sports non-event",
       "genre": "Sports talk, Australian rules football",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-10-08_SH036713040000_113524789106_2025-10-15T06:35:58Z_p19064956_b_h10_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-10-09_SH036713040000_113524789106_2025-10-15T06:35:58Z_p19064956_b_h10_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "AFL Trading Day",
-      "episodeTitle": "Day 4",
+      "episodeTitle": "Day 5",
       "description": "A panel of experts discuss all the player movements across the AFL, including all the proposals and rumours.",
-      "scheduledDate": 1791446400000,
+      "scheduledDate": 1791529200000,
       "duration": 30,
       "parentalRating": "",
       "programType": "Sports non-event",
       "genre": "Sports talk, Australian rules football",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-10-08_SH036713040000_113524789106_2025-10-15T06:35:58Z_p19064956_b_h10_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-10-09_SH036713040000_113524789106_2025-10-15T06:35:58Z_p19064956_b_h10_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "AFL Trading Day",
-      "episodeTitle": "Day 4",
+      "episodeTitle": "Day 5",
       "description": "A panel of experts discuss all the player movements across the AFL, including all the proposals and rumours.",
-      "scheduledDate": 1791448200000,
+      "scheduledDate": 1791531000000,
       "duration": 30,
       "parentalRating": "",
       "programType": "Sports non-event",
       "genre": "Sports talk, Australian rules football",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-10-08_SH036713040000_113524789106_2025-10-15T06:35:58Z_p19064956_b_h10_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
-    {
-      "programTitle": "AFL Trading Day",
-      "episodeTitle": "Day 4",
-      "description": "A panel of experts discuss all the player movements across the AFL, including all the proposals and rumours.",
-      "scheduledDate": 1791450000000,
-      "duration": 30,
-      "parentalRating": "",
-      "programType": "Sports non-event",
-      "genre": "Sports talk, Australian rules football",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-10-08_SH036713040000_113524789106_2025-10-15T06:35:58Z_p19064956_b_h10_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
-    {
-      "programTitle": "AFL Trading Day",
-      "episodeTitle": "Day 4",
-      "description": "A panel of experts discuss all the player movements across the AFL, including all the proposals and rumours.",
-      "scheduledDate": 1791451800000,
-      "duration": 30,
-      "parentalRating": "",
-      "programType": "Sports non-event",
-      "genre": "Sports talk, Australian rules football",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-10-08_SH036713040000_113524789106_2025-10-15T06:35:58Z_p19064956_b_h10_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
-    {
-      "programTitle": "AFL Trading Day",
-      "episodeTitle": "Day 4",
-      "description": "A panel of experts discuss all the player movements across the AFL, including all the proposals and rumours.",
-      "scheduledDate": 1791453600000,
-      "duration": 30,
-      "parentalRating": "",
-      "programType": "Sports non-event",
-      "genre": "Sports talk, Australian rules football",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-10-08_SH036713040000_113524789106_2025-10-15T06:35:58Z_p19064956_b_h10_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
-    {
-      "programTitle": "AFL Trading Day",
-      "episodeTitle": "Day 4",
-      "description": "A panel of experts discuss all the player movements across the AFL, including all the proposals and rumours.",
-      "scheduledDate": 1791455400000,
-      "duration": 30,
-      "parentalRating": "",
-      "programType": "Sports non-event",
-      "genre": "Sports talk, Australian rules football",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-10-08_SH036713040000_113524789106_2025-10-15T06:35:58Z_p19064956_b_h10_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
-    {
-      "programTitle": "AFL Trading Day",
-      "episodeTitle": "Day 4",
-      "description": "A panel of experts discuss all the player movements across the AFL, including all the proposals and rumours.",
-      "scheduledDate": 1791457200000,
-      "duration": 30,
-      "parentalRating": "",
-      "programType": "Sports non-event",
-      "genre": "Sports talk, Australian rules football",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-10-08_SH036713040000_113524789106_2025-10-15T06:35:58Z_p19064956_b_h10_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
-    {
-      "programTitle": "AFL Trading Day",
-      "episodeTitle": "Day 4",
-      "description": "A panel of experts discuss all the player movements across the AFL, including all the proposals and rumours.",
-      "scheduledDate": 1791459000000,
-      "duration": 30,
-      "parentalRating": "",
-      "programType": "Sports non-event",
-      "genre": "Sports talk, Australian rules football",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-10-08_SH036713040000_113524789106_2025-10-15T06:35:58Z_p19064956_b_h10_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
-    {
-      "programTitle": "AFL Trading Day",
-      "episodeTitle": "Day 4",
-      "description": "A panel of experts discuss all the player movements across the AFL, including all the proposals and rumours.",
-      "scheduledDate": 1791460800000,
-      "duration": 30,
-      "parentalRating": "",
-      "programType": "Sports non-event",
-      "genre": "Sports talk, Australian rules football",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-10-08_SH036713040000_113524789106_2025-10-15T06:35:58Z_p19064956_b_h10_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
-    {
-      "programTitle": "AFL Trading Day",
-      "episodeTitle": "Day 4",
-      "description": "A panel of experts discuss all the player movements across the AFL, including all the proposals and rumours.",
-      "scheduledDate": 1791462600000,
-      "duration": 30,
-      "parentalRating": "",
-      "programType": "Sports non-event",
-      "genre": "Sports talk, Australian rules football",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-10-08_SH036713040000_113524789106_2025-10-15T06:35:58Z_p19064956_b_h10_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-10-09_SH036713040000_113524789106_2025-10-15T06:35:58Z_p19064956_b_h10_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "AFL Women's Premiership",
-      "episodeTitle": "North Melbourne Kangaroos vs Sydney Swans",
-      "description": "Live from Arden Street Oval. Bounce time: 1:05pm AEDT.",
-      "scheduledDate": 1791464400000,
+      "episodeTitle": "Western Bulldogs vs Essendon Bombers",
+      "description": "Live from Mission Whitten Oval. Bounce time: 7:15pm AEDT.",
+      "scheduledDate": 1791532800000,
+      "duration": 135,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Australian rules football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-10-09_EP029247970811_113406529245_2026-07-24T02:51:01Z_GNLZZGG003CBLKT/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "AFL Trading Day",
+      "episodeTitle": "Day 5",
+      "description": "A panel of experts discuss all the player movements across the AFL, including all the proposals and rumours.",
+      "scheduledDate": 1791540900000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Sports talk, Australian rules football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-10-09_SH036713040000_113524789106_2025-10-15T06:35:58Z_p19064956_b_h10_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "AFL Trading Day",
+      "episodeTitle": "Day 5",
+      "description": "A panel of experts discuss all the player movements across the AFL, including all the proposals and rumours.",
+      "scheduledDate": 1791542700000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Sports talk, Australian rules football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-10-09_SH036713040000_113524789106_2025-10-15T06:35:58Z_p19064956_b_h10_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "AFL Trading Day",
+      "episodeTitle": "Day 5",
+      "description": "A panel of experts discuss all the player movements across the AFL, including all the proposals and rumours.",
+      "scheduledDate": 1791544500000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Sports talk, Australian rules football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-10-09_SH036713040000_113524789106_2025-10-15T06:35:58Z_p19064956_b_h10_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "AFL Trading Day",
+      "episodeTitle": "Day 5",
+      "description": "A panel of experts discuss all the player movements across the AFL, including all the proposals and rumours.",
+      "scheduledDate": 1791546300000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Sports talk, Australian rules football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-10-09_SH036713040000_113524789106_2025-10-15T06:35:58Z_p19064956_b_h10_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "AFL Trading Day",
+      "episodeTitle": "Day 5",
+      "description": "A panel of experts discuss all the player movements across the AFL, including all the proposals and rumours.",
+      "scheduledDate": 1791548100000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Sports talk, Australian rules football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-10-09_SH036713040000_113524789106_2025-10-15T06:35:58Z_p19064956_b_h10_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "AFL Trading Day",
+      "episodeTitle": "Day 5",
+      "description": "A panel of experts discuss all the player movements across the AFL, including all the proposals and rumours.",
+      "scheduledDate": 1791549900000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Sports talk, Australian rules football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-10-09_SH036713040000_113524789106_2025-10-15T06:35:58Z_p19064956_b_h10_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "AFL Women's Premiership",
+      "episodeTitle": "Western Bulldogs vs Essendon Bombers",
+      "description": "Live from Mission Whitten Oval. Bounce time: 7:15pm AEDT.",
+      "scheduledDate": 1791551700000,
       "duration": 90,
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Australian rules football",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-10-08_EP029247970808_113535374002_2026-07-24T02:51:39Z_GNLZZGG003CC8K0/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
-    {
-      "programTitle": "AFL Women's Premiership",
-      "episodeTitle": "Collingwood Magpies vs Melbourne Demons",
-      "description": "Live from Victoria Park. Bounce time: 3:05pm AEDT.",
-      "scheduledDate": 1791469800000,
-      "duration": 90,
-      "parentalRating": "",
-      "programType": "Sports event",
-      "genre": "Australian rules football",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-10-08_EP029247970809_113535374031_2026-07-24T02:50:53Z_GNLZZGG003CCF2M/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
-    {
-      "programTitle": "AFL Women's Premiership",
-      "episodeTitle": "West Coast Eagles vs Fremantle Dockers",
-      "description": "From Leederville Oval in Leederville, Western Australia, Australia.",
-      "scheduledDate": 1791475200000,
-      "duration": 90,
-      "parentalRating": "",
-      "programType": "Sports event",
-      "genre": "Australian rules football",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-10-08_EP029247970810_113535373983_2026-07-24T02:50:45Z_GNLZZGG003CCBKX/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-10-09_EP029247970811_113406529245_2026-07-24T02:51:01Z_GNLZZGG003CBLKT/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "AFL Trading Day",
-      "episodeTitle": "Day 4",
+      "episodeTitle": "Day 5",
       "description": "A panel of experts discuss all the player movements across the AFL, including all the proposals and rumours.",
-      "scheduledDate": 1791480600000,
+      "scheduledDate": 1791557100000,
       "duration": 30,
       "parentalRating": "",
       "programType": "Sports non-event",
       "genre": "Sports talk, Australian rules football",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-10-08_SH036713040000_113524789106_2025-10-15T06:35:58Z_p19064956_b_h10_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-10-09_SH036713040000_113524789106_2025-10-15T06:35:58Z_p19064956_b_h10_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "AFL Mini",
-      "episodeTitle": "Opening Round: St Kilda Saints v Collingwood Magpies",
-      "description": "Condensed highlights, reaction and analysis of the biggest sport stories from Australia and around the world.",
-      "scheduledDate": 1791482400000,
-      "duration": 150,
+      "programTitle": "AFL Women's Premiership",
+      "episodeTitle": "Western Bulldogs vs Essendon Bombers",
+      "description": "Live from Mission Whitten Oval. Bounce time: 7:15pm AEDT.",
+      "scheduledDate": 1791558900000,
+      "duration": 90,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Australian rules football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-10-09_EP029247970811_113406529245_2026-07-24T02:51:01Z_GNLZZGG003CBLKT/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "AFL Trading Day",
+      "episodeTitle": "Day 5",
+      "description": "A panel of experts discuss all the player movements across the AFL, including all the proposals and rumours.",
+      "scheduledDate": 1791564300000,
+      "duration": 30,
       "parentalRating": "",
       "programType": "Sports non-event",
+      "genre": "Sports talk, Australian rules football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-10-09_SH036713040000_113524789106_2025-10-15T06:35:58Z_p19064956_b_h10_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "AFL Women's Premiership",
+      "episodeTitle": "Western Bulldogs vs Essendon Bombers",
+      "description": "Live from Mission Whitten Oval. Bounce time: 7:15pm AEDT.",
+      "scheduledDate": 1791566100000,
+      "duration": 90,
+      "parentalRating": "",
+      "programType": "Sports event",
       "genre": "Australian rules football",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-10-08_SH042238570000_104529301600_2022-03-07T04:36:21Z_p21759801_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-10-09_EP029247970811_113406529245_2026-07-24T02:51:01Z_GNLZZGG003CBLKT/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     }
   ]
 }

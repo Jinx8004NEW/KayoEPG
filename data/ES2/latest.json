@@ -1,240 +1,185 @@
 {
   "channel": "ES2",
-  "date": "2026-10-08",
+  "date": "2026-10-09",
   "source": "kayo",
-  "fetchedAt": 1791472602679,
-  "fetchedAtIST": "8/10/2026, 8:46:42 pm",
+  "fetchedAt": 1791493470590,
+  "fetchedAtIST": "9/10/2026, 2:34:30 am",
   "events": [
+    {
+      "programTitle": "NFL Blitz",
+      "episodeTitle": "",
+      "description": "All of the best action from the National Football League.",
+      "scheduledDate": 1791486000000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Family, Football, News, Newsmagazine",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-10-08_SH060667300000_113358670220_2022-09-12T05:46:51Z_p22911383_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
     {
       "programTitle": "College Football Live",
       "episodeTitle": "",
       "description": "Breaking news, analysis, features, roundtable discussions, and interviews covering all the latest events from the world of college football.",
-      "scheduledDate": 1791399600000,
+      "scheduledDate": 1791487800000,
       "duration": 30,
       "parentalRating": "",
       "programType": "Sports non-event",
       "genre": "Football, News",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-10-07_SH033651660000_113531114122_2017-12-12T23:22:00Z_p221266_i_h10_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-10-08_SH033651660000_113531114122_2017-12-12T23:22:00Z_p221266_i_h10_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "Prime 9",
-      "episodeTitle": "Characters",
-      "description": "Ranking the best of the best, on the field and off.",
-      "scheduledDate": 1791401400000,
-      "duration": 30,
+      "programTitle": "MLB Network Presents",
+      "episodeTitle": "Joy In Wrigleyville",
+      "description": "Reliving the Chicago Cubs' historic 2016 World Series Championship through the eyes of multi-generational Cubs fans and a look at the emotional impact of the Cubs' championship on the city of Chicago. Narrated by actor and Cubs fan John Cusack.",
+      "scheduledDate": 1791489600000,
+      "duration": 60,
       "parentalRating": "",
       "programType": "Sports non-event",
       "genre": "Baseball",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-10-07_SH034894280000_107410377292_2022-06-30T18:06:26Z_p864395_i_h10_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-10-08_SH034893870000_113687712155_2025-06-10T05:15:07Z_p11364240_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "MLB Baseball",
       "episodeTitle": "Cleveland Guardians at Chicago White Sox",
       "description": "From Rate Field in Chicago.",
-      "scheduledDate": 1791403200000,
+      "scheduledDate": 1791493200000,
       "duration": 180,
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Playoff sports, Baseball",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-10-07_EP062580852966_113591411055_2026-10-01T04:46:07Z_GNLZZGG003R7M77/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
-    {
-      "programTitle": "My Most Memorable Game",
-      "episodeTitle": "Bob Gibson",
-      "description": "Bob Gibson talks about his record-setting 17 strikeout performance in Game One of the 1968 World Series.",
-      "scheduledDate": 1791414000000,
-      "duration": 30,
-      "parentalRating": "",
-      "programType": "Sports non-event",
-      "genre": "Baseball",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-10-07_SH038385110000_113531114117_2018-02-03T10:01:00Z_p10436473_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
-    {
-      "programTitle": "Prime 9",
-      "episodeTitle": "All-1970's Team",
-      "description": "Ranking the best of the best, on the field and off.",
-      "scheduledDate": 1791415800000,
-      "duration": 30,
-      "parentalRating": "",
-      "programType": "Sports non-event",
-      "genre": "Baseball",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-10-07_SH034894280000_107410377292_2022-06-30T18:06:26Z_p864395_i_h10_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-10-08_EP062580852970_113695083316_2026-10-01T04:45:53Z_GNLZZGG003R7M4M/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "MLB Baseball",
       "episodeTitle": "Tampa Bay Rays at New York Yankees",
       "description": "From Yankee Stadium in the Bronx, N.Y.",
-      "scheduledDate": 1791417600000,
+      "scheduledDate": 1791504000000,
       "duration": 180,
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Playoff sports, Baseball",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-10-08_EP062580852968_113635730321_2026-10-01T07:46:07Z_GNLZZGG003R80L1/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-10-09_EP062580852971_113671897913_2026-10-01T07:45:41Z_GNLZZGG003R80WQ/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "SportsCenter",
-      "episodeTitle": "",
-      "description": "The team deliver the latest news, highlights, and inside information from the wide world of sports, as well as trending topics across social media platforms.",
-      "scheduledDate": 1791428400000,
-      "duration": 60,
-      "parentalRating": "",
-      "programType": "Sports non-event",
-      "genre": "News, Sports talk",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-10-08_SH033259060000_109832503473_2018-04-18T10:39:00Z_p186674_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
-    {
-      "programTitle": "SportsCenter",
-      "episodeTitle": "",
-      "description": "The team deliver the latest news, highlights, and inside information from the wide world of sports, as well as trending topics across social media platforms.",
-      "scheduledDate": 1791430200000,
-      "duration": 60,
-      "parentalRating": "",
-      "programType": "Sports non-event",
-      "genre": "News, Sports talk",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-10-08_SH033259060000_109832503473_2018-04-18T10:39:00Z_p186674_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
-    {
-      "programTitle": "Pardon the Interruption",
-      "episodeTitle": "",
-      "description": "Tony Kornheiser and Mike Wilbon have intense discussions and interview guests about the top headlines in news and sports.",
-      "scheduledDate": 1791432000000,
-      "duration": 30,
-      "parentalRating": "",
-      "programType": "Sports non-event",
-      "genre": "Sports talk",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-10-08_SH032424080000_108239731292_2021-04-08T22:26:28Z_p186288_i_h8_ae/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
-    {
-      "programTitle": "NFL Blitz",
-      "episodeTitle": "",
-      "description": "All of the best action from the National Football League.",
-      "scheduledDate": 1791433800000,
-      "duration": 30,
-      "parentalRating": "",
-      "programType": "Sports non-event",
-      "genre": "Family, Football, News, Newsmagazine",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-10-08_SH060667300000_113358670220_2022-09-12T05:46:51Z_p22911383_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
-    {
-      "programTitle": "MLB Baseball",
-      "episodeTitle": "Los Angeles Dodgers at Atlanta Braves",
-      "description": "From Truist Park in Atlanta.",
-      "scheduledDate": 1791435600000,
+      "programTitle": "NBA Basketball",
+      "episodeTitle": "Los Angeles Lakers vs Sacramento Kings",
+      "description": "From Crypto.com Arena in Los Angeles.",
+      "scheduledDate": 1791514800000,
       "duration": 120,
       "parentalRating": "",
       "programType": "Sports event",
-      "genre": "Playoff sports, Baseball",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-10-08_EP062580852967_113646264476_2026-10-02T04:47:01Z_GNLZZGG003RC5MV/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
-    {
-      "programTitle": "MLB Baseball",
-      "episodeTitle": "Los Angeles Dodgers at Atlanta Braves",
-      "description": "From Truist Park in Atlanta.",
-      "scheduledDate": 1791437400000,
-      "duration": 120,
-      "parentalRating": "",
-      "programType": "Sports event",
-      "genre": "Playoff sports, Baseball",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-10-08_EP062580852967_113551709207_2026-10-02T04:47:01Z_GNLZZGG003RC5MV/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
-    {
-      "programTitle": "ESPN FC",
-      "episodeTitle": "",
-      "description": "ESPN FC brings you a round-up of the latest news from the world of football, including in-depth analysis and exclusive interviews.",
-      "scheduledDate": 1791442800000,
-      "duration": 30,
-      "parentalRating": "",
-      "programType": "Series",
-      "genre": "Soccer, Sports talk",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-10-08_SH033236780000_109573421566_2026-05-25T06:15:30Z_p10106369_i_h11_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
-    {
-      "programTitle": "WNBL Full Court",
-      "episodeTitle": "",
-      "description": "",
-      "scheduledDate": 1791444600000,
-      "duration": 30,
-      "parentalRating": "",
-      "programType": "Sports non-event",
       "genre": "Basketball",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/Fallback_LTV_ESPN2/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-10-09_EP030658785440_113546508889_2026-09-01T21:21:13Z_GNLZZGG003M3HTH/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "WNBA Basketball",
-      "episodeTitle": "New York Liberty at Atlanta Dream",
-      "description": "From State Farm Arena in Atlanta.",
-      "scheduledDate": 1791446400000,
-      "duration": 120,
+      "programTitle": "Baseball Tonight",
+      "episodeTitle": "",
+      "description": "Major League Baseball highlights, news, and information show providing comprehensive season long coverage.",
+      "scheduledDate": 1791522000000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "News, Baseball",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-10-09_SH033235530000_112980364972_2026-08-10T19:26:00Z_p337588_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NFL Blitz",
+      "episodeTitle": "",
+      "description": "All of the best action from the National Football League.",
+      "scheduledDate": 1791523800000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Family, Football, News, Newsmagazine",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-10-09_SH060667300000_113358670220_2022-09-12T05:46:51Z_p22911383_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Saban",
+      "episodeTitle": "The Process",
+      "description": "",
+      "scheduledDate": 1791525600000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-10-09_SH066455750000_113678475212_2026-09-30T18:35:00Z_p33978875_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NFL Minis",
+      "episodeTitle": "2026: Tampa Bay Buccaneers vs Dallas Cowboys",
+      "description": "A collection of special condensed replays featuring the best highlights and all the key moments on the field.",
+      "scheduledDate": 1791529200000,
+      "duration": 30,
       "parentalRating": "",
       "programType": "Sports event",
-      "genre": "Playoff sports, Basketball",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-10-08_EP033268231148_113612184097_2026-10-01T07:46:20Z_GNLZZGG003R80QZ/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "genre": "Classic sport event, Football, News",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-10-09_SH036425140000_112544470268_2020-10-08T06:20:45Z_p18931248_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NFL Football",
+      "episodeTitle": "Dallas Cowboys vs Tampa Bay Buccaneers",
+      "description": "Live from AT&T Stadium in Arlington, Texas. Start time: 11:15am AEDT.",
+      "scheduledDate": 1791531000000,
+      "duration": 150,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-10-09_EP029371131899_113672234943_2026-07-15T07:27:18Z_GNLZZGG0039LG0H/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "MLB Baseball",
       "episodeTitle": "Tampa Bay Rays at New York Yankees",
       "description": "From Yankee Stadium in the Bronx, N.Y.",
-      "scheduledDate": 1791453600000,
+      "scheduledDate": 1791540000000,
       "duration": 120,
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Playoff sports, Baseball",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-10-08_EP062580852968_113635730321_2026-10-01T07:46:07Z_GNLZZGG003R80L1/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-10-09_EP062580852971_113671897913_2026-10-01T07:45:41Z_GNLZZGG003R80WQ/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "MLB Baseball",
-      "episodeTitle": "Milwaukee Brewers at San Diego Padres",
-      "description": "From PETCO Park in San Diego.",
-      "scheduledDate": 1791460800000,
-      "duration": 120,
+      "programTitle": "NBA Basketball",
+      "episodeTitle": "Houston Rockets vs Dallas Mavericks",
+      "description": "All the latest basketball action from the NBA.",
+      "scheduledDate": 1791547200000,
+      "duration": 150,
       "parentalRating": "",
       "programType": "Sports event",
-      "genre": "Playoff sports, Baseball",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-10-08_EP062580852969_113641519568_2026-10-01T07:45:51Z_GNLZZGG003R80Z2/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
-    {
-      "programTitle": "NFL Blitz",
-      "episodeTitle": "",
-      "description": "All of the best action from the National Football League.",
-      "scheduledDate": 1791468000000,
-      "duration": 30,
-      "parentalRating": "",
-      "programType": "Sports non-event",
-      "genre": "Family, Football, News, Newsmagazine",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-10-08_SH060667300000_113358670220_2022-09-12T05:46:51Z_p22911383_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
-    {
-      "programTitle": "WNBA Basketball",
-      "episodeTitle": "Atlanta Dream at New York Liberty",
-      "description": "From Barclays Center in Brooklyn, N.Y.",
-      "scheduledDate": 1791469800000,
-      "duration": 120,
-      "parentalRating": "",
-      "programType": "Sports event",
-      "genre": "Playoff sports, Basketball",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-10-08_EP033268231150_113687712119_2026-10-01T07:46:09Z_GNLZZGG003R80LL/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
-    {
-      "programTitle": "NFL Blitz",
-      "episodeTitle": "",
-      "description": "All of the best action from the National Football League.",
-      "scheduledDate": 1791477000000,
-      "duration": 30,
-      "parentalRating": "",
-      "programType": "Sports non-event",
-      "genre": "Family, Football, News, Newsmagazine",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-10-08_SH060667300000_113358670220_2022-09-12T05:46:51Z_p22911383_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "genre": "Basketball",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-10-09_EP030658785441_113546544453_2026-09-01T21:18:25Z_GNLZZGG003M3G29/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "First Take",
       "episodeTitle": "",
       "description": "Stephen A. Smith joins Molly Qerim Rose to debate the hottest topics in sports.",
-      "scheduledDate": 1791478800000,
-      "duration": 120,
+      "scheduledDate": 1791556200000,
+      "duration": 90,
       "parentalRating": "",
       "programType": "Sports non-event",
       "genre": "Sports talk, News, Debate",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-10-08_SH033280060000_108193810385_2025-11-07T06:36:14Z_p186291_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-10-09_SH033280060000_108193810385_2025-11-07T06:36:14Z_p186291_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "The Pat McAfee Show",
+      "episodeTitle": "",
+      "description": "Former NFL punter Pat McAfee brings his humour, sarcasm and candour to the microphone to highlight the day's top stories.",
+      "scheduledDate": 1791561600000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Series",
+      "genre": "Sports talk",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-10-09_SH048483860000_111648065422_2020-09-10T14:31:07Z_p18762527_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Get Up",
+      "episodeTitle": "",
+      "description": "Mike Greenberg, Laura Rutledge and Jalen Rose discuss and analyse the latest news from the world of sports.",
+      "scheduledDate": 1791568800000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Sports talk",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-10-09_SH033268270000_107093139583_2026-03-24T04:04:44Z_p15158780_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     }
   ]
 }
