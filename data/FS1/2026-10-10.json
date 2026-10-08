@@ -2,8 +2,8 @@
   "channel": "FS1",
   "date": "2026-10-10",
   "source": "kayo",
-  "fetchedAt": 1791435405092,
-  "fetchedAtIST": "8/10/2026, 10:26:45 am",
+  "fetchedAt": 1791472602635,
+  "fetchedAtIST": "8/10/2026, 8:46:42 pm",
   "events": [
     {
       "programTitle": "Test Cricket",
@@ -351,7 +351,7 @@
       "episodeTitle": "South Africa v Australia: 3rd ODI",
       "description": "Coverage of one-day cricket matches contested by international teams.",
       "scheduledDate": 1791655200000,
-      "duration": 120,
+      "duration": 60,
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Cricket, Classic sport event",

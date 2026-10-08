@@ -2,8 +2,8 @@
   "channel": "SP2",
   "date": "2026-10-08",
   "source": "kayo",
-  "fetchedAt": 1791435405100,
-  "fetchedAtIST": "8/10/2026, 10:26:45 am",
+  "fetchedAt": 1791472602641,
+  "fetchedAtIST": "8/10/2026, 8:46:42 pm",
   "events": [
     {
       "programTitle": "NRL",
@@ -534,15 +534,15 @@
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/Fallback_LTV_Fox_League/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "F",
-      "episodeTitle": "",
-      "description": "",
+      "programTitle": "NRL",
+      "episodeTitle": "Cronulla-Sutherland Sharks vs Sydney Roosters",
+      "description": "From Optus Stadium in Perth, Western Australia, Australia.",
       "scheduledDate": 1791472500000,
       "duration": 60,
       "parentalRating": "",
-      "programType": "",
-      "genre": "",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/Fallback_LTV_Fox_League/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "programType": "Sports event",
+      "genre": "Rugby league, Rugby",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-10-08_EP031720961078_113676670613_2026-03-11T08:40:11Z_GNLZZGG0030J63K/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "Run to the Grand Final",
@@ -604,7 +604,7 @@
       "episodeTitle": "Brisbane Broncos vs Sydney Roosters",
       "description": "From Suncorp Stadium in Milton, Queensland, Australia.",
       "scheduledDate": 1791483300000,
-      "duration": 45,
+      "duration": 60,
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Rugby league, Rugby",
