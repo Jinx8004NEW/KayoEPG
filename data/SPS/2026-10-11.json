@@ -1,0 +1,64 @@
+{
+  "channel": "SPS",
+  "date": "2026-10-11",
+  "source": "kayo",
+  "fetchedAt": 1791435405123,
+  "fetchedAtIST": "8/10/2026, 10:26:45 am",
+  "events": [
+    {
+      "programTitle": "Supercars Championship",
+      "episodeTitle": "Bathurst 1000 - Day 2 Top 10 Shootout",
+      "description": "Supercars compete in a series across Australia and New Zealand.",
+      "scheduledDate": 1791659700000,
+      "duration": 45,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Auto racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-10-10_EP027326761253_113596871828_2026-09-30T11:25:59Z_GNLZZGG003R5Z0K/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Supercars Championship",
+      "episodeTitle": "Bathurst 1000 - Day 2 Practice and Supports",
+      "description": "Supercars compete in a series across Australia and New Zealand.",
+      "scheduledDate": 1791662400000,
+      "duration": 80,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Auto racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-10-10_EP027326761252_113591743506_2026-09-30T11:24:51Z_GNLZZGG003R5XZG/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Supercars Championship",
+      "episodeTitle": "Bathurst 1000 - Day 3 Supports and Warm Up",
+      "description": "Supercars compete in a series across Australia and New Zealand.",
+      "scheduledDate": 1791667200000,
+      "duration": 40,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Auto racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-10-10_EP027326761254_113629166855_2026-10-01T05:22:13Z_GNLZZGG003R7R76/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Supercars Championship",
+      "episodeTitle": "Bathurst 1000 - Day 3 Supports and Warm Up",
+      "description": "Supercars compete in a series across Australia and New Zealand.",
+      "scheduledDate": 1791669600000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Auto racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-10-10_EP027326761254_113629166855_2026-10-01T05:22:13Z_GNLZZGG003R7R76/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Supercars The Grid",
+      "episodeTitle": "Repco Bathurst 1000",
+      "description": "Join the team on The Grid for a comprehensive look at today's action.",
+      "scheduledDate": 1791673200000,
+      "duration": 90,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Motorsports",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-10-10_SH035476440000_102449861571_2020-06-26T14:05:10Z_p18489136_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    }
+  ]
+}

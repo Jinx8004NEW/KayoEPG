@@ -1,0 +1,20 @@
+{
+  "channel": "ESP",
+  "date": "2026-10-11",
+  "source": "kayo",
+  "fetchedAt": 1791435405135,
+  "fetchedAtIST": "8/10/2026, 10:26:45 am",
+  "events": [
+    {
+      "programTitle": "To Be Announced",
+      "episodeTitle": "",
+      "description": "The programming for this time slot has yet to be determined and is being confirmed by the broadcast channel.",
+      "scheduledDate": 1791662400000,
+      "duration": 240,
+      "parentalRating": "",
+      "programType": "TBA",
+      "genre": "Special, Entertainment",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-10-10_SH027575020000_112769671032_2021-11-15T14:36:19Z_p514472_b_h8_dp/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    }
+  ]
+}

@@ -2,8 +2,8 @@
   "channel": "RTV",
   "date": "2026-10-09",
   "source": "kayo",
-  "fetchedAt": 1791406986134,
-  "fetchedAtIST": "8/10/2026, 2:33:06 am",
+  "fetchedAt": 1791435405147,
+  "fetchedAtIST": "8/10/2026, 10:26:45 am",
   "events": [
     {
       "programTitle": "The Trial Show",
@@ -72,15 +72,15 @@
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/Fallback_LTV_Racing_TV/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "Raceday Review",
+      "programTitle": "Racing Live",
       "episodeTitle": "",
-      "description": "A look back at the action from events on the Australian horse racing calendar with analytics and in-depth reviews from the track.",
+      "description": "Features comprehensive coverage of some of the top horse racing events taking place in Australia and Hong Kong.",
       "scheduledDate": 1791509400000,
-      "duration": 30,
+      "duration": 275,
       "parentalRating": "",
-      "programType": "Sports non-event",
+      "programType": "Series",
       "genre": "Horse racing",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/148460_2026-10-09_SH029304380000_107969744569_2019-10-09T23:20:18Z_p15316396_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/148460_2026-10-09_SH029317280000_112642301077_2019-10-09T21:00:41Z_p15322312_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "Racing Live",
@@ -92,6 +92,17 @@
       "programType": "Series",
       "genre": "Horse racing",
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/148460_2026-10-09_SH029317280000_112642301077_2019-10-09T21:00:41Z_p15322312_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Racenight Live",
+      "episodeTitle": "",
+      "description": "Coverage of horse racing events held throughout Australia and in Hong Kong, as well as analytics and in-depth reviews from the track.",
+      "scheduledDate": 1791525900000,
+      "duration": 55,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Horse racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/148460_2026-10-09_SH029437720000_107971181386_2019-10-09T21:40:26Z_p15391316_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "Racenight Live",

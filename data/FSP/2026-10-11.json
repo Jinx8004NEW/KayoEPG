@@ -1,0 +1,42 @@
+{
+  "channel": "FSP",
+  "date": "2026-10-11",
+  "source": "kayo",
+  "fetchedAt": 1791435405118,
+  "fetchedAtIST": "8/10/2026, 10:26:45 am",
+  "events": [
+    {
+      "programTitle": "NASCAR O'Reilly Auto Parts Series",
+      "episodeTitle": "Blue Cross NC 300",
+      "description": "From Charlotte Motor Speedway in Concord, N.C.",
+      "scheduledDate": 1791660600000,
+      "duration": 210,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Auto racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-10-10_EP062929950027_113651749702_2026-09-22T11:21:36Z_GNLZZGG003PV22D/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Formula 1",
+      "episodeTitle": "Singapore Grand Prix: Sprint Race",
+      "description": "Features all the action and highlights from Formula 1 racing.",
+      "scheduledDate": 1791673200000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Classic sport event, Motorsports, Auto racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-10-10_SH035915380000_109578600751_2023-09-29T11:04:19Z_p8544413_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Ted's Notebook",
+      "episodeTitle": "Singapore Grand Prix: Sprint Race",
+      "description": "Ted Kravitz gives an exciting behind-the-scenes look at the world of Formula 1.",
+      "scheduledDate": 1791675000000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Auto racing, Motorsports",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-10-10_SH038161890000_106370532176_2021-03-17T07:49:14Z_p9739735_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    }
+  ]
+}

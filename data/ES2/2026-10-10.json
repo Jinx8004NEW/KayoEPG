@@ -2,8 +2,8 @@
   "channel": "ES2",
   "date": "2026-10-10",
   "source": "kayo",
-  "fetchedAt": 1791406986125,
-  "fetchedAtIST": "8/10/2026, 2:33:06 am",
+  "fetchedAt": 1791435405142,
+  "fetchedAtIST": "8/10/2026, 10:26:45 am",
   "events": [
     {
       "programTitle": "NFL Live",
@@ -81,6 +81,105 @@
       "programType": "Sports event",
       "genre": "Playoff sports, Basketball",
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-10-09_EP033268231152_113591743479_2026-10-01T07:46:23Z_GNLZZGG003R80Y7/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "The Breakdown With Peyton and Kuechly",
+      "episodeTitle": "",
+      "description": "",
+      "scheduledDate": 1791595800000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-10-10_SH066422700000_113596871861_2026-09-24T21:55:05Z_p34154641_i_h10_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "College Football Scoreboard",
+      "episodeTitle": "",
+      "description": "Highlights and up to the minute scores during the college football season, with a look at the major storylines in the competition.",
+      "scheduledDate": 1791597600000,
+      "duration": 15,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-10-10_SH033268260000_112437273027_2019-12-21T18:40:07Z_p629287_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "College Football",
+      "episodeTitle": "BYU vs Iowa State",
+      "description": "From LaVell Edwards Stadium in Provo, Utah",
+      "scheduledDate": 1791598500000,
+      "duration": 180,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-10-10_EP064738030800_113598929738_2026-06-20T04:23:43Z_GNLZZGG0036QWS0/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "College Football",
+      "episodeTitle": "Louisville vs Florida State",
+      "description": "From L&N Federal Credit Union Stadium in Louisville, Ky.",
+      "scheduledDate": 1791609300000,
+      "duration": 105,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-10-10_EP064738030722_113598792457_2026-06-20T01:25:17Z_GNLZZGG0036Q5TK/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "WNBA Basketball",
+      "episodeTitle": "Atlanta Dream at New York Liberty",
+      "description": "From Barclays Center in Brooklyn, N.Y.",
+      "scheduledDate": 1791615600000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Playoff sports, Basketball",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-10-10_EP033268231152_113591743479_2026-10-01T07:46:23Z_GNLZZGG003R80Y7/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "MLB Baseball",
+      "episodeTitle": "Atlanta Braves at Los Angeles Dodgers",
+      "description": "From Uniqlo Field at Dodger Stadium in Los Angeles.",
+      "scheduledDate": 1791622800000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Playoff sports, Baseball",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-10-10_EP062580852973_113624223660_2026-10-02T04:47:58Z_GNLZZGG003RC5QZ/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "College Football",
+      "episodeTitle": "BYU vs Iowa State",
+      "description": "From LaVell Edwards Stadium in Provo, Utah",
+      "scheduledDate": 1791630000000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-10-10_EP064738030800_113598929738_2026-06-20T04:23:43Z_GNLZZGG0036QWS0/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "College GameDay",
+      "episodeTitle": "",
+      "description": "Rece Davis, Lee Corso, Kirk Herbstreit, and Desmond Howard provide their take on US football, complete with reports and unique analysis.",
+      "scheduledDate": 1791637200000,
+      "duration": 180,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-10-10_SH033268870000_113596871472_2024-11-04T17:34:02Z_p629309_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "College Football",
+      "episodeTitle": "Missouri vs Texas A&M",
+      "description": "From Faurot Field in Columbia, Mo.",
+      "scheduledDate": 1791648000000,
+      "duration": 180,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-10-10_EP064738030784_113596871865_2026-06-20T04:22:11Z_GNLZZGG0036QLN3/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     }
   ]
 }

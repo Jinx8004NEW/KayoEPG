@@ -2,8 +2,8 @@
   "channel": "SP2",
   "date": "2026-10-08",
   "source": "kayo",
-  "fetchedAt": 1791406986081,
-  "fetchedAtIST": "8/10/2026, 2:33:06 am",
+  "fetchedAt": 1791435405100,
+  "fetchedAtIST": "8/10/2026, 10:26:45 am",
   "events": [
     {
       "programTitle": "NRL",
@@ -490,15 +490,15 @@
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-10-08_SH047168440000_107963082214_2026-05-25T11:55:41Z_p19607826_i_h10_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "Run to the Grand Final",
-      "episodeTitle": "",
-      "description": "",
+      "programTitle": "NRL",
+      "episodeTitle": "Sydney Roosters vs South Sydney Rabbitohs",
+      "description": "From Allianz Stadium in Sydney.",
       "scheduledDate": 1791464400000,
-      "duration": 60,
+      "duration": 75,
       "parentalRating": "",
-      "programType": "Sports non-event",
-      "genre": "Other",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/Fallback_LTV_Fox_League/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "programType": "Sports event",
+      "genre": "Rugby league, Rugby",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-10-08_EP031720961044_106542024458_2026-02-24T16:30:32Z_GNLZZGG002E6M1S/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "Run to the Grand Final",
@@ -512,6 +512,17 @@
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/Fallback_LTV_Fox_League/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
+      "programTitle": "NRL",
+      "episodeTitle": "Manly-Warringah Sea Eagles vs Sydney Roosters",
+      "description": "From 4 Pines Park in Brookvale, New South Wales, Australia.",
+      "scheduledDate": 1791468900000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Rugby league, Rugby",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-10-08_EP031720961058_106337807727_2026-02-24T10:19:05Z_GNLZZGG002E11CZ/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
       "programTitle": "Run to the Grand Final",
       "episodeTitle": "",
       "description": "",
@@ -520,6 +531,17 @@
       "parentalRating": "",
       "programType": "Sports non-event",
       "genre": "Other",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/Fallback_LTV_Fox_League/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "F",
+      "episodeTitle": "",
+      "description": "",
+      "scheduledDate": 1791472500000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "",
+      "genre": "",
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/Fallback_LTV_Fox_League/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
@@ -534,6 +556,17 @@
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/Fallback_LTV_Fox_League/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
+      "programTitle": "NRL",
+      "episodeTitle": "Sydney Roosters vs Newcastle Knights",
+      "description": "Live from Accor Stadium. Kick off at 7:30PM AEDT.",
+      "scheduledDate": 1791476100000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Playoff sports, Rugby league, Rugby",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-10-08_EP031720961247_113444497212_2026-09-27T13:42:48Z_GNLZZGG003PYM7N/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
       "programTitle": "Run to the Grand Final",
       "episodeTitle": "",
       "description": "",
@@ -545,6 +578,17 @@
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/Fallback_LTV_Fox_League/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
+      "programTitle": "NRL",
+      "episodeTitle": "St. George Illawarra Dragons vs Sydney Roosters",
+      "description": "From Allianz Stadium in Sydney.",
+      "scheduledDate": 1791479700000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Rugby league, Rugby",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-10-08_EP031720961093_111338298466_2026-03-11T04:26:22Z_GNLZZGG0030GQ1V/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
       "programTitle": "Run to the Grand Final",
       "episodeTitle": "",
       "description": "",
@@ -554,6 +598,17 @@
       "programType": "Sports non-event",
       "genre": "Other",
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/Fallback_LTV_Fox_League/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NRL",
+      "episodeTitle": "Brisbane Broncos vs Sydney Roosters",
+      "description": "From Suncorp Stadium in Milton, Queensland, Australia.",
+      "scheduledDate": 1791483300000,
+      "duration": 45,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Rugby league, Rugby",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-10-08_EP031720961156_109631388564_2026-04-08T03:09:35Z_GNLZZGG00328EQL/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     }
   ]
 }
