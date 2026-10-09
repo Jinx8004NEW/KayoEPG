@@ -2,8 +2,8 @@
   "channel": "ES2",
   "date": "2026-10-11",
   "source": "kayo",
-  "fetchedAt": 1791522007858,
-  "fetchedAtIST": "9/10/2026, 10:30:07 am",
+  "fetchedAt": 1791558106883,
+  "fetchedAtIST": "9/10/2026, 8:31:46 pm",
   "events": [
     {
       "programTitle": "College Football Scoreboard",
@@ -69,7 +69,7 @@
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Football",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-10-10_SH064738030000_111807072570_2021-12-22T16:16:53Z_p191261_i_h8_ag/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-10-10_SH064738030000_113753074752_2021-12-22T16:16:53Z_p191261_i_h8_ag/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "College Football",
@@ -135,29 +135,29 @@
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Playoff sports, Baseball",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-10-11_EP062580852975_113721186525_2026-10-01T04:46:13Z_GNLZZGG003R7M9D/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
-    {
-      "programTitle": "MLB Baseball",
-      "episodeTitle": "New York Yankees at Tampa Bay Rays",
-      "description": "From Tropicana Field in St. Petersburg, Fla.",
-      "scheduledDate": 1791712800000,
-      "duration": 120,
-      "parentalRating": "",
-      "programType": "Sports event",
-      "genre": "Playoff sports, Baseball",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-10-11_EP062580852974_113721186527_2026-10-01T07:45:24Z_GNLZZGG003R80T9/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-10-11_EP062580852975_113753671596_2026-10-01T04:46:13Z_GNLZZGG003R7M9D/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "College Football",
       "episodeTitle": "Texas vs Oklahoma",
       "description": "From Cotton Bowl Stadium in Dallas.",
-      "scheduledDate": 1791720000000,
+      "scheduledDate": 1791712800000,
       "duration": 120,
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Football",
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-10-11_EP064738030817_113709448194_2026-06-20T04:25:03Z_GNLZZGG0036QQBC/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "College Football",
+      "episodeTitle": "Kentucky vs LSU",
+      "description": "From Kroger Field in Lexington, Ky.",
+      "scheduledDate": 1791720000000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-10-11_EP064738033541_113737150179_2026-10-06T22:49:49Z_GNLZZGG003RMB76/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "Sunday NFL Countdown",

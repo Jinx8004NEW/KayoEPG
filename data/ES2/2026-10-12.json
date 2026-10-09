@@ -2,19 +2,52 @@
   "channel": "ES2",
   "date": "2026-10-12",
   "source": "kayo",
-  "fetchedAt": 1791522007859,
-  "fetchedAtIST": "9/10/2026, 10:30:07 am",
+  "fetchedAt": 1791558106883,
+  "fetchedAtIST": "9/10/2026, 8:31:46 pm",
   "events": [
     {
-      "programTitle": "To Be Announced",
+      "programTitle": "College Football Final",
       "episodeTitle": "",
-      "description": "The programming for this time slot has yet to be determined and is being confirmed by the broadcast channel.",
+      "description": "Matt Barrie, Joey Galloway and Jesse Palmer take a look at the latest college football action, recapping the games and discussing the highlights.",
       "scheduledDate": 1791748800000,
-      "duration": 240,
+      "duration": 60,
       "parentalRating": "",
-      "programType": "TBA",
-      "genre": "Special, Entertainment",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-10-11_SH027575020000_112769671032_2021-11-15T14:36:19Z_p514472_b_h8_dp/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "programType": "Sports non-event",
+      "genre": "Football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-10-11_SH033308190000_113753188521_2018-01-20T00:41:00Z_p221262_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Women's College Volleyball",
+      "episodeTitle": "Arizona State vs TCU",
+      "description": "From Desert Financial Arena in Tempe, Ariz.",
+      "scheduledDate": 1791752400000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Volleyball",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-10-11_EP062509050210_113753189403_2026-08-18T16:59:19Z_GNLZZGG003G7MWT/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "MLB Epic Moments",
+      "episodeTitle": "Boston Idiots",
+      "description": "In 2004 the Boston Red Sox were on the verge of getting swept by their bitter rivals, the New York Yankees, in the ALCS. But this self-proclaimed team of idiots refused to believe in the curse and made history.",
+      "scheduledDate": 1791759600000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Series",
+      "genre": "Baseball",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-10-11_EP034893820006_113753188258_2023-08-07T02:43:41Z_p11731089_e_h10_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "MLB Epic Moments",
+      "episodeTitle": "The Bucs Stop Here",
+      "description": "In-depth look at incredible moments in baseball that built careers, reputations and myths.",
+      "scheduledDate": 1791761400000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Series",
+      "genre": "Baseball",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/Fallback_LTV_ESPN2/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     }
   ]
 }

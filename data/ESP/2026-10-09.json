@@ -2,8 +2,8 @@
   "channel": "ESP",
   "date": "2026-10-09",
   "source": "kayo",
-  "fetchedAt": 1791522007852,
-  "fetchedAtIST": "9/10/2026, 10:30:07 am",
+  "fetchedAt": 1791558106876,
+  "fetchedAtIST": "9/10/2026, 8:31:46 pm",
   "events": [
     {
       "programTitle": "NBA Today",
@@ -194,14 +194,14 @@
     },
     {
       "programTitle": "NFL Films Presents",
-      "episodeTitle": "",
+      "episodeTitle": "Unique Journeys",
       "description": "A unique perspective on the heroes and personalities of the NFL and how they influenced the history of the sport.",
       "scheduledDate": 1791563400000,
       "duration": 30,
       "parentalRating": "",
       "programType": "Sports non-event",
-      "genre": "Football",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-10-09_SH033308300000_113271413287_2026-09-18T18:36:12Z_p448767_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "genre": "Football, Documentary",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-10-09_EP033308300140_113753188402_2026-10-04T16:54:43Z_p34268704_e_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "NFL Blitz",
@@ -230,7 +230,7 @@
       "episodeTitle": "",
       "description": "College football analyst Josh Pate and the Bussin' with the Boys crew preview college football action.",
       "scheduledDate": 1791568800000,
-      "duration": 120,
+      "duration": 60,
       "parentalRating": "",
       "programType": "Sports non-event",
       "genre": "Football",

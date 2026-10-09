@@ -2,9 +2,20 @@
   "channel": "FSS",
   "date": "2026-10-12",
   "source": "kayo",
-  "fetchedAt": 1791522007849,
-  "fetchedAtIST": "9/10/2026, 10:30:07 am",
+  "fetchedAt": 1791558106872,
+  "fetchedAtIST": "9/10/2026, 8:31:46 pm",
   "events": [
+    {
+      "programTitle": "World Surf League Highlights",
+      "episodeTitle": "Trestles",
+      "description": "Action from the World Surf League.",
+      "scheduledDate": 1791748800000,
+      "duration": 50,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Surfing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-10-11_SH037137820000_107844260793_2023-03-28T14:37:31Z_p12753420_i_h8_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
     {
       "programTitle": "World Surf League Highlights",
       "episodeTitle": "Trestles",
@@ -15,6 +26,17 @@
       "programType": "Sports non-event",
       "genre": "Surfing",
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-10-11_SH037137820000_107844260793_2023-03-28T14:37:31Z_p12753420_i_h8_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "My Game: Tiger Woods",
+      "episodeTitle": "My Driving",
+      "description": "Tiger presents his keys to a great drive and guides how to hit the four basic shots. He reflects on the advantage his strength gave him and how his speed changed the game.",
+      "scheduledDate": 1791751800000,
+      "duration": 10,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-10-11_SH035435950000_107134189906_2019-09-11T08:00:16Z_p17353505_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "Supercars Championship",

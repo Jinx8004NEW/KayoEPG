@@ -2,8 +2,8 @@
   "channel": "SP2",
   "date": "2026-10-09",
   "source": "kayo",
-  "fetchedAt": 1791522007808,
-  "fetchedAtIST": "9/10/2026, 10:30:07 am",
+  "fetchedAt": 1791558106834,
+  "fetchedAtIST": "9/10/2026, 8:31:46 pm",
   "events": [
     {
       "programTitle": "Run to the Grand Final",
@@ -600,15 +600,15 @@
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-10-09_SH034822800000_100794011205_2020-04-08T22:50:08Z_p18168517_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "NRL Mini",
-      "episodeTitle": "",
-      "description": "A comprehensive summary of the match played is provided in an expedited timeframe.",
+      "programTitle": "NRL",
+      "episodeTitle": "North Queensland Cowboys vs Sydney Roosters",
+      "description": "From Queensland Country Bank Stadium in Townsville, Queensland, Australia.",
       "scheduledDate": 1791568800000,
       "duration": 60,
       "parentalRating": "",
-      "programType": "Sports non-event",
+      "programType": "Sports event",
       "genre": "Rugby league, Rugby",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-10-09_SH035786430000_106552413658_2020-10-16T18:30:18Z_p18624350_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-10-09_EP031720961191_110993300955_2026-02-10T03:17:20Z_GNLZZGG002QD9BR/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     }
   ]
 }

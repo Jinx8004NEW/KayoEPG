@@ -2,30 +2,30 @@
   "channel": "SP2",
   "date": "2026-10-10",
   "source": "kayo",
-  "fetchedAt": 1791522007809,
-  "fetchedAtIST": "9/10/2026, 10:30:07 am",
+  "fetchedAt": 1791558106835,
+  "fetchedAtIST": "9/10/2026, 8:31:46 pm",
   "events": [
     {
       "programTitle": "NRL",
-      "episodeTitle": "Cronulla-Sutherland Sharks vs Canberra Raiders",
-      "description": "From Ocean Protect Stadium in Woolooware, New South Wales, Australia.",
+      "episodeTitle": "Sydney Roosters vs Canterbury-Bankstown Bulldogs",
+      "description": "From Allianz Stadium in Sydney.",
       "scheduledDate": 1791572400000,
       "duration": 60,
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Rugby league, Rugby",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-10-09_EP031720961210_113646167527_2026-02-24T16:32:13Z_GNLZZGG002E1NVG/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-10-09_EP031720961201_113753187932_2026-02-16T07:49:55Z_GNLZZGG002QQJEH/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "NRL",
-      "episodeTitle": "Canberra Raiders vs Brisbane Broncos",
-      "description": "From GIO Stadium Canberra in Bruce, Australian Capital Territory, Australia.",
+      "episodeTitle": "Penrith Panthers vs Sydney Roosters",
+      "description": "Live from CommBank Stadium. Kick off at 4:05PM AEST.",
       "scheduledDate": 1791576000000,
       "duration": 60,
       "parentalRating": "",
       "programType": "Sports event",
-      "genre": "Rugby league, Rugby",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-10-09_EP031720961216_113679098896_2026-02-24T16:25:38Z_GNLZZGG002E1WZN/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "genre": "Playoff sports, Rugby league, Rugby",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-10-09_EP031720961242_113428305548_2026-09-06T23:09:51Z_GNLZZGG003ME20P/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "NRL Mini",

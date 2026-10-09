@@ -2,19 +2,30 @@
   "channel": "FSP",
   "date": "2026-10-12",
   "source": "kayo",
-  "fetchedAt": 1791522007832,
-  "fetchedAtIST": "9/10/2026, 10:30:07 am",
+  "fetchedAt": 1791558106857,
+  "fetchedAtIST": "9/10/2026, 8:31:46 pm",
   "events": [
     {
       "programTitle": "Formula 1",
       "episodeTitle": "Singapore Grand Prix",
       "description": "From Marina Bay Street Circuit in Singapore.",
       "scheduledDate": 1791743400000,
-      "duration": 90,
+      "duration": 30,
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Auto racing",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-10-11_EP027326820877_113697500719_2026-09-18T15:45:42Z_p32388909_b_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-10-11_EP027326820877_113738038373_2026-09-18T15:45:42Z_p32388909_b_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "PGA Tour Champions Golf",
+      "episodeTitle": "Constellation Furyk & Friends, Third Round",
+      "description": "Golfing action from the PGA Tour Champions.",
+      "scheduledDate": 1791745200000,
+      "duration": 180,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-10-11_EP034248570461_113753189292_2026-10-09T13:23:57Z_GNLZZGG003RV2CX/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "To Be Announced",
@@ -26,6 +37,28 @@
       "programType": "TBA",
       "genre": "Special, Entertainment",
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-10-11_SH027575020000_112769671032_2021-11-15T14:36:19Z_p514472_b_h8_dp/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Supercars Championship",
+      "episodeTitle": "Repco Bathurst 1000, Race",
+      "description": "Highlights and replays of classic races of the international motor racing series for Supercars.",
+      "scheduledDate": 1791756000000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Series",
+      "genre": "Auto racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-10-11_SH035728470000_113699461789_2018-12-17T21:00:00Z_p16276370_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Formula 1",
+      "episodeTitle": "Singapore Grand Prix",
+      "description": "From Marina Bay Street Circuit in Singapore.",
+      "scheduledDate": 1791759600000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Auto racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-10-11_EP027326820877_113738038373_2026-09-18T15:45:42Z_p32388909_b_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     }
   ]
 }
