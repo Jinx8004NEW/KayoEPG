@@ -2,8 +2,8 @@
   "channel": "RTV",
   "date": "2026-10-09",
   "source": "kayo",
-  "fetchedAt": 1791493470596,
-  "fetchedAtIST": "9/10/2026, 2:34:30 am",
+  "fetchedAt": 1791522007865,
+  "fetchedAtIST": "9/10/2026, 10:30:07 am",
   "events": [
     {
       "programTitle": "The Trial Show",
@@ -237,10 +237,21 @@
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/148460_2026-10-09_SH029304380000_107969744569_2019-10-09T23:20:18Z_p15316396_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
+      "programTitle": "Raceday Review",
+      "episodeTitle": "",
+      "description": "A look back at the action from events on the Australian horse racing calendar with analytics and in-depth reviews from the track.",
+      "scheduledDate": 1791563400000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Horse racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/148460_2026-10-09_SH029304380000_107969744569_2019-10-09T23:20:18Z_p15316396_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
       "programTitle": "Get On Extra",
       "episodeTitle": "",
       "description": "Lizzie Jelfs and a panel of experts join in for a lively discussion, previewing the best from the world of racing in Australia.",
-      "scheduledDate": 1791563400000,
+      "scheduledDate": 1791565200000,
       "duration": 30,
       "parentalRating": "",
       "programType": "Sports non-event",
@@ -251,7 +262,7 @@
       "programTitle": "The Analyser",
       "episodeTitle": "",
       "description": "Ben Asgari previews and examines the day's racing, featuring speed maps and replays for every race on the card.",
-      "scheduledDate": 1791565200000,
+      "scheduledDate": 1791567000000,
       "duration": 30,
       "parentalRating": "",
       "programType": "Series",
@@ -262,7 +273,7 @@
       "programTitle": "Get On!",
       "episodeTitle": "",
       "description": "Host Matt Hill and a panel of experts discuss the fixed betting markets and share their picks for upcoming race meetings.",
-      "scheduledDate": 1791567000000,
+      "scheduledDate": 1791568800000,
       "duration": 60,
       "parentalRating": "",
       "programType": "Sports non-event",

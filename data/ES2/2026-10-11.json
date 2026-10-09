@@ -2,8 +2,8 @@
   "channel": "ES2",
   "date": "2026-10-11",
   "source": "kayo",
-  "fetchedAt": 1791493470591,
-  "fetchedAtIST": "9/10/2026, 2:34:30 am",
+  "fetchedAt": 1791522007858,
+  "fetchedAtIST": "9/10/2026, 10:30:07 am",
   "events": [
     {
       "programTitle": "College Football Scoreboard",
@@ -36,7 +36,7 @@
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Football",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-10-10_EP064738030817_113668596154_2026-06-20T04:25:03Z_GNLZZGG0036QQBC/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-10-10_EP064738030817_113709448194_2026-06-20T04:25:03Z_GNLZZGG0036QQBC/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "College Football Scoreboard",
@@ -80,7 +80,106 @@
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Football",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-10-10_EP064738033529_113639717787_2026-09-29T14:09:22Z_GNLZZGG003R37SY/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-10-10_EP064738033529_113708378364_2026-09-29T14:09:22Z_GNLZZGG003R37SY/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NBA Basketball",
+      "episodeTitle": "Phoenix Suns vs San Antonio Spurs",
+      "description": "From Mortgage Matchup Center in Phoenix.",
+      "scheduledDate": 1791687600000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Basketball",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-10-11_EP030658785449_113643169047_2026-09-01T22:54:23Z_GNLZZGG003M3KH7/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "In Depth With Graham Bensinger",
+      "episodeTitle": "Dikembe Mutombo",
+      "description": "Graham visits the Congo to meet former basketball star and Hall of Famer Dikembe Mutombo. They check out a hospital built by Mutombo and discuss his career.",
+      "scheduledDate": 1791694800000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Series",
+      "genre": "Sports talk, Interview",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-10-11_EP033308670132_113644474810_2025-08-11T17:54:25Z_p28383013_e_h11_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "College Football",
+      "episodeTitle": "Texas vs Oklahoma",
+      "description": "From Cotton Bowl Stadium in Dallas.",
+      "scheduledDate": 1791696600000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-10-11_EP064738030817_113709448194_2026-06-20T04:25:03Z_GNLZZGG0036QQBC/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "ESPN FC",
+      "episodeTitle": "",
+      "description": "ESPN FC brings you a round-up of the latest news from the world of football, including in-depth analysis and exclusive interviews.",
+      "scheduledDate": 1791703800000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Series",
+      "genre": "Soccer, Sports talk",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-10-11_SH033236780000_109573421566_2026-05-25T06:15:30Z_p10106369_i_h11_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "MLB Baseball",
+      "episodeTitle": "Chicago White Sox at Cleveland Guardians",
+      "description": "From Progressive Field in Cleveland.",
+      "scheduledDate": 1791705600000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Playoff sports, Baseball",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-10-11_EP062580852975_113721186525_2026-10-01T04:46:13Z_GNLZZGG003R7M9D/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "MLB Baseball",
+      "episodeTitle": "New York Yankees at Tampa Bay Rays",
+      "description": "From Tropicana Field in St. Petersburg, Fla.",
+      "scheduledDate": 1791712800000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Playoff sports, Baseball",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-10-11_EP062580852974_113721186527_2026-10-01T07:45:24Z_GNLZZGG003R80T9/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "College Football",
+      "episodeTitle": "Texas vs Oklahoma",
+      "description": "From Cotton Bowl Stadium in Dallas.",
+      "scheduledDate": 1791720000000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-10-11_EP064738030817_113709448194_2026-06-20T04:25:03Z_GNLZZGG0036QQBC/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Sunday NFL Countdown",
+      "episodeTitle": "",
+      "description": "Samantha Ponder, with a team of analysts, introduces the features and directs the storylines associated with the day's games.",
+      "scheduledDate": 1791727200000,
+      "duration": 180,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-10-11_SH033308210000_113646167474_2019-09-06T20:20:11Z_p924452_i_h8_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NFL Football",
+      "episodeTitle": "Pittsburgh Steelers vs Indianapolis Colts",
+      "description": "From Acrisure Stadium in Pittsburgh.",
+      "scheduledDate": 1791738000000,
+      "duration": 180,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-10-11_EP029371131902_113721203576_2026-07-15T07:27:34Z_GNLZZGG0039QBPT/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     }
   ]
 }
