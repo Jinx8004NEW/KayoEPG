@@ -2,8 +2,8 @@
   "channel": "FAF",
   "date": "2026-10-13",
   "source": "kayo",
-  "fetchedAt": 1791661861004,
-  "fetchedAtIST": "11/10/2026, 1:21:01 am",
+  "fetchedAt": 1791674293345,
+  "fetchedAtIST": "11/10/2026, 4:48:13 am",
   "events": [
     {
       "programTitle": "To Be Announced",
@@ -15,6 +15,50 @@
       "programType": "TBA",
       "genre": "Special, Entertainment",
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-10-12_SH027575020000_112769671032_2021-11-15T14:36:19Z_p514472_b_h8_dp/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "AFL Trading Day",
+      "episodeTitle": "",
+      "description": "A panel of experts discuss all the player movements across the AFL, including all the proposals and rumours.",
+      "scheduledDate": 1791837000000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Sports talk",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-10-12_SH036713040000_113524789106_2025-10-15T06:35:58Z_p19064956_b_h10_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "AFL Women's Premiership",
+      "episodeTitle": "Geelong Cats vs GWS GIANTS",
+      "description": "Live from GMHBA Stadium. Bounce time: 5:05pm AEDT.",
+      "scheduledDate": 1791838800000,
+      "duration": 90,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Australian rules football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-10-12_EP029247970813_113537491748_2026-07-24T02:51:12Z_GNLZZGG003CC19D/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "AFL Trading Day",
+      "episodeTitle": "",
+      "description": "A panel of experts discuss all the player movements across the AFL, including all the proposals and rumours.",
+      "scheduledDate": 1791844200000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Sports talk",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-10-12_SH036713040000_113524789106_2025-10-15T06:35:58Z_p19064956_b_h10_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "AFL Women's Premiership",
+      "episodeTitle": "Richmond Tigers vs Adelaide Crows",
+      "description": "Live from IKON Park. Bounce time: 7:15pm AEDT.",
+      "scheduledDate": 1791846000000,
+      "duration": 90,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Australian rules football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-10-12_EP029247970814_113350642873_2026-07-24T02:50:43Z_GNLZZGG003CC78G/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     }
   ]
 }
