@@ -2,8 +2,8 @@
   "channel": "FS1",
   "date": "2026-10-10",
   "source": "kayo",
-  "fetchedAt": 1791607530790,
-  "fetchedAtIST": "10/10/2026, 10:15:30 am",
+  "fetchedAt": 1791641855885,
+  "fetchedAtIST": "10/10/2026, 7:47:35 pm",
   "events": [
     {
       "programTitle": "Test Cricket",
@@ -308,6 +308,17 @@
       "description": "Coverage of Test cricket matches contested by international teams.",
       "scheduledDate": 1791635400000,
       "duration": 180,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Cricket",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-10-10_EP029804991906_113607175623_2026-10-06T17:01:56Z_GNLZZGG003RJYKJ/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Test Cricket",
+      "episodeTitle": "1st Test, Day 2 Session 3: Bangladesh vs. Australia",
+      "description": "Coverage of Test cricket matches contested by international teams.",
+      "scheduledDate": 1791637200000,
+      "duration": 150,
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Cricket",
