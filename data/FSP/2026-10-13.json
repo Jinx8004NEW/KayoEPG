@@ -1,0 +1,53 @@
+{
+  "channel": "FSP",
+  "date": "2026-10-13",
+  "source": "kayo",
+  "fetchedAt": 1791607530829,
+  "fetchedAtIST": "10/10/2026, 10:15:30 am",
+  "events": [
+    {
+      "programTitle": "MotoGP Racing",
+      "episodeTitle": "Pertamina Grand Prix of Indonesia",
+      "description": "From Mandalika International Street Circuit in Nusa Tenggara Barat, Indonesia.",
+      "scheduledDate": 1791837000000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Motorcycle racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-10-12_EP028104881587_113752787554_2026-10-09T13:24:24Z_GNLZZGG003RV2FH/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Supercars Championship",
+      "episodeTitle": "Repco Bathurst 1000, Race",
+      "description": "Highlights and replays of classic races of the international motor racing series for Supercars.",
+      "scheduledDate": 1791840600000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Series",
+      "genre": "Auto racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-10-12_SH035728470000_113699461789_2018-12-17T21:00:00Z_p16276370_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Formula 1",
+      "episodeTitle": "Singapore Grand Prix",
+      "description": "From Marina Bay Street Circuit in Singapore.",
+      "scheduledDate": 1791844200000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Auto racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-10-12_EP027326820877_113738038373_2026-09-18T15:45:42Z_p32388909_b_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "DP World Tour Golf",
+      "episodeTitle": "Acciona Open de España, Final Round",
+      "description": "From Club de Campo Villa de Madrid in Madrid.",
+      "scheduledDate": 1791846000000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-10-12_EP040914080124_113753188261_2022-09-09T15:08:28Z_p22820691_b_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    }
+  ]
+}

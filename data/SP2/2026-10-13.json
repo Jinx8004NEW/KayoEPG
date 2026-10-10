@@ -1,0 +1,64 @@
+{
+  "channel": "SP2",
+  "date": "2026-10-13",
+  "source": "kayo",
+  "fetchedAt": 1791607530805,
+  "fetchedAtIST": "10/10/2026, 10:15:30 am",
+  "events": [
+    {
+      "programTitle": "NRL",
+      "episodeTitle": "Sydney Roosters vs Penrith Panthers",
+      "description": "From Allianz Stadium in Sydney.",
+      "scheduledDate": 1791831600000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Rugby league, Rugby",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-10-12_EP031720961051_113757222213_2026-02-23T22:25:59Z_GNLZZGG002YTD50/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NRL",
+      "episodeTitle": "Melbourne Storm vs Brisbane Broncos",
+      "description": "From AAMI Park in Melbourne City, Victoria, Australia.",
+      "scheduledDate": 1791835200000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Rugby league, Rugby",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-10-12_EP031720961052_113757221735_2026-02-24T08:12:07Z_GNLZZGG002YYEBR/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NRL",
+      "episodeTitle": "Newcastle Knights vs New Zealand Warriors",
+      "description": "From McDonald Jones Stadium in Newcastle, New South Wales, Australia.",
+      "scheduledDate": 1791838800000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Rugby league, Rugby",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-10-12_EP031720961053_113757221690_2026-02-24T08:14:04Z_GNLZZGG002YYZT6/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NRL",
+      "episodeTitle": "Cronulla-Sutherland Sharks vs Dolphins",
+      "description": "Comprehensive coverage and full game replays of all the matches played in Australia's National Rugby League.",
+      "scheduledDate": 1791842400000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Rugby league, Rugby",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-10-12_EP031720961054_113757221803_2026-02-24T02:19:38Z_GNLZZGG002YXFRY/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NRL",
+      "episodeTitle": "South Sydney Rabbitohs vs Wests Tigers",
+      "description": "Comprehensive coverage and full game replays of all the matches played in Australia's National Rugby League.",
+      "scheduledDate": 1791846000000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Rugby league, Rugby",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-10-12_EP031720961055_113757222218_2026-02-24T16:26:23Z_GNLZZGG002E16K5/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    }
+  ]
+}

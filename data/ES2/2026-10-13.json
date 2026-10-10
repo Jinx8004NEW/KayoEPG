@@ -1,0 +1,42 @@
+{
+  "channel": "ES2",
+  "date": "2026-10-13",
+  "source": "kayo",
+  "fetchedAt": 1791607530856,
+  "fetchedAtIST": "10/10/2026, 10:15:30 am",
+  "events": [
+    {
+      "programTitle": "MLB Epic Moments",
+      "episodeTitle": "Saving Seattle",
+      "description": "MLB Epic Moments revisits the 1995 Seattle Mariners team and the team that kept baseball in the Pacific Northwest.",
+      "scheduledDate": 1791833400000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Series",
+      "genre": "Baseball",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-10-12_EP034893820003_113757222225_2023-02-22T05:37:55Z_p11302509_e_h11_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NBA Today",
+      "episodeTitle": "",
+      "description": "Daily NBA show from Los Angeles about everything you need to know about your favourite sport.",
+      "scheduledDate": 1791835200000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Sports talk, Basketball",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-10-12_SH040441750000_109626193132_2021-11-02T16:57:12Z_p20706981_i_h10_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "MLB Baseball",
+      "episodeTitle": "Los Angeles Dodgers at Milwaukee Brewers",
+      "description": "From American Family Field in Milwaukee.",
+      "scheduledDate": 1791838800000,
+      "duration": 180,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Playoff sports, Baseball",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-10-12_EP062580852977_113762271084_2026-10-08T07:49:42Z_GNLZZGG003RPP4E/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    }
+  ]
+}
