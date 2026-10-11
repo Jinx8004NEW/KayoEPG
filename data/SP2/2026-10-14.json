@@ -2,19 +2,63 @@
   "channel": "SP2",
   "date": "2026-10-14",
   "source": "kayo",
-  "fetchedAt": 1791729773125,
-  "fetchedAtIST": "11/10/2026, 8:12:53 pm",
+  "fetchedAt": 1791748660986,
+  "fetchedAtIST": "12/10/2026, 1:27:40 am",
   "events": [
     {
-      "programTitle": "To Be Announced",
+      "programTitle": "NRL",
       "episodeTitle": "",
-      "description": "The programming for this time slot has yet to be determined and is being confirmed by the broadcast channel.",
-      "scheduledDate": 1791921600000,
-      "duration": 240,
+      "description": "Comprehensive coverage and full game replays of all the matches played in Australia's National Rugby League.",
+      "scheduledDate": 1791918000000,
+      "duration": 60,
       "parentalRating": "",
-      "programType": "TBA",
-      "genre": "Special, Entertainment",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-10-13_SH027575020000_112769671032_2021-11-15T14:36:19Z_p514472_b_h8_dp/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "programType": "Sports event",
+      "genre": "Rugby league, Rugby",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-10-13_SH031720960000_113055987103_2025-02-14T21:33:28Z_p817685_i_h8_ad/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NRL",
+      "episodeTitle": "North Queensland Cowboys vs Melbourne Storm",
+      "description": "From Queensland Country Bank Stadium in Townsville, Queensland, Australia.",
+      "scheduledDate": 1791921600000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Rugby league, Rugby",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-10-13_EP031720961063_113812823682_2026-02-24T08:12:14Z_GNLZZGG002YYK87/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NRL",
+      "episodeTitle": "Canberra Raiders vs Cronulla-Sutherland Sharks",
+      "description": "From GIO Stadium Canberra in Bruce, Australian Capital Territory, Australia.",
+      "scheduledDate": 1791925200000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Rugby league, Rugby",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-10-13_EP031720961064_113812823690_2026-02-24T16:28:40Z_GNLZZGG002E1H7K/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NRL",
+      "episodeTitle": "Gold Coast Titans vs St. George Illawarra Dragons",
+      "description": "From Cbus Super Stadium in Robina, Australia.",
+      "scheduledDate": 1791928800000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Rugby league, Rugby",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-10-13_EP031720961065_113812823677_2026-02-24T10:33:52Z_GNLZZGG002YE4ES/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NRL",
+      "episodeTitle": "Dolphins vs Manly-Warringah Sea Eagles",
+      "description": "From Kayo Stadium in Redcliffe, Queensland, Australia.",
+      "scheduledDate": 1791932400000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Rugby league, Rugby",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-10-13_EP031720961066_111334422195_2026-03-11T06:44:19Z_GNLZZGG0030HV5W/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     }
   ]
 }
