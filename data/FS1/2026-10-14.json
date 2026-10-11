@@ -1,0 +1,31 @@
+{
+  "channel": "FS1",
+  "date": "2026-10-14",
+  "source": "kayo",
+  "fetchedAt": 1791693046176,
+  "fetchedAtIST": "11/10/2026, 10:00:46 am",
+  "events": [
+    {
+      "programTitle": "Test Cricket",
+      "episodeTitle": "2020/21 - Australia vs India, 4th Test",
+      "description": "Coverage and highlights from international test cricket matches.",
+      "scheduledDate": 1791916200000,
+      "duration": 90,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Cricket, Classic sport event",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-10-13_SH033446590000_98978823590_2023-09-29T14:53:53Z_p8163404_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "To Be Announced",
+      "episodeTitle": "",
+      "description": "The programming for this time slot has yet to be determined and is being confirmed by the broadcast channel.",
+      "scheduledDate": 1791921600000,
+      "duration": 240,
+      "parentalRating": "",
+      "programType": "TBA",
+      "genre": "Special, Entertainment",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-10-13_SH027575020000_112769671032_2021-11-15T14:36:19Z_p514472_b_h8_dp/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    }
+  ]
+}
