@@ -2,8 +2,8 @@
   "channel": "ESP",
   "date": "2026-10-14",
   "source": "kayo",
-  "fetchedAt": 1791780359340,
-  "fetchedAtIST": "12/10/2026, 10:15:59 am",
+  "fetchedAt": 1791826088928,
+  "fetchedAtIST": "12/10/2026, 10:58:08 pm",
   "events": [
     {
       "programTitle": "NBA Today",
@@ -84,14 +84,14 @@
     },
     {
       "programTitle": "MLB Baseball",
-      "episodeTitle": "",
-      "description": "Coverage of the action from the Major League Baseball.",
+      "episodeTitle": "Cleveland Guardians at Tampa Bay Rays",
+      "description": "From Tropicana Field in St. Petersburg, Fla.",
       "scheduledDate": 1791936000000,
       "duration": 180,
       "parentalRating": "",
       "programType": "Sports event",
-      "genre": "Baseball",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-10-14_SH062580850000_113754847233_2022-04-14T08:06:14Z_p191273_i_h8_ad/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "genre": "Playoff sports, Baseball",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-10-14_EP062580852979_113848554966_2026-10-11T04:45:34Z_GNLZZGG003RZR1Y/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "NFL Live",
@@ -241,7 +241,7 @@
       "episodeTitle": "",
       "description": "Peter Schrager covers the biggest stories from across the sports world each day.",
       "scheduledDate": 1792000800000,
-      "duration": 120,
+      "duration": 60,
       "parentalRating": "",
       "programType": "Sports non-event",
       "genre": "Football",

@@ -2,8 +2,8 @@
   "channel": "SP2",
   "date": "2026-10-14",
   "source": "kayo",
-  "fetchedAt": 1791780359299,
-  "fetchedAtIST": "12/10/2026, 10:15:59 am",
+  "fetchedAt": 1791826088884,
+  "fetchedAtIST": "12/10/2026, 10:58:08 pm",
   "events": [
     {
       "programTitle": "NRL",
@@ -116,15 +116,15 @@
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-10-14_SH053177030000_100906053540_2025-10-15T06:38:51Z_p28430202_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "Greatest Test Matches",
-      "episodeTitle": "1989: Australia v New Zealand, 3rd Test",
-      "description": "Presents a selection of international clashes featuring memorable moments, great rivalries, inspirational performances and thrilling finishes.",
+      "programTitle": "Rugby League Rewind",
+      "episodeTitle": "1978: Australia v New Zealand, 3rd Test",
+      "description": "A journey back to some of the most historic moments in rugby league history.",
       "scheduledDate": 1791950400000,
       "duration": 60,
       "parentalRating": "",
-      "programType": "Sports non-event",
-      "genre": "Rugby",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-10-14_SH053177030000_100906053540_2025-10-15T06:38:51Z_p28430202_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "programType": "Sports event",
+      "genre": "Classic sport event, Rugby league",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-10-14_SH035309220000_101997306219_2020-06-04T05:30:16Z_p18385895_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "International Rugby League",
@@ -172,8 +172,8 @@
     },
     {
       "programTitle": "Greatest Test Matches",
-      "episodeTitle": "2016: Australia v New Zealand, 2nd Test",
-      "description": "A preview of the 2016 second-test match between Australia and New Zealand.",
+      "episodeTitle": "2016: Australia v New Zealand",
+      "description": "Presents a selection of international clashes featuring memorable moments, great rivalries, inspirational performances and thrilling finishes.",
       "scheduledDate": 1791968400000,
       "duration": 90,
       "parentalRating": "",
