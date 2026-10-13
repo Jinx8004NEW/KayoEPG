@@ -2,8 +2,8 @@
   "channel": "FS1",
   "date": "2026-10-15",
   "source": "kayo",
-  "fetchedAt": 1791890922473,
-  "fetchedAtIST": "13/10/2026, 4:58:42 pm",
+  "fetchedAt": 1791917929499,
+  "fetchedAtIST": "14/10/2026, 12:28:49 am",
   "events": [
     {
       "programTitle": "Test Cricket",
@@ -381,25 +381,25 @@
     },
     {
       "programTitle": "Test Cricket",
-      "episodeTitle": "1st Test, Day 3: South Africa v Australia",
-      "description": "Coverage and highlights from international test cricket matches.",
+      "episodeTitle": "1st Test, Day 3 Session 3: South Africa vs. Australia",
+      "description": "Coverage of Test cricket matches contested by international teams.",
       "scheduledDate": 1792083600000,
       "duration": 60,
       "parentalRating": "",
       "programType": "Sports event",
-      "genre": "Cricket, Classic sport event",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-10-15_SH033446590000_98978823590_2023-09-29T14:53:53Z_p8163404_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "genre": "Cricket",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-10-15_EP029804991909_113706757171_2026-10-07T16:58:11Z_GNLZZGG003RNT81/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "Test Cricket",
-      "episodeTitle": "South Africa vs Australia",
-      "description": "From Kingsmead Cricket Ground in Kwazulu-Natal, South Africa.",
+      "episodeTitle": "1st Test, Day 4 Session 3: South Africa vs. Australia",
+      "description": "Coverage of Test cricket matches contested by international teams.",
       "scheduledDate": 1792087200000,
       "duration": 120,
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Cricket",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-10-15_EP029804991876_113765507007_2026-09-20T19:40:37Z_GNLZZGG003PPB1H/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-10-15_EP029804991912_113753187889_2026-10-07T16:56:35Z_GNLZZGG003RNSFV/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     }
   ]
 }

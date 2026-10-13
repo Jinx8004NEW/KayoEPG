@@ -2,19 +2,63 @@
   "channel": "SP2",
   "date": "2026-10-16",
   "source": "kayo",
-  "fetchedAt": 1791890922480,
-  "fetchedAtIST": "13/10/2026, 4:58:42 pm",
+  "fetchedAt": 1791917929506,
+  "fetchedAtIST": "14/10/2026, 12:28:49 am",
   "events": [
     {
-      "programTitle": "To Be Announced",
-      "episodeTitle": "",
-      "description": "The programming for this time slot has yet to be determined and is being confirmed by the broadcast channel.",
-      "scheduledDate": 1792094400000,
-      "duration": 240,
+      "programTitle": "NRL",
+      "episodeTitle": "Dolphins vs Penrith Panthers",
+      "description": "From Suncorp Stadium in Milton, Queensland, Australia.",
+      "scheduledDate": 1792090800000,
+      "duration": 60,
       "parentalRating": "",
-      "programType": "TBA",
-      "genre": "Special, Entertainment",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-10-15_SH027575020000_112769671032_2021-11-15T14:36:19Z_p514472_b_h8_dp/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "programType": "Sports event",
+      "genre": "Rugby league, Rugby",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-10-15_EP031720960828_104224429245_2025-04-09T01:16:43Z_GNLZZGG001QSFWH/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NRL",
+      "episodeTitle": "New Zealand Warriors vs Gold Coast Titans",
+      "description": "From Go Media Stadium in Penrose, Auckland, New Zealand.",
+      "scheduledDate": 1792094400000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Rugby league, Rugby",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-10-15_EP031720961085_113906289962_2026-03-11T08:42:25Z_GNLZZGG0030J86V/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NRL",
+      "episodeTitle": "South Sydney Rabbitohs vs St. George Illawarra Dragons",
+      "description": "From Accor Stadium in Sydney.",
+      "scheduledDate": 1792098000000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Rugby league, Rugby",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-10-15_EP031720961086_113906289916_2026-03-11T08:41:38Z_GNLZZGG0030JCSZ/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NRL",
+      "episodeTitle": "Wests Tigers vs Brisbane Broncos",
+      "description": "From Campbelltown Stadium in Campbelltown, New South Wales, Australia.",
+      "scheduledDate": 1792101600000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Rugby league, Rugby",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-10-15_EP031720961087_113906289953_2026-03-11T06:32:47Z_GNLZZGG0030HFQM/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NRL",
+      "episodeTitle": "Sydney Roosters vs Newcastle Knights",
+      "description": "Live from Accor Stadium. Kick off at 7:30PM AEDT.",
+      "scheduledDate": 1792105200000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Playoff sports, Rugby league, Rugby",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-10-15_EP031720961247_113906289910_2026-09-27T13:42:48Z_GNLZZGG003PYM7N/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     }
   ]
 }

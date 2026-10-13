@@ -2,9 +2,20 @@
   "channel": "SPS",
   "date": "2026-10-16",
   "source": "kayo",
-  "fetchedAt": 1791890922505,
-  "fetchedAtIST": "13/10/2026, 4:58:42 pm",
+  "fetchedAt": 1791917929533,
+  "fetchedAtIST": "14/10/2026, 12:28:49 am",
   "events": [
+    {
+      "programTitle": "MotoGP: After The Flag",
+      "episodeTitle": "Indonesia",
+      "description": "The commentary team interview the top riders and wrap up the weekend of action after the Grand Prix.",
+      "scheduledDate": 1792089000000,
+      "duration": 90,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Motorcycle racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-10-15_SH045144180000_112768561209_2022-10-28T12:27:14Z_p23278858_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
     {
       "programTitle": "To Be Announced",
       "episodeTitle": "",
