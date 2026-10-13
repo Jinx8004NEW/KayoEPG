@@ -2,8 +2,8 @@
   "channel": "FSP",
   "date": "2026-10-15",
   "source": "kayo",
-  "fetchedAt": 1791856305680,
-  "fetchedAtIST": "13/10/2026, 7:21:45 am",
+  "fetchedAt": 1791890922499,
+  "fetchedAtIST": "13/10/2026, 4:58:42 pm",
   "events": [
     {
       "programTitle": "Moto2 GP Racing",
@@ -59,6 +59,105 @@
       "programType": "Sports event",
       "genre": "Motorcycle racing",
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-10-14_EP028104881587_113849419821_2026-10-09T13:24:24Z_GNLZZGG003RV2FH/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "DP World Tour Golf",
+      "episodeTitle": "Acciona Open de España, Final Round",
+      "description": "From Club de Campo Villa de Madrid in Madrid.",
+      "scheduledDate": 1792022400000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-10-15_EP040914080124_113753188261_2022-09-09T15:08:28Z_p22820691_b_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "MotorRacing 360",
+      "episodeTitle": "",
+      "description": "Entertaining and informative discussions about all the biggest news across the week in motor sport, including Supercars, Formula 1 and MotoGP.",
+      "scheduledDate": 1792029600000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Series",
+      "genre": "Motorsports",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/Fallback_LTV_Fox_Sports_505/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "LPGA Tour Golf",
+      "episodeTitle": "Buick LPGA Shanghai, First Round",
+      "description": "From Sheshan International Golf Club in Shanghai, China.",
+      "scheduledDate": 1792033200000,
+      "duration": 300,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-10-15_EP031583890720_113880432668_2026-10-12T15:22:41Z_GNLZZGG003RLR1Y/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Pro Bull Riding",
+      "episodeTitle": "",
+      "description": "The best bull riders in Australia and the world compete for prize money on the professional bull riding circuit.",
+      "scheduledDate": 1792051200000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Bull riding",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-10-15_SH029446100000_108472165776_2018-05-25T09:42:00Z_p15394895_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Formula 1",
+      "episodeTitle": "Singapore Grand Prix",
+      "description": "From Marina Bay Street Circuit in Singapore.",
+      "scheduledDate": 1792054800000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Auto racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-10-15_EP027326820877_113738038373_2026-09-18T15:45:42Z_p32388909_b_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Pool",
+      "episodeTitle": "Reyes Cup, Day 1",
+      "description": "Action from the world of pool.",
+      "scheduledDate": 1792062000000,
+      "duration": 270,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Billiards",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-10-15_SH038615030000_100974382724_2020-08-12T11:50:16Z_p466719_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Darts",
+      "episodeTitle": "PDC ANZ Premier League: Week 3",
+      "description": "Covering of all the action from darts events around the world.",
+      "scheduledDate": 1792078200000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Darts",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-10-15_SH032967320000_109954612423_2024-10-04T13:14:55Z_p644283_i_h8_ah/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "My Game: Tiger Woods",
+      "episodeTitle": "My Equipment",
+      "description": "Tiger explains the detailed process he goes through to select his equipment.",
+      "scheduledDate": 1792085400000,
+      "duration": 15,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-10-15_SH035435950000_107134189906_2019-09-11T08:00:16Z_p17353505_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Saudi League Soccer",
+      "episodeTitle": "Al Ahli vs Al Nassr",
+      "description": "From Alinma Stadium in Jeddah, Saudi Arabia.",
+      "scheduledDate": 1792086300000,
+      "duration": 135,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Soccer",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-10-15_EP046468500851_113848522588_2026-08-24T16:55:14Z_GNLZZGG003J5643/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     }
   ]
 }

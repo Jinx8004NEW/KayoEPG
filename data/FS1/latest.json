@@ -2,8 +2,8 @@
   "channel": "FS1",
   "date": "2026-10-13",
   "source": "kayo",
-  "fetchedAt": 1791856305660,
-  "fetchedAtIST": "13/10/2026, 7:21:45 am",
+  "fetchedAt": 1791890922471,
+  "fetchedAtIST": "13/10/2026, 4:58:42 pm",
   "events": [
     {
       "programTitle": "Ashes Classics",
@@ -350,6 +350,17 @@
       "programTitle": "Test Cricket",
       "episodeTitle": "South Africa vs Australia",
       "description": "From Kingsmead Cricket Ground in Kwazulu-Natal, South Africa.",
+      "scheduledDate": 1791887100000,
+      "duration": 135,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Cricket",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-10-13_EP029804991876_113765507007_2026-09-20T19:40:37Z_GNLZZGG003PPB1H/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Test Cricket",
+      "episodeTitle": "South Africa vs Australia",
+      "description": "From Kingsmead Cricket Ground in Kwazulu-Natal, South Africa.",
       "scheduledDate": 1791893400000,
       "duration": 20,
       "parentalRating": "",
@@ -363,6 +374,28 @@
       "description": "From Kingsmead Cricket Ground in Kwazulu-Natal, South Africa.",
       "scheduledDate": 1791894600000,
       "duration": 180,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Cricket",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-10-13_EP029804991876_113765507007_2026-09-20T19:40:37Z_GNLZZGG003PPB1H/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Test Cricket",
+      "episodeTitle": "South Africa vs Australia",
+      "description": "From Kingsmead Cricket Ground in Kwazulu-Natal, South Africa.",
+      "scheduledDate": 1791895200000,
+      "duration": 20,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Cricket",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-10-13_EP029804991876_113765507007_2026-09-20T19:40:37Z_GNLZZGG003PPB1H/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Test Cricket",
+      "episodeTitle": "South Africa vs Australia",
+      "description": "From Kingsmead Cricket Ground in Kwazulu-Natal, South Africa.",
+      "scheduledDate": 1791896400000,
+      "duration": 150,
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Cricket",

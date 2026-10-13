@@ -2,8 +2,8 @@
   "channel": "FS3",
   "date": "2026-10-13",
   "source": "kayo",
-  "fetchedAt": 1791856305669,
-  "fetchedAtIST": "13/10/2026, 7:21:45 am",
+  "fetchedAt": 1791890922484,
+  "fetchedAtIST": "13/10/2026, 4:58:42 pm",
   "events": [
     {
       "programTitle": "PGA Tour Golf",
@@ -182,15 +182,15 @@
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-10-13_SH037026900000_112448059278_2022-09-05T13:56:59Z_p9656797_i_h10_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "2026 The Open Official Film",
-      "episodeTitle": "",
-      "description": "",
+      "programTitle": "PGA Tour Highlights",
+      "episodeTitle": "Baycurrent Classic",
+      "description": "Highlights from PGA Tour events featuring the world's best golfers in action. Hosts track the progression of the game while reviewing the changes in technologies and techniques.",
       "scheduledDate": 1791887400000,
       "duration": 60,
       "parentalRating": "",
-      "programType": "Sports non-event",
-      "genre": "Special, Golf",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/Fallback_LTV_Fox_Sports_503/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "programType": "Sports event",
+      "genre": "Classic sport event, Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-10-13_SH032355110000_106892699068_2023-03-16T12:30:24Z_p9060599_i_h10_ae/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "Getting a Round In",
