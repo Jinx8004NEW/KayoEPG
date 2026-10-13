@@ -1,328 +1,328 @@
 {
   "channel": "SP2",
-  "date": "2026-10-12",
+  "date": "2026-10-13",
   "source": "kayo",
-  "fetchedAt": 1791826088883,
-  "fetchedAtIST": "12/10/2026, 10:58:08 pm",
+  "fetchedAt": 1791856305664,
+  "fetchedAtIST": "13/10/2026, 7:21:45 am",
   "events": [
     {
       "programTitle": "NRL",
-      "episodeTitle": "Manly-Warringah Sea Eagles vs Canberra Raiders",
-      "description": "From 4 Pines Park in Brookvale, New South Wales, Australia.",
-      "scheduledDate": 1791745200000,
-      "duration": 60,
-      "parentalRating": "",
-      "programType": "Sports event",
-      "genre": "Rugby league, Rugby",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-10-11_EP031720961040_113753188180_2026-02-24T16:24:08Z_GNLZZGG002E3Z5X/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
-    {
-      "programTitle": "NRL",
-      "episodeTitle": "Dolphins vs South Sydney Rabbitohs",
-      "description": "From Suncorp Stadium in Milton, Queensland, Australia.",
-      "scheduledDate": 1791748800000,
-      "duration": 60,
-      "parentalRating": "",
-      "programType": "Sports event",
-      "genre": "Rugby league, Rugby",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-10-11_EP031720961041_106216025073_2026-02-24T00:16:17Z_GNLZZGG002YVKZM/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
-    {
-      "programTitle": "NRL",
-      "episodeTitle": "Brisbane Broncos vs Parramatta Eels",
-      "description": "From Suncorp Stadium in Milton, Queensland, Australia.",
-      "scheduledDate": 1791752400000,
-      "duration": 60,
-      "parentalRating": "",
-      "programType": "Sports event",
-      "genre": "Rugby league, Rugby",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-10-11_EP031720961042_106541620648_2026-02-24T16:25:56Z_GNLZZGG002E4E5B/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
-    {
-      "programTitle": "NRL",
-      "episodeTitle": "New Zealand Warriors vs Canberra Raiders",
-      "description": "From Go Media Stadium in Penrose, Auckland, New Zealand.",
-      "scheduledDate": 1791756000000,
-      "duration": 60,
-      "parentalRating": "",
-      "programType": "Sports event",
-      "genre": "Rugby league, Rugby",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-10-11_EP031720961043_113753187985_2026-02-24T16:29:00Z_GNLZZGG002E4T84/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
-    {
-      "programTitle": "NRL",
-      "episodeTitle": "Sydney Roosters vs South Sydney Rabbitohs",
+      "episodeTitle": "Sydney Roosters vs Penrith Panthers",
       "description": "From Allianz Stadium in Sydney.",
-      "scheduledDate": 1791759600000,
+      "scheduledDate": 1791831600000,
       "duration": 60,
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Rugby league, Rugby",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-10-11_EP031720961044_106542024458_2026-02-24T16:30:32Z_GNLZZGG002E6M1S/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-10-12_EP031720961051_113757222213_2026-02-23T22:25:59Z_GNLZZGG002YTD50/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NRL",
+      "episodeTitle": "Melbourne Storm vs Brisbane Broncos",
+      "description": "From AAMI Park in Melbourne City, Victoria, Australia.",
+      "scheduledDate": 1791835200000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Rugby league, Rugby",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-10-12_EP031720961052_113757221735_2026-02-24T08:12:07Z_GNLZZGG002YYEBR/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NRL",
+      "episodeTitle": "Newcastle Knights vs New Zealand Warriors",
+      "description": "From McDonald Jones Stadium in Newcastle, New South Wales, Australia.",
+      "scheduledDate": 1791838800000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Rugby league, Rugby",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-10-12_EP031720961053_113757221690_2026-02-24T08:14:04Z_GNLZZGG002YYZT6/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NRL",
+      "episodeTitle": "Cronulla-Sutherland Sharks vs Dolphins",
+      "description": "Comprehensive coverage and full game replays of all the matches played in Australia's National Rugby League.",
+      "scheduledDate": 1791842400000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Rugby league, Rugby",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-10-12_EP031720961054_113757221803_2026-02-24T02:19:38Z_GNLZZGG002YXFRY/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NRL",
+      "episodeTitle": "South Sydney Rabbitohs vs Wests Tigers",
+      "description": "Comprehensive coverage and full game replays of all the matches played in Australia's National Rugby League.",
+      "scheduledDate": 1791846000000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Rugby league, Rugby",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-10-12_EP031720961055_113757222218_2026-02-24T16:26:23Z_GNLZZGG002E16K5/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "NRLW Premiership Mini",
-      "episodeTitle": "Round 1: Cronulla Sharks v Newcastle Knights",
+      "episodeTitle": "Round 1: Brisbane Broncos v North Queensland Cowboys",
       "description": "Condensed highlights of some of the greatest encounters from the NRL Women's competition.",
-      "scheduledDate": 1791763200000,
+      "scheduledDate": 1791849600000,
       "duration": 20,
       "parentalRating": "",
       "programType": "Sports non-event",
       "genre": "Rugby league, Rugby",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-10-12_SH042238410000_109229287001_2022-03-07T01:46:13Z_p21759648_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-10-13_SH042238410000_109229287001_2022-03-07T01:46:13Z_p21759648_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "NRLW Premiership Mini",
-      "episodeTitle": "Round 1: Gold Coast Titans v Sydney Roosters",
+      "episodeTitle": "Round 1: Parramatta Eels v Wests Tigers",
       "description": "Condensed highlights of some of the greatest encounters from the NRL Women's competition.",
-      "scheduledDate": 1791764400000,
+      "scheduledDate": 1791850800000,
       "duration": 20,
       "parentalRating": "",
       "programType": "Sports non-event",
       "genre": "Rugby league, Rugby",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-10-12_SH042238410000_109229287001_2022-03-07T01:46:13Z_p21759648_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-10-13_SH042238410000_109229287001_2022-03-07T01:46:13Z_p21759648_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "NRLW Premiership Mini",
-      "episodeTitle": "Round 1: St George Illawarra Dragons v Canberra Raiders",
+      "episodeTitle": "New Zealand Warriors vs Canterbury Bulldogs",
       "description": "Condensed highlights of some of the greatest encounters from the NRL Women's competition.",
-      "scheduledDate": 1791765600000,
+      "scheduledDate": 1791852000000,
       "duration": 20,
       "parentalRating": "",
       "programType": "Sports non-event",
       "genre": "Rugby league, Rugby",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-10-12_SH042238410000_109229287001_2022-03-07T01:46:13Z_p21759648_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-10-13_SH042238410000_109229287001_2022-03-07T01:46:13Z_p21759648_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "NRL Classic Match",
-      "episodeTitle": "1994 Round 15: St George Dragons vs Western Suburbs Magpies",
+      "episodeTitle": "1995 Round 21: Canberra Raiders vs New Zealand Warriors",
       "description": "Re-live some of the best rugby league clashes from the Premiership's past.",
-      "scheduledDate": 1791766800000,
+      "scheduledDate": 1791853200000,
       "duration": 60,
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Rugby, Classic sport event",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-10-12_SH034822800000_100794011205_2020-04-08T22:50:08Z_p18168517_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-10-13_SH034822800000_100794011205_2020-04-08T22:50:08Z_p18168517_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "NRL Classic Match",
-      "episodeTitle": "2005 Preliminary Final: St. George Illawarra Dragons v Wests Tigers",
+      "episodeTitle": "2009 Round 10: Wests Tigers v South Sydney Rabbitohs",
       "description": "Re-live some of the best rugby league clashes from the Premiership's past.",
-      "scheduledDate": 1791770400000,
+      "scheduledDate": 1791856800000,
       "duration": 60,
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Rugby, Classic sport event",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-10-12_SH034822800000_100794011205_2020-04-08T22:50:08Z_p18168517_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-10-13_SH034822800000_100794011205_2020-04-08T22:50:08Z_p18168517_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "Face-To-Face on Fox",
       "episodeTitle": "",
       "description": "Jake Duke and Yvonne Sampson chat candidly with prominent figures in the game of rugby league and Australian society.",
-      "scheduledDate": 1791774000000,
+      "scheduledDate": 1791860400000,
       "duration": 30,
       "parentalRating": "",
       "programType": "Sports non-event",
       "genre": "Sports talk, Rugby, Rugby league",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-10-12_SH047168440000_107963082214_2026-05-25T11:55:41Z_p19607826_i_h10_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-10-13_SH047168440000_107963082214_2026-05-25T11:55:41Z_p19607826_i_h10_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "The Fan",
       "episodeTitle": "",
-      "description": "The panel discuss Broncos players on Walsh's GF, DCE on joining new club, Craig Bellamy and unforgettable Round 1 moments.",
-      "scheduledDate": 1791775800000,
+      "description": "Rugby League's biggest fan, Andrew Voss, explores the game from a fan's perspective and chats with some of the biggest rugby league enthusiasts on the way.",
+      "scheduledDate": 1791862200000,
       "duration": 30,
       "parentalRating": "",
       "programType": "Sports non-event",
       "genre": "Rugby",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-10-12_SH029171760000_103512401493_2025-03-19T07:04:18Z_p15251449_i_h10_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-10-13_SH029171760000_103512401493_2025-03-19T07:04:18Z_p15251449_i_h10_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "Greatest Test Matches",
-      "episodeTitle": "2015 Rugby World Cup Final: Australia vs New Zealand",
-      "description": "Presents a selection of international clashes featuring memorable moments, great rivalries, inspirational performances and thrilling finishes.",
-      "scheduledDate": 1791777600000,
+      "episodeTitle": "2018 Australia v Tonga",
+      "description": "A preview of the thrilling 2018 match between Australia and Tonga.",
+      "scheduledDate": 1791864000000,
       "duration": 60,
       "parentalRating": "",
       "programType": "Sports non-event",
       "genre": "Rugby",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-10-12_SH053177030000_100906053540_2025-10-15T06:38:51Z_p28430202_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-10-13_SH053177030000_100906053540_2025-10-15T06:38:51Z_p28430202_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "Golden Point Thrillers",
-      "episodeTitle": "2003 Round 19: Melbourne Storm v Brisbane Broncos",
-      "description": "When rugby league goes into extra time special things happen, the best Golden Point victories from the NRL.",
-      "scheduledDate": 1791781200000,
+      "programTitle": "NRL",
+      "episodeTitle": "Brisbane Broncos vs Gold Coast Titans",
+      "description": "From Suncorp Stadium in Milton, Queensland, Australia.",
+      "scheduledDate": 1791867600000,
       "duration": 60,
       "parentalRating": "",
-      "programType": "Series",
-      "genre": "Rugby league",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-10-12_SH035075750000_113753188459_2020-05-06T18:20:09Z_p18281216_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "programType": "Sports event",
+      "genre": "Rugby league, Rugby",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-10-13_EP031720961138_113845604169_2026-04-08T01:13:30Z_GNLZZGG00328FKN/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "The Run Home with Scope and Fletch",
       "episodeTitle": "",
       "description": "Scope and Fletch take a look at what's topical in rugby league and the latest NRL round.",
-      "scheduledDate": 1791784800000,
+      "scheduledDate": 1791871200000,
       "duration": 60,
       "parentalRating": "",
       "programType": "Series",
       "genre": "Sports talk, Rugby league",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-10-12_SH063233670000_111689026125_2026-03-12T05:04:48Z_p32515532_i_h10_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-10-13_SH063233670000_111689026125_2026-03-12T05:04:48Z_p32515532_i_h10_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "Superstars",
-      "episodeTitle": "Peter Sterling",
-      "description": "An exclusive list of the biggest names in the game, past and present — see their best games here.",
-      "scheduledDate": 1791788400000,
+      "programTitle": "Rugby League Rewind",
+      "episodeTitle": "1995 Round 17: Newcastle Knights v Manly-Warringah Sea Eagles",
+      "description": "A journey back to some of the most historic moments in rugby league history.",
+      "scheduledDate": 1791874800000,
       "duration": 60,
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Classic sport event, Rugby league",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/Fallback_LTV_Fox_League/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-10-13_SH035309220000_101997306219_2020-06-04T05:30:16Z_p18385895_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "NRL Classic Match",
-      "episodeTitle": "1994 Round 15: St George Dragons vs Western Suburbs Magpies",
+      "episodeTitle": "1995 Round 21: Canberra Raiders vs New Zealand Warriors",
       "description": "Re-live some of the best rugby league clashes from the Premiership's past.",
-      "scheduledDate": 1791792000000,
+      "scheduledDate": 1791878400000,
       "duration": 60,
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Rugby, Classic sport event",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-10-12_SH034822800000_100794011205_2020-04-08T22:50:08Z_p18168517_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-10-13_SH034822800000_100794011205_2020-04-08T22:50:08Z_p18168517_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "Greatest Test Matches",
-      "episodeTitle": "Jillaroos v Kiwi Ferns",
-      "description": "Presents a selection of international clashes featuring memorable moments, great rivalries, inspirational performances and thrilling finishes.",
-      "scheduledDate": 1791795600000,
+      "episodeTitle": "2016 Papua New Guinea vs Fiji",
+      "description": "A selection of international clashes featuring memorable moments, great rivalries, inspirational performances and thrilling finishes.",
+      "scheduledDate": 1791882000000,
       "duration": 60,
       "parentalRating": "",
       "programType": "Sports non-event",
       "genre": "Rugby",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-10-12_SH053177030000_100906053540_2025-10-15T06:38:51Z_p28430202_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-10-13_SH053177030000_100906053540_2025-10-15T06:38:51Z_p28430202_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "Golden Point Thrillers",
-      "episodeTitle": "2003 Round 19: Melbourne Storm v Brisbane Broncos",
-      "description": "When rugby league goes into extra time special things happen, the best Golden Point victories from the NRL.",
-      "scheduledDate": 1791799200000,
+      "programTitle": "NRL",
+      "episodeTitle": "Brisbane Broncos vs Gold Coast Titans",
+      "description": "From Suncorp Stadium in Milton, Queensland, Australia.",
+      "scheduledDate": 1791885600000,
       "duration": 60,
       "parentalRating": "",
-      "programType": "Series",
-      "genre": "Rugby league",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-10-12_SH035075750000_113753188459_2020-05-06T18:20:09Z_p18281216_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "programType": "Sports event",
+      "genre": "Rugby league, Rugby",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-10-13_EP031720961138_113845604169_2026-04-08T01:13:30Z_GNLZZGG00328FKN/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "Face-To-Face on Fox",
       "episodeTitle": "",
       "description": "Jake Duke and Yvonne Sampson chat candidly with prominent figures in the game of rugby league and Australian society.",
-      "scheduledDate": 1791802800000,
+      "scheduledDate": 1791889200000,
       "duration": 30,
       "parentalRating": "",
       "programType": "Sports non-event",
       "genre": "Sports talk, Rugby, Rugby league",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-10-12_SH047168440000_107963082214_2026-05-25T11:55:41Z_p19607826_i_h10_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-10-13_SH047168440000_107963082214_2026-05-25T11:55:41Z_p19607826_i_h10_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "The Fan",
       "episodeTitle": "",
-      "description": "The panel discuss Broncos players on Walsh's GF, DCE on joining new club, Craig Bellamy and unforgettable Round 1 moments.",
-      "scheduledDate": 1791804600000,
+      "description": "Rugby League's biggest fan, Andrew Voss, explores the game from a fan's perspective and chats with some of the biggest rugby league enthusiasts on the way.",
+      "scheduledDate": 1791891000000,
       "duration": 30,
       "parentalRating": "",
       "programType": "Sports non-event",
       "genre": "Rugby",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-10-12_SH029171760000_103512401493_2025-03-19T07:04:18Z_p15251449_i_h10_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-10-13_SH029171760000_103512401493_2025-03-19T07:04:18Z_p15251449_i_h10_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "NRL Grand Finals",
-      "episodeTitle": "2010 Grand Final: St George Illawarra Dragons vs Sydney Roosters",
+      "episodeTitle": "1988 GF Bulldogs vs Tigers",
       "description": "A celebration of some of the best grand finals in the history of Australia's National Rugby League, featuring classic goals and victories.",
-      "scheduledDate": 1791806400000,
+      "scheduledDate": 1791892800000,
       "duration": 30,
       "parentalRating": "",
-      "programType": "Sports event",
-      "genre": "Classic sport event, Rugby league",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-10-12_SH036580220000_113753189306_2020-11-17T15:21:03Z_p19000014_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "programType": "Sports non-event",
+      "genre": "Rugby league",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-10-13_SH036580220000_113753189306_2020-11-17T15:21:03Z_p19000014_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "State of Origin Classics",
-      "episodeTitle": "1997 Game 2",
+      "programTitle": "Top 50 State of Origin Classics",
+      "episodeTitle": "#46 - 1991 Game 3",
       "description": "A celebration one of the fiercest rivalries in Australian sport with a countdown of the greatest State of Origin matches ever played.",
-      "scheduledDate": 1791808200000,
+      "scheduledDate": 1791894600000,
       "duration": 30,
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Rugby league, Classic sport event",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-10-12_SH038955490000_102064739330_2020-11-09T13:40:27Z_p19045155_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-10-13_SH036671410000_102064739335_2020-11-09T13:40:27Z_p19045155_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "NRL",
-      "episodeTitle": "Wests Tigers vs North Queensland Cowboys",
-      "description": "From Leichhardt Oval in Leichhardt, New South Wales, Australia.",
-      "scheduledDate": 1791810000000,
+      "episodeTitle": "Parramatta Eels vs St. George Illawarra Dragons",
+      "description": "From CommBank Stadium in Parramatta, New South Wales, Australia.",
+      "scheduledDate": 1791896400000,
       "duration": 60,
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Rugby league, Rugby",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-10-12_EP031720961045_113753188843_2026-02-24T18:14:20Z_GNLZZGG002E7P76/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-10-13_EP031720961056_106393343281_2026-02-24T04:09:20Z_GNLZZGG002YKYHM/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "NRL",
-      "episodeTitle": "St. George Illawarra Dragons vs Melbourne Storm",
-      "description": "From WIN Stadium in Wollongong, New South Wales, Australia.",
-      "scheduledDate": 1791813600000,
+      "episodeTitle": "Gold Coast Titans vs North Queensland Cowboys",
+      "description": "From Cbus Super Stadium in Robina, Australia.",
+      "scheduledDate": 1791900000000,
       "duration": 60,
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Rugby league, Rugby",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-10-12_EP031720961046_113753188933_2026-02-24T18:14:54Z_GNLZZGG002E7SLF/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-10-13_EP031720961199_113757221813_2026-02-10T03:16:44Z_GNLZZGG002QDSWV/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "NRL",
-      "episodeTitle": "Penrith Panthers vs Cronulla-Sutherland Sharks",
-      "description": "From Carrington Park in Bathurst, New South Wales, Australia.",
-      "scheduledDate": 1791817200000,
-      "duration": 60,
-      "parentalRating": "",
-      "programType": "Sports event",
-      "genre": "Rugby league, Rugby",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-10-12_EP031720961047_113753187529_2026-02-24T16:30:52Z_GNLZZGG002E6DCD/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
-    {
-      "programTitle": "NRL",
-      "episodeTitle": "Manly-Warringah Sea Eagles vs Newcastle Knights",
+      "episodeTitle": "Manly-Warringah Sea Eagles vs Sydney Roosters",
       "description": "From 4 Pines Park in Brookvale, New South Wales, Australia.",
-      "scheduledDate": 1791820800000,
+      "scheduledDate": 1791903600000,
       "duration": 60,
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Rugby league, Rugby",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-10-12_EP031720961048_106504754696_2026-02-24T20:09:23Z_GNLZZGG002E8HRQ/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-10-13_EP031720961058_106337807727_2026-02-24T10:19:05Z_GNLZZGG002E11CZ/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "NRL",
-      "episodeTitle": "Penrith Panthers vs Cronulla-Sutherland Sharks",
-      "description": "From Carrington Park in Bathurst, New South Wales, Australia.",
-      "scheduledDate": 1791824400000,
+      "episodeTitle": "New Zealand Warriors vs Wests Tigers",
+      "description": "From Go Media Stadium in Penrose, Auckland, New Zealand.",
+      "scheduledDate": 1791907200000,
       "duration": 60,
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Rugby league, Rugby",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-10-12_EP031720961047_113753187529_2026-02-24T16:30:52Z_GNLZZGG002E6DCD/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-10-13_EP031720961059_113757221807_2026-02-24T16:29:49Z_GNLZZGG002E1B1Z/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "NRL",
-      "episodeTitle": "Canberra Raiders vs Canterbury-Bankstown Bulldogs",
-      "description": "From GIO Stadium Canberra in Bruce, Australian Capital Territory, Australia.",
-      "scheduledDate": 1791828000000,
+      "episodeTitle": "Brisbane Broncos vs Dolphins",
+      "description": "From Suncorp Stadium in Milton, Queensland, Australia.",
+      "scheduledDate": 1791910800000,
       "duration": 60,
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Rugby league, Rugby",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-10-12_EP031720961050_106542024461_2026-02-24T16:32:01Z_GNLZZGG002E1N7J/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-10-13_EP031720961060_106232952663_2026-02-24T08:14:14Z_GNLZZGG002YQMCH/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NRL",
+      "episodeTitle": "Canterbury-Bankstown Bulldogs vs Newcastle Knights",
+      "description": "From Accor Stadium in Sydney.",
+      "scheduledDate": 1791914400000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Rugby league, Rugby",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-10-13_EP031720961061_113757221677_2026-02-24T10:13:37Z_GNLZZGG002YE6WP/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     }
   ]
 }
