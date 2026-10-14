@@ -2,19 +2,41 @@
   "channel": "FAF",
   "date": "2026-10-17",
   "source": "kayo",
-  "fetchedAt": 1791969637097,
-  "fetchedAtIST": "14/10/2026, 2:50:37 pm",
+  "fetchedAt": 1791996137097,
+  "fetchedAtIST": "14/10/2026, 10:12:17 pm",
   "events": [
     {
-      "programTitle": "To Be Announced",
+      "programTitle": "AFL Trading Day",
       "episodeTitle": "",
-      "description": "The programming for this time slot has yet to be determined and is being confirmed by the broadcast channel.",
+      "description": "A panel of experts discuss all the player movements across the AFL, including all the proposals and rumours.",
       "scheduledDate": 1792180800000,
-      "duration": 240,
+      "duration": 90,
       "parentalRating": "",
-      "programType": "TBA",
-      "genre": "Special, Entertainment",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-10-16_SH027575020000_112769671032_2021-11-15T14:36:19Z_p514472_b_h8_dp/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "programType": "Sports non-event",
+      "genre": "Sports talk",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-10-16_SH036713040000_113524789106_2025-10-15T06:35:58Z_p19064956_b_h10_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "AFL Women's Premiership",
+      "episodeTitle": "Melbourne Demons vs Richmond Tigers",
+      "description": "From IKON Park in Melbourne, Victoria, Australia.",
+      "scheduledDate": 1792186200000,
+      "duration": 90,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Australian rules football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-10-16_EP029247970819_113951020846_2026-07-24T02:51:16Z_GNLZZGG003CC8N9/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "AFL Trading Day",
+      "episodeTitle": "",
+      "description": "A panel of experts discuss all the player movements across the AFL, including all the proposals and rumours.",
+      "scheduledDate": 1792191600000,
+      "duration": 90,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Sports talk",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-10-16_SH036713040000_113524789106_2025-10-15T06:35:58Z_p19064956_b_h10_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     }
   ]
 }

@@ -2,19 +2,63 @@
   "channel": "FSS",
   "date": "2026-10-17",
   "source": "kayo",
-  "fetchedAt": 1791969637111,
-  "fetchedAtIST": "14/10/2026, 2:50:37 pm",
+  "fetchedAt": 1791996137117,
+  "fetchedAtIST": "14/10/2026, 10:12:17 pm",
   "events": [
     {
-      "programTitle": "To Be Announced",
-      "episodeTitle": "",
-      "description": "The programming for this time slot has yet to be determined and is being confirmed by the broadcast channel.",
-      "scheduledDate": 1792180800000,
-      "duration": 240,
+      "programTitle": "LPGA Tour Golf",
+      "episodeTitle": "Buick LPGA Shanghai, Second Round",
+      "description": "From Sheshan International Golf Club in Shanghai, China.",
+      "scheduledDate": 1792175400000,
+      "duration": 90,
       "parentalRating": "",
-      "programType": "TBA",
-      "genre": "Special, Entertainment",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-10-16_SH027575020000_112769671032_2021-11-15T14:36:19Z_p514472_b_h8_dp/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "programType": "Sports event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-10-16_EP031583890721_113937388052_2026-10-13T23:22:23Z_GNLZZGG003S18ZK/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Pro Bull Riding",
+      "episodeTitle": "",
+      "description": "The best bull riders in Australia and the world compete for prize money on the professional bull riding circuit.",
+      "scheduledDate": 1792180800000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Bull riding",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-10-16_SH029446100000_108472165776_2018-05-25T09:42:00Z_p15394895_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NASCAR O'Reilly Auto Parts Series Highlights",
+      "episodeTitle": "Blue Cross NC 250",
+      "description": "Highlights of the various races taking place at the NASCAR O'Reilly Auto Parts Series.",
+      "scheduledDate": 1792184400000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Auto racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-10-16_SH062934750000_113523990730_2026-08-05T10:46:39Z_p32273555_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NASCAR Cup Racing Series",
+      "episodeTitle": "The Chase Charlotte",
+      "description": "Championship contenders Kyle Larson and Denny Hamlin battle it out at Charlotte Motor Speedway as playoff pressure peaks on the classic 1.5-mile oval.",
+      "scheduledDate": 1792188000000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Motorsports, Auto racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-10-16_SH056052770000_110216247140_2024-02-28T07:23:12Z_p8599472_i_h10_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "FIM Superbike World Championship",
+      "episodeTitle": "Estoril Round, Race 1",
+      "description": "From Circuito Estoril in Cascais, Lisboa, Portugal.",
+      "scheduledDate": 1792191600000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Motorcycle racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-10-16_EP050933440126_113752787549_2026-10-09T13:24:05Z_GNLZZGG003RV2DX/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     }
   ]
 }

@@ -2,8 +2,8 @@
   "channel": "ES2",
   "date": "2026-10-16",
   "source": "kayo",
-  "fetchedAt": 1791969637121,
-  "fetchedAtIST": "14/10/2026, 2:50:37 pm",
+  "fetchedAt": 1791996137127,
+  "fetchedAtIST": "14/10/2026, 10:12:17 pm",
   "events": [
     {
       "programTitle": "SportsCenter",
@@ -58,7 +58,7 @@
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Playoff sports, Baseball",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-10-15_EP062580852981_113926102365_2026-10-11T04:45:46Z_GNLZZGG003RZR5M/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-10-15_EP062580852981_113973850842_2026-10-11T04:45:46Z_GNLZZGG003RZR5M/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "MLB Baseball",
@@ -102,7 +102,7 @@
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Playoff sports, Baseball",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-10-16_EP062580852981_113926102365_2026-10-11T04:45:46Z_GNLZZGG003RZR5M/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-10-16_EP062580852981_113973850842_2026-10-11T04:45:46Z_GNLZZGG003RZR5M/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "NFL Minis",
@@ -175,7 +175,7 @@
       "episodeTitle": "",
       "description": "Field Yates hosts ESPN's top Fantasy Football experts for a daily discussion of rankings, injuries and game previews and debates how the biggest NFL stories impact Fantasy Football.",
       "scheduledDate": 1792173600000,
-      "duration": 120,
+      "duration": 60,
       "parentalRating": "",
       "programType": "Podcast",
       "genre": "Sports talk, Football",

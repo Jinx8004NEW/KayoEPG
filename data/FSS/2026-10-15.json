@@ -2,8 +2,8 @@
   "channel": "FSS",
   "date": "2026-10-15",
   "source": "kayo",
-  "fetchedAt": 1791969637110,
-  "fetchedAtIST": "14/10/2026, 2:50:37 pm",
+  "fetchedAt": 1791996137115,
+  "fetchedAtIST": "14/10/2026, 10:12:17 pm",
   "events": [
     {
       "programTitle": "MotoGP: After The Flag",
@@ -151,7 +151,7 @@
     {
       "programTitle": "PGA Tour Champions Golf",
       "episodeTitle": "Constellation Furyk & Friends",
-      "description": "Replays of past PGA Tour competitions.",
+      "description": "Highlights of the Furyk & Friends from the Ocean Course.",
       "scheduledDate": 1792062000000,
       "duration": 60,
       "parentalRating": "",
@@ -230,7 +230,7 @@
       "episodeTitle": "PDC ANZ Premier League: Week 3",
       "description": "Covering of all the action from darts events around the world.",
       "scheduledDate": 1792083600000,
-      "duration": 180,
+      "duration": 120,
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Darts",
