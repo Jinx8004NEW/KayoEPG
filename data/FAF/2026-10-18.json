@@ -1,0 +1,53 @@
+{
+  "channel": "FAF",
+  "date": "2026-10-18",
+  "source": "kayo",
+  "fetchedAt": 1792081692010,
+  "fetchedAtIST": "15/10/2026, 9:58:12 pm",
+  "events": [
+    {
+      "programTitle": "AFL Women's Premiership",
+      "episodeTitle": "Brisbane Lions vs Port Adelaide Power",
+      "description": "From Brighton Homes Arena in Queensland, Australia.",
+      "scheduledDate": 1792266300000,
+      "duration": 90,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Australian rules football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-10-17_EP029247970822_113971193557_2026-07-24T02:51:45Z_GNLZZGG003CC43C/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "AFL Trading Day",
+      "episodeTitle": "",
+      "description": "A panel of experts discuss all the player movements across the AFL, including all the proposals and rumours.",
+      "scheduledDate": 1792271700000,
+      "duration": 75,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Sports talk",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-10-17_SH036713040000_113524789106_2025-10-15T06:35:58Z_p19064956_b_h10_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "AFL Women's Premiership",
+      "episodeTitle": "Brisbane Lions vs Port Adelaide Power",
+      "description": "From Brighton Homes Arena in Queensland, Australia.",
+      "scheduledDate": 1792276200000,
+      "duration": 15,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Australian rules football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-10-17_EP029247970822_113971193557_2026-07-24T02:51:45Z_GNLZZGG003CC43C/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "AFL Women's Premiership",
+      "episodeTitle": "West Coast Eagles vs Geelong Cats",
+      "description": "Live from Sullivan Logistics Stadium. Bounce time: 7:15pm AEDT.",
+      "scheduledDate": 1792277100000,
+      "duration": 90,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Australian rules football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-10-17_EP029247970823_114012656056_2026-07-24T02:51:43Z_GNLZZGG003CBYYS/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    }
+  ]
+}

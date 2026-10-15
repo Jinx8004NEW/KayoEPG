@@ -1,0 +1,75 @@
+{
+  "channel": "FS1",
+  "date": "2026-10-18",
+  "source": "kayo",
+  "fetchedAt": 1792081691978,
+  "fetchedAtIST": "15/10/2026, 9:58:11 pm",
+  "events": [
+    {
+      "programTitle": "Test Cricket",
+      "episodeTitle": "1st Test, Day 2: South Africa v Australia",
+      "description": "Coverage and highlights from international test cricket matches.",
+      "scheduledDate": 1792263600000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Cricket, Classic sport event",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-10-17_SH033446590000_98978823590_2023-09-29T14:53:53Z_p8163404_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Test Cricket",
+      "episodeTitle": "1st Test, Day 3 Session 3: South Africa vs. Australia",
+      "description": "Coverage of Test cricket matches contested by international teams.",
+      "scheduledDate": 1792267200000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Cricket",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-10-17_EP029804991909_113706757171_2026-10-07T16:58:11Z_GNLZZGG003RNT81/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Test Cricket",
+      "episodeTitle": "1st Test, Day 4 Session 3: South Africa vs. Australia",
+      "description": "Coverage of Test cricket matches contested by international teams.",
+      "scheduledDate": 1792270800000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Cricket",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-10-17_EP029804991912_113753187889_2026-10-07T16:56:35Z_GNLZZGG003RNSFV/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Test Cricket",
+      "episodeTitle": "1st Test, Day 5: South Africa v Australia",
+      "description": "Coverage and highlights from international test cricket matches.",
+      "scheduledDate": 1792274400000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Cricket, Classic sport event",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-10-17_SH033446590000_98978823590_2023-09-29T14:53:53Z_p8163404_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "World Championship of Legends Cricket",
+      "episodeTitle": "Semifinal 1",
+      "description": "",
+      "scheduledDate": 1792278000000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Cricket",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-10-17_SH066611850000_113969568117_2024-06-24T10:34:17Z_p27694312_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "World Championship of Legends Cricket",
+      "episodeTitle": "Semifinal 2",
+      "description": "",
+      "scheduledDate": 1792279800000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Cricket",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-10-17_SH066611850000_113969568117_2024-06-24T10:34:17Z_p27694312_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    }
+  ]
+}

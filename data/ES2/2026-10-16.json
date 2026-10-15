@@ -2,15 +2,15 @@
   "channel": "ES2",
   "date": "2026-10-16",
   "source": "kayo",
-  "fetchedAt": 1792018842174,
-  "fetchedAtIST": "15/10/2026, 4:30:42 am",
+  "fetchedAt": 1792081692041,
+  "fetchedAtIST": "15/10/2026, 9:58:12 pm",
   "events": [
     {
       "programTitle": "SportsCenter",
       "episodeTitle": "Top Plays of September",
       "description": "The team deliver the latest news, highlights, and inside information from the wide world of sports, as well as trending topics across social media platforms.",
       "scheduledDate": 1792089000000,
-      "duration": 30,
+      "duration": 90,
       "parentalRating": "",
       "programType": "Sports non-event",
       "genre": "News, Sports talk",
@@ -28,15 +28,15 @@
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-10-15_SH033280060000_108193810385_2025-11-07T06:36:14Z_p186291_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "To Be Announced",
+      "programTitle": "First Take",
       "episodeTitle": "",
-      "description": "The programming for this time slot has yet to be determined and is being confirmed by the broadcast channel.",
+      "description": "Stephen A. Smith joins Molly Qerim Rose to debate the hottest topics in sports.",
       "scheduledDate": 1792094400000,
-      "duration": 240,
+      "duration": 120,
       "parentalRating": "",
-      "programType": "TBA",
-      "genre": "Special, Entertainment",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-10-15_SH027575020000_112769671032_2021-11-15T14:36:19Z_p514472_b_h8_dp/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "programType": "Sports non-event",
+      "genre": "Sports talk, News, Debate",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-10-15_SH033280060000_108193810385_2025-11-07T06:36:14Z_p186291_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "MLB 25: Greatest Postseason Home Runs",
@@ -50,15 +50,48 @@
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-10-15_SH038916670000_113847231215_2020-04-07T18:35:18Z_p18143212_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "MLB Baseball",
-      "episodeTitle": "Tampa Bay Rays at Cleveland Guardians",
-      "description": "From Progressive Field in Cleveland.",
+      "programTitle": "College Football Live",
+      "episodeTitle": "",
+      "description": "Breaking news, analysis, features, roundtable discussions, and interviews covering all the latest events from the world of college football.",
       "scheduledDate": 1792101600000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Football, News",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-10-15_SH033651660000_113901839404_2017-12-12T23:22:00Z_p221266_i_h10_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "SportsCenter",
+      "episodeTitle": "Top Plays of September",
+      "description": "The team deliver the latest news, highlights, and inside information from the wide world of sports, as well as trending topics across social media platforms.",
+      "scheduledDate": 1792103400000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "News, Sports talk",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-10-15_SH033259060000_109832503473_2018-04-18T10:39:00Z_p186674_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Saban",
+      "episodeTitle": "Death Valley",
+      "description": "After a contract dispute, Saban leaves Michigan State for an opportunity at LSU.",
+      "scheduledDate": 1792105200000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-10-15_SH066455750000_114046285526_2026-09-30T18:35:00Z_p33978875_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "MLB Baseball",
+      "episodeTitle": "Milwaukee Brewers at Los Angeles Dodgers",
+      "description": "From Uniqlo Field at Dodger Stadium in Los Angeles.",
+      "scheduledDate": 1792108800000,
       "duration": 180,
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Playoff sports, Baseball",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-10-15_EP062580852981_113988546069_2026-10-11T04:45:46Z_GNLZZGG003RZR5M/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-10-16_EP062580852982_114046247416_2026-10-08T07:50:20Z_GNLZZGG003RPPCM/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "MLB Baseball",
@@ -70,6 +103,17 @@
       "programType": "Sports event",
       "genre": "Playoff sports, Baseball",
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-10-16_EP062580852982_113992587506_2026-10-08T07:50:20Z_GNLZZGG003RPPCM/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "MLB 25: Greatest Postseason Home Runs",
+      "episodeTitle": "",
+      "description": "MLB 25 take a look at the greatest postseason Home Runs.",
+      "scheduledDate": 1792119600000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Special, Baseball",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-10-16_SH038916670000_113847231215_2020-04-07T18:35:18Z_p18143212_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "Baseball Tonight",
@@ -135,7 +179,7 @@
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Playoff sports, Baseball",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-10-16_EP062580852982_113992587506_2026-10-08T07:50:20Z_GNLZZGG003RPPCM/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-10-16_EP062580852982_114046247416_2026-10-08T07:50:20Z_GNLZZGG003RPPCM/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "Get Up",

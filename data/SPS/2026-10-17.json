@@ -2,8 +2,8 @@
   "channel": "SPS",
   "date": "2026-10-17",
   "source": "kayo",
-  "fetchedAt": 1792018842144,
-  "fetchedAtIST": "15/10/2026, 4:30:42 am",
+  "fetchedAt": 1792081692022,
+  "fetchedAtIST": "15/10/2026, 9:58:12 pm",
   "events": [
     {
       "programTitle": "Moto2 GP Racing",
@@ -81,6 +81,127 @@
       "programType": "Sports event",
       "genre": "Classic sport event, Auto racing",
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-10-16_SH035786470000_105377021933_2020-08-20T08:30:31Z_p18624449_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Formula 1",
+      "episodeTitle": "Singapore Grand Prix",
+      "description": "From Marina Bay Street Circuit in Singapore.",
+      "scheduledDate": 1792195200000,
+      "duration": 121,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Auto racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-10-17_EP027326820877_113738038373_2026-09-18T15:45:42Z_p32388909_b_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "MotoGP Mini",
+      "episodeTitle": "Austria",
+      "description": "Experience all the action and highlights from the MotoGP championship races.",
+      "scheduledDate": 1792202460000,
+      "duration": 19,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Classic sport event, Motorsports, Motorcycle racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-10-17_SH035786450000_105695703154_2020-08-14T07:40:24Z_p18624430_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "MotoGP Mini",
+      "episodeTitle": "Japan",
+      "description": "Experience all the action and highlights from the MotoGP championship races.",
+      "scheduledDate": 1792203600000,
+      "duration": 20,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Classic sport event, Motorsports, Motorcycle racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-10-17_SH035786450000_105695703154_2020-08-14T07:40:24Z_p18624430_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "MotoGP Racing",
+      "episodeTitle": "Grand Prix of Indonesia, Race",
+      "description": "Action from MotoGP racing.",
+      "scheduledDate": 1792204800000,
+      "duration": 20,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Family, Classic sport event, Motorcycle racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-10-17_SH035853180000_113060525180_2017-10-24T00:43:00Z_p445588_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Darts",
+      "episodeTitle": "PDC ANZ Premier League: Week 4",
+      "description": "Covering of all the action from darts events around the world.",
+      "scheduledDate": 1792206000000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Darts",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-10-17_SH032967320000_109954612423_2024-10-04T13:14:55Z_p644283_i_h8_ah/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Golf",
+      "episodeTitle": "PGA Australia: WA Open Golf Championship, Round 3",
+      "description": "Coverage of golf tournaments from around the world.",
+      "scheduledDate": 1792213200000,
+      "duration": 180,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-10-17_SH028182050000_112685941224_2024-05-13T05:23:51Z_p9232187_i_h8_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "FIM Superbike World Championship",
+      "episodeTitle": "Estoril Round, Race 2",
+      "description": "From Circuito Estoril in Cascais, Lisboa, Portugal.",
+      "scheduledDate": 1792224000000,
+      "duration": 65,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Motorcycle racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-10-17_EP050933440129_113755381373_2026-10-09T15:22:55Z_GNLZZGG003RVD66/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "FIM Superbike World Championship",
+      "episodeTitle": "Spanish Round, Superpole Qualifying",
+      "description": "Coverage of motorcycle action in the FIM Superbike World Championship.",
+      "scheduledDate": 1792227900000,
+      "duration": 45,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Motorcycle racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-10-17_EP050933440132_113976235663_2026-10-14T13:23:26Z_GNLZZGG003S3PEQ/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "FIM Superbike World Championship",
+      "episodeTitle": "Spanish Round, Race 1",
+      "description": "From Circuito de Jerez – Ángel Nieto in Jerez de la Frontera, Andalusia, Spain.",
+      "scheduledDate": 1792230600000,
+      "duration": 280,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Motorcycle racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-10-17_EP050933440131_113976133903_2026-10-14T13:21:10Z_GNLZZGG003S3PRQ/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "FIM Superbike World Championship",
+      "episodeTitle": "Estoril Round, Race 2",
+      "description": "From Circuito Estoril in Cascais, Lisboa, Portugal.",
+      "scheduledDate": 1792247400000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Motorcycle racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-10-17_EP050933440129_113755381373_2026-10-09T15:22:55Z_GNLZZGG003RVD66/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "GT World Challenge Europe",
+      "episodeTitle": "Round 10: Portimao, Main Race",
+      "description": "From Algarve International Circuit in Portimão, Algarve, Portugal.",
+      "scheduledDate": 1792251000000,
+      "duration": 250,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Auto racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-10-17_EP033402190009_114036179966_2026-10-15T07:22:04Z_GNLZZGG003S62C0/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     }
   ]
 }

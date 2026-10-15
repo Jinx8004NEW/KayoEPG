@@ -2,9 +2,20 @@
   "channel": "FAF",
   "date": "2026-10-16",
   "source": "kayo",
-  "fetchedAt": 1792018842134,
-  "fetchedAtIST": "15/10/2026, 4:30:42 am",
+  "fetchedAt": 1792081692008,
+  "fetchedAtIST": "15/10/2026, 9:58:12 pm",
   "events": [
+    {
+      "programTitle": "AFL Women's Premiership",
+      "episodeTitle": "Hawthorn Hawks vs Brisbane Lions",
+      "description": "From Kennedy Community Centre in Melbourne, Australia.",
+      "scheduledDate": 1792089900000,
+      "duration": 15,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Australian rules football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-10-15_EP029247970817_114018372858_2026-07-24T02:50:05Z_GNLZZGG003CC373/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
     {
       "programTitle": "AFL",
       "episodeTitle": "Collingwood vs Adelaide Crows",
@@ -30,20 +41,20 @@
     {
       "programTitle": "AFL Women's Premiership",
       "episodeTitle": "Hawthorn Hawks vs Brisbane Lions",
-      "description": "Live from the Kennedy Community Centre. Bounce time: 1:05pm AEDT.",
+      "description": "From Kennedy Community Centre in Melbourne, Australia.",
       "scheduledDate": 1792099800000,
       "duration": 90,
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Australian rules football",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-10-15_EP029247970817_113646167484_2026-07-24T02:50:05Z_GNLZZGG003CC373/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-10-15_EP029247970817_114018372858_2026-07-24T02:50:05Z_GNLZZGG003CC373/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "AFL Trading Day",
       "episodeTitle": "",
       "description": "A panel of experts discuss all the player movements across the AFL, including all the proposals and rumours.",
       "scheduledDate": 1792105200000,
-      "duration": 90,
+      "duration": 75,
       "parentalRating": "",
       "programType": "Sports non-event",
       "genre": "Sports talk",
@@ -63,13 +74,24 @@
     {
       "programTitle": "AFL Women's Premiership",
       "episodeTitle": "Sydney Swans vs Carlton Blues",
-      "description": "Bounce time: 3:05pm AEDT.",
+      "description": "From North Sydney Oval in North Sydney, New South Wales, Australia.",
+      "scheduledDate": 1792109700000,
+      "duration": 15,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Australian rules football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-10-16_EP029247970818_114018286853_2026-07-24T02:51:38Z_GNLZZGG003CC76Y/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "AFL Women's Premiership",
+      "episodeTitle": "Sydney Swans vs Carlton Blues",
+      "description": "From North Sydney Oval in North Sydney, New South Wales, Australia.",
       "scheduledDate": 1792110600000,
       "duration": 90,
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Australian rules football",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-10-16_EP029247970818_113753238375_2026-07-24T02:51:38Z_GNLZZGG003CC76Y/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-10-16_EP029247970818_114018286853_2026-07-24T02:51:38Z_GNLZZGG003CC76Y/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "AFL Mini",
@@ -109,7 +131,7 @@
       "episodeTitle": "",
       "description": "A panel of experts discuss all the player movements across the AFL, including all the proposals and rumours.",
       "scheduledDate": 1792119600000,
-      "duration": 90,
+      "duration": 75,
       "parentalRating": "",
       "programType": "Sports non-event",
       "genre": "Sports talk",
@@ -128,9 +150,31 @@
     },
     {
       "programTitle": "AFL Women's Premiership",
+      "episodeTitle": "Hawthorn Hawks vs Brisbane Lions",
+      "description": "From Kennedy Community Centre in Melbourne, Australia.",
+      "scheduledDate": 1792124100000,
+      "duration": 15,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Australian rules football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-10-16_EP029247970817_114018372858_2026-07-24T02:50:05Z_GNLZZGG003CC373/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "AFL Women's Premiership",
+      "episodeTitle": "Sydney Swans vs Carlton Blues",
+      "description": "From North Sydney Oval in North Sydney, New South Wales, Australia.",
+      "scheduledDate": 1792125000000,
+      "duration": 15,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Australian rules football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-10-16_EP029247970818_114018286853_2026-07-24T02:51:38Z_GNLZZGG003CC76Y/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "AFL Women's Premiership",
       "episodeTitle": "St. Kilda Saints vs Collingwood Magpies",
       "description": "From RSEA Park in Moorabbin, Victoria, Australia.",
-      "scheduledDate": 1792125000000,
+      "scheduledDate": 1792125900000,
       "duration": 15,
       "parentalRating": "",
       "programType": "Sports event",
@@ -141,7 +185,7 @@
       "programTitle": "AFL Women's Premiership",
       "episodeTitle": "Port Adelaide Power vs West Coast Eagles",
       "description": "From Alberton Oval in Adelaide, South Australia, Australia.",
-      "scheduledDate": 1792125900000,
+      "scheduledDate": 1792126800000,
       "duration": 15,
       "parentalRating": "",
       "programType": "Sports event",
@@ -151,30 +195,30 @@
     {
       "programTitle": "AFL Women's Premiership",
       "episodeTitle": "Geelong Cats vs GWS GIANTS",
-      "description": "Live from GMHBA Stadium. Bounce time: 5:05pm AEDT.",
-      "scheduledDate": 1792126800000,
-      "duration": 15,
-      "parentalRating": "",
-      "programType": "Sports event",
-      "genre": "Australian rules football",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-10-16_EP029247970813_113951020864_2026-07-24T02:51:12Z_GNLZZGG003CC19D/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
-    {
-      "programTitle": "AFL Women's Premiership",
-      "episodeTitle": "Richmond Tigers vs Adelaide Crows",
-      "description": "Live from IKON Park. Bounce time: 7:15pm AEDT.",
+      "description": "From GMHBA Stadium in South Geelong, Victoria, Australia.",
       "scheduledDate": 1792127700000,
       "duration": 15,
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Australian rules football",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-10-16_EP029247970814_113350642873_2026-07-24T02:50:43Z_GNLZZGG003CC78G/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-10-16_EP029247970813_114018372987_2026-07-24T02:51:12Z_GNLZZGG003CC19D/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "AFL Women's Premiership",
+      "episodeTitle": "Richmond Tigers vs Adelaide Crows",
+      "description": "From IKON Park in Melbourne, Victoria, Australia.",
+      "scheduledDate": 1792128600000,
+      "duration": 15,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Australian rules football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-10-16_EP029247970814_114018286946_2026-07-24T02:50:43Z_GNLZZGG003CC78G/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "AFL Women's Premiership",
       "episodeTitle": "Gold Coast SUNS vs Melbourne Demons",
       "description": "People First Stadium",
-      "scheduledDate": 1792128600000,
+      "scheduledDate": 1792129500000,
       "duration": 15,
       "parentalRating": "",
       "programType": "Sports event",
@@ -185,7 +229,7 @@
       "programTitle": "AFL Women's Premiership",
       "episodeTitle": "North Melbourne Kangaroos vs Fremantle Dockers",
       "description": "Coverage of matches played as part of the premier women's Australian rules competition.",
-      "scheduledDate": 1792129500000,
+      "scheduledDate": 1792130400000,
       "duration": 15,
       "parentalRating": "",
       "programType": "Sports event",
@@ -195,31 +239,31 @@
     {
       "programTitle": "AFL Women's Premiership",
       "episodeTitle": "Hawthorn Hawks vs Brisbane Lions",
-      "description": "Live from the Kennedy Community Centre. Bounce time: 1:05pm AEDT.",
-      "scheduledDate": 1792130400000,
-      "duration": 15,
-      "parentalRating": "",
-      "programType": "Sports event",
-      "genre": "Australian rules football",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-10-16_EP029247970817_113646167484_2026-07-24T02:50:05Z_GNLZZGG003CC373/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
-    {
-      "programTitle": "AFL Women's Premiership",
-      "episodeTitle": "Sydney Swans vs Carlton Blues",
-      "description": "Bounce time: 3:05pm AEDT.",
+      "description": "From Kennedy Community Centre in Melbourne, Australia.",
       "scheduledDate": 1792131300000,
       "duration": 15,
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Australian rules football",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-10-16_EP029247970818_113753238375_2026-07-24T02:51:38Z_GNLZZGG003CC76Y/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-10-16_EP029247970817_114018372858_2026-07-24T02:50:05Z_GNLZZGG003CC373/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "AFL Women's Premiership",
+      "episodeTitle": "Sydney Swans vs Carlton Blues",
+      "description": "From North Sydney Oval in North Sydney, New South Wales, Australia.",
+      "scheduledDate": 1792132200000,
+      "duration": 15,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Australian rules football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-10-16_EP029247970818_114018286853_2026-07-24T02:51:38Z_GNLZZGG003CC76Y/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "AFL Trading Day",
       "episodeTitle": "",
       "description": "A panel of experts discuss all the player movements across the AFL, including all the proposals and rumours.",
-      "scheduledDate": 1792132200000,
-      "duration": 90,
+      "scheduledDate": 1792133100000,
+      "duration": 75,
       "parentalRating": "",
       "programType": "Sports non-event",
       "genre": "Sports talk",
@@ -228,35 +272,35 @@
     {
       "programTitle": "AFL Women's Premiership",
       "episodeTitle": "Melbourne Demons vs Richmond Tigers",
-      "description": "From IKON Park in Melbourne, Victoria, Australia.",
+      "description": "Live from IKON Park. Bounce time: 7:15pm AEDT.",
       "scheduledDate": 1792137600000,
       "duration": 135,
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Australian rules football",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-10-16_EP029247970819_113951020846_2026-07-24T02:51:16Z_GNLZZGG003CC8N9/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-10-16_EP029247970819_114012858654_2026-07-24T02:51:16Z_GNLZZGG003CC8N9/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "AFL Women's Premiership",
       "episodeTitle": "Melbourne Demons vs Richmond Tigers",
-      "description": "From IKON Park in Melbourne, Victoria, Australia.",
+      "description": "Live from IKON Park. Bounce time: 7:15pm AEDT.",
       "scheduledDate": 1792145700000,
       "duration": 90,
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Australian rules football",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-10-16_EP029247970819_113951020846_2026-07-24T02:51:16Z_GNLZZGG003CC8N9/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-10-16_EP029247970819_114012858654_2026-07-24T02:51:16Z_GNLZZGG003CC8N9/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "AFL Women's Premiership",
       "episodeTitle": "Melbourne Demons vs Richmond Tigers",
-      "description": "From IKON Park in Melbourne, Victoria, Australia.",
+      "description": "Live from IKON Park. Bounce time: 7:15pm AEDT.",
       "scheduledDate": 1792151100000,
       "duration": 90,
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Australian rules football",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-10-16_EP029247970819_113951020846_2026-07-24T02:51:16Z_GNLZZGG003CC8N9/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-10-16_EP029247970819_114012858654_2026-07-24T02:51:16Z_GNLZZGG003CC8N9/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "To Be Announced",
@@ -274,7 +318,7 @@
       "episodeTitle": "",
       "description": "A panel of experts discuss all the player movements across the AFL, including all the proposals and rumours.",
       "scheduledDate": 1792156500000,
-      "duration": 90,
+      "duration": 75,
       "parentalRating": "",
       "programType": "Sports non-event",
       "genre": "Sports talk",
@@ -283,13 +327,24 @@
     {
       "programTitle": "AFL Women's Premiership",
       "episodeTitle": "Melbourne Demons vs Richmond Tigers",
-      "description": "From IKON Park in Melbourne, Victoria, Australia.",
+      "description": "Live from IKON Park. Bounce time: 7:15pm AEDT.",
+      "scheduledDate": 1792161000000,
+      "duration": 15,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Australian rules football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-10-16_EP029247970819_114012858654_2026-07-24T02:51:16Z_GNLZZGG003CC8N9/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "AFL Women's Premiership",
+      "episodeTitle": "Melbourne Demons vs Richmond Tigers",
+      "description": "Live from IKON Park. Bounce time: 7:15pm AEDT.",
       "scheduledDate": 1792161900000,
       "duration": 15,
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Australian rules football",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-10-16_EP029247970819_113951020846_2026-07-24T02:51:16Z_GNLZZGG003CC8N9/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-10-16_EP029247970819_114012858654_2026-07-24T02:51:16Z_GNLZZGG003CC8N9/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "AFL Mini",
@@ -329,11 +384,22 @@
       "episodeTitle": "",
       "description": "A panel of experts discuss all the player movements across the AFL, including all the proposals and rumours.",
       "scheduledDate": 1792166400000,
-      "duration": 90,
+      "duration": 75,
       "parentalRating": "",
       "programType": "Sports non-event",
       "genre": "Sports talk",
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-10-16_SH036713040000_113524789106_2025-10-15T06:35:58Z_p19064956_b_h10_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "AFL Women's Premiership",
+      "episodeTitle": "Melbourne Demons vs Richmond Tigers",
+      "description": "Live from IKON Park. Bounce time: 7:15pm AEDT.",
+      "scheduledDate": 1792170900000,
+      "duration": 15,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Australian rules football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-10-16_EP029247970819_114012858654_2026-07-24T02:51:16Z_GNLZZGG003CC8N9/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "AFL Mini",

@@ -2,8 +2,8 @@
   "channel": "SP2",
   "date": "2026-10-16",
   "source": "kayo",
-  "fetchedAt": 1792018842103,
-  "fetchedAtIST": "15/10/2026, 4:30:42 am",
+  "fetchedAt": 1792081691991,
+  "fetchedAtIST": "15/10/2026, 9:58:11 pm",
   "events": [
     {
       "programTitle": "NRL",
@@ -52,13 +52,13 @@
     {
       "programTitle": "NRL",
       "episodeTitle": "Sydney Roosters vs Newcastle Knights",
-      "description": "Live from Accor Stadium. Kick off at 7:30PM AEDT.",
+      "description": "From Accor Stadium in Sydney.",
       "scheduledDate": 1792105200000,
       "duration": 60,
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Playoff sports, Rugby league, Rugby",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-10-15_EP031720961247_113906289910_2026-09-27T13:42:48Z_GNLZZGG003PYM7N/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-10-15_EP031720961247_114018195689_2026-09-27T13:42:48Z_GNLZZGG003PYM7N/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "NRLW Premiership Mini",
@@ -184,7 +184,7 @@
     {
       "programTitle": "Superstars",
       "episodeTitle": "Brad Fittler: 2001 Round 23 - Sydney Roosters v Melbourne Storm",
-      "description": "An exclusive list of the biggest names in the game, past and present — see their best games here.",
+      "description": "An exclusive list of the biggest names in the game, past and present, featuring their best games.",
       "scheduledDate": 1792134000000,
       "duration": 60,
       "parentalRating": "",

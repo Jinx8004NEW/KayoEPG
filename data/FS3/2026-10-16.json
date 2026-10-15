@@ -2,8 +2,8 @@
   "channel": "FS3",
   "date": "2026-10-16",
   "source": "kayo",
-  "fetchedAt": 1792018842108,
-  "fetchedAtIST": "15/10/2026, 4:30:42 am",
+  "fetchedAt": 1792081692000,
+  "fetchedAtIST": "15/10/2026, 9:58:12 pm",
   "events": [
     {
       "programTitle": "2026 Presidents Cup",
@@ -87,11 +87,22 @@
       "episodeTitle": "PGA Championship, Final Round",
       "description": "A collection of special condensed replays featuring the best highlights and all the key moments from the course.",
       "scheduledDate": 1792112400000,
-      "duration": 30,
+      "duration": 20,
       "parentalRating": "",
       "programType": "Sports non-event",
       "genre": "Golf",
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-10-16_SH047874460000_101769826726_2023-06-23T09:17:39Z_p25047305_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Golf",
+      "episodeTitle": "US Open: Final Round",
+      "description": "Watch the final round action of the US Open from Shinnecock Hills Golf Club.",
+      "scheduledDate": 1792113600000,
+      "duration": 20,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-10-16_SH032772030000_113702935496_2025-04-03T19:44:22Z_p706015_i_h8_ad/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "Golf",
@@ -168,7 +179,7 @@
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Golf",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-10-16_EP040914080722_113961331914_2026-10-13T17:22:58Z_GNLZZGG003S0S78/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-10-16_EP040914080722_114005163825_2026-10-14T23:21:21Z_GNLZZGG003S515J/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "To Be Announced",
@@ -184,13 +195,13 @@
     {
       "programTitle": "The DP World Locker Room",
       "episodeTitle": "DP World India Championship",
-      "description": "",
+      "description": "Behind-the-scenes access to DP World Tour players and tournaments.",
       "scheduledDate": 1792150200000,
       "duration": 60,
       "parentalRating": "",
       "programType": "Sports non-event",
       "genre": "Golf, News",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-10-16_SH066598220000_113982032400_2026-10-07T06:05:04Z_p34295279_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-10-16_SH066598220000_114048519769_2026-10-07T06:05:04Z_p34295279_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "To Be Announced",
@@ -267,7 +278,7 @@
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Golf",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-10-16_EP034248570462_113990660588_2026-10-14T09:21:36Z_GNLZZGG003S2Y8X/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-10-16_EP034248570462_114000913029_2026-10-14T21:22:44Z_GNLZZGG003S4ZT0/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     }
   ]
 }

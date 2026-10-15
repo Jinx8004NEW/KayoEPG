@@ -2,9 +2,31 @@
   "channel": "FSP",
   "date": "2026-10-16",
   "source": "kayo",
-  "fetchedAt": 1792018842139,
-  "fetchedAtIST": "15/10/2026, 4:30:42 am",
+  "fetchedAt": 1792081692014,
+  "fetchedAtIST": "15/10/2026, 9:58:12 pm",
   "events": [
+    {
+      "programTitle": "Sailing",
+      "episodeTitle": "America's Cup: Preliminary Regatta, Final Day",
+      "description": "A look at all the action, highlights, and recaps from the world's most exciting regattas and sailing events.",
+      "scheduledDate": 1792089000000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Sailing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-10-15_SH031659890000_110117113815_2024-10-29T09:13:53Z_p7964323_i_h10_ag/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Formula 1",
+      "episodeTitle": "Singapore Grand Prix",
+      "description": "From Marina Bay Street Circuit in Singapore.",
+      "scheduledDate": 1792092600000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Auto racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-10-15_EP027326820877_113738038373_2026-09-18T15:45:42Z_p32388909_b_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
     {
       "programTitle": "Formula 1",
       "episodeTitle": "Singapore Grand Prix",
@@ -138,15 +160,15 @@
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-10-16_EP028104881586_113736368473_2026-10-09T06:38:04Z_GNLZZGG003RT0K4/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "My Game: Tiger Woods",
-      "episodeTitle": "My Equipment",
-      "description": "Tiger explains the detailed process he goes through to select his equipment.",
+      "programTitle": "Darts",
+      "episodeTitle": "PDC ANZ Premier League: Week 3",
+      "description": "Covering of all the action from darts events around the world.",
       "scheduledDate": 1792171800000,
-      "duration": 15,
+      "duration": 120,
       "parentalRating": "",
-      "programType": "Sports non-event",
-      "genre": "Golf",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-10-16_SH035435950000_107134189906_2019-09-11T08:00:16Z_p17353505_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "programType": "Sports event",
+      "genre": "Darts",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-10-16_SH032967320000_109954612423_2024-10-04T13:14:55Z_p644283_i_h8_ah/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "Saudi League Soccer",
