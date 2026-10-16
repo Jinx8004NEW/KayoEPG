@@ -2,8 +2,8 @@
   "channel": "FS3",
   "date": "2026-10-18",
   "source": "kayo",
-  "fetchedAt": 1792167202158,
-  "fetchedAtIST": "16/10/2026, 9:43:22 pm",
+  "fetchedAt": 1792190223038,
+  "fetchedAtIST": "17/10/2026, 4:07:03 am",
   "events": [
     {
       "programTitle": "PGA Tour Golf Mini",
@@ -171,15 +171,15 @@
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-10-18_EP034248570147_114054826720_2022-09-08T15:46:38Z_p22905144_b_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "F",
-      "episodeTitle": "",
-      "description": "",
+      "programTitle": "Fox Cricket Pre Game",
+      "episodeTitle": "Australia v New Zealand, 1st T20 (Women)",
+      "description": "The team present an extensive preview of all the action to come with the latest news, the best analysis, entertainment and interviews.",
       "scheduledDate": 1792308600000,
       "duration": 45,
       "parentalRating": "",
-      "programType": "",
-      "genre": "",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/Fallback_LTV_Fox_Sports_503/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "programType": "Sports non-event",
+      "genre": "Cricket",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-10-18_SH035786310000_111887034140_2025-11-20T06:27:30Z_p18624259_i_h10_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "Women's T20 Cricket",

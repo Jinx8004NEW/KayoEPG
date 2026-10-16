@@ -2,8 +2,8 @@
   "channel": "FS1",
   "date": "2026-10-19",
   "source": "kayo",
-  "fetchedAt": 1792167202117,
-  "fetchedAtIST": "16/10/2026, 9:43:22 pm",
+  "fetchedAt": 1792190223028,
+  "fetchedAtIST": "17/10/2026, 4:07:03 am",
   "events": [
     {
       "programTitle": "Test Cricket",
@@ -94,15 +94,15 @@
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-10-18_EP029804991879_114154596584_2026-09-20T22:46:26Z_GNLZZGG003PPG76/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "F",
-      "episodeTitle": "",
-      "description": "",
+      "programTitle": "Sheffield Shield",
+      "episodeTitle": "South Australia vs. Queensland",
+      "description": "Coverage of matches played as part of Australia's domestic first-class cricket competition.",
       "scheduledDate": 1792367700000,
       "duration": 125,
       "parentalRating": "",
-      "programType": "",
-      "genre": "",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/Fallback_LTV_Fox_Cricket/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "programType": "Sports event",
+      "genre": "Cricket",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-10-18_EP028878790108_114190453933_2026-10-16T10:54:43Z_GNLZZGG003SBP79/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     }
   ]
 }

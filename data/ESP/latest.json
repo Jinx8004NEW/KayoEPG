@@ -1,114 +1,37 @@
 {
   "channel": "ESP",
-  "date": "2026-10-16",
+  "date": "2026-10-17",
   "source": "kayo",
-  "fetchedAt": 1792167202505,
-  "fetchedAtIST": "16/10/2026, 9:43:22 pm",
+  "fetchedAt": 1792190223061,
+  "fetchedAtIST": "17/10/2026, 4:07:03 am",
   "events": [
     {
       "programTitle": "NBA Today",
       "episodeTitle": "",
       "description": "Daily NBA show from Los Angeles about everything you need to know about your favourite sport.",
-      "scheduledDate": 1792090800000,
+      "scheduledDate": 1792177200000,
       "duration": 60,
       "parentalRating": "",
       "programType": "Sports non-event",
       "genre": "Sports talk, Basketball",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-10-15_SH040441750000_109626193132_2021-11-02T16:57:12Z_p20706981_i_h10_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-10-16_SH040441750000_109626193132_2021-11-02T16:57:12Z_p20706981_i_h10_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "NFL Live",
       "episodeTitle": "",
       "description": "Wendi Nix and analysts break down the latest news in the NFL, offering views on players, coaches and management.",
-      "scheduledDate": 1792094400000,
+      "scheduledDate": 1792180800000,
       "duration": 60,
       "parentalRating": "",
       "programType": "Sports non-event",
       "genre": "Football",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-10-15_SH033280050000_112969172259_2022-08-27T02:25:47Z_p267723_i_h8_ae/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-10-16_SH033280050000_112969172259_2022-08-27T02:25:47Z_p267723_i_h8_ae/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "NFL Blitz",
       "episodeTitle": "",
       "description": "All of the best action from the National Football League.",
-      "scheduledDate": 1792098000000,
-      "duration": 30,
-      "parentalRating": "",
-      "programType": "Sports non-event",
-      "genre": "Family, Football, News, Newsmagazine",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-10-15_SH060667300000_113358670220_2022-09-12T05:46:51Z_p22911383_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
-    {
-      "programTitle": "Pardon the Interruption",
-      "episodeTitle": "",
-      "description": "Tony Kornheiser and Mike Wilbon have intense discussions and interview guests about the top headlines in news and sports.",
-      "scheduledDate": 1792099800000,
-      "duration": 30,
-      "parentalRating": "",
-      "programType": "Sports non-event",
-      "genre": "Sports talk",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-10-15_SH032424080000_114053918881_2021-04-08T22:26:28Z_p186288_i_h8_ae/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
-    {
-      "programTitle": "Saban",
-      "episodeTitle": "Death Valley",
-      "description": "After a contract dispute, Saban leaves Michigan State for an opportunity at LSU.",
-      "scheduledDate": 1792101600000,
-      "duration": 60,
-      "parentalRating": "",
-      "programType": "Sports non-event",
-      "genre": "Football",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-10-15_SH066455750000_114046285526_2026-09-30T18:35:00Z_p33978875_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
-    {
-      "programTitle": "NFL Films Presents",
-      "episodeTitle": "Unique Journeys",
-      "description": "Seahawks DC Aden Durde shares his journey from the UK to the NFL.",
-      "scheduledDate": 1792105200000,
-      "duration": 30,
-      "parentalRating": "",
-      "programType": "Sports non-event",
-      "genre": "Football, Documentary",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-10-15_EP033308300140_113943496741_2026-10-04T16:54:43Z_p34268704_e_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
-    {
-      "programTitle": "NFL Blitz",
-      "episodeTitle": "",
-      "description": "All of the best action from the National Football League.",
-      "scheduledDate": 1792107000000,
-      "duration": 45,
-      "parentalRating": "",
-      "programType": "Sports non-event",
-      "genre": "Family, Football, News, Newsmagazine",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-10-15_SH060667300000_113358670220_2022-09-12T05:46:51Z_p22911383_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
-    {
-      "programTitle": "NFL Football",
-      "episodeTitle": "Denver Broncos vs Seattle Seahawks",
-      "description": "From Empower Field at Mile High in Denver.",
-      "scheduledDate": 1792109700000,
-      "duration": 195,
-      "parentalRating": "",
-      "programType": "Sports event",
-      "genre": "Football",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-10-16_EP029371131914_113906290183_2026-07-15T04:41:50Z_GNLZZGG0039L5QZ/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
-    {
-      "programTitle": "NFL Films Presents",
-      "episodeTitle": "Unique Journeys",
-      "description": "Seahawks DC Aden Durde shares his journey from the UK to the NFL.",
-      "scheduledDate": 1792121400000,
-      "duration": 30,
-      "parentalRating": "",
-      "programType": "Sports non-event",
-      "genre": "Football, Documentary",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-10-16_EP033308300140_113943496741_2026-10-04T16:54:43Z_p34268704_e_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
-    {
-      "programTitle": "NFL Blitz",
-      "episodeTitle": "",
-      "description": "All of the best action from the National Football League.",
-      "scheduledDate": 1792123200000,
+      "scheduledDate": 1792184400000,
       "duration": 30,
       "parentalRating": "",
       "programType": "Sports non-event",
@@ -116,136 +39,147 @@
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-10-16_SH060667300000_113358670220_2022-09-12T05:46:51Z_p22911383_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
+      "programTitle": "Ball or Nothin'",
+      "episodeTitle": "",
+      "description": "",
+      "scheduledDate": 1792186200000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Basketball",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/Fallback_LTV_ESPN1/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "MLB Baseball",
+      "episodeTitle": "Tampa Bay Rays at Cleveland Guardians",
+      "description": "From Progressive Field in Cleveland.",
+      "scheduledDate": 1792188000000,
+      "duration": 180,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Playoff sports, Baseball",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-10-16_EP062580852983_114191731800_2026-10-11T04:45:58Z_GNLZZGG003RZR9F/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "MLB Baseball",
+      "episodeTitle": "Milwaukee Brewers at Los Angeles Dodgers",
+      "description": "From Uniqlo Field at Dodger Stadium in Los Angeles.",
+      "scheduledDate": 1792198800000,
+      "duration": 180,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Playoff sports, Baseball",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-10-17_EP062580852984_113967020757_2026-10-13T10:55:38Z_GNLZZGG003RETPM/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
       "programTitle": "Saban",
       "episodeTitle": "Death Valley",
       "description": "After a contract dispute, Saban leaves Michigan State for an opportunity at LSU.",
-      "scheduledDate": 1792125000000,
+      "scheduledDate": 1792209600000,
       "duration": 60,
       "parentalRating": "",
       "programType": "Sports non-event",
       "genre": "Football",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-10-16_SH066455750000_114046285526_2026-09-30T18:35:00Z_p33978875_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-10-17_SH066455750000_114046285526_2026-09-30T18:35:00Z_p33978875_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "College Football",
-      "episodeTitle": "Alabama-Birmingham vs East Carolina",
-      "description": "Legion Field",
-      "scheduledDate": 1792128600000,
-      "duration": 120,
+      "programTitle": "Baseball Tonight",
+      "episodeTitle": "",
+      "description": "Major League Baseball highlights, news, and information show providing comprehensive season long coverage.",
+      "scheduledDate": 1792213200000,
+      "duration": 30,
       "parentalRating": "",
-      "programType": "Sports event",
-      "genre": "Football",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-10-16_EP064738030830_114048561387_2026-06-20T04:25:48Z_GNLZZGG0036Y5C7/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "programType": "Sports non-event",
+      "genre": "News, Baseball",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-10-17_SH033235530000_112980364972_2026-08-10T19:26:00Z_p337588_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "ESPN FC",
       "episodeTitle": "",
       "description": "ESPN FC brings you a round-up of the latest news from the world of football, including in-depth analysis and exclusive interviews.",
-      "scheduledDate": 1792135800000,
+      "scheduledDate": 1792215000000,
       "duration": 30,
       "parentalRating": "",
       "programType": "Series",
       "genre": "Soccer, Sports talk",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-10-16_SH033236780000_109573421566_2026-05-25T06:15:30Z_p10106369_i_h11_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-10-17_SH033236780000_109573421566_2026-05-25T06:15:30Z_p10106369_i_h11_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "NBL Pregame",
+      "programTitle": "Ball or Nothin'",
       "episodeTitle": "",
-      "description": "A preview of upcoming games from the National Basketball League.",
-      "scheduledDate": 1792137600000,
+      "description": "",
+      "scheduledDate": 1792216800000,
       "duration": 30,
       "parentalRating": "",
       "programType": "Sports non-event",
       "genre": "Basketball",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-10-16_SH048723300000_113812357083_2023-09-20T11:04:17Z_p25650942_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/Fallback_LTV_ESPN1/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "NBL",
-      "episodeTitle": "Adelaide 36ers vs Tasmania JackJumpers",
-      "description": "From Adelaide Entertainment Centre in Hindmarsh, South Australia, Australia.",
-      "scheduledDate": 1792139400000,
+      "episodeTitle": "South East Melbourne Phoenix vs Cairns Taipans",
+      "description": "Live from John Cain Arena. Tip off at 5:36PM AEDT.",
+      "scheduledDate": 1792218600000,
       "duration": 120,
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Basketball",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-10-16_EP029269501299_113906290034_2025-12-17T21:46:48Z_GNLZZGG002NMMYB/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-10-17_EP029269501407_114012597138_2026-09-28T17:23:47Z_GNLZZGG003R0BVC/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "NFL Football",
-      "episodeTitle": "Denver Broncos vs Seattle Seahawks",
-      "description": "From Empower Field at Mile High in Denver.",
-      "scheduledDate": 1792146600000,
-      "duration": 150,
+      "programTitle": "NBL",
+      "episodeTitle": "Sydney Kings vs Perth Wildcats",
+      "description": "Live from Qudos Bank Arena. Tip off at 7:36PM AEDT.",
+      "scheduledDate": 1792225800000,
+      "duration": 120,
       "parentalRating": "",
       "programType": "Sports event",
-      "genre": "Football",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-10-16_EP029371131914_114105744697_2026-07-15T04:41:50Z_GNLZZGG0039L5QZ/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "genre": "Basketball",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-10-17_EP029269501408_114012583905_2026-09-28T17:18:42Z_GNLZZGG003R0816/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "NFL Blitz",
+      "programTitle": "NBL Postgame",
       "episodeTitle": "",
-      "description": "All of the best action from the National Football League.",
-      "scheduledDate": 1792155600000,
+      "description": "An exclusive behind-the-scenes look at all the post-game National Basketball League action, from both on and off the court.",
+      "scheduledDate": 1792233000000,
       "duration": 30,
       "parentalRating": "",
       "programType": "Sports non-event",
-      "genre": "Family, Football, News, Newsmagazine",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-10-16_SH060667300000_113358670220_2022-09-12T05:46:51Z_p22911383_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "genre": "Basketball",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-10-17_SH033421770000_114142914263_2021-06-04T09:16:19Z_p17486178_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "ONE Friday Fights 167",
+      "programTitle": "MLB Baseball",
+      "episodeTitle": "Milwaukee Brewers at Los Angeles Dodgers",
+      "description": "From Uniqlo Field at Dodger Stadium in Los Angeles.",
+      "scheduledDate": 1792234800000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Playoff sports, Baseball",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-10-17_EP062580852984_113967020757_2026-10-13T10:55:38Z_GNLZZGG003RETPM/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "College GameDay",
       "episodeTitle": "",
-      "description": "From Lumpinee Boxing Stadium in Bangkok.",
-      "scheduledDate": 1792157400000,
+      "description": "Rece Davis, Lee Corso, Kirk Herbstreit, and Desmond Howard provide their take on US football, complete with reports and unique analysis.",
+      "scheduledDate": 1792242000000,
+      "duration": 180,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-10-17_SH033268870000_113966471574_2024-11-04T17:34:02Z_p629309_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "College Football",
+      "episodeTitle": "LSU vs Mississippi State",
+      "description": "From Tiger Stadium in Baton Rouge, La.",
+      "scheduledDate": 1792252800000,
       "duration": 180,
       "parentalRating": "",
       "programType": "Sports event",
-      "genre": "Mixed martial arts",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-10-16_SH065682890000_113906289956_2026-08-14T15:57:09Z_p33736580_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
-    {
-      "programTitle": "NFL Films Presents",
-      "episodeTitle": "Unique Journeys",
-      "description": "Seahawks DC Aden Durde shares his journey from the UK to the NFL.",
-      "scheduledDate": 1792168200000,
-      "duration": 30,
-      "parentalRating": "",
-      "programType": "Sports non-event",
-      "genre": "Football, Documentary",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-10-16_EP033308300140_113943496741_2026-10-04T16:54:43Z_p34268704_e_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
-    {
-      "programTitle": "NFL Blitz",
-      "episodeTitle": "",
-      "description": "All of the best action from the National Football League.",
-      "scheduledDate": 1792170000000,
-      "duration": 30,
-      "parentalRating": "",
-      "programType": "Sports non-event",
-      "genre": "Family, Football, News, Newsmagazine",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-10-16_SH060667300000_113358670220_2022-09-12T05:46:51Z_p22911383_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
-    {
-      "programTitle": "SportsCenter",
-      "episodeTitle": "Top Plays of September",
-      "description": "The team deliver the latest news, highlights, and inside information from the wide world of sports, as well as trending topics across social media platforms.",
-      "scheduledDate": 1792171800000,
-      "duration": 30,
-      "parentalRating": "",
-      "programType": "Sports non-event",
-      "genre": "News, Sports talk",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-10-16_SH033259060000_109832503473_2018-04-18T10:39:00Z_p186674_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
-    {
-      "programTitle": "Bussin' & Pate On Campus",
-      "episodeTitle": "",
-      "description": "College football analyst Josh Pate and the Bussin' with the Boys crew preview college football action.",
-      "scheduledDate": 1792173600000,
-      "duration": 60,
-      "parentalRating": "",
-      "programType": "Sports non-event",
       "genre": "Football",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-10-16_SH066030980000_113906289960_2026-08-25T17:34:45Z_p33894692_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-10-17_EP064738030921_113986151167_2026-06-20T10:14:32Z_GNLZZGG0036YL5F/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     }
   ]
 }
