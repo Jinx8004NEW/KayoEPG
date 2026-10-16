@@ -2,8 +2,8 @@
   "channel": "SPS",
   "date": "2026-10-18",
   "source": "kayo",
-  "fetchedAt": 1792104916787,
-  "fetchedAtIST": "16/10/2026, 4:25:16 am",
+  "fetchedAt": 1792121460590,
+  "fetchedAtIST": "16/10/2026, 9:01:00 am",
   "events": [
     {
       "programTitle": "Supercars Mini",
@@ -59,6 +59,105 @@
       "programType": "Sports event",
       "genre": "Auto racing",
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-10-17_EP062929950028_114048302311_2026-10-14T15:23:42Z_GNLZZGG003S41CS/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Spirit of Yachting",
+      "episodeTitle": "",
+      "description": "The yachting enthusiast host reports all the latest news, coverage of all the key events related to the world of yachts.",
+      "scheduledDate": 1792290600000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Yacht racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-10-18_SH033277510000_113979561862_2016-12-12T18:21:00Z_p8754277_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Golf",
+      "episodeTitle": "PGA Australia: WA Open Golf Championship, Final Round",
+      "description": "Coverage of golf tournaments from around the world.",
+      "scheduledDate": 1792292400000,
+      "duration": 300,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-10-18_SH028182050000_112685941224_2024-05-13T05:23:51Z_p9232187_i_h8_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "DP World Tour Golf",
+      "episodeTitle": "DP World India Championship, Final Round",
+      "description": "From Delhi Golf Club in Delhi, Delhi, India.",
+      "scheduledDate": 1792310400000,
+      "duration": 180,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-10-18_EP040914080724_114079756059_2026-10-15T13:21:53Z_GNLZZGG003S7127/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Getting a Round In",
+      "episodeTitle": "",
+      "description": "Australian professional golfer, Paul Gow hosts celebrities as his playing partners who share his love for the game of golf.",
+      "scheduledDate": 1792321200000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Series",
+      "genre": "Golf, Interview",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-10-18_SH048121120000_110998856207_2023-07-18T05:56:16Z_p25221374_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "The DP World Locker Room",
+      "episodeTitle": "DP World India Championship",
+      "description": "Behind-the-scenes access to DP World Tour players and tournaments.",
+      "scheduledDate": 1792323000000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Golf, News",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-10-18_SH066598220000_114048519769_2026-10-07T06:05:04Z_p34295279_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "British Superbike Championship Series",
+      "episodeTitle": "Round 11: Brands Hatch",
+      "description": "Action from the British Superbike Championship.",
+      "scheduledDate": 1792326600000,
+      "duration": 210,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Motorcycle",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-10-18_EP039439990122_114080394413_2026-10-15T15:22:52Z_GNLZZGG003S7FGT/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Moto2 GP Racing",
+      "episodeTitle": "Pertamina Grand Prix of Indonesia",
+      "description": "From Mandalika International Street Circuit in Nusa Tenggara Barat, Indonesia.",
+      "scheduledDate": 1792339200000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Motorcycle racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-10-18_EP046925380391_113849436719_2026-10-09T13:24:23Z_GNLZZGG003RV2FS/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NASCAR O'Reilly Auto Parts Series Highlights",
+      "episodeTitle": "Timberland PRO 200",
+      "description": "Highlights of the various races taking place at the NASCAR O'Reilly Auto Parts Series.",
+      "scheduledDate": 1792342800000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Auto racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-10-18_SH062934750000_113523990730_2026-08-05T10:46:39Z_p32273555_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NASCAR Cup Series",
+      "episodeTitle": "Freeway Insurance 500",
+      "description": "From Phoenix Raceway in Avondale, Ariz.",
+      "scheduledDate": 1792346400000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Auto racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-10-18_EP035183560220_114083066711_2026-10-15T15:22:17Z_GNLZZGG003S7FDV/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     }
   ]
 }

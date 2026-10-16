@@ -2,8 +2,8 @@
   "channel": "ES2",
   "date": "2026-10-18",
   "source": "kayo",
-  "fetchedAt": 1792104916808,
-  "fetchedAtIST": "16/10/2026, 4:25:16 am",
+  "fetchedAt": 1792121460604,
+  "fetchedAtIST": "16/10/2026, 9:01:00 am",
   "events": [
     {
       "programTitle": "College Football Scoreboard",
@@ -81,6 +81,105 @@
       "programType": "Sports event",
       "genre": "Football",
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-10-17_EP064738030893_113991877222_2026-06-20T07:22:12Z_GNLZZGG0036YFTC/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "College Football",
+      "episodeTitle": "Colorado vs Utah",
+      "description": "From Folsom Field in Boulder, Colo.",
+      "scheduledDate": 1792292400000,
+      "duration": 135,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-10-18_EP064738030862_114084337270_2026-06-20T07:24:49Z_GNLZZGG0036YZ3P/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "College Football",
+      "episodeTitle": "Tennessee vs Alabama",
+      "description": "From Neyland Stadium in Knoxville, Tenn.",
+      "scheduledDate": 1792300500000,
+      "duration": 135,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-10-18_EP064738030860_114086308358_2026-06-20T07:22:44Z_GNLZZGG0036YMCT/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "ESPN FC",
+      "episodeTitle": "",
+      "description": "ESPN FC brings you a round-up of the latest news from the world of football, including in-depth analysis and exclusive interviews.",
+      "scheduledDate": 1792308600000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Series",
+      "genre": "Soccer, Sports talk",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-10-18_SH033236780000_109573421566_2026-05-25T06:15:30Z_p10106369_i_h11_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "College Football",
+      "episodeTitle": "BYU vs Notre Dame",
+      "description": "From LaVell Edwards Stadium in Provo, Utah",
+      "scheduledDate": 1792310400000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-10-18_EP064738030893_113991877222_2026-06-20T07:22:12Z_GNLZZGG0036YFTC/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "College Football",
+      "episodeTitle": "Texas vs Florida",
+      "description": "From Darrell K. Royal - Texas Memorial Stadium in Austin, Texas.",
+      "scheduledDate": 1792317600000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-10-18_EP064738030900_113983159119_2026-06-20T07:22:14Z_GNLZZGG0036YHTW/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "SportsCenter",
+      "episodeTitle": "",
+      "description": "The team deliver the latest news, highlights, and inside information from the wide world of sports, as well as trending topics across social media platforms.",
+      "scheduledDate": 1792324800000,
+      "duration": 25,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "News, Sports talk",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-10-18_SH033259060000_109832503473_2018-04-18T10:39:00Z_p186674_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Eredivisie Soccer",
+      "episodeTitle": "SC Cambuur vs AZ",
+      "description": "From Kooi Stadion in Leeuwarden, Friesland, Netherlands.",
+      "scheduledDate": 1792326300000,
+      "duration": 125,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Soccer",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-10-18_EP059662140339_113973254998_2026-07-08T19:33:33Z_GNLZZGG0038KFGS/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Sunday NFL Countdown",
+      "episodeTitle": "",
+      "description": "Samantha Ponder, with a team of analysts, introduces the features and directs the storylines associated with the day's games.",
+      "scheduledDate": 1792333800000,
+      "duration": 150,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-10-18_SH033308210000_113972619184_2019-09-06T20:20:11Z_p924452_i_h8_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Women's College Volleyball",
+      "episodeTitle": "Kansas vs Arizona State",
+      "description": "From Horejsi Family Athletics Center in Lawrence, Kan.",
+      "scheduledDate": 1792342800000,
+      "duration": 180,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Volleyball",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-10-18_EP062509050246_113972509689_2026-08-18T22:52:39Z_GNLZZGG003G95KY/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     }
   ]
 }

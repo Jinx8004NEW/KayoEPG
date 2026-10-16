@@ -2,8 +2,8 @@
   "channel": "ESP",
   "date": "2026-10-18",
   "source": "kayo",
-  "fetchedAt": 1792104916801,
-  "fetchedAtIST": "16/10/2026, 4:25:16 am",
+  "fetchedAt": 1792121460600,
+  "fetchedAtIST": "16/10/2026, 9:01:00 am",
   "events": [
     {
       "programTitle": "College Football Scoreboard",
@@ -48,6 +48,127 @@
       "programType": "Sports non-event",
       "genre": "Special, Baseball",
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-10-17_SH035067150000_114048302308_2020-04-06T17:50:21Z_p10675465_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "MLB Baseball",
+      "episodeTitle": "",
+      "description": "Coverage of the action from the Major League Baseball.",
+      "scheduledDate": 1792281600000,
+      "duration": 180,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Baseball",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-10-18_SH062580850000_113754847233_2022-04-14T08:06:14Z_p191273_i_h8_ad/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Prime 9",
+      "episodeTitle": "Hitting Duos",
+      "description": "Presents a countdown of the all-time top nine hitting duos in baseball history.",
+      "scheduledDate": 1792292400000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Baseball",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-10-18_EP034894280007_114048302400_2022-09-20T11:27:16Z_p8723926_e_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Ball or Nothin'",
+      "episodeTitle": "",
+      "description": "",
+      "scheduledDate": 1792294200000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Basketball",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/Fallback_LTV_ESPN1/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NBL",
+      "episodeTitle": "Tasmania JackJumpers vs BNZ Breakers",
+      "description": "From MyState Bank Arena in Hobart, Tasmania, Australia.",
+      "scheduledDate": 1792296000000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Basketball",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-10-18_EP029269501409_114048302324_2026-09-28T17:25:10Z_GNLZZGG003R0CHZ/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NBL",
+      "episodeTitle": "Melbourne United vs Illawarra Hawks",
+      "description": "From John Cain Arena in Melbourne, Victoria, Australia.",
+      "scheduledDate": 1792303200000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Basketball",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-10-18_EP029269501410_114048302307_2026-09-28T17:23:52Z_GNLZZGG003R0BWM/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "MLB Baseball",
+      "episodeTitle": "",
+      "description": "Coverage of the action from the Major League Baseball.",
+      "scheduledDate": 1792310400000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Baseball",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-10-18_SH062580850000_113754847233_2022-04-14T08:06:14Z_p191273_i_h8_ad/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "College Football",
+      "episodeTitle": "Miami vs Florida State",
+      "description": "From Hard Rock Stadium in Miami Gardens, Fla.",
+      "scheduledDate": 1792317600000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-10-18_EP064738030916_114048302313_2026-06-20T07:22:24Z_GNLZZGG0036YNB8/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "College Football",
+      "episodeTitle": "Georgia vs Auburn",
+      "description": "From Sanford Stadium in Athens, Ga.",
+      "scheduledDate": 1792324800000,
+      "duration": 90,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-10-18_EP064738030904_114048302328_2026-06-20T07:21:38Z_GNLZZGG0036YRB8/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NFL Football",
+      "episodeTitle": "Houston Texans vs Jacksonville Jaguars",
+      "description": "From Wembley Stadium in London.",
+      "scheduledDate": 1792330200000,
+      "duration": 180,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-10-18_EP029371131915_114105296956_2026-07-15T04:41:55Z_GNLZZGG0039ZEYN/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NFL Films Presents",
+      "episodeTitle": "Unique Journeys",
+      "description": "Seahawks DC Aden Durde shares his journey from the UK to the NFL.",
+      "scheduledDate": 1792341000000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Football, Documentary",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-10-18_EP033308300140_113943496741_2026-10-04T16:54:43Z_p34268704_e_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NFL Football",
+      "episodeTitle": "Philadelphia Eagles vs Carolina Panthers",
+      "description": "From Lincoln Financial Field in Philadelphia.",
+      "scheduledDate": 1792342800000,
+      "duration": 180,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-10-18_EP029371131918_114103789273_2026-07-15T07:25:52Z_GNLZZGG0039LH7F/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     }
   ]
 }

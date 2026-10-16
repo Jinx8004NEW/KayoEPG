@@ -2,8 +2,8 @@
   "channel": "FSS",
   "date": "2026-10-18",
   "source": "kayo",
-  "fetchedAt": 1792104916794,
-  "fetchedAtIST": "16/10/2026, 4:25:16 am",
+  "fetchedAt": 1792121460596,
+  "fetchedAtIST": "16/10/2026, 9:01:00 am",
   "events": [
     {
       "programTitle": "NASCAR Cup Racing Series",
@@ -48,6 +48,83 @@
       "programType": "Sports event",
       "genre": "Darts",
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-10-17_SH032967320000_109954612423_2024-10-04T13:14:55Z_p644283_i_h8_ah/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "FIM Superbike World Championship",
+      "episodeTitle": "Spanish Round, Race 1",
+      "description": "From Circuito de Jerez – Ángel Nieto in Jerez de la Frontera, Andalusia, Spain.",
+      "scheduledDate": 1792281600000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Motorcycle racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-10-18_EP050933440131_113976133903_2026-10-14T13:21:10Z_GNLZZGG003S3PRQ/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "The Spirit of Yachting",
+      "episodeTitle": "Maxi Yacht Rolex Cup and Rolex Swan Cup 2026",
+      "description": "Following the most spectacular competitions in the world of sailing. Showing not only the sporting dispute, but also the personal stories of those who carry out these feats.",
+      "scheduledDate": 1792285200000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Series",
+      "genre": "Sailing, Newsmagazine, News",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-10-18_SH033258430000_109398511487_2019-09-30T13:00:46Z_p10964484_i_h10_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "LPGA Tour Golf",
+      "episodeTitle": "Buick LPGA Shanghai, Third Round",
+      "description": "From Sheshan International Golf Club in Shanghai, China.",
+      "scheduledDate": 1792287000000,
+      "duration": 90,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-10-18_EP031583890722_114048302312_2026-10-14T23:22:02Z_GNLZZGG003S5171/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "LPGA Tour Golf",
+      "episodeTitle": "Buick LPGA Shanghai, Final Round",
+      "description": "From Sheshan International Golf Club in Shanghai, China.",
+      "scheduledDate": 1792292400000,
+      "duration": 300,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-10-18_SH031583890000_109900390814_2025-12-31T05:35:12Z_p767017_i_h8_af/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "WSL Tour",
+      "episodeTitle": "Portugal - Day 3",
+      "description": "Coverage of surfing action from the WSL.",
+      "scheduledDate": 1792310400000,
+      "duration": 480,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Surfing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-10-18_SH033247690000_110929981520_2019-03-19T05:40:29Z_p16589355_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Darts",
+      "episodeTitle": "PDC ANZ Premier League: Week 4",
+      "description": "Covering of all the action from darts events around the world.",
+      "scheduledDate": 1792339200000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Darts",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-10-18_SH032967320000_109954612423_2024-10-04T13:14:55Z_p644283_i_h8_ah/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "The Spirit of Yachting",
+      "episodeTitle": "Maxi Yacht Rolex Cup and Rolex Swan Cup 2026",
+      "description": "Following the most spectacular competitions in the world of sailing. Showing not only the sporting dispute, but also the personal stories of those who carry out these feats.",
+      "scheduledDate": 1792346400000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Series",
+      "genre": "Sailing, Newsmagazine, News",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-10-18_SH033258430000_109398511487_2019-09-30T13:00:46Z_p10964484_i_h10_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     }
   ]
 }
