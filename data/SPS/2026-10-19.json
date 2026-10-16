@@ -2,9 +2,20 @@
   "channel": "SPS",
   "date": "2026-10-19",
   "source": "kayo",
-  "fetchedAt": 1792121460591,
-  "fetchedAtIST": "16/10/2026, 9:01:00 am",
+  "fetchedAt": 1792140484640,
+  "fetchedAtIST": "16/10/2026, 2:18:04 pm",
   "events": [
+    {
+      "programTitle": "NASCAR Cup Series",
+      "episodeTitle": "Freeway Insurance 500",
+      "description": "From Phoenix Raceway in Avondale, Ariz.",
+      "scheduledDate": 1792348200000,
+      "duration": 90,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Auto racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-10-18_EP035183560220_114083066711_2026-10-15T15:22:17Z_GNLZZGG003S7FDV/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
     {
       "programTitle": "To Be Announced",
       "episodeTitle": "",

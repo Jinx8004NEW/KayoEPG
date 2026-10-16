@@ -2,8 +2,8 @@
   "channel": "FSP",
   "date": "2026-10-18",
   "source": "kayo",
-  "fetchedAt": 1792121460586,
-  "fetchedAtIST": "16/10/2026, 9:01:00 am",
+  "fetchedAt": 1792140484315,
+  "fetchedAtIST": "16/10/2026, 2:18:04 pm",
   "events": [
     {
       "programTitle": "FIM Superbike World Championship",
@@ -98,7 +98,7 @@
       "episodeTitle": "Spanish Round, Race 2",
       "description": "From Circuito de Jerez – Ángel Nieto in Jerez de la Frontera, Andalusia, Spain.",
       "scheduledDate": 1792317000000,
-      "duration": 280,
+      "duration": 285,
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Motorcycle racing",
@@ -110,6 +110,17 @@
       "description": "From Mandalika International Street Circuit in Nusa Tenggara Barat, Indonesia.",
       "scheduledDate": 1792333800000,
       "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Motorcycle racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-10-18_EP028104881587_113849419821_2026-10-09T13:24:24Z_GNLZZGG003RV2FH/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "MotoGP Racing",
+      "episodeTitle": "Pertamina Grand Prix of Indonesia",
+      "description": "From Mandalika International Street Circuit in Nusa Tenggara Barat, Indonesia.",
+      "scheduledDate": 1792334100000,
+      "duration": 55,
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Motorcycle racing",

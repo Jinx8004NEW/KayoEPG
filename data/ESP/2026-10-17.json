@@ -2,8 +2,8 @@
   "channel": "ESP",
   "date": "2026-10-17",
   "source": "kayo",
-  "fetchedAt": 1792121460599,
-  "fetchedAtIST": "16/10/2026, 9:01:00 am",
+  "fetchedAt": 1792140485256,
+  "fetchedAtIST": "16/10/2026, 2:18:05 pm",
   "events": [
     {
       "programTitle": "NBA Today",
@@ -131,11 +131,33 @@
       "episodeTitle": "Sydney Kings vs Perth Wildcats",
       "description": "Live from Qudos Bank Arena. Tip off at 7:36PM AEDT.",
       "scheduledDate": 1792225800000,
-      "duration": 270,
+      "duration": 120,
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Basketball",
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-10-17_EP029269501408_114012583905_2026-09-28T17:18:42Z_GNLZZGG003R0816/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NBL Postgame",
+      "episodeTitle": "",
+      "description": "An exclusive behind-the-scenes look at all the post-game National Basketball League action, from both on and off the court.",
+      "scheduledDate": 1792233000000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Basketball",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-10-17_SH033421770000_113498403327_2021-06-04T09:16:19Z_p17486178_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "MLB Baseball",
+      "episodeTitle": "Milwaukee Brewers at Los Angeles Dodgers",
+      "description": "From Uniqlo Field at Dodger Stadium in Los Angeles.",
+      "scheduledDate": 1792234800000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Playoff sports, Baseball",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-10-17_EP062580852984_113967020757_2026-10-13T10:55:38Z_GNLZZGG003RETPM/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "College GameDay",
