@@ -2,8 +2,8 @@
   "channel": "FS1",
   "date": "2026-10-18",
   "source": "kayo",
-  "fetchedAt": 1792140483858,
-  "fetchedAtIST": "16/10/2026, 2:18:03 pm",
+  "fetchedAt": 1792167202108,
+  "fetchedAtIST": "16/10/2026, 9:43:22 pm",
   "events": [
     {
       "programTitle": "Test Cricket",
@@ -296,11 +296,11 @@
       "episodeTitle": "Final",
       "description": "",
       "scheduledDate": 1792337400000,
-      "duration": 270,
+      "duration": 240,
       "parentalRating": "",
       "programType": "Sports non-event",
       "genre": "Cricket",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/Fallback_LTV_Fox_Cricket/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-10-18_SH066611850000_113969568117_2024-06-24T10:34:17Z_p27694312_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     }
   ]
 }
