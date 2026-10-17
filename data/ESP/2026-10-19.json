@@ -2,8 +2,8 @@
   "channel": "ESP",
   "date": "2026-10-19",
   "source": "kayo",
-  "fetchedAt": 1792225107229,
-  "fetchedAtIST": "17/10/2026, 1:48:27 pm",
+  "fetchedAt": 1792249629266,
+  "fetchedAtIST": "17/10/2026, 8:37:09 pm",
   "events": [
     {
       "programTitle": "In Depth With Graham Bensinger",
@@ -25,7 +25,7 @@
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Football",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-10-18_EP029371131925_114142953442_2026-07-15T04:28:12Z_GNLZZGG0039ZQYR/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-10-18_EP029371131925_114224936377_2026-07-15T04:28:12Z_GNLZZGG0039ZQYR/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "NFL Blitz",
@@ -102,7 +102,7 @@
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Football",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-10-19_EP029371131925_114142953442_2026-07-15T04:28:12Z_GNLZZGG0039ZQYR/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-10-19_EP029371131925_114224936377_2026-07-15T04:28:12Z_GNLZZGG0039ZQYR/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "NBL: Overtime",
@@ -186,7 +186,7 @@
       "episodeTitle": "",
       "description": "Former NFL punter Pat McAfee brings his humour, sarcasm and candour to the microphone to highlight the day's top stories.",
       "scheduledDate": 1792425600000,
-      "duration": 240,
+      "duration": 180,
       "parentalRating": "",
       "programType": "Series",
       "genre": "Sports talk",
