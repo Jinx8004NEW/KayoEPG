@@ -1,114 +1,48 @@
 {
   "channel": "FSS",
-  "date": "2026-10-17",
+  "date": "2026-10-18",
   "source": "kayo",
-  "fetchedAt": 1792260829687,
-  "fetchedAtIST": "17/10/2026, 11:43:49 pm",
+  "fetchedAt": 1792274356270,
+  "fetchedAtIST": "18/10/2026, 3:29:16 am",
   "events": [
-    {
-      "programTitle": "LPGA Tour Golf",
-      "episodeTitle": "Buick LPGA Shanghai, Second Round",
-      "description": "From Sheshan International Golf Club in Shanghai, China.",
-      "scheduledDate": 1792175400000,
-      "duration": 90,
-      "parentalRating": "",
-      "programType": "Sports event",
-      "genre": "Golf",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-10-16_EP031583890721_113937388052_2026-10-13T23:22:23Z_GNLZZGG003S18ZK/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
-    {
-      "programTitle": "Pro Bull Riding",
-      "episodeTitle": "",
-      "description": "The best bull riders in Australia and the world compete for prize money on the professional bull riding circuit.",
-      "scheduledDate": 1792180800000,
-      "duration": 60,
-      "parentalRating": "",
-      "programType": "Sports non-event",
-      "genre": "Bull riding",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-10-16_SH029446100000_108472165776_2018-05-25T09:42:00Z_p15394895_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
-    {
-      "programTitle": "NASCAR O'Reilly Auto Parts Series Highlights",
-      "episodeTitle": "Blue Cross NC 250",
-      "description": "Highlights of the various races taking place at the NASCAR O'Reilly Auto Parts Series.",
-      "scheduledDate": 1792184400000,
-      "duration": 60,
-      "parentalRating": "",
-      "programType": "Sports non-event",
-      "genre": "Auto racing",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-10-16_SH062934750000_113523990730_2026-08-05T10:46:39Z_p32273555_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
     {
       "programTitle": "NASCAR Cup Racing Series",
       "episodeTitle": "The Chase Charlotte",
       "description": "Championship contenders Kyle Larson and Denny Hamlin battle it out at Charlotte Motor Speedway as playoff pressure peaks on the classic 1.5-mile oval.",
-      "scheduledDate": 1792188000000,
+      "scheduledDate": 1792263600000,
       "duration": 60,
       "parentalRating": "",
       "programType": "Sports non-event",
       "genre": "Motorsports, Auto racing",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-10-16_SH056052770000_110216247140_2024-02-28T07:23:12Z_p8599472_i_h10_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-10-17_SH056052770000_110216247140_2024-02-28T07:23:12Z_p8599472_i_h10_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "FIM Superbike World Championship",
-      "episodeTitle": "Estoril Round, Race 1",
-      "description": "From Circuito Estoril in Cascais, Lisboa, Portugal.",
-      "scheduledDate": 1792191600000,
-      "duration": 60,
-      "parentalRating": "",
-      "programType": "Sports event",
-      "genre": "Motorcycle racing",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-10-16_EP050933440126_113752787549_2026-10-09T13:24:05Z_GNLZZGG003RV2DX/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
-    {
-      "programTitle": "FIM Superbike World Championship",
-      "episodeTitle": "Estoril Round, Race 2",
-      "description": "From Circuito Estoril in Cascais, Lisboa, Portugal.",
-      "scheduledDate": 1792195200000,
-      "duration": 60,
-      "parentalRating": "",
-      "programType": "Sports event",
-      "genre": "Motorcycle racing",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-10-17_EP050933440129_113755381373_2026-10-09T15:22:55Z_GNLZZGG003RVD66/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
-    {
-      "programTitle": "Supercars Championship",
-      "episodeTitle": "Repco Bathurst 1000, Race",
-      "description": "Highlights and replays of classic races of the international motor racing series for Supercars.",
-      "scheduledDate": 1792198800000,
-      "duration": 120,
+      "programTitle": "The Spirit of Yachting",
+      "episodeTitle": "Maxi Yacht Rolex Cup and Rolex Swan Cup 2026",
+      "description": "Following the most spectacular competitions in the world of sailing. Showing not only the sporting dispute, but also the personal stories of those who carry out these feats.",
+      "scheduledDate": 1792267200000,
+      "duration": 30,
       "parentalRating": "",
       "programType": "Series",
-      "genre": "Auto racing",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-10-17_SH035728470000_113699461789_2018-12-17T21:00:00Z_p16276370_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "genre": "Sailing, Newsmagazine, News",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-10-17_SH033258430000_109398511487_2019-09-30T13:00:46Z_p10964484_i_h10_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "FIM Superbike World Championship",
-      "episodeTitle": "Estoril Round, Race 1",
-      "description": "From Circuito Estoril in Cascais, Lisboa, Portugal.",
-      "scheduledDate": 1792206000000,
-      "duration": 60,
+      "programTitle": "LPGA Tour Golf",
+      "episodeTitle": "Buick LPGA Shanghai, Third Round",
+      "description": "From Sheshan International Golf Club in Shanghai, China.",
+      "scheduledDate": 1792269000000,
+      "duration": 90,
       "parentalRating": "",
       "programType": "Sports event",
-      "genre": "Motorcycle racing",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-10-17_EP050933440126_113752787549_2026-10-09T13:24:05Z_GNLZZGG003RV2DX/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
-    {
-      "programTitle": "FIM Superbike World Championship",
-      "episodeTitle": "Estoril Round, Race 2",
-      "description": "From Circuito Estoril in Cascais, Lisboa, Portugal.",
-      "scheduledDate": 1792209600000,
-      "duration": 60,
-      "parentalRating": "",
-      "programType": "Sports event",
-      "genre": "Motorcycle racing",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-10-17_EP050933440129_113755381373_2026-10-09T15:22:55Z_GNLZZGG003RVD66/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-10-17_EP031583890722_114189995572_2026-10-14T23:22:02Z_GNLZZGG003S5171/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "Darts",
       "episodeTitle": "PDC ANZ Premier League: Week 4",
       "description": "Covering of all the action from darts events around the world.",
-      "scheduledDate": 1792213200000,
+      "scheduledDate": 1792274400000,
       "duration": 120,
       "parentalRating": "",
       "programType": "Sports event",
@@ -116,48 +50,81 @@
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-10-17_SH032967320000_109954612423_2024-10-04T13:14:55Z_p644283_i_h8_ah/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
+      "programTitle": "FIM Superbike World Championship",
+      "episodeTitle": "Spanish Round, Race 1",
+      "description": "From Circuito de Jerez – Ángel Nieto in Jerez de la Frontera, Andalusia, Spain.",
+      "scheduledDate": 1792281600000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Motorcycle racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-10-18_SH050933440000_112305496713_2024-03-13T11:13:41Z_p26891785_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "The Spirit of Yachting",
+      "episodeTitle": "Maxi Yacht Rolex Cup and Rolex Swan Cup 2026",
+      "description": "Following the most spectacular competitions in the world of sailing. Showing not only the sporting dispute, but also the personal stories of those who carry out these feats.",
+      "scheduledDate": 1792285200000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Series",
+      "genre": "Sailing, Newsmagazine, News",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-10-18_SH033258430000_109398511487_2019-09-30T13:00:46Z_p10964484_i_h10_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "LPGA Tour Golf",
+      "episodeTitle": "Buick LPGA Shanghai, Third Round",
+      "description": "From Sheshan International Golf Club in Shanghai, China.",
+      "scheduledDate": 1792287000000,
+      "duration": 90,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-10-18_EP031583890722_114189995572_2026-10-14T23:22:02Z_GNLZZGG003S5171/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "LPGA Tour Golf",
+      "episodeTitle": "Buick LPGA Shanghai, Final Round",
+      "description": "From Sheshan International Golf Club in Shanghai, China.",
+      "scheduledDate": 1792292400000,
+      "duration": 300,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-10-18_EP031583890723_114190302143_2026-10-15T23:22:48Z_GNLZZGG003S8NE5/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
       "programTitle": "WSL Tour",
-      "episodeTitle": "Championship Tour: MEO Rip Curl Pro Portugal",
+      "episodeTitle": "Portugal - Day 3",
       "description": "Coverage of surfing action from the WSL.",
-      "scheduledDate": 1792220400000,
+      "scheduledDate": 1792310400000,
       "duration": 480,
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Surfing",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-10-17_SH033247690000_110929981520_2019-03-19T05:40:29Z_p16589355_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
-    {
-      "programTitle": "WSL Tour",
-      "episodeTitle": "Championship Tour: MEO Rip Curl Pro Portugal",
-      "description": "Coverage of surfing action from the WSL.",
-      "scheduledDate": 1792249200000,
-      "duration": 60,
-      "parentalRating": "",
-      "programType": "Sports event",
-      "genre": "Surfing",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-10-17_SH033247690000_110929981520_2019-03-19T05:40:29Z_p16589355_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-10-18_SH033247690000_110929981520_2019-03-19T05:40:29Z_p16589355_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "Darts",
       "episodeTitle": "PDC ANZ Premier League: Week 4",
       "description": "Covering of all the action from darts events around the world.",
-      "scheduledDate": 1792252800000,
+      "scheduledDate": 1792339200000,
       "duration": 120,
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Darts",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-10-17_SH032967320000_109954612423_2024-10-04T13:14:55Z_p644283_i_h8_ah/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-10-18_SH032967320000_109954612423_2024-10-04T13:14:55Z_p644283_i_h8_ah/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "NASCAR O'Reilly Auto Parts Series Highlights",
-      "episodeTitle": "Blue Cross NC 250",
-      "description": "Highlights of the various races taking place at the NASCAR O'Reilly Auto Parts Series.",
-      "scheduledDate": 1792260000000,
-      "duration": 60,
+      "programTitle": "The Spirit of Yachting",
+      "episodeTitle": "Maxi Yacht Rolex Cup and Rolex Swan Cup 2026",
+      "description": "Following the most spectacular competitions in the world of sailing. Showing not only the sporting dispute, but also the personal stories of those who carry out these feats.",
+      "scheduledDate": 1792346400000,
+      "duration": 30,
       "parentalRating": "",
-      "programType": "Sports non-event",
-      "genre": "Auto racing",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-10-17_SH062934750000_113523990730_2026-08-05T10:46:39Z_p32273555_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "programType": "Series",
+      "genre": "Sailing, Newsmagazine, News",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-10-18_SH033258430000_109398511487_2019-09-30T13:00:46Z_p10964484_i_h10_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     }
   ]
 }

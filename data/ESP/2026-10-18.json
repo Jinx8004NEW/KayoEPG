@@ -2,8 +2,8 @@
   "channel": "ESP",
   "date": "2026-10-18",
   "source": "kayo",
-  "fetchedAt": 1792260829692,
-  "fetchedAtIST": "17/10/2026, 11:43:49 pm",
+  "fetchedAt": 1792274356275,
+  "fetchedAtIST": "18/10/2026, 3:29:16 am",
   "events": [
     {
       "programTitle": "College Football Scoreboard",
@@ -50,15 +50,15 @@
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-10-17_SH035067150000_114048302308_2020-04-06T17:50:21Z_p10675465_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "E",
-      "episodeTitle": "",
-      "description": "",
+      "programTitle": "MLB Baseball",
+      "episodeTitle": "Tampa Bay Rays at Cleveland Guardians",
+      "description": "From Progressive Field in Cleveland.",
       "scheduledDate": 1792281600000,
       "duration": 180,
       "parentalRating": "",
-      "programType": "",
-      "genre": "",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/Fallback_LTV_ESPN1/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "programType": "Sports event",
+      "genre": "Playoff sports, Baseball",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-10-18_EP062580852989_114256443533_2026-10-17T13:56:40Z_GNLZZGG003SGGYR/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "Prime 9",
@@ -105,15 +105,15 @@
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-10-18_EP029269501410_114048302307_2026-09-28T17:23:52Z_GNLZZGG003R0BWM/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "E",
-      "episodeTitle": "",
-      "description": "",
+      "programTitle": "MLB Baseball",
+      "episodeTitle": "Tampa Bay Rays at Cleveland Guardians",
+      "description": "From Progressive Field in Cleveland.",
       "scheduledDate": 1792310400000,
       "duration": 120,
       "parentalRating": "",
-      "programType": "",
-      "genre": "",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/Fallback_LTV_ESPN1/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "programType": "Sports event",
+      "genre": "Playoff sports, Baseball",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-10-18_EP062580852989_114256443533_2026-10-17T13:56:40Z_GNLZZGG003SGGYR/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "College Football",
