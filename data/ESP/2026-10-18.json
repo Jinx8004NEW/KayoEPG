@@ -2,8 +2,8 @@
   "channel": "ESP",
   "date": "2026-10-18",
   "source": "kayo",
-  "fetchedAt": 1792207262095,
-  "fetchedAtIST": "17/10/2026, 8:51:02 am",
+  "fetchedAt": 1792225107228,
+  "fetchedAtIST": "17/10/2026, 1:48:27 pm",
   "events": [
     {
       "programTitle": "College Football Scoreboard",
@@ -51,14 +51,14 @@
     },
     {
       "programTitle": "MLB Baseball",
-      "episodeTitle": "",
-      "description": "Coverage of the action from the Major League Baseball.",
+      "episodeTitle": "Tampa Bay Rays at Cleveland Guardians",
+      "description": "From Progressive Field in Cleveland.",
       "scheduledDate": 1792281600000,
       "duration": 180,
       "parentalRating": "",
       "programType": "Sports event",
-      "genre": "Baseball",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-10-18_SH062580850000_113754847233_2022-04-14T08:06:14Z_p191273_i_h8_ad/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "genre": "Playoff sports, Baseball",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-10-18_EP062580852983_114191731800_2026-10-11T04:45:58Z_GNLZZGG003RZR9F/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "Prime 9",
@@ -106,14 +106,14 @@
     },
     {
       "programTitle": "MLB Baseball",
-      "episodeTitle": "",
-      "description": "Coverage of the action from the Major League Baseball.",
+      "episodeTitle": "Tampa Bay Rays at Cleveland Guardians",
+      "description": "From Progressive Field in Cleveland.",
       "scheduledDate": 1792310400000,
       "duration": 120,
       "parentalRating": "",
       "programType": "Sports event",
-      "genre": "Baseball",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-10-18_SH062580850000_113754847233_2022-04-14T08:06:14Z_p191273_i_h8_ad/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "genre": "Playoff sports, Baseball",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-10-18_EP062580852983_114191731800_2026-10-11T04:45:58Z_GNLZZGG003RZR9F/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "College Football",
