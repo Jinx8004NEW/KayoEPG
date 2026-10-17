@@ -1,0 +1,42 @@
+{
+  "channel": "FS3",
+  "date": "2026-10-20",
+  "source": "kayo",
+  "fetchedAt": 1792207262059,
+  "fetchedAtIST": "17/10/2026, 8:51:02 am",
+  "events": [
+    {
+      "programTitle": "PGA Tour Golf",
+      "episodeTitle": "Charles Schwab Challenge, Final Round",
+      "description": "From Colonial Country Club in Fort Worth, Texas.",
+      "scheduledDate": 1792436400000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-10-19_EP030899371376_114196080578_2026-05-18T15:56:17Z_p32043930_b_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "DP World Tour Golf",
+      "episodeTitle": "DP World India Championship, Final Round",
+      "description": "From Delhi Golf Club in Delhi, Delhi, India.",
+      "scheduledDate": 1792443600000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-10-19_EP040914080724_114190311311_2026-10-15T13:21:53Z_GNLZZGG003S7127/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "PGA Tour Champions Golf",
+      "episodeTitle": "SAS Championhip, Final Round",
+      "description": "From Prestonwood Country Club in Cary, N.C.",
+      "scheduledDate": 1792450800000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-10-19_EP034248570464_114124493196_2026-09-16T18:34:27Z_p34007566_b_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    }
+  ]
+}

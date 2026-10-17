@@ -1,0 +1,64 @@
+{
+  "channel": "FSP",
+  "date": "2026-10-20",
+  "source": "kayo",
+  "fetchedAt": 1792207262070,
+  "fetchedAtIST": "17/10/2026, 8:51:02 am",
+  "events": [
+    {
+      "programTitle": "FIM Superbike World Championship",
+      "episodeTitle": "Spanish Round, Race 2",
+      "description": "From Circuito de Jerez – Ángel Nieto in Jerez de la Frontera, Andalusia, Spain.",
+      "scheduledDate": 1792438200000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Motorcycle racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-10-19_EP050933440133_114199573617_2026-10-16T15:21:40Z_GNLZZGG003SC5SH/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "PGA Tour Champions Golf",
+      "episodeTitle": "SAS Championhip, Final Round",
+      "description": "From Prestonwood Country Club in Cary, N.C.",
+      "scheduledDate": 1792441800000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-10-19_EP034248570464_114124493196_2026-09-16T18:34:27Z_p34007566_b_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Getting a Round In",
+      "episodeTitle": "",
+      "description": "Australian professional golfer, Paul Gow hosts celebrities as his playing partners who share his love for the game of golf.",
+      "scheduledDate": 1792449000000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Series",
+      "genre": "Golf, Interview",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-10-19_SH048121120000_110998856207_2023-07-18T05:56:16Z_p25221374_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "MotoGP Racing",
+      "episodeTitle": "Pertamina Grand Prix of Indonesia, Sprint Race",
+      "description": "From Mandalika International Street Circuit in Nusa Tenggara Barat, Indonesia.",
+      "scheduledDate": 1792450800000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Motorcycle racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-10-19_EP028104881586_113736368473_2026-10-09T06:38:04Z_GNLZZGG003RT0K4/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "MotoGP Racing",
+      "episodeTitle": "Pertamina Grand Prix of Indonesia",
+      "description": "From Mandalika International Street Circuit in Nusa Tenggara Barat, Indonesia.",
+      "scheduledDate": 1792452600000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Motorcycle racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-10-19_EP028104881587_113849419821_2026-10-09T13:24:24Z_GNLZZGG003RV2FH/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    }
+  ]
+}

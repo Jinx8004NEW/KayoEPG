@@ -1,0 +1,64 @@
+{
+  "channel": "SP2",
+  "date": "2026-10-20",
+  "source": "kayo",
+  "fetchedAt": 1792207262054,
+  "fetchedAtIST": "17/10/2026, 8:51:02 am",
+  "events": [
+    {
+      "programTitle": "NRL",
+      "episodeTitle": "Newcastle Knights vs Parramatta Eels",
+      "description": "From McDonald Jones Stadium in Newcastle, New South Wales, Australia.",
+      "scheduledDate": 1792436400000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Rugby league, Rugby",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-10-19_EP031720961128_114196080618_2026-03-21T02:47:19Z_GNLZZGG0031FZHE/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NRL",
+      "episodeTitle": "Wests Tigers vs Canterbury-Bankstown Bulldogs",
+      "description": "From CommBank Stadium in Parramatta, New South Wales, Australia.",
+      "scheduledDate": 1792440000000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Rugby league, Rugby",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-10-19_EP031720961129_114196080553_2026-03-21T02:56:32Z_GNLZZGG0031G33X/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NRL",
+      "episodeTitle": "Melbourne Storm vs Sydney Roosters",
+      "description": "From AAMI Park in Melbourne City, Victoria, Australia.",
+      "scheduledDate": 1792443600000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Rugby league, Rugby",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-10-19_EP031720961130_114196080593_2026-03-21T02:47:21Z_GNLZZGG0031G2TG/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NRL",
+      "episodeTitle": "Brisbane Broncos vs St. George Illawarra Dragons",
+      "description": "From Suncorp Stadium in Milton, Queensland, Australia.",
+      "scheduledDate": 1792447200000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Rugby league, Rugby",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-10-19_EP031720961131_114196080539_2026-03-21T02:37:01Z_GNLZZGG0031FZJD/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NRL",
+      "episodeTitle": "Canberra Raiders vs North Queensland Cowboys",
+      "description": "From GIO Stadium Canberra in Bruce, Australian Capital Territory, Australia.",
+      "scheduledDate": 1792450800000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Rugby league, Rugby",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-10-19_EP031720961132_114196080556_2026-03-21T02:57:47Z_GNLZZGG0031G1CZ/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    }
+  ]
+}
