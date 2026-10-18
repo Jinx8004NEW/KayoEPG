@@ -1,0 +1,53 @@
+{
+  "channel": "ESP",
+  "date": "2026-10-21",
+  "source": "kayo",
+  "fetchedAt": 1792293990335,
+  "fetchedAtIST": "18/10/2026, 8:56:30 am",
+  "events": [
+    {
+      "programTitle": "NBA Basketball",
+      "episodeTitle": "Detroit Pistons vs Boston Celtics",
+      "description": "From Little Caesars Arena in Detroit, Mich.",
+      "scheduledDate": 1792522800000,
+      "duration": 150,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Basketball",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-10-20_EP030658784456_114236109359_2026-01-14T04:34:37Z_GNLZZGG002S7LFG/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "College Football Live",
+      "episodeTitle": "",
+      "description": "Breaking news, analysis, features, roundtable discussions, and interviews covering all the latest events from the world of college football.",
+      "scheduledDate": 1792531800000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Football, News",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-10-20_SH033651660000_113901839404_2017-12-12T23:22:00Z_p221266_i_h10_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Nothing But Net",
+      "episodeTitle": "",
+      "description": "Kane Pitman and Ryan Broekhoff preview the upcoming NBA and NBL action through their Aussie lens, with guest interviews, highlights and breaking news.",
+      "scheduledDate": 1792533600000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Basketball",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-10-20_SH047654740000_108130071776_2023-06-02T12:16:33Z_p24869175_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NBA Basketball",
+      "episodeTitle": "New York Knicks at Philadelphia 76ers",
+      "description": "From Xfinity Mobile Arena in Philadelphia.",
+      "scheduledDate": 1792537200000,
+      "duration": 150,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Playoff sports, Basketball",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-10-20_EP030658785392_114236109548_2026-05-12T21:16:21Z_GNLZZGG0033X6CS/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    }
+  ]
+}

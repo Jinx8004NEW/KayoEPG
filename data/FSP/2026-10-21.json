@@ -1,0 +1,53 @@
+{
+  "channel": "FSP",
+  "date": "2026-10-21",
+  "source": "kayo",
+  "fetchedAt": 1792293990312,
+  "fetchedAtIST": "18/10/2026, 8:56:30 am",
+  "events": [
+    {
+      "programTitle": "FIM Superbike World Championship",
+      "episodeTitle": "Spanish Round, Race 1",
+      "description": "From Circuito de Jerez – Ángel Nieto in Jerez de la Frontera, Andalusia, Spain.",
+      "scheduledDate": 1792522800000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Motorcycle racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-10-20_EP050933440131_114259861183_2026-10-17T15:21:43Z_GNLZZGG003SGNBW/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "FIM Superbike World Championship",
+      "episodeTitle": "Spanish Round, Race 2",
+      "description": "From Circuito de Jerez – Ángel Nieto in Jerez de la Frontera, Andalusia, Spain.",
+      "scheduledDate": 1792526400000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Motorcycle racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-10-20_EP050933440133_114260191761_2026-10-17T15:21:51Z_GNLZZGG003SGND0/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Darts",
+      "episodeTitle": "PDC ANZ Premier League: Week 4",
+      "description": "Covering of all the action from darts events around the world.",
+      "scheduledDate": 1792530000000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Darts",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-10-20_SH032967320000_109954612423_2024-10-04T13:14:55Z_p644283_i_h8_ah/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Golf",
+      "episodeTitle": "PGA Australia: CKB WA PGA Championship, Final Round",
+      "description": "Coverage of golf tournaments from around the world.",
+      "scheduledDate": 1792537200000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-10-20_SH028182050000_112685941224_2024-05-13T05:23:51Z_p9232187_i_h8_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    }
+  ]
+}
