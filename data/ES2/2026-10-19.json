@@ -2,8 +2,8 @@
   "channel": "ES2",
   "date": "2026-10-19",
   "source": "kayo",
-  "fetchedAt": 1792312667080,
-  "fetchedAtIST": "18/10/2026, 2:07:47 pm",
+  "fetchedAt": 1792337398733,
+  "fetchedAtIST": "18/10/2026, 8:59:58 pm",
   "events": [
     {
       "programTitle": "College Football Final",
@@ -25,7 +25,7 @@
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Football",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-10-18_EP029371131924_114154596625_2026-07-15T04:28:00Z_GNLZZGG0039ZKB0/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-10-18_EP029371131924_114284722218_2026-07-15T04:28:00Z_GNLZZGG0039ZKB0/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "College Football Final",
@@ -94,7 +94,7 @@
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-10-19_EP038442780001_114154596436_2022-08-29T02:56:23Z_p11233189_e_h11_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "",
+      "programTitle": "E60",
       "episodeTitle": "Being Ben",
       "description": "ESPN presents in-depth stories relating to American and international sports, featuring some of the biggest names in the field.",
       "scheduledDate": 1792380600000,
@@ -149,15 +149,26 @@
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-10-19_SH033236780000_109573421566_2026-05-25T06:15:30Z_p10106369_i_h11_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
+      "programTitle": "MLB Baseball",
+      "episodeTitle": "",
+      "description": "Coverage of the action from the Major League Baseball.",
+      "scheduledDate": 1792396800000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Baseball",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-10-19_SH062580850000_113754847233_2022-04-14T08:06:14Z_p191273_i_h8_ad/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
       "programTitle": "NFL Football",
       "episodeTitle": "Los Angeles Rams vs Arizona Cardinals",
       "description": "From SoFi Stadium in Inglewood, Calif.",
-      "scheduledDate": 1792396800000,
+      "scheduledDate": 1792404000000,
       "duration": 150,
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Football",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-10-19_EP029371131924_114154596625_2026-07-15T04:28:00Z_GNLZZGG0039ZKB0/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-10-19_EP029371131924_114284722218_2026-07-15T04:28:00Z_GNLZZGG0039ZKB0/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "NFL Football",
