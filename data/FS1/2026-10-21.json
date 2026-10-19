@@ -2,8 +2,8 @@
   "channel": "FS1",
   "date": "2026-10-21",
   "source": "kayo",
-  "fetchedAt": 1792381087672,
-  "fetchedAtIST": "19/10/2026, 9:08:07 am",
+  "fetchedAt": 1792402797103,
+  "fetchedAtIST": "19/10/2026, 3:09:57 pm",
   "events": [
     {
       "programTitle": "Test Cricket",
@@ -103,6 +103,127 @@
       "programType": "Sports event",
       "genre": "Cricket",
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-10-20_EP028878790113_114254711578_2026-10-17T10:54:15Z_GNLZZGG003SG4KE/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "World Championship of Legends Cricket",
+      "episodeTitle": "Final",
+      "description": "Highlights and all the action from the World Championship of Legends Cricket.",
+      "scheduledDate": 1792548000000,
+      "duration": 35,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Cricket",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-10-21_SH066611850000_114160249041_2024-06-24T10:34:17Z_p27694312_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Sheffield Shield",
+      "episodeTitle": "South Australia vs. Queensland",
+      "description": "Coverage of matches played as part of Australia's domestic first-class cricket competition.",
+      "scheduledDate": 1792550100000,
+      "duration": 295,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Cricket",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-10-21_EP028878790114_114268763275_2026-10-17T10:56:27Z_GNLZZGG003SG678/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Fox Cricket Pre Game",
+      "episodeTitle": "South Africa v Australia, 2nd Test Day 4",
+      "description": "The team present an extensive preview of all the action to come with the latest news, the best analysis, entertainment and interviews.",
+      "scheduledDate": 1792567800000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Cricket",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-10-21_SH035786310000_111887034140_2025-11-20T06:27:30Z_p18624259_i_h10_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Test Cricket",
+      "episodeTitle": "South Africa vs Australia",
+      "description": "From St George's Park in South Africa.",
+      "scheduledDate": 1792569600000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Cricket",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-10-21_EP029804991880_114210866809_2026-09-20T22:43:10Z_GNLZZGG003PPD8F/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Test Cricket",
+      "episodeTitle": "South Africa vs Australia",
+      "description": "From St George's Park in South Africa.",
+      "scheduledDate": 1792576800000,
+      "duration": 40,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Cricket",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-10-21_EP029804991880_114210866809_2026-09-20T22:43:10Z_GNLZZGG003PPD8F/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Test Cricket",
+      "episodeTitle": "South Africa vs Australia",
+      "description": "From St George's Park in South Africa.",
+      "scheduledDate": 1792579200000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Cricket",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-10-21_EP029804991880_114210866809_2026-09-20T22:43:10Z_GNLZZGG003PPD8F/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Test Cricket",
+      "episodeTitle": "South Africa vs Australia",
+      "description": "From St George's Park in South Africa.",
+      "scheduledDate": 1792586400000,
+      "duration": 20,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Cricket",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-10-21_EP029804991880_114210866809_2026-09-20T22:43:10Z_GNLZZGG003PPD8F/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Test Cricket",
+      "episodeTitle": "South Africa vs Australia",
+      "description": "From St George's Park in South Africa.",
+      "scheduledDate": 1792587600000,
+      "duration": 150,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Cricket",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-10-21_EP029804991881_114244021911_2026-09-20T22:45:41Z_GNLZZGG003PPFTN/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Test Cricket",
+      "episodeTitle": "South Africa vs Australia",
+      "description": "From St George's Park in South Africa.",
+      "scheduledDate": 1792596600000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Cricket",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-10-21_EP029804991878_114251483406_2026-09-20T22:40:00Z_GNLZZGG003PPBDF/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Test Cricket",
+      "episodeTitle": "South Africa vs Australia",
+      "description": "From St George's Park in South Africa.",
+      "scheduledDate": 1792600200000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Cricket",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-10-21_EP029804991879_114154596584_2026-09-20T22:46:26Z_GNLZZGG003PPG76/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Test Cricket",
+      "episodeTitle": "South Africa vs Australia",
+      "description": "From St George's Park in South Africa.",
+      "scheduledDate": 1792603800000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Cricket",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-10-21_EP029804991880_114210866809_2026-09-20T22:43:10Z_GNLZZGG003PPD8F/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     }
   ]
 }

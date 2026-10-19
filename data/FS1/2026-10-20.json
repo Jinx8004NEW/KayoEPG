@@ -2,8 +2,8 @@
   "channel": "FS1",
   "date": "2026-10-20",
   "source": "kayo",
-  "fetchedAt": 1792381087625,
-  "fetchedAtIST": "19/10/2026, 9:08:07 am",
+  "fetchedAt": 1792402797102,
+  "fetchedAtIST": "19/10/2026, 3:09:57 pm",
   "events": [
     {
       "programTitle": "One-Day International Cricket",
@@ -120,11 +120,22 @@
       "episodeTitle": "South Australia vs. Queensland",
       "description": "Coverage of matches played as part of Australia's domestic first-class cricket competition.",
       "scheduledDate": 1792463700000,
-      "duration": 295,
+      "duration": 85,
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Cricket",
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-10-20_EP028878790111_114251470633_2026-10-16T16:55:09Z_GNLZZGG003SC8NE/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Test Cricket",
+      "episodeTitle": "South Africa vs Australia",
+      "description": "From St George's Park in South Africa.",
+      "scheduledDate": 1792468800000,
+      "duration": 210,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Cricket",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-10-20_EP029804991879_114154596584_2026-09-20T22:46:26Z_GNLZZGG003PPG76/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "Fox Cricket Pre Game",
