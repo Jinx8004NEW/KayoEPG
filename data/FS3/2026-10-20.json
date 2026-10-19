@@ -2,8 +2,8 @@
   "channel": "FS3",
   "date": "2026-10-20",
   "source": "kayo",
-  "fetchedAt": 1792402797113,
-  "fetchedAtIST": "19/10/2026, 3:09:57 pm",
+  "fetchedAt": 1792434379505,
+  "fetchedAtIST": "19/10/2026, 11:56:19 pm",
   "events": [
     {
       "programTitle": "PGA Tour Golf",
@@ -84,7 +84,7 @@
     },
     {
       "programTitle": "European PGA Tour Highlights",
-      "episodeTitle": "World India Championship",
+      "episodeTitle": "DP World India Championship",
       "description": "All the action and highlights from European Tour golf.",
       "scheduledDate": 1792474200000,
       "duration": 30,
@@ -161,7 +161,7 @@
     },
     {
       "programTitle": "European PGA Tour Highlights",
-      "episodeTitle": "World India Championship",
+      "episodeTitle": "DP World India Championship",
       "description": "All the action and highlights from European Tour golf.",
       "scheduledDate": 1792497600000,
       "duration": 30,
@@ -208,7 +208,7 @@
       "episodeTitle": "KLM Open, Final Round",
       "description": "All the action and highlights from European Tour golf.",
       "scheduledDate": 1792517400000,
-      "duration": 150,
+      "duration": 120,
       "parentalRating": "",
       "programType": "Sports non-event",
       "genre": "Golf",

@@ -2,9 +2,20 @@
   "channel": "FS3",
   "date": "2026-10-21",
   "source": "kayo",
-  "fetchedAt": 1792402797114,
-  "fetchedAtIST": "19/10/2026, 3:09:57 pm",
+  "fetchedAt": 1792434379506,
+  "fetchedAtIST": "19/10/2026, 11:56:19 pm",
   "events": [
+    {
+      "programTitle": "DP World Tour Golf",
+      "episodeTitle": "DP World India Championship, Final Round",
+      "description": "From Delhi Golf Club in Delhi, Delhi, India.",
+      "scheduledDate": 1792524600000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-10-20_EP040914080724_114282792930_2026-10-17T09:21:17Z_GNLZZGG003SFE8Z/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
     {
       "programTitle": "To Be Announced",
       "episodeTitle": "",
@@ -17,26 +28,114 @@
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-10-20_SH027575020000_113966071598_2021-11-15T14:36:19Z_p514472_b_h8_dp/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "To Be Announced",
-      "episodeTitle": "",
-      "description": "The programming for this time slot has yet to be determined and is being confirmed by the broadcast channel.",
-      "scheduledDate": 1792540800000,
-      "duration": 240,
+      "programTitle": "PGA Tour Champions Golf",
+      "episodeTitle": "SAS Championhip, Final Round",
+      "description": "From Prestonwood Country Club in Cary, N.C.",
+      "scheduledDate": 1792531800000,
+      "duration": 120,
       "parentalRating": "",
-      "programType": "TBA",
-      "genre": "Special, Entertainment",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-10-21_SH027575020000_113966071598_2021-11-15T14:36:19Z_p514472_b_h8_dp/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "programType": "Sports event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-10-20_EP034248570464_114316608459_2026-09-16T18:34:27Z_p34007566_b_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "To Be Announced",
-      "episodeTitle": "",
-      "description": "The programming for this time slot has yet to be determined and is being confirmed by the broadcast channel.",
-      "scheduledDate": 1792555200000,
-      "duration": 240,
+      "programTitle": "European PGA Tour Highlights",
+      "episodeTitle": "DP World India Championship",
+      "description": "All the action and highlights from European Tour golf.",
+      "scheduledDate": 1792539000000,
+      "duration": 30,
       "parentalRating": "",
-      "programType": "TBA",
-      "genre": "Special, Entertainment",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-10-21_SH027575020000_113966071598_2021-11-15T14:36:19Z_p514472_b_h8_dp/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "programType": "Sports non-event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-10-20_SH037026900000_112448059278_2022-09-05T13:56:59Z_p9656797_i_h10_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Golf",
+      "episodeTitle": "PGA Australia: WA Open Golf Championship, Final Round",
+      "description": "Coverage of golf tournaments from around the world.",
+      "scheduledDate": 1792540800000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-10-21_SH028182050000_112685941224_2024-05-13T05:23:51Z_p9232187_i_h8_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Asian Tour Highlights",
+      "episodeTitle": "SJM Macao Open",
+      "description": "Recapping golf action from the Asian Tour.",
+      "scheduledDate": 1792544400000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-10-21_SH048468780000_106750578419_2022-10-06T14:37:27Z_p18013001_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "PGA Tour Champions Golf",
+      "episodeTitle": "SAS Championhip, Final Round",
+      "description": "From Prestonwood Country Club in Cary, N.C.",
+      "scheduledDate": 1792548000000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-10-21_EP034248570464_114316608459_2026-09-16T18:34:27Z_p34007566_b_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Legends Tour Highlights",
+      "episodeTitle": "2026 Reignwood Legends Championship",
+      "description": "The best moments and analysis from this year's senior tour.",
+      "scheduledDate": 1792555200000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-10-21_SH039624520000_107151323978_2020-09-28T06:30:59Z_p18780386_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Asian Tour Highlights",
+      "episodeTitle": "SJM Macao Open",
+      "description": "Recapping golf action from the Asian Tour.",
+      "scheduledDate": 1792558800000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-10-21_SH048468780000_106750578419_2022-10-06T14:37:27Z_p18013001_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Getting a Round In",
+      "episodeTitle": "",
+      "description": "Australian professional golfer, Paul Gow hosts celebrities as his playing partners who share his love for the game of golf.",
+      "scheduledDate": 1792562400000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Series",
+      "genre": "Golf, Interview",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-10-21_SH048121120000_110998856207_2023-07-18T05:56:16Z_p25221374_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "PGA Tour Champions Golf",
+      "episodeTitle": "",
+      "description": "Replays of past PGA Tour competitions.",
+      "scheduledDate": 1792564200000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-10-21_SH051073670000_114334364791_2020-11-09T05:21:00Z_p18099468_i_h8_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Golf",
+      "episodeTitle": "PGA Australia: WA Open Golf Championship, Final Round",
+      "description": "Coverage of golf tournaments from around the world.",
+      "scheduledDate": 1792567800000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-10-21_SH028182050000_112685941224_2024-05-13T05:23:51Z_p9232187_i_h8_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "To Be Announced",
@@ -50,6 +149,72 @@
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-10-21_SH027575020000_113966071598_2021-11-15T14:36:19Z_p514472_b_h8_dp/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
+      "programTitle": "PGA TOUR: The CUT",
+      "episodeTitle": "",
+      "description": "An insightful exploration of player profiles and a preview of various PGA Tour tournaments around the world.",
+      "scheduledDate": 1792571400000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-10-21_SH034181860000_111796196447_2022-01-21T12:57:01Z_p17650562_i_h8_al/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "European PGA Tour Highlights",
+      "episodeTitle": "DP World India Championship",
+      "description": "All the action and highlights from European Tour golf.",
+      "scheduledDate": 1792573200000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-10-21_SH037026900000_112448059278_2022-09-05T13:56:59Z_p9656797_i_h10_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Getting a Round In",
+      "episodeTitle": "",
+      "description": "Australian professional golfer, Paul Gow hosts celebrities as his playing partners who share his love for the game of golf.",
+      "scheduledDate": 1792575000000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Series",
+      "genre": "Golf, Interview",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-10-21_SH048121120000_110998856207_2023-07-18T05:56:16Z_p25221374_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "PGA TOUR: The CUT",
+      "episodeTitle": "",
+      "description": "An insightful exploration of player profiles and a preview of various PGA Tour tournaments around the world.",
+      "scheduledDate": 1792576800000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-10-21_SH034181860000_111796196447_2022-01-21T12:57:01Z_p17650562_i_h8_al/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "PGA Tour Champions Golf",
+      "episodeTitle": "",
+      "description": "Replays of past PGA Tour competitions.",
+      "scheduledDate": 1792578600000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-10-21_SH051073670000_114334364791_2020-11-09T05:21:00Z_p18099468_i_h8_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Golf",
+      "episodeTitle": "PGA Australia: WA Open Golf Championship, Final Round",
+      "description": "Coverage of golf tournaments from around the world.",
+      "scheduledDate": 1792582200000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-10-21_SH028182050000_112685941224_2024-05-13T05:23:51Z_p9232187_i_h8_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
       "programTitle": "To Be Announced",
       "episodeTitle": "",
       "description": "The programming for this time slot has yet to be determined and is being confirmed by the broadcast channel.",
@@ -61,6 +226,39 @@
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-10-21_SH027575020000_113966071598_2021-11-15T14:36:19Z_p514472_b_h8_dp/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
+      "programTitle": "PGA TOUR: The CUT",
+      "episodeTitle": "",
+      "description": "An insightful exploration of player profiles and a preview of various PGA Tour tournaments around the world.",
+      "scheduledDate": 1792585800000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-10-21_SH034181860000_111796196447_2022-01-21T12:57:01Z_p17650562_i_h8_al/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "LPGA Tour Golf",
+      "episodeTitle": "CPKC Women's Open, Final Round",
+      "description": "From Royal Mayfair Golf Club in Edmonton, Alberta, Canada.",
+      "scheduledDate": 1792587600000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-10-21_EP031583890711_114334280597_2026-08-13T16:56:28Z_p32164127_b_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "LPGA Tour Golf",
+      "episodeTitle": "FM Championship, Final Round",
+      "description": "Professional female golfers compete against each other during the LPGA Tour Dow Championship to win the title.",
+      "scheduledDate": 1792594800000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-10-21_SH047138530000_114334294059_2025-08-07T09:24:15Z_p8768636_i_h10_ah/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
       "programTitle": "To Be Announced",
       "episodeTitle": "",
       "description": "The programming for this time slot has yet to be determined and is being confirmed by the broadcast channel.",
@@ -70,6 +268,17 @@
       "programType": "TBA",
       "genre": "Special, Entertainment",
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-10-21_SH027575020000_113966071598_2021-11-15T14:36:19Z_p514472_b_h8_dp/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "LPGA Tour Golf",
+      "episodeTitle": "Honda LPGA Thailand, Final Round",
+      "description": "Professional female golfers compete against each other during the LPGA Tour Dow Championship to win the title.",
+      "scheduledDate": 1792602000000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-10-21_SH047138530000_114334294059_2025-08-07T09:24:15Z_p8768636_i_h10_ah/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     }
   ]
 }

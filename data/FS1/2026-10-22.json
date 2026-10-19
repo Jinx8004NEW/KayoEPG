@@ -2,15 +2,26 @@
   "channel": "FS1",
   "date": "2026-10-22",
   "source": "kayo",
-  "fetchedAt": 1792402797103,
-  "fetchedAtIST": "19/10/2026, 3:09:57 pm",
+  "fetchedAt": 1792434379491,
+  "fetchedAtIST": "19/10/2026, 11:56:19 pm",
   "events": [
     {
       "programTitle": "Test Cricket",
       "episodeTitle": "",
       "description": "Coverage and highlights from international test cricket matches.",
       "scheduledDate": 1792607400000,
-      "duration": 90,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Cricket, Classic sport event",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-10-21_SH033446590000_98978823590_2023-09-29T14:53:53Z_p8163404_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Test Cricket",
+      "episodeTitle": "2009/10: Australia v Pakistan, 2nd Test",
+      "description": "Coverage and highlights from international test cricket matches.",
+      "scheduledDate": 1792611000000,
+      "duration": 60,
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Cricket, Classic sport event",
@@ -26,6 +37,83 @@
       "programType": "TBA",
       "genre": "Special, Entertainment",
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-10-21_SH027575020000_113966071598_2021-11-15T14:36:19Z_p514472_b_h8_dp/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Test Cricket",
+      "episodeTitle": "2025/26: Australia vs England, 5th Test",
+      "description": "Coverage and highlights from international test cricket matches.",
+      "scheduledDate": 1792614600000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Cricket, Classic sport event",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-10-21_SH033446590000_98978823590_2023-09-29T14:53:53Z_p8163404_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Test Cricket",
+      "episodeTitle": "South Africa vs Australia",
+      "description": "From St George's Park in South Africa.",
+      "scheduledDate": 1792618200000,
+      "duration": 20,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Cricket",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-10-21_EP029804991881_114244021911_2026-09-20T22:45:41Z_GNLZZGG003PPFTN/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "One-Day International Cricket",
+      "episodeTitle": "Pakistan ODI Tri- Series: Pakistan vs England, Game 2",
+      "description": "Coverage of one-day cricket matches contested by international teams.",
+      "scheduledDate": 1792619400000,
+      "duration": 20,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Cricket, Classic sport event",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-10-21_SH034583010000_110095246552_2026-03-24T13:16:18Z_p8509066_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Test Cricket",
+      "episodeTitle": "South Africa vs Australia",
+      "description": "From St George's Park in South Africa.",
+      "scheduledDate": 1792620600000,
+      "duration": 20,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Cricket",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-10-21_EP029804991881_114244021911_2026-09-20T22:45:41Z_GNLZZGG003PPFTN/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Test Cricket",
+      "episodeTitle": "South Africa vs Australia",
+      "description": "From St George's Park in South Africa.",
+      "scheduledDate": 1792621800000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Cricket",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-10-21_EP029804991881_114244021911_2026-09-20T22:45:41Z_GNLZZGG003PPFTN/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Test Cricket",
+      "episodeTitle": "South Africa vs Australia",
+      "description": "From St George's Park in South Africa.",
+      "scheduledDate": 1792625400000,
+      "duration": 25,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Cricket",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-10-21_EP029804991881_114244021911_2026-09-20T22:45:41Z_GNLZZGG003PPFTN/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Sheffield Shield",
+      "episodeTitle": "South Australia vs. Queensland",
+      "description": "Coverage of matches played as part of Australia's domestic first-class cricket competition.",
+      "scheduledDate": 1792626900000,
+      "duration": 125,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Cricket",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-10-21_EP028878790109_114334798015_2026-10-16T16:56:14Z_GNLZZGG003SC8K0/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     }
   ]
 }

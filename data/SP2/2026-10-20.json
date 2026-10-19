@@ -2,8 +2,8 @@
   "channel": "SP2",
   "date": "2026-10-20",
   "source": "kayo",
-  "fetchedAt": 1792402797109,
-  "fetchedAtIST": "19/10/2026, 3:09:57 pm",
+  "fetchedAt": 1792434379498,
+  "fetchedAtIST": "19/10/2026, 11:56:19 pm",
   "events": [
     {
       "programTitle": "NRL",
@@ -62,7 +62,7 @@
     },
     {
       "programTitle": "NRLW Premiership Mini",
-      "episodeTitle": "Canberra Raiders v Brisbane Broncos",
+      "episodeTitle": "Cronulla Sharks v Wests Tigers",
       "description": "Condensed highlights of some of the greatest encounters from the NRL Women's competition.",
       "scheduledDate": 1792454400000,
       "duration": 20,
@@ -73,7 +73,7 @@
     },
     {
       "programTitle": "NRLW Premiership Mini",
-      "episodeTitle": "St George Illawarra Dragons v Wests Tigers",
+      "episodeTitle": "St George Illawarra Dragons v Sydney Roosters",
       "description": "Condensed highlights of some of the greatest encounters from the NRL Women's competition.",
       "scheduledDate": 1792455600000,
       "duration": 20,
@@ -84,7 +84,7 @@
     },
     {
       "programTitle": "NRLW Premiership Mini",
-      "episodeTitle": "Sydney Roosters v Parramatta Eels",
+      "episodeTitle": "Canberra Raiders v North Queensland Cowboys",
       "description": "Condensed highlights of some of the greatest encounters from the NRL Women's competition.",
       "scheduledDate": 1792456800000,
       "duration": 20,
@@ -318,7 +318,7 @@
       "episodeTitle": "Brisbane Broncos vs Gold Coast Titans",
       "description": "From Suncorp Stadium in Milton, Queensland, Australia.",
       "scheduledDate": 1792519200000,
-      "duration": 120,
+      "duration": 60,
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Rugby league, Rugby",
