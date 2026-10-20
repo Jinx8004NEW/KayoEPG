@@ -1,0 +1,31 @@
+{
+  "channel": "SPS",
+  "date": "2026-10-23",
+  "source": "kayo",
+  "fetchedAt": 1792468116979,
+  "fetchedAtIST": "20/10/2026, 9:18:36 am",
+  "events": [
+    {
+      "programTitle": "MotoGP Racing",
+      "episodeTitle": "2025 Australian Grand Prix, Race",
+      "description": "Action from MotoGP racing.",
+      "scheduledDate": 1792695300000,
+      "duration": 65,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Family, Classic sport event, Motorcycle racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-10-22_SH035853180000_113060525180_2017-10-24T00:43:00Z_p445588_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "To Be Announced",
+      "episodeTitle": "",
+      "description": "The programming for this time slot has yet to be determined and is being confirmed by the broadcast channel.",
+      "scheduledDate": 1792699200000,
+      "duration": 240,
+      "parentalRating": "",
+      "programType": "TBA",
+      "genre": "Special, Entertainment",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-10-22_SH027575020000_113966071598_2021-11-15T14:36:19Z_p514472_b_h8_dp/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    }
+  ]
+}

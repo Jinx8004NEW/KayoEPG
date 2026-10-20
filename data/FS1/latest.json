@@ -2,8 +2,8 @@
   "channel": "FS1",
   "date": "2026-10-20",
   "source": "kayo",
-  "fetchedAt": 1792452169318,
-  "fetchedAtIST": "20/10/2026, 4:52:49 am",
+  "fetchedAt": 1792468116937,
+  "fetchedAtIST": "20/10/2026, 9:18:36 am",
   "events": [
     {
       "programTitle": "One-Day International Cricket",
@@ -131,11 +131,22 @@
       "episodeTitle": "South Africa vs Australia",
       "description": "From St George's Park in South Africa.",
       "scheduledDate": 1792468800000,
-      "duration": 210,
+      "duration": 180,
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Cricket",
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-10-20_EP029804991879_114154596584_2026-09-20T22:46:26Z_GNLZZGG003PPG76/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Fox Cricket Pre Game",
+      "episodeTitle": "South Africa v Australia, 2nd Test Day 3",
+      "description": "The team present an extensive preview of all the action to come with the latest news, the best analysis, entertainment and interviews.",
+      "scheduledDate": 1792479600000,
+      "duration": 45,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Cricket",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-10-20_SH035786310000_111887034140_2025-11-20T06:27:30Z_p18624259_i_h10_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "Fox Cricket Pre Game",
@@ -147,6 +158,17 @@
       "programType": "Sports non-event",
       "genre": "Cricket",
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-10-20_SH035786310000_111887034140_2025-11-20T06:27:30Z_p18624259_i_h10_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Test Cricket",
+      "episodeTitle": "South Africa vs Australia",
+      "description": "From St George's Park in South Africa.",
+      "scheduledDate": 1792482300000,
+      "duration": 135,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Cricket",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-10-20_EP029804991879_114154596584_2026-09-20T22:46:26Z_GNLZZGG003PPG76/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "Test Cricket",
@@ -175,7 +197,7 @@
       "episodeTitle": "South Africa vs Australia",
       "description": "From St George's Park in South Africa.",
       "scheduledDate": 1792492800000,
-      "duration": 120,
+      "duration": 135,
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Cricket",
@@ -196,8 +218,30 @@
       "programTitle": "Test Cricket",
       "episodeTitle": "South Africa vs Australia",
       "description": "From St George's Park in South Africa.",
+      "scheduledDate": 1792500900000,
+      "duration": 20,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Cricket",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-10-20_EP029804991879_114154596584_2026-09-20T22:46:26Z_GNLZZGG003PPG76/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Test Cricket",
+      "episodeTitle": "South Africa vs Australia",
+      "description": "From St George's Park in South Africa.",
       "scheduledDate": 1792501200000,
       "duration": 150,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Cricket",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-10-20_EP029804991880_114210866809_2026-09-20T22:43:10Z_GNLZZGG003PPD8F/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Test Cricket",
+      "episodeTitle": "South Africa vs Australia",
+      "description": "From St George's Park in South Africa.",
+      "scheduledDate": 1792502100000,
+      "duration": 195,
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Cricket",

@@ -2,8 +2,8 @@
   "channel": "FSS",
   "date": "2026-10-22",
   "source": "kayo",
-  "fetchedAt": 1792452169348,
-  "fetchedAtIST": "20/10/2026, 4:52:49 am",
+  "fetchedAt": 1792468116983,
+  "fetchedAtIST": "20/10/2026, 9:18:36 am",
   "events": [
     {
       "programTitle": "The Cut",
@@ -92,6 +92,116 @@
       "programType": "Sports event",
       "genre": "Golf",
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-10-21_SH028182050000_112685941224_2024-05-13T05:23:51Z_p9232187_i_h8_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Getting a Round In",
+      "episodeTitle": "Lachie Anderson",
+      "description": "Australian professional golfer, Paul Gow hosts celebrities as his playing partners who share his love for the game of golf.",
+      "scheduledDate": 1792629000000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Series",
+      "genre": "Golf, Interview",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-10-22_SH048121120000_110998856207_2023-07-18T05:56:16Z_p25221374_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Legends Tour Highlights",
+      "episodeTitle": "2026 Reignwood Legends Championship",
+      "description": "The best moments and analysis from this year's senior tour.",
+      "scheduledDate": 1792630800000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-10-22_SH039624520000_107151323978_2020-09-28T06:30:59Z_p18780386_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "LPGA Tour Golf",
+      "episodeTitle": "BMW Ladies Championship, First Round",
+      "description": "From Pine Beach Golf Links in Haenam, Republic of Korea.",
+      "scheduledDate": 1792634400000,
+      "duration": 300,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-10-22_EP031583890611_114334293942_2025-09-26T18:14:51Z_p28888016_b_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "WSL Tour",
+      "episodeTitle": "Championship Tour: MEO Rip Curl Pro Portugal",
+      "description": "Coverage of surfing action from the WSL.",
+      "scheduledDate": 1792652400000,
+      "duration": 480,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Surfing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-10-22_SH033247690000_110929981520_2019-03-19T05:40:29Z_p16589355_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "WSL Tour",
+      "episodeTitle": "Championship Tour: MEO Rip Curl Pro Portugal",
+      "description": "Coverage of surfing action from the WSL.",
+      "scheduledDate": 1792681200000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Surfing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-10-22_SH033247690000_110929981520_2019-03-19T05:40:29Z_p16589355_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Best of Alex Volkanovski",
+      "episodeTitle": "",
+      "description": "",
+      "scheduledDate": 1792684800000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Special",
+      "genre": "Special",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-10-22_SH046441750000_114330435062_2023-02-09T08:37:20Z_p24021051_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "UFC Countdown",
+      "episodeTitle": "UFC 333: Volkanovski vs. Evloev",
+      "description": "Coverage of UFC training, including exclusive interviews, expert analysis and a look at the intense preparation of each fighter.",
+      "scheduledDate": 1792686600000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Mixed martial arts, Documentary",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-10-22_EP030408650113_114336494241_2026-10-19T13:39:17Z_p34326223_e_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Fight Week",
+      "episodeTitle": "UFC 333",
+      "description": "Fox Sports reporters take a look at the UFC results, previews, and news from the previous UFC Fight Week.",
+      "scheduledDate": 1792688400000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Series",
+      "genre": "Sports talk, Mixed martial arts, Boxing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-10-22_SH028549290000_94258305657_2024-01-18T22:33:02Z_p14982509_i_h10_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "World Surf League Highlights",
+      "episodeTitle": "Trestles: Final Day",
+      "description": "Action from the World Surf League.",
+      "scheduledDate": 1792690200000,
+      "duration": 20,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Surfing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-10-22_SH037137820000_107844260793_2023-03-28T14:37:31Z_p12753420_i_h8_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Saudi League Soccer",
+      "episodeTitle": "Al Ahli vs Al Khaleej",
+      "description": "From Alinma Stadium in Jeddah, Saudi Arabia.",
+      "scheduledDate": 1792691400000,
+      "duration": 130,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Soccer",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-10-22_EP047234160930_114365435818_2026-07-30T02:48:24Z_GNLZZGG003CEPZH/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     }
   ]
 }

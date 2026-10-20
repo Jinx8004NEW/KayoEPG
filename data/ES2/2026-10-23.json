@@ -1,0 +1,64 @@
+{
+  "channel": "ES2",
+  "date": "2026-10-23",
+  "source": "kayo",
+  "fetchedAt": 1792468116994,
+  "fetchedAtIST": "20/10/2026, 9:18:36 am",
+  "events": [
+    {
+      "programTitle": "The Pat McAfee Show",
+      "episodeTitle": "",
+      "description": "Former NFL punter Pat McAfee brings his humour, sarcasm and candour to the microphone to highlight the day's top stories.",
+      "scheduledDate": 1792695600000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Series",
+      "genre": "Sports talk",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-10-22_SH048483860000_111648065422_2020-09-10T14:31:07Z_p18762527_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NFL Live",
+      "episodeTitle": "",
+      "description": "Wendi Nix and analysts break down the latest news in the NFL, offering views on players, coaches and management.",
+      "scheduledDate": 1792702800000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-10-22_SH033280050000_112969172259_2022-08-27T02:25:47Z_p267723_i_h8_ae/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NBA Tip-Off",
+      "episodeTitle": "",
+      "description": "Sports Broadcasting Hall of Famer Ernie Johnson hosts with analysts Charles Barkley, Shaquille O'Neal and Kenny Smith.",
+      "scheduledDate": 1792706400000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Basketball",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-10-22_SH061297720000_114333352031_2026-06-05T22:05:12Z_p267533_i_h10_ae/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NBA Courtside",
+      "episodeTitle": "",
+      "description": "An insight into upcoming National Basketball Association matches, highlighting the players to watch and the top team news.",
+      "scheduledDate": 1792710000000,
+      "duration": 12,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Basketball",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-10-22_SH033412210000_114333352032_2019-02-26T14:20:41Z_p815562_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NBA Basketball",
+      "episodeTitle": "Philadelphia 76ers vs Cleveland Cavaliers",
+      "description": "From Xfinity Mobile Arena in Philadelphia.",
+      "scheduledDate": 1792710720000,
+      "duration": 143,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Basketball",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-10-22_EP030658785497_114335971499_2026-09-02T01:57:48Z_GNLZZGG003M4HZZ/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    }
+  ]
+}

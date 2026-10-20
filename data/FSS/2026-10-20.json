@@ -2,8 +2,8 @@
   "channel": "FSS",
   "date": "2026-10-20",
   "source": "kayo",
-  "fetchedAt": 1792452169347,
-  "fetchedAtIST": "20/10/2026, 4:52:49 am",
+  "fetchedAt": 1792468116982,
+  "fetchedAtIST": "20/10/2026, 9:18:36 am",
   "events": [
     {
       "programTitle": "Getting a Round In",
@@ -43,7 +43,7 @@
       "episodeTitle": "World Beach Sprint Finals, Day 1",
       "description": "",
       "scheduledDate": 1792458000000,
-      "duration": 385,
+      "duration": 490,
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Boat racing, Rowing",
@@ -99,6 +99,17 @@
       "description": "Coverage of surfing action from the WSL.",
       "scheduledDate": 1792481100000,
       "duration": 480,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Surfing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-10-20_SH033247690000_110929981520_2019-03-19T05:40:29Z_p16589355_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "WSL Tour",
+      "episodeTitle": "Championship Tour: MEO Rip Curl Pro Portugal",
+      "description": "Coverage of surfing action from the WSL.",
+      "scheduledDate": 1792487400000,
+      "duration": 375,
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Surfing",
