@@ -2,19 +2,63 @@
   "channel": "SP2",
   "date": "2026-10-23",
   "source": "kayo",
-  "fetchedAt": 1792487605887,
-  "fetchedAtIST": "20/10/2026, 2:43:25 pm",
+  "fetchedAt": 1792513694774,
+  "fetchedAtIST": "20/10/2026, 9:58:14 pm",
   "events": [
     {
-      "programTitle": "To Be Announced",
-      "episodeTitle": "",
-      "description": "The programming for this time slot has yet to be determined and is being confirmed by the broadcast channel.",
-      "scheduledDate": 1792699200000,
-      "duration": 240,
+      "programTitle": "NRL",
+      "episodeTitle": "Newcastle Knights vs Wests Tigers",
+      "description": "From McDonald Jones Stadium in Newcastle, New South Wales, Australia.",
+      "scheduledDate": 1792695600000,
+      "duration": 60,
       "parentalRating": "",
-      "programType": "TBA",
-      "genre": "Special, Entertainment",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-10-22_SH027575020000_113966071598_2021-11-15T14:36:19Z_p514472_b_h8_dp/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "programType": "Sports event",
+      "genre": "Rugby league, Rugby",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-10-22_EP031720961161_114381556804_2026-04-07T19:10:31Z_GNLZZGG00326Y5T/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NRL",
+      "episodeTitle": "South Sydney Rabbitohs vs Brisbane Broncos",
+      "description": "From Accor Stadium in Sydney.",
+      "scheduledDate": 1792699200000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Rugby league, Rugby",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-10-22_EP031720961142_114333258526_2026-04-07T21:10:20Z_GNLZZGG00327G99/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NRL",
+      "episodeTitle": "St. George Illawarra Dragons vs Wests Tigers",
+      "description": "From Jubilee Stadium in Sydney.",
+      "scheduledDate": 1792702800000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Rugby league, Rugby",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-10-22_EP031720961163_114373218865_2026-02-24T16:30:53Z_GNLZZGG002E1YDP/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NRL",
+      "episodeTitle": "Brisbane Broncos vs Cronulla-Sutherland Sharks",
+      "description": "From Suncorp Stadium in Milton, Queensland, Australia.",
+      "scheduledDate": 1792706400000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Rugby league, Rugby",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-10-22_EP031720961164_114373218876_2026-02-16T07:50:49Z_GNLZZGG002QQFTM/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NRL",
+      "episodeTitle": "Parramatta Eels vs Manly-Warringah Sea Eagles",
+      "description": "From CommBank Stadium in Parramatta, New South Wales, Australia.",
+      "scheduledDate": 1792710000000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Rugby league, Rugby",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-10-22_EP031720961165_114373218799_2026-02-24T16:38:48Z_GNLZZGG002E21VV/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     }
   ]
 }
