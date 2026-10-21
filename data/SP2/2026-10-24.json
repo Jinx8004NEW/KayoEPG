@@ -1,0 +1,64 @@
+{
+  "channel": "SP2",
+  "date": "2026-10-24",
+  "source": "kayo",
+  "fetchedAt": 1792553975134,
+  "fetchedAtIST": "21/10/2026, 9:09:35 am",
+  "events": [
+    {
+      "programTitle": "NRL",
+      "episodeTitle": "Manly-Warringah Sea Eagles vs North Queensland Cowboys",
+      "description": "From 4 Pines Park in Brookvale, New South Wales, Australia.",
+      "scheduledDate": 1792782000000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Rugby league, Rugby",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-10-23_EP031720961172_114396298321_2026-02-24T16:26:49Z_GNLZZGG002E1YKT/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NRL",
+      "episodeTitle": "Melbourne Storm vs Gold Coast Titans",
+      "description": "From AAMI Park in Melbourne City, Victoria, Australia.",
+      "scheduledDate": 1792785600000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Rugby league, Rugby",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-10-23_EP031720961173_114396298371_2026-02-24T08:14:00Z_GNLZZGG002YYL86/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NRL",
+      "episodeTitle": "Brisbane Broncos vs Cronulla-Sutherland Sharks",
+      "description": "From Suncorp Stadium in Milton, Queensland, Australia.",
+      "scheduledDate": 1792789200000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Rugby league, Rugby",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-10-23_EP031720961164_114373218876_2026-02-16T07:50:49Z_GNLZZGG002QQFTM/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NRL",
+      "episodeTitle": "Cronulla-Sutherland Sharks vs Newcastle Knights",
+      "description": "From Ocean Protect Stadium in Woolooware, New South Wales, Australia.",
+      "scheduledDate": 1792792800000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Rugby league, Rugby",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-10-23_EP031720961175_114396298335_2026-02-24T08:14:45Z_GNLZZGG002YQNPJ/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Saturday League Kick Off",
+      "episodeTitle": "",
+      "description": "Denan Kemp and Chad Townsend recap all the action so far and preview the rest of the round.",
+      "scheduledDate": 1792796400000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Rugby league",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/Fallback_LTV_Fox_League/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    }
+  ]
+}

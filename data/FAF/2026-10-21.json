@@ -2,8 +2,8 @@
   "channel": "FAF",
   "date": "2026-10-21",
   "source": "kayo",
-  "fetchedAt": 1792537063063,
-  "fetchedAtIST": "21/10/2026, 4:27:43 am",
+  "fetchedAt": 1792553975297,
+  "fetchedAtIST": "21/10/2026, 9:09:35 am",
   "events": [
     {
       "programTitle": "AFL Women's Premiership",
@@ -186,11 +186,22 @@
       "episodeTitle": "Round 15: Gold Coast Suns v Hawthorn Hawks",
       "description": "Condensed highlights, reaction and analysis of the biggest sport stories from Australia and around the world.",
       "scheduledDate": 1792563000000,
-      "duration": 20,
+      "duration": 19,
       "parentalRating": "",
       "programType": "Sports non-event",
       "genre": "Australian rules football",
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-10-21_SH042238570000_104529301600_2022-03-07T04:36:21Z_p21759801_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Classic AFL",
+      "episodeTitle": "2000 Round 21: Fremantle vs West Coast",
+      "description": "Condensed highlights and a look back at full replays of some of the greatest encounters from the Australian Football League.",
+      "scheduledDate": 1792564140000,
+      "duration": 121,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Classic sport event, Australian rules football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-10-21_SH028096630000_102142641835_2018-11-27T09:00:00Z_p14740563_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "Classic AFL",
@@ -208,11 +219,22 @@
       "episodeTitle": "Collingwood Magpies vs Sydney Swans",
       "description": "From Victoria Park in Abbotsford, Victoria, Australia.",
       "scheduledDate": 1792571400000,
-      "duration": 15,
+      "duration": 14,
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Australian rules football",
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-10-21_EP029247970824_114382384868_2026-07-24T02:50:15Z_GNLZZGG003CC7KZ/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "AFL Women's Premiership",
+      "episodeTitle": "GWS GIANTS vs Hawthorn Hawks",
+      "description": "From Henson Park in Marrickville, New South Wales, Australia.",
+      "scheduledDate": 1792572240000,
+      "duration": 13,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Australian rules football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-10-21_EP029247970825_114382348401_2026-07-24T02:50:38Z_GNLZZGG003CCCCL/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "AFL Women's Premiership",
@@ -229,12 +251,34 @@
       "programTitle": "Classic AFL",
       "episodeTitle": "1996 Preliminary Final: Sydney v Essendon",
       "description": "A grand final spot is on the line when the Bombers head to the SCG to take on the Swans. A brutal game that goes right down to the wire.",
+      "scheduledDate": 1792573020000,
+      "duration": 122,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Australian rules football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-10-21_SH028096630000_102142641835_2018-11-27T09:00:00Z_p14740563_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Classic AFL",
+      "episodeTitle": "1996 Preliminary Final: Sydney v Essendon",
+      "description": "A grand final spot is on the line when the Bombers head to the SCG to take on the Swans. A brutal game that goes right down to the wire.",
       "scheduledDate": 1792573200000,
       "duration": 120,
       "parentalRating": "",
       "programType": "Sports non-event",
       "genre": "Australian rules football",
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-10-21_SH028096630000_102142641835_2018-11-27T09:00:00Z_p14740563_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Best Games Ever",
+      "episodeTitle": "2015 Round 16: Adelaide Crows v Port Adelaide",
+      "description": "Enjoy a selection of clashes from the game's past featuring memorable moments, great rivalries, inspirational performances and thrilling finishes.",
+      "scheduledDate": 1792580340000,
+      "duration": 121,
+      "parentalRating": "",
+      "programType": "Series",
+      "genre": "Rugby league",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-10-21_SH034980260000_114204242881_2021-03-31T11:57:56Z_p18238950_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "Best Games Ever",

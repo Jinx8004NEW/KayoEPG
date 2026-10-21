@@ -1,0 +1,75 @@
+{
+  "channel": "FSS",
+  "date": "2026-10-24",
+  "source": "kayo",
+  "fetchedAt": 1792553975320,
+  "fetchedAtIST": "21/10/2026, 9:09:35 am",
+  "events": [
+    {
+      "programTitle": "Best of Alex Volkanovski",
+      "episodeTitle": "",
+      "description": "",
+      "scheduledDate": 1792789200000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Special",
+      "genre": "Special",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-10-23_SH046441750000_114330435062_2023-02-09T08:37:20Z_p24021051_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "UFC Countdown",
+      "episodeTitle": "UFC 333: Volkanovski vs. Evloev",
+      "description": "Coverage of UFC training, including exclusive interviews, expert analysis and a look at the intense preparation of each fighter.",
+      "scheduledDate": 1792791000000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Mixed martial arts, Documentary",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-10-23_EP030408650113_114372516519_2026-10-19T13:39:17Z_p34326223_e_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Netball",
+      "episodeTitle": "Constellation Cup: New Zealand v Australia, Game 1",
+      "description": "Highlights from global netball battles as teams worldwide vie for supremacy on the court.",
+      "scheduledDate": 1792792800000,
+      "duration": 25,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Classic sport event, Netball, Entertainment",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-10-23_SH042569760000_102008171570_2020-07-20T11:20:11Z_p8474652_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Netball",
+      "episodeTitle": "Constellation Cup: Mini Match - New Zealand v Australia, Game 2",
+      "description": "Highlights from global netball battles as teams worldwide vie for supremacy on the court.",
+      "scheduledDate": 1792794300000,
+      "duration": 20,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Classic sport event, Netball, Entertainment",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-10-23_SH042569760000_102008171570_2020-07-20T11:20:11Z_p8474652_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "F1 Academy",
+      "episodeTitle": "Austin, Race 1",
+      "description": "From Circuit of the Americas in Austin, Texas.",
+      "scheduledDate": 1792795500000,
+      "duration": 50,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Auto racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-10-23_EP049013570049_114390744621_2026-10-20T13:22:54Z_GNLZZGG003SQZ8E/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Formula 1",
+      "episodeTitle": "United States Grand Prix, Practice 1",
+      "description": "From Circuit of the Americas in Austin, Texas.",
+      "scheduledDate": 1792798500000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Auto racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-10-23_EP027326820878_114408826825_2026-10-20T21:24:38Z_GNLZZGG003T1PT4/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    }
+  ]
+}

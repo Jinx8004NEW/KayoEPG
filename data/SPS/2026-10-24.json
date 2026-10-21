@@ -1,0 +1,53 @@
+{
+  "channel": "SPS",
+  "date": "2026-10-24",
+  "source": "kayo",
+  "fetchedAt": 1792553975315,
+  "fetchedAtIST": "21/10/2026, 9:09:35 am",
+  "events": [
+    {
+      "programTitle": "The F1 Show",
+      "episodeTitle": "United States of America",
+      "description": "A look at what goes on behind the scenes of the United States Grand Prix, offering a taste of life in the paddock, and the personalities that take to the track.",
+      "scheduledDate": 1792782000000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Auto racing, Sports talk",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-10-23_SH029317340000_103666898102_2018-10-16T09:21:00Z_p9108923_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Supercars Gold Coast Greatness",
+      "episodeTitle": "",
+      "description": "",
+      "scheduledDate": 1792785600000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Auto racing, Classic sport event",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/Fallback_LTV_Fox_Sports_506/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Formula 1",
+      "episodeTitle": "United States Grand Prix, Practice 2",
+      "description": "From Circuit of the Americas in Austin, Texas.",
+      "scheduledDate": 1792787400000,
+      "duration": 135,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Auto racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-10-23_EP027326820879_114409297822_2026-10-20T21:24:09Z_GNLZZGG003T1PP8/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Supercars Championship",
+      "episodeTitle": "Gold Coast 500 - Day 1 Qualifying and Supports",
+      "description": "Supercars compete in a series across Australia and New Zealand.",
+      "scheduledDate": 1792795500000,
+      "duration": 210,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Auto racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-10-23_EP027326761262_114390477944_2026-10-14T11:23:36Z_GNLZZGG003S3G5B/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    }
+  ]
+}

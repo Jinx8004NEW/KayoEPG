@@ -2,8 +2,8 @@
   "channel": "FSP",
   "date": "2026-10-22",
   "source": "kayo",
-  "fetchedAt": 1792537063067,
-  "fetchedAtIST": "21/10/2026, 4:27:43 am",
+  "fetchedAt": 1792553975304,
+  "fetchedAtIST": "21/10/2026, 9:09:35 am",
   "events": [
     {
       "programTitle": "One-Day International Cricket",
@@ -160,15 +160,15 @@
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-10-22_SH028549290000_94258305657_2024-01-18T22:33:02Z_p14982509_i_h10_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "International Brawling Championship",
-      "episodeTitle": "Highlights: IBC01",
-      "description": "Step inside the raw and uncompromising world of underground fight culture.",
+      "programTitle": "Asian Tour Golf",
+      "episodeTitle": "LINK Hong Kong Open, R1",
+      "description": "From Hong Kong Golf Club in Hong Kong.",
       "scheduledDate": 1792643400000,
-      "duration": 60,
+      "duration": 240,
       "parentalRating": "",
-      "programType": "Sports non-event",
-      "genre": "Mixed martial arts",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-10-22_SH065139570000_114231899149_2026-10-16T21:52:11Z_p33539447_i_h8_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "programType": "Sports event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-10-22_EP033945850303_114340351034_2026-10-19T15:22:54Z_GNLZZGG003SXSPR/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "Asian Tour Golf",
@@ -180,6 +180,17 @@
       "programType": "Sports event",
       "genre": "Golf",
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-10-22_EP033945850303_114340351034_2026-10-19T15:22:54Z_GNLZZGG003SXSPR/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "One-Day International Cricket",
+      "episodeTitle": "Pakistan ODI Tri- Series: England v Sri Lanka, Game 3",
+      "description": "Coverage of one-day cricket matches contested by international teams.",
+      "scheduledDate": 1792657800000,
+      "duration": 450,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Cricket, Classic sport event",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-10-22_SH034583010000_110095246552_2026-03-24T13:16:18Z_p8509066_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "One-Day International Cricket",

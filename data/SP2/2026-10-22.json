@@ -2,8 +2,8 @@
   "channel": "SP2",
   "date": "2026-10-22",
   "source": "kayo",
-  "fetchedAt": 1792537063056,
-  "fetchedAtIST": "21/10/2026, 4:27:43 am",
+  "fetchedAt": 1792553974993,
+  "fetchedAtIST": "21/10/2026, 9:09:34 am",
   "events": [
     {
       "programTitle": "NRL",
@@ -94,15 +94,15 @@
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-10-22_SH042238410000_109229287001_2022-03-07T01:46:13Z_p21759648_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "No Limit Boxing: Tim Tszyu v Erislandy Lara Announcement",
-      "episodeTitle": "",
-      "description": "Tune into all the details surrounding No Limit Boxing's next big event.",
+      "programTitle": "NRL Classic Match",
+      "episodeTitle": "1994 Round 18: Newcastle Knights v Canberra Raiders",
+      "description": "Re-live some of the best rugby league clashes from the Premiership's past.",
       "scheduledDate": 1792630800000,
       "duration": 60,
       "parentalRating": "",
-      "programType": "Sports non-event",
-      "genre": "Special, Boxing",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/Fallback_LTV_Fox_League/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "programType": "Sports event",
+      "genre": "Rugby, Classic sport event",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-10-22_SH034822800000_100794011205_2020-04-08T22:50:08Z_p18168517_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "NRL Classic Match",
