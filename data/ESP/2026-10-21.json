@@ -2,8 +2,8 @@
   "channel": "ESP",
   "date": "2026-10-21",
   "source": "kayo",
-  "fetchedAt": 1792553975324,
-  "fetchedAtIST": "21/10/2026, 9:09:35 am",
+  "fetchedAt": 1792573810097,
+  "fetchedAtIST": "21/10/2026, 2:40:10 pm",
   "events": [
     {
       "programTitle": "NBA Basketball",
@@ -139,14 +139,14 @@
     },
     {
       "programTitle": "NBA Basketball",
-      "episodeTitle": "New York Knicks at Philadelphia 76ers",
-      "description": "From Xfinity Mobile Arena in Philadelphia.",
+      "episodeTitle": "New York Knicks vs Philadelphia 76ers",
+      "description": "From Madison Square Garden in New York.",
       "scheduledDate": 1792578600000,
       "duration": 120,
       "parentalRating": "",
       "programType": "Sports event",
-      "genre": "Playoff sports, Basketball",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-10-21_EP030658785392_114312567426_2026-05-12T21:16:21Z_GNLZZGG0033X6CS/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "genre": "Basketball",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-10-21_EP030658785484_114426801093_2026-09-01T23:14:48Z_GNLZZGG003M47V3/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "Get Up",

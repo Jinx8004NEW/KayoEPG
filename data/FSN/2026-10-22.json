@@ -2,8 +2,8 @@
   "channel": "FSN",
   "date": "2026-10-22",
   "source": "kayo",
-  "fetchedAt": 1792553974239,
-  "fetchedAtIST": "21/10/2026, 9:09:34 am",
+  "fetchedAt": 1792573810064,
+  "fetchedAtIST": "21/10/2026, 2:40:10 pm",
   "events": [
     {
       "programTitle": "FOX SPORTS News",
@@ -180,6 +180,127 @@
       "programType": "Sports event",
       "genre": "Cricket, Classic sport event",
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103083_2026-10-22_SH033446590000_98978823590_2023-09-29T14:53:53Z_p8163404_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "MotorRacing 360",
+      "episodeTitle": "",
+      "description": "Entertaining and informative discussions about all the biggest news across the week in motor sport, including Supercars, Formula 1 and MotoGP.",
+      "scheduledDate": 1792638000000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Series",
+      "genre": "Motorsports",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/Fallback_LTV_Fox_Sports_News/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Test Cricket",
+      "episodeTitle": "2nd Test, Day 4: South Africa v Australia",
+      "description": "Coverage and highlights from international test cricket matches.",
+      "scheduledDate": 1792641600000,
+      "duration": 20,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Cricket, Classic sport event",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103083_2026-10-22_SH033446590000_98978823590_2023-09-29T14:53:53Z_p8163404_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "One-Day International Cricket",
+      "episodeTitle": "Pakistan ODI Tri- Series: Pakistan vs England, Game 2",
+      "description": "Coverage of one-day cricket matches contested by international teams.",
+      "scheduledDate": 1792642800000,
+      "duration": 20,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Cricket, Classic sport event",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103083_2026-10-22_SH034583010000_110095246552_2026-03-24T13:16:18Z_p8509066_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Test Cricket",
+      "episodeTitle": "2nd Test, Day 4: South Africa v Australia",
+      "description": "Coverage and highlights from international test cricket matches.",
+      "scheduledDate": 1792644000000,
+      "duration": 20,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Cricket, Classic sport event",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103083_2026-10-22_SH033446590000_98978823590_2023-09-29T14:53:53Z_p8163404_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Golf",
+      "episodeTitle": "PGA Australia: WA Open Golf Championship, Final Round",
+      "description": "A full coverage of golf tournaments and events from around the world, featuring all the action and highlights.",
+      "scheduledDate": 1792645200000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103083_2026-10-22_SH032772030000_113702935496_2025-04-03T19:44:22Z_p706015_i_h8_ad/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "FOX SPORTS News",
+      "episodeTitle": "",
+      "description": "The latest highlights, reaction and analysis of the biggest sport stories from Australia and around the world.",
+      "scheduledDate": 1792648800000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "News",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103083_2026-10-22_SH042121470000_112219802794_2025-01-23T05:33:43Z_p21695748_i_h10_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "FOX SPORTS News",
+      "episodeTitle": "",
+      "description": "The latest highlights, reaction and analysis of the biggest sport stories from Australia and around the world.",
+      "scheduledDate": 1792650600000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "News",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103083_2026-10-22_SH042121470000_112219802794_2025-01-23T05:33:43Z_p21695748_i_h10_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "FOX SPORTS News",
+      "episodeTitle": "",
+      "description": "The latest highlights, reaction and analysis of the biggest sport stories from Australia and around the world.",
+      "scheduledDate": 1792652400000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "News",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103083_2026-10-22_SH042121470000_112219802794_2025-01-23T05:33:43Z_p21695748_i_h10_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "FOX SPORTS News",
+      "episodeTitle": "",
+      "description": "The latest highlights, reaction and analysis of the biggest sport stories from Australia and around the world.",
+      "scheduledDate": 1792654200000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "News",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103083_2026-10-22_SH042121470000_112219802794_2025-01-23T05:33:43Z_p21695748_i_h10_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "FOX SPORTS News",
+      "episodeTitle": "",
+      "description": "The latest highlights, reaction and analysis of the biggest sport stories from Australia and around the world.",
+      "scheduledDate": 1792656000000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "News",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103083_2026-10-22_SH042121470000_112219802794_2025-01-23T05:33:43Z_p21695748_i_h10_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "FOX SPORTS News",
+      "episodeTitle": "",
+      "description": "The latest highlights, reaction and analysis of the biggest sport stories from Australia and around the world.",
+      "scheduledDate": 1792657800000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "News",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103083_2026-10-22_SH042121470000_112219802794_2025-01-23T05:33:43Z_p21695748_i_h10_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     }
   ]
 }

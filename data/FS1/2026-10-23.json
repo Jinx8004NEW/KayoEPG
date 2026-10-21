@@ -2,8 +2,8 @@
   "channel": "FS1",
   "date": "2026-10-23",
   "source": "kayo",
-  "fetchedAt": 1792553974680,
-  "fetchedAtIST": "21/10/2026, 9:09:34 am",
+  "fetchedAt": 1792573810068,
+  "fetchedAtIST": "21/10/2026, 2:40:10 pm",
   "events": [
     {
       "programTitle": "Test Cricket",
@@ -14,7 +14,7 @@
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Cricket",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-10-22_EP029804991881_114244021911_2026-09-20T22:45:41Z_GNLZZGG003PPFTN/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-10-22_EP029804991881_114421638656_2026-09-20T22:45:41Z_GNLZZGG003PPFTN/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "One-Day International Cricket",
@@ -124,7 +124,7 @@
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Cricket",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-10-23_EP029804991880_114210866809_2026-09-20T22:43:10Z_GNLZZGG003PPD8F/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-10-23_EP029804991880_114421638664_2026-09-20T22:43:10Z_GNLZZGG003PPD8F/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "Test Cricket",
@@ -135,7 +135,7 @@
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Cricket",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-10-23_EP029804991881_114244021911_2026-09-20T22:45:41Z_GNLZZGG003PPFTN/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-10-23_EP029804991881_114421638656_2026-09-20T22:45:41Z_GNLZZGG003PPFTN/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "Test Cricket",
@@ -182,15 +182,15 @@
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-10-23_SH034583010000_110095246552_2026-03-24T13:16:18Z_p8509066_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "F",
-      "episodeTitle": "",
-      "description": "",
+      "programTitle": "Women's Big Bash",
+      "episodeTitle": "Season Preview",
+      "description": "Coverage and highlights from the Women's Big Bash League, the Australian women's domestic T20 cricket competition.",
       "scheduledDate": 1792735200000,
       "duration": 60,
       "parentalRating": "",
-      "programType": "",
-      "genre": "",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/Fallback_LTV_Fox_Cricket/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "programType": "Sports non-event",
+      "genre": "Cricket",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-10-23_SH033446640000_101310753875_2018-11-16T14:00:00Z_p13556473_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "Keepin' It Cricket",
