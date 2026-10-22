@@ -2,8 +2,8 @@
   "channel": "FSS",
   "date": "2026-10-25",
   "source": "kayo",
-  "fetchedAt": 1792660365756,
-  "fetchedAtIST": "22/10/2026, 2:42:45 pm",
+  "fetchedAt": 1792687550338,
+  "fetchedAtIST": "22/10/2026, 10:15:50 pm",
   "events": [
     {
       "programTitle": "Supercars Championship",
@@ -21,11 +21,22 @@
       "episodeTitle": "United States Grand Prix, Qualifying",
       "description": "From Circuit of the Americas in Austin, Texas.",
       "scheduledDate": 1792870200000,
-      "duration": 210,
+      "duration": 205,
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Auto racing",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-10-24_EP027326820881_114432270042_2026-10-20T21:23:56Z_GNLZZGG003T1PMM/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-10-24_EP027326820881_114491105536_2026-10-20T21:23:56Z_GNLZZGG003T1PMM/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "F1 Academy",
+      "episodeTitle": "Austin, Race 2",
+      "description": "From Circuit of the Americas in Austin, Texas.",
+      "scheduledDate": 1792882500000,
+      "duration": 50,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Auto racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-10-24_EP049013570050_114444300599_2026-10-21T15:21:19Z_GNLZZGG003T65KN/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "F1 Academy",
