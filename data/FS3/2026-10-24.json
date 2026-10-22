@@ -2,8 +2,8 @@
   "channel": "FS3",
   "date": "2026-10-24",
   "source": "kayo",
-  "fetchedAt": 1792640351947,
-  "fetchedAtIST": "22/10/2026, 9:09:11 am",
+  "fetchedAt": 1792660365733,
+  "fetchedAtIST": "22/10/2026, 2:42:45 pm",
   "events": [
     {
       "programTitle": "PGA Tour Champions Golf",
@@ -37,6 +37,116 @@
       "programType": "Sports event",
       "genre": "Golf",
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-10-23_EP030899370032_114390478437_2019-10-02T17:40:31Z_p17391841_b_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "LPGA Tour Golf",
+      "episodeTitle": "BMW Ladies Championship, First Round",
+      "description": "From Pine Beach Golf Links in Haenam, Republic of Korea.",
+      "scheduledDate": 1792803600000,
+      "duration": 90,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-10-24_EP031583890611_114334293942_2025-09-26T18:14:51Z_p28888016_b_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "PGA Tour Golf",
+      "episodeTitle": "Bermuda Championship, Second Round",
+      "description": "From Port Royal Golf Course in Southampton, Bermuda.",
+      "scheduledDate": 1792809000000,
+      "duration": 90,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-10-24_EP030899370032_114390478437_2019-10-02T17:40:31Z_p17391841_b_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Golf",
+      "episodeTitle": "Players Series South Australia, Third Round",
+      "description": "Coverage of golf tournaments from around the world.",
+      "scheduledDate": 1792814400000,
+      "duration": 180,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-10-24_SH028182050000_112685941224_2024-05-13T05:23:51Z_p9232187_i_h8_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Asian Tour Golf",
+      "episodeTitle": "LINK Hong Kong Open, Third Round",
+      "description": "Golf action from the Asian Tour.",
+      "scheduledDate": 1792825200000,
+      "duration": 90,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-10-24_EP033945850305_114396298359_2026-10-20T11:24:30Z_GNLZZGG003SQVD4/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "PGA Tour Golf",
+      "episodeTitle": "Bermuda Championship, Second Round",
+      "description": "From Port Royal Golf Course in Southampton, Bermuda.",
+      "scheduledDate": 1792830600000,
+      "duration": 90,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-10-24_EP030899370032_114390478437_2019-10-02T17:40:31Z_p17391841_b_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Golf",
+      "episodeTitle": "Players Series South Australia, Third Round",
+      "description": "A full coverage of golf tournaments and events from around the world, featuring all the action and highlights.",
+      "scheduledDate": 1792836000000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-10-24_SH032772030000_113702935496_2025-04-03T19:44:22Z_p706015_i_h8_ad/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Darts",
+      "episodeTitle": "PDC European Championship - Day 3, Day Session",
+      "description": "Covering of all the action from darts events around the world.",
+      "scheduledDate": 1792839600000,
+      "duration": 240,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Darts",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-10-24_SH032967320000_109954612423_2024-10-04T13:14:55Z_p644283_i_h8_ah/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Getting a Round In",
+      "episodeTitle": "",
+      "description": "Australian professional golfer, Paul Gow hosts celebrities as his playing partners who share his love for the game of golf.",
+      "scheduledDate": 1792854000000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Series",
+      "genre": "Golf, Interview",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-10-24_SH048121120000_110998856207_2023-07-18T05:56:16Z_p25221374_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "PGA Tour Golf",
+      "episodeTitle": "Bermuda Championship, Second Round",
+      "description": "From Port Royal Golf Course in Southampton, Bermuda.",
+      "scheduledDate": 1792855800000,
+      "duration": 90,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-10-24_EP030899370032_114390478437_2019-10-02T17:40:31Z_p17391841_b_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "PGA Tour Golf",
+      "episodeTitle": "Bermuda Championship, Third Round",
+      "description": "From Port Royal Golf Course in Southampton, Bermuda.",
+      "scheduledDate": 1792861200000,
+      "duration": 180,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-10-24_EP030899370033_114396298040_2019-10-03T11:41:15Z_p17391867_b_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     }
   ]
 }

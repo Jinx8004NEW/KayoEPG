@@ -1,0 +1,64 @@
+{
+  "channel": "SP2",
+  "date": "2026-10-25",
+  "source": "kayo",
+  "fetchedAt": 1792660365730,
+  "fetchedAtIST": "22/10/2026, 2:42:45 pm",
+  "events": [
+    {
+      "programTitle": "NRL Classic Match",
+      "episodeTitle": "2026 Round 21: Sydney Roosters v Newcastle Knights",
+      "description": "Re-live some of the best rugby league clashes from the Premiership's past.",
+      "scheduledDate": 1792868400000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Rugby, Classic sport event, Rugby league",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-10-24_SH034822800000_100794011205_2020-04-08T22:50:08Z_p18168517_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NRL",
+      "episodeTitle": "South Sydney Rabbitohs vs Melbourne Storm",
+      "description": "From Accor Stadium in Sydney.",
+      "scheduledDate": 1792872000000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Rugby league, Rugby",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-10-24_EP031720961186_110993300948_2026-02-24T08:13:41Z_GNLZZGG002YYEHZ/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NRL",
+      "episodeTitle": "Canberra Raiders vs Wests Tigers",
+      "description": "From GIO Stadium Canberra in Bruce, Australian Capital Territory, Australia.",
+      "scheduledDate": 1792875600000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Rugby league, Rugby",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-10-24_EP031720961181_114427069435_2026-02-24T16:30:55Z_GNLZZGG002E1FW2/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NRL",
+      "episodeTitle": "Canterbury-Bankstown Bulldogs vs New Zealand Warriors",
+      "description": "From Accor Stadium in Sydney.",
+      "scheduledDate": 1792879200000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Rugby league, Rugby",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-10-24_EP031720961187_114426019025_2026-02-24T10:33:07Z_GNLZZGG002YEGX5/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NRL",
+      "episodeTitle": "North Queensland Cowboys vs Brisbane Broncos",
+      "description": "From Queensland Country Bank Stadium in Townsville, Queensland, Australia.",
+      "scheduledDate": 1792882800000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Rugby league, Rugby",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-10-24_EP031720961188_114426019009_2026-02-16T07:49:55Z_GNLZZGG002QQDEB/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    }
+  ]
+}

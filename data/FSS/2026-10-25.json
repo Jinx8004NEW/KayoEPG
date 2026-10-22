@@ -1,0 +1,53 @@
+{
+  "channel": "FSS",
+  "date": "2026-10-25",
+  "source": "kayo",
+  "fetchedAt": 1792660365756,
+  "fetchedAtIST": "22/10/2026, 2:42:45 pm",
+  "events": [
+    {
+      "programTitle": "Supercars Championship",
+      "episodeTitle": "Gold Coast 500 - Day 2 Pre Race and Race",
+      "description": "Supercars compete in a series across Australia and New Zealand.",
+      "scheduledDate": 1792866600000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Auto racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-10-24_EP027326761265_114396298386_2026-10-16T03:21:21Z_GNLZZGG003S9CH8/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Formula 1",
+      "episodeTitle": "United States Grand Prix, Qualifying",
+      "description": "From Circuit of the Americas in Austin, Texas.",
+      "scheduledDate": 1792870200000,
+      "duration": 210,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Auto racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-10-24_EP027326820881_114432270042_2026-10-20T21:23:56Z_GNLZZGG003T1PMM/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "F1 Academy",
+      "episodeTitle": "Austin, Race 2",
+      "description": "From Circuit of the Americas in Austin, Texas.",
+      "scheduledDate": 1792882800000,
+      "duration": 45,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Auto racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-10-24_EP049013570050_114444300599_2026-10-21T15:21:19Z_GNLZZGG003T65KN/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Ted's Notebook",
+      "episodeTitle": "United States Grand Prix: Qualifying",
+      "description": "Ted Kravitz gives an exciting behind-the-scenes look at the world of Formula 1.",
+      "scheduledDate": 1792885500000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Auto racing, Motorsports",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-10-24_SH038161890000_106370532176_2021-03-17T07:49:14Z_p9739735_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    }
+  ]
+}

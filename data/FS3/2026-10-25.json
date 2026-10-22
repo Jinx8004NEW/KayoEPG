@@ -1,0 +1,42 @@
+{
+  "channel": "FS3",
+  "date": "2026-10-25",
+  "source": "kayo",
+  "fetchedAt": 1792660365734,
+  "fetchedAtIST": "22/10/2026, 2:42:45 pm",
+  "events": [
+    {
+      "programTitle": "PGA Tour Champions Golf",
+      "episodeTitle": "Stifel Charity Classic, Second Round",
+      "description": "From Norwood Hills Country Club in Jennings, Mo.",
+      "scheduledDate": 1792872000000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-10-24_EP034248570465_114436273830_2026-10-21T11:22:06Z_GNLZZGG003T5FW5/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "DP World Tour Golf",
+      "episodeTitle": "Genesis Championship, Third Round",
+      "description": "From Woo Jeong Hills Country Club in Cheonan, Chungcheongnamdo, Korea, Republic of.",
+      "scheduledDate": 1792879200000,
+      "duration": 90,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-10-24_SH040914080000_113263749683_2022-04-26T15:48:27Z_p20993758_i_h8_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "PGA Tour Golf",
+      "episodeTitle": "Butterfield Bermuda Championship, Third Round",
+      "description": "From Port Royal Golf Course in Southampton, Bermuda.",
+      "scheduledDate": 1792884600000,
+      "duration": 90,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-10-24_EP030899371432_114396298298_2026-10-20T15:23:25Z_GNLZZGG003SYTZ5/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    }
+  ]
+}

@@ -2,8 +2,8 @@
   "channel": "RTV",
   "date": "2026-10-23",
   "source": "kayo",
-  "fetchedAt": 1792640351987,
-  "fetchedAtIST": "22/10/2026, 9:09:11 am",
+  "fetchedAt": 1792660365767,
+  "fetchedAtIST": "22/10/2026, 2:42:45 pm",
   "events": [
     {
       "programTitle": "The Trial Show",
@@ -65,7 +65,7 @@
       "episodeTitle": "",
       "description": "Features comprehensive coverage of some of the top horse racing events taking place in Australia and Hong Kong.",
       "scheduledDate": 1792717200000,
-      "duration": 330,
+      "duration": 340,
       "parentalRating": "",
       "programType": "Series",
       "genre": "Horse racing",
@@ -77,6 +77,17 @@
       "description": "Coverage of horse racing events held throughout Australia and in Hong Kong, as well as analytics and in-depth reviews from the track.",
       "scheduledDate": 1792737000000,
       "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Horse racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/148460_2026-10-23_SH029437720000_107971181386_2019-10-09T21:40:26Z_p15391316_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Racenight Live",
+      "episodeTitle": "",
+      "description": "Coverage of horse racing events held throughout Australia and in Hong Kong, as well as analytics and in-depth reviews from the track.",
+      "scheduledDate": 1792737600000,
+      "duration": 20,
       "parentalRating": "",
       "programType": "Sports non-event",
       "genre": "Horse racing",

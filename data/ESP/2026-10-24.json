@@ -2,8 +2,8 @@
   "channel": "ESP",
   "date": "2026-10-24",
   "source": "kayo",
-  "fetchedAt": 1792640351975,
-  "fetchedAtIST": "22/10/2026, 9:09:11 am",
+  "fetchedAt": 1792660365759,
+  "fetchedAtIST": "22/10/2026, 2:42:45 pm",
   "events": [
     {
       "programTitle": "NBA Today",
@@ -80,7 +80,117 @@
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Playoff sports, Baseball",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-10-23_EP066715800002_114446914691_2026-10-21T17:01:58Z_GNLZZGG003T6FMY/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-10-23_EP066715800002_114468186400_2026-10-21T17:01:58Z_GNLZZGG003T6FMY/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NFL Blitz",
+      "episodeTitle": "",
+      "description": "All of the best action from the National Football League.",
+      "scheduledDate": 1792810800000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Family, Football, News, Newsmagazine",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-10-24_SH060667300000_113358670220_2022-09-12T05:46:51Z_p22911383_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Ball or Nothin'",
+      "episodeTitle": "",
+      "description": "",
+      "scheduledDate": 1792812600000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Basketball",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/Fallback_LTV_ESPN1/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "WNBL",
+      "episodeTitle": "Geelong Venom vs Southside Melbourne Flyers",
+      "description": "From Geelong Arena in North Geelong, Victoria, Australia.",
+      "scheduledDate": 1792814400000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Basketball",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-10-24_EP029292910529_114390478506_2026-10-03T19:47:20Z_GNLZZGG003RFGPY/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Ball or Nothin'",
+      "episodeTitle": "",
+      "description": "",
+      "scheduledDate": 1792821600000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Basketball",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/Fallback_LTV_ESPN1/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NBL",
+      "episodeTitle": "Illawarra Hawks vs Brisbane Bullets",
+      "description": "Live from WIN Entertainment Centre. Tip off at 5:36PM AEDT.",
+      "scheduledDate": 1792823400000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Basketball",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-10-24_EP029269501414_114390478355_2026-10-03T19:47:20Z_GNLZZGG003RFGM3/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NBL",
+      "episodeTitle": "South East Melbourne Phoenix vs Adelaide 36ers",
+      "description": "Live from John Cain Arena. Tip off at 7:36PM AEDT.",
+      "scheduledDate": 1792830600000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Basketball",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-10-24_EP029269501415_114390478248_2026-10-03T19:43:47Z_GNLZZGG003RFGSH/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NBL Postgame",
+      "episodeTitle": "",
+      "description": "An exclusive behind-the-scenes look at all the post-game National Basketball League action, from both on and off the court.",
+      "scheduledDate": 1792837800000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Basketball",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-10-24_SH033421770000_114390478347_2021-06-04T09:16:19Z_p17486178_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "College Football",
+      "episodeTitle": "Tulsa vs Army",
+      "description": "From H.A. Chapman Stadium in Tulsa, Okla.",
+      "scheduledDate": 1792839600000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-10-24_EP064738031033_114431970393_2026-06-20T13:16:58Z_GNLZZGG0036EVLE/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "College GameDay",
+      "episodeTitle": "",
+      "description": "Rece Davis, Lee Corso, Kirk Herbstreit, and Desmond Howard provide their take on US football, complete with reports and unique analysis.",
+      "scheduledDate": 1792846800000,
+      "duration": 180,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-10-24_SH033268870000_114390477938_2024-11-04T17:34:02Z_p629309_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "College Football",
+      "episodeTitle": "Auburn vs LSU",
+      "description": "From Jordan-Hare Stadium in Auburn, Ala.",
+      "scheduledDate": 1792857600000,
+      "duration": 240,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-10-24_EP064738033559_114390478511_2026-10-15T19:58:49Z_GNLZZGG003S7Y66/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     }
   ]
 }

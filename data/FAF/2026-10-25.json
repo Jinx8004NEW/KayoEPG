@@ -1,0 +1,42 @@
+{
+  "channel": "FAF",
+  "date": "2026-10-25",
+  "source": "kayo",
+  "fetchedAt": 1792660365739,
+  "fetchedAtIST": "22/10/2026, 2:42:45 pm",
+  "events": [
+    {
+      "programTitle": "AFL Women's Premiership",
+      "episodeTitle": "St. Kilda Saints vs Brisbane Lions",
+      "description": "From RSEA Park in Moorabbin, Victoria, Australia.",
+      "scheduledDate": 1792873800000,
+      "duration": 90,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Australian rules football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-10-24_EP029247970829_114390478234_2026-07-24T02:51:36Z_GNLZZGG003CC21E/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "AFL Women's Premiership",
+      "episodeTitle": "Geelong Cats vs Fremantle Dockers",
+      "description": "From GMHBA Stadium in South Geelong, Victoria, Australia.",
+      "scheduledDate": 1792879200000,
+      "duration": 90,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Australian rules football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-10-24_EP029247970830_114390478264_2026-07-24T02:50:51Z_GNLZZGG003CC2CT/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "AFL Women's Premiership",
+      "episodeTitle": "Gold Coast SUNS vs Richmond Tigers",
+      "description": "From People First Stadium in Gold Coast, Queensland, Australia.",
+      "scheduledDate": 1792884600000,
+      "duration": 90,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Australian rules football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-10-24_EP029247970831_114390478628_2026-07-24T02:50:59Z_GNLZZGG003CC64N/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    }
+  ]
+}
