@@ -2,8 +2,8 @@
   "channel": "FSP",
   "date": "2026-10-25",
   "source": "kayo",
-  "fetchedAt": 1792727026150,
-  "fetchedAtIST": "23/10/2026, 9:13:46 am",
+  "fetchedAt": 1792746554203,
+  "fetchedAtIST": "23/10/2026, 2:39:14 pm",
   "events": [
     {
       "programTitle": "INSIDE: Ducati Lenovo Team",
@@ -25,7 +25,7 @@
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Motorcycle racing",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-10-24_EP028104881593_114396298165_2026-10-20T09:21:29Z_GNLZZGG003SQ9D9/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-10-24_EP028104881593_114510137087_2026-10-20T09:21:29Z_GNLZZGG003SQ9D9/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "MotoGP Racing",
@@ -59,6 +59,105 @@
       "programType": "Sports event",
       "genre": "Family, Classic sport event, Motorcycle racing",
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-10-24_SH035853180000_113060525180_2017-10-24T00:43:00Z_p445588_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Moto3 GP Racing",
+      "episodeTitle": "Grand Prix of Australia",
+      "description": "From Phillip Island Grand Prix Circuit in Phillip Island, Victoria, Australia.",
+      "scheduledDate": 1792886400000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Motorcycle racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-10-25_EP046925390405_114507740458_2026-10-20T09:21:09Z_GNLZZGG003SQ9C4/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Moto2 GP Racing",
+      "episodeTitle": "Grand Prix of Australia",
+      "description": "From Phillip Island Grand Prix Circuit in Phillip Island, Victoria, Australia.",
+      "scheduledDate": 1792890000000,
+      "duration": 75,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Motorcycle racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-10-25_EP046925380396_114509149879_2026-10-20T09:21:03Z_GNLZZGG003SQ9BW/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "MotoGP Racing",
+      "episodeTitle": "Grand Prix of Australia: Pre Race",
+      "description": "Action from MotoGP racing.",
+      "scheduledDate": 1792894500000,
+      "duration": 40,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Family, Classic sport event, Motorcycle racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-10-25_SH035853180000_113060525180_2017-10-24T00:43:00Z_p445588_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "MotoGP Racing",
+      "episodeTitle": "Grand Prix of Australia",
+      "description": "From Phillip Island Grand Prix Circuit in Phillip Island, Victoria, Australia.",
+      "scheduledDate": 1792896900000,
+      "duration": 95,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Motorcycle racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-10-25_EP028104881590_114510175496_2026-10-20T03:21:30Z_GNLZZGG003SL21Z/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Constellation Cup",
+      "episodeTitle": "Game 3: Australia vs. New Zealand",
+      "description": "Coverage of matches from the Constellation Cup, contested by the Australian and New Zealand national netball teams.",
+      "scheduledDate": 1792902600000,
+      "duration": 180,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Netball",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-10-25_SH030600890000_113942151197_2018-12-06T10:40:00Z_p16032357_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "MotoGP Racing",
+      "episodeTitle": "Grand Prix of Australia",
+      "description": "From Phillip Island Grand Prix Circuit in Phillip Island, Victoria, Australia.",
+      "scheduledDate": 1792913400000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Motorcycle racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-10-25_EP028104881590_114510175496_2026-10-20T03:21:30Z_GNLZZGG003SL21Z/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Women's One-Day International Cricket",
+      "episodeTitle": "India vs Zimbabwe",
+      "description": "Coverage of one-day cricket matches contested by international teams.",
+      "scheduledDate": 1792917000000,
+      "duration": 480,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Cricket",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-10-25_EP033300360234_114440088840_2026-10-12T17:00:57Z_GNLZZGG003RLL19/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "SailGP",
+      "episodeTitle": "Geneva, Day 2",
+      "description": "",
+      "scheduledDate": 1792945800000,
+      "duration": 90,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Sailing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-10-25_SH051028760000_112367882509_2021-04-23T21:46:53Z_p19827810_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Darts",
+      "episodeTitle": "PDC European Championship: Final Day, Night Session",
+      "description": "Covering of all the action from darts events around the world.",
+      "scheduledDate": 1792951200000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Darts",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-10-25_SH032967320000_109954612423_2024-10-04T13:14:55Z_p644283_i_h8_ah/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     }
   ]
 }

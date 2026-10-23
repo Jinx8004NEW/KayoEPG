@@ -2,8 +2,8 @@
   "channel": "FS1",
   "date": "2026-10-23",
   "source": "kayo",
-  "fetchedAt": 1792727026123,
-  "fetchedAtIST": "23/10/2026, 9:13:46 am",
+  "fetchedAt": 1792746554170,
+  "fetchedAtIST": "23/10/2026, 2:39:14 pm",
   "events": [
     {
       "programTitle": "Test Cricket",
@@ -139,14 +139,14 @@
     },
     {
       "programTitle": "Test Cricket",
-      "episodeTitle": "2nd Test, Day 5 Session 3: South Africa vs. Australia",
-      "description": "Coverage of Test cricket matches contested by international teams.",
+      "episodeTitle": "2nd Test, Day 5: South Africa v Australia",
+      "description": "Coverage and highlights from international test cricket matches.",
       "scheduledDate": 1792728000000,
       "duration": 60,
       "parentalRating": "",
       "programType": "Sports event",
-      "genre": "Cricket",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-10-23_EP029804991924_114345811251_2026-10-19T16:57:40Z_GNLZZGG003SXK08/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "genre": "Cricket, Classic sport event",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-10-23_SH033446590000_98978823590_2023-09-29T14:53:53Z_p8163404_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "T20 Cricket",
@@ -161,10 +161,10 @@
     },
     {
       "programTitle": "Women's T20 Cricket",
-      "episodeTitle": "Australia v New Zealand, Game 3",
+      "episodeTitle": "Australia v New Zealand, Game 1",
       "description": "Action and highlights from women's Twenty20 cricket matches.",
       "scheduledDate": 1792732800000,
-      "duration": 20,
+      "duration": 100,
       "parentalRating": "",
       "programType": "Series",
       "genre": "Cricket",
@@ -197,11 +197,22 @@
       "episodeTitle": "",
       "description": "",
       "scheduledDate": 1792738800000,
-      "duration": 60,
+      "duration": 40,
       "parentalRating": "",
       "programType": "Series",
       "genre": "Cricket",
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/Fallback_LTV_Fox_Cricket/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Test Cricket",
+      "episodeTitle": "2nd Test, Day 5: South Africa v Australia",
+      "description": "Coverage and highlights from international test cricket matches.",
+      "scheduledDate": 1792741200000,
+      "duration": 20,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Cricket, Classic sport event",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-10-23_SH033446590000_98978823590_2023-09-29T14:53:53Z_p8163404_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "T20 Cricket",

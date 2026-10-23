@@ -1,0 +1,31 @@
+{
+  "channel": "FS3",
+  "date": "2026-10-26",
+  "source": "kayo",
+  "fetchedAt": 1792746554188,
+  "fetchedAtIST": "23/10/2026, 2:39:14 pm",
+  "events": [
+    {
+      "programTitle": "PGA Tour Champions Golf",
+      "episodeTitle": "Stifel Charity Classic, Final Round",
+      "description": "From Norwood Hills Country Club in Jennings, Mo.",
+      "scheduledDate": 1792958400000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-10-25_EP034248570466_114444300591_2026-09-22T18:45:49Z_p34009363_b_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "DP World Tour Golf",
+      "episodeTitle": "Genesis Championship, Final Round",
+      "description": "From Woo Jeong Hills Country Club in Cheonan, Chungcheongnamdo, Korea, Republic of.",
+      "scheduledDate": 1792965600000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-10-25_EP040914080728_114504616878_2026-10-22T19:21:45Z_GNLZZGG003TDD5P/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    }
+  ]
+}

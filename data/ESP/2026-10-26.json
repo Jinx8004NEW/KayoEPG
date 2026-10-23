@@ -1,0 +1,42 @@
+{
+  "channel": "ESP",
+  "date": "2026-10-26",
+  "source": "kayo",
+  "fetchedAt": 1792746554223,
+  "fetchedAtIST": "23/10/2026, 2:39:14 pm",
+  "events": [
+    {
+      "programTitle": "In Depth With Graham Bensinger",
+      "episodeTitle": "Michael Strahan",
+      "description": "NFL veteran and Good Morning America co-host Michael Strahan discusses his controversial move from Live with Kelly and Michael to GMA, business and retirement, his football career, and memories from growing up in Germany.",
+      "scheduledDate": 1792958400000,
+      "duration": 25,
+      "parentalRating": "",
+      "programType": "Series",
+      "genre": "Sports talk, Interview",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-10-25_EP033308670025_114444754066_2025-07-23T15:05:05Z_p15233585_e_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NFL Football",
+      "episodeTitle": "Las Vegas Raiders vs Los Angeles Rams",
+      "description": "From Allegiant Stadium in Las Vegas.",
+      "scheduledDate": 1792959900000,
+      "duration": 185,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-10-25_EP029371131939_114495811900_2026-07-15T04:28:12Z_GNLZZGG0039KLKY/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NFL Blitz",
+      "episodeTitle": "",
+      "description": "All of the best action from the National Football League.",
+      "scheduledDate": 1792971000000,
+      "duration": 45,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Family, Football, News, Newsmagazine",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-10-25_SH060667300000_113358670220_2022-09-12T05:46:51Z_p22911383_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    }
+  ]
+}
