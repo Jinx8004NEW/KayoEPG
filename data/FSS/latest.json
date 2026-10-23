@@ -1,130 +1,185 @@
 {
   "channel": "FSS",
-  "date": "2026-10-23",
+  "date": "2026-10-24",
   "source": "kayo",
-  "fetchedAt": 1792773411453,
-  "fetchedAtIST": "23/10/2026, 10:06:51 pm",
+  "fetchedAt": 1792796168623,
+  "fetchedAtIST": "24/10/2026, 4:26:08 am",
   "events": [
     {
-      "programTitle": "LPGA Tour Golf",
-      "episodeTitle": "BMW Ladies Championship, First Round",
-      "description": "From Pine Beach Golf Links in Haenam, Republic of Korea.",
-      "scheduledDate": 1792699200000,
-      "duration": 90,
-      "parentalRating": "",
-      "programType": "Sports event",
-      "genre": "Golf",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-10-22_EP031583890611_114334293942_2025-09-26T18:14:51Z_p28888016_b_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
-    {
-      "programTitle": "Getting a Round In",
-      "episodeTitle": "Lachie Anderson",
-      "description": "Australian professional golfer, Paul Gow hosts celebrities as his playing partners who share his love for the game of golf.",
-      "scheduledDate": 1792704600000,
+      "programTitle": "Best of Alex Volkanovski",
+      "episodeTitle": "",
+      "description": "",
+      "scheduledDate": 1792789200000,
       "duration": 30,
       "parentalRating": "",
-      "programType": "Series",
-      "genre": "Golf, Interview",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-10-22_SH048121120000_110998856207_2023-07-18T05:56:16Z_p25221374_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "programType": "Special",
+      "genre": "Special",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-10-23_SH046441750000_114330435062_2023-02-09T08:37:20Z_p24021051_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "Sailing to The Games",
-      "episodeTitle": "",
-      "description": "Dedicated to the story of Olympic Sailing, as the world's star names and fresh talents strive to compete on the world's greatest sports stage and claim their medals at the Olympic Games.",
-      "scheduledDate": 1792706400000,
+      "programTitle": "UFC Countdown",
+      "episodeTitle": "UFC 333: Volkanovski vs. Evloev",
+      "description": "Coverage of UFC training, including exclusive interviews, expert analysis and a look at the intense preparation of each fighter.",
+      "scheduledDate": 1792791000000,
       "duration": 30,
       "parentalRating": "",
       "programType": "Sports non-event",
-      "genre": "Sailing",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-10-22_SH045604150000_111341337738_2026-05-14T13:56:11Z_p22538760_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "genre": "Mixed martial arts, Documentary",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-10-23_EP030408650113_114491053365_2026-10-19T13:39:17Z_p34326223_e_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "DP World Tour Golf",
-      "episodeTitle": "Genesis Championship, First Round",
-      "description": "From Woo Jeong Hills Country Club in Cheonan, Chungcheongnamdo, Korea, Republic of.",
-      "scheduledDate": 1792708200000,
-      "duration": 90,
+      "programTitle": "Netball",
+      "episodeTitle": "Constellation Cup: New Zealand v Australia, Game 1",
+      "description": "The Constellation Cup gets underway with The Diamonds looking for redemption after New Zealand took home the Commonwealth Games gold medal.",
+      "scheduledDate": 1792792800000,
+      "duration": 25,
       "parentalRating": "",
       "programType": "Sports event",
-      "genre": "Golf",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-10-22_EP040914080725_114345962691_2026-10-19T15:20:59Z_GNLZZGG003SXSC5/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "genre": "Classic sport event, Netball, Entertainment",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-10-23_SH042569760000_102008171570_2020-07-20T11:20:11Z_p8474652_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "LPGA Tour Golf",
-      "episodeTitle": "BMW Ladies Championship, First Round",
-      "description": "From Pine Beach Golf Links in Haenam, Republic of Korea.",
-      "scheduledDate": 1792713600000,
-      "duration": 90,
+      "programTitle": "Netball",
+      "episodeTitle": "Constellation Cup: Mini Match - New Zealand v Australia, Game 2",
+      "description": "Highlights from global netball battles as teams worldwide vie for supremacy on the court.",
+      "scheduledDate": 1792794300000,
+      "duration": 20,
       "parentalRating": "",
       "programType": "Sports event",
-      "genre": "Golf",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-10-23_EP031583890611_114334293942_2025-09-26T18:14:51Z_p28888016_b_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "genre": "Classic sport event, Netball, Entertainment",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-10-23_SH042569760000_102008171570_2020-07-20T11:20:11Z_p8474652_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "F1 Academy",
+      "episodeTitle": "United States: Race 1",
+      "description": "Female drivers showcase their skills as they compete against each other to emerge victorious in the F1 Academy.",
+      "scheduledDate": 1792795500000,
+      "duration": 50,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Auto, Auto racing, Newsmagazine",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-10-23_SH047330970000_112270279746_2024-02-23T19:13:16Z_p24622061_i_h8_ad/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "Formula 1",
-      "episodeTitle": "United States Grand Prix: Paddock Uncut",
+      "episodeTitle": "United States Grand Prix, Practice 1",
+      "description": "From Circuit of the Americas in Austin, Texas.",
+      "scheduledDate": 1792798500000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Auto racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-10-23_EP027326820878_114537043575_2026-10-23T11:22:58Z_GNLZZGG003TJ755/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Formula 1",
+      "episodeTitle": "United States Grand Prix: 2nd Practice",
       "description": "Features all the action and highlights from Formula 1 racing.",
-      "scheduledDate": 1792719000000,
-      "duration": 30,
+      "scheduledDate": 1792802100000,
+      "duration": 60,
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Classic sport event, Motorsports, Auto racing",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-10-23_SH035915380000_109578600751_2023-09-29T11:04:19Z_p8544413_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-10-24_SH035915380000_109578600751_2023-09-29T11:04:19Z_p8544413_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Netball",
+      "episodeTitle": "Constellation Cup: New Zealand v Australia, Game 1",
+      "description": "The Constellation Cup gets underway with The Diamonds looking for redemption after New Zealand took home the Commonwealth Games gold medal.",
+      "scheduledDate": 1792805700000,
+      "duration": 25,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Classic sport event, Netball, Entertainment",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-10-24_SH042569760000_102008171570_2020-07-20T11:20:11Z_p8474652_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "LPGA Tour Golf",
-      "episodeTitle": "BMW Ladies Championship, Second Round",
+      "episodeTitle": "BMW Ladies Championship, Third Round",
       "description": "From Pine Beach Golf Links in Haenam, Republic of Korea.",
-      "scheduledDate": 1792720800000,
+      "scheduledDate": 1792807200000,
       "duration": 300,
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Golf",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-10-23_SH031583890000_109900390814_2025-12-31T05:35:12Z_p767017_i_h8_af/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-10-24_EP031583890726_114396298049_2026-10-20T01:20:44Z_GNLZZGG003SKG4G/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "WSL Tour",
-      "episodeTitle": "Championship Tour, MEO Rip Curl Pro Portugal, Day 8",
+      "episodeTitle": "Championship Tour, MEO Rip Curl Pro Portugal, Day 9",
       "description": "Coverage of surfing action from the WSL.",
-      "scheduledDate": 1792738800000,
+      "scheduledDate": 1792825200000,
       "duration": 480,
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Surfing",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-10-23_SH033247690000_110929981520_2019-03-19T05:40:29Z_p16589355_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-10-24_SH033247690000_110929981520_2019-03-19T05:40:29Z_p16589355_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "WSL Tour",
-      "episodeTitle": "Championship Tour, MEO Rip Curl Pro Portugal, Day 8",
+      "episodeTitle": "Championship Tour, MEO Rip Curl Pro Portugal, Day 9",
       "description": "Coverage of surfing action from the WSL.",
-      "scheduledDate": 1792767600000,
+      "scheduledDate": 1792854000000,
       "duration": 60,
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Surfing",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-10-23_SH033247690000_110929981520_2019-03-19T05:40:29Z_p16589355_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-10-24_SH033247690000_110929981520_2019-03-19T05:40:29Z_p16589355_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "SailGP Highlights",
-      "episodeTitle": "Geneva",
-      "description": "Sail GP returns to the picturesque Lake Geneva for the second Rolex Switzerland Sail Grand Prix, in Round 11 of the championship.",
-      "scheduledDate": 1792771200000,
-      "duration": 60,
+      "programTitle": "Best of Alex Volkanovski",
+      "episodeTitle": "",
+      "description": "",
+      "scheduledDate": 1792857600000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Special",
+      "genre": "Special",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-10-24_SH046441750000_114330435062_2023-02-09T08:37:20Z_p24021051_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "UFC Countdown",
+      "episodeTitle": "UFC 333: Volkanovski vs. Evloev",
+      "description": "Coverage of UFC training, including exclusive interviews, expert analysis and a look at the intense preparation of each fighter.",
+      "scheduledDate": 1792859400000,
+      "duration": 30,
       "parentalRating": "",
       "programType": "Sports non-event",
-      "genre": "Sailing",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-10-23_SH039043160000_112166871707_2022-11-22T06:36:35Z_p17178369_i_h10_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "genre": "Mixed martial arts, Documentary",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-10-24_EP030408650113_114491053365_2026-10-19T13:39:17Z_p34326223_e_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "Darts",
-      "episodeTitle": "PDC European Championship - Day 2",
-      "description": "Covering of all the action from darts events around the world.",
-      "scheduledDate": 1792774800000,
-      "duration": 240,
+      "programTitle": "Fight Week",
+      "episodeTitle": "UFC 333",
+      "description": "Fox Sports reporters take a look at the UFC results, previews, and news from the previous UFC Fight Week.",
+      "scheduledDate": 1792861200000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Series",
+      "genre": "Sports talk, Mixed martial arts, Boxing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-10-24_SH028549290000_114483146878_2024-01-18T22:33:02Z_p14982509_i_h10_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "MotoGP Racing",
+      "episodeTitle": "Grand Prix of Australia, Sprint Race",
+      "description": "From Phillip Island Grand Prix Circuit in Phillip Island, Victoria, Australia.",
+      "scheduledDate": 1792863000000,
+      "duration": 30,
       "parentalRating": "",
       "programType": "Sports event",
-      "genre": "Darts",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-10-23_SH032967320000_109954612423_2024-10-04T13:14:55Z_p644283_i_h8_ah/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "genre": "Motorcycle racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-10-24_EP028104881593_114510137087_2026-10-20T09:21:29Z_GNLZZGG003SQ9D9/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Supercars Championship",
+      "episodeTitle": "Boost Mobile Gold Coast 500: Top 10 Shootout",
+      "description": "Supercars compete in a series across Australia and New Zealand.",
+      "scheduledDate": 1792864800000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Auto racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-10-24_EP027326761267_114398327260_2026-10-20T15:25:50Z_GNLZZGG003SYVD5/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     }
   ]
 }
