@@ -2,8 +2,8 @@
   "channel": "SP2",
   "date": "2026-10-25",
   "source": "kayo",
-  "fetchedAt": 1792746554182,
-  "fetchedAtIST": "23/10/2026, 2:39:14 pm",
+  "fetchedAt": 1792773411423,
+  "fetchedAtIST": "23/10/2026, 10:06:51 pm",
   "events": [
     {
       "programTitle": "NRL Classic Match",
@@ -369,48 +369,48 @@
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-10-25_EP031720961190_110993300891_2026-02-24T16:31:32Z_GNLZZGG002E1MBZ/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "NRL Mini",
-      "episodeTitle": "",
-      "description": "A comprehensive summary of the match played is provided in an expedited timeframe.",
+      "programTitle": "NRL",
+      "episodeTitle": "North Queensland Cowboys vs Sydney Roosters",
+      "description": "From Queensland Country Bank Stadium in Townsville, Queensland, Australia.",
       "scheduledDate": 1792940400000,
       "duration": 60,
       "parentalRating": "",
-      "programType": "Sports non-event",
+      "programType": "Sports event",
       "genre": "Rugby league, Rugby",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-10-25_SH035786430000_106552413658_2020-10-16T18:30:18Z_p18624350_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-10-25_EP031720961191_114534308892_2026-02-10T03:17:20Z_GNLZZGG002QD9BR/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "NRL",
-      "episodeTitle": "Sydney Roosters vs Canterbury-Bankstown Bulldogs",
-      "description": "From Allianz Stadium in Sydney.",
+      "episodeTitle": "St. George Illawarra Dragons vs Dolphins",
+      "description": "From WIN Stadium in Wollongong, New South Wales, Australia.",
       "scheduledDate": 1792944000000,
       "duration": 60,
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Rugby league, Rugby",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-10-25_EP031720961201_114426773023_2026-02-16T07:49:55Z_GNLZZGG002QQJEH/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-10-25_EP031720961192_114534308885_2026-02-10T03:16:22Z_GNLZZGG002QDWXX/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "NRL",
-      "episodeTitle": "Melbourne Storm vs Manly-Warringah Sea Eagles",
-      "description": "From HBF Park in Perth, Australia.",
+      "episodeTitle": "Melbourne Storm vs Canterbury-Bankstown Bulldogs",
+      "description": "From AAMI Park in Melbourne City, Victoria, Australia.",
       "scheduledDate": 1792947600000,
       "duration": 60,
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Rugby league, Rugby",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-10-25_EP031720961202_114434650696_2026-02-24T16:29:17Z_GNLZZGG002E1KKG/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-10-25_EP031720961193_110993300951_2026-02-24T10:35:01Z_GNLZZGG002YENZM/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "NRL",
-      "episodeTitle": "Dolphins vs Brisbane Broncos",
-      "description": "From Suncorp Stadium in Milton, Queensland, Australia.",
+      "programTitle": "NRL Mini",
+      "episodeTitle": "Gold Coast Titans v New Zealand Warriors",
+      "description": "A comprehensive summary of the match played is provided in an expedited timeframe.",
       "scheduledDate": 1792951200000,
       "duration": 60,
       "parentalRating": "",
-      "programType": "Sports event",
+      "programType": "Sports non-event",
       "genre": "Rugby league, Rugby",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-10-25_EP031720961203_114427069238_2026-02-16T07:50:43Z_GNLZZGG002QQG6D/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-10-25_SH035786430000_106552413658_2020-10-16T18:30:18Z_p18624350_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     }
   ]
 }

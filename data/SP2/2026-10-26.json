@@ -2,63 +2,63 @@
   "channel": "SP2",
   "date": "2026-10-26",
   "source": "kayo",
-  "fetchedAt": 1792746554183,
-  "fetchedAtIST": "23/10/2026, 2:39:14 pm",
+  "fetchedAt": 1792773411424,
+  "fetchedAtIST": "23/10/2026, 10:06:51 pm",
   "events": [
     {
       "programTitle": "NRL",
-      "episodeTitle": "South Sydney Rabbitohs vs Parramatta Eels",
-      "description": "From Accor Stadium in Sydney.",
+      "episodeTitle": "Penrith Panthers vs Canberra Raiders",
+      "description": "BlueBet Stadium",
       "scheduledDate": 1792954800000,
       "duration": 60,
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Rugby league, Rugby",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-10-25_EP031720961204_111978544111_2026-02-10T13:00:58Z_GNLZZGG002QFL02/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-10-25_EP031720961195_114534308896_2026-02-24T16:39:37Z_GNLZZGG002E1S2E/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "NRL",
-      "episodeTitle": "Canberra Raiders vs Newcastle Knights",
-      "description": "From GIO Stadium Canberra in Bruce, Australian Capital Territory, Australia.",
+      "episodeTitle": "Brisbane Broncos vs Newcastle Knights",
+      "description": "From Suncorp Stadium in Milton, Queensland, Australia.",
       "scheduledDate": 1792958400000,
       "duration": 60,
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Rugby league, Rugby",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-10-25_EP031720961205_114445225071_2026-02-24T16:33:35Z_GNLZZGG002E21LR/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-10-25_EP031720961196_114534308910_2026-02-24T06:08:16Z_GNLZZGG002YQG7R/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "NRL",
-      "episodeTitle": "St. George Illawarra Dragons vs Cronulla-Sutherland Sharks",
-      "description": "WIN Stadium",
+      "episodeTitle": "Cronulla-Sutherland Sharks vs South Sydney Rabbitohs",
+      "description": "From Ocean Protect Stadium in Woolooware, New South Wales, Australia.",
       "scheduledDate": 1792962000000,
       "duration": 60,
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Rugby league, Rugby",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-10-25_EP031720961206_114441355273_2026-02-10T13:09:56Z_GNLZZGG002QFMRL/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-10-25_EP031720961197_114534308907_2026-02-10T03:20:12Z_GNLZZGG002QDLD2/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "NRL",
-      "episodeTitle": "Penrith Panthers vs Sydney Roosters",
-      "description": "Live from CommBank Stadium. Kick off at 4:05PM AEST.",
+      "episodeTitle": "Wests Tigers vs Parramatta Eels",
+      "description": "From CommBank Stadium in Parramatta, New South Wales, Australia.",
       "scheduledDate": 1792965600000,
       "duration": 60,
       "parentalRating": "",
       "programType": "Sports event",
-      "genre": "Playoff sports, Rugby league, Rugby",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-10-25_EP031720961242_114440804173_2026-09-06T23:09:51Z_GNLZZGG003ME20P/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "genre": "Rugby league, Rugby",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-10-25_EP031720961198_114534308904_2026-02-24T16:26:35Z_GNLZZGG002E1S43/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "NRL",
-      "episodeTitle": "Manly-Warringah Sea Eagles vs Dolphins",
-      "description": "From 4 Pines Park in Brookvale, New South Wales, Australia.",
+      "episodeTitle": "Gold Coast Titans vs North Queensland Cowboys",
+      "description": "From Cbus Super Stadium in Robina, Australia.",
       "scheduledDate": 1792969200000,
       "duration": 60,
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Rugby league, Rugby",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-10-25_EP031720961208_114442385224_2026-02-24T16:26:40Z_GNLZZGG002E1NGL/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-10-25_EP031720961199_114534308893_2026-02-10T03:16:44Z_GNLZZGG002QDSWV/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     }
   ]
 }
