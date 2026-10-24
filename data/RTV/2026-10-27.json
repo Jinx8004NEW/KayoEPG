@@ -1,0 +1,31 @@
+{
+  "channel": "RTV",
+  "date": "2026-10-27",
+  "source": "kayo",
+  "fetchedAt": 1792813081839,
+  "fetchedAtIST": "24/10/2026, 9:08:01 am",
+  "events": [
+    {
+      "programTitle": "Giddy Up",
+      "episodeTitle": "",
+      "description": "Racing expert Gareth Hall breaks down race news and form, providing key insights.",
+      "scheduledDate": 1793048400000,
+      "duration": 170,
+      "parentalRating": "NC",
+      "programType": "Series",
+      "genre": "Horse racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/148460_2026-10-26_SH059999130000_102449579162_2025-10-15T06:41:06Z_p30993149_b_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Giddy Up",
+      "episodeTitle": "",
+      "description": "Racing expert Gareth Hall breaks down race news and form, providing key insights.",
+      "scheduledDate": 1793058600000,
+      "duration": 70,
+      "parentalRating": "NC",
+      "programType": "Series",
+      "genre": "Horse racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/148460_2026-10-26_SH059999130000_102449579162_2025-10-15T06:41:06Z_p30993149_b_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    }
+  ]
+}

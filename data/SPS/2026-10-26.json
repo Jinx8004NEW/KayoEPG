@@ -2,8 +2,8 @@
   "channel": "SPS",
   "date": "2026-10-26",
   "source": "kayo",
-  "fetchedAt": 1792796168621,
-  "fetchedAtIST": "24/10/2026, 4:26:08 am",
+  "fetchedAt": 1792813081812,
+  "fetchedAtIST": "24/10/2026, 9:08:01 am",
   "events": [
     {
       "programTitle": "Formula 1",
@@ -59,6 +59,204 @@
       "programType": "Sports event",
       "genre": "Auto racing",
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-10-25_EP027326820882_114533717211_2026-10-22T15:23:36Z_GNLZZGG003TCHEM/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Formula 1",
+      "episodeTitle": "United States Grand Prix",
+      "description": "From Circuit of the Americas in Austin, Texas.",
+      "scheduledDate": 1792972800000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Auto racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-10-26_EP027326820882_114533717211_2026-10-22T15:23:36Z_GNLZZGG003TCHEM/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Formula 1",
+      "episodeTitle": "United States Grand Prix",
+      "description": "From Circuit of the Americas in Austin, Texas.",
+      "scheduledDate": 1792974600000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Auto racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-10-26_EP027326820882_114533717211_2026-10-22T15:23:36Z_GNLZZGG003TCHEM/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Formula 1 Chequered Flag",
+      "episodeTitle": "United States Grand Prix",
+      "description": "A recap of all the Formula 1 racing action, featuring highlights and analysis.",
+      "scheduledDate": 1792981800000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Auto racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-10-26_SH038537820000_108756450962_2020-03-11T21:20:06Z_p17998973_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Moto2 GP Racing",
+      "episodeTitle": "Grand Prix of Australia",
+      "description": "From Phillip Island Grand Prix Circuit in Phillip Island, Victoria, Australia.",
+      "scheduledDate": 1792985400000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Motorcycle racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-10-26_EP046925380396_114509149879_2026-10-20T09:21:03Z_GNLZZGG003SQ9BW/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "MotoGP Racing",
+      "episodeTitle": "Grand Prix of Australia, Sprint Race",
+      "description": "From Phillip Island Grand Prix Circuit in Phillip Island, Victoria, Australia.",
+      "scheduledDate": 1792989000000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Motorcycle racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-10-26_EP028104881593_114510137087_2026-10-20T09:21:29Z_GNLZZGG003SQ9D9/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "MotoGP Racing",
+      "episodeTitle": "Grand Prix of Australia",
+      "description": "From Phillip Island Grand Prix Circuit in Phillip Island, Victoria, Australia.",
+      "scheduledDate": 1792990800000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Motorcycle racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-10-26_EP028104881590_114510175496_2026-10-20T03:21:30Z_GNLZZGG003SL21Z/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "MotoGP: After The Flag",
+      "episodeTitle": "Australia",
+      "description": "The commentary team interview the top riders and wrap up the weekend of action after the Grand Prix.",
+      "scheduledDate": 1792994400000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Motorcycle racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-10-26_SH045144180000_112768561209_2022-10-28T12:27:14Z_p23278858_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NASCAR O'Reilly Auto Parts Series Highlights",
+      "episodeTitle": "The Progress Group 250",
+      "description": "Highlights of the various races taking place at the NASCAR O'Reilly Auto Parts Series.",
+      "scheduledDate": 1792996200000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Auto racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-10-26_SH062934750000_113523990730_2026-08-05T10:46:39Z_p32273555_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NASCAR Cup Racing Series",
+      "episodeTitle": "Talladega Superspeedway",
+      "description": "Coverage of the NASCAR Cup Series, professional stock car racing in the United States.",
+      "scheduledDate": 1792999800000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Motorsports, Auto racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-10-26_SH056052770000_110216247140_2024-02-28T07:23:12Z_p8599472_i_h10_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Formula 1",
+      "episodeTitle": "United States Grand Prix",
+      "description": "From Circuit of the Americas in Austin, Texas.",
+      "scheduledDate": 1793003400000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Auto racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-10-26_EP027326820882_114533717211_2026-10-22T15:23:36Z_GNLZZGG003TCHEM/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Formula 1 Chequered Flag",
+      "episodeTitle": "United States Grand Prix",
+      "description": "A recap of all the Formula 1 racing action, featuring highlights and analysis.",
+      "scheduledDate": 1793010600000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Auto racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-10-26_SH038537820000_108756450962_2020-03-11T21:20:06Z_p17998973_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "MotoGP Racing",
+      "episodeTitle": "Grand Prix of Australia",
+      "description": "From Phillip Island Grand Prix Circuit in Phillip Island, Victoria, Australia.",
+      "scheduledDate": 1793014200000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Motorcycle racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-10-26_EP028104881590_114510175496_2026-10-20T03:21:30Z_GNLZZGG003SL21Z/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "MotoGP: After The Flag",
+      "episodeTitle": "Australia",
+      "description": "The commentary team interview the top riders and wrap up the weekend of action after the Grand Prix.",
+      "scheduledDate": 1793017800000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Motorcycle racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-10-26_SH045144180000_112768561209_2022-10-28T12:27:14Z_p23278858_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Darts",
+      "episodeTitle": "PDC ANZ Premier League: Week 5",
+      "description": "Covering of all the action from darts events around the world.",
+      "scheduledDate": 1793019600000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Darts",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-10-26_SH032967320000_109954612423_2024-10-04T13:14:55Z_p644283_i_h8_ah/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "MotoGP Racing",
+      "episodeTitle": "Grand Prix of Australia, Qualifying",
+      "description": "From Phillip Island Grand Prix Circuit in Phillip Island, Victoria, Australia.",
+      "scheduledDate": 1793026800000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Motorcycle racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-10-26_EP028104881588_114510109859_2026-10-20T15:24:33Z_GNLZZGG003SYV66/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "MotoGP Racing",
+      "episodeTitle": "Grand Prix of Australia, Sprint Race",
+      "description": "From Phillip Island Grand Prix Circuit in Phillip Island, Victoria, Australia.",
+      "scheduledDate": 1793030400000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Motorcycle racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-10-26_EP028104881593_114510137087_2026-10-20T09:21:29Z_GNLZZGG003SQ9D9/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Moto2 GP Racing",
+      "episodeTitle": "Grand Prix of Australia",
+      "description": "From Phillip Island Grand Prix Circuit in Phillip Island, Victoria, Australia.",
+      "scheduledDate": 1793032200000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Motorcycle racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-10-26_EP046925380396_114509149879_2026-10-20T09:21:03Z_GNLZZGG003SQ9BW/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "MotoGP Racing",
+      "episodeTitle": "Grand Prix of Australia",
+      "description": "From Phillip Island Grand Prix Circuit in Phillip Island, Victoria, Australia.",
+      "scheduledDate": 1793035800000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Motorcycle racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-10-26_EP028104881590_114510175496_2026-10-20T03:21:30Z_GNLZZGG003SL21Z/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     }
   ]
 }

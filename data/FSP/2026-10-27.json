@@ -1,0 +1,31 @@
+{
+  "channel": "FSP",
+  "date": "2026-10-27",
+  "source": "kayo",
+  "fetchedAt": 1792813081801,
+  "fetchedAtIST": "24/10/2026, 9:08:01 am",
+  "events": [
+    {
+      "programTitle": "MotoGP Racing",
+      "episodeTitle": "Grand Prix of Australia, Sprint Race",
+      "description": "From Phillip Island Grand Prix Circuit in Phillip Island, Victoria, Australia.",
+      "scheduledDate": 1793053800000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Motorcycle racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-10-26_EP028104881593_114510137087_2026-10-20T09:21:29Z_GNLZZGG003SQ9D9/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Moto2 GP Racing",
+      "episodeTitle": "Grand Prix of Australia",
+      "description": "From Phillip Island Grand Prix Circuit in Phillip Island, Victoria, Australia.",
+      "scheduledDate": 1793055600000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Motorcycle racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-10-26_EP046925380396_114509149879_2026-10-20T09:21:03Z_GNLZZGG003SQ9BW/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    }
+  ]
+}
