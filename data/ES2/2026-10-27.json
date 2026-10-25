@@ -2,8 +2,8 @@
   "channel": "ES2",
   "date": "2026-10-27",
   "source": "kayo",
-  "fetchedAt": 1792880184868,
-  "fetchedAtIST": "25/10/2026, 3:46:24 am",
+  "fetchedAt": 1792899318376,
+  "fetchedAtIST": "25/10/2026, 9:05:18 am",
   "events": [
     {
       "programTitle": "NFL Live",
@@ -48,6 +48,160 @@
       "programType": "Sports non-event",
       "genre": "Football",
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-10-26_SH033280040000_114542048565_2024-11-21T10:13:40Z_p806866_i_h11_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Monday Night Kickoff",
+      "episodeTitle": "",
+      "description": "NFL analysts Eric Allen, Merril Hoge, Sean Salisbury, and Mark Schlereth preview the Monday night football action.",
+      "scheduledDate": 1793059200000,
+      "duration": 15,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Sports talk, Football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-10-27_SH033280030000_114542048288_2023-09-22T16:44:06Z_p15740913_i_h11_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NFL Football",
+      "episodeTitle": "Philadelphia Eagles vs Dallas Cowboys",
+      "description": "From Lincoln Financial Field in Philadelphia.",
+      "scheduledDate": 1793060100000,
+      "duration": 180,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-10-27_EP029371132093_114592188790_2026-08-18T17:04:15Z_GNLZZGG003G7R95/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Monday Night Postgame",
+      "episodeTitle": "",
+      "description": "A recap of the Monday Night Footy match with highlights, interviews and more.",
+      "scheduledDate": 1793070900000,
+      "duration": 15,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-10-27_SH039852720000_114542048067_2023-09-22T16:53:40Z_p20481475_i_h10_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "SportsCenter With Scott Van Pelt",
+      "episodeTitle": "",
+      "description": "Scott Van Pelt presents the day in sport through his unique perspective with highlights, special guests and his One Big Thing commentary.",
+      "scheduledDate": 1793071800000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "News, Sports talk",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-10-27_SH034580420000_114236109374_2017-02-22T22:01:00Z_p13816005_i_h10_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "PGA Tour Champions Learning Center",
+      "episodeTitle": "SportsCenter",
+      "description": "Tips and tricks from the legends of the game.",
+      "scheduledDate": 1793075400000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-10-27_SH037817400000_112150007536_2022-11-29T05:17:24Z_p12531845_i_h10_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Pardon the Interruption",
+      "episodeTitle": "",
+      "description": "Tony Kornheiser and Mike Wilbon have intense discussions and interview guests about the top headlines in news and sports.",
+      "scheduledDate": 1793079000000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Sports talk",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-10-27_SH032424080000_114053918881_2021-04-08T22:26:28Z_p186288_i_h8_ae/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NFL Minis",
+      "episodeTitle": "Dallas Cowboys at Philadelphia Eagles",
+      "description": "A collection of special condensed replays featuring the best highlights and all the key moments on the field.",
+      "scheduledDate": 1793080800000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Classic sport event, Football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-10-27_SH036425140000_113987719975_2020-10-08T06:20:45Z_p18931248_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "2026 World Series",
+      "episodeTitle": "Tampa Bay Rays at Milwaukee Brewers",
+      "description": "From American Family Field in Milwaukee.",
+      "scheduledDate": 1793082600000,
+      "duration": 180,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Playoff sports, Baseball",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-10-27_EP066715800001_114562212804_2026-10-21T16:58:21Z_GNLZZGG003T6CS9/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NFL Football",
+      "episodeTitle": "Philadelphia Eagles vs Dallas Cowboys",
+      "description": "From Lincoln Financial Field in Philadelphia.",
+      "scheduledDate": 1793093400000,
+      "duration": 150,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-10-27_EP029371132093_114592188790_2026-08-18T17:04:15Z_GNLZZGG003G7R95/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NBA Minis",
+      "episodeTitle": "2026-27: Golden State Warriors at Denver Nuggets",
+      "description": "A collection of special condensed replays featuring the best highlights and all the key moments on the court.",
+      "scheduledDate": 1793102400000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Classic sport event, Basketball",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-10-27_SH035801090000_106226249671_2020-08-10T05:50:19Z_p18627080_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NFL Minis",
+      "episodeTitle": "Dallas Cowboys at Philadelphia Eagles",
+      "description": "A collection of special condensed replays featuring the best highlights and all the key moments on the field.",
+      "scheduledDate": 1793104200000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Classic sport event, Football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-10-27_SH036425140000_113987719975_2020-10-08T06:20:45Z_p18931248_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NBA Basketball",
+      "episodeTitle": "Denver Nuggets vs Golden State Warriors",
+      "description": "From Ball Arena in Denver.",
+      "scheduledDate": 1793106000000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Basketball",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-10-27_EP030658785534_114555624526_2026-09-02T02:12:32Z_GNLZZGG003M4W00/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Get Up",
+      "episodeTitle": "",
+      "description": "Mike Greenberg, Laura Rutledge and Jalen Rose discuss and analyse the latest news from the world of sports.",
+      "scheduledDate": 1793113200000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Sports talk",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-10-27_SH033268270000_113795790315_2026-03-24T04:04:44Z_p15158780_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "First Take",
+      "episodeTitle": "",
+      "description": "Stephen A. Smith joins Molly Qerim Rose to debate the hottest topics in sports.",
+      "scheduledDate": 1793120400000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Sports talk, News, Debate",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-10-27_SH033280060000_108193810385_2025-11-07T06:36:14Z_p186291_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     }
   ]
 }

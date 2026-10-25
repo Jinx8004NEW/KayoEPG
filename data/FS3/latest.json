@@ -2,8 +2,8 @@
   "channel": "FS3",
   "date": "2026-10-25",
   "source": "kayo",
-  "fetchedAt": 1792880184832,
-  "fetchedAtIST": "25/10/2026, 3:46:24 am",
+  "fetchedAt": 1792899318242,
+  "fetchedAtIST": "25/10/2026, 9:05:18 am",
   "events": [
     {
       "programTitle": "PGA Tour Champions Golf",
@@ -116,15 +116,15 @@
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-10-25_SH032967320000_109954612423_2024-10-04T13:14:55Z_p644283_i_h8_ah/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "Golf",
-      "episodeTitle": "Players Series South Australia, Final Round",
-      "description": "A full coverage of golf tournaments and events from around the world, featuring all the action and highlights.",
+      "programTitle": "PGA Tour Golf",
+      "episodeTitle": "Bermuda Championship, Final Round",
+      "description": "From Port Royal Golf Course in Southampton, Bermuda.",
       "scheduledDate": 1792944000000,
-      "duration": 60,
+      "duration": 120,
       "parentalRating": "",
-      "programType": "Sports non-event",
+      "programType": "Sports event",
       "genre": "Golf",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-10-25_SH032772030000_113702935496_2025-04-03T19:44:22Z_p706015_i_h8_ad/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-10-25_EP030899370034_114396298174_2019-10-04T15:41:17Z_p17391892_b_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "PGA Tour Golf",
@@ -136,6 +136,17 @@
       "programType": "Sports event",
       "genre": "Golf",
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-10-25_EP030899370034_114396298174_2019-10-04T15:41:17Z_p17391892_b_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "PGA Tour Champions Golf",
+      "episodeTitle": "Stifel Charity Classic, Final Round",
+      "description": "From Norwood Hills Country Club in Jennings, Mo.",
+      "scheduledDate": 1792951200000,
+      "duration": 240,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-10-25_EP034248570466_114444300591_2026-09-22T18:45:49Z_p34009363_b_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     }
   ]
 }

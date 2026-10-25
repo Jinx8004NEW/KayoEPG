@@ -1,0 +1,75 @@
+{
+  "channel": "FSS",
+  "date": "2026-10-28",
+  "source": "kayo",
+  "fetchedAt": 1792899318368,
+  "fetchedAtIST": "25/10/2026, 9:05:18 am",
+  "events": [
+    {
+      "programTitle": "PGA Tour Golf",
+      "episodeTitle": "Bermuda Championship, Final Round",
+      "description": "From Port Royal Golf Course in Southampton, Bermuda.",
+      "scheduledDate": 1793127600000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-10-27_EP030899370155_114440829698_2020-09-18T20:50:13Z_p18749278_b_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Getting a Round In",
+      "episodeTitle": "",
+      "description": "Australian professional golfer, Paul Gow hosts celebrities as his playing partners who share his love for the game of golf.",
+      "scheduledDate": 1793134800000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Series",
+      "genre": "Golf, Interview",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-10-27_SH048121120000_110998856207_2023-07-18T05:56:16Z_p25221374_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "European PGA Tour Highlights",
+      "episodeTitle": "Genesis Championship",
+      "description": "All the action and highlights from European Tour golf.",
+      "scheduledDate": 1793136600000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-10-27_SH037026900000_114410019874_2022-09-05T13:56:59Z_p9656797_i_h10_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Asian Tour Highlights",
+      "episodeTitle": "Hong Kong Open",
+      "description": "",
+      "scheduledDate": 1793138400000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-10-27_SH044307880000_106535087824_2023-03-29T12:05:56Z_p8766476_i_h10_af/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Getting a Round In",
+      "episodeTitle": "",
+      "description": "Australian professional golfer, Paul Gow hosts celebrities as his playing partners who share his love for the game of golf.",
+      "scheduledDate": 1793142000000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Series",
+      "genre": "Golf, Interview",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-10-27_SH048121120000_110998856207_2023-07-18T05:56:16Z_p25221374_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "52 Super Series",
+      "episodeTitle": "",
+      "description": "Teams from all over the world compete with each other in the 52 Super Series, a monohull yacht racing competition, to clinch the number one spot.",
+      "scheduledDate": 1793143800000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Series",
+      "genre": "Sailing, Watersports",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-10-27_SH064993470000_112455686540_2023-03-16T14:17:12Z_p23293654_i_h10_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    }
+  ]
+}

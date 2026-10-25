@@ -1,0 +1,86 @@
+{
+  "channel": "SPS",
+  "date": "2026-10-28",
+  "source": "kayo",
+  "fetchedAt": 1792899318356,
+  "fetchedAtIST": "25/10/2026, 9:05:18 am",
+  "events": [
+    {
+      "programTitle": "Formula 1",
+      "episodeTitle": "United States Grand Prix",
+      "description": "From Circuit of the Americas in Austin, Texas.",
+      "scheduledDate": 1793125800000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Auto racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-10-27_EP027326820882_114533717211_2026-10-22T15:23:36Z_GNLZZGG003TCHEM/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "FIM Superbike World Championship",
+      "episodeTitle": "Spanish Round, Race 1",
+      "description": "From Circuito de Jerez – Ángel Nieto in Jerez de la Frontera, Andalusia, Spain.",
+      "scheduledDate": 1793127600000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Motorcycle racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-10-27_EP050933440131_114549973146_2026-10-17T15:21:43Z_GNLZZGG003SGNBW/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "FIM Superbike World Championship",
+      "episodeTitle": "Spanish Round, Race 2",
+      "description": "From Circuito de Jerez – Ángel Nieto in Jerez de la Frontera, Andalusia, Spain.",
+      "scheduledDate": 1793131200000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Motorcycle racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-10-27_EP050933440133_114549972895_2026-10-17T15:21:51Z_GNLZZGG003SGND0/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Moto2 GP Racing",
+      "episodeTitle": "Grand Prix of Australia",
+      "description": "From Phillip Island Grand Prix Circuit in Phillip Island, Victoria, Australia.",
+      "scheduledDate": 1793134800000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Motorcycle racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-10-27_EP046925380396_114509149879_2026-10-20T09:21:03Z_GNLZZGG003SQ9BW/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "MotoGP Racing",
+      "episodeTitle": "Grand Prix of Australia, Sprint Race",
+      "description": "From Phillip Island Grand Prix Circuit in Phillip Island, Victoria, Australia.",
+      "scheduledDate": 1793138400000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Motorcycle racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-10-27_EP028104881593_114510137087_2026-10-20T09:21:29Z_GNLZZGG003SQ9D9/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "MotoGP Racing",
+      "episodeTitle": "Grand Prix of Australia",
+      "description": "From Phillip Island Grand Prix Circuit in Phillip Island, Victoria, Australia.",
+      "scheduledDate": 1793140200000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Motorcycle racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-10-27_EP028104881590_114510175496_2026-10-20T03:21:30Z_GNLZZGG003SL21Z/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "MotoGP: After The Flag",
+      "episodeTitle": "Australia",
+      "description": "The commentary team interview the top riders and wrap up the weekend of action after the Grand Prix.",
+      "scheduledDate": 1793143800000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Motorcycle racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-10-27_SH045144180000_112768561209_2022-10-28T12:27:14Z_p23278858_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    }
+  ]
+}
