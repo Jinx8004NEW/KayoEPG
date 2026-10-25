@@ -2,8 +2,8 @@
   "channel": "ES2",
   "date": "2026-10-25",
   "source": "kayo",
-  "fetchedAt": 1792918751542,
-  "fetchedAtIST": "25/10/2026, 2:29:11 pm",
+  "fetchedAt": 1792942852842,
+  "fetchedAtIST": "25/10/2026, 9:10:52 pm",
   "events": [
     {
       "programTitle": "College Football Scoreboard",
@@ -72,6 +72,17 @@
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-10-25_SH027575020000_113966071598_2021-11-15T14:36:19Z_p514472_b_h8_dp/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
+      "programTitle": "Sunday NFL Countdown",
+      "episodeTitle": "",
+      "description": "Samantha Ponder, with a team of analysts, introduces the features and directs the storylines associated with the day's games.",
+      "scheduledDate": 1792942200000,
+      "duration": 90,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-10-25_SH033308210000_114609018318_2019-09-06T20:20:11Z_p924452_i_h8_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
       "programTitle": "To Be Announced",
       "episodeTitle": "",
       "description": "The programming for this time slot has yet to be determined and is being confirmed by the broadcast channel.",
@@ -81,6 +92,17 @@
       "programType": "TBA",
       "genre": "Special, Entertainment",
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-10-25_SH027575020000_113966071598_2021-11-15T14:36:19Z_p514472_b_h8_dp/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "College Basketball",
+      "episodeTitle": "Kansas vs Duke",
+      "description": "From Allen Fieldhouse in Lawrence, Kan.",
+      "scheduledDate": 1792947600000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Basketball",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-10-25_EP066460660850_114608023544_2026-10-21T23:13:42Z_GNLZZGG003T7JPE/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     }
   ]
 }

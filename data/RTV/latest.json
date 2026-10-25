@@ -2,8 +2,8 @@
   "channel": "RTV",
   "date": "2026-10-25",
   "source": "kayo",
-  "fetchedAt": 1792918751549,
-  "fetchedAtIST": "25/10/2026, 2:29:11 pm",
+  "fetchedAt": 1792942852846,
+  "fetchedAtIST": "25/10/2026, 9:10:52 pm",
   "events": [
     {
       "programTitle": "Racing to Win",
@@ -273,9 +273,20 @@
       "programTitle": "Raceday Review",
       "episodeTitle": "",
       "description": "A look back at the action from events on the Australian horse racing calendar with analytics and in-depth reviews from the track.",
+      "scheduledDate": 1792942200000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Horse racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/148460_2026-10-25_SH029304380000_107969744569_2019-10-09T23:20:18Z_p15316396_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Raceday Review",
+      "episodeTitle": "",
+      "description": "A look back at the action from events on the Australian horse racing calendar with analytics and in-depth reviews from the track.",
       "scheduledDate": 1792944000000,
       "duration": 45,
-      "parentalRating": "NC",
+      "parentalRating": "",
       "programType": "Sports non-event",
       "genre": "Horse racing",
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/148460_2026-10-25_SH029304380000_107969744569_2019-10-09T23:20:18Z_p15316396_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
@@ -286,7 +297,7 @@
       "description": "All the greatest moments from the full day of racing, including all the races, with insights from jockeys and trainers.",
       "scheduledDate": 1792946700000,
       "duration": 60,
-      "parentalRating": "NC",
+      "parentalRating": "",
       "programType": "Series",
       "genre": "Horse racing",
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/148460_2026-10-25_SH035202010000_86926760177_2020-05-27T05:35:07Z_p18338607_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
@@ -297,7 +308,7 @@
       "description": "Neil Kearney takes a look back on some of the most unforgettable moments from the Melbourne Cup, which defined the day as the race that stops the nation.",
       "scheduledDate": 1792950300000,
       "duration": 60,
-      "parentalRating": "NC",
+      "parentalRating": "",
       "programType": "Sports non-event",
       "genre": "Horse racing",
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/148460_2026-10-25_SH033508620000_113858854492_2019-10-30T22:21:02Z_p17546176_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
