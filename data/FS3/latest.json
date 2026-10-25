@@ -1,92 +1,26 @@
 {
   "channel": "FS3",
-  "date": "2026-10-25",
+  "date": "2026-10-26",
   "source": "kayo",
-  "fetchedAt": 1792942852816,
-  "fetchedAtIST": "25/10/2026, 9:10:52 pm",
+  "fetchedAt": 1792953921506,
+  "fetchedAtIST": "26/10/2026, 12:15:21 am",
   "events": [
     {
       "programTitle": "PGA Tour Champions Golf",
-      "episodeTitle": "Stifel Charity Classic, Second Round",
+      "episodeTitle": "Stifel Charity Classic, Final Round",
       "description": "From Norwood Hills Country Club in Jennings, Mo.",
-      "scheduledDate": 1792872000000,
+      "scheduledDate": 1792958400000,
       "duration": 120,
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Golf",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-10-24_EP034248570465_114542597786_2026-10-23T13:21:47Z_GNLZZGG003TJL7F/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
-    {
-      "programTitle": "DP World Tour Golf",
-      "episodeTitle": "Genesis Championship, Third Round",
-      "description": "From Woo Jeong Hills Country Club in Cheonan, Chungcheongnamdo, Korea, Republic of.",
-      "scheduledDate": 1792879200000,
-      "duration": 90,
-      "parentalRating": "",
-      "programType": "Sports event",
-      "genre": "Golf",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-10-24_SH040914080000_114537374748_2022-04-26T15:48:27Z_p20993758_i_h8_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
-    {
-      "programTitle": "PGA Tour Golf",
-      "episodeTitle": "Butterfield Bermuda Championship, Third Round",
-      "description": "From Port Royal Golf Course in Southampton, Bermuda.",
-      "scheduledDate": 1792884600000,
-      "duration": 90,
-      "parentalRating": "",
-      "programType": "Sports event",
-      "genre": "Golf",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-10-24_EP030899371432_114542645668_2026-10-23T13:24:49Z_GNLZZGG003TJQ22/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
-    {
-      "programTitle": "Golf",
-      "episodeTitle": "Players Series South Australia, Third Round",
-      "description": "A full coverage of golf tournaments and events from around the world, featuring all the action and highlights.",
-      "scheduledDate": 1792890000000,
-      "duration": 60,
-      "parentalRating": "",
-      "programType": "Sports non-event",
-      "genre": "Golf",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-10-25_SH032772030000_113702935496_2025-04-03T19:44:22Z_p706015_i_h8_ad/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
-    {
-      "programTitle": "Golf",
-      "episodeTitle": "Players Series South Australia, Final Round",
-      "description": "Coverage of golf tournaments from around the world.",
-      "scheduledDate": 1792893600000,
-      "duration": 300,
-      "parentalRating": "",
-      "programType": "Sports event",
-      "genre": "Golf",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-10-25_SH028182050000_112685941224_2024-05-13T05:23:51Z_p9232187_i_h8_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
-    {
-      "programTitle": "Asian Tour Golf",
-      "episodeTitle": "Hong Kong Open, Final Round",
-      "description": "From Hong Kong Golf Club in Hong Kong.",
-      "scheduledDate": 1792911600000,
-      "duration": 90,
-      "parentalRating": "",
-      "programType": "Sports event",
-      "genre": "Golf",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-10-25_EP033945850007_114396298090_2019-12-20T20:40:17Z_p17712927_b_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
-    {
-      "programTitle": "Golf",
-      "episodeTitle": "Players Series South Australia, Final Round",
-      "description": "A full coverage of golf tournaments and events from around the world, featuring all the action and highlights.",
-      "scheduledDate": 1792917000000,
-      "duration": 60,
-      "parentalRating": "",
-      "programType": "Sports non-event",
-      "genre": "Golf",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-10-25_SH032772030000_113702935496_2025-04-03T19:44:22Z_p706015_i_h8_ad/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-10-25_EP034248570466_114444300591_2026-09-22T18:45:49Z_p34009363_b_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "DP World Tour Golf",
       "episodeTitle": "Genesis Championship, Final Round",
       "description": "From Woo Jeong Hills Country Club in Cheonan, Chungcheongnamdo, Korea, Republic of.",
-      "scheduledDate": 1792920600000,
+      "scheduledDate": 1792965600000,
       "duration": 120,
       "parentalRating": "",
       "programType": "Sports event",
@@ -94,59 +28,158 @@
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-10-25_EP040914080728_114555880666_2026-10-23T19:22:01Z_GNLZZGG003TP8N1/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
+      "programTitle": "Golf",
+      "episodeTitle": "Players Series South Australia, Final Round",
+      "description": "A full coverage of golf tournaments and events from around the world, featuring all the action and highlights.",
+      "scheduledDate": 1792972800000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-10-26_SH032772030000_113702935496_2025-04-03T19:44:22Z_p706015_i_h8_ad/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
       "programTitle": "Getting a Round In",
       "episodeTitle": "",
       "description": "Australian professional golfer, Paul Gow hosts celebrities as his playing partners who share his love for the game of golf.",
-      "scheduledDate": 1792927800000,
+      "scheduledDate": 1792976400000,
       "duration": 30,
       "parentalRating": "",
       "programType": "Series",
       "genre": "Golf, Interview",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-10-25_SH048121120000_110998856207_2023-07-18T05:56:16Z_p25221374_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-10-26_SH048121120000_110998856207_2023-07-18T05:56:16Z_p25221374_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "Darts",
-      "episodeTitle": "PDC European Championship - Final Day, Day Session",
-      "description": "Covering of all the action from darts events around the world.",
-      "scheduledDate": 1792929600000,
-      "duration": 240,
+      "programTitle": "Rory McIlroy Melboure Sandbelt",
+      "episodeTitle": "",
+      "description": "",
+      "scheduledDate": 1792978200000,
+      "duration": 30,
       "parentalRating": "",
-      "programType": "Sports event",
-      "genre": "Darts",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-10-25_SH032967320000_109954612423_2024-10-04T13:14:55Z_p644283_i_h8_ah/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "programType": "Sports non-event",
+      "genre": "Special, Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-10-26_SH066408400000_114551433139_2026-10-23T16:34:27Z_p34254897_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "PGA Tour Golf",
       "episodeTitle": "Bermuda Championship, Final Round",
       "description": "From Port Royal Golf Course in Southampton, Bermuda.",
-      "scheduledDate": 1792944000000,
+      "scheduledDate": 1792980000000,
       "duration": 120,
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Golf",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-10-25_EP030899370034_114396298174_2019-10-04T15:41:17Z_p17391892_b_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-10-26_EP030899370155_114440829698_2020-09-18T20:50:13Z_p18749278_b_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "LPGA Tour Golf",
+      "episodeTitle": "BMW Ladies Championship, Final Round",
+      "description": "From Pine Beach Golf Links in Haenam, Republic of Korea.",
+      "scheduledDate": 1792987200000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-10-26_EP031583890614_114445225101_2025-09-26T18:14:40Z_p28888024_b_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "DP World Tour Golf",
+      "episodeTitle": "Genesis Championship, Final Round",
+      "description": "From Woo Jeong Hills Country Club in Cheonan, Chungcheongnamdo, Korea, Republic of.",
+      "scheduledDate": 1792994400000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-10-26_EP040914080728_114555880666_2026-10-23T19:22:01Z_GNLZZGG003TP8N1/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Getting a Round In",
+      "episodeTitle": "",
+      "description": "Australian professional golfer, Paul Gow hosts celebrities as his playing partners who share his love for the game of golf.",
+      "scheduledDate": 1793001600000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Series",
+      "genre": "Golf, Interview",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-10-26_SH048121120000_110998856207_2023-07-18T05:56:16Z_p25221374_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "PGA Tour Highlights",
+      "episodeTitle": "Butterfield Bermuda Championship",
+      "description": "Highlights from PGA Tour events featuring the world's best golfers in action. Hosts track the progression of the game while reviewing the changes in technologies and techniques.",
+      "scheduledDate": 1793003400000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Classic sport event, Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-10-26_SH032355110000_114391477483_2023-03-16T12:30:24Z_p9060599_i_h10_ae/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Golf",
+      "episodeTitle": "Players Series South Australia, Final Round",
+      "description": "A full coverage of golf tournaments and events from around the world, featuring all the action and highlights.",
+      "scheduledDate": 1793007000000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-10-26_SH032772030000_113702935496_2025-04-03T19:44:22Z_p706015_i_h8_ad/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "LPGA Tour Golf",
+      "episodeTitle": "BMW Ladies Championship, Final Round",
+      "description": "From Pine Beach Golf Links in Haenam, Republic of Korea.",
+      "scheduledDate": 1793010600000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-10-26_EP031583890614_114445225101_2025-09-26T18:14:40Z_p28888024_b_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Getting a Round In",
+      "episodeTitle": "",
+      "description": "Australian professional golfer, Paul Gow hosts celebrities as his playing partners who share his love for the game of golf.",
+      "scheduledDate": 1793017800000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Series",
+      "genre": "Golf, Interview",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-10-26_SH048121120000_110998856207_2023-07-18T05:56:16Z_p25221374_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "PGA Tour Golf",
-      "episodeTitle": "Bermuda Championship, Final Round",
-      "description": "From Port Royal Golf Course in Southampton, Bermuda.",
-      "scheduledDate": 1792947600000,
-      "duration": 180,
+      "episodeTitle": "The Memorial Tournament, Final Round",
+      "description": "From Muirfield Village Golf Club in Dublin, Ohio.",
+      "scheduledDate": 1793019600000,
+      "duration": 120,
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Golf",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-10-25_EP030899370034_114396298174_2019-10-04T15:41:17Z_p17391892_b_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-10-26_EP030899371380_114442159742_2026-05-04T18:45:18Z_p32043979_b_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "PGA Tour Champions Golf",
-      "episodeTitle": "Stifel Charity Classic, Final Round",
-      "description": "From Norwood Hills Country Club in Jennings, Mo.",
-      "scheduledDate": 1792951200000,
-      "duration": 240,
+      "programTitle": "PGA Tour Golf",
+      "episodeTitle": "2026: RBC Canadian Open, Final Round",
+      "description": "Professional golfers compete against one another in the PGA Tour to win the coveted title.",
+      "scheduledDate": 1793026800000,
+      "duration": 120,
       "parentalRating": "",
       "programType": "Sports event",
-      "genre": "Golf",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-10-25_EP034248570466_114444300591_2026-09-22T18:45:49Z_p34009363_b_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "genre": "Classic sport event, Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-10-26_SH035325650000_112615937126_2023-06-26T11:35:50Z_p8997822_i_h8_ad/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "PGA Tour Highlights",
+      "episodeTitle": "John Deere Classic, Final Round",
+      "description": "Highlights from PGA Tour events featuring the world's best golfers in action. Hosts track the progression of the game while reviewing the changes in technologies and techniques.",
+      "scheduledDate": 1793034000000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Classic sport event, Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-10-26_SH032355110000_114391477483_2023-03-16T12:30:24Z_p9060599_i_h10_ae/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     }
   ]
 }
