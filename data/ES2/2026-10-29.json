@@ -2,9 +2,42 @@
   "channel": "ES2",
   "date": "2026-10-29",
   "source": "kayo",
-  "fetchedAt": 1793008171634,
-  "fetchedAtIST": "26/10/2026, 3:19:31 pm",
+  "fetchedAt": 1793038956502,
+  "fetchedAtIST": "26/10/2026, 11:52:36 pm",
   "events": [
+    {
+      "programTitle": "College Football Live",
+      "episodeTitle": "",
+      "description": "Breaking news, analysis, features, roundtable discussions, and interviews covering all the latest events from the world of college football.",
+      "scheduledDate": 1793214000000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Football, News",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-10-28_SH033651660000_114502000521_2017-12-12T23:22:00Z_p221266_i_h10_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "ESPN FC Shorts",
+      "episodeTitle": "Best We've Played With, Toughest To Defend, & Sideline Parents",
+      "description": "Presents top football highlights in YouTube Shorts.",
+      "scheduledDate": 1793215800000,
+      "duration": 25,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Soccer",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-10-28_SH046564100000_114652360589_2023-05-17T15:16:11Z_p24027877_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "UEFA Women's Champions League",
+      "episodeTitle": "Arsenal vs. Benfica",
+      "description": "Do Estádio de Meadow Park, em Borehamwood, Inglaterra.",
+      "scheduledDate": 1793217300000,
+      "duration": 125,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Soccer",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-10-28_EP032279220175_114657964405_2026-09-07T19:43:10Z_GNLZZGG003N30TT/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
     {
       "programTitle": "To Be Announced",
       "episodeTitle": "",
@@ -15,6 +48,39 @@
       "programType": "TBA",
       "genre": "Special, Entertainment",
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-10-28_SH027575020000_113966071598_2021-11-15T14:36:19Z_p514472_b_h8_dp/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NBA Tip-Off",
+      "episodeTitle": "",
+      "description": "Sports Broadcasting Hall of Famer Ernie Johnson hosts with analysts Charles Barkley, Shaquille O'Neal and Kenny Smith.",
+      "scheduledDate": 1793224800000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Basketball",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-10-28_SH061297720000_114652358168_2026-06-05T22:05:12Z_p267533_i_h10_ae/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NBA Courtside",
+      "episodeTitle": "",
+      "description": "An insight into upcoming National Basketball Association matches, highlighting the players to watch and the top team news.",
+      "scheduledDate": 1793228400000,
+      "duration": 12,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Basketball",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-10-28_SH033412210000_114333352032_2019-02-26T14:20:41Z_p815562_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NBA Basketball",
+      "episodeTitle": "Indiana Pacers vs Philadelphia 76ers",
+      "description": "From Gainbridge Fieldhouse in Indianapolis.",
+      "scheduledDate": 1793229120000,
+      "duration": 143,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Basketball",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-10-28_EP030658785541_114652075743_2026-09-02T02:09:53Z_GNLZZGG003M4TJE/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     }
   ]
 }
