@@ -2,8 +2,8 @@
   "channel": "SPS",
   "date": "2026-10-27",
   "source": "kayo",
-  "fetchedAt": 1792985891421,
-  "fetchedAtIST": "26/10/2026, 9:08:11 am",
+  "fetchedAt": 1793008171622,
+  "fetchedAtIST": "26/10/2026, 3:19:31 pm",
   "events": [
     {
       "programTitle": "MotoGP: After The Flag",
@@ -47,7 +47,7 @@
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Auto racing",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-10-26_EP027326820882_114619514589_2026-10-22T15:23:36Z_GNLZZGG003TCHEM/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-10-26_EP027326820882_114627630128_2026-10-25T21:20:56Z_GNLZZGG003TLST5/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "Supercars Championship",
@@ -102,7 +102,7 @@
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Auto racing",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-10-27_EP027326820882_114619514589_2026-10-22T15:23:36Z_GNLZZGG003TCHEM/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-10-27_EP027326820882_114627630128_2026-10-25T21:20:56Z_GNLZZGG003TLST5/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "Formula 1 Chequered Flag",
@@ -127,10 +127,21 @@
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-10-27_SH038161890000_106370532176_2021-03-17T07:49:14Z_p9739735_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
+      "programTitle": "Supercars Championship",
+      "episodeTitle": "2025: Repco Bathurst 1000",
+      "description": "Highlights and replays of classic races of the international motor racing series for Supercars.",
+      "scheduledDate": 1793077200000,
+      "duration": 15,
+      "parentalRating": "",
+      "programType": "Series",
+      "genre": "Auto racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-10-27_SH035728470000_113699461789_2018-12-17T21:00:00Z_p16276370_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
       "programTitle": "Porsche Carrera Cup Highlights",
       "episodeTitle": "",
       "description": "Highlights and all the excitement from the Porsche Carrera Cup Australia Championship, taking place on the many exhilarating circuits around Australia.",
-      "scheduledDate": 1793077200000,
+      "scheduledDate": 1793078100000,
       "duration": 50,
       "parentalRating": "",
       "programType": "Sports non-event",
@@ -149,6 +160,17 @@
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-10-27_SH028105410000_103879387910_2025-02-24T11:53:36Z_p14745625_i_h11_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
+      "programTitle": "Supercars Highlights",
+      "episodeTitle": "Dunlop Super2 Series",
+      "description": "Highlights from the V8 Supercars racing series from each round from tracks across Australia and New Zealand.",
+      "scheduledDate": 1793081100000,
+      "duration": 50,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Motorsports",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-10-27_SH028105410000_103879387910_2025-02-24T11:53:36Z_p14745625_i_h11_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
       "programTitle": "MotoGP Racing",
       "episodeTitle": "",
       "description": "Action from MotoGP racing.",
@@ -158,6 +180,17 @@
       "programType": "Sports event",
       "genre": "Family, Classic sport event, Motorcycle racing",
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-10-27_SH035853180000_114543852884_2017-10-24T00:43:00Z_p445588_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Supercars Championship",
+      "episodeTitle": "Gold Coast 500 - Day 1 Pre Race and Race",
+      "description": "Supercars compete in a series across Australia and New Zealand.",
+      "scheduledDate": 1793084100000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Auto racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-10-27_EP027326761263_114396298294_2026-10-14T11:22:46Z_GNLZZGG003S3FEZ/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "MotoGP: After The Flag",
@@ -185,6 +218,17 @@
       "programTitle": "Supercars Championship",
       "episodeTitle": "Gold Coast 500 - Day 2 Pre Race and Race",
       "description": "Supercars compete in a series across Australia and New Zealand.",
+      "scheduledDate": 1793087700000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Auto racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-10-27_EP027326761265_114396298386_2026-10-16T03:21:21Z_GNLZZGG003S9CH8/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Supercars Championship",
+      "episodeTitle": "Gold Coast 500 - Day 2 Pre Race and Race",
+      "description": "Supercars compete in a series across Australia and New Zealand.",
       "scheduledDate": 1793089800000,
       "duration": 60,
       "parentalRating": "",
@@ -193,11 +237,33 @@
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-10-27_EP027326761265_114396298386_2026-10-16T03:21:21Z_GNLZZGG003S9CH8/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
+      "programTitle": "Supercars Trackside",
+      "episodeTitle": "Boost Mobile Gold Coast 500",
+      "description": "All the action from the track and down in pit lane, with exclusive insight from experts and former supercar drivers.",
+      "scheduledDate": 1793091300000,
+      "duration": 38,
+      "parentalRating": "",
+      "programType": "Series",
+      "genre": "Sports talk, Motorsports",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-10-27_SH031729430000_109921619660_2019-04-15T09:20:14Z_p16641707_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
       "programTitle": "Pro Bull Riding",
       "episodeTitle": "",
       "description": "The best bull riders in Australia and the world compete for prize money on the professional bull riding circuit.",
       "scheduledDate": 1793093400000,
       "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Bull riding",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-10-27_SH029446100000_108472165776_2018-05-25T09:42:00Z_p15394895_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Pro Bull Riding",
+      "episodeTitle": "",
+      "description": "The best bull riders in Australia and the world compete for prize money on the professional bull riding circuit.",
+      "scheduledDate": 1793093580000,
+      "duration": 57,
       "parentalRating": "",
       "programType": "Sports non-event",
       "genre": "Bull riding",

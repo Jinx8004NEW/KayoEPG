@@ -2,8 +2,8 @@
   "channel": "FAF",
   "date": "2026-10-27",
   "source": "kayo",
-  "fetchedAt": 1792985891409,
-  "fetchedAtIST": "26/10/2026, 9:08:11 am",
+  "fetchedAt": 1793008171612,
+  "fetchedAtIST": "26/10/2026, 3:19:31 pm",
   "events": [
     {
       "programTitle": "AFL Women's Premiership",
@@ -17,11 +17,33 @@
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-10-26_EP029247970835_114462122138_2026-07-24T02:52:04Z_GNLZZGG003CC6RP/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
+      "programTitle": "AFL Women's Premiership",
+      "episodeTitle": "Hawthorn Hawks vs Essendon Bombers",
+      "description": "Live from the Kennedy Community Centre. Bounce time: 3:05pm AEDT.",
+      "scheduledDate": 1793047500000,
+      "duration": 90,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Australian rules football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-10-26_EP029247970835_114462122138_2026-07-24T02:52:04Z_GNLZZGG003CC6RP/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
       "programTitle": "The W Debrief",
       "episodeTitle": "",
       "description": "Experts review the week's major headlines, stand-out matches and biggest talking points from around the AFLW competition, delivering comprehensive analysis and discussion on women's football.",
       "scheduledDate": 1793052000000,
       "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Australian rules football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-10-26_SH060384060000_112853610422_2025-10-15T06:35:17Z_p31174602_b_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "The W Debrief",
+      "episodeTitle": "",
+      "description": "Experts review the week's major headlines, stand-out matches and biggest talking points from around the AFLW competition, delivering comprehensive analysis and discussion on women's football.",
+      "scheduledDate": 1793052900000,
+      "duration": 45,
       "parentalRating": "",
       "programType": "Sports non-event",
       "genre": "Australian rules football",
@@ -53,12 +75,34 @@
       "programTitle": "AFL Mini",
       "episodeTitle": "Round 18: Brisbane Lions v Essendon Bombers",
       "description": "Condensed highlights, reaction and analysis of the biggest sport stories from Australia and around the world.",
+      "scheduledDate": 1793055600000,
+      "duration": 20,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Australian rules football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-10-26_SH042238570000_104529301600_2022-03-07T04:36:21Z_p21759801_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "AFL Mini",
+      "episodeTitle": "Round 18: Brisbane Lions v Essendon Bombers",
+      "description": "Condensed highlights, reaction and analysis of the biggest sport stories from Australia and around the world.",
       "scheduledDate": 1793056200000,
       "duration": 20,
       "parentalRating": "",
       "programType": "Sports non-event",
       "genre": "Australian rules football",
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-10-26_SH042238570000_104529301600_2022-03-07T04:36:21Z_p21759801_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "The W Debrief",
+      "episodeTitle": "",
+      "description": "Experts review the week's major headlines, stand-out matches and biggest talking points from around the AFLW competition, delivering comprehensive analysis and discussion on women's football.",
+      "scheduledDate": 1793056800000,
+      "duration": 45,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Australian rules football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-10-26_SH060384060000_112853610422_2025-10-15T06:35:17Z_p31174602_b_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "The W Debrief",
@@ -83,6 +127,17 @@
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-10-27_SH028096630000_102142641835_2018-11-27T09:00:00Z_p14740563_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
+      "programTitle": "Classic AFL",
+      "episodeTitle": "1999 Round 1 Geelong v North Melbourne",
+      "description": "Condensed highlights and a look back at full replays of some of the greatest encounters from the Australian Football League.",
+      "scheduledDate": 1793059500000,
+      "duration": 121,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Classic sport event, Australian rules football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-10-27_SH028096630000_102142641835_2018-11-27T09:00:00Z_p14740563_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
       "programTitle": "AFL Women's Premiership",
       "episodeTitle": "Hawthorn Hawks vs Essendon Bombers",
       "description": "Live from the Kennedy Community Centre. Bounce time: 3:05pm AEDT.",
@@ -94,11 +149,22 @@
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-10-27_EP029247970835_114462122138_2026-07-24T02:52:04Z_GNLZZGG003CC6RP/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
+      "programTitle": "AFL Women's Premiership",
+      "episodeTitle": "Hawthorn Hawks vs Essendon Bombers",
+      "description": "Live from the Kennedy Community Centre. Bounce time: 3:05pm AEDT.",
+      "scheduledDate": 1793066760000,
+      "duration": 84,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Australian rules football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-10-27_EP029247970835_114462122138_2026-07-24T02:52:04Z_GNLZZGG003CC6RP/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
       "programTitle": "AFL Mini",
       "episodeTitle": "Round 18: Western Bulldogs v West Coast Eagles",
       "description": "Condensed highlights, reaction and analysis of the biggest sport stories from Australia and around the world.",
       "scheduledDate": 1793071800000,
-      "duration": 20,
+      "duration": 21,
       "parentalRating": "",
       "programType": "Sports non-event",
       "genre": "Australian rules football",
@@ -109,6 +175,17 @@
       "episodeTitle": "Round 18: Melbourne Demons v Richmond Tigers",
       "description": "Condensed highlights, reaction and analysis of the biggest sport stories from Australia and around the world.",
       "scheduledDate": 1793073000000,
+      "duration": 20,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Australian rules football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-10-27_SH042238570000_104529301600_2022-03-07T04:36:21Z_p21759801_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "AFL Mini",
+      "episodeTitle": "Round 18: Melbourne Demons v Richmond Tigers",
+      "description": "Condensed highlights, reaction and analysis of the biggest sport stories from Australia and around the world.",
+      "scheduledDate": 1793073060000,
       "duration": 20,
       "parentalRating": "",
       "programType": "Sports non-event",
@@ -128,10 +205,21 @@
     },
     {
       "programTitle": "AFL Mini",
+      "episodeTitle": "Round 18: Brisbane Lions v Essendon Bombers",
+      "description": "Condensed highlights, reaction and analysis of the biggest sport stories from Australia and around the world.",
+      "scheduledDate": 1793074260000,
+      "duration": 19,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Australian rules football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-10-27_SH042238570000_104529301600_2022-03-07T04:36:21Z_p21759801_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "AFL Mini",
       "episodeTitle": "Round 19: Geelong Cats v St Kilda Saints",
       "description": "Condensed highlights, reaction and analysis of the biggest sport stories from Australia and around the world.",
       "scheduledDate": 1793075400000,
-      "duration": 20,
+      "duration": 21,
       "parentalRating": "",
       "programType": "Sports non-event",
       "genre": "Australian rules football",
@@ -150,6 +238,17 @@
     },
     {
       "programTitle": "AFL Mini",
+      "episodeTitle": "Round 19: Sydney Swans v Adelaide Crows",
+      "description": "Condensed highlights, reaction and analysis of the biggest sport stories from Australia and around the world.",
+      "scheduledDate": 1793076660000,
+      "duration": 21,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Australian rules football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-10-27_SH042238570000_104529301600_2022-03-07T04:36:21Z_p21759801_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "AFL Mini",
       "episodeTitle": "Round 19: Port Adelaide Power v Fremantle Dockers",
       "description": "Condensed highlights, reaction and analysis of the biggest sport stories from Australia and around the world.",
       "scheduledDate": 1793077800000,
@@ -161,10 +260,21 @@
     },
     {
       "programTitle": "AFL Mini",
+      "episodeTitle": "Round 19: Port Adelaide Power v Fremantle Dockers",
+      "description": "Condensed highlights, reaction and analysis of the biggest sport stories from Australia and around the world.",
+      "scheduledDate": 1793077920000,
+      "duration": 18,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Australian rules football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-10-27_SH042238570000_104529301600_2022-03-07T04:36:21Z_p21759801_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "AFL Mini",
       "episodeTitle": "Round 19: North Melbourne Kangaroos v Melbourne Demons",
       "description": "Condensed highlights, reaction and analysis of the biggest sport stories from Australia and around the world.",
       "scheduledDate": 1793079000000,
-      "duration": 20,
+      "duration": 21,
       "parentalRating": "",
       "programType": "Sports non-event",
       "genre": "Australian rules football",
@@ -183,10 +293,32 @@
     },
     {
       "programTitle": "AFL Mini",
+      "episodeTitle": "Round 19: Collingwood Magpies v Carlton Blues",
+      "description": "Condensed highlights, reaction and analysis of the biggest sport stories from Australia and around the world.",
+      "scheduledDate": 1793080260000,
+      "duration": 20,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Australian rules football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-10-27_SH042238570000_104529301600_2022-03-07T04:36:21Z_p21759801_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "AFL Mini",
       "episodeTitle": "Round 19: West Coast Eagles v Brisbane Lions",
       "description": "Condensed highlights, reaction and analysis of the biggest sport stories from Australia and around the world.",
       "scheduledDate": 1793081400000,
       "duration": 20,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Australian rules football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-10-27_SH042238570000_104529301600_2022-03-07T04:36:21Z_p21759801_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "AFL Mini",
+      "episodeTitle": "Round 19: West Coast Eagles v Brisbane Lions",
+      "description": "Condensed highlights, reaction and analysis of the biggest sport stories from Australia and around the world.",
+      "scheduledDate": 1793081460000,
+      "duration": 19,
       "parentalRating": "",
       "programType": "Sports non-event",
       "genre": "Australian rules football",
@@ -285,7 +417,7 @@
       "episodeTitle": "",
       "description": "Experts review the week's major headlines, stand-out matches and biggest talking points from around the AFLW competition, delivering comprehensive analysis and discussion on women's football.",
       "scheduledDate": 1793122200000,
-      "duration": 30,
+      "duration": 45,
       "parentalRating": "",
       "programType": "Sports non-event",
       "genre": "Australian rules football",
@@ -297,6 +429,17 @@
       "description": "Condensed highlights, reaction and analysis of the biggest sport stories from Australia and around the world.",
       "scheduledDate": 1793124000000,
       "duration": 150,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Australian rules football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-10-27_SH042238570000_104529301600_2022-03-07T04:36:21Z_p21759801_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "AFL Mini",
+      "episodeTitle": "Round 3: Collingwood Magpies V Greater Western Sydney Giants",
+      "description": "Condensed highlights, reaction and analysis of the biggest sport stories from Australia and around the world.",
+      "scheduledDate": 1793124900000,
+      "duration": 145,
       "parentalRating": "",
       "programType": "Sports non-event",
       "genre": "Australian rules football",

@@ -1,0 +1,31 @@
+{
+  "channel": "FSS",
+  "date": "2026-10-29",
+  "source": "kayo",
+  "fetchedAt": 1793008171628,
+  "fetchedAtIST": "26/10/2026, 3:19:31 pm",
+  "events": [
+    {
+      "programTitle": "The Cut",
+      "episodeTitle": "",
+      "description": "An insightful exploration of player profiles and a preview of various PGA Tour tournaments around the world.",
+      "scheduledDate": 1793212200000,
+      "duration": 90,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-10-28_SH034181850000_114549972877_2022-01-21T12:57:01Z_p17650562_i_h8_al/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "To Be Announced",
+      "episodeTitle": "",
+      "description": "The programming for this time slot has yet to be determined and is being confirmed by the broadcast channel.",
+      "scheduledDate": 1793217600000,
+      "duration": 240,
+      "parentalRating": "",
+      "programType": "TBA",
+      "genre": "Special, Entertainment",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-10-28_SH027575020000_113966071598_2021-11-15T14:36:19Z_p514472_b_h8_dp/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    }
+  ]
+}

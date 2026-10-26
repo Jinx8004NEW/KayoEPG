@@ -2,8 +2,8 @@
   "channel": "FSP",
   "date": "2026-10-26",
   "source": "kayo",
-  "fetchedAt": 1792985891413,
-  "fetchedAtIST": "26/10/2026, 9:08:11 am",
+  "fetchedAt": 1793008171618,
+  "fetchedAtIST": "26/10/2026, 3:19:31 pm",
   "events": [
     {
       "programTitle": "To Be Announced",
@@ -171,6 +171,17 @@
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-10-26_SH031729430000_109921619660_2019-04-15T09:20:14Z_p16641707_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
+      "programTitle": "Supercars Trackside",
+      "episodeTitle": "Boost Mobile Gold Coast 500",
+      "description": "All the action from the track and down in pit lane, with exclusive insight from experts and former supercar drivers.",
+      "scheduledDate": 1793006640000,
+      "duration": 36,
+      "parentalRating": "",
+      "programType": "Series",
+      "genre": "Sports talk, Motorsports",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-10-26_SH031729430000_109921619660_2019-04-15T09:20:14Z_p16641707_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
       "programTitle": "Constellation Cup",
       "episodeTitle": "Game 3: Australia vs. New Zealand",
       "description": "Coverage of matches from the Constellation Cup, contested by the Australian and New Zealand national netball teams.",
@@ -215,15 +226,15 @@
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-10-26_SH030600890000_113942151197_2018-12-06T10:40:00Z_p16032357_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "Netball",
-      "episodeTitle": "Constellation Cup: Mini Match - New Zealand v Australia, Game 2",
-      "description": "Highlights from global netball battles as teams worldwide vie for supremacy on the court.",
+      "programTitle": "MotoGP Racing",
+      "episodeTitle": "Grand Prix of Australia, Sprint Race",
+      "description": "From Phillip Island Grand Prix Circuit in Phillip Island, Victoria, Australia.",
       "scheduledDate": 1793032200000,
       "duration": 30,
       "parentalRating": "",
       "programType": "Sports event",
-      "genre": "Classic sport event, Netball, Entertainment",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-10-26_SH042569760000_102008171570_2020-07-20T11:20:11Z_p8474652_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "genre": "Motorcycle racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-10-26_EP028104881593_114510137087_2026-10-20T09:21:29Z_GNLZZGG003SQ9D9/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "NASCAR Cup Racing Series",
