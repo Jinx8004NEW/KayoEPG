@@ -1,137 +1,27 @@
 {
   "channel": "FSP",
-  "date": "2026-10-26",
+  "date": "2026-10-27",
   "source": "kayo",
-  "fetchedAt": 1793038956476,
-  "fetchedAtIST": "26/10/2026, 11:52:36 pm",
+  "fetchedAt": 1793057783730,
+  "fetchedAtIST": "27/10/2026, 5:06:23 am",
   "events": [
-    {
-      "programTitle": "To Be Announced",
-      "episodeTitle": "",
-      "description": "The programming for this time slot has yet to be determined and is being confirmed by the broadcast channel.",
-      "scheduledDate": 1792958400000,
-      "duration": 240,
-      "parentalRating": "",
-      "programType": "TBA",
-      "genre": "Special, Entertainment",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-10-25_SH027575020000_113966071598_2021-11-15T14:36:19Z_p514472_b_h8_dp/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
-    {
-      "programTitle": "Darts",
-      "episodeTitle": "PDC ANZ Premier League: Week 5",
-      "description": "Covering of all the action from darts events around the world.",
-      "scheduledDate": 1792965600000,
-      "duration": 120,
-      "parentalRating": "",
-      "programType": "Sports event",
-      "genre": "Darts",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-10-25_SH032967320000_109954612423_2024-10-04T13:14:55Z_p644283_i_h8_ah/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
-    {
-      "programTitle": "Netball",
-      "episodeTitle": "Constellation Cup: Mini Match - New Zealand v Australia, Game 1",
-      "description": "Highlights from global netball battles as teams worldwide vie for supremacy on the court.",
-      "scheduledDate": 1792972800000,
-      "duration": 20,
-      "parentalRating": "",
-      "programType": "Sports event",
-      "genre": "Classic sport event, Netball, Entertainment",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-10-26_SH042569760000_102008171570_2020-07-20T11:20:11Z_p8474652_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
-    {
-      "programTitle": "Netball",
-      "episodeTitle": "Constellation Cup: Mini Match - New Zealand v Australia, Game 2",
-      "description": "Highlights from global netball battles as teams worldwide vie for supremacy on the court.",
-      "scheduledDate": 1792974000000,
-      "duration": 20,
-      "parentalRating": "",
-      "programType": "Sports event",
-      "genre": "Classic sport event, Netball, Entertainment",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-10-26_SH042569760000_102008171570_2020-07-20T11:20:11Z_p8474652_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
-    {
-      "programTitle": "Constellation Cup",
-      "episodeTitle": "Game 3: Australia vs. New Zealand",
-      "description": "Coverage of matches from the Constellation Cup, contested by the Australian and New Zealand national netball teams.",
-      "scheduledDate": 1792975200000,
-      "duration": 20,
-      "parentalRating": "",
-      "programType": "Sports event",
-      "genre": "Netball",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-10-26_SH030600890000_113942151197_2018-12-06T10:40:00Z_p16032357_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
-    {
-      "programTitle": "Getting a Round In",
-      "episodeTitle": "",
-      "description": "Australian professional golfer, Paul Gow hosts celebrities as his playing partners who share his love for the game of golf.",
-      "scheduledDate": 1792976400000,
-      "duration": 30,
-      "parentalRating": "",
-      "programType": "Series",
-      "genre": "Golf, Interview",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-10-26_SH048121120000_110998856207_2023-07-18T05:56:16Z_p25221374_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
     {
       "programTitle": "MotoGP Racing",
       "episodeTitle": "Grand Prix of Australia, Sprint Race",
       "description": "From Phillip Island Grand Prix Circuit in Phillip Island, Victoria, Australia.",
-      "scheduledDate": 1792978200000,
+      "scheduledDate": 1793053800000,
       "duration": 30,
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Motorcycle racing",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-10-26_EP028104881593_114510137087_2026-10-20T09:21:29Z_GNLZZGG003SQ9D9/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
-    {
-      "programTitle": "MotoGP Racing",
-      "episodeTitle": "Grand Prix of Australia",
-      "description": "From Phillip Island Grand Prix Circuit in Phillip Island, Victoria, Australia.",
-      "scheduledDate": 1792980000000,
-      "duration": 60,
-      "parentalRating": "",
-      "programType": "Sports event",
-      "genre": "Motorcycle racing",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-10-26_EP028104881590_114604659576_2026-10-20T03:21:30Z_GNLZZGG003SL21Z/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
-    {
-      "programTitle": "Constellation Cup",
-      "episodeTitle": "Game 3: Australia vs. New Zealand",
-      "description": "Coverage of matches from the Constellation Cup, contested by the Australian and New Zealand national netball teams.",
-      "scheduledDate": 1792983600000,
-      "duration": 120,
-      "parentalRating": "",
-      "programType": "Sports event",
-      "genre": "Netball",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-10-26_SH030600890000_113942151197_2018-12-06T10:40:00Z_p16032357_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
-    {
-      "programTitle": "International Brawling Championship",
-      "episodeTitle": "",
-      "description": "Step inside the raw and uncompromising world of underground fight culture.",
-      "scheduledDate": 1792990800000,
-      "duration": 60,
-      "parentalRating": "",
-      "programType": "Sports non-event",
-      "genre": "Mixed martial arts",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-10-26_SH065139570000_114231899149_2026-10-16T21:52:11Z_p33539447_i_h8_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
-    {
-      "programTitle": "52 Super Series",
-      "episodeTitle": "",
-      "description": "Teams from all over the world compete with each other in the 52 Super Series, a monohull yacht racing competition, to clinch the number one spot.",
-      "scheduledDate": 1792994400000,
-      "duration": 30,
-      "parentalRating": "",
-      "programType": "Series",
-      "genre": "Sailing, Watersports",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-10-26_SH064993470000_112455686540_2023-03-16T14:17:12Z_p23293654_i_h10_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-10-26_EP028104881593_114653233525_2026-10-26T13:22:29Z_GNLZZGG003V0PK8/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "Pro Bull Riding",
       "episodeTitle": "",
       "description": "The best bull riders in Australia and the world compete for prize money on the professional bull riding circuit.",
-      "scheduledDate": 1792996200000,
-      "duration": 50,
+      "scheduledDate": 1793055600000,
+      "duration": 60,
       "parentalRating": "",
       "programType": "Sports non-event",
       "genre": "Bull riding",
@@ -141,122 +31,144 @@
       "programTitle": "Supercars Championship",
       "episodeTitle": "Gold Coast 500 - Day 1 Pre Race and Race",
       "description": "Supercars compete in a series across Australia and New Zealand.",
-      "scheduledDate": 1792999200000,
+      "scheduledDate": 1793059200000,
       "duration": 60,
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Auto racing",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-10-26_EP027326761263_114396298294_2026-10-14T11:22:46Z_GNLZZGG003S3FEZ/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-10-27_EP027326761263_114396298294_2026-10-14T11:22:46Z_GNLZZGG003S3FEZ/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "Supercars Championship",
       "episodeTitle": "Gold Coast 500 - Day 2 Pre Race and Race",
       "description": "Supercars compete in a series across Australia and New Zealand.",
-      "scheduledDate": 1793002800000,
+      "scheduledDate": 1793062800000,
       "duration": 60,
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Auto racing",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-10-26_EP027326761265_114396298386_2026-10-16T03:21:21Z_GNLZZGG003S9CH8/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
-    {
-      "programTitle": "Supercars Trackside",
-      "episodeTitle": "Boost Mobile Gold Coast 500",
-      "description": "All the action from the track and down in pit lane, with exclusive insight from experts and former supercar drivers.",
-      "scheduledDate": 1793006400000,
-      "duration": 40,
-      "parentalRating": "",
-      "programType": "Series",
-      "genre": "Sports talk, Motorsports",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-10-26_SH031729430000_109921619660_2019-04-15T09:20:14Z_p16641707_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
-    {
-      "programTitle": "Supercars Trackside",
-      "episodeTitle": "Boost Mobile Gold Coast 500",
-      "description": "All the action from the track and down in pit lane, with exclusive insight from experts and former supercar drivers.",
-      "scheduledDate": 1793006640000,
-      "duration": 36,
-      "parentalRating": "",
-      "programType": "Series",
-      "genre": "Sports talk, Motorsports",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-10-26_SH031729430000_109921619660_2019-04-15T09:20:14Z_p16641707_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-10-27_EP027326761265_114396298386_2026-10-16T03:21:21Z_GNLZZGG003S9CH8/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "Constellation Cup",
       "episodeTitle": "Game 3: Australia vs. New Zealand",
       "description": "Coverage of matches from the Constellation Cup, contested by the Australian and New Zealand national netball teams.",
-      "scheduledDate": 1793008800000,
-      "duration": 120,
-      "parentalRating": "",
-      "programType": "Sports event",
-      "genre": "Netball",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-10-26_SH030600890000_113942151197_2018-12-06T10:40:00Z_p16032357_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
-    {
-      "programTitle": "NASCAR Cup Racing Series",
-      "episodeTitle": "Talladega Superspeedway",
-      "description": "Coverage of the NASCAR Cup Series, professional stock car racing in the United States.",
-      "scheduledDate": 1793016000000,
-      "duration": 60,
-      "parentalRating": "",
-      "programType": "Sports non-event",
-      "genre": "Motorsports, Auto racing",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-10-26_SH056052770000_110216247140_2024-02-28T07:23:12Z_p8599472_i_h10_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
-    {
-      "programTitle": "Constellation Cup",
-      "episodeTitle": "Game 1: New Zealand vs. Australia",
-      "description": "From Spark Arena in Auckland, Auckland, New Zealand.",
-      "scheduledDate": 1793019600000,
-      "duration": 120,
-      "parentalRating": "",
-      "programType": "Sports event",
-      "genre": "Netball",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-10-26_SH030600890000_113942151197_2018-12-06T10:40:00Z_p16032357_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
-    {
-      "programTitle": "Constellation Cup",
-      "episodeTitle": "Game 2: New Zealand vs. Australia",
-      "description": "From Wolfbrook Arena in Christchurch, Canterbury, New Zealand.",
-      "scheduledDate": 1793026800000,
+      "scheduledDate": 1793066400000,
       "duration": 90,
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Netball",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-10-26_SH030600890000_113942151197_2018-12-06T10:40:00Z_p16032357_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-10-27_SH030600890000_113942151197_2018-12-06T10:40:00Z_p16032357_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "MotoGP Racing",
       "episodeTitle": "Grand Prix of Australia, Sprint Race",
       "description": "From Phillip Island Grand Prix Circuit in Phillip Island, Victoria, Australia.",
-      "scheduledDate": 1793032200000,
+      "scheduledDate": 1793071800000,
       "duration": 30,
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Motorcycle racing",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-10-26_EP028104881593_114510137087_2026-10-20T09:21:29Z_GNLZZGG003SQ9D9/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-10-27_EP028104881593_114653233525_2026-10-26T13:22:29Z_GNLZZGG003V0PK8/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "NASCAR Cup Racing Series",
       "episodeTitle": "Talladega Superspeedway",
       "description": "Coverage of the NASCAR Cup Series, professional stock car racing in the United States.",
-      "scheduledDate": 1793034000000,
+      "scheduledDate": 1793073600000,
       "duration": 60,
       "parentalRating": "",
       "programType": "Sports non-event",
       "genre": "Motorsports, Auto racing",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-10-26_SH056052770000_110216247140_2024-02-28T07:23:12Z_p8599472_i_h10_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-10-27_SH056052770000_110216247140_2024-02-28T07:23:12Z_p8599472_i_h10_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "Pool",
-      "episodeTitle": "Ultimate Pool League: Week 3",
-      "description": "Action from the world of pool.",
-      "scheduledDate": 1793037600000,
-      "duration": 270,
+      "programTitle": "International Brawling Championship",
+      "episodeTitle": "Highlights: IBC01",
+      "description": "Step inside the raw and uncompromising world of underground fight culture.",
+      "scheduledDate": 1793077200000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Mixed martial arts",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-10-27_SH065139570000_114231899149_2026-10-16T21:52:11Z_p33539447_i_h8_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Fox Cricket Pre Game",
+      "episodeTitle": "New Zealand v India, 3rd T20I",
+      "description": "The team present an extensive preview of all the action to come with the latest news, the best analysis, entertainment and interviews.",
+      "scheduledDate": 1793080800000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Cricket",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-10-27_SH035786310000_111887034140_2025-11-20T06:27:30Z_p18624259_i_h10_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "T20 Cricket",
+      "episodeTitle": "New Zealand vs India",
+      "description": "Hagley Oval",
+      "scheduledDate": 1793084400000,
+      "duration": 240,
       "parentalRating": "",
       "programType": "Sports event",
-      "genre": "Billiards",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-10-26_SH038615030000_100974382724_2020-08-12T11:50:16Z_p466719_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "genre": "Cricket",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-10-27_EP029805000660_114651080431_2026-10-12T17:01:35Z_GNLZZGG003RLLFT/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Constellation Cup",
+      "episodeTitle": "Game 3: Australia vs. New Zealand",
+      "description": "Coverage of matches from the Constellation Cup, contested by the Australian and New Zealand national netball teams.",
+      "scheduledDate": 1793098800000,
+      "duration": 90,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Netball",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-10-27_SH030600890000_113942151197_2018-12-06T10:40:00Z_p16032357_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Formula 1",
+      "episodeTitle": "United States Grand Prix",
+      "description": "From Circuit of the Americas in Austin, Texas.",
+      "scheduledDate": 1793104200000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Auto racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-10-27_EP027326820882_114627630128_2026-10-25T21:20:56Z_GNLZZGG003TLST5/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NASCAR Cup Racing Series",
+      "episodeTitle": "Talladega Superspeedway",
+      "description": "Coverage of the NASCAR Cup Series, professional stock car racing in the United States.",
+      "scheduledDate": 1793106000000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Motorsports, Auto racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-10-27_SH056052770000_110216247140_2024-02-28T07:23:12Z_p8599472_i_h10_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Supercars Mini",
+      "episodeTitle": "Repco Bathurst 1000",
+      "description": "Australia's premier touring car racing competition, known for high-powered V8 machines and intense, close-quarters racing.",
+      "scheduledDate": 1793109600000,
+      "duration": 20,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Classic sport event, Auto racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-10-27_SH035786470000_105377021933_2020-08-20T08:30:31Z_p18624449_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "T20 Cricket",
+      "episodeTitle": "Afghanistan at Zimbabwe",
+      "description": "Coverage of Twenty20 cricket matches contested by international teams, featuring all the exciting action.",
+      "scheduledDate": 1793110800000,
+      "duration": 250,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Cricket",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-10-27_EP029805000662_114615508728_2026-10-23T16:58:05Z_GNLZZGG003TNJ0Y/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     }
   ]
 }
