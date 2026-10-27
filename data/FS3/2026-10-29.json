@@ -2,8 +2,8 @@
   "channel": "FS3",
   "date": "2026-10-29",
   "source": "kayo",
-  "fetchedAt": 1793073757964,
-  "fetchedAtIST": "27/10/2026, 9:32:37 am",
+  "fetchedAt": 1793109851450,
+  "fetchedAtIST": "27/10/2026, 7:34:11 pm",
   "events": [
     {
       "programTitle": "LPGA Tour Golf",
@@ -59,6 +59,94 @@
       "programType": "Sports event",
       "genre": "Golf",
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-10-28_EP031583890614_114445225101_2025-09-26T18:14:40Z_p28888024_b_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "LPGA Tour Golf",
+      "episodeTitle": "Maybank Championship, First Round",
+      "description": "From TPC Kuala Lumpur in Kuala Lumpur, Malaysia.",
+      "scheduledDate": 1793237400000,
+      "duration": 300,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-10-29_EP031583890619_114654532184_2025-09-22T17:54:13Z_p28888027_b_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "PGA Tour Champions Learning Center",
+      "episodeTitle": "",
+      "description": "Tips and tricks from the legends of the game.",
+      "scheduledDate": 1793255400000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-10-29_SH037817400000_112150007536_2022-11-29T05:17:24Z_p12531845_i_h10_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "PGA Tour Highlights",
+      "episodeTitle": "Butterfield Bermuda Championship",
+      "description": "Highlights from PGA Tour events featuring the world's best golfers in action. Hosts track the progression of the game while reviewing the changes in technologies and techniques.",
+      "scheduledDate": 1793257200000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Classic sport event, Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-10-29_SH032355110000_114391477483_2023-03-16T12:30:24Z_p9060599_i_h10_ae/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "WBBL Pre-Game",
+      "episodeTitle": "Melbourne Stars v Hobart Hurricanes",
+      "description": "",
+      "scheduledDate": 1793260800000,
+      "duration": 10,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Cricket",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-10-29_SH053558810000_114694904346_2026-10-27T07:37:10Z_p28580679_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Women's Big Bash League",
+      "episodeTitle": "Melbourne Stars vs Hobart Hurricanes",
+      "description": "Live from Junction Oval. Start time: 7:10pm AEDT.",
+      "scheduledDate": 1793261400000,
+      "duration": 200,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Cricket",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-10-29_EP029371060380_114655227590_2026-10-20T20:38:08Z_GNLZZGG003T1JPW/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "DP World Tour Golf",
+      "episodeTitle": "HotelPlanner Tour Grand Final, First Round",
+      "description": "Golfing action from the DP World Tour.",
+      "scheduledDate": 1793273400000,
+      "duration": 270,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-10-29_EP040914080729_114690173361_2026-10-27T03:21:54Z_GNLZZGG003V5D3Z/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "DP World Tour Golf",
+      "episodeTitle": "Genesis Championship, Final Round",
+      "description": "From Woo Jeong Hills Country Club in Cheonan, Chungcheongnamdo, Korea, Republic of.",
+      "scheduledDate": 1793289600000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-10-29_EP040914080728_114645558384_2026-10-23T19:22:01Z_GNLZZGG003TP8N1/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "PGA Tour Golf",
+      "episodeTitle": "Bermuda Championship, Final Round",
+      "description": "From Port Royal Golf Course in Southampton, Bermuda.",
+      "scheduledDate": 1793296800000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-10-29_EP030899370155_114440829698_2020-09-18T20:50:13Z_p18749278_b_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     }
   ]
 }
