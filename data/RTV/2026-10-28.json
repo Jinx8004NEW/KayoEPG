@@ -2,8 +2,8 @@
   "channel": "RTV",
   "date": "2026-10-28",
   "source": "kayo",
-  "fetchedAt": 1793057783762,
-  "fetchedAtIST": "27/10/2026, 5:06:23 am",
+  "fetchedAt": 1793073757993,
+  "fetchedAtIST": "27/10/2026, 9:32:37 am",
   "events": [
     {
       "programTitle": "Flashback",
@@ -20,7 +20,7 @@
       "programTitle": "Get on Blackbook",
       "episodeTitle": "",
       "description": "The team dissect the weekend's racing, covering the horses to follow and the big stories.",
-      "scheduledDate": 1793130300000,
+      "scheduledDate": 1793128500000,
       "duration": 30,
       "parentalRating": "",
       "programType": "Sports non-event",
@@ -31,12 +31,34 @@
       "programTitle": "Foxcatcher: Pandora's Fox",
       "episodeTitle": "",
       "description": "Jules Vallance, Clint Hutchison and Nic Ashman share their take on the latest races and horses to follow.",
-      "scheduledDate": 1793132100000,
+      "scheduledDate": 1793130300000,
       "duration": 30,
       "parentalRating": "",
       "programType": "Sports non-event",
       "genre": "Special, Horse racing",
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/148460_2026-10-27_SH059379340000_109835672392_2025-07-28T03:24:35Z_p30754861_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "From the Trainers' Tower",
+      "episodeTitle": "",
+      "description": "Trainers discuss key runners ahead of the weekend's feature racing.",
+      "scheduledDate": 1793132100000,
+      "duration": 15,
+      "parentalRating": "",
+      "programType": "Series",
+      "genre": "Sports talk, Horse racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/148460_2026-10-27_SH052658770000_101955118541_2024-09-04T07:53:49Z_p28142568_i_h11_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Wednesday Racenet Raceday",
+      "episodeTitle": "",
+      "description": "Preview the Wednesday Victorian race meeting as well as Hong Kong.",
+      "scheduledDate": 1793133000000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Series",
+      "genre": "Horse racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/148460_2026-10-27_SH066451550000_114542899791_2026-10-23T13:35:33Z_p34281369_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "From the Trainers' Tower",
@@ -72,15 +94,26 @@
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/148460_2026-10-27_SH059999130000_102449579162_2025-10-15T06:41:06Z_p30993149_b_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "Wednesday Racenet Raceday",
+      "programTitle": "From the Trainers' Tower",
       "episodeTitle": "",
-      "description": "Preview the Wednesday Victorian race meeting as well as Hong Kong.",
+      "description": "Trainers discuss key runners ahead of the weekend's feature racing.",
       "scheduledDate": 1793149200000,
-      "duration": 30,
+      "duration": 15,
+      "parentalRating": "",
+      "programType": "Series",
+      "genre": "Sports talk, Horse racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/148460_2026-10-28_SH052658770000_101955118541_2024-09-04T07:53:49Z_p28142568_i_h11_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Racing Live",
+      "episodeTitle": "",
+      "description": "Features comprehensive coverage of some of the top horse racing events taking place in Australia and Hong Kong.",
+      "scheduledDate": 1793150100000,
+      "duration": 345,
       "parentalRating": "",
       "programType": "Series",
       "genre": "Horse racing",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/148460_2026-10-28_SH066451550000_114542899791_2026-10-23T13:35:33Z_p34281369_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/148460_2026-10-28_SH029317280000_112642301077_2019-10-09T21:00:41Z_p15322312_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "Racing Live",
