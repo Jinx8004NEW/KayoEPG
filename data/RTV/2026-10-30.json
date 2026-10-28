@@ -2,8 +2,8 @@
   "channel": "RTV",
   "date": "2026-10-30",
   "source": "kayo",
-  "fetchedAt": 1793199249320,
-  "fetchedAtIST": "28/10/2026, 8:24:09 pm",
+  "fetchedAt": 1793220589807,
+  "fetchedAtIST": "29/10/2026, 2:19:49 am",
   "events": [
     {
       "programTitle": "The Trial Show",
@@ -22,7 +22,7 @@
       "description": "",
       "scheduledDate": 1793300400000,
       "duration": 30,
-      "parentalRating": "NC",
+      "parentalRating": "",
       "programType": "Series",
       "genre": "Other",
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/148460_2026-10-29_SH066761490000_114520345729_2026-10-23T06:51:22Z_p34431539_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
@@ -33,7 +33,7 @@
       "description": "A preview of all the big races as James Jordan and Matt Campbell examine racing through a South Australian lens.",
       "scheduledDate": 1793302200000,
       "duration": 30,
-      "parentalRating": "NC",
+      "parentalRating": "",
       "programType": "Sports non-event",
       "genre": "Sports talk, Horse racing",
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/148460_2026-10-29_SH038656280000_110220103348_2025-07-15T02:53:41Z_p19973783_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
@@ -44,7 +44,7 @@
       "description": "Host Matt Hill and a panel of experts discuss the fixed betting markets and share their picks for upcoming race meetings.",
       "scheduledDate": 1793304000000,
       "duration": 60,
-      "parentalRating": "NC",
+      "parentalRating": "",
       "programType": "Sports non-event",
       "genre": "Sports talk, Horse racing",
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/148460_2026-10-29_SH029304330000_114562408913_2026-02-03T05:26:52Z_p15316392_i_h10_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
@@ -55,7 +55,7 @@
       "description": "Racing expert Gareth Hall breaks down race news and form, providing key insights.",
       "scheduledDate": 1793307600000,
       "duration": 170,
-      "parentalRating": "NC",
+      "parentalRating": "",
       "programType": "Series",
       "genre": "Horse racing",
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/148460_2026-10-29_SH059999130000_102449579162_2025-10-15T06:41:06Z_p30993149_b_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
@@ -66,7 +66,7 @@
       "description": "Racing expert Gareth Hall breaks down race news and form, providing key insights.",
       "scheduledDate": 1793317800000,
       "duration": 70,
-      "parentalRating": "NC",
+      "parentalRating": "",
       "programType": "Series",
       "genre": "Horse racing",
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/148460_2026-10-29_SH059999130000_102449579162_2025-10-15T06:41:06Z_p30993149_b_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
@@ -77,21 +77,21 @@
       "description": "",
       "scheduledDate": 1793322000000,
       "duration": 30,
-      "parentalRating": "NC",
+      "parentalRating": "",
       "programType": "Series",
       "genre": "Horse racing",
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/148460_2026-10-30_SH064853330000_114532508141_2026-10-23T09:47:56Z_p33391496_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "Melbourne Cup Carnival 2025",
+      "programTitle": "Melbourne Cup Tales",
       "episodeTitle": "",
-      "description": "Coverage of the 2025 Lexus Melbourne Cup Carnival from Flemington Racecourse, with horse racing action and expert analysis.",
+      "description": "Neil Kearney takes a look back on some of the most unforgettable moments from the Melbourne Cup, which defined the day as the race that stops the nation.",
       "scheduledDate": 1793323800000,
       "duration": 60,
-      "parentalRating": "NC",
+      "parentalRating": "",
       "programType": "Sports non-event",
-      "genre": "Horse racing, Sports talk",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/148460_2026-10-30_SH061405260000_98780183419_2025-11-03T23:04:26Z_p31617834_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "genre": "Horse racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/148460_2026-10-30_SH033508620000_113858854492_2019-10-30T22:21:02Z_p17546176_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "Racing Live",
@@ -99,7 +99,7 @@
       "description": "Features comprehensive coverage of some of the top horse racing events taking place in Australia and Hong Kong.",
       "scheduledDate": 1793327400000,
       "duration": 255,
-      "parentalRating": "NC",
+      "parentalRating": "",
       "programType": "Series",
       "genre": "Horse racing",
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/148460_2026-10-30_SH029317280000_112642301077_2019-10-09T21:00:41Z_p15322312_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
@@ -110,7 +110,7 @@
       "description": "Coverage of horse racing events held throughout Australia and in Hong Kong, as well as analytics and in-depth reviews from the track.",
       "scheduledDate": 1793342700000,
       "duration": 15,
-      "parentalRating": "NC",
+      "parentalRating": "",
       "programType": "Sports non-event",
       "genre": "Horse racing",
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/148460_2026-10-30_SH029437720000_107971181386_2019-10-09T21:40:26Z_p15391316_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
@@ -121,7 +121,7 @@
       "description": "Coverage of horse racing events held throughout Australia and in Hong Kong, as well as analytics and in-depth reviews from the track.",
       "scheduledDate": 1793343600000,
       "duration": 210,
-      "parentalRating": "NC",
+      "parentalRating": "",
       "programType": "Sports non-event",
       "genre": "Horse racing",
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/148460_2026-10-30_SH029437720000_107971181386_2019-10-09T21:40:26Z_p15391316_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
@@ -132,7 +132,7 @@
       "description": "Ben Asgari previews and examines the day's racing, featuring speed maps and replays for every race on the card.",
       "scheduledDate": 1793356200000,
       "duration": 30,
-      "parentalRating": "NC",
+      "parentalRating": "",
       "programType": "Series",
       "genre": "Sports talk",
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/148460_2026-10-30_SH032528360000_103465362616_2019-10-09T21:40:24Z_p17053183_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
@@ -143,7 +143,7 @@
       "description": "Lizzie Jelfs and a panel of experts join in for a lively discussion, previewing the best from the world of racing in Australia.",
       "scheduledDate": 1793358000000,
       "duration": 30,
-      "parentalRating": "NC",
+      "parentalRating": "",
       "programType": "Sports non-event",
       "genre": "Horse racing",
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/148460_2026-10-30_SH049165280000_101984695699_2024-08-28T07:33:42Z_p25994896_i_h11_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
@@ -154,7 +154,7 @@
       "description": "A look back at the action from events on the Australian horse racing calendar with analytics and in-depth reviews from the track.",
       "scheduledDate": 1793359800000,
       "duration": 30,
-      "parentalRating": "NC",
+      "parentalRating": "",
       "programType": "Sports non-event",
       "genre": "Horse racing",
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/148460_2026-10-30_SH029304380000_107969744569_2019-10-09T23:20:18Z_p15316396_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
@@ -165,7 +165,7 @@
       "description": "A panel of experts present a frank and fearless discussion of Hong Kong horse racing, covering the top meets and speaking with jockeys.",
       "scheduledDate": 1793361600000,
       "duration": 60,
-      "parentalRating": "NC",
+      "parentalRating": "",
       "programType": "Sports non-event",
       "genre": "Other",
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/148460_2026-10-30_SH047643540000_99514215733_2023-06-01T05:16:14Z_p24858187_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
@@ -176,21 +176,21 @@
       "description": "A look back at the action from events on the Australian horse racing calendar with analytics and in-depth reviews from the track.",
       "scheduledDate": 1793365200000,
       "duration": 30,
-      "parentalRating": "NC",
+      "parentalRating": "",
       "programType": "Sports non-event",
       "genre": "Horse racing",
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/148460_2026-10-30_SH029304380000_107969744569_2019-10-09T23:20:18Z_p15316396_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "Racing Review",
+      "programTitle": "Raceday Review",
       "episodeTitle": "",
-      "description": "A full recap of racing from Wangaratta.",
+      "description": "A look back at the action from events on the Australian horse racing calendar with analytics and in-depth reviews from the track.",
       "scheduledDate": 1793367000000,
       "duration": 30,
-      "parentalRating": "NC",
+      "parentalRating": "",
       "programType": "Sports non-event",
       "genre": "Horse racing",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/148460_2026-10-30_SH065368570000_114758137867_2022-09-19T11:46:59Z_p872189_i_h8_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/148460_2026-10-30_SH029304380000_107969744569_2019-10-09T23:20:18Z_p15316396_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "Raceday Review",
@@ -198,21 +198,21 @@
       "description": "A look back at the action from events on the Australian horse racing calendar with analytics and in-depth reviews from the track.",
       "scheduledDate": 1793368800000,
       "duration": 30,
-      "parentalRating": "NC",
+      "parentalRating": "",
       "programType": "Sports non-event",
       "genre": "Horse racing",
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/148460_2026-10-30_SH029304380000_107969744569_2019-10-09T23:20:18Z_p15316396_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "Racing Review",
+      "programTitle": "Raceday Review",
       "episodeTitle": "",
-      "description": "A full recap of racing from Wangaratta.",
+      "description": "A look back at the action from events on the Australian horse racing calendar with analytics and in-depth reviews from the track.",
       "scheduledDate": 1793370600000,
       "duration": 30,
-      "parentalRating": "NC",
+      "parentalRating": "",
       "programType": "Sports non-event",
       "genre": "Horse racing",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/148460_2026-10-30_SH065368570000_114758137867_2022-09-19T11:46:59Z_p872189_i_h8_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/148460_2026-10-30_SH029304380000_107969744569_2019-10-09T23:20:18Z_p15316396_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "Raceday Review",
@@ -220,7 +220,7 @@
       "description": "A look back at the action from events on the Australian horse racing calendar with analytics and in-depth reviews from the track.",
       "scheduledDate": 1793372400000,
       "duration": 30,
-      "parentalRating": "NC",
+      "parentalRating": "",
       "programType": "Sports non-event",
       "genre": "Horse racing",
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/148460_2026-10-30_SH029304380000_107969744569_2019-10-09T23:20:18Z_p15316396_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
@@ -231,7 +231,7 @@
       "description": "",
       "scheduledDate": 1793374200000,
       "duration": 30,
-      "parentalRating": "NC",
+      "parentalRating": "",
       "programType": "Series",
       "genre": "Other",
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/148460_2026-10-30_SH066761490000_114520345729_2026-10-23T06:51:22Z_p34431539_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
@@ -242,7 +242,7 @@
       "description": "Lizzie Jelfs and a panel of experts join in for a lively discussion, previewing the best from the world of racing in Australia.",
       "scheduledDate": 1793376000000,
       "duration": 30,
-      "parentalRating": "NC",
+      "parentalRating": "",
       "programType": "Sports non-event",
       "genre": "Horse racing",
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/148460_2026-10-30_SH049165280000_101984695699_2024-08-28T07:33:42Z_p25994896_i_h11_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
@@ -253,7 +253,7 @@
       "description": "Ben Asgari previews and examines the day's racing, featuring speed maps and replays for every race on the card.",
       "scheduledDate": 1793377800000,
       "duration": 30,
-      "parentalRating": "NC",
+      "parentalRating": "",
       "programType": "Series",
       "genre": "Sports talk",
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/148460_2026-10-30_SH032528360000_103465362616_2019-10-09T21:40:24Z_p17053183_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
@@ -264,7 +264,7 @@
       "description": "Host Matt Hill and a panel of experts discuss the fixed betting markets and share their picks for upcoming race meetings.",
       "scheduledDate": 1793379600000,
       "duration": 60,
-      "parentalRating": "NC",
+      "parentalRating": "",
       "programType": "Sports non-event",
       "genre": "Sports talk, Horse racing",
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/148460_2026-10-30_SH029304330000_114562408913_2026-02-03T05:26:52Z_p15316392_i_h10_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
@@ -275,7 +275,7 @@
       "description": "Ben Asgari previews and examines the day's racing, featuring speed maps and replays for every race on the card.",
       "scheduledDate": 1793383200000,
       "duration": 30,
-      "parentalRating": "NC",
+      "parentalRating": "",
       "programType": "Series",
       "genre": "Sports talk",
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/148460_2026-10-30_SH032528360000_103465362616_2019-10-09T21:40:24Z_p17053183_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"

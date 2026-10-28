@@ -2,8 +2,8 @@
   "channel": "ES2",
   "date": "2026-10-30",
   "source": "kayo",
-  "fetchedAt": 1793199249313,
-  "fetchedAtIST": "28/10/2026, 8:24:09 pm",
+  "fetchedAt": 1793220589802,
+  "fetchedAtIST": "29/10/2026, 2:19:49 am",
   "events": [
     {
       "programTitle": "College Football Live",
@@ -113,7 +113,7 @@
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Classic sport event, Football",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/Fallback_LTV_103360/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-10-30_SH036425140000_113987719975_2020-10-08T06:20:45Z_p18931248_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "NBA Minis",
@@ -124,7 +124,7 @@
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Classic sport event, Basketball",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/Fallback_LTV_103360/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-10-30_SH035801090000_106226249671_2020-08-10T05:50:19Z_p18627080_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "ESPN FC",
@@ -157,7 +157,7 @@
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Football",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-10-30_EP064738031066_114758137250_2026-06-20T16:21:56Z_GNLZZGG0036EY01/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-10-30_EP064738031066_114774367737_2026-06-20T16:21:56Z_GNLZZGG0036EY01/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "To Be Announced",
@@ -208,7 +208,7 @@
       "episodeTitle": "",
       "description": "Field Yates hosts ESPN's top Fantasy Football experts for a daily discussion of rankings, injuries and game previews and debates how the biggest NFL stories impact Fantasy Football.",
       "scheduledDate": 1793383200000,
-      "duration": 120,
+      "duration": 60,
       "parentalRating": "",
       "programType": "Podcast",
       "genre": "Sports talk, Football",

@@ -2,8 +2,8 @@
   "channel": "SP2",
   "date": "2026-10-31",
   "source": "kayo",
-  "fetchedAt": 1793199249266,
-  "fetchedAtIST": "28/10/2026, 8:24:09 pm",
+  "fetchedAt": 1793220589765,
+  "fetchedAtIST": "29/10/2026, 2:19:49 am",
   "events": [
     {
       "programTitle": "NRL",
@@ -14,7 +14,7 @@
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Rugby league, Rugby",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-10-30_EP031720961036_113947341942_2026-02-24T16:25:05Z_GNLZZGG002E1G21/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-10-30_EP031720961036_114767186082_2026-02-24T16:25:05Z_GNLZZGG002E1G21/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "NRL",
@@ -25,7 +25,7 @@
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Rugby league, Rugby",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-10-30_EP031720961037_113829734982_2026-02-24T16:29:36Z_GNLZZGG002E199E/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-10-30_EP031720961037_114767185901_2026-02-24T16:29:36Z_GNLZZGG002E199E/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "NRL",
@@ -36,7 +36,7 @@
       "parentalRating": "PG",
       "programType": "Sports event",
       "genre": "Rugby league, Rugby",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-10-30_EP031720961038_113829770884_2026-02-24T16:43:39Z_GNLZZGG002E24SB/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-10-30_EP031720961038_114767186114_2026-02-24T16:43:39Z_GNLZZGG002E24SB/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "NRL",
@@ -47,18 +47,18 @@
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Rugby league, Rugby",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-10-30_EP031720961039_113829835823_2026-02-24T16:23:57Z_GNLZZGG002E3PB3/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-10-30_EP031720961039_114767186198_2026-02-24T16:23:57Z_GNLZZGG002E3PB3/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "F",
+      "programTitle": "Saturday League Kick Off",
       "episodeTitle": "",
-      "description": "",
+      "description": "Denan Kemp and Chad Townsend recap all the action so far and preview the rest of the round.",
       "scheduledDate": 1793401200000,
       "duration": 120,
       "parentalRating": "",
-      "programType": "",
-      "genre": "",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/Fallback_LTV_103065/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "programType": "Sports non-event",
+      "genre": "Rugby league",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-10-30_SH056569940000_114554817762_2026-10-23T18:44:17Z_p29726289_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     }
   ]
 }
