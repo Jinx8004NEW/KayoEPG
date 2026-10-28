@@ -2,8 +2,8 @@
   "channel": "FSS",
   "date": "2026-10-29",
   "source": "kayo",
-  "fetchedAt": 1793161703696,
-  "fetchedAtIST": "28/10/2026, 9:58:23 am",
+  "fetchedAt": 1793199249303,
+  "fetchedAtIST": "28/10/2026, 8:24:09 pm",
   "events": [
     {
       "programTitle": "The Cut",
@@ -30,7 +30,7 @@
     {
       "programTitle": "Getting a Round In",
       "episodeTitle": "Season Review",
-      "description": "Paul Gow reviews the season's highlights as he tallies the scores to crown the champion celebrity.",
+      "description": "Australian professional golfer, Paul Gow hosts celebrities as his playing partners who share his love for the game of golf.",
       "scheduledDate": 1793215800000,
       "duration": 30,
       "parentalRating": "",
@@ -161,14 +161,14 @@
     },
     {
       "programTitle": "Supercars Championship",
-      "episodeTitle": "Gold Coast 500 - Day 2 Pre Race and Race",
-      "description": "Supercars compete in a series across Australia and New Zealand.",
+      "episodeTitle": "Boost Mobile Gold Coast 500: Race 31",
+      "description": "Highlights and replays of classic races of the international motor racing series for Supercars.",
       "scheduledDate": 1793264400000,
       "duration": 60,
       "parentalRating": "",
-      "programType": "Sports event",
+      "programType": "Series",
       "genre": "Auto racing",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-10-29_EP027326761265_114396298386_2026-10-16T03:21:21Z_GNLZZGG003S9CH8/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-10-29_SH035728470000_113699461789_2018-12-17T21:00:00Z_p16276370_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "Supercars Championship",
@@ -248,15 +248,15 @@
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-10-29_SH064540680000_114705362542_2024-03-12T06:43:23Z_p26892822_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "MotoGP Racing",
-      "episodeTitle": "Grand Prix of Australia: Race",
-      "description": "Action from MotoGP racing.",
+      "programTitle": "Sailing",
+      "episodeTitle": "America's Cup, Naples: Preliminary Regatta, Day 3",
+      "description": "Coverage of sailing action from around the world.",
       "scheduledDate": 1793296800000,
-      "duration": 120,
+      "duration": 60,
       "parentalRating": "",
       "programType": "Sports event",
-      "genre": "Family, Classic sport event, Motorcycle racing",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-10-29_SH035853180000_114543852884_2017-10-24T00:43:00Z_p445588_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "genre": "Boat racing, Sailing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-10-29_SH031665920000_114716897174_2022-11-02T07:48:30Z_p481058_i_h10_ae/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     }
   ]
 }

@@ -2,8 +2,8 @@
   "channel": "FS1",
   "date": "2026-10-28",
   "source": "kayo",
-  "fetchedAt": 1793161703673,
-  "fetchedAtIST": "28/10/2026, 9:58:23 am",
+  "fetchedAt": 1793199249256,
+  "fetchedAtIST": "28/10/2026, 8:24:09 pm",
   "events": [
     {
       "programTitle": "Test Cricket",
@@ -384,7 +384,7 @@
       "episodeTitle": "2nd Test: South Africa vs. Australia",
       "description": "Coverage and highlights from international test cricket matches.",
       "scheduledDate": 1793210400000,
-      "duration": 120,
+      "duration": 60,
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Cricket, Classic sport event",

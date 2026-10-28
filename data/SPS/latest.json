@@ -2,8 +2,8 @@
   "channel": "SPS",
   "date": "2026-10-28",
   "source": "kayo",
-  "fetchedAt": 1793161703692,
-  "fetchedAtIST": "28/10/2026, 9:58:23 am",
+  "fetchedAt": 1793199249290,
+  "fetchedAtIST": "28/10/2026, 8:24:09 pm",
   "events": [
     {
       "programTitle": "Formula 1",
@@ -283,7 +283,7 @@
     {
       "programTitle": "Formula 1",
       "episodeTitle": "United States Grand Prix: 3rd Practice",
-      "description": "Features all the action and highlights from Formula 1 racing.",
+      "description": "The third and final Formula 1 practice session during United States Grand Prix weekend at the Circuit of the Americas in Austin, Texas.",
       "scheduledDate": 1793203200000,
       "duration": 60,
       "parentalRating": "",
@@ -307,7 +307,7 @@
       "episodeTitle": "United States Grand Prix, Qualifying",
       "description": "From Circuit of the Americas in Austin, Texas.",
       "scheduledDate": 1793210400000,
-      "duration": 120,
+      "duration": 60,
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Auto racing",

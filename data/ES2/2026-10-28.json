@@ -2,8 +2,8 @@
   "channel": "ES2",
   "date": "2026-10-28",
   "source": "kayo",
-  "fetchedAt": 1793161703703,
-  "fetchedAtIST": "28/10/2026, 9:58:23 am",
+  "fetchedAt": 1793199249312,
+  "fetchedAtIST": "28/10/2026, 8:24:09 pm",
   "events": [
     {
       "programTitle": "The Pat McAfee Show",
@@ -180,6 +180,17 @@
       "programType": "Sports event",
       "genre": "Classic sport event, Basketball",
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-10-28_SH035801090000_106226249671_2020-08-10T05:50:19Z_p18627080_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "In Depth With Graham Bensinger",
+      "episodeTitle": "Charlie Sheen",
+      "description": "Graham travels to Malibu to chat with Charlie Sheen, who reflects on growing up in the spotlight, his own rise to fame and his struggles with addiction. Charlie gives a tour his childhood neighbourhood and looks back on events that shaped his career.",
+      "scheduledDate": 1793197800000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Series",
+      "genre": "Sports talk, Interview",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-10-28_EP033308670162_114746573119_2025-11-04T18:24:51Z_p31516211_e_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "Get Up",
