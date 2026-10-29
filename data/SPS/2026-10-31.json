@@ -2,8 +2,8 @@
   "channel": "SPS",
   "date": "2026-10-31",
   "source": "kayo",
-  "fetchedAt": 1793220589785,
-  "fetchedAtIST": "29/10/2026, 2:19:49 am",
+  "fetchedAt": 1793249107626,
+  "fetchedAtIST": "29/10/2026, 10:15:07 am",
   "events": [
     {
       "programTitle": "The F1 Show",
@@ -48,6 +48,259 @@
       "programType": "Sports event",
       "genre": "Motorcycle racing",
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-10-30_EP028104881593_114749665807_2026-10-26T13:22:29Z_GNLZZGG003V0PK8/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "MotoGP Factory Floor",
+      "episodeTitle": "Indonesia",
+      "description": "",
+      "scheduledDate": 1793404800000,
+      "duration": 20,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Other",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-10-31_SH066366900000_114758137149_2026-10-23T19:36:16Z_p34191874_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "INSIDE: Ducati Lenovo Team",
+      "episodeTitle": "",
+      "description": "",
+      "scheduledDate": 1793406000000,
+      "duration": 15,
+      "parentalRating": "",
+      "programType": "Series",
+      "genre": "Auto racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-10-31_SH066716880000_114758137146_2026-04-07T18:55:32Z_p32608376_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Moto3 GP Racing",
+      "episodeTitle": "Petronas Grand Prix of Malaysia, Practice",
+      "description": "From Petronas Sepang International Circuit in Sepang, Malaysia.",
+      "scheduledDate": 1793406900000,
+      "duration": 40,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Motorcycle racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-10-31_EP046925390407_114767185895_2026-10-28T11:23:55Z_GNLZZGG003VDE1E/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Moto2 GP Racing",
+      "episodeTitle": "Petronas Grand Prix of Malaysia, Practice",
+      "description": "From Petronas Sepang International Circuit in Sepang, Malaysia.",
+      "scheduledDate": 1793409300000,
+      "duration": 45,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Motorcycle racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-10-31_EP046925380398_114779219140_2026-10-28T11:22:46Z_GNLZZGG003VDYBR/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "MotoGP Racing",
+      "episodeTitle": "Petronas Grand Prix of Malaysia, Practice",
+      "description": "From Petronas Sepang International Circuit in Sepang, Malaysia.",
+      "scheduledDate": 1793412000000,
+      "duration": 45,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Motorcycle racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-10-31_EP028104881599_114772608568_2026-10-28T11:24:48Z_GNLZZGG003VDE5J/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "MotoGP Racing",
+      "episodeTitle": "Petronas Grand Prix of Malaysia, Qualifying",
+      "description": "From Petronas Sepang International Circuit in Sepang, Malaysia.",
+      "scheduledDate": 1793414700000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Motorcycle racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-10-31_EP028104881596_114767186102_2026-10-28T11:24:51Z_GNLZZGG003VDE4P/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "FIM Speedway Grand Prix Series",
+      "episodeTitle": "Round 10: Poland",
+      "description": "Professional riders compete in a motorcycle speedway racing competition organised by the International Motorcycling Federation (FIM) to emerge victorious and win the coveted title.",
+      "scheduledDate": 1793418300000,
+      "duration": 55,
+      "parentalRating": "",
+      "programType": "Series",
+      "genre": "Motorcycle",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-10-31_EP052529490020_114758138618_2026-09-21T10:56:23Z_p34113870_e_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Moto3 GP Racing",
+      "episodeTitle": "Petronas Grand Prix of Malaysia, Qualifying",
+      "description": "From Petronas Sepang International Circuit in Sepang, Malaysia.",
+      "scheduledDate": 1793421600000,
+      "duration": 55,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Motorcycle racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-10-31_EP046925390409_114767186121_2026-10-28T11:24:00Z_GNLZZGG003VDE2D/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Moto2 GP Racing",
+      "episodeTitle": "Petronas Grand Prix of Malaysia, Qualifying",
+      "description": "From Petronas Sepang International Circuit in Sepang, Malaysia.",
+      "scheduledDate": 1793424900000,
+      "duration": 55,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Motorcycle racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-10-31_EP046925380400_114781409940_2026-10-28T11:23:35Z_GNLZZGG003VDYE4/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "MotoGP Racing",
+      "episodeTitle": "Petronas Grand Prix of Malaysia, Sprint Race",
+      "description": "From Petronas Sepang International Circuit in Sepang, Malaysia.",
+      "scheduledDate": 1793428200000,
+      "duration": 75,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Motorcycle racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-10-31_EP028104881597_114767186210_2026-10-28T11:22:59Z_GNLZZGG003VDYNL/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "MotoGP Factory Floor",
+      "episodeTitle": "France",
+      "description": "",
+      "scheduledDate": 1793432700000,
+      "duration": 15,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Other",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-10-31_SH066366900000_114758137149_2026-10-23T19:36:16Z_p34191874_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Idemitsu Moto4 Asia Cup",
+      "episodeTitle": "Malaysia, Race 1",
+      "description": "From Petronas Sepang International Circuit in Sepang, Malaysia.",
+      "scheduledDate": 1793433600000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Motorcycle racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-10-31_SH063233090000_114767186152_2026-02-23T09:47:19Z_p32446732_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Formula 1",
+      "episodeTitle": "Mexico City Grand Prix, Practice 1",
+      "description": "From Autodromo Hermanos Rodriguez in Mexico City.",
+      "scheduledDate": 1793437200000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Auto racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-10-31_EP027326820883_114767145944_2026-10-28T15:23:16Z_GNLZZGG003VFV9D/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "The F1 Show",
+      "episodeTitle": "Mexico",
+      "description": "A dive into the heart of the grand prix at Mexico City's Autodromo Hermanos Rodriguez. Plus, a look at life in the paddock, behind the scenes of the race.",
+      "scheduledDate": 1793440800000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Auto racing, Sports talk",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-10-31_SH029317340000_103666898102_2018-10-16T09:21:00Z_p9108923_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Formula 1",
+      "episodeTitle": "Mexico City Grand Prix, Practice 2",
+      "description": "From Autodromo Hermanos Rodriguez in Mexico City.",
+      "scheduledDate": 1793444400000,
+      "duration": 61,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Auto racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-10-31_EP027326820884_114767186346_2026-10-28T15:23:41Z_GNLZZGG003VFVBT/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "MotoGP Racing",
+      "episodeTitle": "Petronas Grand Prix of Malaysia, Qualifying",
+      "description": "From Petronas Sepang International Circuit in Sepang, Malaysia.",
+      "scheduledDate": 1793448060000,
+      "duration": 59,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Motorcycle racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-10-31_EP028104881596_114767186102_2026-10-28T11:24:51Z_GNLZZGG003VDE4P/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "MotoGP Racing",
+      "episodeTitle": "Malaysia Grand Prix, Sprint Race",
+      "description": "From Sepang International Circuit in Selangor, Malaysia.",
+      "scheduledDate": 1793451600000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Motorcycle racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-10-31_SH028104880000_112186554419_2025-04-17T20:03:48Z_p445587_i_h8_ae/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "INSIDE: Ducati Lenovo Team",
+      "episodeTitle": "",
+      "description": "",
+      "scheduledDate": 1793453400000,
+      "duration": 15,
+      "parentalRating": "",
+      "programType": "Series",
+      "genre": "Auto racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-10-31_SH066716880000_114758137146_2026-04-07T18:55:32Z_p32608376_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Formula 1",
+      "episodeTitle": "Mexico City Grand Prix, Practice 1",
+      "description": "From Autodromo Hermanos Rodriguez in Mexico City.",
+      "scheduledDate": 1793454300000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Auto racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-10-31_EP027326820883_114767145944_2026-10-28T15:23:16Z_GNLZZGG003VFV9D/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "The F1 Show",
+      "episodeTitle": "Mexico",
+      "description": "A dive into the heart of the grand prix at Mexico City's Autodromo Hermanos Rodriguez. Plus, a look at life in the paddock, behind the scenes of the race.",
+      "scheduledDate": 1793457900000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Auto racing, Sports talk",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-10-31_SH029317340000_103666898102_2018-10-16T09:21:00Z_p9108923_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Formula 1",
+      "episodeTitle": "Mexico City Grand Prix, Practice 2",
+      "description": "From Autodromo Hermanos Rodriguez in Mexico City.",
+      "scheduledDate": 1793461500000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Auto racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-10-31_EP027326820884_114767186346_2026-10-28T15:23:41Z_GNLZZGG003VFVBT/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "MotoGP Racing",
+      "episodeTitle": "Malaysia Grand Prix, Sprint Race",
+      "description": "From Sepang International Circuit in Selangor, Malaysia.",
+      "scheduledDate": 1793465100000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Motorcycle racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-10-31_SH028104880000_112186554419_2025-04-17T20:03:48Z_p445587_i_h8_ae/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Formula 1",
+      "episodeTitle": "Mexico City Grand Prix, Practice 3",
+      "description": "From Autodromo Hermanos Rodriguez in Mexico City.",
+      "scheduledDate": 1793466900000,
+      "duration": 90,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Auto racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-10-31_EP027326820885_114767185110_2026-10-28T15:24:10Z_GNLZZGG003VFVDR/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     }
   ]
 }

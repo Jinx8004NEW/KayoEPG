@@ -1,0 +1,31 @@
+{
+  "channel": "FS1",
+  "date": "2026-11-01",
+  "source": "kayo",
+  "fetchedAt": 1793249107585,
+  "fetchedAtIST": "29/10/2026, 10:15:07 am",
+  "events": [
+    {
+      "programTitle": "Test Cricket",
+      "episodeTitle": "South Africa vs Australia",
+      "description": "From Newlands Cricket Ground in Cape Town, South Africa.",
+      "scheduledDate": 1793471400000,
+      "duration": 90,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Cricket",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-10-31_EP029804991886_114758137585_2026-09-20T22:45:32Z_GNLZZGG003PPFP0/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "To Be Announced",
+      "episodeTitle": "",
+      "description": "The programming for this time slot has yet to be determined and is being confirmed by the broadcast channel.",
+      "scheduledDate": 1793476800000,
+      "duration": 240,
+      "parentalRating": "",
+      "programType": "TBA",
+      "genre": "Special, Entertainment",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-10-31_SH027575020000_113966071598_2021-11-15T14:36:19Z_p514472_b_h8_dp/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    }
+  ]
+}

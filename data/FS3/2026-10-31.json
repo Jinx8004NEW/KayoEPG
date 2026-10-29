@@ -2,8 +2,8 @@
   "channel": "FS3",
   "date": "2026-10-31",
   "source": "kayo",
-  "fetchedAt": 1793220589769,
-  "fetchedAtIST": "29/10/2026, 2:19:49 am",
+  "fetchedAt": 1793249107599,
+  "fetchedAtIST": "29/10/2026, 10:15:07 am",
   "events": [
     {
       "programTitle": "PGA Tour Golf",
@@ -36,7 +36,7 @@
       "parentalRating": "",
       "programType": "Sports non-event",
       "genre": "Golf",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/Fallback_LTV_103070/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-10-30_SH047874460000_101769826726_2023-06-23T09:17:39Z_p25047305_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "Sheffield Shield",
@@ -47,7 +47,106 @@
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Cricket",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/Fallback_LTV_103070/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-10-30_EP028878790129_114778125596_2026-10-28T20:00:39Z_GNLZZGG003VHQKC/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Test Cricket",
+      "episodeTitle": "2007/08 - Australia vs India, 2nd Test",
+      "description": "Coverage and highlights from international test cricket matches.",
+      "scheduledDate": 1793412000000,
+      "duration": 35,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Cricket, Classic sport event",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-10-31_SH033446590000_98978823590_2023-09-29T14:53:53Z_p8163404_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Sheffield Shield",
+      "episodeTitle": "Queensland vs. Victoria",
+      "description": "Coverage of matches played as part of Australia's domestic first-class cricket competition.",
+      "scheduledDate": 1793414100000,
+      "duration": 295,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Cricket",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-10-31_EP028878790130_114778102131_2026-10-28T20:00:24Z_GNLZZGG003VHQSD/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Getting a Round In",
+      "episodeTitle": "",
+      "description": "Australian professional golfer, Paul Gow hosts celebrities as his playing partners who share his love for the game of golf.",
+      "scheduledDate": 1793431800000,
+      "duration": 35,
+      "parentalRating": "",
+      "programType": "Series",
+      "genre": "Golf, Interview",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-10-31_SH048121120000_110998856207_2023-07-18T05:56:16Z_p25221374_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Women's Big Bash League",
+      "episodeTitle": "Perth Scorchers vs Melbourne Renegades",
+      "description": "From The WACA in East Perth, Western Australia, Australia.",
+      "scheduledDate": 1793433900000,
+      "duration": 205,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Cricket",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-10-31_EP029371060383_114774493023_2026-10-20T20:32:00Z_GNLZZGG003T1F1Q/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "DP World Tour Golf",
+      "episodeTitle": "HotelPlanner Tour Grand Final, Third Round",
+      "description": "Golfing action from the DP World Tour.",
+      "scheduledDate": 1793446200000,
+      "duration": 270,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-10-31_EP040914080731_114775268088_2026-10-28T15:23:31Z_GNLZZGG003VFVB8/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "PGA Tour Golf Mini",
+      "episodeTitle": "PGA Championship, Final Round",
+      "description": "A collection of special condensed replays featuring the best highlights and all the key moments from the course.",
+      "scheduledDate": 1793462400000,
+      "duration": 20,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-10-31_SH047874460000_101769826726_2023-06-23T09:17:39Z_p25047305_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Golf",
+      "episodeTitle": "US Open: Final Round",
+      "description": "Watch the final round action of the US Open from Shinnecock Hills Golf Club.",
+      "scheduledDate": 1793463600000,
+      "duration": 20,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-10-31_SH032772030000_113702935496_2025-04-03T19:44:22Z_p706015_i_h8_ad/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "PGA Tour Golf Mini",
+      "episodeTitle": "The Open Championship: Final Round",
+      "description": "Showcases the final round action of The Open Championship from Royal Birkdale Golf Club.",
+      "scheduledDate": 1793464800000,
+      "duration": 20,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-10-31_SH047874460000_101769826726_2023-06-23T09:17:39Z_p25047305_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "PGA Tour Champions Golf",
+      "episodeTitle": "Simmons Bank Championship, Second Round",
+      "description": "From Pleasant Valley Country Club in Little Rock, Arkansas.",
+      "scheduledDate": 1793466000000,
+      "duration": 180,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-10-31_EP034248570393_114774493370_2025-10-20T17:35:34Z_p31388074_b_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     }
   ]
 }

@@ -2,8 +2,8 @@
   "channel": "ES2",
   "date": "2026-10-31",
   "source": "kayo",
-  "fetchedAt": 1793220589802,
-  "fetchedAtIST": "29/10/2026, 2:19:49 am",
+  "fetchedAt": 1793249107646,
+  "fetchedAtIST": "29/10/2026, 10:15:07 am",
   "events": [
     {
       "programTitle": "First Take",
@@ -80,7 +80,106 @@
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Football",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-10-30_EP064738031069_114774493228_2026-06-20T16:22:17Z_GNLZZGG0037036W/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-10-30_EP064738031069_114782408146_2026-06-20T16:22:17Z_GNLZZGG0037036W/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "College Football",
+      "episodeTitle": "Sacramento State vs Kent State",
+      "description": "From Hornet Stadium in Sacramento, Calif.",
+      "scheduledDate": 1793413800000,
+      "duration": 180,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-10-31_EP064738031149_114783941969_2026-06-20T19:16:43Z_GNLZZGG00370H3V/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "College Football",
+      "episodeTitle": "UCF vs Baylor",
+      "description": "From the Acrisure Bounce House in Orlando, Fla.",
+      "scheduledDate": 1793424600000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-10-31_EP064738031069_114782408146_2026-06-20T16:22:17Z_GNLZZGG0037036W/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "ESPN FC",
+      "episodeTitle": "",
+      "description": "ESPN FC brings you a round-up of the latest news from the world of football, including in-depth analysis and exclusive interviews.",
+      "scheduledDate": 1793431800000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Series",
+      "genre": "Soccer, Sports talk",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-10-31_SH033236780000_109573421566_2026-05-25T06:15:30Z_p10106369_i_h11_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "WNBL",
+      "episodeTitle": "Geelong Venom vs. University of Canberra Capitals",
+      "description": "Coverage of games played as part of Australia's professional women's basketball league.",
+      "scheduledDate": 1793433600000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Basketball",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-10-31_EP029292910546_114784345311_2026-10-28T23:04:40Z_GNLZZGG003VM42Q/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "2026 World Series",
+      "episodeTitle": "Tampa Bay Rays at Milwaukee Brewers",
+      "description": "From American Family Field in Milwaukee.",
+      "scheduledDate": 1793440800000,
+      "duration": 180,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Playoff sports, Baseball",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-10-31_EP066715800006_114774493120_2026-10-21T17:00:06Z_GNLZZGG003T6DHX/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "College Football",
+      "episodeTitle": "Sacramento State vs Kent State",
+      "description": "From Hornet Stadium in Sacramento, Calif.",
+      "scheduledDate": 1793451600000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-10-31_EP064738031149_114783941969_2026-06-20T19:16:43Z_GNLZZGG00370H3V/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Ball or Nothin'",
+      "episodeTitle": "",
+      "description": "",
+      "scheduledDate": 1793458800000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Basketball",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-10-31_SH066608350000_114774493110_2026-10-23T07:25:17Z_p34357847_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NFL Blitz",
+      "episodeTitle": "",
+      "description": "All of the best action from the National Football League.",
+      "scheduledDate": 1793460600000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Family, Football, News, Newsmagazine",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-10-31_SH060667300000_113358670220_2022-09-12T05:46:51Z_p22911383_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "College Football",
+      "episodeTitle": "Texas Tech vs Arizona",
+      "description": "From Galaxy Stadium in Lubbock, Texas..",
+      "scheduledDate": 1793462400000,
+      "duration": 180,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-10-31_EP064738031147_114778027961_2026-06-20T19:16:51Z_GNLZZGG00370GX0/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     }
   ]
 }

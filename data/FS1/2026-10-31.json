@@ -2,8 +2,8 @@
   "channel": "FS1",
   "date": "2026-10-31",
   "source": "kayo",
-  "fetchedAt": 1793220589758,
-  "fetchedAtIST": "29/10/2026, 2:19:49 am",
+  "fetchedAt": 1793249107584,
+  "fetchedAtIST": "29/10/2026, 10:15:07 am",
   "events": [
     {
       "programTitle": "Test Cricket",
@@ -124,7 +124,150 @@
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Cricket",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/Fallback_LTV_103068/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-10-30_EP028878790129_114778125596_2026-10-28T20:00:39Z_GNLZZGG003VHQKC/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "World Championship of Legends Cricket",
+      "episodeTitle": "Final",
+      "description": "Highlights and all the action from the World Championship of Legends Cricket.",
+      "scheduledDate": 1793412000000,
+      "duration": 35,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Cricket",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-10-31_SH066611850000_114774493102_2024-06-24T10:34:17Z_p27694312_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Sheffield Shield",
+      "episodeTitle": "Queensland vs. Victoria",
+      "description": "Coverage of matches played as part of Australia's domestic first-class cricket competition.",
+      "scheduledDate": 1793414100000,
+      "duration": 85,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Cricket",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-10-31_EP028878790130_114778102131_2026-10-28T20:00:24Z_GNLZZGG003VHQSD/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "WBBL Pre-Game",
+      "episodeTitle": "Adelaide Strikers v Melbourne Stars",
+      "description": "",
+      "scheduledDate": 1793419200000,
+      "duration": 40,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Cricket",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-10-31_SH053558810000_114694904346_2026-10-27T07:37:10Z_p28580679_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Women's Big Bash League",
+      "episodeTitle": "Adelaide Strikers vs Melbourne Stars",
+      "description": "From Karen Rolton Oval in Adelaide, South Australia, Australia.",
+      "scheduledDate": 1793421600000,
+      "duration": 200,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Cricket",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-10-31_EP029371060382_114774493222_2026-10-20T20:37:17Z_GNLZZGG003T1J3V/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Fox Cricket Pre Game",
+      "episodeTitle": "South Africa v Australia, 3rd Test Day 5",
+      "description": "The team present an extensive preview of all the action to come with the latest news, the best analysis, entertainment and interviews.",
+      "scheduledDate": 1793433600000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Cricket",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-10-31_SH035786310000_111887034140_2025-11-20T06:27:30Z_p18624259_i_h10_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Test Cricket",
+      "episodeTitle": "South Africa vs Australia",
+      "description": "From Newlands Cricket Ground in Cape Town, South Africa.",
+      "scheduledDate": 1793435400000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Cricket",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-10-31_EP029804991886_114758137585_2026-09-20T22:45:32Z_GNLZZGG003PPFP0/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Test Cricket",
+      "episodeTitle": "South Africa vs Australia",
+      "description": "From Newlands Cricket Ground in Cape Town, South Africa.",
+      "scheduledDate": 1793442600000,
+      "duration": 40,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Cricket",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-10-31_EP029804991886_114758137585_2026-09-20T22:45:32Z_GNLZZGG003PPFP0/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Test Cricket",
+      "episodeTitle": "South Africa vs Australia",
+      "description": "From Newlands Cricket Ground in Cape Town, South Africa.",
+      "scheduledDate": 1793445000000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Cricket",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-10-31_EP029804991886_114758137585_2026-09-20T22:45:32Z_GNLZZGG003PPFP0/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "The Tea Break",
+      "episodeTitle": "South Africa v Australia, 3rd Test Day 5",
+      "description": "Join our commentary team as they re-cap the day's play and analyse all the action.",
+      "scheduledDate": 1793452200000,
+      "duration": 20,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Cricket",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-10-31_SH034094570000_112570766596_2025-11-20T06:26:39Z_p17650797_i_h10_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Test Cricket",
+      "episodeTitle": "3rd Test, Day 5 Session 3: South Africa vs. Australia",
+      "description": "Coverage of Test cricket matches contested by international teams.",
+      "scheduledDate": 1793453400000,
+      "duration": 150,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Cricket",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-10-31_EP029804991960_114774493314_2026-10-28T17:49:02Z_GNLZZGG003VGXKH/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Ashes Classics",
+      "episodeTitle": "2006/07: Australia vs England, 4th Test",
+      "description": "Revisits archive footage of previous England-Australia cricket battles.",
+      "scheduledDate": 1793462400000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Cricket",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-10-31_SH064479260000_113048372172_2019-07-11T06:20:10Z_p14752161_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Test Cricket",
+      "episodeTitle": "South Africa vs Australia",
+      "description": "From Newlands Cricket Ground in Cape Town, South Africa.",
+      "scheduledDate": 1793464200000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Cricket",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-10-31_EP029804991884_114772569260_2026-09-20T22:41:41Z_GNLZZGG003PPCDW/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Test Cricket",
+      "episodeTitle": "South Africa vs Australia",
+      "description": "From Newlands Cricket Ground in Cape Town, South Africa.",
+      "scheduledDate": 1793467800000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Cricket",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-10-31_EP029804991885_114489317039_2026-09-20T22:44:30Z_GNLZZGG003PPF0S/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     }
   ]
 }

@@ -2,8 +2,8 @@
   "channel": "ESP",
   "date": "2026-10-31",
   "source": "kayo",
-  "fetchedAt": 1793220589795,
-  "fetchedAtIST": "29/10/2026, 2:19:49 am",
+  "fetchedAt": 1793249107639,
+  "fetchedAtIST": "29/10/2026, 10:15:07 am",
   "events": [
     {
       "programTitle": "NBA Today",
@@ -81,6 +81,149 @@
       "programType": "Sports non-event",
       "genre": "News, Baseball",
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-10-30_SH033235530000_112980364972_2026-08-10T19:26:00Z_p337588_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "2026 World Series",
+      "episodeTitle": "Tampa Bay Rays at Milwaukee Brewers",
+      "description": "From American Family Field in Milwaukee.",
+      "scheduledDate": 1793404800000,
+      "duration": 180,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Playoff sports, Baseball",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-10-31_EP066715800006_114774493120_2026-10-21T17:00:06Z_GNLZZGG003T6DHX/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NFL Blitz",
+      "episodeTitle": "",
+      "description": "All of the best action from the National Football League.",
+      "scheduledDate": 1793415600000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Family, Football, News, Newsmagazine",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-10-31_SH060667300000_113358670220_2022-09-12T05:46:51Z_p22911383_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Ball or Nothin'",
+      "episodeTitle": "",
+      "description": "",
+      "scheduledDate": 1793417400000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Basketball",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-10-31_SH066608350000_114774493110_2026-10-23T07:25:17Z_p34357847_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "WNBL",
+      "episodeTitle": "Tasmania Jewels vs Sydney Flames",
+      "description": "Coverage of games played as part of Australia's professional women's basketball league.",
+      "scheduledDate": 1793419200000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Basketball",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-10-31_EP029292910531_114774493232_2026-10-11T16:45:00Z_GNLZZGG003RZK8L/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "UEFA Women's Champions League Highlights",
+      "episodeTitle": "",
+      "description": "Highlights from the UEFA Champions League matches, the premier women's club football tournament in Europe.",
+      "scheduledDate": 1793426400000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Soccer",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-10-31_SH061600770000_113438069496_2025-10-10T22:14:22Z_p31371704_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Saban",
+      "episodeTitle": "The Mountain",
+      "description": "",
+      "scheduledDate": 1793428200000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Football, Documentary",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-10-31_EP066455750005_114758138632_2026-10-22T19:44:56Z_p33978881_e_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Ball or Nothin'",
+      "episodeTitle": "",
+      "description": "",
+      "scheduledDate": 1793431800000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Basketball",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-10-31_SH066608350000_114774493110_2026-10-23T07:25:17Z_p34357847_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NBL Pregame",
+      "episodeTitle": "",
+      "description": "A preview of upcoming games from the National Basketball League.",
+      "scheduledDate": 1793433600000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Basketball",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-10-31_SH048723300000_114549972899_2023-09-20T11:04:17Z_p25650942_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NBL",
+      "episodeTitle": "Cairns Taipans vs Melbourne United",
+      "description": "From Cairns Convention Centre in Cairns, Queensland, Australia.",
+      "scheduledDate": 1793435400000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Basketball",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-10-31_EP029269501419_114774493098_2026-10-08T16:59:48Z_GNLZZGG003RRNT4/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NBL",
+      "episodeTitle": "Illawarra Hawks vs Perth Wildcats",
+      "description": "From WIN Entertainment Centre in Wollongong, New South Wales, Australia.",
+      "scheduledDate": 1793442600000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Basketball",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-10-31_EP029269501325_114774493171_2026-01-15T00:42:14Z_GNLZZGG002SRVJB/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NFL Matchup",
+      "episodeTitle": "",
+      "description": "Get the latest news, info, analysis and straight talk from around all the action of the National Football League.",
+      "scheduledDate": 1793449800000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-10-31_SH033308410000_114774493164_2022-08-28T09:45:48Z_p816920_i_h10_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "College GameDay",
+      "episodeTitle": "",
+      "description": "Rece Davis, Lee Corso, Kirk Herbstreit, and Desmond Howard provide their take on US football, complete with reports and unique analysis.",
+      "scheduledDate": 1793451600000,
+      "duration": 180,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-10-31_SH033268870000_114774493028_2024-11-04T17:34:02Z_p629309_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "College Football",
+      "episodeTitle": "Notre Dame vs Navy",
+      "description": "From Boston Stadium in Foxboro, MA.",
+      "scheduledDate": 1793462400000,
+      "duration": 180,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-10-31_EP064738031152_114774493309_2026-06-20T19:17:16Z_GNLZZGG00370RHT/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     }
   ]
 }

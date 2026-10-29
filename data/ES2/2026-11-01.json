@@ -1,0 +1,53 @@
+{
+  "channel": "ES2",
+  "date": "2026-11-01",
+  "source": "kayo",
+  "fetchedAt": 1793249107646,
+  "fetchedAtIST": "29/10/2026, 10:15:07 am",
+  "events": [
+    {
+      "programTitle": "College Football Scoreboard",
+      "episodeTitle": "",
+      "description": "Highlights and up to the minute scores during the college football season, with a look at the major storylines in the competition.",
+      "scheduledDate": 1793473200000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-10-31_SH033268260000_112437273027_2019-12-21T18:40:07Z_p629287_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NHL Hockey",
+      "episodeTitle": "New York Islanders vs Edmonton Oilers",
+      "description": "From UBS Arena in Elmont, N.Y.",
+      "scheduledDate": 1793475000000,
+      "duration": 150,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Hockey",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-10-31_EP033422284698_114744901310_2026-09-10T03:08:37Z_GNLZZGG003NRSMQ/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "In Depth With Graham Bensinger",
+      "episodeTitle": "Rick Harrison",
+      "description": "Renowned journalist Graham Bensinger interviews some of the biggest names in sports, discussing their lives and careers and some controversial topics.",
+      "scheduledDate": 1793484000000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Series",
+      "genre": "Sports talk, Interview",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-10-31_EP033308670149_114236109376_2025-07-23T14:35:04Z_p29620677_e_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NBA Basketball",
+      "episodeTitle": "New Orleans Pelicans vs Atlanta Hawks",
+      "description": "From Smoothie King Center in New Orleans.",
+      "scheduledDate": 1793487600000,
+      "duration": 150,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Basketball",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-10-31_EP030658785566_114212430044_2026-09-02T04:45:29Z_GNLZZGG003M4QF3/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    }
+  ]
+}

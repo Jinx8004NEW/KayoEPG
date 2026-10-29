@@ -2,8 +2,8 @@
   "channel": "FSP",
   "date": "2026-10-31",
   "source": "kayo",
-  "fetchedAt": 1793220589780,
-  "fetchedAtIST": "29/10/2026, 2:19:49 am",
+  "fetchedAt": 1793249107617,
+  "fetchedAtIST": "29/10/2026, 10:15:07 am",
   "events": [
     {
       "programTitle": "NASCAR Cup Racing Series",
@@ -48,6 +48,94 @@
       "programType": "Sports event",
       "genre": "Sailing",
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-10-30_SH051028760000_112367882509_2021-04-23T21:46:53Z_p19827810_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Asia-Pacific Amateur Championship Golf",
+      "episodeTitle": "Third Round",
+      "description": "",
+      "scheduledDate": 1793408400000,
+      "duration": 180,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-10-31_SH061083900000_114653131983_2019-09-03T18:00:23Z_p11131380_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "LPGA Tour Golf",
+      "episodeTitle": "Maybank Championship, Third Round",
+      "description": "From TPC Kuala Lumpur in Kuala Lumpur, Malaysia.",
+      "scheduledDate": 1793419200000,
+      "duration": 150,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-10-31_EP031583890508_114767186173_2024-09-25T16:53:47Z_p26176720_b_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Formula 1",
+      "episodeTitle": "Mexico City Grand Prix, Practice 1",
+      "description": "From Autodromo Hermanos Rodriguez in Mexico City.",
+      "scheduledDate": 1793428200000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Auto racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-10-31_EP027326820883_114767145944_2026-10-28T15:23:16Z_GNLZZGG003VFV9D/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Constellation Cup",
+      "episodeTitle": "Game 4: Australia vs. New Zealand",
+      "description": "Coverage of matches from the Constellation Cup, contested by the Australian and New Zealand national netball teams.",
+      "scheduledDate": 1793431800000,
+      "duration": 20,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Netball",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-10-31_SH030600890000_113942151197_2018-12-06T10:40:00Z_p16032357_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "One-Day International Cricket",
+      "episodeTitle": "",
+      "description": "Coverage of one-day cricket matches contested by international teams.",
+      "scheduledDate": 1793433000000,
+      "duration": 480,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Cricket",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-10-31_SH029804690000_96769578671_2024-03-13T20:03:15Z_p9080762_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "One-Day International Cricket",
+      "episodeTitle": "",
+      "description": "Coverage of one-day cricket matches contested by international teams.",
+      "scheduledDate": 1793461800000,
+      "duration": 10,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Cricket",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-10-31_SH029804690000_96769578671_2024-03-13T20:03:15Z_p9080762_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NASCAR Cup Racing Series",
+      "episodeTitle": "Talladega Superspeedway",
+      "description": "Coverage of the NASCAR Cup Series, professional stock car racing in the United States.",
+      "scheduledDate": 1793462400000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Motorsports, Auto racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-10-31_SH056052770000_110216247140_2024-02-28T07:23:12Z_p8599472_i_h10_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Constellation Cup",
+      "episodeTitle": "Game 4: Australia vs. New Zealand",
+      "description": "Coverage of matches from the Constellation Cup, contested by the Australian and New Zealand national netball teams.",
+      "scheduledDate": 1793466000000,
+      "duration": 180,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Netball",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-10-31_SH030600890000_113942151197_2018-12-06T10:40:00Z_p16032357_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     }
   ]
 }

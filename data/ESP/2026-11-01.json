@@ -1,0 +1,64 @@
+{
+  "channel": "ESP",
+  "date": "2026-11-01",
+  "source": "kayo",
+  "fetchedAt": 1793249107640,
+  "fetchedAtIST": "29/10/2026, 10:15:07 am",
+  "events": [
+    {
+      "programTitle": "College Football Scoreboard",
+      "episodeTitle": "",
+      "description": "Highlights and up to the minute scores during the college football season, with a look at the major storylines in the competition.",
+      "scheduledDate": 1793473200000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-10-31_SH033268260000_112437273027_2019-12-21T18:40:07Z_p629287_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "College Football Studio",
+      "episodeTitle": "Allstate Kickoff",
+      "description": "Analysis of the games and highlights of the University Football.",
+      "scheduledDate": 1793475000000,
+      "duration": 10,
+      "parentalRating": "",
+      "programType": "Series",
+      "genre": "Sports talk, Football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-10-31_SH033280110000_100174556111_2017-11-27T16:02:00Z_p10868966_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "College Football",
+      "episodeTitle": "Florida vs Georgia",
+      "description": "From Mercedes-Benz Stadium in Atlanta.",
+      "scheduledDate": 1793475600000,
+      "duration": 170,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-10-31_EP064738031163_114770168999_2026-06-20T19:17:10Z_GNLZZGG00370SYR/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "College Football Scoreboard",
+      "episodeTitle": "",
+      "description": "Highlights and up to the minute scores during the college football season, with a look at the major storylines in the competition.",
+      "scheduledDate": 1793485800000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-10-31_SH033268260000_112437273027_2019-12-21T18:40:07Z_p629287_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Saban",
+      "episodeTitle": "The Mountain",
+      "description": "",
+      "scheduledDate": 1793487600000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Football, Documentary",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-10-31_EP066455750005_114758138632_2026-10-22T19:44:56Z_p33978881_e_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    }
+  ]
+}
