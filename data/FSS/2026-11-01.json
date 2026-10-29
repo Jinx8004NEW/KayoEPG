@@ -2,19 +2,74 @@
   "channel": "FSS",
   "date": "2026-11-01",
   "source": "kayo",
-  "fetchedAt": 1793249107634,
-  "fetchedAtIST": "29/10/2026, 10:15:07 am",
+  "fetchedAt": 1793285954467,
+  "fetchedAtIST": "29/10/2026, 8:29:14 pm",
   "events": [
     {
-      "programTitle": "To Be Announced",
-      "episodeTitle": "",
-      "description": "The programming for this time slot has yet to be determined and is being confirmed by the broadcast channel.",
+      "programTitle": "Getting a Round In",
+      "episodeTitle": "Matt Denny",
+      "description": "Australian professional golfer, Paul Gow hosts celebrities as his playing partners who share his love for the game of golf.",
       "scheduledDate": 1793476800000,
-      "duration": 240,
+      "duration": 30,
       "parentalRating": "",
-      "programType": "TBA",
-      "genre": "Special, Entertainment",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-10-31_SH027575020000_113966071598_2021-11-15T14:36:19Z_p514472_b_h8_dp/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "programType": "Series",
+      "genre": "Golf, Interview",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-10-31_SH048121120000_110998856207_2023-07-18T05:56:16Z_p25221374_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Getting a Round In",
+      "episodeTitle": "Lachie Anderson",
+      "description": "Australian professional golfer, Paul Gow hosts celebrities as his playing partners who share his love for the game of golf.",
+      "scheduledDate": 1793478600000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Series",
+      "genre": "Golf, Interview",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-10-31_SH048121120000_110998856207_2023-07-18T05:56:16Z_p25221374_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Getting a Round In",
+      "episodeTitle": "Season Review",
+      "description": "Australian professional golfer, Paul Gow hosts celebrities as his playing partners who share his love for the game of golf.",
+      "scheduledDate": 1793480400000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Series",
+      "genre": "Golf, Interview",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-10-31_SH048121120000_110998856207_2023-07-18T05:56:16Z_p25221374_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "SailGP: Racing on the Edge",
+      "episodeTitle": "",
+      "description": "Go under the hood of the supercharged F50 catamaran developed specifically for SailGP, find out how the concept for the league was born, watch the first rivalries emerge and more.",
+      "scheduledDate": 1793482200000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Sailing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-10-31_SH038439390000_114773241776_2021-04-20T21:06:12Z_p19817224_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "MotoGP Racing",
+      "episodeTitle": "Petronas Grand Prix of Malaysia, Sprint Race",
+      "description": "From Petronas Sepang International Circuit in Sepang, Malaysia.",
+      "scheduledDate": 1793484000000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Motorcycle racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-10-31_EP028104881597_114767186210_2026-10-28T11:22:59Z_GNLZZGG003VDYNL/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "WSL Tour",
+      "episodeTitle": "Championship Tour: Philippines Pro",
+      "description": "Coverage of surfing action from the WSL.",
+      "scheduledDate": 1793485800000,
+      "duration": 480,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Surfing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-10-31_SH033247690000_110929981520_2019-03-19T05:40:29Z_p16589355_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     }
   ]
 }

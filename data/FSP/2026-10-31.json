@@ -2,8 +2,8 @@
   "channel": "FSP",
   "date": "2026-10-31",
   "source": "kayo",
-  "fetchedAt": 1793249107617,
-  "fetchedAtIST": "29/10/2026, 10:15:07 am",
+  "fetchedAt": 1793285954450,
+  "fetchedAtIST": "29/10/2026, 8:29:14 pm",
   "events": [
     {
       "programTitle": "NASCAR Cup Racing Series",
@@ -80,7 +80,7 @@
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Auto racing",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-10-31_EP027326820883_114767145944_2026-10-28T15:23:16Z_GNLZZGG003VFV9D/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-10-31_EP027326820883_114829694151_2026-10-29T11:21:37Z_GNLZZGG003VPGP7/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "Constellation Cup",
@@ -131,7 +131,7 @@
       "episodeTitle": "Game 4: Australia vs. New Zealand",
       "description": "Coverage of matches from the Constellation Cup, contested by the Australian and New Zealand national netball teams.",
       "scheduledDate": 1793466000000,
-      "duration": 180,
+      "duration": 120,
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Netball",

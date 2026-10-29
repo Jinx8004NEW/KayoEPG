@@ -2,9 +2,31 @@
   "channel": "FSP",
   "date": "2026-11-01",
   "source": "kayo",
-  "fetchedAt": 1793249107618,
-  "fetchedAtIST": "29/10/2026, 10:15:07 am",
+  "fetchedAt": 1793285954450,
+  "fetchedAtIST": "29/10/2026, 8:29:14 pm",
   "events": [
+    {
+      "programTitle": "SailGP: Racing on the Edge",
+      "episodeTitle": "",
+      "description": "Go under the hood of the supercharged F50 catamaran developed specifically for SailGP, find out how the concept for the league was born, watch the first rivalries emerge and more.",
+      "scheduledDate": 1793473200000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Sailing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-10-31_SH038439390000_114773241776_2021-04-20T21:06:12Z_p19817224_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NASCAR O'Reilly Auto Parts Series",
+      "episodeTitle": "National Debt Relief 250",
+      "description": "From Martinsville Speedway in Martinsville, Va.",
+      "scheduledDate": 1793475000000,
+      "duration": 210,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Auto racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-10-31_EP062929950030_114835324617_2026-10-28T17:17:54Z_p32240735_b_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
     {
       "programTitle": "To Be Announced",
       "episodeTitle": "",
@@ -15,6 +37,28 @@
       "programType": "TBA",
       "genre": "Special, Entertainment",
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-10-31_SH027575020000_113966071598_2021-11-15T14:36:19Z_p514472_b_h8_dp/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Getting a Round In",
+      "episodeTitle": "",
+      "description": "Australian professional golfer, Paul Gow hosts celebrities as his playing partners who share his love for the game of golf.",
+      "scheduledDate": 1793487600000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Series",
+      "genre": "Golf, Interview",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-10-31_SH048121120000_110998856207_2023-07-18T05:56:16Z_p25221374_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "SailGP",
+      "episodeTitle": "Geneva, Day 2",
+      "description": "",
+      "scheduledDate": 1793489400000,
+      "duration": 90,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Sailing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-10-31_SH051028760000_112367882509_2021-04-23T21:46:53Z_p19827810_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     }
   ]
 }

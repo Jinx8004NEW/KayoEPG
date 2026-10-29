@@ -2,15 +2,15 @@
   "channel": "FSS",
   "date": "2026-10-31",
   "source": "kayo",
-  "fetchedAt": 1793249107634,
-  "fetchedAtIST": "29/10/2026, 10:15:07 am",
+  "fetchedAt": 1793285954466,
+  "fetchedAtIST": "29/10/2026, 8:29:14 pm",
   "events": [
     {
       "programTitle": "Darts",
       "episodeTitle": "PDC ANZ Premier League: Week 5",
       "description": "Covering of all the action from darts events around the world.",
       "scheduledDate": 1793385000000,
-      "duration": 90,
+      "duration": 120,
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Darts",
@@ -26,6 +26,50 @@
       "programType": "TBA",
       "genre": "Special, Entertainment",
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-10-30_SH027575020000_113966071598_2021-11-15T14:36:19Z_p514472_b_h8_dp/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "In Pieces Together",
+      "episodeTitle": "",
+      "description": "Follows world record-holding surfer Blake Johnston's journey of transforming personal tragedy into meaningful action, examining how suicide impacts communities and how genuine relationships, bravery, and open dialogue can inspire transformation.",
+      "scheduledDate": 1793392200000,
+      "duration": 70,
+      "parentalRating": "",
+      "programType": "Feature Film",
+      "genre": "Documentary",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-10-30_MV028121960000_114826195283_2026-05-13T05:35:40Z_p32978814_i_h10_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "WSL Replay",
+      "episodeTitle": "Portugal",
+      "description": "Presents the replay and highlights of WSL Championship Tour and Challenger Series.",
+      "scheduledDate": 1793396400000,
+      "duration": 50,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Surfing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-10-30_SH051672730000_114409843767_2026-09-09T04:34:58Z_p27411189_i_h10_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "52 Super Series",
+      "episodeTitle": "",
+      "description": "Teams from all over the world compete with each other in the 52 Super Series, a monohull yacht racing competition, to clinch the number one spot.",
+      "scheduledDate": 1793399400000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Series",
+      "genre": "Sailing, Watersports",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-10-30_SH064993470000_112455686540_2023-03-16T14:17:12Z_p23293654_i_h10_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "WSL Tour",
+      "episodeTitle": "Championship Tour: Philippines Pro",
+      "description": "Coverage of surfing action from the WSL.",
+      "scheduledDate": 1793401200000,
+      "duration": 390,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Surfing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-10-30_SH033247690000_110929981520_2019-03-19T05:40:29Z_p16589355_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "To Be Announced",
@@ -50,6 +94,17 @@
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-10-31_SH027575020000_113966071598_2021-11-15T14:36:19Z_p514472_b_h8_dp/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
+      "programTitle": "AUSX Supercross Championship",
+      "episodeTitle": "Round 2: Auckland, New Zealand",
+      "description": "",
+      "scheduledDate": 1793424600000,
+      "duration": 170,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Motorcycle racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-10-31_SH061276890000_113548492858_2025-10-10T02:35:01Z_p31416360_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
       "programTitle": "To Be Announced",
       "episodeTitle": "",
       "description": "The programming for this time slot has yet to be determined and is being confirmed by the broadcast channel.",
@@ -59,6 +114,39 @@
       "programType": "TBA",
       "genre": "Special, Entertainment",
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-10-31_SH027575020000_113966071598_2021-11-15T14:36:19Z_p514472_b_h8_dp/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Getting a Round In",
+      "episodeTitle": "Season Review",
+      "description": "Australian professional golfer, Paul Gow hosts celebrities as his playing partners who share his love for the game of golf.",
+      "scheduledDate": 1793434800000,
+      "duration": 25,
+      "parentalRating": "",
+      "programType": "Series",
+      "genre": "Golf, Interview",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-10-31_SH048121120000_110998856207_2023-07-18T05:56:16Z_p25221374_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "My Game: Tiger Woods",
+      "episodeTitle": "Playing Par 3s",
+      "description": "As Tiger's longtime friend Rob McNamara says, par 3s play to Tiger's strengths; Tiger describes how he sizes up these holes.",
+      "scheduledDate": 1793436300000,
+      "duration": 15,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-10-31_SH035435950000_107134189906_2019-09-11T08:00:16Z_p17353505_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Darts",
+      "episodeTitle": "PDC ANZ Premier League: Week 6",
+      "description": "Covering of all the action from darts events around the world.",
+      "scheduledDate": 1793437200000,
+      "duration": 240,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Darts",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-10-31_SH032967320000_109954612423_2024-10-04T13:14:55Z_p644283_i_h8_ah/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "To Be Announced",
@@ -72,6 +160,39 @@
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-10-31_SH027575020000_113966071598_2021-11-15T14:36:19Z_p514472_b_h8_dp/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
+      "programTitle": "Constellation Cup",
+      "episodeTitle": "Game 3: Australia vs. New Zealand",
+      "description": "Coverage of matches from the Constellation Cup, contested by the Australian and New Zealand national netball teams.",
+      "scheduledDate": 1793451600000,
+      "duration": 90,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Netball",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-10-31_SH030600890000_113942151197_2018-12-06T10:40:00Z_p16032357_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "MotoGP Racing",
+      "episodeTitle": "Petronas Grand Prix of Malaysia, Sprint Race",
+      "description": "From Petronas Sepang International Circuit in Sepang, Malaysia.",
+      "scheduledDate": 1793457000000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Motorcycle racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-10-31_EP028104881597_114767186210_2026-10-28T11:22:59Z_GNLZZGG003VDYNL/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Netball",
+      "episodeTitle": "Constellation Cup, 4th Test Highlights: Australia vs New Zealand",
+      "description": "Highlights from global netball battles as teams worldwide vie for supremacy on the court.",
+      "scheduledDate": 1793458800000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Classic sport event, Netball, Entertainment",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-10-31_SH042569760000_102008171570_2020-07-20T11:20:11Z_p8474652_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
       "programTitle": "To Be Announced",
       "episodeTitle": "",
       "description": "The programming for this time slot has yet to be determined and is being confirmed by the broadcast channel.",
@@ -81,6 +202,39 @@
       "programType": "TBA",
       "genre": "Special, Entertainment",
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-10-31_SH027575020000_113966071598_2021-11-15T14:36:19Z_p514472_b_h8_dp/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Getting a Round In",
+      "episodeTitle": "Season Review",
+      "description": "Australian professional golfer, Paul Gow hosts celebrities as his playing partners who share his love for the game of golf.",
+      "scheduledDate": 1793466000000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Series",
+      "genre": "Golf, Interview",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-10-31_SH048121120000_110998856207_2023-07-18T05:56:16Z_p25221374_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "My Game: Tiger Woods",
+      "episodeTitle": "Playing Par 3s",
+      "description": "As Tiger's longtime friend Rob McNamara says, par 3s play to Tiger's strengths; Tiger describes how he sizes up these holes.",
+      "scheduledDate": 1793467800000,
+      "duration": 15,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-10-31_SH035435950000_107134189906_2019-09-11T08:00:16Z_p17353505_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Saudi League Soccer",
+      "episodeTitle": "Al Hilal vs Al Fateh",
+      "description": "From Kingdom Arena in Ar Riyad, Saudi Arabia.",
+      "scheduledDate": 1793468700000,
+      "duration": 135,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Soccer",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-10-31_EP046468500885_114799499205_2026-08-31T17:00:43Z_GNLZZGG003JKQ1M/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     }
   ]
 }

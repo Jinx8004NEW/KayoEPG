@@ -2,19 +2,30 @@
   "channel": "ES2",
   "date": "2026-10-30",
   "source": "kayo",
-  "fetchedAt": 1793249107645,
-  "fetchedAtIST": "29/10/2026, 10:15:07 am",
+  "fetchedAt": 1793285954476,
+  "fetchedAtIST": "29/10/2026, 8:29:14 pm",
   "events": [
     {
       "programTitle": "College Football Live",
       "episodeTitle": "",
       "description": "Breaking news, analysis, features, roundtable discussions, and interviews covering all the latest events from the world of college football.",
       "scheduledDate": 1793300400000,
-      "duration": 55,
+      "duration": 30,
       "parentalRating": "",
       "programType": "Sports non-event",
       "genre": "Football, News",
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-10-29_SH033651660000_114502000521_2017-12-12T23:22:00Z_p221266_i_h10_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "In Depth With Graham Bensinger",
+      "episodeTitle": "",
+      "description": "Renowned journalist Graham Bensinger interviews some of the biggest names in sports, discussing their lives and careers and some controversial topics.",
+      "scheduledDate": 1793302200000,
+      "duration": 25,
+      "parentalRating": "",
+      "programType": "Series",
+      "genre": "Sports talk, Interview",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-10-29_SH033308670000_112801614915_2026-01-13T18:05:19Z_p8178298_i_h8_ad/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "UEFA Women's Champions League",
@@ -76,11 +87,22 @@
       "episodeTitle": "New Orleans Pelicans vs Sacramento Kings",
       "description": "From Smoothie King Center in New Orleans.",
       "scheduledDate": 1793318400000,
-      "duration": 180,
+      "duration": 150,
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Basketball",
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-10-30_EP030658785552_114758137995_2026-09-02T01:58:24Z_GNLZZGG003M4J5W/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "In Depth With Graham Bensinger",
+      "episodeTitle": "Scott Boras",
+      "description": "Graham travels to Southern California to spend the day with legendary sports agent Scott Boras. The influential broker reflects on his early baseball career.",
+      "scheduledDate": 1793327400000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Series",
+      "genre": "Sports talk, Interview",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-10-30_EP033308670155_114799499155_2025-07-23T14:34:21Z_p30064662_e_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "Saban",
@@ -98,11 +120,22 @@
       "episodeTitle": "",
       "description": "All of the best action from the National Football League.",
       "scheduledDate": 1793332800000,
-      "duration": 150,
+      "duration": 30,
       "parentalRating": "",
       "programType": "Sports non-event",
       "genre": "Family, Football, News, Newsmagazine",
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-10-30_SH060667300000_113358670220_2022-09-12T05:46:51Z_p22911383_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "UEFA Women's Champions League",
+      "episodeTitle": "HB Køge vs. FC Barcelona",
+      "description": "From Capelli Sport Stadion in Denmark.",
+      "scheduledDate": 1793334600000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Soccer",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-10-30_EP032279220176_114758137068_2026-09-07T16:43:21Z_GNLZZGG003N2XPC/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "NFL Minis",

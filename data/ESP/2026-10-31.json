@@ -2,8 +2,8 @@
   "channel": "ESP",
   "date": "2026-10-31",
   "source": "kayo",
-  "fetchedAt": 1793249107639,
-  "fetchedAtIST": "29/10/2026, 10:15:07 am",
+  "fetchedAt": 1793285954471,
+  "fetchedAtIST": "29/10/2026, 8:29:14 pm",
   "events": [
     {
       "programTitle": "NBA Today",
@@ -69,7 +69,7 @@
       "parentalRating": "",
       "programType": "Sports non-event",
       "genre": "Basketball",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-10-30_SH066608350000_114774493110_2026-10-23T07:25:17Z_p34357847_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-10-30_SH066608350000_114796305168_2026-10-23T07:25:17Z_p34357847_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "Baseball Tonight",
@@ -91,7 +91,7 @@
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Playoff sports, Baseball",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-10-31_EP066715800006_114774493120_2026-10-21T17:00:06Z_GNLZZGG003T6DHX/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-10-31_EP066715800007_114799499211_2026-10-21T17:08:53Z_GNLZZGG003T6MHX/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "NFL Blitz",
@@ -113,7 +113,7 @@
       "parentalRating": "",
       "programType": "Sports non-event",
       "genre": "Basketball",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-10-31_SH066608350000_114774493110_2026-10-23T07:25:17Z_p34357847_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-10-31_SH066608350000_114796305168_2026-10-23T07:25:17Z_p34357847_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "WNBL",
@@ -157,7 +157,7 @@
       "parentalRating": "",
       "programType": "Sports non-event",
       "genre": "Basketball",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-10-31_SH066608350000_114774493110_2026-10-23T07:25:17Z_p34357847_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-10-31_SH066608350000_114796305168_2026-10-23T07:25:17Z_p34357847_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "NBL Pregame",
@@ -217,13 +217,13 @@
     {
       "programTitle": "College Football",
       "episodeTitle": "Notre Dame vs Navy",
-      "description": "From Boston Stadium in Foxboro, MA.",
+      "description": "From Gillette Stadium in Foxboro, Mass.",
       "scheduledDate": 1793462400000,
       "duration": 180,
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Football",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-10-31_EP064738031152_114774493309_2026-06-20T19:17:16Z_GNLZZGG00370RHT/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-10-31_EP064738031152_114835990687_2026-06-20T19:17:16Z_GNLZZGG00370RHT/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     }
   ]
 }

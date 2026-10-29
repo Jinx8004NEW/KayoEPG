@@ -2,8 +2,8 @@
   "channel": "SPS",
   "date": "2026-10-31",
   "source": "kayo",
-  "fetchedAt": 1793249107626,
-  "fetchedAtIST": "29/10/2026, 10:15:07 am",
+  "fetchedAt": 1793285954458,
+  "fetchedAtIST": "29/10/2026, 8:29:14 pm",
   "events": [
     {
       "programTitle": "The F1 Show",
@@ -36,7 +36,7 @@
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Auto racing",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-10-30_EP027326820884_114767186346_2026-10-28T15:23:41Z_GNLZZGG003VFVBT/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-10-30_EP027326820884_114829694179_2026-10-29T11:21:49Z_GNLZZGG003VPGT3/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "MotoGP Racing",
@@ -91,7 +91,7 @@
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Motorcycle racing",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-10-31_EP046925380398_114779219140_2026-10-28T11:22:46Z_GNLZZGG003VDYBR/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-10-31_EP046925380398_114823980048_2026-10-28T11:22:46Z_GNLZZGG003VDYBR/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "MotoGP Racing",
@@ -102,7 +102,7 @@
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Motorcycle racing",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-10-31_EP028104881599_114772608568_2026-10-28T11:24:48Z_GNLZZGG003VDE5J/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-10-31_EP028104881599_114826900267_2026-10-28T11:24:48Z_GNLZZGG003VDE5J/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "MotoGP Racing",
@@ -146,7 +146,7 @@
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Motorcycle racing",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-10-31_EP046925380400_114781409940_2026-10-28T11:23:35Z_GNLZZGG003VDYE4/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-10-31_EP046925380400_114823980020_2026-10-28T11:23:35Z_GNLZZGG003VDYE4/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "MotoGP Racing",
@@ -190,7 +190,7 @@
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Auto racing",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-10-31_EP027326820883_114767145944_2026-10-28T15:23:16Z_GNLZZGG003VFV9D/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-10-31_EP027326820883_114829694151_2026-10-29T11:21:37Z_GNLZZGG003VPGP7/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "The F1 Show",
@@ -208,11 +208,22 @@
       "episodeTitle": "Mexico City Grand Prix, Practice 2",
       "description": "From Autodromo Hermanos Rodriguez in Mexico City.",
       "scheduledDate": 1793444400000,
-      "duration": 61,
+      "duration": 60,
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Auto racing",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-10-31_EP027326820884_114767186346_2026-10-28T15:23:41Z_GNLZZGG003VFVBT/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-10-31_EP027326820884_114829694179_2026-10-29T11:21:49Z_GNLZZGG003VPGT3/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "MotoGP Racing",
+      "episodeTitle": "Petronas Grand Prix of Malaysia, Qualifying",
+      "description": "From Petronas Sepang International Circuit in Sepang, Malaysia.",
+      "scheduledDate": 1793448000000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Motorcycle racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-10-31_EP028104881596_114767186102_2026-10-28T11:24:51Z_GNLZZGG003VDE4P/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "MotoGP Racing",
@@ -234,7 +245,7 @@
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Motorcycle racing",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-10-31_SH028104880000_112186554419_2025-04-17T20:03:48Z_p445587_i_h8_ae/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-10-31_SH028104880000_114824137571_2025-04-17T20:03:48Z_p445587_i_h8_ae/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "INSIDE: Ducati Lenovo Team",
@@ -256,7 +267,7 @@
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Auto racing",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-10-31_EP027326820883_114767145944_2026-10-28T15:23:16Z_GNLZZGG003VFV9D/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-10-31_EP027326820883_114829694151_2026-10-29T11:21:37Z_GNLZZGG003VPGP7/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "The F1 Show",
@@ -278,7 +289,7 @@
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Auto racing",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-10-31_EP027326820884_114767186346_2026-10-28T15:23:41Z_GNLZZGG003VFVBT/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-10-31_EP027326820884_114829694179_2026-10-29T11:21:49Z_GNLZZGG003VPGT3/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "MotoGP Racing",
@@ -289,7 +300,7 @@
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Motorcycle racing",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-10-31_SH028104880000_112186554419_2025-04-17T20:03:48Z_p445587_i_h8_ae/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-10-31_SH028104880000_114824137571_2025-04-17T20:03:48Z_p445587_i_h8_ae/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "Formula 1",
@@ -300,7 +311,7 @@
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Auto racing",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-10-31_EP027326820885_114767185110_2026-10-28T15:24:10Z_GNLZZGG003VFVDR/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-10-31_EP027326820885_114829694168_2026-10-29T11:21:50Z_GNLZZGG003VPGT9/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     }
   ]
 }
