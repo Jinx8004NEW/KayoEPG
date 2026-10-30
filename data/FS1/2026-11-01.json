@@ -2,8 +2,8 @@
   "channel": "FS1",
   "date": "2026-11-01",
   "source": "kayo",
-  "fetchedAt": 1793335480153,
-  "fetchedAtIST": "30/10/2026, 10:14:40 am",
+  "fetchedAt": 1793371971737,
+  "fetchedAtIST": "30/10/2026, 8:22:51 pm",
   "events": [
     {
       "programTitle": "Test Cricket",
@@ -120,7 +120,7 @@
       "episodeTitle": "Queensland vs. Victoria",
       "description": "Coverage of matches played as part of Australia's domestic first-class cricket competition.",
       "scheduledDate": 1793490900000,
-      "duration": 125,
+      "duration": 130,
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Cricket",
@@ -138,11 +138,33 @@
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-11-01_SH033446590000_98978823590_2023-09-29T14:53:53Z_p8163404_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
+      "programTitle": "Test Cricket",
+      "episodeTitle": "",
+      "description": "Coverage and highlights from international test cricket matches.",
+      "scheduledDate": 1793498700000,
+      "duration": 32,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Cricket, Classic sport event",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-11-01_SH033446590000_98978823590_2023-09-29T14:53:53Z_p8163404_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
       "programTitle": "Sheffield Shield",
       "episodeTitle": "Queensland vs. Victoria",
       "description": "Coverage of matches played as part of Australia's domestic first-class cricket competition.",
       "scheduledDate": 1793500500000,
       "duration": 295,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Cricket",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-11-01_EP028878790132_114835324408_2026-10-28T20:13:49Z_GNLZZGG003VJ5S4/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Sheffield Shield",
+      "episodeTitle": "Queensland vs. Victoria",
+      "description": "Coverage of matches played as part of Australia's domestic first-class cricket competition.",
+      "scheduledDate": 1793500620000,
+      "duration": 293,
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Cricket",

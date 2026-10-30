@@ -2,8 +2,8 @@
   "channel": "ESP",
   "date": "2026-10-31",
   "source": "kayo",
-  "fetchedAt": 1793335480182,
-  "fetchedAtIST": "30/10/2026, 10:14:40 am",
+  "fetchedAt": 1793371971785,
+  "fetchedAtIST": "30/10/2026, 8:22:51 pm",
   "events": [
     {
       "programTitle": "NBA Today",
@@ -28,15 +28,15 @@
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-10-30_SH033280050000_114849651102_2022-08-27T02:25:47Z_p267723_i_h8_ae/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "NFL Blitz",
+      "programTitle": "Ball or Nothin'",
       "episodeTitle": "",
-      "description": "All of the best action from the National Football League.",
+      "description": "",
       "scheduledDate": 1793394000000,
       "duration": 30,
       "parentalRating": "",
       "programType": "Sports non-event",
-      "genre": "Family, Football, News, Newsmagazine",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-10-30_SH060667300000_113358670220_2022-09-12T05:46:51Z_p22911383_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "genre": "Basketball",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-10-30_SH066608350000_114796305168_2026-10-23T07:25:17Z_p34357847_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "Pardon the Interruption",
@@ -50,15 +50,15 @@
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-10-30_SH032424080000_114840902253_2021-04-08T22:26:28Z_p186288_i_h8_ae/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "NBA Action",
-      "episodeTitle": "",
-      "description": "A weekly look back and recap of the top news and highlights in the NBA, with exclusive interviews and play-by-play analysis.",
+      "programTitle": "NHL Hockey",
+      "episodeTitle": "Vegas Golden Knights vs New Jersey Devils",
+      "description": "From T-Mobile Arena in Las Vegas.",
       "scheduledDate": 1793397600000,
-      "duration": 30,
+      "duration": 150,
       "parentalRating": "",
-      "programType": "Sports non-event",
-      "genre": "Basketball",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-10-30_SH033308440000_114518311611_2017-10-27T22:01:00Z_p448615_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "programType": "Sports event",
+      "genre": "Hockey",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-10-30_EP033422284692_114877941284_2026-08-01T14:38:07Z_GNLZZGG003DFRVE/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "Ball or Nothin'",
@@ -92,6 +92,50 @@
       "programType": "Sports event",
       "genre": "Playoff sports, Baseball",
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-10-31_EP066715800007_114849995771_2026-10-21T17:08:53Z_GNLZZGG003T6MHX/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NBA Action",
+      "episodeTitle": "",
+      "description": "A weekly look back and recap of the top news and highlights in the NBA, with exclusive interviews and play-by-play analysis.",
+      "scheduledDate": 1793406600000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Basketball",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-10-31_SH033308440000_114518311611_2017-10-27T22:01:00Z_p448615_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NFL Blitz",
+      "episodeTitle": "",
+      "description": "All of the best action from the National Football League.",
+      "scheduledDate": 1793408400000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Family, Football, News, Newsmagazine",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-10-31_SH060667300000_113358670220_2022-09-12T05:46:51Z_p22911383_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "E60",
+      "episodeTitle": "Being Ben",
+      "description": "ESPN presents in-depth stories relating to American and international sports, featuring some of the biggest names in the field.",
+      "scheduledDate": 1793410200000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Newsmagazine",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-10-31_SH033308270000_79811912898_2019-10-17T14:20:31Z_p229472_i_h10_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "SportsCenter",
+      "episodeTitle": "Top Plays of September",
+      "description": "The team deliver the latest news, highlights, and inside information from the wide world of sports, as well as trending topics across social media platforms.",
+      "scheduledDate": 1793413800000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "News, Sports talk",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-10-31_SH033259060000_109832503473_2018-04-18T10:39:00Z_p186674_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "NFL Blitz",
@@ -223,7 +267,7 @@
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Football",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-10-31_EP064738031152_114835990687_2026-06-20T19:17:16Z_GNLZZGG00370RHT/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-10-31_EP064738031152_114894562663_2026-06-20T19:17:16Z_GNLZZGG00370RHT/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     }
   ]
 }

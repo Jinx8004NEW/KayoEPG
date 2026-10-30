@@ -2,8 +2,8 @@
   "channel": "ESP",
   "date": "2026-10-30",
   "source": "kayo",
-  "fetchedAt": 1793335480181,
-  "fetchedAtIST": "30/10/2026, 10:14:40 am",
+  "fetchedAt": 1793371971784,
+  "fetchedAtIST": "30/10/2026, 8:22:51 pm",
   "events": [
     {
       "programTitle": "To Be Announced",
@@ -61,6 +61,17 @@
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-10-30_SH027575020000_113966071598_2021-11-15T14:36:19Z_p514472_b_h8_dp/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
+      "programTitle": "ONE Friday Fights 176",
+      "episodeTitle": "",
+      "description": "From Lumpinee Boxing Stadium in Bangkok.",
+      "scheduledDate": 1793367000000,
+      "duration": 180,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Mixed martial arts, Martial arts",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-10-30_SH066868040000_114894139835_2026-10-27T15:16:38Z_p34323804_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
       "programTitle": "To Be Announced",
       "episodeTitle": "",
       "description": "The programming for this time slot has yet to be determined and is being confirmed by the broadcast channel.",
@@ -70,6 +81,50 @@
       "programType": "TBA",
       "genre": "Special, Entertainment",
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-10-30_SH027575020000_113966071598_2021-11-15T14:36:19Z_p514472_b_h8_dp/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NFL Blitz",
+      "episodeTitle": "",
+      "description": "All of the best action from the National Football League.",
+      "scheduledDate": 1793377800000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Family, Football, News, Newsmagazine",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-10-30_SH060667300000_113358670220_2022-09-12T05:46:51Z_p22911383_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NFL Minis",
+      "episodeTitle": "2026: Carolina Panthers at Green Bay Packers",
+      "description": "A collection of special condensed replays featuring the best highlights and all the key moments on the field.",
+      "scheduledDate": 1793379600000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Classic sport event, Football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-10-30_SH036425140000_113987719975_2020-10-08T06:20:45Z_p18931248_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NFL Films Presents",
+      "episodeTitle": "Inside The NFL",
+      "description": "A unique perspective on the heroes and personalities of the NFL and how they influenced the history of the sport.",
+      "scheduledDate": 1793381400000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Football, Documentary",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-10-30_EP033308300141_114894139809_2026-10-24T09:35:04Z_p34437080_e_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Bussin' & Pate On Campus",
+      "episodeTitle": "",
+      "description": "College football analyst Josh Pate and the Bussin' with the Boys crew preview college football action.",
+      "scheduledDate": 1793383200000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-10-30_SH066030980000_114879762884_2026-08-25T17:34:45Z_p33894692_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     }
   ]
 }

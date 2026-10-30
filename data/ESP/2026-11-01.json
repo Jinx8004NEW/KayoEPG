@@ -2,8 +2,8 @@
   "channel": "ESP",
   "date": "2026-11-01",
   "source": "kayo",
-  "fetchedAt": 1793335480182,
-  "fetchedAtIST": "30/10/2026, 10:14:40 am",
+  "fetchedAt": 1793371971785,
+  "fetchedAtIST": "30/10/2026, 8:22:51 pm",
   "events": [
     {
       "programTitle": "College Football Scoreboard",
@@ -50,15 +50,37 @@
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-10-31_SH033268260000_112437273027_2019-12-21T18:40:07Z_p629287_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "Saban",
-      "episodeTitle": "The Mountain",
-      "description": "",
+      "programTitle": "College Football Scoreboard",
+      "episodeTitle": "",
+      "description": "Highlights and up to the minute scores during the college football season, with a look at the major storylines in the competition.",
       "scheduledDate": 1793487600000,
-      "duration": 60,
+      "duration": 30,
       "parentalRating": "",
       "programType": "Sports non-event",
-      "genre": "Football, Documentary",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-10-31_EP066455750005_114758138632_2026-10-22T19:44:56Z_p33978881_e_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "genre": "Football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-10-31_SH033268260000_112437273027_2019-12-21T18:40:07Z_p629287_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "College Football",
+      "episodeTitle": "",
+      "description": "American college football action.",
+      "scheduledDate": 1793489400000,
+      "duration": 7,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-10-31_SH064738030000_113872427524_2021-12-22T16:16:53Z_p191261_i_h8_ag/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "College Football",
+      "episodeTitle": "North Carolina vs Miami",
+      "description": "Kenan Stadium",
+      "scheduledDate": 1793489820000,
+      "duration": 203,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-10-31_EP064738031135_114877941273_2026-06-20T16:25:12Z_GNLZZGG0037068E/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "2026 World Series",
@@ -105,26 +127,26 @@
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-11-01_EP029269501425_114799499109_2026-10-08T20:02:51Z_GNLZZGG003RRZ70/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "2026 World Series",
-      "episodeTitle": "Milwaukee Brewers at Tampa Bay Rays",
-      "description": "From Tropicana Field in St. Petersburg, Fla.",
-      "scheduledDate": 1793520000000,
-      "duration": 120,
-      "parentalRating": "",
-      "programType": "Sports event",
-      "genre": "Playoff sports, Baseball",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-11-01_EP066715800003_114767186240_2026-10-21T16:58:32Z_GNLZZGG003T6CVW/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
-    {
       "programTitle": "NBA Basketball",
       "episodeTitle": "Memphis Grizzlies vs Sacramento Kings",
       "description": "From the FedEx Forum in Memphis, Tenn.",
-      "scheduledDate": 1793527200000,
+      "scheduledDate": 1793520000000,
       "duration": 120,
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Basketball",
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-11-01_EP030658785569_114767185589_2026-09-02T04:56:50Z_GNLZZGG003M5477/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "College Football",
+      "episodeTitle": "Florida vs Georgia",
+      "description": "From Mercedes-Benz Stadium in Atlanta.",
+      "scheduledDate": 1793527200000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-11-01_EP064738031163_114770168999_2026-06-20T19:17:10Z_GNLZZGG00370SYR/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "NHL Hockey",

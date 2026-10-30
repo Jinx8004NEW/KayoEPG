@@ -2,8 +2,8 @@
   "channel": "ES2",
   "date": "2026-10-31",
   "source": "kayo",
-  "fetchedAt": 1793335480184,
-  "fetchedAtIST": "30/10/2026, 10:14:40 am",
+  "fetchedAt": 1793371971791,
+  "fetchedAtIST": "30/10/2026, 8:22:51 pm",
   "events": [
     {
       "programTitle": "First Take",
@@ -127,15 +127,26 @@
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-10-31_EP029292910546_114784345311_2026-10-28T23:04:40Z_GNLZZGG003VM42Q/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "2026 World Series",
-      "episodeTitle": "Tampa Bay Rays at Milwaukee Brewers",
-      "description": "From American Family Field in Milwaukee.",
+      "programTitle": "NHL Hockey",
+      "episodeTitle": "Vegas Golden Knights vs New Jersey Devils",
+      "description": "From T-Mobile Arena in Las Vegas.",
       "scheduledDate": 1793440800000,
-      "duration": 180,
+      "duration": 120,
       "parentalRating": "",
       "programType": "Sports event",
-      "genre": "Playoff sports, Baseball",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-10-31_EP066715800007_114849995771_2026-10-21T17:08:53Z_GNLZZGG003T6MHX/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "genre": "Hockey",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-10-31_EP033422284692_114877941284_2026-08-01T14:38:07Z_GNLZZGG003DFRVE/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "College Football",
+      "episodeTitle": "Sacramento State vs Kent State",
+      "description": "From Hornet Stadium in Sacramento, Calif.",
+      "scheduledDate": 1793448000000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-10-31_EP064738031149_114783941969_2026-06-20T19:16:43Z_GNLZZGG00370H3V/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "College Football",
@@ -147,6 +158,17 @@
       "programType": "Sports event",
       "genre": "Football",
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-10-31_EP064738031149_114783941969_2026-06-20T19:16:43Z_GNLZZGG00370H3V/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Saban",
+      "episodeTitle": "The Mountain",
+      "description": "",
+      "scheduledDate": 1793455200000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Football, Documentary",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-10-31_EP066455750005_114758138632_2026-10-22T19:44:56Z_p33978881_e_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "Ball or Nothin'",

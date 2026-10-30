@@ -2,8 +2,8 @@
   "channel": "RTV",
   "date": "2026-10-31",
   "source": "kayo",
-  "fetchedAt": 1793335480188,
-  "fetchedAtIST": "30/10/2026, 10:14:40 am",
+  "fetchedAt": 1793371971797,
+  "fetchedAtIST": "30/10/2026, 8:22:51 pm",
   "events": [
     {
       "programTitle": "Get on SA",
@@ -41,13 +41,13 @@
     {
       "programTitle": "Lay Back",
       "episodeTitle": "",
-      "description": "",
+      "description": "The team preview select races across Australia, analyse form, provide best bets and lay strategies, and deliver in-depth insights to help punters make informed decisions.",
       "scheduledDate": 1793392200000,
       "duration": 30,
       "parentalRating": "",
       "programType": "Series",
-      "genre": "Other",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/148460_2026-10-30_SH066761490000_114520345729_2026-10-23T06:51:22Z_p34431539_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "genre": "Horse racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/148460_2026-10-30_SH066761490000_114879659610_2026-10-23T06:51:22Z_p34431539_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "Foxcatcher: On the Hunt",
@@ -160,26 +160,26 @@
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/148460_2026-10-31_SH029304380000_107969744569_2019-10-09T23:20:18Z_p15316396_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "The Triple Trio",
+      "programTitle": "Silks",
       "episodeTitle": "",
-      "description": "A panel of experts present a frank and fearless discussion of Hong Kong horse racing, covering the top meets and speaking with jockeys.",
+      "description": "Shines a light on the personalities, stories and passion that make Victorian racing so unique.",
       "scheduledDate": 1793448000000,
-      "duration": 60,
+      "duration": 15,
       "parentalRating": "",
-      "programType": "Sports non-event",
-      "genre": "Other",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/148460_2026-10-31_SH047643540000_99514215733_2023-06-01T05:16:14Z_p24858187_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "programType": "Series",
+      "genre": "Documentary, Sports talk, Horse racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/148460_2026-10-31_SH066861530000_114872456599_2026-10-29T07:20:37Z_p34479179_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "Racing Review",
+      "programTitle": "Raceday Review",
       "episodeTitle": "",
-      "description": "A full recap of racing from Wangaratta.",
+      "description": "A look back at the action from events on the Australian horse racing calendar with analytics and in-depth reviews from the track.",
       "scheduledDate": 1793448900000,
       "duration": 30,
-      "parentalRating": "NC",
+      "parentalRating": "",
       "programType": "Sports non-event",
       "genre": "Horse racing",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/148460_2026-10-31_SH065368570000_114844843034_2022-09-19T11:46:59Z_p872189_i_h8_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/148460_2026-10-31_SH029304380000_107969744569_2019-10-09T23:20:18Z_p15316396_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "Racenight Live",
@@ -187,7 +187,7 @@
       "description": "Coverage of horse racing events held throughout Australia and in Hong Kong, as well as analytics and in-depth reviews from the track.",
       "scheduledDate": 1793450700000,
       "duration": 195,
-      "parentalRating": "NC",
+      "parentalRating": "",
       "programType": "Sports non-event",
       "genre": "Horse racing",
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/148460_2026-10-31_SH029437720000_107971181386_2019-10-09T21:40:26Z_p15391316_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"

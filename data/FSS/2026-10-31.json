@@ -2,8 +2,8 @@
   "channel": "FSS",
   "date": "2026-10-31",
   "source": "kayo",
-  "fetchedAt": 1793335480179,
-  "fetchedAtIST": "30/10/2026, 10:14:40 am",
+  "fetchedAt": 1793371971778,
+  "fetchedAtIST": "30/10/2026, 8:22:51 pm",
   "events": [
     {
       "programTitle": "Darts",
@@ -61,26 +61,37 @@
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-10-30_SH064993470000_112455686540_2023-03-16T14:17:12Z_p23293654_i_h10_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
+      "programTitle": "SailGP: Racing on the Edge",
+      "episodeTitle": "",
+      "description": "Focuses on the cutting-edge technology and innovation of the F50 race boats that are used in the SailGP.",
+      "scheduledDate": 1793401200000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Sailing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/Fallback_LTV_103081/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "World Surf League: Dawn Patrol",
+      "episodeTitle": "",
+      "description": "Join the WSL commentary team as they bring you the latest news and expert analysis.",
+      "scheduledDate": 1793403000000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Surfing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-10-30_SH038671020000_107548949347_2021-06-04T09:16:47Z_p12125047_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
       "programTitle": "WSL Tour",
       "episodeTitle": "Championship Tour: Philippines Pro",
       "description": "Coverage of surfing action from the WSL.",
-      "scheduledDate": 1793401200000,
-      "duration": 390,
+      "scheduledDate": 1793404800000,
+      "duration": 330,
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Surfing",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-10-30_SH033247690000_110929981520_2019-03-19T05:40:29Z_p16589355_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
-    {
-      "programTitle": "To Be Announced",
-      "episodeTitle": "",
-      "description": "The programming for this time slot has yet to be determined and is being confirmed by the broadcast channel.",
-      "scheduledDate": 1793404800000,
-      "duration": 240,
-      "parentalRating": "",
-      "programType": "TBA",
-      "genre": "Special, Entertainment",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-10-31_SH027575020000_113966071598_2021-11-15T14:36:19Z_p514472_b_h8_dp/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-10-31_SH033247690000_110929981520_2019-03-19T05:40:29Z_p16589355_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "To Be Announced",

@@ -2,8 +2,8 @@
   "channel": "ES2",
   "date": "2026-11-01",
   "source": "kayo",
-  "fetchedAt": 1793335480185,
-  "fetchedAtIST": "30/10/2026, 10:14:40 am",
+  "fetchedAt": 1793371971792,
+  "fetchedAtIST": "30/10/2026, 8:22:51 pm",
   "events": [
     {
       "programTitle": "College Football Scoreboard",
@@ -17,15 +17,26 @@
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-10-31_SH033268260000_112437273027_2019-12-21T18:40:07Z_p629287_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "NHL Hockey",
-      "episodeTitle": "New York Islanders vs Edmonton Oilers",
-      "description": "From UBS Arena in Elmont, N.Y.",
+      "programTitle": "In Depth With Graham Bensinger",
+      "episodeTitle": "Rick Harrison",
+      "description": "Renowned journalist Graham Bensinger interviews some of the biggest names in sports, discussing their lives and careers and some controversial topics.",
       "scheduledDate": 1793475000000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Series",
+      "genre": "Sports talk, Interview",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-10-31_EP033308670149_114236109376_2025-07-23T14:35:04Z_p29620677_e_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NHL Hockey",
+      "episodeTitle": "Los Angeles Kings vs Buffalo Sabres",
+      "description": "From Crypto.com Arena in Los Angeles.",
+      "scheduledDate": 1793476800000,
       "duration": 150,
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Hockey",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-10-31_EP033422284698_114844500002_2026-09-10T03:08:37Z_GNLZZGG003NRSMQ/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-10-31_EP033422284700_114848481470_2026-08-01T17:39:04Z_GNLZZGG003DG2VT/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "In Depth With Graham Bensinger",
@@ -39,15 +50,48 @@
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-10-31_EP033308670149_114236109376_2025-07-23T14:35:04Z_p29620677_e_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "NBA Basketball",
-      "episodeTitle": "New Orleans Pelicans vs Atlanta Hawks",
-      "description": "From Smoothie King Center in New Orleans.",
+      "programTitle": "In Depth With Graham Bensinger",
+      "episodeTitle": "Alex Ovechkin",
+      "description": "Graham spends two days in Russia with Alex Ovechkin, who chats about his family, his brother's death, and getting over losses.",
+      "scheduledDate": 1793485800000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Series",
+      "genre": "Sports talk, Interview",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-10-31_SH033308670000_112801614915_2026-01-13T18:05:19Z_p8178298_i_h8_ad/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NFL Blitz",
+      "episodeTitle": "",
+      "description": "All of the best action from the National Football League.",
       "scheduledDate": 1793487600000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Family, Football, News, Newsmagazine",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-10-31_SH060667300000_113358670220_2022-09-12T05:46:51Z_p22911383_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Ball or Nothin'",
+      "episodeTitle": "",
+      "description": "",
+      "scheduledDate": 1793489400000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Basketball",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-10-31_SH066608350000_114796305168_2026-10-23T07:25:17Z_p34357847_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NBA Basketball",
+      "episodeTitle": "Memphis Grizzlies vs Sacramento Kings",
+      "description": "From the FedEx Forum in Memphis, Tenn.",
+      "scheduledDate": 1793491200000,
       "duration": 150,
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Basketball",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-10-31_EP030658785566_114212430044_2026-09-02T04:45:29Z_GNLZZGG003M4QF3/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-11-01_EP030658785569_114767185589_2026-09-02T04:56:50Z_GNLZZGG003M5477/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "In Depth With Graham Bensinger",
@@ -72,6 +116,28 @@
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-11-01_EP033422284704_114843665920_2026-08-01T17:39:23Z_GNLZZGG003DG1TZ/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
+      "programTitle": "Saban",
+      "episodeTitle": "Home",
+      "description": "",
+      "scheduledDate": 1793500200000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Football, Documentary",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-11-01_EP066455750004_114887853101_2026-10-22T19:44:56Z_p33978880_e_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Saban",
+      "episodeTitle": "The Mountain",
+      "description": "",
+      "scheduledDate": 1793503800000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Football, Documentary",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-11-01_EP066455750005_114758138632_2026-10-22T19:44:56Z_p33978881_e_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
       "programTitle": "To Be Announced",
       "episodeTitle": "",
       "description": "The programming for this time slot has yet to be determined and is being confirmed by the broadcast channel.",
@@ -83,37 +149,147 @@
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-11-01_SH027575020000_113966071598_2021-11-15T14:36:19Z_p514472_b_h8_dp/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "To Be Announced",
+      "programTitle": "SportsCenter",
       "episodeTitle": "",
-      "description": "The programming for this time slot has yet to be determined and is being confirmed by the broadcast channel.",
+      "description": "The team deliver the latest news, highlights, and inside information from the wide world of sports, as well as trending topics across social media platforms.",
+      "scheduledDate": 1793507400000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "News, Sports talk",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-11-01_SH033259060000_109832503473_2018-04-18T10:39:00Z_p186674_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "College Football Final",
+      "episodeTitle": "",
+      "description": "Matt Barrie, Joey Galloway and Jesse Palmer take a look at the latest college football action, recapping the games and discussing the highlights.",
+      "scheduledDate": 1793509200000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-11-01_SH033308190000_114894140014_2018-01-20T00:41:00Z_p221262_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "College Football Final",
+      "episodeTitle": "",
+      "description": "Matt Barrie, Joey Galloway and Jesse Palmer take a look at the latest college football action, recapping the games and discussing the highlights.",
+      "scheduledDate": 1793512800000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-11-01_SH033308190000_114894140014_2018-01-20T00:41:00Z_p221262_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NBA Minis",
+      "episodeTitle": "2026-27: Sacramento Kings at Memphis Grizzlies",
+      "description": "A collection of special condensed replays featuring the best highlights and all the key moments on the court.",
+      "scheduledDate": 1793516400000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Classic sport event, Basketball",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/Fallback_LTV_103360/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "ESPN FC",
+      "episodeTitle": "",
+      "description": "ESPN FC brings you a round-up of the latest news from the world of football, including in-depth analysis and exclusive interviews.",
+      "scheduledDate": 1793518200000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Series",
+      "genre": "Soccer, Sports talk",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-11-01_SH033236780000_109573421566_2026-05-25T06:15:30Z_p10106369_i_h11_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "College Football",
+      "episodeTitle": "Notre Dame vs Navy",
+      "description": "From Gillette Stadium in Foxboro, Mass.",
       "scheduledDate": 1793520000000,
-      "duration": 240,
+      "duration": 120,
       "parentalRating": "",
-      "programType": "TBA",
-      "genre": "Special, Entertainment",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-11-01_SH027575020000_113966071598_2021-11-15T14:36:19Z_p514472_b_h8_dp/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "programType": "Sports event",
+      "genre": "Football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-11-01_EP064738031152_114894562663_2026-06-20T19:17:16Z_GNLZZGG00370RHT/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "To Be Announced",
-      "episodeTitle": "",
-      "description": "The programming for this time slot has yet to be determined and is being confirmed by the broadcast channel.",
+      "programTitle": "College Football",
+      "episodeTitle": "Texas vs Mississippi State",
+      "description": "From Darrell K. Royal - Texas Memorial Stadium in Austin, Texas.",
+      "scheduledDate": 1793527200000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-11-01_EP064738031106_114887853052_2026-06-20T16:22:39Z_GNLZZGG003709EG/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "College Football",
+      "episodeTitle": "North Carolina vs Miami",
+      "description": "Kenan Stadium",
       "scheduledDate": 1793534400000,
-      "duration": 240,
+      "duration": 120,
       "parentalRating": "",
-      "programType": "TBA",
-      "genre": "Special, Entertainment",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-11-01_SH027575020000_113966071598_2021-11-15T14:36:19Z_p514472_b_h8_dp/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "programType": "Sports event",
+      "genre": "Football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-11-01_EP064738031135_114877941273_2026-06-20T16:25:12Z_GNLZZGG0037068E/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "To Be Announced",
-      "episodeTitle": "",
-      "description": "The programming for this time slot has yet to be determined and is being confirmed by the broadcast channel.",
-      "scheduledDate": 1793548800000,
-      "duration": 240,
+      "programTitle": "College Football",
+      "episodeTitle": "Cincinnati vs Utah",
+      "description": "From Nippert Stadium in Cincinnati.",
+      "scheduledDate": 1793541600000,
+      "duration": 120,
       "parentalRating": "",
-      "programType": "TBA",
-      "genre": "Special, Entertainment",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-11-01_SH027575020000_113966071598_2021-11-15T14:36:19Z_p514472_b_h8_dp/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "programType": "Sports event",
+      "genre": "Football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-11-01_EP064738033580_114887598589_2026-10-29T20:01:48Z_GNLZZGG003VREDP/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "SC: Stories",
+      "episodeTitle": "Volume 41",
+      "description": "Presents impressive stories of athletes who have excelled in sports.",
+      "scheduledDate": 1793548800000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Series",
+      "genre": "News",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-11-01_SH046772320000_105518246248_2023-03-14T05:26:40Z_p24188974_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NFL Matchup",
+      "episodeTitle": "",
+      "description": "Get the latest news, info, analysis and straight talk from around all the action of the National Football League.",
+      "scheduledDate": 1793550600000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-11-01_SH033308410000_114774493164_2022-08-28T09:45:48Z_p816920_i_h10_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "College Football Final",
+      "episodeTitle": "",
+      "description": "Matt Barrie, Joey Galloway and Jesse Palmer take a look at the latest college football action, recapping the games and discussing the highlights.",
+      "scheduledDate": 1793552400000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-11-01_SH033308190000_114894140014_2018-01-20T00:41:00Z_p221262_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Women's College Volleyball",
+      "episodeTitle": "Texas vs Texas A&M",
+      "description": "From Gregory Gymnasium in Austin, Texas.",
+      "scheduledDate": 1793556000000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Volleyball",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-11-01_EP062509051392_114894830976_2026-09-18T17:50:15Z_GNLZZGG003PMBY2/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     }
   ]
 }

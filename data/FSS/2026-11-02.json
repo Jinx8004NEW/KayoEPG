@@ -2,9 +2,20 @@
   "channel": "FSS",
   "date": "2026-11-02",
   "source": "kayo",
-  "fetchedAt": 1793335480180,
-  "fetchedAtIST": "30/10/2026, 10:14:40 am",
+  "fetchedAt": 1793371971780,
+  "fetchedAtIST": "30/10/2026, 8:22:51 pm",
   "events": [
+    {
+      "programTitle": "Getting a Round In",
+      "episodeTitle": "Season Review",
+      "description": "Australian professional golfer, Paul Gow hosts celebrities as his playing partners who share his love for the game of golf.",
+      "scheduledDate": 1793559600000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Series",
+      "genre": "Golf, Interview",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-11-01_SH048121120000_110998856207_2023-07-18T05:56:16Z_p25221374_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
     {
       "programTitle": "Getting a Round In",
       "episodeTitle": "Season Review",
