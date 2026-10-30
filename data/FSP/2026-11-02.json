@@ -1,0 +1,31 @@
+{
+  "channel": "FSP",
+  "date": "2026-11-02",
+  "source": "kayo",
+  "fetchedAt": 1793335480170,
+  "fetchedAtIST": "30/10/2026, 10:14:40 am",
+  "events": [
+    {
+      "programTitle": "NASCAR Cup Series",
+      "episodeTitle": "Xfinity 500",
+      "description": "Racing action from the NASCAR Cup Series.",
+      "scheduledDate": 1793557800000,
+      "duration": 270,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Auto racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-11-01_EP035183560024_114835324613_2021-10-29T08:06:52Z_p19269947_e_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Golf",
+      "episodeTitle": "Players Series South Australia, Final Round",
+      "description": "A full coverage of golf tournaments and events from around the world, featuring all the action and highlights.",
+      "scheduledDate": 1793574000000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-11-01_SH032772030000_113702935496_2025-04-03T19:44:22Z_p706015_i_h8_ad/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    }
+  ]
+}

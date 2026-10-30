@@ -1,0 +1,64 @@
+{
+  "channel": "SP2",
+  "date": "2026-11-02",
+  "source": "kayo",
+  "fetchedAt": 1793335480158,
+  "fetchedAtIST": "30/10/2026, 10:14:40 am",
+  "events": [
+    {
+      "programTitle": "NRL",
+      "episodeTitle": "Manly-Warringah Sea Eagles vs Sydney Roosters",
+      "description": "From 4 Pines Park in Brookvale, New South Wales, Australia.",
+      "scheduledDate": 1793559600000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Rugby league, Rugby",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-11-01_EP031720961058_114835324506_2026-02-24T10:19:05Z_GNLZZGG002E11CZ/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NRL",
+      "episodeTitle": "New Zealand Warriors vs Wests Tigers",
+      "description": "From Go Media Stadium in Penrose, Auckland, New Zealand.",
+      "scheduledDate": 1793563200000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Rugby league, Rugby",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-11-01_EP031720961059_114835324697_2026-02-24T16:29:49Z_GNLZZGG002E1B1Z/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NRL",
+      "episodeTitle": "Brisbane Broncos vs Dolphins",
+      "description": "From Suncorp Stadium in Milton, Queensland, Australia.",
+      "scheduledDate": 1793566800000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Rugby league, Rugby",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-11-01_EP031720961060_114835324640_2026-02-24T08:14:14Z_GNLZZGG002YQMCH/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NRL",
+      "episodeTitle": "Canterbury-Bankstown Bulldogs vs Newcastle Knights",
+      "description": "From Accor Stadium in Sydney.",
+      "scheduledDate": 1793570400000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Rugby league, Rugby",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-11-01_EP031720961061_114835324412_2026-02-24T10:13:37Z_GNLZZGG002YE6WP/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NRL",
+      "episodeTitle": "",
+      "description": "Comprehensive coverage and full game replays of all the matches played in Australia's National Rugby League.",
+      "scheduledDate": 1793574000000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Rugby league, Rugby",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-11-01_SH031720960000_113055987103_2025-02-14T21:33:28Z_p817685_i_h8_ad/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    }
+  ]
+}

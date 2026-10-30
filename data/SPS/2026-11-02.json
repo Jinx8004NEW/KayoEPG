@@ -1,0 +1,64 @@
+{
+  "channel": "SPS",
+  "date": "2026-11-02",
+  "source": "kayo",
+  "fetchedAt": 1793335480175,
+  "fetchedAtIST": "30/10/2026, 10:14:40 am",
+  "events": [
+    {
+      "programTitle": "Formula 1",
+      "episodeTitle": "Mexico City Grand Prix: Pre Race",
+      "description": "Features all the action and highlights from Formula 1 racing.",
+      "scheduledDate": 1793557800000,
+      "duration": 85,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Classic sport event, Motorsports, Auto racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-11-01_SH035915380000_109578600751_2023-09-29T11:04:19Z_p8544413_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Formula 1",
+      "episodeTitle": "Mexico City Grand Prix",
+      "description": "From Autodromo Hermanos Rodriguez in Mexico City.",
+      "scheduledDate": 1793562900000,
+      "duration": 125,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Auto racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-11-01_EP027326820887_114838625590_2026-10-29T13:24:19Z_GNLZZGG003VPRK2/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Formula 1 Chequered Flag",
+      "episodeTitle": "Mexico City Grand Prix",
+      "description": "A recap of all the Formula 1 racing action, featuring highlights and analysis.",
+      "scheduledDate": 1793570400000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Auto racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-11-01_SH038537820000_108756450962_2020-03-11T21:20:06Z_p17998973_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Ted's Notebook",
+      "episodeTitle": "",
+      "description": "Ted Kravitz gives an exciting behind-the-scenes look at the world of Formula 1.",
+      "scheduledDate": 1793574000000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Auto racing, Motorsports",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-11-01_SH038161890000_106370532176_2021-03-17T07:49:14Z_p9739735_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Formula 1",
+      "episodeTitle": "Mexico City Grand Prix: Race",
+      "description": "Features all the action and highlights from Formula 1 racing.",
+      "scheduledDate": 1793575800000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Classic sport event, Motorsports, Auto racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-11-01_SH035915380000_109578600751_2023-09-29T11:04:19Z_p8544413_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    }
+  ]
+}

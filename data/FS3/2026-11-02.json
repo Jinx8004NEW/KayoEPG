@@ -1,0 +1,42 @@
+{
+  "channel": "FS3",
+  "date": "2026-11-02",
+  "source": "kayo",
+  "fetchedAt": 1793335480162,
+  "fetchedAtIST": "30/10/2026, 10:14:40 am",
+  "events": [
+    {
+      "programTitle": "PGA Tour Golf",
+      "episodeTitle": "Mexico Open, Third Round",
+      "description": "From VidantaWorld in Puerto Vallarta, Jalisco, Mexico.",
+      "scheduledDate": 1793557800000,
+      "duration": 90,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-11-01_EP030899371084_114799499217_2025-02-18T21:43:24Z_p28823883_b_h8_ae/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "PGA Tour Golf",
+      "episodeTitle": "Mexico Open, Final Round",
+      "description": "From Vidanta Nuevo Vallarta in Puerto Vallarta, Jalisco, Mexico.",
+      "scheduledDate": 1793563200000,
+      "duration": 180,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-11-01_EP030899370803_114835324292_2024-02-09T23:02:58Z_p25868237_b_h8_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "LPGA Tour Golf",
+      "episodeTitle": "Maybank Championship, Final Round",
+      "description": "From TPC Kuala Lumpur in Kuala Lumpur, Malaysia.",
+      "scheduledDate": 1793574000000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-11-01_EP031583890622_114799499216_2025-09-22T17:54:13Z_p28888030_b_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    }
+  ]
+}
