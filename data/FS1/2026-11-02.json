@@ -2,8 +2,8 @@
   "channel": "FS1",
   "date": "2026-11-02",
   "source": "kayo",
-  "fetchedAt": 1793392097474,
-  "fetchedAtIST": "31/10/2026, 1:58:17 am",
+  "fetchedAt": 1793420948095,
+  "fetchedAtIST": "31/10/2026, 9:59:08 am",
   "events": [
     {
       "programTitle": "Test Cricket",
@@ -103,6 +103,94 @@
       "programType": "Sports event",
       "genre": "Cricket",
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-11-01_EP028878790134_114844843211_2026-10-28T20:03:57Z_GNLZZGG003VHEWD/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Ashes Classics",
+      "episodeTitle": "2006/07: Australia vs England, 2nd Test",
+      "description": "Revisits archive footage of previous England-Australia cricket battles.",
+      "scheduledDate": 1793585100000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Cricket",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-11-02_SH064479260000_113048372172_2019-07-11T06:20:10Z_p14752161_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Sheffield Shield",
+      "episodeTitle": "Queensland vs Victoria",
+      "description": "Coverage of matches played as part of Australia's domestic first-class cricket competition.",
+      "scheduledDate": 1793586900000,
+      "duration": 295,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Cricket",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-11-02_EP028878790135_114844842897_2026-10-28T20:09:15Z_GNLZZGG003VJ2V2/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "WBBL Pre-Game",
+      "episodeTitle": "Melbourne Stars v Perth Scorchers",
+      "description": "",
+      "scheduledDate": 1793604600000,
+      "duration": 40,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Cricket",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-11-02_SH053558810000_114694904346_2026-10-27T07:37:10Z_p28580679_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Women's Big Bash League",
+      "episodeTitle": "Melbourne Stars vs. Perth Scorchers",
+      "description": "From Junction Oval in Melbourne, Victoria, Australia.",
+      "scheduledDate": 1793607000000,
+      "duration": 200,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Cricket",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-11-02_EP029371060386_114844843043_2026-10-28T11:22:44Z_GNLZZGG003VDYCK/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Test Cricket",
+      "episodeTitle": "3rd Test: South Africa vs. Australia",
+      "description": "Coverage and highlights from international test cricket matches.",
+      "scheduledDate": 1793619000000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Cricket, Classic sport event",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-11-02_SH033446590000_98978823590_2023-09-29T14:53:53Z_p8163404_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Ashes Classics",
+      "episodeTitle": "2006/07: Australia vs England, 2nd Test",
+      "description": "Revisits archive footage of previous England-Australia cricket battles.",
+      "scheduledDate": 1793622600000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Cricket",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-11-02_SH064479260000_113048372172_2019-07-11T06:20:10Z_p14752161_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Women's Big Bash League",
+      "episodeTitle": "",
+      "description": "Coverage of matches in the Women's Big Bash League cricket competition.",
+      "scheduledDate": 1793626200000,
+      "duration": 180,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Cricket",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-11-02_SH029371060000_114403864846_2020-02-13T09:55:12Z_p13769094_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "WBBL Mini",
+      "episodeTitle": "Melbourne Stars v Hobart Hurricanes",
+      "description": "Takes a look at highlights, reactions and expert analysis of the biggest sport stories from Australia and the world.",
+      "scheduledDate": 1793637000000,
+      "duration": 180,
+      "parentalRating": "",
+      "programType": "Series",
+      "genre": "Cricket",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-11-02_SH048957470000_114742965584_2023-10-11T04:14:19Z_p25853183_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     }
   ]
 }

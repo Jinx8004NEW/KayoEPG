@@ -1,0 +1,75 @@
+{
+  "channel": "SPS",
+  "date": "2026-11-03",
+  "source": "kayo",
+  "fetchedAt": 1793420948118,
+  "fetchedAtIST": "31/10/2026, 9:59:08 am",
+  "events": [
+    {
+      "programTitle": "F1 Academy",
+      "episodeTitle": "United States",
+      "description": "Female drivers showcase their skills as they compete against each other to emerge victorious in the F1 Academy.",
+      "scheduledDate": 1793646000000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Auto, Auto racing, Newsmagazine",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-11-02_SH047330970000_112270279746_2024-02-23T19:13:16Z_p24622061_i_h8_ad/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Drive Like A Girl",
+      "episodeTitle": "",
+      "description": "Explore the journey of Australian rally champion Molly Taylor and learn the realities of being a professional driver in a male-dominated sport.",
+      "scheduledDate": 1793647800000,
+      "duration": 90,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Special",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-11-02_SH060722960000_114229659595_2026-10-16T20:57:59Z_p31312343_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Supercars Championship",
+      "episodeTitle": "Gold Coast 500 - Day 1 Pre Race and Race",
+      "description": "Supercars compete in a series across Australia and New Zealand.",
+      "scheduledDate": 1793653200000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Auto racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-11-02_EP027326761263_114396298294_2026-10-14T11:22:46Z_GNLZZGG003S3FEZ/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Supercars Championship",
+      "episodeTitle": "Gold Coast 500 - Day 2 Pre Race and Race",
+      "description": "Supercars compete in a series across Australia and New Zealand.",
+      "scheduledDate": 1793656800000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Auto racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-11-02_EP027326761265_114396298386_2026-10-16T03:21:21Z_GNLZZGG003S9CH8/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Formula 1",
+      "episodeTitle": "Mexico City Grand Prix: Race",
+      "description": "Features all the action and highlights from Formula 1 racing.",
+      "scheduledDate": 1793660400000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Classic sport event, Motorsports, Auto racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-11-02_SH035915380000_109578600751_2023-09-29T11:04:19Z_p8544413_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Moto2 GP Racing",
+      "episodeTitle": "Petronas Grand Prix of Malaysia",
+      "description": "From Petronas Sepang International Circuit in Sepang, Malaysia.",
+      "scheduledDate": 1793662200000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Motorcycle racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-11-02_EP046925380401_114855262415_2026-10-28T11:23:49Z_GNLZZGG003VDE1V/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    }
+  ]
+}

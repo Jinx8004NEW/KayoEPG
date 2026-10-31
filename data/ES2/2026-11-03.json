@@ -1,0 +1,64 @@
+{
+  "channel": "ES2",
+  "date": "2026-11-03",
+  "source": "kayo",
+  "fetchedAt": 1793420948130,
+  "fetchedAtIST": "31/10/2026, 9:59:08 am",
+  "events": [
+    {
+      "programTitle": "Overreaction Monday",
+      "episodeTitle": "",
+      "description": "",
+      "scheduledDate": 1793646000000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Series",
+      "genre": "News",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-11-02_SH060883270000_114844843342_2025-10-07T18:14:53Z_p31278520_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Women's College Basketball",
+      "episodeTitle": "Oklahoma vs North Carolina",
+      "description": "From Porte de La Chapelle Arena in Paris, France.",
+      "scheduledDate": 1793647800000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Basketball",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-11-02_EP066460470047_114908279158_2026-10-12T10:58:34Z_GNLZZGG003RKLYM/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "",
+      "episodeTitle": "Fear and Doping in Las Vegas",
+      "description": "Dubbed by critics as the Doping Olympics, take a look at the first ever Enhanced Games in Las Vegas, an event where athletes taking PEDs compete for world records and millions in prize money.",
+      "scheduledDate": 1793655000000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Newsmagazine",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-11-02_SH033308270000_79811912898_2019-10-17T14:20:31Z_p229472_i_h10_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "The Rich Eisen Show",
+      "episodeTitle": "",
+      "description": "Host Rich Eisen covers sports, pop culture and humour with a blend of humour and insight, featuring an array of signature guests.",
+      "scheduledDate": 1793658600000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Sports talk",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-11-02_SH060883280000_114546681974_2025-09-03T19:34:05Z_p31028239_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Nothing But Net",
+      "episodeTitle": "",
+      "description": "Kane Pitman and Ryan Broekhoff preview the upcoming NBA and NBL action through their Aussie lens, with guest interviews, highlights and breaking news.",
+      "scheduledDate": 1793662200000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Basketball",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-11-02_SH047654740000_108130071776_2023-06-02T12:16:33Z_p24869175_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    }
+  ]
+}
