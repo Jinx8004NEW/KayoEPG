@@ -2,8 +2,8 @@
   "channel": "FS1",
   "date": "2026-11-01",
   "source": "kayo",
-  "fetchedAt": 1793420948095,
-  "fetchedAtIST": "31/10/2026, 9:59:08 am",
+  "fetchedAt": 1793456487630,
+  "fetchedAtIST": "31/10/2026, 7:51:27 pm",
   "events": [
     {
       "programTitle": "Test Cricket",
@@ -94,15 +94,37 @@
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-10-31_SH048957470000_114742965584_2023-10-11T04:14:19Z_p25853183_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
+      "programTitle": "WBBL Mini",
+      "episodeTitle": "Adelaide Strikers v Melbourne Stars",
+      "description": "Takes a look at highlights, reactions and expert analysis of the biggest sport stories from Australia and the world.",
+      "scheduledDate": 1793485800000,
+      "duration": 35,
+      "parentalRating": "",
+      "programType": "Series",
+      "genre": "Cricket",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-10-31_SH048957470000_114742965584_2023-10-11T04:14:19Z_p25853183_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
       "programTitle": "Test Cricket",
       "episodeTitle": "3rd Test, Day 5: South Africa v Australia",
       "description": "Coverage and highlights from international test cricket matches.",
-      "scheduledDate": 1793485800000,
-      "duration": 60,
+      "scheduledDate": 1793487900000,
+      "duration": 20,
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Cricket, Classic sport event",
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-10-31_SH033446590000_98978823590_2023-09-29T14:53:53Z_p8163404_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Sheffield Shield",
+      "episodeTitle": "Queensland vs. Victoria",
+      "description": "Coverage of matches played as part of Australia's domestic first-class cricket competition.",
+      "scheduledDate": 1793489100000,
+      "duration": 160,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Cricket",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-10-31_EP028878790131_114835324294_2026-10-28T20:15:58Z_GNLZZGG003VJ72S/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "Test Cricket",
