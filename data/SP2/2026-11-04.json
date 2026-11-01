@@ -1,0 +1,64 @@
+{
+  "channel": "SP2",
+  "date": "2026-11-04",
+  "source": "kayo",
+  "fetchedAt": 1793508567367,
+  "fetchedAtIST": "1/11/2026, 10:19:27 am",
+  "events": [
+    {
+      "programTitle": "NRL",
+      "episodeTitle": "Parramatta Eels vs Gold Coast Titans",
+      "description": "From CommBank Stadium in Parramatta, New South Wales, Australia.",
+      "scheduledDate": 1793732400000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Rugby league, Rugby",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-11-03_EP031720961080_114886887009_2026-03-11T08:55:25Z_GNLZZGG0030J7N6/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NRL",
+      "episodeTitle": "Wests Tigers vs Newcastle Knights",
+      "description": "From Campbelltown Stadium in Campbelltown, New South Wales, Australia.",
+      "scheduledDate": 1793736000000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Rugby league, Rugby",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-11-03_EP031720961081_114887852953_2026-03-11T02:45:57Z_GNLZZGG0030G61V/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NRL",
+      "episodeTitle": "North Queensland Cowboys vs Manly-Warringah Sea Eagles",
+      "description": "From Queensland Country Bank Stadium in Townsville, Queensland, Australia.",
+      "scheduledDate": 1793739600000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Rugby league, Rugby",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-11-03_EP031720961082_114887853022_2026-03-11T06:42:03Z_GNLZZGG0030HV9R/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NRL",
+      "episodeTitle": "Canberra Raiders vs Melbourne Storm",
+      "description": "From GIO Stadium Canberra in Bruce, Australian Capital Territory, Australia.",
+      "scheduledDate": 1793743200000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Rugby league, Rugby",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-11-03_EP031720961083_114885512118_2026-03-11T08:42:12Z_GNLZZGG0030JJ2T/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NRL",
+      "episodeTitle": "Dolphins vs Penrith Panthers",
+      "description": "From Suncorp Stadium in Milton, Queensland, Australia.",
+      "scheduledDate": 1793746800000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Rugby league, Rugby",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-11-03_EP031720960828_114887853166_2025-04-09T01:16:43Z_GNLZZGG001QSFWH/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    }
+  ]
+}

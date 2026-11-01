@@ -1,0 +1,64 @@
+{
+  "channel": "SPS",
+  "date": "2026-11-04",
+  "source": "kayo",
+  "fetchedAt": 1793508567400,
+  "fetchedAtIST": "1/11/2026, 10:19:27 am",
+  "events": [
+    {
+      "programTitle": "MotoGP Racing",
+      "episodeTitle": "Petronas Grand Prix of Malaysia",
+      "description": "From Petronas Sepang International Circuit in Sepang, Malaysia.",
+      "scheduledDate": 1793730600000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Motorcycle racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-11-03_EP028104881600_114855262252_2026-10-28T11:23:05Z_GNLZZGG003VDYSB/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "MotoGP: After The Flag",
+      "episodeTitle": "Malaysia",
+      "description": "The commentary team interview the top riders and wrap up the weekend of action after the Grand Prix.",
+      "scheduledDate": 1793734200000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Motorcycle racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-11-03_SH045144180000_112768561209_2022-10-28T12:27:14Z_p23278858_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Pro Bull Riding",
+      "episodeTitle": "Hawkesbury",
+      "description": "The best bull riders in Australia and the world compete for prize money on the professional bull riding circuit.",
+      "scheduledDate": 1793736000000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Bull riding",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-11-03_SH029446100000_108472165776_2018-05-25T09:42:00Z_p15394895_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Darts",
+      "episodeTitle": "PDC ANZ Premier League: Week 6",
+      "description": "Covering of all the action from darts events around the world.",
+      "scheduledDate": 1793739600000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Darts",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-11-03_SH032967320000_109954612423_2024-10-04T13:14:55Z_p644283_i_h8_ah/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Formula 1",
+      "episodeTitle": "Mexico City Grand Prix",
+      "description": "From Autodromo Hermanos Rodriguez in Mexico City.",
+      "scheduledDate": 1793746800000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Auto racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-11-03_EP027326820887_114838625590_2026-10-29T13:24:19Z_GNLZZGG003VPRK2/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    }
+  ]
+}

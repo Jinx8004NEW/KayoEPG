@@ -1,0 +1,53 @@
+{
+  "channel": "FSS",
+  "date": "2026-11-04",
+  "source": "kayo",
+  "fetchedAt": 1793508567408,
+  "fetchedAtIST": "1/11/2026, 10:19:27 am",
+  "events": [
+    {
+      "programTitle": "Auto Racing",
+      "episodeTitle": "Shannons SpeedSeries - Sandown, Day 1",
+      "description": "Coverage of motor racing events.",
+      "scheduledDate": 1793736000000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Auto racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-11-03_SH031965880000_112449921438_2024-07-02T08:13:30Z_p334889_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Auto Racing",
+      "episodeTitle": "Shannons SpeedSeries - Sandown, Day 2",
+      "description": "Coverage of motor racing events.",
+      "scheduledDate": 1793739600000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Auto racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-11-03_SH031965880000_112449921438_2024-07-02T08:13:30Z_p334889_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Getting a Round In",
+      "episodeTitle": "Season Review",
+      "description": "Australian professional golfer, Paul Gow hosts celebrities as his playing partners who share his love for the game of golf.",
+      "scheduledDate": 1793743200000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Series",
+      "genre": "Golf, Interview",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-11-03_SH048121120000_110998856207_2023-07-18T05:56:16Z_p25221374_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "WSL Tour",
+      "episodeTitle": "Championship Tour: Philippines Pro",
+      "description": "Coverage of surfing action from the WSL.",
+      "scheduledDate": 1793745000000,
+      "duration": 480,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Surfing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-11-03_SH033247690000_110929981520_2019-03-19T05:40:29Z_p16589355_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    }
+  ]
+}
