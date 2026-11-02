@@ -1,0 +1,53 @@
+{
+  "channel": "FSS",
+  "date": "2026-11-05",
+  "source": "kayo",
+  "fetchedAt": 1793595055843,
+  "fetchedAtIST": "2/11/2026, 10:20:55 am",
+  "events": [
+    {
+      "programTitle": "MotoGP Racing",
+      "episodeTitle": "Petronas Grand Prix of Malaysia, Sprint Race",
+      "description": "From Petronas Sepang International Circuit in Sepang, Malaysia.",
+      "scheduledDate": 1793817000000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Motorcycle racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-11-04_EP028104881597_114856223543_2026-10-28T11:22:59Z_GNLZZGG003VDYNL/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Constellation Cup",
+      "episodeTitle": "Game 3: Australia vs. New Zealand",
+      "description": "Coverage of matches from the Constellation Cup, contested by the Australian and New Zealand national netball teams.",
+      "scheduledDate": 1793818800000,
+      "duration": 90,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Netball",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-11-04_SH030600890000_113942151197_2018-12-06T10:40:00Z_p16032357_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Netball",
+      "episodeTitle": "Constellation Cup, 4th Test Highlights: Australia vs New Zealand",
+      "description": "Highlights from global netball battles as teams worldwide vie for supremacy on the court.",
+      "scheduledDate": 1793824200000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Classic sport event, Netball, Entertainment",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-11-04_SH042569760000_102008171570_2020-07-20T11:20:11Z_p8474652_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "WSL Tour",
+      "episodeTitle": "Championship Tour: Philippines Pro",
+      "description": "Coverage of surfing action from the WSL.",
+      "scheduledDate": 1793831400000,
+      "duration": 480,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Surfing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-11-04_SH033247690000_110929981520_2019-03-19T05:40:29Z_p16589355_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    }
+  ]
+}

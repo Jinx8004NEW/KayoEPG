@@ -2,8 +2,8 @@
   "channel": "SPS",
   "date": "2026-11-02",
   "source": "kayo",
-  "fetchedAt": 1793564197867,
-  "fetchedAtIST": "2/11/2026, 1:46:37 am",
+  "fetchedAt": 1793595055833,
+  "fetchedAtIST": "2/11/2026, 10:20:55 am",
   "events": [
     {
       "programTitle": "Formula 1",
@@ -103,6 +103,17 @@
       "programType": "Sports event",
       "genre": "Motorcycle racing",
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-11-02_EP046925380401_114855262415_2026-10-28T11:23:49Z_GNLZZGG003VDE1V/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Formula 1 Chequered Flag",
+      "episodeTitle": "Mexico City Grand Prix",
+      "description": "A recap of all the Formula 1 racing action, featuring highlights and analysis.",
+      "scheduledDate": 1793592420000,
+      "duration": 53,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Auto racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-11-02_SH038537820000_108756450962_2020-03-11T21:20:06Z_p17998973_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "MotoGP Racing",
