@@ -2,9 +2,20 @@
   "channel": "FAF",
   "date": "2026-11-03",
   "source": "kayo",
-  "fetchedAt": 1793595055817,
-  "fetchedAtIST": "2/11/2026, 10:20:55 am",
+  "fetchedAt": 1793642114735,
+  "fetchedAtIST": "2/11/2026, 11:25:14 pm",
   "events": [
+    {
+      "programTitle": "AFL Women's Premiership",
+      "episodeTitle": "Greater Western Sydney Giants vs Gold Coast SUNS",
+      "description": "From Henson Park in Marrickville, New South Wales, Australia.",
+      "scheduledDate": 1793650200000,
+      "duration": 89,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Australian rules football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-11-02_EP029247970842_114767185207_2026-07-24T02:51:59Z_GNLZZGG003CCCR4/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
     {
       "programTitle": "AFL Women's Premiership",
       "episodeTitle": "Greater Western Sydney Giants vs Gold Coast SUNS",
@@ -15,6 +26,17 @@
       "programType": "Sports event",
       "genre": "Australian rules football",
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-11-02_EP029247970842_114767185207_2026-07-24T02:51:59Z_GNLZZGG003CCCR4/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "The W Debrief",
+      "episodeTitle": "",
+      "description": "Experts review the week's major headlines, stand-out matches and biggest talking points from around the AFLW competition, delivering comprehensive analysis and discussion on women's football.",
+      "scheduledDate": 1793655540000,
+      "duration": 41,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Australian rules football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-11-02_SH060384060000_112853610422_2025-10-15T06:35:17Z_p31174602_b_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "The W Debrief",
@@ -31,7 +53,29 @@
       "programTitle": "AFL Mini",
       "episodeTitle": "Round 24: St Kilda Saints v Gold Coast Suns",
       "description": "Condensed highlights, reaction and analysis of the biggest sport stories from Australia and around the world.",
+      "scheduledDate": 1793658000000,
+      "duration": 20,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Australian rules football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-11-02_SH042238570000_104529301600_2022-03-07T04:36:21Z_p21759801_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "AFL Mini",
+      "episodeTitle": "Round 24: St Kilda Saints v Gold Coast Suns",
+      "description": "Condensed highlights, reaction and analysis of the biggest sport stories from Australia and around the world.",
       "scheduledDate": 1793658600000,
+      "duration": 20,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Australian rules football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-11-02_SH042238570000_104529301600_2022-03-07T04:36:21Z_p21759801_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "AFL Mini",
+      "episodeTitle": "Round 24: Collingwood Magpies v Brisbane Lions",
+      "description": "The reigning premiers need to win to secure a top four finish as they meet the Pies at the MCG.",
+      "scheduledDate": 1793659200000,
       "duration": 20,
       "parentalRating": "",
       "programType": "Sports non-event",
@@ -53,12 +97,34 @@
       "programTitle": "AFL Mini",
       "episodeTitle": "Round 24: Carlton Blues v Fremantle Dockers",
       "description": "Condensed highlights, reaction and analysis of the biggest sport stories from Australia and around the world.",
+      "scheduledDate": 1793660400000,
+      "duration": 20,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Australian rules football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-11-02_SH042238570000_104529301600_2022-03-07T04:36:21Z_p21759801_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "AFL Mini",
+      "episodeTitle": "Round 24: Carlton Blues v Fremantle Dockers",
+      "description": "Condensed highlights, reaction and analysis of the biggest sport stories from Australia and around the world.",
       "scheduledDate": 1793661000000,
       "duration": 20,
       "parentalRating": "",
       "programType": "Sports non-event",
       "genre": "Australian rules football",
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-11-02_SH042238570000_104529301600_2022-03-07T04:36:21Z_p21759801_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "The W Debrief",
+      "episodeTitle": "",
+      "description": "Experts review the week's major headlines, stand-out matches and biggest talking points from around the AFLW competition, delivering comprehensive analysis and discussion on women's football.",
+      "scheduledDate": 1793661600000,
+      "duration": 40,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Australian rules football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-11-02_SH060384060000_112853610422_2025-10-15T06:35:17Z_p31174602_b_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "The W Debrief",
@@ -197,7 +263,18 @@
       "episodeTitle": "Round 12: Brisbane Lions v Carlton Blues",
       "description": "Condensed highlights of some of the greatest encounters from the AFL Women's competition.",
       "scheduledDate": 1793687400000,
-      "duration": 15,
+      "duration": 14,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Australian rules football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-11-03_SH038251630000_111269523232_2025-10-16T04:55:13Z_p19768743_b_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "AFLW Mini",
+      "episodeTitle": "Round 12: West Coast Eagles v Hawthorn Hawks",
+      "description": "Condensed highlights of some of the greatest encounters from the AFL Women's competition.",
+      "scheduledDate": 1793688240000,
+      "duration": 11,
       "parentalRating": "",
       "programType": "Sports non-event",
       "genre": "Australian rules football",
@@ -218,8 +295,30 @@
       "programTitle": "Classic AFL",
       "episodeTitle": "2000 Round 21: Fremantle vs West Coast",
       "description": "Condensed highlights and a look back at full replays of some of the greatest encounters from the Australian Football League.",
+      "scheduledDate": 1793688900000,
+      "duration": 124,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Classic sport event, Australian rules football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-11-03_SH028096630000_102142641835_2018-11-27T09:00:00Z_p14740563_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Classic AFL",
+      "episodeTitle": "2000 Round 21: Fremantle vs West Coast",
+      "description": "Condensed highlights and a look back at full replays of some of the greatest encounters from the Australian Football League.",
       "scheduledDate": 1793689200000,
       "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Classic sport event, Australian rules football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-11-03_SH028096630000_102142641835_2018-11-27T09:00:00Z_p14740563_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Classic AFL",
+      "episodeTitle": "2005 Round 13 Brisbane v Geelong",
+      "description": "Condensed highlights and a look back at full replays of some of the greatest encounters from the Australian Football League.",
+      "scheduledDate": 1793696340000,
+      "duration": 121,
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Classic sport event, Australian rules football",
@@ -272,13 +371,13 @@
     {
       "programTitle": "AFL Women's Premiership",
       "episodeTitle": "West Coast Eagles vs Hawthorn Hawks",
-      "description": "Live from Sullivan Logistics Stadium. Bounce time: 7:15pm AEDT.",
+      "description": "From Leederville Oval in Leederville, Western Australia, Australia.",
       "scheduledDate": 1793721600000,
       "duration": 90,
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Australian rules football",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-11-03_EP029247970841_114464478532_2026-07-24T02:52:08Z_GNLZZGG003CCC5N/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-11-03_EP029247970841_115005834183_2026-07-24T02:52:08Z_GNLZZGG003CCC5N/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "The W Debrief",

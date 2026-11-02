@@ -2,8 +2,8 @@
   "channel": "FSS",
   "date": "2026-11-03",
   "source": "kayo",
-  "fetchedAt": 1793595055840,
-  "fetchedAtIST": "2/11/2026, 10:20:55 am",
+  "fetchedAt": 1793642114753,
+  "fetchedAtIST": "2/11/2026, 11:25:14 pm",
   "events": [
     {
       "programTitle": "Darts",
@@ -51,7 +51,7 @@
     },
     {
       "programTitle": "Darts",
-      "episodeTitle": "PDC ANZ Premier League: Week 6",
+      "episodeTitle": "PDC ANZ Premier League: Finals",
       "description": "Covering of all the action from darts events around the world.",
       "scheduledDate": 1793692800000,
       "duration": 120,
@@ -61,15 +61,15 @@
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-11-03_SH032967320000_109954612423_2024-10-04T13:14:55Z_p644283_i_h8_ah/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "Various Combat Sport",
+      "programTitle": "Bare Knuckle Boxing",
       "episodeTitle": "",
       "description": "",
       "scheduledDate": 1793700000000,
       "duration": 60,
       "parentalRating": "",
-      "programType": "Sports non-event",
-      "genre": "Other",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-11-03_SH066894590000_114878008576_2026-10-30T07:01:51Z_p34494669_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "programType": "Sports event",
+      "genre": "Boxing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-11-03_SH066949960000_115005307611_2021-10-13T17:55:56Z_p10081926_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "LPGA Tour Golf",
@@ -80,7 +80,7 @@
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Golf",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-11-03_EP031583890728_114801888358_2026-10-29T07:22:34Z_GNLZZGG003VNVHE/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-11-03_EP031583890728_115001300726_2026-11-02T11:28:53Z_GNLZZGG003W9NYG/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "SailGP",
@@ -124,7 +124,7 @@
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Golf",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-11-03_EP031583890728_114801888358_2026-10-29T07:22:34Z_GNLZZGG003VNVHE/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-11-03_EP031583890728_115001300726_2026-11-02T11:28:53Z_GNLZZGG003W9NYG/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     }
   ]
 }

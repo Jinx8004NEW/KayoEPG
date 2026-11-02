@@ -2,8 +2,8 @@
   "channel": "FS1",
   "date": "2026-11-03",
   "source": "kayo",
-  "fetchedAt": 1793595055788,
-  "fetchedAtIST": "2/11/2026, 10:20:55 am",
+  "fetchedAt": 1793642114713,
+  "fetchedAtIST": "2/11/2026, 11:25:14 pm",
   "events": [
     {
       "programTitle": "Test Cricket",
@@ -41,13 +41,13 @@
     {
       "programTitle": "WBBL Mini",
       "episodeTitle": "Sydney Thunder vs Brisbane Heat",
-      "description": "Takes a look at highlights, reactions and expert analysis of the biggest sport stories from Australia and the world.",
+      "description": "The latest highlights, reaction and analysis of the biggest sports stories from Australia and around the world.",
       "scheduledDate": 1793658600000,
       "duration": 20,
       "parentalRating": "",
       "programType": "Series",
       "genre": "Cricket",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-11-02_SH048957470000_114742965584_2023-10-11T04:14:19Z_p25853183_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-11-02_SH048957470000_114999026223_2023-10-11T04:14:19Z_p25853183_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "One-Day International Cricket",
@@ -63,31 +63,31 @@
     {
       "programTitle": "WBBL Mini",
       "episodeTitle": "Sydney Sixers v Hobart Hurricanes",
-      "description": "Takes a look at highlights, reactions and expert analysis of the biggest sport stories from Australia and the world.",
+      "description": "The latest highlights, reaction and analysis of the biggest sports stories from Australia and around the world.",
       "scheduledDate": 1793661000000,
       "duration": 20,
       "parentalRating": "",
       "programType": "Series",
       "genre": "Cricket",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-11-02_SH048957470000_114742965584_2023-10-11T04:14:19Z_p25853183_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-11-02_SH048957470000_114999026223_2023-10-11T04:14:19Z_p25853183_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "WBBL Mini",
       "episodeTitle": "Perth Scorchers v Melbourne Renegades",
-      "description": "Takes a look at highlights, reactions and expert analysis of the biggest sport stories from Australia and the world.",
+      "description": "The latest highlights, reaction and analysis of the biggest sports stories from Australia and around the world.",
       "scheduledDate": 1793662200000,
       "duration": 25,
       "parentalRating": "",
       "programType": "Series",
       "genre": "Cricket",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-11-02_SH048957470000_114742965584_2023-10-11T04:14:19Z_p25853183_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-11-02_SH048957470000_114999026223_2023-10-11T04:14:19Z_p25853183_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "Sheffield Shield",
       "episodeTitle": "Queensland vs. Victoria",
       "description": "Coverage of matches played as part of Australia's domestic first-class cricket competition.",
       "scheduledDate": 1793663700000,
-      "duration": 125,
+      "duration": 130,
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Cricket",
@@ -99,6 +99,17 @@
       "description": "Revisits archive footage of previous England-Australia cricket battles.",
       "scheduledDate": 1793671200000,
       "duration": 37,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Cricket",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-11-03_SH064479260000_113048372172_2019-07-11T06:20:10Z_p14752161_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Ashes Classics",
+      "episodeTitle": "2006/07: Australia vs England, 4th Test",
+      "description": "Revisits archive footage of previous England-Australia cricket battles.",
+      "scheduledDate": 1793671500000,
+      "duration": 32,
       "parentalRating": "",
       "programType": "Sports non-event",
       "genre": "Cricket",

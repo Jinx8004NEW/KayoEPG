@@ -2,8 +2,8 @@
   "channel": "SPS",
   "date": "2026-11-03",
   "source": "kayo",
-  "fetchedAt": 1793595055834,
-  "fetchedAtIST": "2/11/2026, 10:20:55 am",
+  "fetchedAt": 1793642114748,
+  "fetchedAtIST": "2/11/2026, 11:25:14 pm",
   "events": [
     {
       "programTitle": "F1 Academy",
@@ -80,7 +80,7 @@
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Motorcycle racing",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-11-03_SH028104880000_114824137571_2025-04-17T20:03:48Z_p445587_i_h8_ae/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-11-03_SH028104880000_115001437661_2025-04-17T20:03:48Z_p445587_i_h8_ae/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "MotoGP Racing",
@@ -131,7 +131,7 @@
       "episodeTitle": "",
       "description": "Ted Kravitz gives an exciting behind-the-scenes look at the world of Formula 1.",
       "scheduledDate": 1793685600000,
-      "duration": 30,
+      "duration": 37,
       "parentalRating": "",
       "programType": "Sports non-event",
       "genre": "Auto racing, Motorsports",
@@ -143,6 +143,17 @@
       "description": "Coverage of motor racing events.",
       "scheduledDate": 1793687400000,
       "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Auto racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-11-03_SH031965880000_112449921438_2024-07-02T08:13:30Z_p334889_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Auto Racing",
+      "episodeTitle": "Shannons Series - Sandown, Day 2",
+      "description": "Coverage of motor racing events.",
+      "scheduledDate": 1793687820000,
+      "duration": 59,
       "parentalRating": "",
       "programType": "Sports non-event",
       "genre": "Auto racing",
@@ -161,6 +172,17 @@
     },
     {
       "programTitle": "Supercars Sandown Showdown",
+      "episodeTitle": "#5",
+      "description": "",
+      "scheduledDate": 1793691360000,
+      "duration": 29,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Auto racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-11-03_SH052848440000_114879762945_2026-10-30T07:40:44Z_p28258266_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Supercars Sandown Showdown",
       "episodeTitle": "#4",
       "description": "",
       "scheduledDate": 1793692800000,
@@ -172,10 +194,32 @@
     },
     {
       "programTitle": "Supercars Sandown Showdown",
+      "episodeTitle": "#4",
+      "description": "",
+      "scheduledDate": 1793693100000,
+      "duration": 29,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Auto racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-11-03_SH052848440000_114879762945_2026-10-30T07:40:44Z_p28258266_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Supercars Sandown Showdown",
       "episodeTitle": "#3",
       "description": "",
       "scheduledDate": 1793694600000,
       "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Auto racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-11-03_SH052848440000_114879762945_2026-10-30T07:40:44Z_p28258266_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Supercars Sandown Showdown",
+      "episodeTitle": "#3",
+      "description": "",
+      "scheduledDate": 1793694840000,
+      "duration": 29,
       "parentalRating": "",
       "programType": "Sports non-event",
       "genre": "Auto racing",
@@ -194,10 +238,32 @@
     },
     {
       "programTitle": "Supercars 20/20 Countdown",
+      "episodeTitle": "2003 Sandown",
+      "description": "A countdown of the 20 greatest Supercars races from between 2000 and 2020 ahead of the 2021 Mount Panorama 500.",
+      "scheduledDate": 1793696580000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Motorsports, Sports talk, Classic sport event",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-11-03_SH037796490000_114872274684_2021-02-24T06:06:15Z_p19555095_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Supercars 20/20 Countdown",
       "episodeTitle": "2006 Sandown",
       "description": "A countdown of the 20 greatest Supercars races from between 2000 and 2020 ahead of the 2021 Mount Panorama 500.",
       "scheduledDate": 1793698200000,
       "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Motorsports, Sports talk, Classic sport event",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-11-03_SH037796490000_114872274684_2021-02-24T06:06:15Z_p19555095_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Supercars 20/20 Countdown",
+      "episodeTitle": "2006 Sandown",
+      "description": "A countdown of the 20 greatest Supercars races from between 2000 and 2020 ahead of the 2021 Mount Panorama 500.",
+      "scheduledDate": 1793698380000,
+      "duration": 29,
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Motorsports, Sports talk, Classic sport event",
@@ -216,10 +282,32 @@
     },
     {
       "programTitle": "Supercars Championship",
+      "episodeTitle": "Gold Coast 500 - Day 1 Pre Race and Race",
+      "description": "Supercars compete in a series across Australia and New Zealand.",
+      "scheduledDate": 1793700120000,
+      "duration": 59,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Auto racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-11-03_EP027326761263_114396298294_2026-10-14T11:22:46Z_GNLZZGG003S3FEZ/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Supercars Championship",
       "episodeTitle": "Gold Coast 500 - Day 2 Pre Race and Race",
       "description": "Supercars compete in a series across Australia and New Zealand.",
       "scheduledDate": 1793703600000,
       "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Auto racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-11-03_EP027326761265_114396298386_2026-10-16T03:21:21Z_GNLZZGG003S9CH8/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Supercars Championship",
+      "episodeTitle": "Gold Coast 500 - Day 2 Pre Race and Race",
+      "description": "Supercars compete in a series across Australia and New Zealand.",
+      "scheduledDate": 1793703660000,
+      "duration": 59,
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Auto racing",
@@ -289,7 +377,7 @@
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Motorcycle racing",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-11-03_SH028104880000_114824137571_2025-04-17T20:03:48Z_p445587_i_h8_ae/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-11-03_SH028104880000_115001437661_2025-04-17T20:03:48Z_p445587_i_h8_ae/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "Moto2 GP Racing",
