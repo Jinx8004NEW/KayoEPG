@@ -2,8 +2,8 @@
   "channel": "FAF",
   "date": "2026-11-05",
   "source": "kayo",
-  "fetchedAt": 1793751949949,
-  "fetchedAtIST": "4/11/2026, 5:55:49 am",
+  "fetchedAt": 1793793237104,
+  "fetchedAtIST": "4/11/2026, 5:23:57 pm",
   "events": [
     {
       "programTitle": "AFL Women's Premiership",
@@ -17,11 +17,33 @@
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-11-04_EP029247970844_113984534561_2026-07-24T02:52:05Z_GNLZZGG003CCCXY/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
+      "programTitle": "AFL Women's Premiership",
+      "episodeTitle": "Adelaide Crows vs Melbourne Demons",
+      "description": "From Norwood Oval in Norwood, South Australia, Australia.",
+      "scheduledDate": 1793825100000,
+      "duration": 90,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Australian rules football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-11-04_EP029247970844_113984534561_2026-07-24T02:52:05Z_GNLZZGG003CCCXY/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
       "programTitle": "The W Debrief",
       "episodeTitle": "",
       "description": "Experts review the week's major headlines, stand-out matches and biggest talking points from around the AFLW competition, delivering comprehensive analysis and discussion on women's football.",
       "scheduledDate": 1793829600000,
       "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Australian rules football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-11-04_SH060384060000_112853610422_2025-10-15T06:35:17Z_p31174602_b_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "The W Debrief",
+      "episodeTitle": "",
+      "description": "Experts review the week's major headlines, stand-out matches and biggest talking points from around the AFLW competition, delivering comprehensive analysis and discussion on women's football.",
+      "scheduledDate": 1793830500000,
+      "duration": 45,
       "parentalRating": "",
       "programType": "Sports non-event",
       "genre": "Australian rules football",
@@ -51,6 +73,17 @@
     },
     {
       "programTitle": "AFL Mini",
+      "episodeTitle": "Elimination Final: Geelong Cats v Carlton Blues",
+      "description": "Two of the most in-form teams meet in an Elimination final, both unbeaten for six matches and determined to keep their premiership dream alive.",
+      "scheduledDate": 1793833200000,
+      "duration": 20,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Australian rules football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-11-04_SH042238570000_104529301600_2022-03-07T04:36:21Z_p21759801_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "AFL Mini",
       "episodeTitle": "Qualifying Final: Sydney Swans v Brisbane Lions",
       "description": "Condensed highlights, reaction and analysis of the biggest sport stories from Australia and around the world.",
       "scheduledDate": 1793833800000,
@@ -59,6 +92,17 @@
       "programType": "Sports non-event",
       "genre": "Australian rules football",
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-11-04_SH042238570000_104529301600_2022-03-07T04:36:21Z_p21759801_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "The W Debrief",
+      "episodeTitle": "",
+      "description": "Experts review the week's major headlines, stand-out matches and biggest talking points from around the AFLW competition, delivering comprehensive analysis and discussion on women's football.",
+      "scheduledDate": 1793834400000,
+      "duration": 40,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Australian rules football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-11-04_SH060384060000_112853610422_2025-10-15T06:35:17Z_p31174602_b_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "The W Debrief",
@@ -237,15 +281,15 @@
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-11-05_SH028096630000_102142641835_2018-11-27T09:00:00Z_p14740563_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "AFL Mini",
-      "episodeTitle": "Round 12: Adelaide v St Kilda",
-      "description": "Condensed highlights, reaction and analysis of the biggest sport stories from Australia and around the world.",
+      "programTitle": "Classic AFL",
+      "episodeTitle": "2012 Round 12: Adelaide Crows v St Kilda Saints",
+      "description": "Condensed highlights and a look back at full replays of some of the greatest encounters from the Australian Football League.",
       "scheduledDate": 1793876400000,
       "duration": 120,
       "parentalRating": "",
-      "programType": "Sports non-event",
-      "genre": "Australian rules football",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-11-05_SH042238570000_104529301600_2022-03-07T04:36:21Z_p21759801_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "programType": "Sports event",
+      "genre": "Classic sport event, Australian rules football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-11-05_SH028096630000_102142641835_2018-11-27T09:00:00Z_p14740563_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "AFL Women's Premiership",
@@ -285,7 +329,7 @@
       "episodeTitle": "",
       "description": "Experts review the week's major headlines, stand-out matches and biggest talking points from around the AFLW competition, delivering comprehensive analysis and discussion on women's football.",
       "scheduledDate": 1793899800000,
-      "duration": 30,
+      "duration": 45,
       "parentalRating": "",
       "programType": "Sports non-event",
       "genre": "Australian rules football",
@@ -297,6 +341,17 @@
       "description": "Condensed highlights, reaction and analysis of the biggest sport stories from Australia and around the world.",
       "scheduledDate": 1793901600000,
       "duration": 150,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Australian rules football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-11-05_SH042238570000_104529301600_2022-03-07T04:36:21Z_p21759801_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "AFL Mini",
+      "episodeTitle": "Round 4: Richmond Tigers v Port Adelaide Power",
+      "description": "Condensed highlights, reaction and analysis of the biggest sport stories from Australia and around the world.",
+      "scheduledDate": 1793902500000,
+      "duration": 135,
       "parentalRating": "",
       "programType": "Sports non-event",
       "genre": "Australian rules football",
