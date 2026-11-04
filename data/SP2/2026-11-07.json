@@ -2,19 +2,63 @@
   "channel": "SP2",
   "date": "2026-11-07",
   "source": "kayo",
-  "fetchedAt": 1793793237091,
-  "fetchedAtIST": "4/11/2026, 5:23:57 pm",
+  "fetchedAt": 1793820462800,
+  "fetchedAtIST": "5/11/2026, 12:57:42 am",
   "events": [
     {
-      "programTitle": "To Be Announced",
-      "episodeTitle": "",
-      "description": "The programming for this time slot has yet to be determined and is being confirmed by the broadcast channel.",
-      "scheduledDate": 1793995200000,
-      "duration": 240,
+      "programTitle": "NRL",
+      "episodeTitle": "Canberra Raiders vs Penrith Panthers",
+      "description": "From GIO Stadium Canberra in Bruce, Australian Capital Territory, Australia.",
+      "scheduledDate": 1793991600000,
+      "duration": 60,
       "parentalRating": "",
-      "programType": "TBA",
-      "genre": "Special, Entertainment",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-11-06_SH027575020000_113966071598_2021-11-15T14:36:19Z_p514472_b_h8_dp/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "programType": "Sports event",
+      "genre": "Rugby league, Rugby",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-11-06_EP031720961113_115145025657_2026-03-21T02:47:59Z_GNLZZGG0031G5FQ/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NRL",
+      "episodeTitle": "Cronulla-Sutherland Sharks vs Canterbury-Bankstown Bulldogs",
+      "description": "From Suncorp Stadium in Milton, Queensland, Australia.",
+      "scheduledDate": 1793995200000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Rugby league, Rugby",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-11-06_EP031720961114_115145024820_2026-03-21T02:55:35Z_GNLZZGG0031G2XP/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NRL",
+      "episodeTitle": "South Sydney Rabbitohs vs Dolphins",
+      "description": "From Suncorp Stadium in Milton, Queensland, Australia.",
+      "scheduledDate": 1793998800000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Rugby league, Rugby",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-11-06_EP031720961115_115145025297_2026-05-07T18:54:51Z_GNLZZGG0033ND1V/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NRL 360",
+      "episodeTitle": "World Cup Edition",
+      "description": "The expert team discuss key issues and topics across the rugby league with legends and current players of the game. There are reviews, news and a variety of views from around the sport landscape.",
+      "scheduledDate": 1794002400000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Sports talk, Rugby league",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-11-06_SH029161050000_110779849480_2026-03-24T08:25:06Z_p11964078_i_h10_ae/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Saturday League Kick Off",
+      "episodeTitle": "",
+      "description": "Denan Kemp and Chad Townsend recap all the action so far and preview the rest of the round.",
+      "scheduledDate": 1794006000000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Rugby league",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-11-06_SH056569940000_114554817762_2026-10-23T18:44:17Z_p29726289_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     }
   ]
 }

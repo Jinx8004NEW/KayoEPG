@@ -2,9 +2,20 @@
   "channel": "FS3",
   "date": "2026-11-07",
   "source": "kayo",
-  "fetchedAt": 1793793237097,
-  "fetchedAtIST": "4/11/2026, 5:23:57 pm",
+  "fetchedAt": 1793820462802,
+  "fetchedAtIST": "5/11/2026, 12:57:42 am",
   "events": [
+    {
+      "programTitle": "PGA Tour Golf",
+      "episodeTitle": "World Wide Technology Championship, First Round",
+      "description": "From El Cardonal at Diamante in Los Cabos, Baja California Sur, Mexico.",
+      "scheduledDate": 1793989800000,
+      "duration": 90,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-11-06_EP030899371436_115146133597_2026-11-04T13:26:08Z_GNLZZGG003WW7DN/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
     {
       "programTitle": "To Be Announced",
       "episodeTitle": "",
