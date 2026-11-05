@@ -1,174 +1,174 @@
 {
   "channel": "FS3",
-  "date": "2026-11-05",
+  "date": "2026-11-06",
   "source": "kayo",
-  "fetchedAt": 1793879780956,
-  "fetchedAtIST": "5/11/2026, 5:26:20 pm",
+  "fetchedAt": 1793907772941,
+  "fetchedAtIST": "6/11/2026, 1:12:52 am",
   "events": [
     {
-      "programTitle": "LPGA Tour Golf",
-      "episodeTitle": "Maybank Championship, Final Round",
-      "description": "From TPC Kuala Lumpur in Kuala Lumpur, Malaysia.",
-      "scheduledDate": 1793818800000,
-      "duration": 120,
-      "parentalRating": "",
-      "programType": "Sports event",
-      "genre": "Golf",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-11-04_EP031583890622_114799499216_2025-09-22T17:54:13Z_p28888030_b_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
-    {
-      "programTitle": "PGA Tour Highlights",
-      "episodeTitle": "VidantaWorld Mexico Open",
-      "description": "Highlights from PGA Tour events featuring the world's best golfers in action. Hosts track the progression of the game while reviewing the changes in technologies and techniques.",
-      "scheduledDate": 1793826000000,
-      "duration": 60,
-      "parentalRating": "",
-      "programType": "Sports event",
-      "genre": "Classic sport event, Golf",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-11-04_SH032355110000_114391477483_2023-03-16T12:30:24Z_p9060599_i_h10_ae/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
-    {
       "programTitle": "The Cut",
       "episodeTitle": "",
       "description": "An insightful exploration of player profiles and a preview of various PGA Tour tournaments around the world.",
-      "scheduledDate": 1793829600000,
+      "scheduledDate": 1793907000000,
       "duration": 30,
       "parentalRating": "",
       "programType": "Sports non-event",
       "genre": "Golf",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-11-04_SH034181850000_114887852954_2022-01-21T12:57:01Z_p17650562_i_h8_al/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-11-05_SH034181850000_114887852954_2022-01-21T12:57:01Z_p17650562_i_h8_al/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "PGA Tour Champions Golf",
-      "episodeTitle": "Simmons Bank Championship",
-      "description": "Elite golfers aged 50 and over compete in the PGA Tour's official senior tournament circuit.",
-      "scheduledDate": 1793831400000,
-      "duration": 60,
+      "programTitle": "PGA Tour Golf",
+      "episodeTitle": "World Wide Technology Championship, First Round",
+      "description": "From El Cardonal at Diamante in Los Cabos, Baja California Sur, Mexico.",
+      "scheduledDate": 1793908800000,
+      "duration": 180,
       "parentalRating": "",
-      "programType": "Sports non-event",
+      "programType": "Sports event",
       "genre": "Golf",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-11-04_SH051073670000_114424807330_2020-11-09T05:21:00Z_p18099468_i_h8_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
-    {
-      "programTitle": "The Cut",
-      "episodeTitle": "",
-      "description": "An insightful exploration of player profiles and a preview of various PGA Tour tournaments around the world.",
-      "scheduledDate": 1793835000000,
-      "duration": 30,
-      "parentalRating": "",
-      "programType": "Sports non-event",
-      "genre": "Golf",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-11-04_SH034181850000_114887852954_2022-01-21T12:57:01Z_p17650562_i_h8_al/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
-    {
-      "programTitle": "European Challenge Magazine Series",
-      "episodeTitle": "",
-      "description": "The Challenge Series is the European Challenge Tour's dedicated magazine show which takes golf fans behind the scenes of Europe's top developmental tour and gives you access all areas to the future stars of world golf.",
-      "scheduledDate": 1793836800000,
-      "duration": 30,
-      "parentalRating": "",
-      "programType": "Sports non-event",
-      "genre": "Golf, Sports talk",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-11-05_SH039586120000_62921117475_2021-08-11T05:17:12Z_p20462877_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
-    {
-      "programTitle": "PGA Tour Champions Learning Center",
-      "episodeTitle": "",
-      "description": "Tips and tricks from the legends of the game.",
-      "scheduledDate": 1793838600000,
-      "duration": 30,
-      "parentalRating": "",
-      "programType": "Sports non-event",
-      "genre": "Golf",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-11-05_SH037817400000_112150007536_2022-11-29T05:17:24Z_p12531845_i_h10_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
-    {
-      "programTitle": "Paul Gallen vs Nelson Asofa-Solomona",
-      "episodeTitle": "Weigh In",
-      "description": "NRL rivals Paul Gallen and Nelson Asofa-Solomona collide in a heavyweight boxing showdown.",
-      "scheduledDate": 1793840400000,
-      "duration": 60,
-      "parentalRating": "",
-      "programType": "Sports non-event",
-      "genre": "Boxing",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-11-05_SH066451740000_114991217161_2026-10-30T07:42:06Z_p34281519_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-11-05_EP030899371436_115146133597_2026-11-04T13:26:08Z_GNLZZGG003WW7DN/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "LPGA Tour Golf",
       "episodeTitle": "Toto Japan Classic, First Round",
       "description": "From Ibaraki Golf Club in Tsukubarmrai, Ibaraki, Japan.",
-      "scheduledDate": 1793844000000,
+      "scheduledDate": 1793919600000,
+      "duration": 90,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-11-05_EP031583890730_115143569785_2026-10-01T21:25:01Z_p34160873_b_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "To Be Announced",
+      "episodeTitle": "",
+      "description": "The programming for this time slot has yet to be determined and is being confirmed by the broadcast channel.",
+      "scheduledDate": 1793923200000,
+      "duration": 240,
+      "parentalRating": "",
+      "programType": "TBA",
+      "genre": "Special, Entertainment",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-11-06_SH027575020000_113966071598_2021-11-15T14:36:19Z_p514472_b_h8_dp/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "PGA Tour Golf",
+      "episodeTitle": "World Wide Technology Championship, First Round",
+      "description": "From El Cardonal at Diamante in Los Cabos, Baja California Sur, Mexico.",
+      "scheduledDate": 1793925000000,
+      "duration": 90,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-11-06_EP030899371436_115146133597_2026-11-04T13:26:08Z_GNLZZGG003WW7DN/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "LPGA Tour Golf",
+      "episodeTitle": "Toto Japan Classic, Second Round",
+      "description": "From Ibaraki Golf Club in Tsukubarmrai, Ibaraki, Japan.",
+      "scheduledDate": 1793930400000,
       "duration": 240,
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Golf",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-11-05_EP031583890729_115077668978_2026-11-03T17:40:27Z_GNLZZGG003WNNDN/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-11-06_EP031583890731_115145025344_2026-11-02T15:24:25Z_GNLZZGG003WC9NR/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "PGA Tour Highlights",
-      "episodeTitle": "VidantaWorld Mexico Open",
-      "description": "Highlights from PGA Tour events featuring the world's best golfers in action. Hosts track the progression of the game while reviewing the changes in technologies and techniques.",
-      "scheduledDate": 1793858400000,
+      "programTitle": "To Be Announced",
+      "episodeTitle": "",
+      "description": "The programming for this time slot has yet to be determined and is being confirmed by the broadcast channel.",
+      "scheduledDate": 1793937600000,
+      "duration": 240,
+      "parentalRating": "",
+      "programType": "TBA",
+      "genre": "Special, Entertainment",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-11-06_SH027575020000_113966071598_2021-11-15T14:36:19Z_p514472_b_h8_dp/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "PGA Tour Champions Golf",
+      "episodeTitle": "Simmons Bank Championship",
+      "description": "Elite golfers aged 50 and over compete in the PGA Tour's official senior tournament circuit.",
+      "scheduledDate": 1793944800000,
       "duration": 60,
       "parentalRating": "",
-      "programType": "Sports event",
-      "genre": "Classic sport event, Golf",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-11-05_SH032355110000_114391477483_2023-03-16T12:30:24Z_p9060599_i_h10_ae/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "programType": "Sports non-event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-11-06_SH051073670000_114424807330_2020-11-09T05:21:00Z_p18099468_i_h8_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "DP World Tour Golf",
-      "episodeTitle": "Abu Dhabi Aldar Championship, First Round",
+      "episodeTitle": "Abu Dhabi Aldar Championship, Second Round",
       "description": "From Yas Links Abu Dhabi in Abu Dhabi, Abu Z¸aby, United Arab Emirates.",
-      "scheduledDate": 1793862000000,
+      "scheduledDate": 1793948400000,
       "duration": 360,
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Golf",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-11-05_EP040914080733_114887577856_2026-10-30T05:25:59Z_GNLZZGG003VTNR7/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-11-06_EP040914080734_115196281332_2026-11-04T15:24:29Z_GNLZZGG003WX5N4/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "PGA Championship",
-      "episodeTitle": "2026: Final Round",
-      "description": "Shows final round action of the PGA Championship from Aronimink Golf Club, Pennsylvania.",
-      "scheduledDate": 1793883600000,
-      "duration": 120,
-      "parentalRating": "",
-      "programType": "Sports non-event",
-      "genre": "Golf",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-11-05_SH038743610000_114894139992_2023-08-21T16:03:48Z_p19984518_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
-    {
-      "programTitle": "2026 U.S. Open Golf Championship",
-      "episodeTitle": "Final Round",
-      "description": "From Shinnecock Hills Golf Club in Southampton, N.Y.",
-      "scheduledDate": 1793890800000,
-      "duration": 120,
-      "parentalRating": "",
-      "programType": "Sports event",
-      "genre": "Golf",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-11-05_SH064542240000_112499598926_2026-05-15T14:55:51Z_p32512180_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
-    {
-      "programTitle": "Getting a Round In",
+      "programTitle": "To Be Announced",
       "episodeTitle": "",
-      "description": "Australian professional golfer, Paul Gow hosts celebrities as his playing partners who share his love for the game of golf.",
-      "scheduledDate": 1793898000000,
-      "duration": 30,
+      "description": "The programming for this time slot has yet to be determined and is being confirmed by the broadcast channel.",
+      "scheduledDate": 1793952000000,
+      "duration": 240,
       "parentalRating": "",
-      "programType": "Series",
-      "genre": "Golf, Interview",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-11-05_SH048121120000_110998856207_2023-07-18T05:56:16Z_p25221374_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "programType": "TBA",
+      "genre": "Special, Entertainment",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-11-06_SH027575020000_113966071598_2021-11-15T14:36:19Z_p514472_b_h8_dp/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "PGA Tour Golf",
-      "episodeTitle": "Mexico Open, Final Round",
-      "description": "From Vidanta Nuevo Vallarta in Puerto Vallarta, Jalisco, Mexico.",
-      "scheduledDate": 1793899800000,
+      "programTitle": "To Be Announced",
+      "episodeTitle": "",
+      "description": "The programming for this time slot has yet to be determined and is being confirmed by the broadcast channel.",
+      "scheduledDate": 1793966400000,
+      "duration": 240,
+      "parentalRating": "",
+      "programType": "TBA",
+      "genre": "Special, Entertainment",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-11-06_SH027575020000_113966071598_2021-11-15T14:36:19Z_p514472_b_h8_dp/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "2026 Open Championship",
+      "episodeTitle": "Final Round",
+      "description": "From Royal Birkdale Golf Club in Southport, Lancashire, England.",
+      "scheduledDate": 1793970000000,
       "duration": 120,
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Golf",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-11-05_EP030899370803_114835324292_2024-02-09T23:02:58Z_p25868237_b_h8_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-11-06_SH065192120000_115145025328_2026-06-18T14:36:18Z_p32512173_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "2026 Presidents Cup",
+      "episodeTitle": "Final Day",
+      "description": "From Medinah Country Club in Medinah, Ill.",
+      "scheduledDate": 1793977200000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-11-06_SH066278790000_115145024718_2026-08-05T21:07:29Z_p33597240_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "To Be Announced",
+      "episodeTitle": "",
+      "description": "The programming for this time slot has yet to be determined and is being confirmed by the broadcast channel.",
+      "scheduledDate": 1793980800000,
+      "duration": 240,
+      "parentalRating": "",
+      "programType": "TBA",
+      "genre": "Special, Entertainment",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-11-06_SH027575020000_113966071598_2021-11-15T14:36:19Z_p514472_b_h8_dp/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "LPGA Tour Golf",
+      "episodeTitle": "Toto Japan Classic, First Round",
+      "description": "From Ibaraki Golf Club in Tsukubarmrai, Ibaraki, Japan.",
+      "scheduledDate": 1793984400000,
+      "duration": 90,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-11-06_EP031583890730_115143569785_2026-10-01T21:25:01Z_p34160873_b_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     }
   ]
 }

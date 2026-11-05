@@ -2,19 +2,41 @@
   "channel": "FS3",
   "date": "2026-11-08",
   "source": "kayo",
-  "fetchedAt": 1793879780957,
-  "fetchedAtIST": "5/11/2026, 5:26:20 pm",
+  "fetchedAt": 1793907772942,
+  "fetchedAtIST": "6/11/2026, 1:12:52 am",
   "events": [
     {
-      "programTitle": "To Be Announced",
-      "episodeTitle": "",
-      "description": "The programming for this time slot has yet to be determined and is being confirmed by the broadcast channel.",
-      "scheduledDate": 1794081600000,
-      "duration": 240,
+      "programTitle": "PGA Tour Golf",
+      "episodeTitle": "World Wide Technology Championship, Second Round",
+      "description": "From El Cardonal at Diamante in Los Cabos, Baja California Sur, Mexico.",
+      "scheduledDate": 1794076200000,
+      "duration": 90,
       "parentalRating": "",
-      "programType": "TBA",
-      "genre": "Special, Entertainment",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-11-07_SH027575020000_113966071598_2021-11-15T14:36:19Z_p514472_b_h8_dp/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "programType": "Sports event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-11-07_EP030899371437_115185194432_2026-11-04T13:24:56Z_GNLZZGG003WW70X/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "PGA Tour Golf",
+      "episodeTitle": "World Wide Technology Championship, Third Round",
+      "description": "From El Cardonal at Diamante in Los Cabos, Baja California Sur, Mexico.",
+      "scheduledDate": 1794081600000,
+      "duration": 180,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-11-07_EP030899371438_115190443902_2026-11-04T13:24:59Z_GNLZZGG003WW71D/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "LPGA Tour Golf",
+      "episodeTitle": "Toto Japan Classic, Third Round",
+      "description": "From Ibaraki Golf Club in Tsukubarmrai, Ibaraki, Japan.",
+      "scheduledDate": 1794092400000,
+      "duration": 90,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-11-07_EP031583890732_115145025648_2026-11-04T11:23:44Z_GNLZZGG003WVJPS/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     }
   ]
 }
