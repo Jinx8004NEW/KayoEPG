@@ -1,0 +1,64 @@
+{
+  "channel": "SPS",
+  "date": "2026-11-08",
+  "source": "kayo",
+  "fetchedAt": 1793879780970,
+  "fetchedAtIST": "5/11/2026, 5:26:20 pm",
+  "events": [
+    {
+      "programTitle": "Ted's Notebook",
+      "episodeTitle": "Sao Paulo Grand Prix: Qualifying",
+      "description": "Ted Kravitz gives an exciting behind-the-scenes look at the world of Formula 1.",
+      "scheduledDate": 1794081600000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Auto racing, Motorsports",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-11-07_SH038161890000_106370532176_2021-03-17T07:49:14Z_p9739735_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Supercars Mini",
+      "episodeTitle": "",
+      "description": "Australia's premier touring car racing competition, known for high-powered V8 machines and intense, close-quarters racing.",
+      "scheduledDate": 1794083400000,
+      "duration": 25,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Classic sport event, Auto racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-11-07_SH035786470000_105377021933_2020-08-20T08:30:31Z_p18624449_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Supercars Championship",
+      "episodeTitle": "Penrite Oil Sandown 500: Qualifying & T10 Shootout",
+      "description": "Supercars compete in a series across Australia and New Zealand.",
+      "scheduledDate": 1794084900000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Auto racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-11-07_EP027326761271_115146321661_2026-11-04T13:27:16Z_GNLZZGG003WW7SL/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Supercars Championship",
+      "episodeTitle": "Supercars championship: Race 33",
+      "description": "Supercars compete in a series across Australia and New Zealand.",
+      "scheduledDate": 1794086700000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Auto racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-11-07_EP027326761272_115153755857_2026-11-04T17:53:57Z_GNLZZGG003WZRBJ/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Supercars Championship",
+      "episodeTitle": "Penrite Oil Sandown 500: Supports",
+      "description": "Supercars compete in a series across Australia and New Zealand.",
+      "scheduledDate": 1794090300000,
+      "duration": 100,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Auto racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-11-07_EP027326761274_115146321664_2026-11-04T13:28:18Z_GNLZZGG003WW80P/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    }
+  ]
+}

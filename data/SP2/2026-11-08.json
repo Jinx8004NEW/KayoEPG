@@ -1,0 +1,64 @@
+{
+  "channel": "SP2",
+  "date": "2026-11-08",
+  "source": "kayo",
+  "fetchedAt": 1793879780955,
+  "fetchedAtIST": "5/11/2026, 5:26:20 pm",
+  "events": [
+    {
+      "programTitle": "NRL",
+      "episodeTitle": "Canterbury-Bankstown Bulldogs vs Melbourne Storm",
+      "description": "From Accor Stadium in Sydney.",
+      "scheduledDate": 1794078000000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Rugby league, Rugby",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-11-07_EP031720961123_115145024690_2026-05-07T18:54:51Z_GNLZZGG0033NDRE/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NRL",
+      "episodeTitle": "St. George Illawarra Dragons vs New Zealand Warriors",
+      "description": "From Jubilee Stadium in Sydney.",
+      "scheduledDate": 1794081600000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Rugby league, Rugby",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-11-07_EP031720961124_115145025249_2026-03-21T00:59:03Z_GNLZZGG0031FBW9/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NRL",
+      "episodeTitle": "Manly-Warringah Sea Eagles vs Gold Coast Titans",
+      "description": "From 4 Pines Park in Brookvale, New South Wales, Australia.",
+      "scheduledDate": 1794085200000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Rugby league, Rugby",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-11-07_EP031720961125_115145024405_2026-03-21T02:49:44Z_GNLZZGG0031FK6D/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NRL",
+      "episodeTitle": "North Queensland Cowboys vs South Sydney Rabbitohs",
+      "description": "From Queensland Country Bank Stadium in Townsville, Queensland, Australia.",
+      "scheduledDate": 1794088800000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Rugby league, Rugby",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-11-07_EP031720961126_115145025653_2026-03-21T02:56:03Z_GNLZZGG0031FZLB/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NRL",
+      "episodeTitle": "Cronulla-Sutherland Sharks vs Manly-Warringah Sea Eagles",
+      "description": "From Ocean Protect Stadium in Woolooware, New South Wales, Australia.",
+      "scheduledDate": 1794092400000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Rugby league, Rugby",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-11-07_EP031720961127_115145024803_2026-03-20T22:56:22Z_GNLZZGG0031DJRR/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    }
+  ]
+}
