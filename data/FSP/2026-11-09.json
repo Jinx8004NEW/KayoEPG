@@ -2,19 +2,30 @@
   "channel": "FSP",
   "date": "2026-11-09",
   "source": "kayo",
-  "fetchedAt": 1793965958805,
-  "fetchedAtIST": "6/11/2026, 5:22:38 pm",
+  "fetchedAt": 1793991533162,
+  "fetchedAtIST": "7/11/2026, 12:28:53 am",
   "events": [
     {
       "programTitle": "MotoGP Racing",
       "episodeTitle": "Qatar Airways Grand Prix of Qatar: Sprint Race",
       "description": "Action from MotoGP racing.",
       "scheduledDate": 1794162600000,
-      "duration": 90,
+      "duration": 30,
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Family, Classic sport event, Motorcycle racing",
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-11-08_SH035853180000_114543852884_2017-10-24T00:43:00Z_p445588_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NASCAR Cup Series",
+      "episodeTitle": "NASCAR Cup Series Championship Race",
+      "description": "From Homestead-Miami Speedway in Homestead, Fla.",
+      "scheduledDate": 1794164400000,
+      "duration": 300,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Auto racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-11-08_EP035183560222_115251873845_2026-11-04T19:30:57Z_p32224545_b_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "To Be Announced",

@@ -2,19 +2,63 @@
   "channel": "FSS",
   "date": "2026-11-09",
   "source": "kayo",
-  "fetchedAt": 1793965958821,
-  "fetchedAtIST": "6/11/2026, 5:22:38 pm",
+  "fetchedAt": 1793991533170,
+  "fetchedAtIST": "7/11/2026, 12:28:53 am",
   "events": [
     {
-      "programTitle": "To Be Announced",
-      "episodeTitle": "",
-      "description": "The programming for this time slot has yet to be determined and is being confirmed by the broadcast channel.",
-      "scheduledDate": 1794168000000,
-      "duration": 240,
+      "programTitle": "Getting a Round In",
+      "episodeTitle": "Lachie Anderson",
+      "description": "Australian professional golfer, Paul Gow hosts celebrities as his playing partners who share his love for the game of golf.",
+      "scheduledDate": 1794164400000,
+      "duration": 30,
       "parentalRating": "",
-      "programType": "TBA",
-      "genre": "Special, Entertainment",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-11-08_SH027575020000_113966071598_2021-11-15T14:36:19Z_p514472_b_h8_dp/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "programType": "Series",
+      "genre": "Golf, Interview",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-11-08_SH048121120000_110998856207_2023-07-18T05:56:16Z_p25221374_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Getting a Round In",
+      "episodeTitle": "Season Review",
+      "description": "Australian professional golfer, Paul Gow hosts celebrities as his playing partners who share his love for the game of golf.",
+      "scheduledDate": 1794166200000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Series",
+      "genre": "Golf, Interview",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-11-08_SH048121120000_110998856207_2023-07-18T05:56:16Z_p25221374_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "WTGL Golf",
+      "episodeTitle": "Los Angeles Golf Club vs. New York Golf Club",
+      "description": "From SoFi Center in Palm Beach Gardens, Fla.",
+      "scheduledDate": 1794168000000,
+      "duration": 150,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-11-08_SH067016670000_115259755249_2026-10-26T23:20:42Z_p34198343_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "MotoGP Racing",
+      "episodeTitle": "Qatar Airways Grand Prix of Qatar, Sprint Race",
+      "description": "From Losail International Circuit in Doha, Ad Dawhah, Qatar.",
+      "scheduledDate": 1794177000000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Motorcycle racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-11-08_EP028104881604_115145127474_2026-11-04T13:24:07Z_GNLZZGG003WW6WQ/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Darts",
+      "episodeTitle": "PDC ANZ Premier League: Finals",
+      "description": "Covering of all the action from darts events around the world.",
+      "scheduledDate": 1794178800000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Darts",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-11-08_SH032967320000_109954612423_2024-10-04T13:14:55Z_p644283_i_h8_ah/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     }
   ]
 }
