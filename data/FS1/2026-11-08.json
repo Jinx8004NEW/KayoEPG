@@ -2,8 +2,8 @@
   "channel": "FS1",
   "date": "2026-11-08",
   "source": "kayo",
-  "fetchedAt": 1793926193817,
-  "fetchedAtIST": "6/11/2026, 6:19:53 am",
+  "fetchedAt": 1793965958776,
+  "fetchedAtIST": "6/11/2026, 5:22:38 pm",
   "events": [
     {
       "programTitle": "Test Cricket",
@@ -186,11 +186,22 @@
       "episodeTitle": "Perth Scorchers vs Melbourne Stars",
       "description": "Live from North Sydney Oval. Start time: 5:10pm AEDT.",
       "scheduledDate": 1794117600000,
-      "duration": 210,
+      "duration": 208,
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Cricket",
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-11-08_EP029371060387_115190444198_2026-10-28T20:11:24Z_GNLZZGG003VJ456/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "One-Day International Cricket",
+      "episodeTitle": "1999 - Australia vs England, 10th ODI",
+      "description": "Coverage of one-day cricket matches contested by international teams.",
+      "scheduledDate": 1794130080000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Cricket, Classic sport event",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-11-08_SH034583010000_110095246552_2026-03-24T13:16:18Z_p8509066_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "One-Day International Cricket",
@@ -202,6 +213,17 @@
       "programType": "Sports event",
       "genre": "Cricket, Classic sport event",
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-11-08_SH034583010000_110095246552_2026-03-24T13:16:18Z_p8509066_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Ashes Classics",
+      "episodeTitle": "2006/07: Australia vs England, 2nd Test",
+      "description": "Revisits archive footage of previous England-Australia cricket battles.",
+      "scheduledDate": 1794133680000,
+      "duration": 57,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Cricket",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-11-08_SH064479260000_113048372172_2019-07-11T06:20:10Z_p14752161_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "Ashes Classics",

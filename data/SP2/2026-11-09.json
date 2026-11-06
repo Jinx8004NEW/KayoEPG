@@ -2,8 +2,8 @@
   "channel": "SP2",
   "date": "2026-11-09",
   "source": "kayo",
-  "fetchedAt": 1793926193824,
-  "fetchedAtIST": "6/11/2026, 6:19:53 am",
+  "fetchedAt": 1793965958784,
+  "fetchedAtIST": "6/11/2026, 5:22:38 pm",
   "events": [
     {
       "programTitle": "NRL",
@@ -50,15 +50,15 @@
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-11-08_EP031720961137_115190444772_2026-04-08T01:19:10Z_GNLZZGG00328DW0/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "NRL",
-      "episodeTitle": "Brisbane Broncos vs Gold Coast Titans",
-      "description": "From Suncorp Stadium in Milton, Queensland, Australia.",
+      "programTitle": "No Limit Boxing: Tim Tszyu v Erislandy Lara Announcement",
+      "episodeTitle": "",
+      "description": "Tune into all the details surrounding No Limit Boxing's next big event.",
       "scheduledDate": 1794178800000,
       "duration": 60,
       "parentalRating": "",
-      "programType": "Sports event",
-      "genre": "Rugby league, Rugby",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-11-08_EP031720961138_115190444785_2026-04-08T01:13:30Z_GNLZZGG00328FKN/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "programType": "Sports non-event",
+      "genre": "Special, Boxing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/Fallback_LTV_103065/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     }
   ]
 }
