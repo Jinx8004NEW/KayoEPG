@@ -2,8 +2,8 @@
   "channel": "FSP",
   "date": "2026-11-08",
   "source": "kayo",
-  "fetchedAt": 1793907772950,
-  "fetchedAtIST": "6/11/2026, 1:12:52 am",
+  "fetchedAt": 1793926193855,
+  "fetchedAtIST": "6/11/2026, 6:19:53 am",
   "events": [
     {
       "programTitle": "How Good is Golf",
@@ -48,6 +48,193 @@
       "programType": "Sports event",
       "genre": "Auto racing",
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-11-07_EP062929950031_115190444605_2026-11-04T19:56:13Z_p32241033_b_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "MotoGP Racing",
+      "episodeTitle": "Qatar Airways Grand Prix of Qatar, Qualifying",
+      "description": "From Losail International Circuit in Doha, Ad Dawhah, Qatar.",
+      "scheduledDate": 1794099600000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Motorcycle racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-11-08_EP028104881603_115146064300_2026-11-04T13:24:13Z_GNLZZGG003WW6Z5/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "LPGA Tour Golf",
+      "episodeTitle": "Toto Japan Classic, Final Round",
+      "description": "From Ibaraki Golf Club in Tsukubarmrai, Ibaraki, Japan.",
+      "scheduledDate": 1794103200000,
+      "duration": 240,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-11-08_EP031583890735_115192654701_2026-11-05T13:25:05Z_GNLZZGG003WY31W/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "MotoGP Racing",
+      "episodeTitle": "Qatar Airways Grand Prix of Qatar, Qualifying",
+      "description": "From Losail International Circuit in Doha, Ad Dawhah, Qatar.",
+      "scheduledDate": 1794117600000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Motorcycle racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-11-08_EP028104881603_115146064300_2026-11-04T13:24:13Z_GNLZZGG003WW6Z5/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "My Game: Tiger Woods",
+      "episodeTitle": "My Equipment",
+      "description": "Tiger explains the detailed process he goes through to select his equipment.",
+      "scheduledDate": 1794121200000,
+      "duration": 15,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-11-08_SH035435950000_107134189906_2019-09-11T08:00:16Z_p17353505_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Malaga Marathon 2026",
+      "episodeTitle": "",
+      "description": "",
+      "scheduledDate": 1794122100000,
+      "duration": 175,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Marathon",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-11-08_SH067016280000_115190444312_2026-11-02T08:16:38Z_p34507647_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "MotoGP Factory Floor",
+      "episodeTitle": "Hungary",
+      "description": "",
+      "scheduledDate": 1794132600000,
+      "duration": 15,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Other",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-11-08_SH066366900000_115126479204_2026-10-23T19:36:16Z_p34191874_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Idemitsu Moto4 Asia Cup",
+      "episodeTitle": "Qatar, Race 2",
+      "description": "From Losail International Circuit in Doha, Ad Dawhah, Qatar.",
+      "scheduledDate": 1794133500000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Motorcycle racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-11-08_SH063233090000_115145025930_2026-02-23T09:47:19Z_p32446732_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "MotoGP Factory Floor",
+      "episodeTitle": "Netherlands",
+      "description": "",
+      "scheduledDate": 1794137100000,
+      "duration": 10,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Other",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-11-08_SH066366900000_115126479204_2026-10-23T19:36:16Z_p34191874_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "MotoGP Racing",
+      "episodeTitle": "Qatar Airways Grand Prix of Qatar, Warm Up",
+      "description": "From Losail International Circuit in Doha, Ad Dawhah, Qatar.",
+      "scheduledDate": 1794137700000,
+      "duration": 25,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Motorcycle racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-11-08_SH028104880000_115001437661_2025-04-17T20:03:48Z_p445587_i_h8_ae/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "MotoGP Factory Floor",
+      "episodeTitle": "Catalunya",
+      "description": "",
+      "scheduledDate": 1794139200000,
+      "duration": 15,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Other",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-11-08_SH066366900000_115126479204_2026-10-23T19:36:16Z_p34191874_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "MotoGP Racing",
+      "episodeTitle": "Qatar Airways Grand Prix of Qatar: Sprint Race",
+      "description": "Action from MotoGP racing.",
+      "scheduledDate": 1794140100000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Family, Classic sport event, Motorcycle racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-11-08_SH035853180000_114543852884_2017-10-24T00:43:00Z_p445588_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Moto3 GP Racing",
+      "episodeTitle": "Qatar Airways Grand Prix of Qatar",
+      "description": "From Losail International Circuit in Doha, Ad Dawhah, Qatar.",
+      "scheduledDate": 1794141900000,
+      "duration": 75,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Motorcycle racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-11-08_EP046925390412_115190444391_2026-11-04T13:23:58Z_GNLZZGG003WW6VW/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Moto2 GP Racing",
+      "episodeTitle": "Qatar Airways Grand Prix of Qatar",
+      "description": "From Losail International Circuit in Doha, Ad Dawhah, Qatar.",
+      "scheduledDate": 1794146400000,
+      "duration": 75,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Motorcycle racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-11-08_EP046925380366_115149207400_2026-11-04T15:24:42Z_GNLZZGG003WX5SF/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "MotoGP Grid",
+      "episodeTitle": "Qatar",
+      "description": "All the latest news & interviews from the MotoGP Grid.",
+      "scheduledDate": 1794150900000,
+      "duration": 40,
+      "parentalRating": "",
+      "programType": "Series",
+      "genre": "Motorcycle racing, Motorsports",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-11-08_SH052332950000_115190443898_2022-05-02T10:07:42Z_p14104148_i_h10_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "MotoGP Racing",
+      "episodeTitle": "Qatar Airways Grand Prix of Qatar",
+      "description": "From Losail International Circuit in Doha, Ad Dawhah, Qatar.",
+      "scheduledDate": 1794153300000,
+      "duration": 80,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Motorcycle racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-11-08_EP028104881601_115146116897_2026-11-04T13:24:18Z_GNLZZGG003WW6ZQ/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Supercars Championship",
+      "episodeTitle": "Penrite Oil Sandown 500: Race 34",
+      "description": "Highlights and replays of classic races of the international motor racing series for Supercars.",
+      "scheduledDate": 1794158100000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Series",
+      "genre": "Auto racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-11-08_SH035728470000_113699461789_2018-12-17T21:00:00Z_p16276370_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "My Game: Tiger Woods",
+      "episodeTitle": "My Equipment",
+      "description": "Tiger explains the detailed process he goes through to select his equipment.",
+      "scheduledDate": 1794161700000,
+      "duration": 15,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-11-08_SH035435950000_107134189906_2019-09-11T08:00:16Z_p17353505_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     }
   ]
 }

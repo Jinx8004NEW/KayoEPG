@@ -2,8 +2,8 @@
   "channel": "FS3",
   "date": "2026-11-08",
   "source": "kayo",
-  "fetchedAt": 1793907772942,
-  "fetchedAtIST": "6/11/2026, 1:12:52 am",
+  "fetchedAt": 1793926193834,
+  "fetchedAtIST": "6/11/2026, 6:19:53 am",
   "events": [
     {
       "programTitle": "PGA Tour Golf",
@@ -25,7 +25,7 @@
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Golf",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-11-07_EP030899371438_115190443902_2026-11-04T13:24:59Z_GNLZZGG003WW71D/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-11-07_EP030899371438_115198580094_2026-11-04T13:24:59Z_GNLZZGG003WW71D/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "LPGA Tour Golf",
@@ -37,6 +37,94 @@
       "programType": "Sports event",
       "genre": "Golf",
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-11-07_EP031583890732_115145025648_2026-11-04T11:23:44Z_GNLZZGG003WVJPS/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "PGA Tour Champions Learning Center",
+      "episodeTitle": "",
+      "description": "Tips and tricks from the legends of the game.",
+      "scheduledDate": 1794097800000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-11-08_SH037817400000_112150007536_2022-11-29T05:17:24Z_p12531845_i_h10_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Golf",
+      "episodeTitle": "Australian PGA Senior Championship, Second Round",
+      "description": "A full coverage of golf tournaments and events from around the world, featuring all the action and highlights.",
+      "scheduledDate": 1794099600000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-11-08_SH032772030000_113702935496_2025-04-03T19:44:22Z_p706015_i_h8_ad/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Golf",
+      "episodeTitle": "Australian PGA Senior Championship, Final Round",
+      "description": "Coverage of golf tournaments from around the world.",
+      "scheduledDate": 1794103200000,
+      "duration": 300,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-11-08_SH028182050000_112685941224_2024-05-13T05:23:51Z_p9232187_i_h8_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "DP World Tour Golf",
+      "episodeTitle": "Abu Dhabi Aldar Championship, Final Round",
+      "description": "From Yas Links Abu Dhabi in Abu Dhabi, Abu Z¸aby, United Arab Emirates.",
+      "scheduledDate": 1794121200000,
+      "duration": 330,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-11-08_EP040914080736_115190444123_2026-11-04T15:24:40Z_GNLZZGG003WX5S7/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Getting a Round In",
+      "episodeTitle": "",
+      "description": "Australian professional golfer, Paul Gow hosts celebrities as his playing partners who share his love for the game of golf.",
+      "scheduledDate": 1794141000000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Series",
+      "genre": "Golf, Interview",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-11-08_SH048121120000_110998856207_2023-07-18T05:56:16Z_p25221374_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "LPGA Tour Golf",
+      "episodeTitle": "Toto Japan Classic, Final Round",
+      "description": "From Ibaraki Golf Club in Tsukubarmrai, Ibaraki, Japan.",
+      "scheduledDate": 1794142800000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-11-08_EP031583890735_115192654701_2026-11-05T13:25:05Z_GNLZZGG003WY31W/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "PGA Tour Golf",
+      "episodeTitle": "World Wide Technology Championship, Third Round",
+      "description": "From El Cardonal at Diamante in Los Cabos, Baja California Sur, Mexico.",
+      "scheduledDate": 1794150000000,
+      "duration": 90,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-11-08_EP030899371438_115198580094_2026-11-04T13:24:59Z_GNLZZGG003WW71D/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "LPGA Tour Golf",
+      "episodeTitle": "Toto Japan Classic, Final Round",
+      "description": "From Ibaraki Golf Club in Tsukubarmrai, Ibaraki, Japan.",
+      "scheduledDate": 1794155400000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-11-08_EP031583890735_115192654701_2026-11-05T13:25:05Z_GNLZZGG003WY31W/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     }
   ]
 }

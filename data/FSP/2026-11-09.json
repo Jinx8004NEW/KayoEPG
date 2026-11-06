@@ -1,0 +1,31 @@
+{
+  "channel": "FSP",
+  "date": "2026-11-09",
+  "source": "kayo",
+  "fetchedAt": 1793926193857,
+  "fetchedAtIST": "6/11/2026, 6:19:53 am",
+  "events": [
+    {
+      "programTitle": "MotoGP Racing",
+      "episodeTitle": "Qatar Airways Grand Prix of Qatar: Sprint Race",
+      "description": "Action from MotoGP racing.",
+      "scheduledDate": 1794162600000,
+      "duration": 90,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Family, Classic sport event, Motorcycle racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-11-08_SH035853180000_114543852884_2017-10-24T00:43:00Z_p445588_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "To Be Announced",
+      "episodeTitle": "",
+      "description": "The programming for this time slot has yet to be determined and is being confirmed by the broadcast channel.",
+      "scheduledDate": 1794168000000,
+      "duration": 240,
+      "parentalRating": "",
+      "programType": "TBA",
+      "genre": "Special, Entertainment",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-11-08_SH027575020000_113966071598_2021-11-15T14:36:19Z_p514472_b_h8_dp/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    }
+  ]
+}

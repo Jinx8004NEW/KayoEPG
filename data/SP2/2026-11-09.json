@@ -1,0 +1,64 @@
+{
+  "channel": "SP2",
+  "date": "2026-11-09",
+  "source": "kayo",
+  "fetchedAt": 1793926193824,
+  "fetchedAtIST": "6/11/2026, 6:19:53 am",
+  "events": [
+    {
+      "programTitle": "NRL",
+      "episodeTitle": "Manly-Warringah Sea Eagles vs South Sydney Rabbitohs",
+      "description": "From 4 Pines Park in Brookvale, New South Wales, Australia.",
+      "scheduledDate": 1794164400000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Rugby league, Rugby",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-11-08_EP031720961134_115190443875_2026-04-08T03:10:17Z_GNLZZGG00328YYL/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NRL",
+      "episodeTitle": "Melbourne Storm vs Newcastle Knights",
+      "description": "From AAMI Park in Melbourne City, Victoria, Australia.",
+      "scheduledDate": 1794168000000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Rugby league, Rugby",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-11-08_EP031720961135_115190443889_2026-04-08T01:13:06Z_GNLZZGG00328G0C/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NRL",
+      "episodeTitle": "Canberra Raiders vs Sydney Roosters",
+      "description": "From GIO Stadium Canberra in Bruce, Australian Capital Territory, Australia.",
+      "scheduledDate": 1794171600000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Rugby league, Rugby",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-11-08_EP031720961136_115190444127_2026-04-08T01:13:04Z_GNLZZGG0032855W/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NRL",
+      "episodeTitle": "North Queensland Cowboys vs Dolphins",
+      "description": "From Queensland Country Bank Stadium in Townsville, Queensland, Australia.",
+      "scheduledDate": 1794175200000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Rugby league, Rugby",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-11-08_EP031720961137_115190444772_2026-04-08T01:19:10Z_GNLZZGG00328DW0/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NRL",
+      "episodeTitle": "Brisbane Broncos vs Gold Coast Titans",
+      "description": "From Suncorp Stadium in Milton, Queensland, Australia.",
+      "scheduledDate": 1794178800000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Rugby league, Rugby",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-11-08_EP031720961138_115190444785_2026-04-08T01:13:30Z_GNLZZGG00328FKN/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    }
+  ]
+}

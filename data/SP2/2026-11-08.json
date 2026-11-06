@@ -2,8 +2,8 @@
   "channel": "SP2",
   "date": "2026-11-08",
   "source": "kayo",
-  "fetchedAt": 1793907772939,
-  "fetchedAtIST": "6/11/2026, 1:12:52 am",
+  "fetchedAt": 1793926193823,
+  "fetchedAtIST": "6/11/2026, 6:19:53 am",
   "events": [
     {
       "programTitle": "NRL",
@@ -59,6 +59,204 @@
       "programType": "Sports event",
       "genre": "Rugby league, Rugby",
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-11-07_EP031720961127_115145024803_2026-03-20T22:56:22Z_GNLZZGG0031DJRR/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NRLW Premiership Mini",
+      "episodeTitle": "Canberra Raiders v New Zealand Warriors",
+      "description": "Condensed highlights of some of the greatest encounters from the NRL Women's competition.",
+      "scheduledDate": 1794096000000,
+      "duration": 20,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Rugby league, Rugby",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-11-08_SH042238410000_109229287001_2022-03-07T01:46:13Z_p21759648_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NRLW Premiership Mini",
+      "episodeTitle": "St George Illawarra Dragons v Parramatta Eels",
+      "description": "Condensed highlights of some of the greatest encounters from the NRL Women's competition.",
+      "scheduledDate": 1794097200000,
+      "duration": 20,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Rugby league, Rugby",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-11-08_SH042238410000_109229287001_2022-03-07T01:46:13Z_p21759648_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NRLW Premiership Mini",
+      "episodeTitle": "Canberra Raiders v Sydney Roosters",
+      "description": "Condensed highlights of some of the greatest encounters from the NRL Women's competition.",
+      "scheduledDate": 1794098400000,
+      "duration": 20,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Rugby league, Rugby",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-11-08_SH042238410000_109229287001_2022-03-07T01:46:13Z_p21759648_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Greatest Test Matches",
+      "episodeTitle": "2022 Rugby League World Cup: Final - Australia v Samoa",
+      "description": "A selection of international clashes featuring memorable moments, great rivalries, inspirational performances and thrilling finishes.",
+      "scheduledDate": 1794099600000,
+      "duration": 90,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Rugby",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-11-08_SH053177030000_100906053540_2025-10-15T06:38:51Z_p28430202_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Greatest Test Matches",
+      "episodeTitle": "2015: Tonga v Samoa",
+      "description": "Presents a selection of international clashes featuring memorable moments, great rivalries, inspirational performances and thrilling finishes.",
+      "scheduledDate": 1794105000000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Rugby",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-11-08_SH053177030000_100906053540_2025-10-15T06:38:51Z_p28430202_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Greatest Test Matches",
+      "episodeTitle": "2022 Rugby League World Cup: Semifinal - England v Samoa",
+      "description": "A preview of the 2022 Rugby League World Cup semifinal between England and Samoa.",
+      "scheduledDate": 1794108600000,
+      "duration": 90,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Rugby",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-11-08_SH053177030000_100906053540_2025-10-15T06:38:51Z_p28430202_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Greatest Test Matches",
+      "episodeTitle": "2022 Rugby League World Cup: Final - Australia v Samoa",
+      "description": "A selection of international clashes featuring memorable moments, great rivalries, inspirational performances and thrilling finishes.",
+      "scheduledDate": 1794114000000,
+      "duration": 90,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Rugby",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-11-08_SH053177030000_100906053540_2025-10-15T06:38:51Z_p28430202_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Greatest Test Matches",
+      "episodeTitle": "2015: Tonga v Samoa",
+      "description": "Presents a selection of international clashes featuring memorable moments, great rivalries, inspirational performances and thrilling finishes.",
+      "scheduledDate": 1794119400000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Rugby",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-11-08_SH053177030000_100906053540_2025-10-15T06:38:51Z_p28430202_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Greatest Test Matches",
+      "episodeTitle": "2022 Rugby League World Cup: Final - Australia v Samoa",
+      "description": "A selection of international clashes featuring memorable moments, great rivalries, inspirational performances and thrilling finishes.",
+      "scheduledDate": 1794123000000,
+      "duration": 90,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Rugby",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-11-08_SH053177030000_100906053540_2025-10-15T06:38:51Z_p28430202_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Greatest Test Matches",
+      "episodeTitle": "2017: England v Samoa",
+      "description": "Presents a selection of international clashes featuring memorable moments, great rivalries, inspirational performances and thrilling finishes.",
+      "scheduledDate": 1794128400000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Rugby",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-11-08_SH053177030000_100906053540_2025-10-15T06:38:51Z_p28430202_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Greatest Test Matches",
+      "episodeTitle": "2022 Rugby League World Cup: Semifinal - England v Samoa",
+      "description": "A preview of the 2022 Rugby League World Cup semifinal between England and Samoa.",
+      "scheduledDate": 1794132000000,
+      "duration": 90,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Rugby",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-11-08_SH053177030000_100906053540_2025-10-15T06:38:51Z_p28430202_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Greatest Test Matches",
+      "episodeTitle": "2022 Rugby League World Cup: Semifinal - Australia v New Zealand",
+      "description": "A selection of international clashes featuring memorable moments, great rivalries, inspirational performances and thrilling finishes.",
+      "scheduledDate": 1794137400000,
+      "duration": 90,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Rugby",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-11-08_SH053177030000_100906053540_2025-10-15T06:38:51Z_p28430202_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NRL",
+      "episodeTitle": "Newcastle Knights vs Parramatta Eels",
+      "description": "From McDonald Jones Stadium in Newcastle, New South Wales, Australia.",
+      "scheduledDate": 1794142800000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Rugby league, Rugby",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-11-08_EP031720961128_115149207414_2026-03-21T02:47:19Z_GNLZZGG0031FZHE/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NRL",
+      "episodeTitle": "Wests Tigers vs Canterbury-Bankstown Bulldogs",
+      "description": "From CommBank Stadium in Parramatta, New South Wales, Australia.",
+      "scheduledDate": 1794146400000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Rugby league, Rugby",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-11-08_EP031720961129_115150396512_2026-03-21T02:56:32Z_GNLZZGG0031G33X/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NRL",
+      "episodeTitle": "Melbourne Storm vs Sydney Roosters",
+      "description": "From AAMI Park in Melbourne City, Victoria, Australia.",
+      "scheduledDate": 1794150000000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Rugby league, Rugby",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-11-08_EP031720961130_115150396510_2026-03-21T02:47:21Z_GNLZZGG0031G2TG/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NRL",
+      "episodeTitle": "Brisbane Broncos vs St. George Illawarra Dragons",
+      "description": "From Suncorp Stadium in Milton, Queensland, Australia.",
+      "scheduledDate": 1794153600000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Rugby league, Rugby",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-11-08_EP031720961131_115150396528_2026-03-21T02:37:01Z_GNLZZGG0031FZJD/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NRL",
+      "episodeTitle": "Canberra Raiders vs North Queensland Cowboys",
+      "description": "From GIO Stadium Canberra in Bruce, Australian Capital Territory, Australia.",
+      "scheduledDate": 1794157200000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Rugby league, Rugby",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-11-08_EP031720961132_115150396514_2026-03-21T02:57:47Z_GNLZZGG0031G1CZ/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NRL",
+      "episodeTitle": "Penrith Panthers vs New Zealand Warriors",
+      "description": "From CommBank Stadium in Parramatta, New South Wales, Australia.",
+      "scheduledDate": 1794160800000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Rugby league, Rugby",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-11-08_EP031720961133_115147108177_2026-03-21T03:00:23Z_GNLZZGG0031FLKD/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     }
   ]
 }
