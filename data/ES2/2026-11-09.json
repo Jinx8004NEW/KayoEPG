@@ -2,8 +2,8 @@
   "channel": "ES2",
   "date": "2026-11-09",
   "source": "kayo",
-  "fetchedAt": 1794009504077,
-  "fetchedAtIST": "7/11/2026, 5:28:24 am",
+  "fetchedAt": 1794030337249,
+  "fetchedAtIST": "7/11/2026, 11:15:37 am",
   "events": [
     {
       "programTitle": "College Football Final",
@@ -37,6 +37,204 @@
       "programType": "Sports event",
       "genre": "Football",
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-11-08_EP029371131967_115264171991_2026-07-15T07:28:22Z_GNLZZGG0039QHVN/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "International Dance League",
+      "episodeTitle": "Los Angeles",
+      "description": "The world's best dance crews compete head-to-head for glory and prize money on the global stage.",
+      "scheduledDate": 1794184200000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Dance",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-11-09_SH065465050000_114031442428_2026-07-13T18:45:53Z_p33553747_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Ball or Nothin'",
+      "episodeTitle": "",
+      "description": "",
+      "scheduledDate": 1794187800000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Basketball",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-11-09_SH066608350000_114796305168_2026-10-23T07:25:17Z_p34357847_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NBA Basketball",
+      "episodeTitle": "Sacramento Kings vs Miami Heat",
+      "description": "From Golden 1 Center in Sacramento, Calif.",
+      "scheduledDate": 1794189600000,
+      "duration": 150,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Basketball",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-11-09_EP030658785628_115197881749_2026-09-02T04:59:36Z_GNLZZGG003M55Y4/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NFL Films Presents",
+      "episodeTitle": "Run",
+      "description": "The story of running back Fred Taylor; Tiki Barber's passion for running extends beyond football; celebrate the 50th anniversary of Old Man Willie.",
+      "scheduledDate": 1794198600000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Football, Documentary",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-11-09_EP033308300142_115202394578_2026-11-02T17:59:44Z_p34493745_e_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NFL Minis",
+      "episodeTitle": "Cincinnati Bengals vs Atlanta Falcons",
+      "description": "A collection of special condensed replays featuring the best highlights and all the key moments on the field.",
+      "scheduledDate": 1794200400000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Classic sport event, Football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-11-09_SH036425140000_113987719975_2020-10-08T06:20:45Z_p18931248_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NBA Minis",
+      "episodeTitle": "2026-27: Miami Heat at Sacramento Kings",
+      "description": "A collection of special condensed replays featuring the best highlights and all the key moments on the court.",
+      "scheduledDate": 1794202200000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Classic sport event, Basketball",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-11-09_SH035801090000_115013696310_2020-08-10T05:50:19Z_p18627080_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NFL Minis",
+      "episodeTitle": "Las Vegas Raiders at San Francisco 49ers",
+      "description": "A collection of special condensed replays featuring the best highlights and all the key moments on the field.",
+      "scheduledDate": 1794204000000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Classic sport event, Football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-11-09_SH036425140000_113987719975_2020-10-08T06:20:45Z_p18931248_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NFL Football",
+      "episodeTitle": "Cincinnati Bengals vs Atlanta Falcons",
+      "description": "From Santiago Bernabeu Stadium in Madrid, Spain.",
+      "scheduledDate": 1794205800000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-11-09_EP029371131956_115190444777_2026-07-15T04:41:03Z_GNLZZGG0039L5RP/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NFL Minis",
+      "episodeTitle": "Arizona Cardinals at Seattle Seahawks",
+      "description": "A collection of special condensed replays featuring the best highlights and all the key moments on the field.",
+      "scheduledDate": 1794213000000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Classic sport event, Football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-11-09_SH036425140000_113987719975_2020-10-08T06:20:45Z_p18931248_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NFL Minis",
+      "episodeTitle": "Tampa Bay Buccaneers at Chicago Bears",
+      "description": "A collection of special condensed replays featuring the best highlights and all the key moments on the field.",
+      "scheduledDate": 1794214800000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Classic sport event, Football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-11-09_SH036425140000_113987719975_2020-10-08T06:20:45Z_p18931248_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NFL Football",
+      "episodeTitle": "San Francisco 49ers vs Las Vegas Raiders",
+      "description": "From Levi's Stadium in Santa Clara, Calif.",
+      "scheduledDate": 1794216600000,
+      "duration": 150,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-11-09_EP029371131966_115262321266_2026-07-15T07:28:48Z_GNLZZGG0039Q2ZR/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NFL Football",
+      "episodeTitle": "Seattle Seahawks vs Arizona Cardinals",
+      "description": "From Lumen Field in Seattle.",
+      "scheduledDate": 1794225600000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-11-09_EP029371131967_115264171991_2026-07-15T07:28:22Z_GNLZZGG0039QHVN/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NFL Minis",
+      "episodeTitle": "Denver Broncos at Carolina Panthers",
+      "description": "A collection of special condensed replays featuring the best highlights and all the key moments on the field.",
+      "scheduledDate": 1794232800000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Classic sport event, Football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-11-09_SH036425140000_113987719975_2020-10-08T06:20:45Z_p18931248_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NFL Minis",
+      "episodeTitle": "Las Vegas Raiders at San Francisco 49ers",
+      "description": "A collection of special condensed replays featuring the best highlights and all the key moments on the field.",
+      "scheduledDate": 1794234600000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Classic sport event, Football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-11-09_SH036425140000_113987719975_2020-10-08T06:20:45Z_p18931248_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NFL Minis",
+      "episodeTitle": "Arizona Cardinals at Seattle Seahawks",
+      "description": "A collection of special condensed replays featuring the best highlights and all the key moments on the field.",
+      "scheduledDate": 1794236400000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Classic sport event, Football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-11-09_SH036425140000_113987719975_2020-10-08T06:20:45Z_p18931248_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NFL Minis",
+      "episodeTitle": "Tampa Bay Buccaneers at Chicago Bears",
+      "description": "A collection of special condensed replays featuring the best highlights and all the key moments on the field.",
+      "scheduledDate": 1794238200000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Classic sport event, Football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-11-09_SH036425140000_113987719975_2020-10-08T06:20:45Z_p18931248_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Get Up",
+      "episodeTitle": "",
+      "description": "Mike Greenberg, Laura Rutledge and Jalen Rose discuss and analyse the latest news from the world of sports.",
+      "scheduledDate": 1794240000000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Sports talk",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-11-09_SH033268270000_113795790315_2026-03-24T04:04:44Z_p15158780_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "First Take",
+      "episodeTitle": "",
+      "description": "Stephen A. Smith joins Molly Qerim Rose to debate the hottest topics in sports.",
+      "scheduledDate": 1794247200000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Sports talk, News, Debate",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-11-09_SH033280060000_108193810385_2025-11-07T06:36:14Z_p186291_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     }
   ]
 }

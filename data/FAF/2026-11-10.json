@@ -1,0 +1,42 @@
+{
+  "channel": "FAF",
+  "date": "2026-11-10",
+  "source": "kayo",
+  "fetchedAt": 1794030337215,
+  "fetchedAtIST": "7/11/2026, 11:15:37 am",
+  "events": [
+    {
+      "programTitle": "AFL Women's Premiership",
+      "episodeTitle": "Qualifying Final: Geelong Cats vs Melbourne Demons",
+      "description": "Live from IKON Park. Bounce time: 1:05pm AEDT.",
+      "scheduledDate": 1794254400000,
+      "duration": 90,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Playoff sports, Australian rules football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-11-09_EP029247970856_115183789354_2026-11-03T04:52:48Z_GNLZZGG003WHVVW/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "AFL Women's Premiership",
+      "episodeTitle": "Qualifying Final: North Melbourne Kangaroos vs Carlton Blues",
+      "description": "Live from IKON Park. Bounce time: 4:05pm AEDT.",
+      "scheduledDate": 1794259800000,
+      "duration": 90,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Playoff sports, Australian rules football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-11-09_EP029247970855_115272343783_2026-11-03T04:51:52Z_GNLZZGG003WHV51/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Classic AFL",
+      "episodeTitle": "1996 Round 19: Hawthorn v Footscray",
+      "description": "Condensed highlights and a look back at full replays of some of the greatest encounters from the Australian Football League.",
+      "scheduledDate": 1794265200000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Australian rules football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-11-09_SH028096630000_102142641835_2018-11-27T09:00:00Z_p14740563_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    }
+  ]
+}

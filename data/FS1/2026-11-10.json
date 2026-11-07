@@ -1,0 +1,75 @@
+{
+  "channel": "FS1",
+  "date": "2026-11-10",
+  "source": "kayo",
+  "fetchedAt": 1794030337192,
+  "fetchedAtIST": "7/11/2026, 11:15:37 am",
+  "events": [
+    {
+      "programTitle": "Test Cricket",
+      "episodeTitle": "2007/08 - Australia vs India, 2nd Test",
+      "description": "Coverage and highlights from international test cricket matches.",
+      "scheduledDate": 1794249000000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Cricket, Classic sport event",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-11-09_SH033446590000_98978823590_2023-09-29T14:53:53Z_p8163404_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Fox Cricket Ashes Classics",
+      "episodeTitle": "2013/14 1st Test - Brisbane",
+      "description": "Highlights from some of the most exciting test matches between Australia and England from the history of The Ashes.",
+      "scheduledDate": 1794250800000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Classic sport event, Cricket",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-11-09_SH041148630000_115259754334_2021-12-14T10:47:34Z_p21143876_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Fox Cricket Ashes Classics",
+      "episodeTitle": "2013/14 5th Test - Sydney",
+      "description": "Highlights from some of the most exciting test matches between Australia and England from the history of The Ashes.",
+      "scheduledDate": 1794254400000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Classic sport event, Cricket",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-11-09_SH041148630000_115259754334_2021-12-14T10:47:34Z_p21143876_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Test Cricket",
+      "episodeTitle": "South Africa vs Australia, 1st Test",
+      "description": "Coverage and highlights from international test cricket matches.",
+      "scheduledDate": 1794258000000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Cricket, Classic sport event",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-11-09_SH033446590000_98978823590_2023-09-29T14:53:53Z_p8163404_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Summer of the Century",
+      "episodeTitle": "",
+      "description": "The latest highlights, reaction and analysis of the biggest sports stories from Australia and around the world.",
+      "scheduledDate": 1794261600000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Series",
+      "genre": "Cricket",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/Fallback_LTV_103068/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Test Cricket",
+      "episodeTitle": "3rd Test: South Africa vs. Australia",
+      "description": "Coverage and highlights from international test cricket matches.",
+      "scheduledDate": 1794265200000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Cricket, Classic sport event",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-11-09_SH033446590000_98978823590_2023-09-29T14:53:53Z_p8163404_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    }
+  ]
+}

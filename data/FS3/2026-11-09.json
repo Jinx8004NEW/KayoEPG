@@ -2,8 +2,8 @@
   "channel": "FS3",
   "date": "2026-11-09",
   "source": "kayo",
-  "fetchedAt": 1794009504053,
-  "fetchedAtIST": "7/11/2026, 5:28:24 am",
+  "fetchedAt": 1794030337206,
+  "fetchedAtIST": "7/11/2026, 11:15:37 am",
   "events": [
     {
       "programTitle": "PGA Tour Golf",
@@ -37,6 +37,105 @@
       "programType": "Sports non-event",
       "genre": "Special, Boxing",
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/Fallback_LTV_103070/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Golf",
+      "episodeTitle": "Australian PGA Senior Championship, Final Round",
+      "description": "A full coverage of golf tournaments and events from around the world, featuring all the action and highlights.",
+      "scheduledDate": 1794182400000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-11-09_SH032772030000_113702935496_2025-04-03T19:44:22Z_p706015_i_h8_ad/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "DP World Tour Golf",
+      "episodeTitle": "Abu Dhabi Aldar Championship, Final Round",
+      "description": "From Yas Links Abu Dhabi in Abu Dhabi, Abu Z¸aby, United Arab Emirates.",
+      "scheduledDate": 1794186000000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-11-09_EP040914080736_115250924009_2026-11-06T07:22:14Z_GNLZZGG003X3K52/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Golf",
+      "episodeTitle": "Australian PGA Senior Championship, Final Round",
+      "description": "A full coverage of golf tournaments and events from around the world, featuring all the action and highlights.",
+      "scheduledDate": 1794193200000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-11-09_SH032772030000_113702935496_2025-04-03T19:44:22Z_p706015_i_h8_ad/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "PGA Tour Golf Mini",
+      "episodeTitle": "World Wide Technology Championship, Final Round",
+      "description": "A collection of special condensed replays featuring the best highlights and all the key moments from the course.",
+      "scheduledDate": 1794196800000,
+      "duration": 20,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-11-09_SH047874460000_101769826726_2023-06-23T09:17:39Z_p25047305_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Test Cricket",
+      "episodeTitle": "Pakistan vs Sri Lanka",
+      "description": "Coverage of Test cricket matches contested by international teams.",
+      "scheduledDate": 1794198000000,
+      "duration": 460,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Cricket",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-11-09_EP029804991940_115259755092_2026-10-27T23:02:41Z_GNLZZGG003VB0BW/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "PGA Tour Highlights",
+      "episodeTitle": "World Wide Technology Championship",
+      "description": "Highlights from PGA Tour events featuring the world's best golfers in action. Hosts track the progression of the game while reviewing the changes in technologies and techniques.",
+      "scheduledDate": 1794225600000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Classic sport event, Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-11-09_SH032355110000_114391477483_2023-03-16T12:30:24Z_p9060599_i_h10_ae/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "PGA Tour Golf",
+      "episodeTitle": "Wyndham Championship, Final Round",
+      "description": "From Sedgefield Country Club in Greensboro, N.C.",
+      "scheduledDate": 1794229200000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-11-09_EP030899371413_115259755677_2026-07-30T22:05:51Z_p32044845_b_h8_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "PGA Tour Golf",
+      "episodeTitle": "FedEx St. Jude Championship, Final Round",
+      "description": "From TPC Southwind in Memphis, Tenn.",
+      "scheduledDate": 1794236400000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-11-09_EP030899371417_115249847768_2026-08-07T17:26:46Z_p32045007_b_h8_ad/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "PGA Tour Golf",
+      "episodeTitle": "BMW Championship, Final Round",
+      "description": "Professional golfers compete against one another in the PGA Tour to win the coveted title.",
+      "scheduledDate": 1794243600000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Classic sport event, Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-11-09_SH035325650000_112615937126_2023-06-26T11:35:50Z_p8997822_i_h8_ad/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     }
   ]
 }

@@ -2,8 +2,8 @@
   "channel": "FSP",
   "date": "2026-11-09",
   "source": "kayo",
-  "fetchedAt": 1794009504062,
-  "fetchedAtIST": "7/11/2026, 5:28:24 am",
+  "fetchedAt": 1794030337221,
+  "fetchedAtIST": "7/11/2026, 11:15:37 am",
   "events": [
     {
       "programTitle": "MotoGP Racing",
@@ -37,6 +37,105 @@
       "programType": "TBA",
       "genre": "Special, Entertainment",
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-11-08_SH027575020000_113966071598_2021-11-15T14:36:19Z_p514472_b_h8_dp/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "MotoGP Racing",
+      "episodeTitle": "Qatar Airways Grand Prix of Qatar",
+      "description": "From Losail International Circuit in Doha, Ad Dawhah, Qatar.",
+      "scheduledDate": 1794182400000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Motorcycle racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-11-09_EP028104881601_115251007819_2026-11-04T13:24:18Z_GNLZZGG003WW6ZQ/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Getting a Round In",
+      "episodeTitle": "",
+      "description": "Australian professional golfer, Paul Gow hosts celebrities as his playing partners who share his love for the game of golf.",
+      "scheduledDate": 1794186000000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Series",
+      "genre": "Golf, Interview",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-11-09_SH048121120000_110998856207_2023-07-18T05:56:16Z_p25221374_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Boxing",
+      "episodeTitle": "IBF World Female Lightweight Title: Elif Nur Turhan vs Alycia Baumgardner",
+      "description": "From College Park Center in Arlington, Tex.",
+      "scheduledDate": 1794187800000,
+      "duration": 240,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Boxing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-11-09_SH034582530000_115283538146_2026-09-15T20:15:19Z_p343935_i_h8_ah/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Supercars Mini",
+      "episodeTitle": "",
+      "description": "Australia's premier touring car racing competition, known for high-powered V8 machines and intense, close-quarters racing.",
+      "scheduledDate": 1794202200000,
+      "duration": 20,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Classic sport event, Auto racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-11-09_SH035786470000_105377021933_2020-08-20T08:30:31Z_p18624449_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Test Cricket",
+      "episodeTitle": "Afghanistan vs Zimbabwe",
+      "description": "Coverage of Test cricket matches contested by international teams.",
+      "scheduledDate": 1794203400000,
+      "duration": 460,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Cricket",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-11-09_EP029804991935_115259754251_2026-10-27T23:21:25Z_GNLZZGG003VBBYB/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "LPGA Tour Golf",
+      "episodeTitle": "Toto Japan Classic, Final Round",
+      "description": "From Ibaraki Golf Club in Tsukubarmrai, Ibaraki, Japan.",
+      "scheduledDate": 1794231000000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-11-09_EP031583890735_115249419429_2026-11-05T13:25:05Z_GNLZZGG003WY31W/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "DP World Tour Golf",
+      "episodeTitle": "Abu Dhabi Aldar Championship, Final Round",
+      "description": "From Yas Links Abu Dhabi in Abu Dhabi, Abu Z¸aby, United Arab Emirates.",
+      "scheduledDate": 1794238200000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-11-09_EP040914080736_115250924009_2026-11-06T07:22:14Z_GNLZZGG003X3K52/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "MotoGP Racing",
+      "episodeTitle": "Qatar Airways Grand Prix of Qatar: Sprint Race",
+      "description": "Action from MotoGP racing.",
+      "scheduledDate": 1794245400000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Family, Classic sport event, Motorcycle racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-11-09_SH035853180000_114543852884_2017-10-24T00:43:00Z_p445588_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Ultimate Pool Pairs Cup",
+      "episodeTitle": "Mixed Pairs Cup: Prelim Group 2",
+      "description": "",
+      "scheduledDate": 1794247200000,
+      "duration": 210,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Pool",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-11-09_SH052429110000_110899527161_2022-07-14T04:37:38Z_p22523512_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     }
   ]
 }

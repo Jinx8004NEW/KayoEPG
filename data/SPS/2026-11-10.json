@@ -1,0 +1,86 @@
+{
+  "channel": "SPS",
+  "date": "2026-11-10",
+  "source": "kayo",
+  "fetchedAt": 1794030337230,
+  "fetchedAtIST": "7/11/2026, 11:15:37 am",
+  "events": [
+    {
+      "programTitle": "NASCAR Cup Racing Series",
+      "episodeTitle": "Homestead-Miami Speedway",
+      "description": "Coverage of the NASCAR Cup Series, professional stock car racing in the United States.",
+      "scheduledDate": 1794250800000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Motorsports, Auto racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-11-09_SH056052770000_110216247140_2024-02-28T07:23:12Z_p8599472_i_h10_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Moto2 GP Racing",
+      "episodeTitle": "Qatar Airways Grand Prix of Qatar",
+      "description": "From Losail International Circuit in Doha, Ad Dawhah, Qatar.",
+      "scheduledDate": 1794254400000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Motorcycle racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-11-09_EP046925380366_115149207400_2026-11-04T15:24:42Z_GNLZZGG003WX5SF/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "MotoGP Racing",
+      "episodeTitle": "Qatar Airways Grand Prix of Qatar: Sprint Race",
+      "description": "Action from MotoGP racing.",
+      "scheduledDate": 1794258000000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Family, Classic sport event, Motorcycle racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-11-09_SH035853180000_114543852884_2017-10-24T00:43:00Z_p445588_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "MotoGP Racing",
+      "episodeTitle": "Qatar Airways Grand Prix of Qatar",
+      "description": "From Losail International Circuit in Doha, Ad Dawhah, Qatar.",
+      "scheduledDate": 1794259800000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Motorcycle racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-11-09_EP028104881601_115251007819_2026-11-04T13:24:18Z_GNLZZGG003WW6ZQ/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "MotoGP: After The Flag",
+      "episodeTitle": "Qatar",
+      "description": "The commentary team interview the top riders and wrap up the weekend of action after the Grand Prix.",
+      "scheduledDate": 1794263400000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Motorcycle racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-11-09_SH045144180000_112768561209_2022-10-28T12:27:14Z_p23278858_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "F1 Mini",
+      "episodeTitle": "São Paulo Grand Prix",
+      "description": "Highlights of the world's most iconic Formula 1 Grands Prix, featuring every podium and overtake.",
+      "scheduledDate": 1794265200000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Motorsports, Classic sport event",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-11-09_SH036452570000_107032703571_2020-11-19T03:00:48Z_p18944992_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Ted's Notebook",
+      "episodeTitle": "Sao Paulo Grand Prix: Race",
+      "description": "Ted Kravitz gives an exciting behind-the-scenes look at the world of Formula 1.",
+      "scheduledDate": 1794267000000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Auto racing, Motorsports",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-11-09_SH038161890000_106370532176_2021-03-17T07:49:14Z_p9739735_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    }
+  ]
+}
