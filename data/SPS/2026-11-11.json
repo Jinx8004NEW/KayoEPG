@@ -1,0 +1,75 @@
+{
+  "channel": "SPS",
+  "date": "2026-11-11",
+  "source": "kayo",
+  "fetchedAt": 1794113608239,
+  "fetchedAtIST": "8/11/2026, 10:23:28 am",
+  "events": [
+    {
+      "programTitle": "Supercars Trackside",
+      "episodeTitle": "Penrite Oil Sandown 500",
+      "description": "All the action from the track and down in pit lane, with exclusive insight from experts and former supercar drivers.",
+      "scheduledDate": 1794336300000,
+      "duration": 45,
+      "parentalRating": "",
+      "programType": "Series",
+      "genre": "Sports talk, Motorsports",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-11-10_SH031729430000_109921619660_2019-04-15T09:20:14Z_p16641707_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "PGA Tour Highlights",
+      "episodeTitle": "World Wide Technology Championship",
+      "description": "Highlights from PGA Tour events featuring the world's best golfers in action. Hosts track the progression of the game while reviewing the changes in technologies and techniques.",
+      "scheduledDate": 1794339000000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Classic sport event, Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-11-10_SH032355110000_114391477483_2023-03-16T12:30:24Z_p9060599_i_h10_ae/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "The Cut",
+      "episodeTitle": "",
+      "description": "An insightful exploration of player profiles and a preview of various PGA Tour tournaments around the world.",
+      "scheduledDate": 1794342600000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-11-10_SH034181850000_115259755153_2022-01-21T12:57:01Z_p17650562_i_h8_al/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NASCAR Cup Racing Series",
+      "episodeTitle": "Homestead-Miami Speedway",
+      "description": "Coverage of the NASCAR Cup Series, professional stock car racing in the United States.",
+      "scheduledDate": 1794344400000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Motorsports, Auto racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-11-10_SH056052770000_110216247140_2024-02-28T07:23:12Z_p8599472_i_h10_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Auto Racing",
+      "episodeTitle": "Shannons Series - Sandown, Day 1",
+      "description": "Coverage of motor racing events.",
+      "scheduledDate": 1794348000000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Auto racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-11-10_SH031965880000_112449921438_2024-07-02T08:13:30Z_p334889_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Auto Racing",
+      "episodeTitle": "Shannons Series - Sandown, Day 2",
+      "description": "Coverage of motor racing events.",
+      "scheduledDate": 1794351600000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Auto racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-11-10_SH031965880000_112449921438_2024-07-02T08:13:30Z_p334889_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    }
+  ]
+}

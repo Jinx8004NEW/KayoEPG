@@ -1,0 +1,53 @@
+{
+  "channel": "FS3",
+  "date": "2026-11-11",
+  "source": "kayo",
+  "fetchedAt": 1794113608223,
+  "fetchedAtIST": "8/11/2026, 10:23:28 am",
+  "events": [
+    {
+      "programTitle": "European PGA Tour Highlights",
+      "episodeTitle": "Abu Dhabi Championship",
+      "description": "All the action and highlights from European Tour golf.",
+      "scheduledDate": 1794337200000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-11-10_SH037026900000_114410019874_2022-09-05T13:56:59Z_p9656797_i_h10_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "LPGA Tour Golf",
+      "episodeTitle": "Toto Japan Classic, Final Round",
+      "description": "From Ibaraki Golf Club in Tsukubarmrai, Ibaraki, Japan.",
+      "scheduledDate": 1794344400000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-11-10_EP031583890735_115249419429_2026-11-05T13:25:05Z_GNLZZGG003WY31W/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Getting a Round In",
+      "episodeTitle": "Shane Watson",
+      "description": "Australian professional golfer, Paul Gow hosts celebrities as his playing partners who share his love for the game of golf.",
+      "scheduledDate": 1794351600000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Series",
+      "genre": "Golf, Interview",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-11-10_SH048121120000_110998856207_2023-07-18T05:56:16Z_p25221374_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "WTGL Golf",
+      "episodeTitle": "Los Angeles Golf Club vs. New York Golf Club",
+      "description": "From SoFi Center in Palm Beach Gardens, Fla.",
+      "scheduledDate": 1794353400000,
+      "duration": 90,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-11-10_SH067016670000_115259755249_2026-10-26T23:20:42Z_p34198343_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    }
+  ]
+}
