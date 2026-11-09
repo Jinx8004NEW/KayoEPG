@@ -2,8 +2,8 @@
   "channel": "FSP",
   "date": "2026-11-10",
   "source": "kayo",
-  "fetchedAt": 1794200419006,
-  "fetchedAtIST": "9/11/2026, 10:30:19 am",
+  "fetchedAt": 1794248719175,
+  "fetchedAtIST": "9/11/2026, 11:55:19 pm",
   "events": [
     {
       "programTitle": "Formula 1",
@@ -43,11 +43,22 @@
       "episodeTitle": "Abu Dhabi Championship",
       "description": "All the action and highlights from European Tour golf.",
       "scheduledDate": 1794281400000,
-      "duration": 30,
+      "duration": 29,
       "parentalRating": "",
       "programType": "Sports non-event",
       "genre": "Golf",
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-11-10_SH041051050000_114410019891_2022-09-05T13:56:59Z_p9656797_i_h10_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Supercars Mini",
+      "episodeTitle": "Penrite Oil Sandown 500: Race 34",
+      "description": "Australia's premier touring car racing competition, known for high-powered V8 machines and intense, close-quarters racing.",
+      "scheduledDate": 1794283140000,
+      "duration": 21,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Classic sport event, Auto racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-11-10_SH035786470000_105377021933_2020-08-20T08:30:31Z_p18624449_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "Supercars Mini",
@@ -87,7 +98,7 @@
       "episodeTitle": "UFC 334 Countdown: Gane vs. Hokit",
       "description": "Coverage of UFC training, including exclusive interviews, expert analysis and a look at the intense preparation of each fighter.",
       "scheduledDate": 1794315600000,
-      "duration": 30,
+      "duration": 60,
       "parentalRating": "",
       "programType": "Sports non-event",
       "genre": "Mixed martial arts, Documentary",
@@ -124,7 +135,7 @@
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Golf",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-11-10_EP030899371439_115334655755_2026-11-08T09:23:20Z_GNLZZGG003X76SE/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-11-10_EP030899371439_115355183033_2026-11-08T09:23:20Z_GNLZZGG003X76SE/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "MotoGP Racing",

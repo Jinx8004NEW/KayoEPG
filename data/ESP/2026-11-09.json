@@ -2,8 +2,8 @@
   "channel": "ESP",
   "date": "2026-11-09",
   "source": "kayo",
-  "fetchedAt": 1794200419026,
-  "fetchedAtIST": "9/11/2026, 10:30:19 am",
+  "fetchedAt": 1794248719187,
+  "fetchedAtIST": "9/11/2026, 11:55:19 pm",
   "events": [
     {
       "programTitle": "To Be Announced",
@@ -70,6 +70,17 @@
       "programType": "TBA",
       "genre": "Special, Entertainment",
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-11-09_SH027575020000_113966071598_2021-11-15T14:36:19Z_p514472_b_h8_dp/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "The Pat McAfee Show",
+      "episodeTitle": "",
+      "description": "Former NFL punter Pat McAfee brings his humour, sarcasm and candour to the microphone to highlight the day's top stories.",
+      "scheduledDate": 1794243600000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Series",
+      "genre": "Sports talk",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-11-09_SH048483860000_111648065422_2020-09-10T14:31:07Z_p18762527_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     }
   ]
 }

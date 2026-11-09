@@ -2,8 +2,8 @@
   "channel": "FSP",
   "date": "2026-11-11",
   "source": "kayo",
-  "fetchedAt": 1794200419007,
-  "fetchedAtIST": "9/11/2026, 10:30:19 am",
+  "fetchedAt": 1794248719176,
+  "fetchedAtIST": "9/11/2026, 11:55:19 pm",
   "events": [
     {
       "programTitle": "MotoGP Racing",
@@ -36,7 +36,7 @@
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Golf",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-11-10_EP030899371439_115334655755_2026-11-08T09:23:20Z_GNLZZGG003X76SE/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-11-10_EP030899371439_115355183033_2026-11-08T09:23:20Z_GNLZZGG003X76SE/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "LPGA Tour Golf",
@@ -105,15 +105,15 @@
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-11-11_SH065139570000_115084805497_2026-10-16T21:52:11Z_p33539447_i_h8_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "UFC Countdown",
-      "episodeTitle": "UFC 334 Countdown: Gane vs. Hokit",
-      "description": "Coverage of UFC training, including exclusive interviews, expert analysis and a look at the intense preparation of each fighter.",
+      "programTitle": "Getting a Round In",
+      "episodeTitle": "",
+      "description": "Australian professional golfer, Paul Gow hosts celebrities as his playing partners who share his love for the game of golf.",
       "scheduledDate": 1794376800000,
       "duration": 30,
       "parentalRating": "",
-      "programType": "Sports non-event",
-      "genre": "Mixed martial arts, Documentary",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-11-11_SH030408650000_112647340619_2026-01-22T17:35:05Z_p308818_i_h8_ae/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "programType": "Series",
+      "genre": "Golf, Interview",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-11-11_SH048121120000_110998856207_2023-07-18T05:56:16Z_p25221374_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "Ladies European Tour Highlights",
@@ -204,15 +204,15 @@
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-11-11_SH030600890000_113942151197_2018-12-06T10:40:00Z_p16032357_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "UFC Countdown",
-      "episodeTitle": "UFC 334 Countdown: Gane vs. Hokit",
-      "description": "Coverage of UFC training, including exclusive interviews, expert analysis and a look at the intense preparation of each fighter.",
+      "programTitle": "Fight Week",
+      "episodeTitle": "UFC 334",
+      "description": "Fox Sports reporters take a look at the UFC results, previews, and news from the previous UFC Fight Week.",
       "scheduledDate": 1794407400000,
       "duration": 30,
       "parentalRating": "",
-      "programType": "Sports non-event",
-      "genre": "Mixed martial arts, Documentary",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-11-11_SH030408650000_112647340619_2026-01-22T17:35:05Z_p308818_i_h8_ae/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "programType": "Series",
+      "genre": "Sports talk, Mixed martial arts, Boxing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-11-11_SH028549290000_114483146878_2024-01-18T22:33:02Z_p14982509_i_h10_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "Constellation Cup",
