@@ -2,8 +2,8 @@
   "channel": "FS3",
   "date": "2026-11-11",
   "source": "kayo",
-  "fetchedAt": 1794168883717,
-  "fetchedAtIST": "9/11/2026, 1:44:43 am",
+  "fetchedAt": 1794200418993,
+  "fetchedAtIST": "9/11/2026, 10:30:18 am",
   "events": [
     {
       "programTitle": "European PGA Tour Highlights",
@@ -48,6 +48,94 @@
       "programType": "Sports event",
       "genre": "Golf",
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-11-10_SH067016670000_115259755249_2026-10-26T23:20:42Z_p34198343_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "WTGL Golf",
+      "episodeTitle": "Motor City Golf Club vs. Los Angeles Golf Club",
+      "description": "From SoFi Center in Palm Beach Gardens, Fla.",
+      "scheduledDate": 1794358800000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-11-11_SH067016670000_115259755249_2026-10-26T23:20:42Z_p34198343_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Golf",
+      "episodeTitle": "Australian PGA Senior Championship, Final Round",
+      "description": "A full coverage of golf tournaments and events from around the world, featuring all the action and highlights.",
+      "scheduledDate": 1794366000000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-11-11_SH032772030000_113702935496_2025-04-03T19:44:22Z_p706015_i_h8_ad/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "PGA Tour Golf Mini",
+      "episodeTitle": "World Wide Technology Championship, Final Round",
+      "description": "A collection of special condensed replays featuring the best highlights and all the key moments from the course.",
+      "scheduledDate": 1794369600000,
+      "duration": 20,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-11-11_SH047874460000_101769826726_2023-06-23T09:17:39Z_p25047305_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Test Cricket",
+      "episodeTitle": "Pakistan vs Sri Lanka",
+      "description": "From Rawalpindi Cricket Stadium in Rawalpindi, Punjab, Pakistan.",
+      "scheduledDate": 1794370800000,
+      "duration": 460,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Cricket",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-11-11_EP029804991942_115335739640_2026-10-27T23:30:28Z_GNLZZGG003VBJDH/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "PGA Tour Highlights",
+      "episodeTitle": "World Wide Technology Championship",
+      "description": "Highlights from PGA Tour events featuring the world's best golfers in action. Hosts track the progression of the game while reviewing the changes in technologies and techniques.",
+      "scheduledDate": 1794398400000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Classic sport event, Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-11-11_SH032355110000_114391477483_2023-03-16T12:30:24Z_p9060599_i_h10_ae/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "LPGA Tour Golf",
+      "episodeTitle": "Kroger Queen City Championship, Final Round",
+      "description": "Professional female golfers compete against each other during the LPGA Tour Dow Championship to win the title.",
+      "scheduledDate": 1794402000000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-11-11_SH047138530000_115259755024_2025-08-07T09:24:15Z_p8768636_i_h10_ah/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "LPGA Tour Golf",
+      "episodeTitle": "Shoprite Classic, Third Round",
+      "description": "Professional female golfers compete against each other during the LPGA Tour Dow Championship to win the title.",
+      "scheduledDate": 1794409200000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-11-11_SH047138530000_115259755024_2025-08-07T09:24:15Z_p8768636_i_h10_ah/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "LPGA Tour Golf",
+      "episodeTitle": "Dow Championship, Final Round",
+      "description": "Professional female golfers compete against each other during the LPGA Tour Dow Championship to win the title.",
+      "scheduledDate": 1794416400000,
+      "duration": 180,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-11-11_SH047138530000_115259755024_2025-08-07T09:24:15Z_p8768636_i_h10_ah/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     }
   ]
 }

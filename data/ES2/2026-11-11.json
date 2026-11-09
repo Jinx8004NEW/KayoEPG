@@ -2,8 +2,8 @@
   "channel": "ES2",
   "date": "2026-11-11",
   "source": "kayo",
-  "fetchedAt": 1794168883749,
-  "fetchedAtIST": "9/11/2026, 1:44:43 am",
+  "fetchedAt": 1794200419035,
+  "fetchedAtIST": "9/11/2026, 10:30:19 am",
   "events": [
     {
       "programTitle": "Big Day With Peter Schrager",
@@ -48,6 +48,149 @@
       "programType": "Sports non-event",
       "genre": "News, Sports talk",
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-11-10_SH033259060000_109832503473_2018-04-18T10:39:00Z_p186674_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "College Basketball",
+      "episodeTitle": "Michigan State vs Duke",
+      "description": "From the United Center in Chicago.",
+      "scheduledDate": 1794355200000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Basketball",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-11-11_EP066460660474_115311243699_2026-10-20T17:31:04Z_GNLZZGG003SEE7L/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "College Football Playoff: Top 25",
+      "episodeTitle": "",
+      "description": "College football's top teams are debated and discussed in anticipation of the College Football Playoff Selection Committee's first meeting. Rece Davis hosts with analysis from David Pollack, Joey Galloway, and Kirk Herbstreit.",
+      "scheduledDate": 1794362400000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-11-11_SH033458380000_115266821231_2019-10-15T18:00:31Z_p17487834_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "College Basketball",
+      "episodeTitle": "Kansas vs Kentucky",
+      "description": "From the United Center in Chicago.",
+      "scheduledDate": 1794364200000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Basketball",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-11-11_EP066460660548_115313020643_2026-10-23T14:07:18Z_GNLZZGG003TMBB9/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "SportsCenter With Scott Van Pelt",
+      "episodeTitle": "",
+      "description": "Scott Van Pelt presents the day in sport through his unique perspective with highlights, special guests and his One Big Thing commentary.",
+      "scheduledDate": 1794371400000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "News, Sports talk",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-11-11_SH034580420000_115259755205_2017-02-22T22:01:00Z_p13816005_i_h10_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "UEFA Women's Champions League",
+      "episodeTitle": "Internazionale vs. Manchester City",
+      "description": "From Stadio Brianteo in Monza, Lombardy, Italy.",
+      "scheduledDate": 1794375000000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Soccer",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-11-11_EP032279220181_115259754679_2026-09-07T16:45:46Z_GNLZZGG003N2XER/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "College Basketball",
+      "episodeTitle": "Michigan State vs Duke",
+      "description": "From the United Center in Chicago.",
+      "scheduledDate": 1794382200000,
+      "duration": 90,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Basketball",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-11-11_EP066460660474_115311243699_2026-10-20T17:31:04Z_GNLZZGG003SEE7L/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NBA Minis",
+      "episodeTitle": "2026-27: Oklahoma City Thunder at Portland Trail Blazers",
+      "description": "A collection of special condensed replays featuring the best highlights and all the key moments on the court.",
+      "scheduledDate": 1794387600000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Classic sport event, Basketball",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-11-11_SH035801090000_115013696310_2020-08-10T05:50:19Z_p18627080_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NBA Basketball",
+      "episodeTitle": "Philadelphia 76ers vs Boston Celtics",
+      "description": "From Xfinity Mobile Arena in Philadelphia.",
+      "scheduledDate": 1794389400000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Basketball",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-11-11_EP030658785638_115336551032_2026-09-02T05:01:32Z_GNLZZGG003M575R/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "College Basketball",
+      "episodeTitle": "Kansas vs Kentucky",
+      "description": "From the United Center in Chicago.",
+      "scheduledDate": 1794396600000,
+      "duration": 90,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Basketball",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-11-11_EP066460660548_115313020643_2026-10-23T14:07:18Z_GNLZZGG003TMBB9/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Women's College Volleyball",
+      "episodeTitle": "Miami (Ohio) vs Ohio",
+      "description": "From Millett Hall in Oxford, Ohio.",
+      "scheduledDate": 1794402000000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Volleyball",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-11-11_EP062509052920_115268482834_2026-10-26T17:24:44Z_GNLZZGG003V1YEP/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Get Up",
+      "episodeTitle": "",
+      "description": "Mike Greenberg, Laura Rutledge and Jalen Rose discuss and analyse the latest news from the world of sports.",
+      "scheduledDate": 1794409200000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Sports talk",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-11-11_SH033268270000_113795790315_2026-03-24T04:04:44Z_p15158780_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "In Depth With Graham Bensinger",
+      "episodeTitle": "Lindsey Vonn",
+      "description": "Olympic ski racer Lindsey Vonn invites Graham to her new Park City, Utah, mountain retreat. The alpine World Cup champion discusses retired life, her dozens of injuries and the daily battle with permanent physical damage.",
+      "scheduledDate": 1794416400000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Series",
+      "genre": "Sports talk, Interview",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-11-11_EP033308670060_115268482703_2025-07-23T15:04:30Z_p18824610_e_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "First Take",
+      "episodeTitle": "",
+      "description": "Stephen A. Smith joins Molly Qerim Rose to debate the hottest topics in sports.",
+      "scheduledDate": 1794418200000,
+      "duration": 150,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Sports talk, News, Debate",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-11-11_SH033280060000_108193810385_2025-11-07T06:36:14Z_p186291_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     }
   ]
 }
