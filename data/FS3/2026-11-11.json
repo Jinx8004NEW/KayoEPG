@@ -2,8 +2,8 @@
   "channel": "FS3",
   "date": "2026-11-11",
   "source": "kayo",
-  "fetchedAt": 1794278076949,
-  "fetchedAtIST": "10/11/2026, 8:04:36 am",
+  "fetchedAt": 1794312838060,
+  "fetchedAtIST": "10/11/2026, 5:43:58 pm",
   "events": [
     {
       "programTitle": "DP World Tour Golf",
@@ -17,10 +17,21 @@
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-11-10_EP040914080736_115250924009_2026-11-06T07:22:14Z_GNLZZGG003X3K52/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
+      "programTitle": "Devin Haney v Liam Paro: Press Conference",
+      "episodeTitle": "",
+      "description": "",
+      "scheduledDate": 1794344400000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Special, Boxing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-11-10_SH067061650000_115403491340_2026-11-10T06:34:16Z_p34580942_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
       "programTitle": "LPGA Tour Golf",
       "episodeTitle": "Toto Japan Classic, Final Round",
       "description": "From Ibaraki Golf Club in Tsukubarmrai, Ibaraki, Japan.",
-      "scheduledDate": 1794344400000,
+      "scheduledDate": 1794346200000,
       "duration": 120,
       "parentalRating": "",
       "programType": "Sports event",
@@ -47,7 +58,7 @@
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Golf",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-11-10_SH067016670000_115376566513_2026-10-26T23:20:42Z_p34198343_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-11-10_SH067016670000_115398576650_2026-10-26T23:20:42Z_p34198343_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "WTGL Golf",
@@ -58,7 +69,7 @@
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Golf",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-11-11_SH067016670000_115376566513_2026-10-26T23:20:42Z_p34198343_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-11-11_SH067016670000_115398576650_2026-10-26T23:20:42Z_p34198343_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "Golf",
@@ -131,7 +142,7 @@
       "episodeTitle": "Dow Championship, Final Round",
       "description": "Professional female golfers compete against each other during the LPGA Tour Dow Championship to win the title.",
       "scheduledDate": 1794416400000,
-      "duration": 180,
+      "duration": 120,
       "parentalRating": "",
       "programType": "Sports non-event",
       "genre": "Golf",
