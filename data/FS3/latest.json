@@ -1,59 +1,26 @@
 {
   "channel": "FS3",
-  "date": "2026-11-09",
+  "date": "2026-11-10",
   "source": "kayo",
-  "fetchedAt": 1794248719167,
-  "fetchedAtIST": "9/11/2026, 11:55:19 pm",
+  "fetchedAt": 1794278076949,
+  "fetchedAtIST": "10/11/2026, 8:04:36 am",
   "events": [
-    {
-      "programTitle": "PGA Tour Golf",
-      "episodeTitle": "World Wide Technology Championship, Third Round",
-      "description": "From El Cardonal at Diamante in Los Cabos, Baja California Sur, Mexico.",
-      "scheduledDate": 1794162600000,
-      "duration": 90,
-      "parentalRating": "",
-      "programType": "Sports event",
-      "genre": "Golf",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-11-08_EP030899371438_115230813178_2026-11-06T07:23:15Z_GNLZZGG003X3K9B/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
     {
       "programTitle": "PGA Tour Golf",
       "episodeTitle": "World Wide Technology Championship, Final Round",
       "description": "From El Cardonal at Diamante in Los Cabos, Baja California Sur, Mexico.",
-      "scheduledDate": 1794168000000,
-      "duration": 180,
+      "scheduledDate": 1794250800000,
+      "duration": 120,
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Golf",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-11-08_EP030899371439_115334655755_2026-11-08T09:23:20Z_GNLZZGG003X76SE/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
-    {
-      "programTitle": "No Limit Boxing: Tim Tszyu v Erislandy Lara Announcement",
-      "episodeTitle": "",
-      "description": "Tune into all the details surrounding No Limit Boxing's next big event.",
-      "scheduledDate": 1794178800000,
-      "duration": 60,
-      "parentalRating": "",
-      "programType": "Sports non-event",
-      "genre": "Special, Boxing",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-11-08_SH066673790000_115298654057_2026-11-07T06:49:37Z_p34388623_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
-    {
-      "programTitle": "Golf",
-      "episodeTitle": "Australian PGA Senior Championship, Final Round",
-      "description": "A full coverage of golf tournaments and events from around the world, featuring all the action and highlights.",
-      "scheduledDate": 1794182400000,
-      "duration": 60,
-      "parentalRating": "",
-      "programType": "Sports non-event",
-      "genre": "Golf",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-11-09_SH032772030000_113702935496_2025-04-03T19:44:22Z_p706015_i_h8_ad/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-11-09_EP030899371439_115355183033_2026-11-08T09:23:20Z_GNLZZGG003X76SE/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "DP World Tour Golf",
       "episodeTitle": "Abu Dhabi Aldar Championship, Final Round",
       "description": "From Yas Links Abu Dhabi in Abu Dhabi, Abu Z¸aby, United Arab Emirates.",
-      "scheduledDate": 1794186000000,
+      "scheduledDate": 1794258000000,
       "duration": 120,
       "parentalRating": "",
       "programType": "Sports event",
@@ -61,81 +28,103 @@
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-11-09_EP040914080736_115250924009_2026-11-06T07:22:14Z_GNLZZGG003X3K52/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "Golf",
-      "episodeTitle": "Australian PGA Senior Championship, Final Round",
-      "description": "A full coverage of golf tournaments and events from around the world, featuring all the action and highlights.",
-      "scheduledDate": 1794193200000,
-      "duration": 60,
+      "programTitle": "LPGA Tour Golf",
+      "episodeTitle": "Toto Japan Classic, Final Round",
+      "description": "From Ibaraki Golf Club in Tsukubarmrai, Ibaraki, Japan.",
+      "scheduledDate": 1794265200000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-11-09_EP031583890735_115249419429_2026-11-05T13:25:05Z_GNLZZGG003WY31W/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "How Good is Golf",
+      "episodeTitle": "Seven Mile Beach",
+      "description": "Paul Gow talks everything golf, taking people through the greatest game of all, showing them how to play, where to play and what equipment to use.",
+      "scheduledDate": 1794272400000,
+      "duration": 30,
       "parentalRating": "",
       "programType": "Sports non-event",
       "genre": "Golf",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-11-09_SH032772030000_113702935496_2025-04-03T19:44:22Z_p706015_i_h8_ad/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-11-10_SH047697570000_112826563949_2026-01-16T17:55:26Z_p24911210_i_h10_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "PGA Tour Golf Mini",
-      "episodeTitle": "World Wide Technology Championship, Final Round",
-      "description": "A collection of special condensed replays featuring the best highlights and all the key moments from the course.",
-      "scheduledDate": 1794196800000,
-      "duration": 20,
+      "programTitle": "Fox Cricket Pre Game",
+      "episodeTitle": "New Zealand v India, 3rd ODI",
+      "description": "The team present an extensive preview of all the action to come with the latest news, the best analysis, entertainment and interviews.",
+      "scheduledDate": 1794274200000,
+      "duration": 30,
       "parentalRating": "",
       "programType": "Sports non-event",
-      "genre": "Golf",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-11-09_SH047874460000_101769826726_2023-06-23T09:17:39Z_p25047305_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "genre": "Cricket",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-11-10_SH035786310000_111887034140_2025-11-20T06:27:30Z_p18624259_i_h10_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "Test Cricket",
-      "episodeTitle": "Pakistan vs Sri Lanka",
-      "description": "From Rawalpindi Cricket Stadium in Rawalpindi, Punjab, Pakistan.",
-      "scheduledDate": 1794198000000,
-      "duration": 460,
+      "programTitle": "One-Day International Cricket",
+      "episodeTitle": "New Zealand vs India",
+      "description": "From Seddon Park in Hamilton, Waikato, New Zealand.",
+      "scheduledDate": 1794276000000,
+      "duration": 480,
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Cricket",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-11-09_EP029804991940_115335394742_2026-10-27T23:02:41Z_GNLZZGG003VB0BW/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-11-10_EP029804690376_115375400932_2026-10-11T16:49:41Z_GNLZZGG003RZQE7/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "PGA Tour Highlights",
-      "episodeTitle": "World Wide Technology Championship",
-      "description": "Highlights from PGA Tour events featuring the world's best golfers in action. Hosts track the progression of the game while reviewing the changes in technologies and techniques.",
-      "scheduledDate": 1794225600000,
+      "programTitle": "Golf",
+      "episodeTitle": "Australian PGA Senior Championship, Final Round",
+      "description": "A full coverage of golf tournaments and events from around the world, featuring all the action and highlights.",
+      "scheduledDate": 1794304800000,
       "duration": 60,
       "parentalRating": "",
-      "programType": "Sports event",
-      "genre": "Classic sport event, Golf",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-11-09_SH032355110000_114391477483_2023-03-16T12:30:24Z_p9060599_i_h10_ae/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "programType": "Sports non-event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-11-10_SH032772030000_113702935496_2025-04-03T19:44:22Z_p706015_i_h8_ad/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "PGA Tour Golf",
-      "episodeTitle": "Wyndham Championship, Final Round",
-      "description": "From Sedgefield Country Club in Greensboro, N.C.",
-      "scheduledDate": 1794229200000,
+      "programTitle": "DP World Tour Golf",
+      "episodeTitle": "Abu Dhabi Aldar Championship, Final Round",
+      "description": "From Yas Links Abu Dhabi in Abu Dhabi, Abu Z¸aby, United Arab Emirates.",
+      "scheduledDate": 1794308400000,
       "duration": 120,
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Golf",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-11-09_EP030899371413_115259755677_2026-07-30T22:05:51Z_p32044845_b_h8_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-11-10_EP040914080736_115250924009_2026-11-06T07:22:14Z_GNLZZGG003X3K52/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "PGA Tour Golf",
-      "episodeTitle": "FedEx St. Jude Championship, Final Round",
-      "description": "From TPC Southwind in Memphis, Tenn.",
-      "scheduledDate": 1794236400000,
+      "programTitle": "DP World Tour Golf",
+      "episodeTitle": "Amgen Irish Open, Final Round",
+      "description": "From Trump International Golf Links & Hotel in Doonbeg, Ireland.",
+      "scheduledDate": 1794315600000,
       "duration": 120,
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Golf",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-11-09_EP030899371417_115249847768_2026-08-07T17:26:46Z_p32045007_b_h8_ad/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-11-10_EP040914080704_115259755636_2026-09-15T11:26:56Z_GNLZZGG003P1L9K/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "PGA Tour Golf",
-      "episodeTitle": "BMW Championship, Final Round",
-      "description": "Professional golfers compete against one another in the PGA Tour to win the coveted title.",
-      "scheduledDate": 1794243600000,
+      "episodeTitle": "World Wide Technology Championship, Final Round",
+      "description": "From El Cardonal at Diamante in Los Cabos, Baja California Sur, Mexico.",
+      "scheduledDate": 1794322800000,
       "duration": 120,
       "parentalRating": "",
       "programType": "Sports event",
-      "genre": "Classic sport event, Golf",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-11-09_SH035325650000_112615937126_2023-06-26T11:35:50Z_p8997822_i_h8_ad/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-11-10_EP030899371439_115355183033_2026-11-08T09:23:20Z_GNLZZGG003X76SE/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "DP World Tour Golf",
+      "episodeTitle": "FedEx Open de France, Final Round",
+      "description": "From Le Golf National in Paris, France.",
+      "scheduledDate": 1794330000000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-11-10_EP040914080713_115259754307_2026-09-24T15:22:29Z_GNLZZGG003PKB5N/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     }
   ]
 }

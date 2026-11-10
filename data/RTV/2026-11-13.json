@@ -1,0 +1,31 @@
+{
+  "channel": "RTV",
+  "date": "2026-11-13",
+  "source": "kayo",
+  "fetchedAt": 1794278076999,
+  "fetchedAtIST": "10/11/2026, 8:04:36 am",
+  "events": [
+    {
+      "programTitle": "Foxcatcher: On the Hunt",
+      "episodeTitle": "",
+      "description": "Jules Vallance and Nic Ashman give their cutting-edge insight and preview a big weekend of racing.",
+      "scheduledDate": 1794508200000,
+      "duration": 90,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Sports talk, Horse racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/148460_2026-11-12_SH059327620000_109607756340_2025-07-18T05:34:12Z_p30735306_i_h11_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "To Be Announced",
+      "episodeTitle": "",
+      "description": "The programming for this time slot has yet to be determined and is being confirmed by the broadcast channel.",
+      "scheduledDate": 1794513600000,
+      "duration": 240,
+      "parentalRating": "",
+      "programType": "TBA",
+      "genre": "Special, Entertainment",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/148460_2026-11-12_SH027575020000_115365023510_2021-11-15T14:36:19Z_p514472_b_h8_dp/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    }
+  ]
+}

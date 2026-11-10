@@ -2,8 +2,8 @@
   "channel": "RTV",
   "date": "2026-11-11",
   "source": "kayo",
-  "fetchedAt": 1794248719196,
-  "fetchedAtIST": "9/11/2026, 11:55:19 pm",
+  "fetchedAt": 1794278076998,
+  "fetchedAtIST": "10/11/2026, 8:04:36 am",
   "events": [
     {
       "programTitle": "Flashback",
@@ -105,11 +105,44 @@
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/148460_2026-11-11_SH052658770000_101955118541_2024-09-04T07:53:49Z_p28142568_i_h11_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
+      "programTitle": "The Wrap: Group 1 Glory",
+      "episodeTitle": "",
+      "description": "Greg Miles and Terry Bailey take a look back at some of the greatest Australian racehorses that have graced the turf, broken records and won hearts.",
+      "scheduledDate": 1794363300000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Other",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/148460_2026-11-11_SH032885360000_114979389470_2019-10-09T23:20:17Z_p17229238_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Flashback",
+      "episodeTitle": "",
+      "description": "A showcase of some exciting past runnings of renowned races from across Victoria, exploring their thrilling history.",
+      "scheduledDate": 1794365100000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Horse racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/148460_2026-11-11_SH041213850000_110926995106_2021-12-08T06:46:54Z_p21189378_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "From the Trainers' Tower",
+      "episodeTitle": "",
+      "description": "Trainers discuss key runners ahead of the weekend's feature racing.",
+      "scheduledDate": 1794368700000,
+      "duration": 15,
+      "parentalRating": "",
+      "programType": "Series",
+      "genre": "Sports talk, Horse racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/148460_2026-11-11_SH052658770000_101955118541_2024-09-04T07:53:49Z_p28142568_i_h11_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
       "programTitle": "Racing Live",
       "episodeTitle": "",
       "description": "Features comprehensive coverage of some of the top horse racing events taking place in Australia and Hong Kong.",
-      "scheduledDate": 1794363300000,
-      "duration": 285,
+      "scheduledDate": 1794369600000,
+      "duration": 180,
       "parentalRating": "",
       "programType": "Series",
       "genre": "Horse racing",
