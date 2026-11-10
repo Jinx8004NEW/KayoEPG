@@ -2,19 +2,41 @@
   "channel": "FAF",
   "date": "2026-11-12",
   "source": "kayo",
-  "fetchedAt": 1794312838063,
-  "fetchedAtIST": "10/11/2026, 5:43:58 pm",
+  "fetchedAt": 1794346833214,
+  "fetchedAtIST": "11/11/2026, 3:10:33 am",
   "events": [
     {
-      "programTitle": "To Be Announced",
-      "episodeTitle": "",
-      "description": "The programming for this time slot has yet to be determined and is being confirmed by the broadcast channel.",
+      "programTitle": "AFL Women's Premiership",
+      "episodeTitle": "Qualifying Final: Geelong Cats vs Melbourne Demons",
+      "description": "Live from IKON Park. Bounce time: 1:05pm AEDT.",
       "scheduledDate": 1794427200000,
-      "duration": 240,
+      "duration": 90,
       "parentalRating": "",
-      "programType": "TBA",
-      "genre": "Special, Entertainment",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-11-11_SH027575020000_115365023510_2021-11-15T14:36:19Z_p514472_b_h8_dp/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "programType": "Sports event",
+      "genre": "Playoff sports, Australian rules football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-11-11_EP029247970856_115183789354_2026-11-03T04:52:48Z_GNLZZGG003WHVVW/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "AFL Women's Premiership",
+      "episodeTitle": "Qualifying Final: North Melbourne Kangaroos vs Carlton Blues",
+      "description": "Live from IKON Park. Bounce time: 4:05pm AEDT.",
+      "scheduledDate": 1794432600000,
+      "duration": 90,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Playoff sports, Australian rules football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-11-11_EP029247970855_115272343783_2026-11-03T04:51:52Z_GNLZZGG003WHV51/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Classic AFL",
+      "episodeTitle": "1993 Round 16: Essendon v West Coast",
+      "description": "Condensed highlights and a look back at full replays of some of the greatest encounters from the Australian Football League.",
+      "scheduledDate": 1794438000000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Australian rules football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-11-11_SH028096630000_102142641835_2018-11-27T09:00:00Z_p14740563_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "To Be Announced",
@@ -28,6 +50,28 @@
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-11-12_SH027575020000_115365023510_2021-11-15T14:36:19Z_p514472_b_h8_dp/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
+      "programTitle": "Classic AFL",
+      "episodeTitle": "2000 Round 21: Essendon v Western Bulldogs",
+      "description": "Condensed highlights and a look back at full replays of some of the greatest encounters from the Australian Football League.",
+      "scheduledDate": 1794445200000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Australian rules football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-11-12_SH028096630000_102142641835_2018-11-27T09:00:00Z_p14740563_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Classic AFL",
+      "episodeTitle": "2014 Prelim Final: Hawthorn vs Port Adelaide",
+      "description": "Condensed highlights and a look back at full replays of some of the greatest encounters from the Australian Football League.",
+      "scheduledDate": 1794452400000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Classic sport event, Australian rules football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-11-12_SH028096630000_102142641835_2018-11-27T09:00:00Z_p14740563_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
       "programTitle": "To Be Announced",
       "episodeTitle": "",
       "description": "The programming for this time slot has yet to be determined and is being confirmed by the broadcast channel.",
@@ -37,6 +81,50 @@
       "programType": "TBA",
       "genre": "Special, Entertainment",
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-11-12_SH027575020000_115365023510_2021-11-15T14:36:19Z_p514472_b_h8_dp/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "AFLW Mini",
+      "episodeTitle": "Qualifying Final: Geelong Cats v Melbourne Demons",
+      "description": "Condensed highlights of some of the greatest encounters from the AFL Women's competition.",
+      "scheduledDate": 1794459600000,
+      "duration": 15,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Australian rules football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-11-12_SH038251630000_111269523232_2025-10-16T04:55:13Z_p19768743_b_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "AFLW Mini",
+      "episodeTitle": "Qualifying Final: North Melbourne Kangaroos v Carlton Blues",
+      "description": "Condensed highlights of some of the greatest encounters from the AFL Women's competition.",
+      "scheduledDate": 1794460500000,
+      "duration": 15,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Australian rules football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-11-12_SH038251630000_111269523232_2025-10-16T04:55:13Z_p19768743_b_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "AFL Women's Premiership",
+      "episodeTitle": "Elimination Final: Sydney Swans vs Western Bulldogs",
+      "description": "Live from Henson Park. Bounce time: 1:05pm AEDT.",
+      "scheduledDate": 1794461400000,
+      "duration": 90,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Playoff sports, Australian rules football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-11-12_EP029247970858_115096810850_2026-11-03T05:09:50Z_GNLZZGG003WJ1MX/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Classic AFL",
+      "episodeTitle": "2004 Preliminary Final: Port Adelaide v St Kilda",
+      "description": "Condensed highlights and a look back at full replays of some of the greatest encounters from the Australian Football League.",
+      "scheduledDate": 1794466800000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Australian rules football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-11-12_SH028096630000_102142641835_2018-11-27T09:00:00Z_p14740563_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "To Be Announced",
@@ -50,6 +138,28 @@
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-11-12_SH027575020000_115365023510_2021-11-15T14:36:19Z_p514472_b_h8_dp/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
+      "programTitle": "Footy Legends",
+      "episodeTitle": "Dunstall",
+      "description": "Australian footy icons revisit iconic matches, career triumphs and life beyond the game.",
+      "scheduledDate": 1794474000000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Australian rules football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-11-12_SH067028820000_115356734498_2026-11-07T07:34:59Z_p34564338_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Classic AFL",
+      "episodeTitle": "2014 Prelim Final: Hawthorn vs Port Adelaide",
+      "description": "Condensed highlights and a look back at full replays of some of the greatest encounters from the Australian Football League.",
+      "scheduledDate": 1794481200000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Classic sport event, Australian rules football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-11-12_SH028096630000_102142641835_2018-11-27T09:00:00Z_p14740563_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
       "programTitle": "To Be Announced",
       "episodeTitle": "",
       "description": "The programming for this time slot has yet to be determined and is being confirmed by the broadcast channel.",
@@ -61,15 +171,48 @@
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-11-12_SH027575020000_115365023510_2021-11-15T14:36:19Z_p514472_b_h8_dp/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "To Be Announced",
-      "episodeTitle": "",
-      "description": "The programming for this time slot has yet to be determined and is being confirmed by the broadcast channel.",
-      "scheduledDate": 1794499200000,
-      "duration": 240,
+      "programTitle": "AFL Women's Premiership",
+      "episodeTitle": "Elimination Final: Gold Coast SUNS vs Hawthorn Hawks",
+      "description": "Live from People First Stadium. Bounce time: 3:05pm AEDT.",
+      "scheduledDate": 1794488400000,
+      "duration": 90,
       "parentalRating": "",
-      "programType": "TBA",
-      "genre": "Special, Entertainment",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-11-12_SH027575020000_115365023510_2021-11-15T14:36:19Z_p514472_b_h8_dp/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "programType": "Sports event",
+      "genre": "Playoff sports, Australian rules football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-11-12_EP029247970857_115272343748_2026-11-03T04:53:15Z_GNLZZGG003WHW0M/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "AFL Women's Premiership",
+      "episodeTitle": "Qualifying Final: Geelong Cats vs Melbourne Demons",
+      "description": "Live from IKON Park. Bounce time: 1:05pm AEDT.",
+      "scheduledDate": 1794493800000,
+      "duration": 90,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Playoff sports, Australian rules football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-11-12_EP029247970856_115183789354_2026-11-03T04:52:48Z_GNLZZGG003WHVVW/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "AFL Women's Premiership",
+      "episodeTitle": "Qualifying Final: North Melbourne Kangaroos vs Carlton Blues",
+      "description": "Live from IKON Park. Bounce time: 4:05pm AEDT.",
+      "scheduledDate": 1794499200000,
+      "duration": 90,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Playoff sports, Australian rules football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-11-12_EP029247970855_115272343783_2026-11-03T04:51:52Z_GNLZZGG003WHV51/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "AFL Mini",
+      "episodeTitle": "Round 5: Sydney Swans v Gold Coast Suns",
+      "description": "Condensed highlights, reaction and analysis of the biggest sport stories from Australia and around the world.",
+      "scheduledDate": 1794504600000,
+      "duration": 150,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Australian rules football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-11-12_SH042238570000_104529301600_2022-03-07T04:36:21Z_p21759801_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     }
   ]
 }
