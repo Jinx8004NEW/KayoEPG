@@ -2,8 +2,8 @@
   "channel": "ESP",
   "date": "2026-11-13",
   "source": "kayo",
-  "fetchedAt": 1794346833248,
-  "fetchedAtIST": "11/11/2026, 3:10:33 am",
+  "fetchedAt": 1794373335256,
+  "fetchedAtIST": "11/11/2026, 10:32:15 am",
   "events": [
     {
       "programTitle": "College Football Live",
@@ -70,6 +70,149 @@
       "programType": "Sports non-event",
       "genre": "Hockey",
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-11-12_SH040354190000_115369811488_2021-10-29T09:26:18Z_p20632879_i_h10_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NFL Films Presents",
+      "episodeTitle": "Run",
+      "description": "The story of running back Fred Taylor; Tiki Barber's passion for running extends beyond football; celebrate the 50th anniversary of Old Man Willie.",
+      "scheduledDate": 1794528000000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Football, Documentary",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-11-13_EP033308300142_115417459163_2026-11-02T17:59:44Z_p34493745_e_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NFL Blitz",
+      "episodeTitle": "",
+      "description": "All of the best action from the National Football League.",
+      "scheduledDate": 1794529800000,
+      "duration": 45,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Family, Football, News, Newsmagazine",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-11-13_SH060667300000_113358670220_2022-09-12T05:46:51Z_p22911383_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NFL Football",
+      "episodeTitle": "New York Giants vs Washington Commanders",
+      "description": "From MetLife Stadium in East Rutherford, N.J.",
+      "scheduledDate": 1794532500000,
+      "duration": 195,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-11-13_EP029371131970_115416580250_2026-07-15T07:28:11Z_GNLZZGG0039LYLW/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NFL Films Presents",
+      "episodeTitle": "",
+      "description": "A unique perspective on the heroes and personalities of the NFL and how they influenced the history of the sport.",
+      "scheduledDate": 1794544200000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-11-13_SH033308300000_115072052056_2026-09-18T18:36:12Z_p448767_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Women's College Basketball",
+      "episodeTitle": "Clemson vs South Carolina",
+      "description": "Littlejohn Coliseum",
+      "scheduledDate": 1794546000000,
+      "duration": 90,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Basketball",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-11-13_EP066460470579_115432712780_2026-10-14T01:54:28Z_GNLZZGG003S1D2D/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NBL",
+      "episodeTitle": "BNZ Breakers vs Brisbane Bullets",
+      "description": "From Spark Arena in Auckland, Auckland, New Zealand.",
+      "scheduledDate": 1794551400000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Basketball",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-11-13_EP029269501437_115417459177_2026-10-22T20:15:24Z_GNLZZGG003TDWMD/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NBL",
+      "episodeTitle": "Cairns Taipans vs Sydney Kings",
+      "description": "From Cairns Convention Centre in Cairns, Queensland, Australia.",
+      "scheduledDate": 1794558600000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Basketball",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-11-13_EP029269501438_115415375481_2026-10-22T20:19:44Z_GNLZZGG003TDK0V/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NBA Basketball",
+      "episodeTitle": "Minnesota Timberwolves vs Dallas Mavericks",
+      "description": "From the Target Center in Minneapolis.",
+      "scheduledDate": 1794565800000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Basketball",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-11-13_EP030658785655_115417459137_2026-09-02T08:11:23Z_GNLZZGG003M6440/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NBA Minis",
+      "episodeTitle": "2026-27: Dallas Mavericks vs Minnesota Timberwolves",
+      "description": "A collection of special condensed replays featuring the best highlights and all the key moments on the court.",
+      "scheduledDate": 1794573000000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Classic sport event, Basketball",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-11-13_SH035801090000_115013696310_2020-08-10T05:50:19Z_p18627080_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Ball or Nothin'",
+      "episodeTitle": "",
+      "description": "",
+      "scheduledDate": 1794574800000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Basketball",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-11-13_SH066608350000_114796305168_2026-10-23T07:25:17Z_p34357847_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "ONE Friday Fights 178",
+      "episodeTitle": "",
+      "description": "From Lumpinee Boxing Stadium in Bangkok.",
+      "scheduledDate": 1794576600000,
+      "duration": 180,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Mixed martial arts, Martial arts",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-11-13_SH067061870000_115419103175_2026-11-06T14:46:33Z_p34469708_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NFL Blitz",
+      "episodeTitle": "",
+      "description": "All of the best action from the National Football League.",
+      "scheduledDate": 1794587400000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Family, Football, News, Newsmagazine",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-11-13_SH060667300000_113358670220_2022-09-12T05:46:51Z_p22911383_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "The Pat McAfee Show",
+      "episodeTitle": "",
+      "description": "Former NFL punter Pat McAfee brings his humour, sarcasm and candour to the microphone to highlight the day's top stories.",
+      "scheduledDate": 1794589200000,
+      "duration": 180,
+      "parentalRating": "",
+      "programType": "Series",
+      "genre": "Sports talk",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-11-13_SH048483860000_111648065422_2020-09-10T14:31:07Z_p18762527_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     }
   ]
 }

@@ -2,8 +2,8 @@
   "channel": "FS3",
   "date": "2026-11-13",
   "source": "kayo",
-  "fetchedAt": 1794346833210,
-  "fetchedAtIST": "11/11/2026, 3:10:33 am",
+  "fetchedAt": 1794373335225,
+  "fetchedAtIST": "11/11/2026, 10:32:15 am",
   "events": [
     {
       "programTitle": "PGA Tour Golf",
@@ -48,6 +48,94 @@
       "programType": "Sports event",
       "genre": "Golf",
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-11-12_EP030899371441_115417459147_2026-10-29T16:56:17Z_p32193412_b_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "How Good is Golf",
+      "episodeTitle": "",
+      "description": "Paul Gow talks everything golf, taking people through the greatest game of all, showing them how to play, where to play and what equipment to use.",
+      "scheduledDate": 1794531600000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-11-13_SH047697570000_112826563949_2026-01-16T17:55:26Z_p24911210_i_h10_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Fox Cricket Pre Game",
+      "episodeTitle": "New Zealand v India, 4th ODI",
+      "description": "The team present an extensive preview of all the action to come with the latest news, the best analysis, entertainment and interviews.",
+      "scheduledDate": 1794533400000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Cricket",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-11-13_SH035786310000_111887034140_2025-11-20T06:27:30Z_p18624259_i_h10_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "One-Day International Cricket",
+      "episodeTitle": "New Zealand vs India",
+      "description": "From Bay Oval in Mount Maunganui, Bay of Plenty, New Zealand.",
+      "scheduledDate": 1794535200000,
+      "duration": 480,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Cricket",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-11-13_EP029804690378_115417459169_2026-10-11T16:50:31Z_GNLZZGG003RZYFC/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "PGA Tour Golf",
+      "episodeTitle": "Austin Championship, First Round",
+      "description": "From Omni Barton Creek Resort & Spa in Austin, Texas.",
+      "scheduledDate": 1794564000000,
+      "duration": 90,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-11-13_EP030899371441_115417459147_2026-10-29T16:56:17Z_p32193412_b_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Golf",
+      "episodeTitle": "Australian PGA Senior Championship, Final Round",
+      "description": "A full coverage of golf tournaments and events from around the world, featuring all the action and highlights.",
+      "scheduledDate": 1794569400000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-11-13_SH032772030000_113702935496_2025-04-03T19:44:22Z_p706015_i_h8_ad/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "How Good is Golf",
+      "episodeTitle": "Southern Golf Club",
+      "description": "Paul Gow talks everything golf, taking people through the greatest game of all, showing them how to play, where to play and what equipment to use.",
+      "scheduledDate": 1794573000000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-11-13_SH047697570000_112826563949_2026-01-16T17:55:26Z_p24911210_i_h10_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "PGA Tour Golf",
+      "episodeTitle": "Austin Championship, First Round",
+      "description": "From Omni Barton Creek Resort & Spa in Austin, Texas.",
+      "scheduledDate": 1794574800000,
+      "duration": 90,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-11-13_EP030899371441_115417459147_2026-10-29T16:56:17Z_p32193412_b_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "PGA Tour Golf",
+      "episodeTitle": "Austin Championship, Second Round: Featured Groups",
+      "description": "From Omni Barton Creek Resort & Spa in Austin, Texas.",
+      "scheduledDate": 1794580200000,
+      "duration": 330,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-11-13_EP030899371442_115417459132_2026-10-29T16:56:16Z_p34123261_b_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     }
   ]
 }
