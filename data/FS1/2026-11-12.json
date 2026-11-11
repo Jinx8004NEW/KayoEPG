@@ -2,19 +2,19 @@
   "channel": "FS1",
   "date": "2026-11-12",
   "source": "kayo",
-  "fetchedAt": 1794373335209,
-  "fetchedAtIST": "11/11/2026, 10:32:15 am",
+  "fetchedAt": 1794412462918,
+  "fetchedAtIST": "11/11/2026, 9:24:22 pm",
   "events": [
     {
-      "programTitle": "Test Cricket",
-      "episodeTitle": "2007/08 - Australia vs India, 2nd Test",
-      "description": "Coverage and highlights from international test cricket matches.",
+      "programTitle": "Inside Innovation",
+      "episodeTitle": "",
+      "description": "The latest highlights, reaction and analysis of the biggest sports stories from Australia and around the world.",
       "scheduledDate": 1794421800000,
       "duration": 30,
       "parentalRating": "",
-      "programType": "Sports event",
-      "genre": "Cricket, Classic sport event",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-11-11_SH033446590000_98978823590_2023-09-29T14:53:53Z_p8163404_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "programType": "Special",
+      "genre": "Special, Cricket",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-11-11_SH067018170000_115298885751_2026-11-07T06:58:09Z_p34558355_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "Test Cricket",
@@ -102,7 +102,7 @@
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Cricket",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-11-12_EP029804991943_115406517847_2026-10-27T23:05:58Z_GNLZZGG003VB26Z/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-11-12_EP029804991943_115460187101_2026-10-27T23:05:58Z_GNLZZGG003VB26Z/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "Keepin' It Cricket",
@@ -135,7 +135,7 @@
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Cricket, Classic sport event",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-11-12_SH034583010000_110095246552_2026-03-24T13:16:18Z_p8509066_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-11-12_SH034583010000_115459994361_2026-03-24T13:16:18Z_p8509066_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "One-Day International Cricket",
@@ -146,7 +146,7 @@
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Cricket, Classic sport event",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-11-12_SH034583010000_110095246552_2026-03-24T13:16:18Z_p8509066_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-11-12_SH034583010000_115459994361_2026-03-24T13:16:18Z_p8509066_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "One-Day International Cricket",
@@ -157,7 +157,7 @@
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Cricket, Classic sport event",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-11-12_SH034583010000_110095246552_2026-03-24T13:16:18Z_p8509066_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-11-12_SH034583010000_115459994361_2026-03-24T13:16:18Z_p8509066_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "Summer of the Century",
@@ -241,7 +241,7 @@
       "episodeTitle": "Perth Scorchers vs Sydney Thunder",
       "description": "The latest highlights, reaction and analysis of the biggest sports stories from Australia and around the world.",
       "scheduledDate": 1794499200000,
-      "duration": 240,
+      "duration": 180,
       "parentalRating": "",
       "programType": "Series",
       "genre": "Cricket",

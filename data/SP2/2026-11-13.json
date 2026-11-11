@@ -2,8 +2,8 @@
   "channel": "SP2",
   "date": "2026-11-13",
   "source": "kayo",
-  "fetchedAt": 1794373335219,
-  "fetchedAtIST": "11/11/2026, 10:32:15 am",
+  "fetchedAt": 1794412462924,
+  "fetchedAtIST": "11/11/2026, 9:24:22 pm",
   "events": [
     {
       "programTitle": "NRL",
@@ -161,7 +161,7 @@
     },
     {
       "programTitle": "Greatest Test Matches",
-      "episodeTitle": "Jillaroos v Kiwi Ferns",
+      "episodeTitle": "2018: Jillaroos v Kiwi Ferns",
       "description": "Presents a selection of international clashes featuring memorable moments, great rivalries, inspirational performances and thrilling finishes.",
       "scheduledDate": 1794553200000,
       "duration": 60,
@@ -285,7 +285,7 @@
       "episodeTitle": "Manly-Warringah Sea Eagles vs Cronulla-Sutherland Sharks",
       "description": "From 4 Pines Park in Brookvale, New South Wales, Australia.",
       "scheduledDate": 1794592800000,
-      "duration": 120,
+      "duration": 60,
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Rugby league, Rugby",

@@ -2,8 +2,8 @@
   "channel": "ESP",
   "date": "2026-11-13",
   "source": "kayo",
-  "fetchedAt": 1794373335256,
-  "fetchedAtIST": "11/11/2026, 10:32:15 am",
+  "fetchedAt": 1794412462950,
+  "fetchedAtIST": "11/11/2026, 9:24:22 pm",
   "events": [
     {
       "programTitle": "College Football Live",
@@ -106,13 +106,13 @@
     },
     {
       "programTitle": "NFL Films Presents",
-      "episodeTitle": "",
+      "episodeTitle": "Making History",
       "description": "A unique perspective on the heroes and personalities of the NFL and how they influenced the history of the sport.",
       "scheduledDate": 1794544200000,
       "duration": 30,
       "parentalRating": "",
       "programType": "Sports non-event",
-      "genre": "Football",
+      "genre": "Football, Documentary",
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-11-13_SH033308300000_115072052056_2026-09-18T18:36:12Z_p448767_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
@@ -208,7 +208,7 @@
       "episodeTitle": "",
       "description": "Former NFL punter Pat McAfee brings his humour, sarcasm and candour to the microphone to highlight the day's top stories.",
       "scheduledDate": 1794589200000,
-      "duration": 180,
+      "duration": 120,
       "parentalRating": "",
       "programType": "Series",
       "genre": "Sports talk",

@@ -2,8 +2,8 @@
   "channel": "FSP",
   "date": "2026-11-12",
   "source": "kayo",
-  "fetchedAt": 1794373335236,
-  "fetchedAtIST": "11/11/2026, 10:32:15 am",
+  "fetchedAt": 1794412462936,
+  "fetchedAtIST": "11/11/2026, 9:24:22 pm",
   "events": [
     {
       "programTitle": "UFC Countdown",
@@ -14,7 +14,7 @@
       "parentalRating": "",
       "programType": "Sports non-event",
       "genre": "Mixed martial arts, Documentary",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-11-11_SH030408650000_112647340619_2026-01-22T17:35:05Z_p308818_i_h8_ae/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-11-11_SH030408650000_115453400046_2026-01-22T17:35:05Z_p308818_i_h8_ae/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "Formula 1",
@@ -76,7 +76,7 @@
       "episodeTitle": "",
       "description": "Coverage and highlights from international test cricket matches.",
       "scheduledDate": 1794447000000,
-      "duration": 35,
+      "duration": 37,
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Cricket, Classic sport event",
@@ -88,6 +88,17 @@
       "description": "Coverage of matches played as part of Australia's domestic first-class cricket competition.",
       "scheduledDate": 1794449100000,
       "duration": 295,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Cricket",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-11-12_EP028878790142_115414682984_2026-11-09T14:00:46Z_GNLZZGG003X8JE4/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Sheffield Shield",
+      "episodeTitle": "Victoria vs. Western Australia",
+      "description": "Coverage of matches played as part of Australia's domestic first-class cricket competition.",
+      "scheduledDate": 1794449220000,
+      "duration": 293,
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Cricket",
@@ -113,7 +124,7 @@
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Golf",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-11-12_EP040914080737_115415159756_2026-11-09T23:25:15Z_GNLZZGG003XCD6C/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-11-12_EP040914080737_115468550754_2026-11-09T23:25:15Z_GNLZZGG003XCD6C/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "To Be Announced",
@@ -146,7 +157,7 @@
       "parentalRating": "",
       "programType": "Sports non-event",
       "genre": "Mixed martial arts, Documentary",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-11-12_SH030408650000_112647340619_2026-01-22T17:35:05Z_p308818_i_h8_ae/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-11-12_SH030408650000_115453400046_2026-01-22T17:35:05Z_p308818_i_h8_ae/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "Constellation Cup",
@@ -161,14 +172,14 @@
     },
     {
       "programTitle": "LPGA Tour Golf",
-      "episodeTitle": "Annika, First Round",
+      "episodeTitle": "The Annika, First Round",
       "description": "From Pelican Golf Club in Belleair, Fla.",
       "scheduledDate": 1794499200000,
-      "duration": 240,
+      "duration": 180,
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Golf",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-11-12_EP031583890736_115418279790_2026-11-10T13:24:18Z_GNLZZGG003XDJ22/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-11-12_EP031583890736_115468316334_2026-11-11T11:23:39Z_GNLZZGG003XMGR8/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     }
   ]
 }

@@ -2,8 +2,8 @@
   "channel": "FAF",
   "date": "2026-11-12",
   "source": "kayo",
-  "fetchedAt": 1794373335230,
-  "fetchedAtIST": "11/11/2026, 10:32:15 am",
+  "fetchedAt": 1794412462932,
+  "fetchedAtIST": "11/11/2026, 9:24:22 pm",
   "events": [
     {
       "programTitle": "AFL Women's Premiership",
@@ -109,11 +109,22 @@
       "episodeTitle": "Elimination Final: Sydney Swans vs Western Bulldogs",
       "description": "Live from Henson Park. Bounce time: 1:05pm AEDT.",
       "scheduledDate": 1794461400000,
-      "duration": 90,
+      "duration": 89,
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Playoff sports, Australian rules football",
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-11-12_EP029247970858_115096810850_2026-11-03T05:09:50Z_GNLZZGG003WJ1MX/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Classic AFL",
+      "episodeTitle": "2004 Preliminary Final: Port Adelaide v St Kilda",
+      "description": "Condensed highlights and a look back at full replays of some of the greatest encounters from the Australian Football League.",
+      "scheduledDate": 1794466740000,
+      "duration": 121,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Australian rules football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-11-12_SH028096630000_102142641835_2018-11-27T09:00:00Z_p14740563_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "Classic AFL",
