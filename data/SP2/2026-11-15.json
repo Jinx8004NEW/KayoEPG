@@ -1,0 +1,64 @@
+{
+  "channel": "SP2",
+  "date": "2026-11-15",
+  "source": "kayo",
+  "fetchedAt": 1794463591673,
+  "fetchedAtIST": "12/11/2026, 11:36:31 am",
+  "events": [
+    {
+      "programTitle": "NRL",
+      "episodeTitle": "Cronulla-Sutherland Sharks vs Canberra Raiders",
+      "description": "From Ocean Protect Stadium in Woolooware, New South Wales, Australia.",
+      "scheduledDate": 1794682800000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Rugby league, Rugby",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-11-14_EP031720961210_115468645169_2026-02-24T16:32:13Z_GNLZZGG002E1NVG/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NRL 360",
+      "episodeTitle": "World Cup Final Edition",
+      "description": "The expert team discuss key issues and topics across the rugby league with legends and current players of the game. There are reviews, news and a variety of views from around the sport landscape.",
+      "scheduledDate": 1794686400000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Sports talk, Rugby league",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-11-14_SH029161050000_110779849480_2026-03-24T08:25:06Z_p11964078_i_h10_ae/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NRL",
+      "episodeTitle": "Brisbane Broncos vs New Zealand Warriors",
+      "description": "From Suncorp Stadium in Milton, Queensland, Australia.",
+      "scheduledDate": 1794690000000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Rugby league, Rugby",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-11-14_EP031720961212_115468645058_2026-02-24T08:14:42Z_GNLZZGG002YYYR4/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NRL 360",
+      "episodeTitle": "World Cup Final Edition",
+      "description": "The expert team discuss key issues and topics across the rugby league with legends and current players of the game. There are reviews, news and a variety of views from around the sport landscape.",
+      "scheduledDate": 1794693600000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Sports talk, Rugby league",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-11-14_SH029161050000_110779849480_2026-03-24T08:25:06Z_p11964078_i_h10_ae/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NRL",
+      "episodeTitle": "Wests Tigers vs St. George Illawarra Dragons",
+      "description": "From CommBank Stadium in Parramatta, New South Wales, Australia.",
+      "scheduledDate": 1794697200000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Rugby league, Rugby",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-11-14_EP031720961214_115468645151_2026-02-24T16:40:11Z_GNLZZGG002E1XN7/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    }
+  ]
+}

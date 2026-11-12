@@ -1,0 +1,42 @@
+{
+  "channel": "FSS",
+  "date": "2026-11-15",
+  "source": "kayo",
+  "fetchedAt": 1794463591695,
+  "fetchedAtIST": "12/11/2026, 11:36:31 am",
+  "events": [
+    {
+      "programTitle": "My Game: Tiger Woods",
+      "episodeTitle": "Playing Par 3s",
+      "description": "As Tiger's longtime friend Rob McNamara says, par 3s play to Tiger's strengths; Tiger describes how he sizes up these holes.",
+      "scheduledDate": 1794681000000,
+      "duration": 15,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-11-14_SH035435950000_107134189906_2019-09-11T08:00:16Z_p17353505_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Snooker",
+      "episodeTitle": "Champion of Champions: Day 6",
+      "description": "From Toughsheet Community Stadium in Bolton, England, United Kingdom.",
+      "scheduledDate": 1794681900000,
+      "duration": 75,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Snooker",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-11-14_SH033377910000_100534249538_2024-06-05T11:13:33Z_p489879_i_h8_ah/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "To Be Announced",
+      "episodeTitle": "",
+      "description": "The programming for this time slot has yet to be determined and is being confirmed by the broadcast channel.",
+      "scheduledDate": 1794686400000,
+      "duration": 240,
+      "parentalRating": "",
+      "programType": "TBA",
+      "genre": "Special, Entertainment",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-11-14_SH027575020000_115365023510_2021-11-15T14:36:19Z_p514472_b_h8_dp/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    }
+  ]
+}

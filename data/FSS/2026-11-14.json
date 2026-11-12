@@ -2,8 +2,8 @@
   "channel": "FSS",
   "date": "2026-11-14",
   "source": "kayo",
-  "fetchedAt": 1794436223698,
-  "fetchedAtIST": "12/11/2026, 4:00:23 am",
+  "fetchedAt": 1794463591694,
+  "fetchedAtIST": "12/11/2026, 11:36:31 am",
   "events": [
     {
       "programTitle": "My Game: Tiger Woods",
@@ -59,6 +59,149 @@
       "programType": "Series",
       "genre": "Auto racing",
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-11-13_SH035728470000_113699461789_2018-12-17T21:00:00Z_p16276370_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "DP World Tour Golf",
+      "episodeTitle": "DP World Tour Championship, Second Round",
+      "description": "From Jumeirah Golf Estates in Dubai, United Arab Emirates.",
+      "scheduledDate": 1794614400000,
+      "duration": 90,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-11-14_SH040914080000_114648014511_2022-04-26T15:48:27Z_p20993758_i_h8_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Bowls",
+      "episodeTitle": "Bowls Premier League 24: Final Day",
+      "description": "",
+      "scheduledDate": 1794619800000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Bowling, Bowls",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-11-14_SH046610930000_115268482855_2023-03-13T13:30:43Z_p8381640_i_h10_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Asian Tour Golf",
+      "episodeTitle": "Philippine Open, Third Round",
+      "description": "Golf action from the Asian Tour.",
+      "scheduledDate": 1794623400000,
+      "duration": 240,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-11-14_EP033945850308_115460404387_2026-11-11T11:27:32Z_GNLZZGG003XMHC0/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Bowls",
+      "episodeTitle": "Bowls Premier League 24: Day 2",
+      "description": "",
+      "scheduledDate": 1794637800000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Bowling, Bowls",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-11-14_SH046610930000_115268482855_2023-03-13T13:30:43Z_p8381640_i_h10_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Bowls",
+      "episodeTitle": "Bowls Premier League 24: Day 3",
+      "description": "",
+      "scheduledDate": 1794641400000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Bowling, Bowls",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-11-14_SH046610930000_115268482855_2023-03-13T13:30:43Z_p8381640_i_h10_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Bowls",
+      "episodeTitle": "Bowls Premier League 24: Final Day",
+      "description": "",
+      "scheduledDate": 1794645000000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Bowling, Bowls",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-11-14_SH046610930000_115268482855_2023-03-13T13:30:43Z_p8381640_i_h10_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "AUSX Supercross Championship",
+      "episodeTitle": "Round 4: Perth, Western Australia",
+      "description": "",
+      "scheduledDate": 1794648600000,
+      "duration": 180,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Motorcycle racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-11-14_SH061276890000_115459050671_2025-10-10T02:35:01Z_p31416360_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Fight Week",
+      "episodeTitle": "UFC 334",
+      "description": "Fox Sports reporters take a look at the UFC results, previews, and news from the previous UFC Fight Week.",
+      "scheduledDate": 1794659400000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Series",
+      "genre": "Sports talk, Mixed martial arts, Boxing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-11-14_SH028549290000_114483146878_2024-01-18T22:33:02Z_p14982509_i_h10_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "UFC Countdown",
+      "episodeTitle": "UFC 334 Countdown: Gane vs. Hokit",
+      "description": "Coverage of UFC training, including exclusive interviews, expert analysis and a look at the intense preparation of each fighter.",
+      "scheduledDate": 1794661200000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Mixed martial arts, Documentary",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-11-14_SH030408650000_115453400046_2026-01-22T17:35:05Z_p308818_i_h8_ae/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Formula 1",
+      "episodeTitle": "São Paulo Grand Prix",
+      "description": "From Autódromo José Carlos Pace in Interlagos, São Paulo, Brazil.",
+      "scheduledDate": 1794664800000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Auto racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-11-14_EP027326820890_115433160505_2026-11-05T11:25:52Z_GNLZZGG003WQY07/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "FIM Superbike World Championship",
+      "episodeTitle": "Spanish Round, Race 1",
+      "description": "From Circuito de Jerez – Ángel Nieto in Jerez de la Frontera, Andalusia, Spain.",
+      "scheduledDate": 1794672000000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Motorcycle racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-11-14_EP050933440131_115432950038_2026-10-17T15:21:43Z_GNLZZGG003SGNBW/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "FIM Superbike World Championship Highlights",
+      "episodeTitle": "Spanish Round, Race 2",
+      "description": "Highlights and all the action from the FIM Superbike World Championship series, featuring modified production motorcycles.",
+      "scheduledDate": 1794675600000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Classic sport event, Motorcycle racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-11-14_SH064540680000_115459050703_2024-03-12T06:43:23Z_p26892822_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Fight Week",
+      "episodeTitle": "UFC 334",
+      "description": "Fox Sports reporters take a look at the UFC results, previews, and news from the previous UFC Fight Week.",
+      "scheduledDate": 1794679200000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Series",
+      "genre": "Sports talk, Mixed martial arts, Boxing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-11-14_SH028549290000_114483146878_2024-01-18T22:33:02Z_p14982509_i_h10_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     }
   ]
 }

@@ -2,8 +2,8 @@
   "channel": "ESP",
   "date": "2026-11-14",
   "source": "kayo",
-  "fetchedAt": 1794436223703,
-  "fetchedAtIST": "12/11/2026, 4:00:23 am",
+  "fetchedAt": 1794463591699,
+  "fetchedAtIST": "12/11/2026, 11:36:31 am",
   "events": [
     {
       "programTitle": "Bussin' & Pate On Campus",
@@ -81,6 +81,171 @@
       "programType": "Sports non-event",
       "genre": "Football",
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-11-13_SH033280090000_115465192863_2017-09-16T00:03:00Z_p221260_i_h10_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "College Football",
+      "episodeTitle": "Pittsburgh vs Florida State",
+      "description": "From Acrisure Stadium in Pittsburgh.",
+      "scheduledDate": 1794614400000,
+      "duration": 180,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-11-14_EP064738031388_115468645301_2026-06-21T01:19:50Z_GNLZZGG0037201L/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "College Football Scoreboard",
+      "episodeTitle": "",
+      "description": "Highlights and up to the minute scores during the college football season, with a look at the major storylines in the competition.",
+      "scheduledDate": 1794625200000,
+      "duration": 15,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-11-14_SH033268260000_112437273027_2019-12-21T18:40:07Z_p629287_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "College Football",
+      "episodeTitle": "Colorado vs Houston",
+      "description": "From Folsom Field in Boulder, Colo.",
+      "scheduledDate": 1794626100000,
+      "duration": 180,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-11-14_EP064738031406_115462139648_2026-06-21T04:23:18Z_GNLZZGG003727FV/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "PGA Tour Champions Learning Center",
+      "episodeTitle": "SportsCenter",
+      "description": "Tips and tricks from the legends of the game.",
+      "scheduledDate": 1794636900000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-11-14_SH037817400000_112150007536_2022-11-29T05:17:24Z_p12531845_i_h10_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "ESPN FC Shorts",
+      "episodeTitle": "Vinnie Jones & the 1988 FA Cup Final",
+      "description": "Presents top football highlights in YouTube Shorts.",
+      "scheduledDate": 1794640500000,
+      "duration": 15,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Soccer, News",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-11-14_SH046564100000_115412049824_2023-05-17T15:16:11Z_p24027877_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Ball or Nothin'",
+      "episodeTitle": "",
+      "description": "",
+      "scheduledDate": 1794641400000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Basketball",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-11-14_SH066608350000_114796305168_2026-10-23T07:25:17Z_p34357847_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NBL Pregame",
+      "episodeTitle": "",
+      "description": "A preview of upcoming games from the National Basketball League.",
+      "scheduledDate": 1794643200000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Basketball",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-11-14_SH048723300000_114549972899_2023-09-20T11:04:17Z_p25650942_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NBL",
+      "episodeTitle": "Melbourne United vs South East Melbourne Phoenix",
+      "description": "Live from John Cain Arena. Tip off at 7:36PM AEDT.",
+      "scheduledDate": 1794645000000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Basketball",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-11-14_EP029269501439_115467464948_2026-10-22T20:20:39Z_GNLZZGG003TDKM5/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NBL",
+      "episodeTitle": "Perth Wildcats vs Illawarra Hawks",
+      "description": "Live from RAC Arena. Tip off at 9:36PM AEDT.",
+      "scheduledDate": 1794652200000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Basketball",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-11-14_EP029269501440_115468645254_2026-10-22T20:21:34Z_GNLZZGG003TDL1J/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NFL Matchup",
+      "episodeTitle": "",
+      "description": "Get the latest news, info, analysis and straight talk from around all the action of the National Football League.",
+      "scheduledDate": 1794659400000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-11-14_SH033308410000_115461255760_2022-08-28T09:45:48Z_p816920_i_h10_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NFL Blitz",
+      "episodeTitle": "",
+      "description": "All of the best action from the National Football League.",
+      "scheduledDate": 1794661200000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Family, Football, News, Newsmagazine",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-11-14_SH060667300000_113358670220_2022-09-12T05:46:51Z_p22911383_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "",
+      "episodeTitle": "Unrivaled",
+      "description": "A bloody fierce rivalry in Aussie sports history gets another run.",
+      "scheduledDate": 1794663000000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Newsmagazine, News",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-11-14_EP033308270049_115466935854_2022-11-09T10:57:22Z_p22468996_b_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "30 for 30",
+      "episodeTitle": "I'm Just Here for the Riot",
+      "description": "On June 15, 2011, Vancouver hosts Game 7 of the Stanley Cup Finals between the Canucks and Boston Bruins; the city is a hive of nervous energy with the home team on the verge of its first-ever title, but when Boston stuns the Canucks to win the Cup, the situation quickly devolves into a full-blown riot, an orgy of violence that sees cars overturned and burned, windows shattered, businesses looted, and lawlessness reign... as hundreds of cell phone cameras capture it all.",
+      "scheduledDate": 1794670200000,
+      "duration": 90,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Documentary",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-11-14_EP023926430136_115468645029_2024-06-07T18:53:13Z_p27535695_b_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "30 for 30",
+      "episodeTitle": "Kings Ransom",
+      "description": "Acclaimed director Peter Berg presents the captivating story of 27-year-old hockey superstar Wayne Gretzky's 1988 trade from the Edmonton Oilers to the Los Angeles Kings, a move that engrossed a nation.",
+      "scheduledDate": 1794675600000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Documentary, Hockey",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-11-14_EP023926430020_115468645245_2017-04-07T07:04:00Z_p7823658_e_h10_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NHL Hockey",
+      "episodeTitle": "Seattle Kraken vs Carolina Hurricanes",
+      "description": "From Veikkaus Arena in Helsinki, Finland.",
+      "scheduledDate": 1794679200000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Hockey",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-11-14_EP033422284790_115474167283_2026-08-01T20:39:56Z_GNLZZGG003DGZFC/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     }
   ]
 }

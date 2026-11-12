@@ -1,0 +1,75 @@
+{
+  "channel": "RTV",
+  "date": "2026-11-15",
+  "source": "kayo",
+  "fetchedAt": 1794463591712,
+  "fetchedAtIST": "12/11/2026, 11:36:31 am",
+  "events": [
+    {
+      "programTitle": "Flashback - James McDonald 131",
+      "episodeTitle": "",
+      "description": "After creating Australian racing history, we look back at some of JMac's best wins in this special flashback.",
+      "scheduledDate": 1794682800000,
+      "duration": 60,
+      "parentalRating": "NC",
+      "programType": "Sports non-event",
+      "genre": "Special",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/Fallback_LTV_148460/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Racing Review",
+      "episodeTitle": "",
+      "description": "A full recap of racing from Wangaratta.",
+      "scheduledDate": 1794686400000,
+      "duration": 45,
+      "parentalRating": "NC",
+      "programType": "Sports non-event",
+      "genre": "Horse racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/148460_2026-11-14_SH065368570000_115417459166_2022-09-19T11:46:59Z_p872189_i_h8_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Racing Review",
+      "episodeTitle": "",
+      "description": "A full recap of racing from Wangaratta.",
+      "scheduledDate": 1794689100000,
+      "duration": 30,
+      "parentalRating": "NC",
+      "programType": "Sports non-event",
+      "genre": "Horse racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/148460_2026-11-14_SH065368570000_115417459166_2022-09-19T11:46:59Z_p872189_i_h8_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Racing Review",
+      "episodeTitle": "",
+      "description": "A full recap of racing from Wangaratta.",
+      "scheduledDate": 1794690900000,
+      "duration": 45,
+      "parentalRating": "NC",
+      "programType": "Sports non-event",
+      "genre": "Horse racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/148460_2026-11-14_SH065368570000_115417459166_2022-09-19T11:46:59Z_p872189_i_h8_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Correct Weight",
+      "episodeTitle": "",
+      "description": "",
+      "scheduledDate": 1794693600000,
+      "duration": 110,
+      "parentalRating": "NC",
+      "programType": "Series",
+      "genre": "Horse racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/148460_2026-11-14_SH064779780000_115458692165_2026-10-30T21:45:44Z_p33353868_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Correct Weight",
+      "episodeTitle": "",
+      "description": "",
+      "scheduledDate": 1794700200000,
+      "duration": 10,
+      "parentalRating": "NC",
+      "programType": "Series",
+      "genre": "Horse racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/148460_2026-11-14_SH064779780000_115458692165_2026-10-30T21:45:44Z_p33353868_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    }
+  ]
+}
