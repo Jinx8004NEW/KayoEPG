@@ -2,15 +2,15 @@
   "channel": "SPS",
   "date": "2026-11-16",
   "source": "kayo",
-  "fetchedAt": 1794531337700,
-  "fetchedAtIST": "13/11/2026, 6:25:37 am",
+  "fetchedAt": 1794570911558,
+  "fetchedAtIST": "13/11/2026, 5:25:11 pm",
   "events": [
     {
       "programTitle": "Snooker",
       "episodeTitle": "Champion of Champions: Final Day, Night Session",
       "description": "From Toughsheet Community Stadium in Bolton, England, United Kingdom.",
       "scheduledDate": 1794768300000,
-      "duration": 75,
+      "duration": 195,
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Snooker",
@@ -26,6 +26,39 @@
       "programType": "TBA",
       "genre": "Special, Entertainment",
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-11-15_SH027575020000_115365023510_2021-11-15T14:36:19Z_p514472_b_h8_dp/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "F1 Academy",
+      "episodeTitle": "United States",
+      "description": "Female drivers showcase their skills as they compete against each other to emerge victorious in the F1 Academy.",
+      "scheduledDate": 1794780000000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Auto, Auto racing, Newsmagazine, Classic sport event",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-11-15_SH047330970000_115227444950_2024-02-23T19:13:16Z_p24622061_i_h8_ad/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Supercars Championship",
+      "episodeTitle": "Sydney 500: Race 1",
+      "description": "Highlights and replays of classic races of the international motor racing series for Supercars.",
+      "scheduledDate": 1794781800000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Series",
+      "genre": "Auto racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-11-15_SH035728470000_113699461789_2018-12-17T21:00:00Z_p16276370_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Supercars Championship",
+      "episodeTitle": "Sydney 500: Race 2",
+      "description": "Highlights and replays of classic races of the international motor racing series for Supercars.",
+      "scheduledDate": 1794785400000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Series",
+      "genre": "Auto racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-11-15_SH035728470000_113699461789_2018-12-17T21:00:00Z_p16276370_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     }
   ]
 }

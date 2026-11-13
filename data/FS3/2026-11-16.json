@@ -2,9 +2,20 @@
   "channel": "FS3",
   "date": "2026-11-16",
   "source": "kayo",
-  "fetchedAt": 1794531337679,
-  "fetchedAtIST": "13/11/2026, 6:25:37 am",
+  "fetchedAt": 1794570911548,
+  "fetchedAtIST": "13/11/2026, 5:25:11 pm",
   "events": [
+    {
+      "programTitle": "PGA Tour Golf",
+      "episodeTitle": "Austin Championship, Final Round",
+      "description": "From Omni Barton Creek Resort & Spa in Austin, Texas.",
+      "scheduledDate": 1794769200000,
+      "duration": 180,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-11-15_EP030899371444_115572181276_2026-10-29T16:56:21Z_p34254304_b_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
     {
       "programTitle": "To Be Announced",
       "episodeTitle": "",
@@ -15,6 +26,17 @@
       "programType": "TBA",
       "genre": "Special, Entertainment",
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-11-15_SH027575020000_115365023510_2021-11-15T14:36:19Z_p514472_b_h8_dp/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "PGA Tour Champions Golf",
+      "episodeTitle": "Charles Schwab Cup Championship, Final Round",
+      "description": "From Phoenix Country Club in Phoenix.",
+      "scheduledDate": 1794780000000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-11-15_EP034248570398_115572181286_2025-10-21T15:24:20Z_p31400537_b_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     }
   ]
 }
