@@ -2,8 +2,8 @@
   "channel": "FSS",
   "date": "2026-11-15",
   "source": "kayo",
-  "fetchedAt": 1794501465414,
-  "fetchedAtIST": "12/11/2026, 10:07:45 pm",
+  "fetchedAt": 1794531337706,
+  "fetchedAtIST": "13/11/2026, 6:25:37 am",
   "events": [
     {
       "programTitle": "My Game: Tiger Woods",
@@ -70,6 +70,83 @@
       "programType": "Sports non-event",
       "genre": "Golf",
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-11-14_SH032772030000_113702935496_2025-04-03T19:44:22Z_p706015_i_h8_ad/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "DP World Tour Golf",
+      "episodeTitle": "DP World Tour Championship, Third Round",
+      "description": "From Jumeirah Golf Estates in Dubai, United Arab Emirates.",
+      "scheduledDate": 1794702600000,
+      "duration": 90,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-11-15_EP040914080739_115511693587_2026-11-11T11:23:14Z_GNLZZGG003XMGN8/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Spirit of Yachting",
+      "episodeTitle": "",
+      "description": "The yachting enthusiast host reports all the latest news, coverage of all the key events related to the world of yachts.",
+      "scheduledDate": 1794708000000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Yacht racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-11-15_SH033277510000_113979561862_2016-12-12T18:21:00Z_p8754277_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Asian Tour Golf",
+      "episodeTitle": "Philippine Open, Final Round",
+      "description": "Golf action from the Asian Tour.",
+      "scheduledDate": 1794709800000,
+      "duration": 240,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-11-15_EP033945850309_115510146195_2026-10-27T11:24:00Z_GNLZZGG003V74KJ/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Bowls",
+      "episodeTitle": "Bowls Premier League 24: Final Day",
+      "description": "",
+      "scheduledDate": 1794724200000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Bowling, Bowls",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-11-15_SH046610930000_115268482855_2023-03-13T13:30:43Z_p8381640_i_h10_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Test Cricket",
+      "episodeTitle": "Mini Match: South Africa vs. Bangladesh - Test 1, Day 1",
+      "description": "Coverage and highlights from international test cricket matches.",
+      "scheduledDate": 1794727800000,
+      "duration": 480,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Cricket, Classic sport event",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-11-15_SH033446590000_98978823590_2023-09-29T14:53:53Z_p8163404_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "SailGP",
+      "episodeTitle": "Geneva, Day 1",
+      "description": "",
+      "scheduledDate": 1794756600000,
+      "duration": 90,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Sailing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-11-15_SH051028760000_112367882509_2021-04-23T21:46:53Z_p19827810_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "SailGP",
+      "episodeTitle": "Geneva, Day 2",
+      "description": "",
+      "scheduledDate": 1794762000000,
+      "duration": 90,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Sailing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-11-15_SH051028760000_112367882509_2021-04-23T21:46:53Z_p19827810_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     }
   ]
 }

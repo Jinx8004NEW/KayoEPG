@@ -2,8 +2,8 @@
   "channel": "FS1",
   "date": "2026-11-15",
   "source": "kayo",
-  "fetchedAt": 1794501465395,
-  "fetchedAtIST": "12/11/2026, 10:07:45 pm",
+  "fetchedAt": 1794531337665,
+  "fetchedAtIST": "13/11/2026, 6:25:37 am",
   "events": [
     {
       "programTitle": "Summer of the Century",
@@ -114,6 +114,105 @@
       "programType": "Sports event",
       "genre": "Cricket, Classic sport event",
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-11-14_SH034583010000_115459994361_2026-03-24T13:16:18Z_p8509066_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Inside Innovation",
+      "episodeTitle": "",
+      "description": "The latest highlights, reaction and analysis of the biggest sports stories from Australia and around the world.",
+      "scheduledDate": 1794700800000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Special",
+      "genre": "Special, Cricket",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-11-15_SH067018170000_115298885751_2026-11-07T06:58:09Z_p34558355_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Summer of the Century",
+      "episodeTitle": "",
+      "description": "The latest highlights, reaction and analysis of the biggest sports stories from Australia and around the world.",
+      "scheduledDate": 1794702600000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Series",
+      "genre": "Cricket",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-11-15_SH067018200000_115298691058_2026-11-07T06:50:40Z_p34558366_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "One-Day International Cricket",
+      "episodeTitle": "1st ODI: Australia v England",
+      "description": "Coverage of one-day cricket matches contested by international teams.",
+      "scheduledDate": 1794706200000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Cricket, Classic sport event",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-11-15_SH034583010000_115459994361_2026-03-24T13:16:18Z_p8509066_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Fox Cricket Pre Game",
+      "episodeTitle": "",
+      "description": "The team present an extensive preview of all the action to come with the latest news, the best analysis, entertainment and interviews.",
+      "scheduledDate": 1794709800000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Cricket",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-11-15_SH035786310000_111887034140_2025-11-20T06:27:30Z_p18624259_i_h10_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "One-Day International Cricket",
+      "episodeTitle": "Australia vs England",
+      "description": "From Adelaide Oval in Adelaide, South Australia, Australia.",
+      "scheduledDate": 1794713400000,
+      "duration": 480,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Cricket",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-11-15_EP029804690382_115473227090_2026-10-27T23:23:14Z_GNLZZGG003VBD19/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Fox Cricket Post Game",
+      "episodeTitle": "Australia vs England, 2nd ODI",
+      "description": "The Fox Cricket team do an extensive review of the first ODI, with the latest news, analysis and interviews.",
+      "scheduledDate": 1794742200000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Cricket",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-11-15_SH054857620000_115498218332_2025-11-20T06:27:51Z_p29064517_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Abu Dhabi T10",
+      "episodeTitle": "Royal Desert Champions vs Arabian Aces",
+      "description": "From Sheikh Zayed Stadium in Abu Dhabi, United Arab Emirates.",
+      "scheduledDate": 1794744000000,
+      "duration": 100,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Cricket",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-11-15_EP045477750190_115473229012_2026-11-05T23:14:07Z_GNLZZGG003X2JP5/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Abu Dhabi T10",
+      "episodeTitle": "Emirates Eagles vs Bengal Tigers",
+      "description": "From Sheikh Zayed Stadium in Abu Dhabi, United Arab Emirates.",
+      "scheduledDate": 1794750000000,
+      "duration": 135,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Cricket",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-11-15_EP045477750185_115473224748_2026-11-05T23:05:01Z_GNLZZGG003X2CQM/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Abu Dhabi T10",
+      "episodeTitle": "Yas Lions vs Bengal Tigers",
+      "description": "From Sheikh Zayed Stadium in Abu Dhabi, United Arab Emirates.",
+      "scheduledDate": 1794758100000,
+      "duration": 155,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Cricket",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-11-15_EP045477750176_115462213977_2026-11-05T22:58:29Z_GNLZZGG003X28NM/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     }
   ]
 }

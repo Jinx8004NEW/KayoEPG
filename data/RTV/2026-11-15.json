@@ -2,30 +2,30 @@
   "channel": "RTV",
   "date": "2026-11-15",
   "source": "kayo",
-  "fetchedAt": 1794501465433,
-  "fetchedAtIST": "12/11/2026, 10:07:45 pm",
+  "fetchedAt": 1794531337728,
+  "fetchedAtIST": "13/11/2026, 6:25:37 am",
   "events": [
     {
-      "programTitle": "Flashback - James McDonald 131",
+      "programTitle": "Flashback",
       "episodeTitle": "",
-      "description": "After creating Australian racing history, we look back at some of JMac's best wins in this special flashback.",
+      "description": "A showcase of some exciting past runnings of renowned races from across Victoria, exploring their thrilling history.",
       "scheduledDate": 1794682800000,
       "duration": 60,
-      "parentalRating": "NC",
-      "programType": "Sports non-event",
-      "genre": "Special",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/148460_2026-11-14_SH063575710000_115498079979_2026-11-12T05:55:49Z_p32716110_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
-    {
-      "programTitle": "Racing Review",
-      "episodeTitle": "",
-      "description": "A full recap of racing from Wangaratta.",
-      "scheduledDate": 1794686400000,
-      "duration": 45,
-      "parentalRating": "NC",
+      "parentalRating": "",
       "programType": "Sports non-event",
       "genre": "Horse racing",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/148460_2026-11-14_SH065368570000_115417459166_2022-09-19T11:46:59Z_p872189_i_h8_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/148460_2026-11-14_SH041213850000_110926995106_2021-12-08T06:46:54Z_p21189378_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Raceday Review",
+      "episodeTitle": "",
+      "description": "A look back at the action from events on the Australian horse racing calendar with analytics and in-depth reviews from the track.",
+      "scheduledDate": 1794686400000,
+      "duration": 45,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Horse racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/148460_2026-11-14_SH029304380000_107969744569_2019-10-09T23:20:18Z_p15316396_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "Racing Review",
@@ -33,21 +33,21 @@
       "description": "A full recap of racing from Wangaratta.",
       "scheduledDate": 1794689100000,
       "duration": 30,
-      "parentalRating": "NC",
+      "parentalRating": "",
       "programType": "Sports non-event",
       "genre": "Horse racing",
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/148460_2026-11-14_SH065368570000_115417459166_2022-09-19T11:46:59Z_p872189_i_h8_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "Racing Review",
+      "programTitle": "Raceday Review",
       "episodeTitle": "",
-      "description": "A full recap of racing from Wangaratta.",
+      "description": "A look back at the action from events on the Australian horse racing calendar with analytics and in-depth reviews from the track.",
       "scheduledDate": 1794690900000,
       "duration": 45,
-      "parentalRating": "NC",
+      "parentalRating": "",
       "programType": "Sports non-event",
       "genre": "Horse racing",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/148460_2026-11-14_SH065368570000_115417459166_2022-09-19T11:46:59Z_p872189_i_h8_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/148460_2026-11-14_SH029304380000_107969744569_2019-10-09T23:20:18Z_p15316396_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "Correct Weight",
@@ -55,7 +55,7 @@
       "description": "",
       "scheduledDate": 1794693600000,
       "duration": 110,
-      "parentalRating": "NC",
+      "parentalRating": "",
       "programType": "Series",
       "genre": "Horse racing",
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/148460_2026-11-14_SH064779780000_115458692165_2026-10-30T21:45:44Z_p33353868_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
@@ -66,10 +66,164 @@
       "description": "",
       "scheduledDate": 1794700200000,
       "duration": 10,
-      "parentalRating": "NC",
+      "parentalRating": "",
       "programType": "Series",
       "genre": "Horse racing",
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/148460_2026-11-14_SH064779780000_115458692165_2026-10-30T21:45:44Z_p33353868_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Glen Boss: In His Own Words",
+      "episodeTitle": "",
+      "description": "From champion to legend, Glen Boss recounts his dream Melbourne Cup association with fellow Hall of Fame inductee Makybe Diva.",
+      "scheduledDate": 1794700800000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Special",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/148460_2026-11-15_SH053752550000_115384748863_2024-11-01T06:03:09Z_p28658346_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Racing Live",
+      "episodeTitle": "",
+      "description": "Features comprehensive coverage of some of the top horse racing events taking place in Australia and Hong Kong.",
+      "scheduledDate": 1794704400000,
+      "duration": 360,
+      "parentalRating": "",
+      "programType": "Series",
+      "genre": "Horse racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/148460_2026-11-15_SH029317280000_112642301077_2019-10-09T21:00:41Z_p15322312_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Racing Live",
+      "episodeTitle": "",
+      "description": "Features comprehensive coverage of some of the top horse racing events taking place in Australia and Hong Kong.",
+      "scheduledDate": 1794726000000,
+      "duration": 165,
+      "parentalRating": "",
+      "programType": "Series",
+      "genre": "Horse racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/148460_2026-11-15_SH029317280000_112642301077_2019-10-09T21:00:41Z_p15322312_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Raceday Review",
+      "episodeTitle": "",
+      "description": "A look back at the action from events on the Australian horse racing calendar with analytics and in-depth reviews from the track.",
+      "scheduledDate": 1794735900000,
+      "duration": 45,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Horse racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/148460_2026-11-15_SH029304380000_107969744569_2019-10-09T23:20:18Z_p15316396_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Raceday Review",
+      "episodeTitle": "",
+      "description": "A look back at the action from events on the Australian horse racing calendar with analytics and in-depth reviews from the track.",
+      "scheduledDate": 1794738600000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Horse racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/148460_2026-11-15_SH029304380000_107969744569_2019-10-09T23:20:18Z_p15316396_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Raceday Review",
+      "episodeTitle": "",
+      "description": "A look back at the action from events on the Australian horse racing calendar with analytics and in-depth reviews from the track.",
+      "scheduledDate": 1794740400000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Horse racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/148460_2026-11-15_SH029304380000_107969744569_2019-10-09T23:20:18Z_p15316396_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Raceday Review",
+      "episodeTitle": "",
+      "description": "A look back at the action from events on the Australian horse racing calendar with analytics and in-depth reviews from the track.",
+      "scheduledDate": 1794742200000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Horse racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/148460_2026-11-15_SH029304380000_107969744569_2019-10-09T23:20:18Z_p15316396_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Raceday Review",
+      "episodeTitle": "",
+      "description": "A look back at the action from events on the Australian horse racing calendar with analytics and in-depth reviews from the track.",
+      "scheduledDate": 1794744000000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Horse racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/148460_2026-11-15_SH029304380000_107969744569_2019-10-09T23:20:18Z_p15316396_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Racenight Live",
+      "episodeTitle": "",
+      "description": "Coverage of horse racing events held throughout Australia and in Hong Kong, as well as analytics and in-depth reviews from the track.",
+      "scheduledDate": 1794745800000,
+      "duration": 180,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Horse racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/148460_2026-11-15_SH029437720000_107971181386_2019-10-09T21:40:26Z_p15391316_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Raceday Review",
+      "episodeTitle": "",
+      "description": "A look back at the action from events on the Australian horse racing calendar with analytics and in-depth reviews from the track.",
+      "scheduledDate": 1794756600000,
+      "duration": 45,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Horse racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/148460_2026-11-15_SH029304380000_107969744569_2019-10-09T23:20:18Z_p15316396_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Raceday Review",
+      "episodeTitle": "",
+      "description": "A look back at the action from events on the Australian horse racing calendar with analytics and in-depth reviews from the track.",
+      "scheduledDate": 1794759300000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Horse racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/148460_2026-11-15_SH029304380000_107969744569_2019-10-09T23:20:18Z_p15316396_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Raceday Review",
+      "episodeTitle": "",
+      "description": "A look back at the action from events on the Australian horse racing calendar with analytics and in-depth reviews from the track.",
+      "scheduledDate": 1794761100000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Horse racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/148460_2026-11-15_SH029304380000_107969744569_2019-10-09T23:20:18Z_p15316396_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "The Wrap: Group 1 Glory",
+      "episodeTitle": "",
+      "description": "Greg Miles and Terry Bailey take a look back at some of the greatest Australian racehorses that have graced the turf, broken records and won hearts.",
+      "scheduledDate": 1794762900000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Other",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/148460_2026-11-15_SH032885360000_114979389470_2019-10-09T23:20:17Z_p17229238_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Flashback - Cranbourne Cup",
+      "episodeTitle": "",
+      "description": "The team look back and relive the great editions of the Cranbourne Cup, including all the highlights and exclusive interviews from the past years.",
+      "scheduledDate": 1794764700000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Special",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/148460_2026-11-15_SH037141280000_115391527531_2020-12-15T10:11:11Z_p19219552_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     }
   ]
 }

@@ -1,0 +1,31 @@
+{
+  "channel": "SPS",
+  "date": "2026-11-16",
+  "source": "kayo",
+  "fetchedAt": 1794531337700,
+  "fetchedAtIST": "13/11/2026, 6:25:37 am",
+  "events": [
+    {
+      "programTitle": "Snooker",
+      "episodeTitle": "Champion of Champions: Final Day, Night Session",
+      "description": "From Toughsheet Community Stadium in Bolton, England, United Kingdom.",
+      "scheduledDate": 1794768300000,
+      "duration": 75,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Snooker",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-11-15_SH033377910000_100534249538_2024-06-05T11:13:33Z_p489879_i_h8_ah/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "To Be Announced",
+      "episodeTitle": "",
+      "description": "The programming for this time slot has yet to be determined and is being confirmed by the broadcast channel.",
+      "scheduledDate": 1794772800000,
+      "duration": 240,
+      "parentalRating": "",
+      "programType": "TBA",
+      "genre": "Special, Entertainment",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-11-15_SH027575020000_115365023510_2021-11-15T14:36:19Z_p514472_b_h8_dp/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    }
+  ]
+}

@@ -2,8 +2,8 @@
   "channel": "SP2",
   "date": "2026-11-15",
   "source": "kayo",
-  "fetchedAt": 1794501465399,
-  "fetchedAtIST": "12/11/2026, 10:07:45 pm",
+  "fetchedAt": 1794531337673,
+  "fetchedAtIST": "13/11/2026, 6:25:37 am",
   "events": [
     {
       "programTitle": "NRL",
@@ -59,6 +59,204 @@
       "programType": "Sports event",
       "genre": "Rugby league, Rugby",
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-11-14_EP031720961214_115468645151_2026-02-24T16:40:11Z_GNLZZGG002E1XN7/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NRL 360",
+      "episodeTitle": "World Cup Final Edition",
+      "description": "The expert team discuss key issues and topics across the rugby league with legends and current players of the game. There are reviews, news and a variety of views from around the sport landscape.",
+      "scheduledDate": 1794700800000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Sports talk, Rugby league",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-11-15_SH029161050000_110779849480_2026-03-24T08:25:06Z_p11964078_i_h10_ae/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Greatest Test Matches",
+      "episodeTitle": "2018: Jillaroos v Kiwi Ferns",
+      "description": "Presents a selection of international clashes featuring memorable moments, great rivalries, inspirational performances and thrilling finishes.",
+      "scheduledDate": 1794704400000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Rugby",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-11-15_SH053177030000_100906053540_2025-10-15T06:38:51Z_p28430202_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NRL 360",
+      "episodeTitle": "World Cup Final Edition",
+      "description": "The expert team discuss key issues and topics across the rugby league with legends and current players of the game. There are reviews, news and a variety of views from around the sport landscape.",
+      "scheduledDate": 1794708000000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Sports talk, Rugby league",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-11-15_SH029161050000_110779849480_2026-03-24T08:25:06Z_p11964078_i_h10_ae/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Greatest Test Matches",
+      "episodeTitle": "2006 Final: Australia v New Zealand",
+      "description": "A review of the 2006 final Test match between Australia and New Zealand.",
+      "scheduledDate": 1794711600000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Rugby",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-11-15_SH053177030000_100906053540_2025-10-15T06:38:51Z_p28430202_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NRL 360",
+      "episodeTitle": "World Cup Final Edition",
+      "description": "The expert team discuss key issues and topics across the rugby league with legends and current players of the game. There are reviews, news and a variety of views from around the sport landscape.",
+      "scheduledDate": 1794715200000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Sports talk, Rugby league",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-11-15_SH029161050000_110779849480_2026-03-24T08:25:06Z_p11964078_i_h10_ae/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Greatest Test Matches",
+      "episodeTitle": "2011 Australia vs New Zealand",
+      "description": "A selection of international clashes featuring memorable moments, great rivalries, inspirational performances and thrilling finishes.",
+      "scheduledDate": 1794718800000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Rugby",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-11-15_SH053177030000_100906053540_2025-10-15T06:38:51Z_p28430202_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NRL 360",
+      "episodeTitle": "World Cup Final Edition",
+      "description": "The expert team discuss key issues and topics across the rugby league with legends and current players of the game. There are reviews, news and a variety of views from around the sport landscape.",
+      "scheduledDate": 1794722400000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Sports talk, Rugby league",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-11-15_SH029161050000_110779849480_2026-03-24T08:25:06Z_p11964078_i_h10_ae/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Greatest Test Matches",
+      "episodeTitle": "2022 Rugby League World Cup: Final - Australia v New Zealand (Women)",
+      "description": "Presents a selection of international clashes featuring memorable moments, great rivalries, inspirational performances and thrilling finishes.",
+      "scheduledDate": 1794726000000,
+      "duration": 90,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Rugby",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-11-15_SH053177030000_100906053540_2025-10-15T06:38:51Z_p28430202_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Greatest Test Matches",
+      "episodeTitle": "2022 Rugby League World Cup: Semifinal - Australia v New Zealand",
+      "description": "A selection of international clashes featuring memorable moments, great rivalries, inspirational performances and thrilling finishes.",
+      "scheduledDate": 1794731400000,
+      "duration": 90,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Rugby",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-11-15_SH053177030000_100906053540_2025-10-15T06:38:51Z_p28430202_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "International Rugby League",
+      "episodeTitle": "2008 Centenary Test: Australia vs New Zealand",
+      "description": "Coverage of all the action from international rugby league matches.",
+      "scheduledDate": 1794736800000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Classic sport event, Rugby league, Rugby",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-11-15_SH033508240000_115412049837_2019-10-16T13:00:30Z_p8325101_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Greatest Test Matches",
+      "episodeTitle": "2018: Jillaroos v Kiwi Ferns",
+      "description": "Presents a selection of international clashes featuring memorable moments, great rivalries, inspirational performances and thrilling finishes.",
+      "scheduledDate": 1794740400000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Rugby",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-11-15_SH053177030000_100906053540_2025-10-15T06:38:51Z_p28430202_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Greatest Test Matches",
+      "episodeTitle": "2019: Australia vs New Zealand",
+      "description": "A selection of international clashes featuring memorable moments, great rivalries, inspirational performances and thrilling finishes.",
+      "scheduledDate": 1794744000000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Rugby",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-11-15_SH053177030000_100906053540_2025-10-15T06:38:51Z_p28430202_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NRL",
+      "episodeTitle": "St. George Illawarra Dragons vs Cronulla-Sutherland Sharks",
+      "description": "WIN Stadium",
+      "scheduledDate": 1794747600000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Rugby league, Rugby",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-11-15_EP031720961206_115457117898_2026-02-10T13:09:56Z_GNLZZGG002QFMRL/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NRL",
+      "episodeTitle": "Penrith Panthers vs Sydney Roosters",
+      "description": "From CommBank Stadium in Parramatta, New South Wales, Australia.",
+      "scheduledDate": 1794751200000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Rugby league, Rugby",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-11-15_EP031720961207_115468645026_2026-02-24T10:16:18Z_GNLZZGG002YEG3B/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NRL",
+      "episodeTitle": "Manly-Warringah Sea Eagles vs Dolphins",
+      "description": "From 4 Pines Park in Brookvale, New South Wales, Australia.",
+      "scheduledDate": 1794754800000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Rugby league, Rugby",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-11-15_EP031720961208_115457047393_2026-02-24T16:26:40Z_GNLZZGG002E1NGL/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NRL",
+      "episodeTitle": "Canterbury-Bankstown Bulldogs vs South Sydney Rabbitohs",
+      "description": "From Accor Stadium in Sydney.",
+      "scheduledDate": 1794758400000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Rugby league, Rugby",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-11-15_EP031720961209_115456917451_2026-02-16T07:50:17Z_GNLZZGG002QQN0T/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NRL",
+      "episodeTitle": "Cronulla-Sutherland Sharks vs Canberra Raiders",
+      "description": "From Ocean Protect Stadium in Woolooware, New South Wales, Australia.",
+      "scheduledDate": 1794762000000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Rugby league, Rugby",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-11-15_EP031720961210_115468645169_2026-02-24T16:32:13Z_GNLZZGG002E1NVG/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NRL",
+      "episodeTitle": "Parramatta Eels vs North Queensland Cowboys",
+      "description": "From CommBank Stadium in Parramatta, New South Wales, Australia.",
+      "scheduledDate": 1794765600000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Rugby league, Rugby",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-11-15_EP031720961211_115468645154_2026-02-10T13:14:37Z_GNLZZGG002QFXY8/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     }
   ]
 }

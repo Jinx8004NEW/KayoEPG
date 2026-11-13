@@ -2,8 +2,8 @@
   "channel": "ESP",
   "date": "2026-11-15",
   "source": "kayo",
-  "fetchedAt": 1794501465419,
-  "fetchedAtIST": "12/11/2026, 10:07:45 pm",
+  "fetchedAt": 1794531337714,
+  "fetchedAtIST": "13/11/2026, 6:25:37 am",
   "events": [
     {
       "programTitle": "To Be Announced",
@@ -59,6 +59,149 @@
       "programType": "Series",
       "genre": "News",
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-11-14_SH046772320000_105518246248_2023-03-14T05:26:40Z_p24188974_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "SportsCenter",
+      "episodeTitle": "",
+      "description": "The team deliver the latest news, highlights, and inside information from the wide world of sports, as well as trending topics across social media platforms.",
+      "scheduledDate": 1794700800000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "News, Sports talk",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-11-15_SH033259060000_109832503473_2018-04-18T10:39:00Z_p186674_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Ball or Nothin'",
+      "episodeTitle": "",
+      "description": "",
+      "scheduledDate": 1794702600000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Basketball",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-11-15_SH066608350000_114796305168_2026-10-23T07:25:17Z_p34357847_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NBA Basketball",
+      "episodeTitle": "Minnesota Timberwolves vs Chicago Bulls",
+      "description": "From the Target Center in Minneapolis.",
+      "scheduledDate": 1794704400000,
+      "duration": 150,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Basketball",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-11-15_EP030658785669_115516778977_2026-09-02T07:57:02Z_GNLZZGG003M5L7T/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Ball or Nothin'",
+      "episodeTitle": "",
+      "description": "",
+      "scheduledDate": 1794713400000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Basketball",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-11-15_SH066608350000_114796305168_2026-10-23T07:25:17Z_p34357847_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NBL",
+      "episodeTitle": "Sydney Kings vs BNZ Breakers",
+      "description": "",
+      "scheduledDate": 1794715200000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Basketball",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-11-15_EP029269501441_115516779015_2026-10-22T20:20:30Z_GNLZZGG003TDKFC/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NBL",
+      "episodeTitle": "Brisbane Bullets vs Tasmania JackJumpers",
+      "description": "From Brisbane Entertainment Centre in Boondall, Queensland, Australia.",
+      "scheduledDate": 1794722400000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Basketball",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-11-15_EP029269501442_115516779016_2026-10-22T20:19:26Z_GNLZZGG003TDZKC/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "ESPN FC",
+      "episodeTitle": "",
+      "description": "ESPN FC brings you a round-up of the latest news from the world of football, including in-depth analysis and exclusive interviews.",
+      "scheduledDate": 1794729600000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Series",
+      "genre": "Soccer, Sports talk",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-11-15_SH033236780000_109573421566_2026-05-25T06:15:30Z_p10106369_i_h11_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NBA Basketball",
+      "episodeTitle": "Minnesota Timberwolves vs Chicago Bulls",
+      "description": "From the Target Center in Minneapolis.",
+      "scheduledDate": 1794731400000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Basketball",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-11-15_EP030658785669_115516778977_2026-09-02T07:57:02Z_GNLZZGG003M5L7T/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "College Football",
+      "episodeTitle": "Kentucky vs Florida",
+      "description": "Kroger Field",
+      "scheduledDate": 1794738600000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-11-15_EP064738031360_115516779012_2026-06-21T01:19:28Z_GNLZZGG00371Q9S/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "College Football",
+      "episodeTitle": "Miami vs Duke",
+      "description": "From Hard Rock Stadium in Miami Gardens, Fla.",
+      "scheduledDate": 1794745800000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-11-15_EP064738031333_115484649938_2026-06-21T01:18:20Z_GNLZZGG00371ZJF/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NFL Football",
+      "episodeTitle": "New England Patriots vs Detroit Lions",
+      "description": "From Allianz Arena in Munich.",
+      "scheduledDate": 1794753000000,
+      "duration": 180,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-11-15_EP029371131971_115516778982_2026-07-15T07:28:09Z_GNLZZGG0039LYNK/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "SportsCenter",
+      "episodeTitle": "",
+      "description": "The team deliver the latest news, highlights, and inside information from the wide world of sports, as well as trending topics across social media platforms.",
+      "scheduledDate": 1794763800000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "News, Sports talk",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-11-15_SH033259060000_109832503473_2018-04-18T10:39:00Z_p186674_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NFL Football",
+      "episodeTitle": "Green Bay Packers vs Minnesota Vikings",
+      "description": "From Lambeau Field in Green Bay, Wis.",
+      "scheduledDate": 1794765600000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-11-15_EP029371131978_115516779044_2026-07-15T07:30:01Z_GNLZZGG0039QP45/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     }
   ]
 }
