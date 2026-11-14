@@ -1,0 +1,31 @@
+{
+  "channel": "FS1",
+  "date": "2026-11-17",
+  "source": "kayo",
+  "fetchedAt": 1794654890470,
+  "fetchedAtIST": "14/11/2026, 4:44:50 pm",
+  "events": [
+    {
+      "programTitle": "Inside Innovation",
+      "episodeTitle": "",
+      "description": "The latest highlights, reaction and analysis of the biggest sports stories from Australia and around the world.",
+      "scheduledDate": 1794853800000,
+      "duration": 90,
+      "parentalRating": "",
+      "programType": "Special",
+      "genre": "Special, Cricket",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-11-16_SH067018170000_115298885751_2026-11-07T06:58:09Z_p34558355_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "To Be Announced",
+      "episodeTitle": "",
+      "description": "The programming for this time slot has yet to be determined and is being confirmed by the broadcast channel.",
+      "scheduledDate": 1794859200000,
+      "duration": 240,
+      "parentalRating": "",
+      "programType": "TBA",
+      "genre": "Special, Entertainment",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-11-16_SH027575020000_115365023510_2021-11-15T14:36:19Z_p514472_b_h8_dp/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    }
+  ]
+}

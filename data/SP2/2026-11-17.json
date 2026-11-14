@@ -1,0 +1,64 @@
+{
+  "channel": "SP2",
+  "date": "2026-11-17",
+  "source": "kayo",
+  "fetchedAt": 1794654890479,
+  "fetchedAtIST": "14/11/2026, 4:44:50 pm",
+  "events": [
+    {
+      "programTitle": "NRL",
+      "episodeTitle": "Brisbane Broncos vs Melbourne Storm",
+      "description": "From Suncorp Stadium in Milton, Queensland, Australia.",
+      "scheduledDate": 1794855600000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Rugby league, Rugby",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-11-16_EP031720961223_115578556769_2026-02-24T10:26:30Z_GNLZZGG002YE6LR/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NRL",
+      "episodeTitle": "Manly-Warringah Sea Eagles vs St. George Illawarra Dragons",
+      "description": "From 4 Pines Park in Brookvale, New South Wales, Australia.",
+      "scheduledDate": 1794859200000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Rugby league, Rugby",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-11-16_EP031720961224_115578557229_2026-02-24T16:29:26Z_GNLZZGG002E12D8/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NRL",
+      "episodeTitle": "Penrith Panthers vs Canterbury-Bankstown Bulldogs",
+      "description": "From CommBank Stadium in Parramatta, New South Wales, Australia.",
+      "scheduledDate": 1794862800000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Rugby league, Rugby",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-11-16_EP031720961225_115578556191_2026-02-24T08:06:27Z_GNLZZGG002YE0T2/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NRL",
+      "episodeTitle": "Gold Coast Titans vs South Sydney Rabbitohs",
+      "description": "From Cbus Super Stadium in Robina, Australia.",
+      "scheduledDate": 1794866400000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Rugby league, Rugby",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-11-16_EP031720961226_115578556438_2026-02-10T13:20:05Z_GNLZZGG002QFEW3/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NRL Classic Match",
+      "episodeTitle": "2026 Round 26: Sydney Roosters v Dolphins",
+      "description": "Re-live some of the best rugby league clashes from the Premiership's past.",
+      "scheduledDate": 1794870000000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Rugby, Classic sport event, Rugby league",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-11-16_SH034822800000_100794011205_2020-04-08T22:50:08Z_p18168517_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    }
+  ]
+}

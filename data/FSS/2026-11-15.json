@@ -2,8 +2,8 @@
   "channel": "FSS",
   "date": "2026-11-15",
   "source": "kayo",
-  "fetchedAt": 1794617014608,
-  "fetchedAtIST": "14/11/2026, 6:13:34 am",
+  "fetchedAt": 1794654890508,
+  "fetchedAtIST": "14/11/2026, 4:44:50 pm",
   "events": [
     {
       "programTitle": "My Game: Tiger Woods",
@@ -39,15 +39,15 @@
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-11-14_SH027575020000_115365023510_2021-11-15T14:36:19Z_p514472_b_h8_dp/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "UFC Countdown",
-      "episodeTitle": "UFC 334 Countdown: Gane vs. Hokit",
-      "description": "Coverage of UFC training, including exclusive interviews, expert analysis and a look at the intense preparation of each fighter.",
+      "programTitle": "PGA Tour Golf",
+      "episodeTitle": "Charles Schwab Challenge, Third Round",
+      "description": "From Colonial Country Club in Fort Worth, Texas.",
       "scheduledDate": 1794693600000,
-      "duration": 60,
+      "duration": 120,
       "parentalRating": "",
-      "programType": "Sports non-event",
-      "genre": "Mixed martial arts, Documentary",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-11-14_SH030408650000_115453400046_2026-01-22T17:35:05Z_p308818_i_h8_ae/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "programType": "Sports event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-11-14_EP030899371375_115501858352_2026-05-18T15:56:22Z_p32043915_b_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "Fight Week",
@@ -70,6 +70,17 @@
       "programType": "Sports non-event",
       "genre": "Golf",
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-11-14_SH032772030000_113702935496_2025-04-03T19:44:22Z_p706015_i_h8_ad/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Fight Week",
+      "episodeTitle": "UFC 334",
+      "description": "Fox Sports reporters take a look at the UFC results, previews, and news from the previous UFC Fight Week.",
+      "scheduledDate": 1794700800000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Series",
+      "genre": "Sports talk, Mixed martial arts, Boxing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-11-15_SH028549290000_114483146878_2024-01-18T22:33:02Z_p14982509_i_h10_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "DP World Tour Golf",

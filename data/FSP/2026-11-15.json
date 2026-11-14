@@ -2,8 +2,8 @@
   "channel": "FSP",
   "date": "2026-11-15",
   "source": "kayo",
-  "fetchedAt": 1794617014598,
-  "fetchedAtIST": "14/11/2026, 6:13:34 am",
+  "fetchedAt": 1794654890495,
+  "fetchedAtIST": "14/11/2026, 4:44:50 pm",
   "events": [
     {
       "programTitle": "LPGA Tour Golf",
@@ -28,15 +28,26 @@
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-11-14_SH027575020000_115365023510_2021-11-15T14:36:19Z_p514472_b_h8_dp/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "PGA Tour Golf",
-      "episodeTitle": "Charles Schwab Challenge, Third Round",
-      "description": "From Colonial Country Club in Fort Worth, Texas.",
+      "programTitle": "MotoGP Racing",
+      "episodeTitle": "Qatar Airways Grand Prix of Qatar",
+      "description": "From Losail International Circuit in Doha, Ad Dawhah, Qatar.",
       "scheduledDate": 1794693600000,
-      "duration": 120,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Motorcycle racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-11-14_EP028104881601_115343288181_2026-11-08T19:22:27Z_GNLZZGG003X79JH/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Golf",
+      "episodeTitle": "Ford NSW Open: Final Round",
+      "description": "Coverage of golf tournaments from around the world.",
+      "scheduledDate": 1794697200000,
+      "duration": 300,
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Golf",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-11-14_EP030899371375_115501858352_2026-05-18T15:56:22Z_p32043915_b_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-11-14_SH028182050000_112685941224_2024-05-13T05:23:51Z_p9232187_i_h8_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "MotoGP Racing",
@@ -59,6 +70,28 @@
       "programType": "Sports event",
       "genre": "Golf",
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-11-15_SH028182050000_112685941224_2024-05-13T05:23:51Z_p9232187_i_h8_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Pro Bull Riding",
+      "episodeTitle": "Coffs Harbour/Orange",
+      "description": "The best bull riders in Australia and the world compete for prize money on the professional bull riding circuit.",
+      "scheduledDate": 1794715200000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Bull riding",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-11-15_SH029446100000_108472165776_2018-05-25T09:42:00Z_p15394895_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "DP World Tour Golf",
+      "episodeTitle": "DP World Tour Championship, Third Round",
+      "description": "From Jumeirah Golf Estates in Dubai, United Arab Emirates.",
+      "scheduledDate": 1794718800000,
+      "duration": 90,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-11-15_SH040914080000_115511073049_2022-04-26T15:48:27Z_p20993758_i_h8_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "Getting a Round In",

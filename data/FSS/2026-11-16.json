@@ -2,8 +2,8 @@
   "channel": "FSS",
   "date": "2026-11-16",
   "source": "kayo",
-  "fetchedAt": 1794617014608,
-  "fetchedAtIST": "14/11/2026, 6:13:34 am",
+  "fetchedAt": 1794654890508,
+  "fetchedAtIST": "14/11/2026, 4:44:50 pm",
   "events": [
     {
       "programTitle": "LPGA Tour Golf",
@@ -59,6 +59,171 @@
       "programType": "Sports non-event",
       "genre": "Yacht racing",
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-11-15_SH033277510000_113979561862_2016-12-12T18:21:00Z_p8754277_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Bowls",
+      "episodeTitle": "Bowls Premier League 24: Day 1",
+      "description": "",
+      "scheduledDate": 1794787200000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Bowling, Bowls",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-11-16_SH046610930000_115268482855_2023-03-13T13:30:43Z_p8381640_i_h10_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Bowls",
+      "episodeTitle": "Bowls Premier League 24: Day 2",
+      "description": "",
+      "scheduledDate": 1794790800000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Bowling, Bowls",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-11-16_SH046610930000_115268482855_2023-03-13T13:30:43Z_p8381640_i_h10_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Bowls",
+      "episodeTitle": "Bowls Premier League 24: Day 3",
+      "description": "",
+      "scheduledDate": 1794794400000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Bowling, Bowls",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-11-16_SH046610930000_115268482855_2023-03-13T13:30:43Z_p8381640_i_h10_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Teremoana Teremoana vs. Hemi Ahio, Press Conference",
+      "episodeTitle": "",
+      "description": "Teremoana and Hemi Ahio face the press ahead of their fight in Melbourne.",
+      "scheduledDate": 1794798000000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Special",
+      "genre": "Special, Boxing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-11-16_SH067142750000_115609317490_2026-11-14T06:34:03Z_p34617904_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Darts",
+      "episodeTitle": "Grand Slam of Darts: Day 2, Session 2",
+      "description": "Covering of all the action from darts events around the world.",
+      "scheduledDate": 1794801600000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Darts",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-11-16_SH032967320000_115472606336_2024-10-04T13:14:55Z_p644283_i_h8_ah/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "T100 Triathlon World Tour",
+      "episodeTitle": "Dubai T100",
+      "description": "",
+      "scheduledDate": 1794808800000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Triathlon",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-11-16_EP053464260014_115572181316_2026-11-06T17:25:54Z_GNLZZGG003X5MDH/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "DP World Tour Golf",
+      "episodeTitle": "DP World Tour Championship, Final Round",
+      "description": "From Jumeirah Golf Estates in Dubai, United Arab Emirates.",
+      "scheduledDate": 1794810600000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-11-16_SH040914080000_115511073049_2022-04-26T15:48:27Z_p20993758_i_h8_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "PGA Tour Highlights",
+      "episodeTitle": "Austin Championship",
+      "description": "Highlights from PGA Tour events featuring the world's best golfers in action. Hosts track the progression of the game while reviewing the changes in technologies and techniques.",
+      "scheduledDate": 1794817800000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Classic sport event, Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-11-16_SH032355110000_114391477483_2023-03-16T12:30:24Z_p9060599_i_h10_ae/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Darts",
+      "episodeTitle": "Grand Slam of Darts: Day 2, Session 2",
+      "description": "Covering of all the action from darts events around the world.",
+      "scheduledDate": 1794821400000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Darts",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-11-16_SH032967320000_115472606336_2024-10-04T13:14:55Z_p644283_i_h8_ah/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "PGA Tour Highlights",
+      "episodeTitle": "Austin Championship",
+      "description": "Highlights from PGA Tour events featuring the world's best golfers in action. Hosts track the progression of the game while reviewing the changes in technologies and techniques.",
+      "scheduledDate": 1794828600000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Classic sport event, Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-11-16_SH032355110000_114391477483_2023-03-16T12:30:24Z_p9060599_i_h10_ae/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "T100 Triathlon World Tour",
+      "episodeTitle": "Dubai T100",
+      "description": "",
+      "scheduledDate": 1794832200000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Triathlon",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-11-16_EP053464260014_115572181316_2026-11-06T17:25:54Z_GNLZZGG003X5MDH/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "DP World Tour Golf",
+      "episodeTitle": "DP World Tour Championship, Final Round",
+      "description": "From Jumeirah Golf Estates in Dubai, United Arab Emirates.",
+      "scheduledDate": 1794834000000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-11-16_SH040914080000_115511073049_2022-04-26T15:48:27Z_p20993758_i_h8_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Darts",
+      "episodeTitle": "Grand Slam of Darts: Day 2, Session 2",
+      "description": "Covering of all the action from darts events around the world.",
+      "scheduledDate": 1794841200000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Darts",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-11-16_SH032967320000_115472606336_2024-10-04T13:14:55Z_p644283_i_h8_ah/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Golf",
+      "episodeTitle": "Ford NSW Open: Final Round",
+      "description": "Coverage of golf tournaments from around the world.",
+      "scheduledDate": 1794848400000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-11-16_SH028182050000_112685941224_2024-05-13T05:23:51Z_p9232187_i_h8_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Ultimate Pool Pairs Cup",
+      "episodeTitle": "Mixed Pairs Cup: Prelim Group 3",
+      "description": "",
+      "scheduledDate": 1794852000000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Pool",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-11-16_SH052429110000_110899527161_2022-07-14T04:37:38Z_p22523512_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     }
   ]
 }
