@@ -2,8 +2,8 @@
   "channel": "FS3",
   "date": "2026-11-17",
   "source": "kayo",
-  "fetchedAt": 1794719705915,
-  "fetchedAtIST": "15/11/2026, 10:45:05 am",
+  "fetchedAt": 1794756324282,
+  "fetchedAtIST": "15/11/2026, 8:55:24 pm",
   "events": [
     {
       "programTitle": "PGA Tour Golf",
@@ -25,7 +25,7 @@
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Golf",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-11-16_SH040914080000_115511073049_2022-04-26T15:48:27Z_p20993758_i_h8_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-11-16_SH040914080000_115641473191_2026-11-15T08:25:21Z_p20993758_i_h10_ad/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "WTGL",
@@ -37,6 +37,94 @@
       "programType": "Sports non-event",
       "genre": "Golf",
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-11-16_SH066911130000_115578556206_2026-10-27T13:15:13Z_p34457857_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "WTGL",
+      "episodeTitle": "Boston Common Golf Club v Motor City Golf Club",
+      "description": "",
+      "scheduledDate": 1794877200000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-11-17_SH066911130000_115578556206_2026-10-27T13:15:13Z_p34457857_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "LPGA Tour Golf",
+      "episodeTitle": "The Annika, Final Round",
+      "description": "From Pelican Golf Club in Belleair, Fla.",
+      "scheduledDate": 1794884400000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-11-17_SH031583890000_109900390814_2025-12-31T05:35:12Z_p767017_i_h8_af/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Legends Tour Highlights",
+      "episodeTitle": "2026 Portugal Legends",
+      "description": "The best moments and analysis from this year's senior tour.",
+      "scheduledDate": 1794891600000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-11-17_SH039624520000_107151323978_2020-09-28T06:30:59Z_p18780386_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "DP World Tour Highlights",
+      "episodeTitle": "",
+      "description": "",
+      "scheduledDate": 1794895200000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-11-17_SH042728730000_105753336739_2022-04-14T18:06:06Z_p21832098_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Asian Tour Highlights",
+      "episodeTitle": "Philippine Open",
+      "description": "Recapping golf action from the Asian Tour.",
+      "scheduledDate": 1794897000000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-11-17_SH048468780000_106750578419_2022-10-06T14:37:27Z_p18013001_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Test Cricket",
+      "episodeTitle": "South Africa vs Bangladesh",
+      "description": "Coverage of Test cricket matches contested by international teams.",
+      "scheduledDate": 1794900600000,
+      "duration": 480,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Cricket",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-11-17_EP029804991952_115593899150_2026-10-27T23:00:51Z_GNLZZGG003V9E82/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "DP World Tour Golf",
+      "episodeTitle": "Alfred Dunhill Links Championship, Final Round",
+      "description": "From The Old Course at St. Andrews in Fife, Scotland.",
+      "scheduledDate": 1794929400000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-11-17_EP040914080612_115578557214_2026-10-01T17:23:19Z_GNLZZGG003R9BZH/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "DP World Tour Golf",
+      "episodeTitle": "Acciona Open de España, Final Round",
+      "description": "From Club de Campo Villa de Madrid in Madrid.",
+      "scheduledDate": 1794936600000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-11-17_EP040914080124_115578557685_2022-09-09T15:08:28Z_p22820691_b_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     }
   ]
 }

@@ -2,8 +2,8 @@
   "channel": "FSP",
   "date": "2026-11-17",
   "source": "kayo",
-  "fetchedAt": 1794719705921,
-  "fetchedAtIST": "15/11/2026, 10:45:05 am",
+  "fetchedAt": 1794756324289,
+  "fetchedAtIST": "15/11/2026, 8:55:24 pm",
   "events": [
     {
       "programTitle": "Darts",
@@ -26,6 +26,116 @@
       "programType": "Sports event",
       "genre": "Classic sport event, Golf",
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-11-16_SH032355110000_114391477483_2023-03-16T12:30:24Z_p9060599_i_h10_ae/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Getting a Round In",
+      "episodeTitle": "",
+      "description": "Australian professional golfer, Paul Gow hosts celebrities as his playing partners who share his love for the game of golf.",
+      "scheduledDate": 1794873600000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Series",
+      "genre": "Golf, Interview",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-11-17_SH048121120000_110998856207_2023-07-18T05:56:16Z_p25221374_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "PSA World Tour Squash",
+      "episodeTitle": "2026: US Open",
+      "description": "Squash action from the PSA World Tour which involves over 200 tournaments annually all over the globe.",
+      "scheduledDate": 1794875400000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Squash",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-11-17_SH036328700000_115578557224_2019-03-27T13:40:40Z_p16708425_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Darts",
+      "episodeTitle": "Grand Slam of Darts: Day 3",
+      "description": "Covering of all the action from darts events around the world.",
+      "scheduledDate": 1794879000000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Darts",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-11-17_SH032967320000_115472606336_2024-10-04T13:14:55Z_p644283_i_h8_ah/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "International Brawling Championship",
+      "episodeTitle": "",
+      "description": "Step inside the raw and uncompromising world of underground fight culture.",
+      "scheduledDate": 1794886200000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Mixed martial arts",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-11-17_SH065139570000_115084805497_2026-10-16T21:52:11Z_p33539447_i_h8_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "WBBL Mini",
+      "episodeTitle": "Sydney Thunder v Melbourne Stars",
+      "description": "The latest highlights, reaction and analysis of the biggest sports stories from Australia and around the world.",
+      "scheduledDate": 1794888000000,
+      "duration": 20,
+      "parentalRating": "",
+      "programType": "Series",
+      "genre": "Cricket",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-11-17_SH048957470000_114999026223_2023-10-11T04:14:19Z_p25853183_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Test Cricket",
+      "episodeTitle": "Pakistan vs Sri Lanka",
+      "description": "Gaddafi Stadium",
+      "scheduledDate": 1794889200000,
+      "duration": 460,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Cricket",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-11-17_EP029804991945_115642433604_2026-10-27T23:07:21Z_GNLZZGG003VB31Y/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "MotoGP Racing",
+      "episodeTitle": "Qatar Airways Grand Prix of Qatar",
+      "description": "From Losail International Circuit in Doha, Ad Dawhah, Qatar.",
+      "scheduledDate": 1794916800000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Motorcycle racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-11-17_EP028104881601_115343288181_2026-11-08T19:22:27Z_GNLZZGG003X79JH/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Darts",
+      "episodeTitle": "Grand Slam of Darts: Day 2, Session 2",
+      "description": "Covering of all the action from darts events around the world.",
+      "scheduledDate": 1794920400000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Darts",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-11-17_SH032967320000_115472606336_2024-10-04T13:14:55Z_p644283_i_h8_ah/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "2026 Presidents Cup",
+      "episodeTitle": "Final Day",
+      "description": "From Medinah Country Club in Medinah, Ill.",
+      "scheduledDate": 1794927600000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-11-17_SH066278790000_115459050669_2026-08-05T21:07:29Z_p33597240_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Darts",
+      "episodeTitle": "Grand Slam of Darts: Day 3",
+      "description": "Covering of all the action from darts events around the world.",
+      "scheduledDate": 1794934800000,
+      "duration": 180,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Darts",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-11-17_SH032967320000_115472606336_2024-10-04T13:14:55Z_p644283_i_h8_ah/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     }
   ]
 }

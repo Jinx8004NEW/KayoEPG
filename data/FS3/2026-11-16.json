@@ -2,8 +2,8 @@
   "channel": "FS3",
   "date": "2026-11-16",
   "source": "kayo",
-  "fetchedAt": 1794719705915,
-  "fetchedAtIST": "15/11/2026, 10:45:05 am",
+  "fetchedAt": 1794756324282,
+  "fetchedAtIST": "15/11/2026, 8:55:24 pm",
   "events": [
     {
       "programTitle": "PGA Tour Golf",
@@ -31,6 +31,17 @@
       "programTitle": "PGA Tour Champions Golf",
       "episodeTitle": "Charles Schwab Cup Championship, Final Round",
       "description": "From Phoenix Country Club in Phoenix.",
+      "scheduledDate": 1794774600000,
+      "duration": 210,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-11-15_EP034248570398_115572181286_2025-10-21T15:24:20Z_p31400537_b_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "PGA Tour Champions Golf",
+      "episodeTitle": "Charles Schwab Cup Championship, Final Round",
+      "description": "From Phoenix Country Club in Phoenix.",
       "scheduledDate": 1794780000000,
       "duration": 120,
       "parentalRating": "",
@@ -47,7 +58,7 @@
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Golf",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-11-16_SH040914080000_115511073049_2022-04-26T15:48:27Z_p20993758_i_h8_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-11-16_SH040914080000_115641473191_2026-11-15T08:25:21Z_p20993758_i_h10_ad/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "PGA Tour Golf",
