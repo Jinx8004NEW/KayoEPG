@@ -2,9 +2,31 @@
   "channel": "ES2",
   "date": "2026-11-19",
   "source": "kayo",
-  "fetchedAt": 1794805991010,
-  "fetchedAtIST": "16/11/2026, 10:43:11 am",
+  "fetchedAt": 1794852014616,
+  "fetchedAtIST": "16/11/2026, 11:30:14 pm",
   "events": [
+    {
+      "programTitle": "Big Day With Peter Schrager",
+      "episodeTitle": "",
+      "description": "Peter Schrager covers the biggest stories from across the sports world each day.",
+      "scheduledDate": 1795028400000,
+      "duration": 55,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-11-18_SH066067040000_115578557100_2026-09-10T19:25:26Z_p34014283_i_h10_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "UEFA Women's Champions League",
+      "episodeTitle": "Chelsea vs. Paris Saint-Germain",
+      "description": "From Stamford Bridge in London.",
+      "scheduledDate": 1795031700000,
+      "duration": 125,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Soccer",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-11-18_EP032279220188_115684952543_2026-09-07T16:43:50Z_GNLZZGG003N2XRX/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
     {
       "programTitle": "To Be Announced",
       "episodeTitle": "",
@@ -15,6 +37,50 @@
       "programType": "TBA",
       "genre": "Special, Entertainment",
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-11-18_SH027575020000_115365023510_2021-11-15T14:36:19Z_p514472_b_h8_dp/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "SportsCenter",
+      "episodeTitle": "",
+      "description": "The team deliver the latest news, highlights, and inside information from the wide world of sports, as well as trending topics across social media platforms.",
+      "scheduledDate": 1795039200000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "News, Sports talk",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-11-18_SH033259060000_109832503473_2018-04-18T10:39:00Z_p186674_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Pardon the Interruption",
+      "episodeTitle": "",
+      "description": "Tony Kornheiser and Mike Wilbon have intense discussions and interview guests about the top headlines in news and sports.",
+      "scheduledDate": 1795041000000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Sports talk",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-11-18_SH032424080000_114840902253_2021-04-08T22:26:28Z_p186288_i_h8_ae/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "SportsCenter",
+      "episodeTitle": "",
+      "description": "The team deliver the latest news, highlights, and inside information from the wide world of sports, as well as trending topics across social media platforms.",
+      "scheduledDate": 1795042800000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "News, Sports talk",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-11-18_SH033259060000_109832503473_2018-04-18T10:39:00Z_p186674_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NFL Films Presents",
+      "episodeTitle": "Making History",
+      "description": "A unique perspective on the heroes and personalities of the NFL and how they influenced the history of the sport.",
+      "scheduledDate": 1795044600000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Football, Documentary",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-11-18_SH033308300000_115072052056_2026-09-18T18:36:12Z_p448767_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     }
   ]
 }

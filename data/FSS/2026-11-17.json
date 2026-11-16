@@ -2,8 +2,8 @@
   "channel": "FSS",
   "date": "2026-11-17",
   "source": "kayo",
-  "fetchedAt": 1794805991000,
-  "fetchedAtIST": "16/11/2026, 10:43:11 am",
+  "fetchedAt": 1794852014601,
+  "fetchedAtIST": "16/11/2026, 11:30:14 pm",
   "events": [
     {
       "programTitle": "To Be Announced",
@@ -17,6 +17,39 @@
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-11-16_SH027575020000_115365023510_2021-11-15T14:36:19Z_p514472_b_h8_dp/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
+      "programTitle": "Bowls",
+      "episodeTitle": "Bowls Premier League 24: Day 1",
+      "description": "",
+      "scheduledDate": 1794864600000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Bowling, Bowls",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-11-16_SH046610930000_115268482855_2023-03-13T13:30:43Z_p8381640_i_h10_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Bowls",
+      "episodeTitle": "Bowls Premier League 24: Day 2",
+      "description": "",
+      "scheduledDate": 1794868200000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Bowling, Bowls",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-11-16_SH046610930000_115268482855_2023-03-13T13:30:43Z_p8381640_i_h10_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Bowls",
+      "episodeTitle": "Bowls Premier League 24: Day 3",
+      "description": "",
+      "scheduledDate": 1794871800000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Bowling, Bowls",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-11-16_SH046610930000_115268482855_2023-03-13T13:30:43Z_p8381640_i_h10_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
       "programTitle": "To Be Announced",
       "episodeTitle": "",
       "description": "The programming for this time slot has yet to be determined and is being confirmed by the broadcast channel.",
@@ -28,26 +61,136 @@
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-11-17_SH027575020000_115365023510_2021-11-15T14:36:19Z_p514472_b_h8_dp/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "To Be Announced",
-      "episodeTitle": "",
-      "description": "The programming for this time slot has yet to be determined and is being confirmed by the broadcast channel.",
-      "scheduledDate": 1794888000000,
-      "duration": 240,
+      "programTitle": "Bowls",
+      "episodeTitle": "Bowls Premier League 24: Final Day",
+      "description": "",
+      "scheduledDate": 1794875400000,
+      "duration": 60,
       "parentalRating": "",
-      "programType": "TBA",
-      "genre": "Special, Entertainment",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-11-17_SH027575020000_115365023510_2021-11-15T14:36:19Z_p514472_b_h8_dp/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "programType": "Sports non-event",
+      "genre": "Bowling, Bowls",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-11-17_SH046610930000_115268482855_2023-03-13T13:30:43Z_p8381640_i_h10_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "To Be Announced",
-      "episodeTitle": "",
-      "description": "The programming for this time slot has yet to be determined and is being confirmed by the broadcast channel.",
-      "scheduledDate": 1794902400000,
-      "duration": 240,
+      "programTitle": "World Surf League Highlights",
+      "episodeTitle": "Trestles: Final Day",
+      "description": "Action from the World Surf League.",
+      "scheduledDate": 1794879000000,
+      "duration": 20,
       "parentalRating": "",
-      "programType": "TBA",
-      "genre": "Special, Entertainment",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-11-17_SH027575020000_115365023510_2021-11-15T14:36:19Z_p514472_b_h8_dp/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "programType": "Sports non-event",
+      "genre": "Surfing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-11-17_SH037137820000_107844260793_2023-03-28T14:37:31Z_p12753420_i_h8_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "WSL Tour",
+      "episodeTitle": "Championship Tour: MEO Rip Curl Pro Portugal",
+      "description": "Coverage of surfing action from the WSL.",
+      "scheduledDate": 1794880200000,
+      "duration": 20,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Surfing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-11-17_SH033247690000_110929981520_2019-03-19T05:40:29Z_p16589355_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "WSL Tour",
+      "episodeTitle": "Championship Tour: Philippines Pro",
+      "description": "Coverage of surfing action from the WSL.",
+      "scheduledDate": 1794881400000,
+      "duration": 20,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Surfing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-11-17_SH033247690000_110929981520_2019-03-19T05:40:29Z_p16589355_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "T100 Triathlon World Tour Highlights",
+      "episodeTitle": "Highlights - Dubai Men's",
+      "description": "Highlights and insights from the T100 Triathlon World Tour, where professional triathletes compete against each other to win the coveted title.",
+      "scheduledDate": 1794882600000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Triathlon",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-11-17_SH050906890000_113322875577_2024-04-05T08:23:57Z_p26765620_i_h8_ad/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "PSA World Tour Squash",
+      "episodeTitle": "2026 US Open",
+      "description": "Squash action from the PSA World Tour which involves over 200 tournaments annually all over the globe.",
+      "scheduledDate": 1794884400000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Squash",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-11-17_SH036328700000_115578557224_2019-03-27T13:40:40Z_p16708425_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Darts",
+      "episodeTitle": "Grand Slam of Darts: Day 3",
+      "description": "Covering of all the action from darts events around the world.",
+      "scheduledDate": 1794888000000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Darts",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-11-17_SH032967320000_115472606336_2024-10-04T13:14:55Z_p644283_i_h8_ah/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Teremoana vs. Ahio - Weigh In",
+      "episodeTitle": "",
+      "description": "Teremoana and Hemi Ahio hit the scales ahead of their fight in Melbourne.",
+      "scheduledDate": 1794895200000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Series",
+      "genre": "Boxing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/Fallback_LTV_103081/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Supercars Championship",
+      "episodeTitle": "Penrite Oil Sandown 500: Race 34",
+      "description": "Highlights and replays of classic races of the international motor racing series for Supercars.",
+      "scheduledDate": 1794898800000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Series",
+      "genre": "Auto racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-11-17_SH035728470000_113699461789_2018-12-17T21:00:00Z_p16276370_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Darts",
+      "episodeTitle": "Grand Slam of Darts: Day 3",
+      "description": "Covering of all the action from darts events around the world.",
+      "scheduledDate": 1794902400000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Darts",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-11-17_SH032967320000_115472606336_2024-10-04T13:14:55Z_p644283_i_h8_ah/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "PSA World Tour Squash",
+      "episodeTitle": "2026 US Open",
+      "description": "Squash action from the PSA World Tour which involves over 200 tournaments annually all over the globe.",
+      "scheduledDate": 1794909600000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Squash",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-11-17_SH036328700000_115578557224_2019-03-27T13:40:40Z_p16708425_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Darts",
+      "episodeTitle": "Grand Slam of Darts: Day 3",
+      "description": "Covering of all the action from darts events around the world.",
+      "scheduledDate": 1794913200000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Darts",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-11-17_SH032967320000_115472606336_2024-10-04T13:14:55Z_p644283_i_h8_ah/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "To Be Announced",
@@ -61,6 +204,28 @@
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-11-17_SH027575020000_115365023510_2021-11-15T14:36:19Z_p514472_b_h8_dp/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
+      "programTitle": "PGA Tour Golf",
+      "episodeTitle": "Austin Championship, Final Round",
+      "description": "From Omni Barton Creek Resort & Spa in Austin, Texas.",
+      "scheduledDate": 1794920400000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-11-17_EP030899371444_115679268824_2026-10-29T16:56:21Z_p34254304_b_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Darts",
+      "episodeTitle": "Grand Slam of Darts: Day 3",
+      "description": "Covering of all the action from darts events around the world.",
+      "scheduledDate": 1794927600000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Darts",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-11-17_SH032967320000_115472606336_2024-10-04T13:14:55Z_p644283_i_h8_ah/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
       "programTitle": "To Be Announced",
       "episodeTitle": "",
       "description": "The programming for this time slot has yet to be determined and is being confirmed by the broadcast channel.",
@@ -70,6 +235,28 @@
       "programType": "TBA",
       "genre": "Special, Entertainment",
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-11-17_SH027575020000_115365023510_2021-11-15T14:36:19Z_p514472_b_h8_dp/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NASCAR O'Reilly Auto Parts Series Highlights",
+      "episodeTitle": "Championship Race",
+      "description": "Highlights of the various races taking place at the NASCAR O'Reilly Auto Parts Series.",
+      "scheduledDate": 1794934800000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Auto racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-11-17_SH062934750000_114685964665_2026-10-27T00:15:05Z_p32273555_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NASCAR Cup Racing Series",
+      "episodeTitle": "Homestead-Miami Speedway",
+      "description": "Coverage of the NASCAR Cup Series, professional stock car racing in the United States.",
+      "scheduledDate": 1794938400000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Motorsports, Auto racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-11-17_SH056052770000_110216247140_2024-02-28T07:23:12Z_p8599472_i_h10_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     }
   ]
 }

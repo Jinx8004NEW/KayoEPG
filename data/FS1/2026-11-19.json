@@ -2,9 +2,53 @@
   "channel": "FS1",
   "date": "2026-11-19",
   "source": "kayo",
-  "fetchedAt": 1794805990938,
-  "fetchedAtIST": "16/11/2026, 10:43:10 am",
+  "fetchedAt": 1794852014554,
+  "fetchedAtIST": "16/11/2026, 11:30:14 pm",
   "events": [
+    {
+      "programTitle": "Inside Innovation",
+      "episodeTitle": "",
+      "description": "The latest highlights, reaction and analysis of the biggest sports stories from Australia and around the world.",
+      "scheduledDate": 1795026600000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Special",
+      "genre": "Special, Cricket",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-11-18_SH067018170000_115298885751_2026-11-07T06:58:09Z_p34558355_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "T20 Mini",
+      "episodeTitle": "2022 ICC Men's T20 Mini Match: Australia v England",
+      "description": "Condensed highlights and classic matches from T20 cricket matches.",
+      "scheduledDate": 1795028400000,
+      "duration": 20,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Cricket",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-11-18_SH036489390000_79559987170_2021-06-10T12:37:23Z_p18959790_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "T20 Mini",
+      "episodeTitle": "Eng v Aus Game 2",
+      "description": "Condensed highlights and classic matches from T20 cricket matches.",
+      "scheduledDate": 1795029600000,
+      "duration": 20,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Classic sport event, Cricket",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-11-18_SH036489390000_79559987170_2021-06-10T12:37:23Z_p18959790_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "T20 Cricket",
+      "episodeTitle": "2007: Australia v England, Game 1",
+      "description": "All the action and highlights from Twenty20 cricket matches.",
+      "scheduledDate": 1795030800000,
+      "duration": 50,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Cricket",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-11-18_SH033516560000_114889348974_2023-09-05T14:04:06Z_p8414564_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
     {
       "programTitle": "To Be Announced",
       "episodeTitle": "",
@@ -15,6 +59,72 @@
       "programType": "TBA",
       "genre": "Special, Entertainment",
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-11-18_SH027575020000_115365023510_2021-11-15T14:36:19Z_p514472_b_h8_dp/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Keepin' It Cricket",
+      "episodeTitle": "",
+      "description": "",
+      "scheduledDate": 1795033800000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Series",
+      "genre": "Cricket",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-11-18_SH065972560000_114556289044_2026-10-23T19:38:09Z_p34015117_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "One-Day International Cricket",
+      "episodeTitle": "3rd ODI: Australia v England",
+      "description": "Coverage of one-day cricket matches contested by international teams.",
+      "scheduledDate": 1795037400000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Cricket, Classic sport event",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-11-18_SH034583010000_115459994361_2026-03-24T13:16:18Z_p8509066_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "One-Day International Cricket",
+      "episodeTitle": "3rd ODI: Australia v England",
+      "description": "Coverage of one-day cricket matches contested by international teams.",
+      "scheduledDate": 1795041000000,
+      "duration": 20,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Cricket, Classic sport event",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-11-18_SH034583010000_115459994361_2026-03-24T13:16:18Z_p8509066_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "WBBL Mini",
+      "episodeTitle": "Adelaide Strikers v Sydney Sixers",
+      "description": "The latest highlights, reaction and analysis of the biggest sports stories from Australia and around the world.",
+      "scheduledDate": 1795042200000,
+      "duration": 20,
+      "parentalRating": "",
+      "programType": "Series",
+      "genre": "Cricket",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-11-18_SH048957470000_114999026223_2023-10-11T04:14:19Z_p25853183_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "One-Day International Cricket",
+      "episodeTitle": "3rd ODI: Australia v England",
+      "description": "Coverage of one-day cricket matches contested by international teams.",
+      "scheduledDate": 1795043400000,
+      "duration": 20,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Cricket, Classic sport event",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-11-18_SH034583010000_115459994361_2026-03-24T13:16:18Z_p8509066_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "One-Day International Cricket",
+      "episodeTitle": "3rd ODI: Australia v England",
+      "description": "Coverage of one-day cricket matches contested by international teams.",
+      "scheduledDate": 1795044600000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Cricket, Classic sport event",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-11-18_SH034583010000_115459994361_2026-03-24T13:16:18Z_p8509066_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     }
   ]
 }
