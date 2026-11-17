@@ -2,19 +2,63 @@
   "channel": "SP2",
   "date": "2026-11-20",
   "source": "kayo",
-  "fetchedAt": 1794919785505,
-  "fetchedAtIST": "17/11/2026, 6:19:45 pm",
+  "fetchedAt": 1794957746445,
+  "fetchedAtIST": "18/11/2026, 4:52:26 am",
   "events": [
     {
-      "programTitle": "To Be Announced",
-      "episodeTitle": "",
-      "description": "The programming for this time slot has yet to be determined and is being confirmed by the broadcast channel.",
-      "scheduledDate": 1795118400000,
-      "duration": 240,
+      "programTitle": "NRL",
+      "episodeTitle": "New Zealand Warriors vs Canberra Raiders",
+      "description": "From Go Media Stadium in Penrose, Auckland, New Zealand.",
+      "scheduledDate": 1795114800000,
+      "duration": 60,
       "parentalRating": "",
-      "programType": "TBA",
-      "genre": "Special, Entertainment",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-11-19_SH027575020000_115365023510_2021-11-15T14:36:19Z_p514472_b_h8_dp/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "programType": "Sports event",
+      "genre": "Rugby league, Rugby",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-11-19_EP031720961043_115741577987_2026-02-24T16:29:00Z_GNLZZGG002E4T84/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NRL",
+      "episodeTitle": "Sydney Roosters vs South Sydney Rabbitohs",
+      "description": "From Allianz Stadium in Sydney.",
+      "scheduledDate": 1795118400000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Rugby league, Rugby",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-11-19_EP031720961044_115736296943_2026-02-24T16:30:32Z_GNLZZGG002E6M1S/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NRL",
+      "episodeTitle": "Wests Tigers vs North Queensland Cowboys",
+      "description": "From Leichhardt Oval in Leichhardt, New South Wales, Australia.",
+      "scheduledDate": 1795122000000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Rugby league, Rugby",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-11-19_EP031720961045_115741577816_2026-02-24T18:14:20Z_GNLZZGG002E7P76/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NRL",
+      "episodeTitle": "St. George Illawarra Dragons vs Melbourne Storm",
+      "description": "From WIN Stadium in Wollongong, New South Wales, Australia.",
+      "scheduledDate": 1795125600000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Rugby league, Rugby",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-11-19_EP031720961046_115741577985_2026-02-24T18:14:54Z_GNLZZGG002E7SLF/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NRL",
+      "episodeTitle": "Penrith Panthers vs Cronulla-Sutherland Sharks",
+      "description": "From Carrington Park in Bathurst, New South Wales, Australia.",
+      "scheduledDate": 1795129200000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Rugby league, Rugby",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-11-19_EP031720961047_115741578071_2026-02-24T16:30:52Z_GNLZZGG002E6DCD/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     }
   ]
 }

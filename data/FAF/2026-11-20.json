@@ -2,8 +2,8 @@
   "channel": "FAF",
   "date": "2026-11-20",
   "source": "kayo",
-  "fetchedAt": 1794919785513,
-  "fetchedAtIST": "17/11/2026, 6:19:45 pm",
+  "fetchedAt": 1794957746459,
+  "fetchedAtIST": "18/11/2026, 4:52:26 am",
   "events": [
     {
       "programTitle": "AFL Women's Premiership",
@@ -28,15 +28,15 @@
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-11-19_EP029247970859_115453079183_2026-11-10T04:51:33Z_GNLZZGG003XCVKL/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "F",
-      "episodeTitle": "",
-      "description": "",
+      "programTitle": "AFL Draft",
+      "episodeTitle": "Day 1",
+      "description": "Coverage of the Australian Football League draft, where teams select unsigned players and newly nominating players.",
       "scheduledDate": 1795129200000,
       "duration": 120,
       "parentalRating": "",
-      "programType": "",
-      "genre": "",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/Fallback_LTV_103064/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "programType": "Sports non-event",
+      "genre": "Event, Australian rules football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-11-19_SH031036220000_115729093221_2018-11-27T09:00:00Z_p16279409_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     }
   ]
 }

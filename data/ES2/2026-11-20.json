@@ -2,8 +2,8 @@
   "channel": "ES2",
   "date": "2026-11-20",
   "source": "kayo",
-  "fetchedAt": 1794919785532,
-  "fetchedAtIST": "17/11/2026, 6:19:45 pm",
+  "fetchedAt": 1794957746486,
+  "fetchedAtIST": "18/11/2026, 4:52:26 am",
   "events": [
     {
       "programTitle": "College Football Live",
@@ -17,6 +17,39 @@
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-11-19_SH033651660000_114502000521_2017-12-12T23:22:00Z_p221266_i_h10_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
+      "programTitle": "In Depth With Graham Bensinger",
+      "episodeTitle": "Scott Boras",
+      "description": "Graham travels to Southern California to spend the day with legendary sports agent Scott Boras. The influential broker reflects on his early baseball career.",
+      "scheduledDate": 1795114800000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Series",
+      "genre": "Sports talk, Interview",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-11-19_EP033308670155_115741577983_2025-07-23T14:34:21Z_p30064662_e_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "In Depth With Graham Bensinger",
+      "episodeTitle": "Gary Player",
+      "description": "Renowned journalist Graham Bensinger interviews some of the biggest names in sports, discussing their lives and careers and some controversial topics.",
+      "scheduledDate": 1795116600000,
+      "duration": 25,
+      "parentalRating": "",
+      "programType": "Series",
+      "genre": "Sports talk, Interview",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-11-19_EP033308670109_115740241844_2022-06-08T01:35:47Z_p11184105_e_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "UEFA Women's Champions League",
+      "episodeTitle": "Arsenal vs. OL Lyonnes",
+      "description": "Coverage of the UEFA Women's Champions League.",
+      "scheduledDate": 1795118100000,
+      "duration": 125,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Soccer",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-11-19_EP032279220187_115739481578_2026-09-07T16:46:27Z_GNLZZGG003N2Z36/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
       "programTitle": "To Be Announced",
       "episodeTitle": "",
       "description": "The programming for this time slot has yet to be determined and is being confirmed by the broadcast channel.",
@@ -26,6 +59,17 @@
       "programType": "TBA",
       "genre": "Special, Entertainment",
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-11-19_SH027575020000_115365023510_2021-11-15T14:36:19Z_p514472_b_h8_dp/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "College Basketball",
+      "episodeTitle": "Players Era Eight, Fifth-Place Game: Teams TBA",
+      "description": "From Michelob ULTRA Arena in Las Vegas.",
+      "scheduledDate": 1795125600000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Basketball",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-11-19_SH066460660000_115684164859_2023-10-27T11:03:49Z_p191260_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     }
   ]
 }
