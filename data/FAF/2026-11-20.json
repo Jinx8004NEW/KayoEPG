@@ -1,0 +1,42 @@
+{
+  "channel": "FAF",
+  "date": "2026-11-20",
+  "source": "kayo",
+  "fetchedAt": 1794883671380,
+  "fetchedAtIST": "17/11/2026, 8:17:51 am",
+  "events": [
+    {
+      "programTitle": "AFL Women's Premiership",
+      "episodeTitle": "Geelong Cats vs Sydney Swans",
+      "description": "From GMHBA Stadium in South Geelong, Victoria, Australia.",
+      "scheduledDate": 1795118400000,
+      "duration": 90,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Playoff sports, Australian rules football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-11-19_EP029247970860_115453079230_2026-11-10T13:52:31Z_GNLZZGG003XDMPK/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "AFL Women's Premiership",
+      "episodeTitle": "Carlton Blues vs Hawthorn Hawks",
+      "description": "From IKON Park in Melbourne, Victoria, Australia.",
+      "scheduledDate": 1795123800000,
+      "duration": 90,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Playoff sports, Australian rules football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-11-19_EP029247970859_115453079183_2026-11-10T04:51:33Z_GNLZZGG003XCVKL/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "AFL Draft",
+      "episodeTitle": "Day 1",
+      "description": "Willem Duursma selected first, Richmond, Essendon, Melbourne, Carlton pick results from round 1.",
+      "scheduledDate": 1795129200000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Event, Australian rules football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-11-19_EP031036220014_115674850894_2025-11-19T06:55:38Z_p31677487_e_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    }
+  ]
+}

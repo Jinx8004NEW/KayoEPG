@@ -1,70 +1,15 @@
 {
   "channel": "FS3",
-  "date": "2026-11-16",
+  "date": "2026-11-17",
   "source": "kayo",
-  "fetchedAt": 1794852014565,
-  "fetchedAtIST": "16/11/2026, 11:30:14 pm",
+  "fetchedAt": 1794883671368,
+  "fetchedAtIST": "17/11/2026, 8:17:51 am",
   "events": [
     {
       "programTitle": "PGA Tour Golf",
       "episodeTitle": "Austin Championship, Final Round",
       "description": "From Omni Barton Creek Resort & Spa in Austin, Texas.",
-      "scheduledDate": 1794769200000,
-      "duration": 180,
-      "parentalRating": "",
-      "programType": "Sports event",
-      "genre": "Golf",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-11-15_EP030899371444_115572181276_2026-10-29T16:56:21Z_p34254304_b_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
-    {
-      "programTitle": "To Be Announced",
-      "episodeTitle": "",
-      "description": "The programming for this time slot has yet to be determined and is being confirmed by the broadcast channel.",
-      "scheduledDate": 1794772800000,
-      "duration": 240,
-      "parentalRating": "",
-      "programType": "TBA",
-      "genre": "Special, Entertainment",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-11-15_SH027575020000_115365023510_2021-11-15T14:36:19Z_p514472_b_h8_dp/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
-    {
-      "programTitle": "PGA Tour Champions Golf",
-      "episodeTitle": "Charles Schwab Cup Championship, Final Round",
-      "description": "From Phoenix Country Club in Phoenix.",
-      "scheduledDate": 1794774600000,
-      "duration": 210,
-      "parentalRating": "",
-      "programType": "Sports event",
-      "genre": "Golf",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-11-15_EP034248570398_115572181286_2025-10-21T15:24:20Z_p31400537_b_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
-    {
-      "programTitle": "PGA Tour Champions Golf",
-      "episodeTitle": "Charles Schwab Cup Championship, Final Round",
-      "description": "From Phoenix Country Club in Phoenix.",
-      "scheduledDate": 1794780000000,
-      "duration": 120,
-      "parentalRating": "",
-      "programType": "Sports event",
-      "genre": "Golf",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-11-15_EP034248570398_115572181286_2025-10-21T15:24:20Z_p31400537_b_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
-    {
-      "programTitle": "DP World Tour Golf",
-      "episodeTitle": "DP World Tour Championship, Final Round",
-      "description": "From Jumeirah Golf Estates in Dubai, United Arab Emirates.",
-      "scheduledDate": 1794787200000,
-      "duration": 120,
-      "parentalRating": "",
-      "programType": "Sports event",
-      "genre": "Golf",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-11-16_SH040914080000_115641473191_2026-11-15T08:25:21Z_p20993758_i_h10_ad/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
-    {
-      "programTitle": "PGA Tour Golf",
-      "episodeTitle": "Austin Championship, Final Round",
-      "description": "From Omni Barton Creek Resort & Spa in Austin, Texas.",
-      "scheduledDate": 1794794400000,
+      "scheduledDate": 1794857400000,
       "duration": 120,
       "parentalRating": "",
       "programType": "Sports event",
@@ -72,43 +17,10 @@
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-11-16_EP030899371444_115572181276_2026-10-29T16:56:21Z_p34254304_b_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "PGA Tour Golf Mini",
-      "episodeTitle": "Austin Championship Final Round",
-      "description": "A collection of special condensed replays featuring the best highlights and all the key moments from the course.",
-      "scheduledDate": 1794801600000,
-      "duration": 20,
-      "parentalRating": "",
-      "programType": "Sports non-event",
-      "genre": "Golf",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-11-16_SH047874460000_101769826726_2023-06-23T09:17:39Z_p25047305_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
-    {
-      "programTitle": "LPGA Tour Golf",
-      "episodeTitle": "The Annika, Final Round",
-      "description": "From Pelican Golf Club in Belleair, Fla.",
-      "scheduledDate": 1794802800000,
-      "duration": 120,
-      "parentalRating": "",
-      "programType": "Sports event",
-      "genre": "Golf",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-11-16_SH031583890000_109900390814_2025-12-31T05:35:12Z_p767017_i_h8_af/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
-    {
-      "programTitle": "PGA Tour Golf Mini",
-      "episodeTitle": "Austin Championship Final Round",
-      "description": "A collection of special condensed replays featuring the best highlights and all the key moments from the course.",
-      "scheduledDate": 1794810000000,
-      "duration": 20,
-      "parentalRating": "",
-      "programType": "Sports non-event",
-      "genre": "Golf",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-11-16_SH047874460000_101769826726_2023-06-23T09:17:39Z_p25047305_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
-    {
       "programTitle": "How Good is Golf",
-      "episodeTitle": "",
+      "episodeTitle": "Royal Hobart Golf Club",
       "description": "Paul Gow talks everything golf, taking people through the greatest game of all, showing them how to play, where to play and what equipment to use.",
-      "scheduledDate": 1794811200000,
+      "scheduledDate": 1794862800000,
       "duration": 30,
       "parentalRating": "",
       "programType": "Sports non-event",
@@ -116,59 +28,114 @@
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-11-16_SH047697570000_112826563949_2026-01-16T17:55:26Z_p24911210_i_h10_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "PGA Tour Golf Mini",
-      "episodeTitle": "Austin Championship Final Round",
-      "description": "A collection of special condensed replays featuring the best highlights and all the key moments from the course.",
-      "scheduledDate": 1794813000000,
-      "duration": 20,
+      "programTitle": "DP World Tour Golf",
+      "episodeTitle": "DP World Tour Championship, Final Round",
+      "description": "From Jumeirah Golf Estates in Dubai, United Arab Emirates.",
+      "scheduledDate": 1794864600000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-11-16_SH040914080000_115641473191_2026-11-15T08:25:21Z_p20993758_i_h10_ad/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "WTGL",
+      "episodeTitle": "Motor City Golf Club v Los Angeles Golf Club",
+      "description": "",
+      "scheduledDate": 1794871800000,
+      "duration": 90,
       "parentalRating": "",
       "programType": "Sports non-event",
       "genre": "Golf",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-11-16_SH047874460000_101769826726_2023-06-23T09:17:39Z_p25047305_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-11-16_SH066911130000_115578556206_2026-10-27T13:15:13Z_p34457857_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "WTGL",
+      "episodeTitle": "Boston Common Golf Club v Motor City Golf Club",
+      "description": "",
+      "scheduledDate": 1794877200000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-11-17_SH066911130000_115578556206_2026-10-27T13:15:13Z_p34457857_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "LPGA Tour Golf",
+      "episodeTitle": "The Annika, Final Round",
+      "description": "From Pelican Golf Club in Belleair, Fla.",
+      "scheduledDate": 1794884400000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-11-17_EP031583890739_115679231110_2026-11-11T11:27:31Z_GNLZZGG003XMHBZ/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Legends Tour Highlights",
+      "episodeTitle": "2026 Portugal Legends",
+      "description": "The best moments and analysis from this year's senior tour.",
+      "scheduledDate": 1794891600000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-11-17_SH039624520000_107151323978_2020-09-28T06:30:59Z_p18780386_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "DP World Tour Highlights",
+      "episodeTitle": "",
+      "description": "",
+      "scheduledDate": 1794895200000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-11-17_SH042728730000_105753336739_2022-04-14T18:06:06Z_p21832098_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Asian Tour Highlights",
+      "episodeTitle": "Philippine Open",
+      "description": "Recapping golf action from the Asian Tour.",
+      "scheduledDate": 1794897000000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-11-17_SH048468780000_106750578419_2022-10-06T14:37:27Z_p18013001_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "Test Cricket",
       "episodeTitle": "South Africa vs Bangladesh",
       "description": "Coverage of Test cricket matches contested by international teams.",
-      "scheduledDate": 1794814200000,
+      "scheduledDate": 1794900600000,
       "duration": 480,
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Cricket",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-11-16_EP029804991951_115593848057_2026-10-27T22:58:37Z_GNLZZGG003V9QY5/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-11-17_EP029804991952_115593899150_2026-10-27T23:00:51Z_GNLZZGG003V9E82/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "2026 TOUR Championship",
-      "episodeTitle": "Final Round",
-      "description": "From East Lake Golf Club in Atlanta.",
-      "scheduledDate": 1794843000000,
+      "programTitle": "DP World Tour Golf",
+      "episodeTitle": "Alfred Dunhill Links Championship, Final Round",
+      "description": "From The Old Course at St. Andrews in Fife, Scotland.",
+      "scheduledDate": 1794929400000,
       "duration": 120,
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Golf",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-11-16_EP065760920004_115578557643_2026-09-24T09:25:53Z_GNLZZGG003PZKJC/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-11-17_EP040914080612_115578557214_2026-10-01T17:23:19Z_GNLZZGG003R9BZH/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "PGA Tour Golf",
-      "episodeTitle": "Austin Championship, Final Round",
-      "description": "From Omni Barton Creek Resort & Spa in Austin, Texas.",
-      "scheduledDate": 1794848400000,
-      "duration": 240,
-      "parentalRating": "",
-      "programType": "Sports event",
-      "genre": "Golf",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-11-16_EP030899371444_115679268824_2026-10-29T16:56:21Z_p34254304_b_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
-    {
-      "programTitle": "PGA Tour Highlights",
-      "episodeTitle": "Sony Open in Hawaii",
-      "description": "Highlights from PGA Tour events featuring the world's best golfers in action. Hosts track the progression of the game while reviewing the changes in technologies and techniques.",
-      "scheduledDate": 1794850200000,
+      "programTitle": "DP World Tour Golf",
+      "episodeTitle": "Acciona Open de España, Final Round",
+      "description": "From Club de Campo Villa de Madrid in Madrid.",
+      "scheduledDate": 1794936600000,
       "duration": 120,
       "parentalRating": "",
       "programType": "Sports event",
-      "genre": "Classic sport event, Golf",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-11-16_SH032355110000_114391477483_2023-03-16T12:30:24Z_p9060599_i_h10_ae/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-11-17_EP040914080124_115578557685_2022-09-09T15:08:28Z_p22820691_b_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     }
   ]
 }

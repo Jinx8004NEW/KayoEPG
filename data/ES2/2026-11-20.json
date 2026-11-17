@@ -1,0 +1,31 @@
+{
+  "channel": "ES2",
+  "date": "2026-11-20",
+  "source": "kayo",
+  "fetchedAt": 1794883671420,
+  "fetchedAtIST": "17/11/2026, 8:17:51 am",
+  "events": [
+    {
+      "programTitle": "College Football Live",
+      "episodeTitle": "",
+      "description": "Breaking news, analysis, features, roundtable discussions, and interviews covering all the latest events from the world of college football.",
+      "scheduledDate": 1795113000000,
+      "duration": 90,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Football, News",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-11-19_SH033651660000_114502000521_2017-12-12T23:22:00Z_p221266_i_h10_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "To Be Announced",
+      "episodeTitle": "",
+      "description": "The programming for this time slot has yet to be determined and is being confirmed by the broadcast channel.",
+      "scheduledDate": 1795118400000,
+      "duration": 240,
+      "parentalRating": "",
+      "programType": "TBA",
+      "genre": "Special, Entertainment",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-11-19_SH027575020000_115365023510_2021-11-15T14:36:19Z_p514472_b_h8_dp/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    }
+  ]
+}
