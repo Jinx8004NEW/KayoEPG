@@ -2,8 +2,8 @@
   "channel": "ES2",
   "date": "2026-11-19",
   "source": "kayo",
-  "fetchedAt": 1794883671420,
-  "fetchedAtIST": "17/11/2026, 8:17:51 am",
+  "fetchedAt": 1794919785532,
+  "fetchedAtIST": "17/11/2026, 6:19:45 pm",
   "events": [
     {
       "programTitle": "Big Day With Peter Schrager",
@@ -219,7 +219,7 @@
       "episodeTitle": "2026-27: Denver Nuggets at Boston Celtics",
       "description": "A collection of special condensed replays featuring the best highlights and all the key moments on the court.",
       "scheduledDate": 1795096800000,
-      "duration": 30,
+      "duration": 60,
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Classic sport event, Basketball",
@@ -240,12 +240,34 @@
       "programTitle": "Get Up",
       "episodeTitle": "",
       "description": "Mike Greenberg, Laura Rutledge and Jalen Rose discuss and analyse the latest news from the world of sports.",
+      "scheduledDate": 1795100400000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Sports talk",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-11-19_SH033268270000_115655397261_2026-03-24T04:04:44Z_p15158780_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Get Up",
+      "episodeTitle": "",
+      "description": "Mike Greenberg, Laura Rutledge and Jalen Rose discuss and analyse the latest news from the world of sports.",
       "scheduledDate": 1795105800000,
       "duration": 120,
       "parentalRating": "",
       "programType": "Sports non-event",
       "genre": "Sports talk",
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-11-19_SH033268270000_115655397261_2026-03-24T04:04:44Z_p15158780_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "First Take",
+      "episodeTitle": "",
+      "description": "Stephen A. Smith joins Molly Qerim Rose to debate the hottest topics in sports.",
+      "scheduledDate": 1795107600000,
+      "duration": 180,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Sports talk, News, Debate",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-11-19_SH033280060000_108193810385_2025-11-07T06:36:14Z_p186291_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     }
   ]
 }

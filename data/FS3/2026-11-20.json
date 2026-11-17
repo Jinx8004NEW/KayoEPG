@@ -2,19 +2,41 @@
   "channel": "FS3",
   "date": "2026-11-20",
   "source": "kayo",
-  "fetchedAt": 1794883671372,
-  "fetchedAtIST": "17/11/2026, 8:17:51 am",
+  "fetchedAt": 1794919785508,
+  "fetchedAtIST": "17/11/2026, 6:19:45 pm",
   "events": [
     {
-      "programTitle": "To Be Announced",
-      "episodeTitle": "",
-      "description": "The programming for this time slot has yet to be determined and is being confirmed by the broadcast channel.",
+      "programTitle": "DP World Tour Golf",
+      "episodeTitle": "DP World Tour Championship, Final Round",
+      "description": "From Jumeirah Golf Estates in Dubai, United Arab Emirates.",
       "scheduledDate": 1795118400000,
-      "duration": 240,
+      "duration": 120,
       "parentalRating": "",
-      "programType": "TBA",
-      "genre": "Special, Entertainment",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-11-19_SH027575020000_115365023510_2021-11-15T14:36:19Z_p514472_b_h8_dp/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "programType": "Sports event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-11-19_SH040914080000_115641473191_2026-11-15T08:25:21Z_p20993758_i_h10_ad/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "PGA Tour Golf",
+      "episodeTitle": "RSM Classic, First Round",
+      "description": "From Sea Island Golf Club - Seaside Course in Sea Island, Ga.",
+      "scheduledDate": 1795125600000,
+      "duration": 90,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-11-19_EP030899370158_115684165987_2020-10-09T20:40:26Z_p18859730_b_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "LPGA Tour Golf",
+      "episodeTitle": "The Annika, Final Round",
+      "description": "From Pelican Golf Club in Belleair, Fla.",
+      "scheduledDate": 1795131000000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-11-19_EP031583890739_115679231110_2026-11-11T11:27:31Z_GNLZZGG003XMHBZ/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     }
   ]
 }
