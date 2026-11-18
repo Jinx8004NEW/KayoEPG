@@ -1,0 +1,42 @@
+{
+  "channel": "FAF",
+  "date": "2026-11-21",
+  "source": "kayo",
+  "fetchedAt": 1794982706043,
+  "fetchedAtIST": "18/11/2026, 11:48:26 am",
+  "events": [
+    {
+      "programTitle": "AFL Women's Premiership",
+      "episodeTitle": "Carlton Blues vs Hawthorn Hawks",
+      "description": "From IKON Park in Melbourne, Victoria, Australia.",
+      "scheduledDate": 1795203000000,
+      "duration": 90,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Playoff sports, Australian rules football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-11-20_EP029247970859_115453079183_2026-11-10T04:51:33Z_GNLZZGG003XCVKL/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "AFL Draft",
+      "episodeTitle": "Day 2",
+      "description": "Coverage of the Australian Football League draft, where teams select unsigned players and newly nominating players.",
+      "scheduledDate": 1795208400000,
+      "duration": 150,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Event, Australian rules football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-11-20_SH031036220000_115729093221_2018-11-27T09:00:00Z_p16279409_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "AFL Women's Premiership",
+      "episodeTitle": "Geelong Cats vs Sydney Swans",
+      "description": "From GMHBA Stadium in South Geelong, Victoria, Australia.",
+      "scheduledDate": 1795217400000,
+      "duration": 90,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Playoff sports, Australian rules football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-11-20_EP029247970860_115453079230_2026-11-10T13:52:31Z_GNLZZGG003XDMPK/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    }
+  ]
+}

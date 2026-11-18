@@ -1,0 +1,64 @@
+{
+  "channel": "SPS",
+  "date": "2026-11-21",
+  "source": "kayo",
+  "fetchedAt": 1794982706055,
+  "fetchedAtIST": "18/11/2026, 11:48:26 am",
+  "events": [
+    {
+      "programTitle": "Getting a Round In",
+      "episodeTitle": "Season Review",
+      "description": "Australian professional golfer, Paul Gow hosts celebrities as his playing partners who share his love for the game of golf.",
+      "scheduledDate": 1795199400000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Series",
+      "genre": "Golf, Interview",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-11-20_SH048121120000_110998856207_2023-07-18T05:56:16Z_p25221374_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "LPGA Tour Golf",
+      "episodeTitle": "CME Group Tour Championship, Second Round",
+      "description": "From Tiburon Golf Club in Naples, Fla.",
+      "scheduledDate": 1795201200000,
+      "duration": 180,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-11-20_EP031583890741_115800914560_2026-11-03T11:23:39Z_GNLZZGG003WMBH0/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "F2: Chasing the Dream",
+      "episodeTitle": "Azerbaijan",
+      "description": "Follows the journey of professional racers as they compete for the F2 championship, and highlights some of the best moments from the races.",
+      "scheduledDate": 1795212000000,
+      "duration": 15,
+      "parentalRating": "",
+      "programType": "Series",
+      "genre": "Documentary, Auto racing, Motorsports",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-11-20_EP047243960041_115774745956_2026-11-17T15:17:58Z_p31253830_e_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Formula 1",
+      "episodeTitle": "Las Vegas Grand Prix, Practice 2",
+      "description": "From Las Vegas Strip Street Circuit in Las Vegas.",
+      "scheduledDate": 1795212900000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Auto racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-11-20_EP027326820779_115729093218_2025-10-24T19:24:53Z_p28981661_b_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "The F1 Show",
+      "episodeTitle": "Las Vegas",
+      "description": "A look at the latest and greatest of Formula 1, from track stories to features, highlighting the experiences on and off of the track.",
+      "scheduledDate": 1795216500000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Auto racing, Sports talk",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-11-20_SH029317340000_103666898102_2018-10-16T09:21:00Z_p9108923_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    }
+  ]
+}

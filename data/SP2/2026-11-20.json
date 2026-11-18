@@ -2,8 +2,8 @@
   "channel": "SP2",
   "date": "2026-11-20",
   "source": "kayo",
-  "fetchedAt": 1794957746445,
-  "fetchedAtIST": "18/11/2026, 4:52:26 am",
+  "fetchedAt": 1794982706029,
+  "fetchedAtIST": "18/11/2026, 11:48:26 am",
   "events": [
     {
       "programTitle": "NRL",
@@ -59,6 +59,94 @@
       "programType": "Sports event",
       "genre": "Rugby league, Rugby",
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-11-19_EP031720961047_115741578071_2026-02-24T16:30:52Z_GNLZZGG002E6DCD/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "SIGN OFF",
+      "episodeTitle": "",
+      "description": "Sign off.",
+      "scheduledDate": 1795132800000,
+      "duration": 480,
+      "parentalRating": "",
+      "programType": "Off Air",
+      "genre": "Special",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-11-20_SH000191120000_114634091599_2026-10-26T00:18:19Z_p480440_i_h8_ai/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "SIGN OFF",
+      "episodeTitle": "",
+      "description": "Sign off.",
+      "scheduledDate": 1795161600000,
+      "duration": 300,
+      "parentalRating": "",
+      "programType": "Off Air",
+      "genre": "Special",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-11-20_SH000191120000_114634091599_2026-10-26T00:18:19Z_p480440_i_h8_ai/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NRL",
+      "episodeTitle": "Manly-Warringah Sea Eagles vs Newcastle Knights",
+      "description": "From 4 Pines Park in Brookvale, New South Wales, Australia.",
+      "scheduledDate": 1795179600000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Rugby league, Rugby",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-11-20_EP031720961048_115743037885_2026-02-24T20:09:23Z_GNLZZGG002E8HRQ/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NRL",
+      "episodeTitle": "Penrith Panthers vs Cronulla-Sutherland Sharks",
+      "description": "From Carrington Park in Bathurst, New South Wales, Australia.",
+      "scheduledDate": 1795183200000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Rugby league, Rugby",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-11-20_EP031720961047_115741578071_2026-02-24T16:30:52Z_GNLZZGG002E6DCD/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NRL",
+      "episodeTitle": "Canberra Raiders vs Canterbury-Bankstown Bulldogs",
+      "description": "From GIO Stadium Canberra in Bruce, Australian Capital Territory, Australia.",
+      "scheduledDate": 1795186800000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Rugby league, Rugby",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-11-20_EP031720961050_115742487880_2026-02-24T16:32:01Z_GNLZZGG002E1N7J/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NRL",
+      "episodeTitle": "Sydney Roosters vs Penrith Panthers",
+      "description": "From Allianz Stadium in Sydney.",
+      "scheduledDate": 1795190400000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Rugby league, Rugby",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-11-20_EP031720961051_115757263680_2026-02-23T22:25:59Z_GNLZZGG002YTD50/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NRL",
+      "episodeTitle": "Melbourne Storm vs Brisbane Broncos",
+      "description": "From AAMI Park in Melbourne City, Victoria, Australia.",
+      "scheduledDate": 1795194000000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Rugby league, Rugby",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-11-20_EP031720961052_115742349468_2026-02-24T08:12:07Z_GNLZZGG002YYEBR/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NRL",
+      "episodeTitle": "Newcastle Knights vs New Zealand Warriors",
+      "description": "From McDonald Jones Stadium in Newcastle, New South Wales, Australia.",
+      "scheduledDate": 1795197600000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Rugby league, Rugby",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-11-20_EP031720961053_115742517633_2026-02-24T08:14:04Z_GNLZZGG002YYZT6/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     }
   ]
 }

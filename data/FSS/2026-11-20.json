@@ -2,8 +2,8 @@
   "channel": "FSS",
   "date": "2026-11-20",
   "source": "kayo",
-  "fetchedAt": 1794957746476,
-  "fetchedAtIST": "18/11/2026, 4:52:26 am",
+  "fetchedAt": 1794982706060,
+  "fetchedAtIST": "18/11/2026, 11:48:26 am",
   "events": [
     {
       "programTitle": "Legends Tour Highlights",
@@ -69,7 +69,150 @@
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Golf",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-11-19_EP040914080740_115741578052_2026-11-10T23:24:39Z_GNLZZGG003XHQXC/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-11-19_EP040914080740_115785319235_2026-11-10T23:24:39Z_GNLZZGG003XHQXC/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "PGA Tour Golf",
+      "episodeTitle": "The RSM Classic, First Round",
+      "description": "From Sea Island Golf Club - Seaside Course in Sea Island, Ga.",
+      "scheduledDate": 1795132800000,
+      "duration": 90,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-11-20_EP030899370745_115757263991_2023-10-24T21:53:44Z_p25837616_b_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "European PGA Tour Highlights",
+      "episodeTitle": "World Tour Championship, First Round",
+      "description": "All the action and highlights from European Tour golf.",
+      "scheduledDate": 1795138200000,
+      "duration": 90,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-11-20_SH037026900000_114410019874_2022-09-05T13:56:59Z_p9656797_i_h10_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Golf",
+      "episodeTitle": "Ford NSW Open: Final Round",
+      "description": "Coverage of golf tournaments from around the world.",
+      "scheduledDate": 1795143600000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-11-20_SH028182050000_112685941224_2024-05-13T05:23:51Z_p9232187_i_h8_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Darts",
+      "episodeTitle": "Grand Slam of Darts - Day 6",
+      "description": "Covering of all the action from darts events around the world.",
+      "scheduledDate": 1795147200000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Darts",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-11-20_SH032967320000_115472606336_2024-10-04T13:14:55Z_p644283_i_h8_ah/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "European PGA Tour Highlights",
+      "episodeTitle": "World Tour Championship, First Round",
+      "description": "All the action and highlights from European Tour golf.",
+      "scheduledDate": 1795154400000,
+      "duration": 90,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-11-20_SH037026900000_114410019874_2022-09-05T13:56:59Z_p9656797_i_h10_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Getting a Round In",
+      "episodeTitle": "Season Review",
+      "description": "Australian professional golfer, Paul Gow hosts celebrities as his playing partners who share his love for the game of golf.",
+      "scheduledDate": 1795159800000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Series",
+      "genre": "Golf, Interview",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-11-20_SH048121120000_110998856207_2023-07-18T05:56:16Z_p25221374_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Baseball",
+      "episodeTitle": "Southern Stars & Stripes Shield: Melbourne Aces v Black Sox",
+      "description": "Coverage of baseball games around the world.",
+      "scheduledDate": 1795161600000,
+      "duration": 180,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Baseball",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-11-20_SH032351780000_104868103083_2023-06-08T12:17:01Z_p3589824_i_h8_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Darts",
+      "episodeTitle": "Grand Slam of Darts - Day 6",
+      "description": "Covering of all the action from darts events around the world.",
+      "scheduledDate": 1795172400000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Darts",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-11-20_SH032967320000_115472606336_2024-10-04T13:14:55Z_p644283_i_h8_ah/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Formula 1",
+      "episodeTitle": "Las Vegas Grand Prix, Practice 1",
+      "description": "From Las Vegas Strip Street Circuit in Las Vegas.",
+      "scheduledDate": 1795179600000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Auto racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-11-20_EP027326820659_115743916082_2024-11-04T19:53:45Z_p26048093_b_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Formula 1",
+      "episodeTitle": "Las Vegas Grand Prix, Practice 2",
+      "description": "From Las Vegas Strip Street Circuit in Las Vegas.",
+      "scheduledDate": 1795183200000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Auto racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-11-20_EP027326820656_115743172283_2024-11-04T19:53:46Z_p26048096_b_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Darts",
+      "episodeTitle": "Grand Slam of Darts - Day 6",
+      "description": "Covering of all the action from darts events around the world.",
+      "scheduledDate": 1795186800000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Darts",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-11-20_SH032967320000_115472606336_2024-10-04T13:14:55Z_p644283_i_h8_ah/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "MotoGP Factory Floor",
+      "episodeTitle": "Catalunya",
+      "description": "",
+      "scheduledDate": 1795194000000,
+      "duration": 15,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Other",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-11-20_SH066366900000_115684164793_2026-10-23T19:36:16Z_p34191874_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Saudi League Soccer",
+      "episodeTitle": "Al Ahli vs Al Nassr",
+      "description": "From Alinma Stadium in Jeddah, Saudi Arabia.",
+      "scheduledDate": 1795194900000,
+      "duration": 165,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Soccer",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-11-20_EP047234160906_115745881172_2026-08-24T16:55:14Z_GNLZZGG003J5643/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     }
   ]
 }

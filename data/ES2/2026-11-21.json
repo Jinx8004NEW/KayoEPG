@@ -1,0 +1,64 @@
+{
+  "channel": "ES2",
+  "date": "2026-11-21",
+  "source": "kayo",
+  "fetchedAt": 1794982706073,
+  "fetchedAtIST": "18/11/2026, 11:48:26 am",
+  "events": [
+    {
+      "programTitle": "The Breakdown With Peyton and Kuechly",
+      "episodeTitle": "Episode 6",
+      "description": "",
+      "scheduledDate": 1795201200000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-11-20_SH066422700000_115744330214_2026-09-24T21:55:05Z_p34154641_i_h10_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "College Field Hockey",
+      "episodeTitle": "NCAA Tournament: UConn vs. Northwestern",
+      "description": "From Trager Stadium in Louisville, Ky.",
+      "scheduledDate": 1795203000000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Playoff sports, Field hockey",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-11-20_EP038912861052_115748853957_2026-11-16T16:59:55Z_GNLZZGG003XKT8S/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "In Depth With Graham Bensinger",
+      "episodeTitle": "Danica Patrick",
+      "description": "Danica Patrick discusses discrimination throughout her career, firing her parents after pressure from her ex-husband, her 2017 retirement, and her present-day ventures from health and wellness to wine.",
+      "scheduledDate": 1795210200000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Series",
+      "genre": "Sports talk, Interview",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-11-20_EP033308670027_115746722022_2025-08-11T17:54:26Z_p16193669_e_h11_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Ball or Nothin'",
+      "episodeTitle": "",
+      "description": "",
+      "scheduledDate": 1795212000000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Basketball",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-11-20_SH066608350000_114796305168_2026-10-23T07:25:17Z_p34357847_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "College Basketball",
+      "episodeTitle": "Dayton vs Utah",
+      "description": "From TD Arena in Charleston, S.C.",
+      "scheduledDate": 1795213800000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Basketball",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-11-20_EP066460660951_115767714259_2026-10-22T02:17:20Z_GNLZZGG003T8GYY/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    }
+  ]
+}
