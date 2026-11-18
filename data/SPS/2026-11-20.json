@@ -2,8 +2,8 @@
   "channel": "SPS",
   "date": "2026-11-20",
   "source": "kayo",
-  "fetchedAt": 1794982706054,
-  "fetchedAtIST": "18/11/2026, 11:48:26 am",
+  "fetchedAt": 1795021140119,
+  "fetchedAtIST": "18/11/2026, 10:29:00 pm",
   "events": [
     {
       "programTitle": "LPGA Tour Golf",
@@ -69,7 +69,7 @@
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Auto racing",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-11-20_EP027326820891_115757264015_2026-11-05T15:23:04Z_GNLZZGG003WYKE4/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-11-20_EP027326820891_115825805556_2026-11-05T15:23:04Z_GNLZZGG003WYKE4/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "F1 Academy",
@@ -109,7 +109,7 @@
       "episodeTitle": "Las Vegas, Qualifying",
       "description": "From Las Vegas Strip Street Circuit in Las Vegas.",
       "scheduledDate": 1795152480000,
-      "duration": 42,
+      "duration": 47,
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Auto racing",
@@ -120,6 +120,17 @@
       "episodeTitle": "Las Vegas",
       "description": "A look at the latest and greatest of Formula 1, from track stories to features, highlighting the experiences on and off of the track.",
       "scheduledDate": 1795155000000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Auto racing, Sports talk",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-11-20_SH029317340000_103666898102_2018-10-16T09:21:00Z_p9108923_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "The F1 Show",
+      "episodeTitle": "Las Vegas",
+      "description": "A look at the latest and greatest of Formula 1, from track stories to features, highlighting the experiences on and off of the track.",
+      "scheduledDate": 1795155300000,
       "duration": 60,
       "parentalRating": "",
       "programType": "Sports non-event",
@@ -138,6 +149,17 @@
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-11-20_EP027326820778_115743577646_2025-10-31T19:14:40Z_p28981658_b_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
+      "programTitle": "Formula 1",
+      "episodeTitle": "Las Vegas Grand Prix, Practice 1",
+      "description": "From Las Vegas Strip Street Circuit in Las Vegas.",
+      "scheduledDate": 1795158900000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Auto racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-11-20_EP027326820778_115743577646_2025-10-31T19:14:40Z_p28981658_b_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
       "programTitle": "F2: Where F1 Stars are made",
       "episodeTitle": "",
       "description": "",
@@ -149,6 +171,17 @@
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-11-20_SH067197690000_115738874951_2026-11-13T07:00:38Z_p34608046_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
+      "programTitle": "F2: Where F1 Stars are made",
+      "episodeTitle": "",
+      "description": "Stories and insights from voices across the F1 Paddock including Champions, current F1 drivers, and Team Principles as they look back at the moments that moulded the future champions of F1.",
+      "scheduledDate": 1795162500000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Special, Motorsports",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-11-20_SH067197690000_115833399831_2026-11-13T07:00:38Z_p34608046_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
       "programTitle": "MotoGP Racing",
       "episodeTitle": "Inside Ducati: Qatar",
       "description": "Action from MotoGP racing.",
@@ -158,6 +191,17 @@
       "programType": "Sports event",
       "genre": "Family, Classic sport event, Motorcycle racing",
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-11-20_SH035853180000_114543852884_2017-10-24T00:43:00Z_p445588_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "MotoGP Factory Floor",
+      "episodeTitle": "Qatar",
+      "description": "",
+      "scheduledDate": 1795164300000,
+      "duration": 10,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Other",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-11-20_SH066366900000_115684164793_2026-10-23T19:36:16Z_p34191874_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "Moto3 GP Racing",
