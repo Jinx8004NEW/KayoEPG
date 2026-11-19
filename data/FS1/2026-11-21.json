@@ -2,8 +2,8 @@
   "channel": "FS1",
   "date": "2026-11-21",
   "source": "kayo",
-  "fetchedAt": 1795052704693,
-  "fetchedAtIST": "19/11/2026, 7:15:04 am",
+  "fetchedAt": 1795091632219,
+  "fetchedAtIST": "19/11/2026, 6:03:52 pm",
   "events": [
     {
       "programTitle": "Inside Innovation",
@@ -30,7 +30,7 @@
     {
       "programTitle": "Keepin' It Cricket",
       "episodeTitle": "",
-      "description": "",
+      "description": "Matt Renshaw joins Adam Peacock to discuss his Test comeback, overcoming setbacks and rediscovering his love for cricket.",
       "scheduledDate": 1795204800000,
       "duration": 60,
       "parentalRating": "",
@@ -98,7 +98,7 @@
       "episodeTitle": "Adelaide Strikers v Melbourne Renegades",
       "description": "The latest highlights, reaction and analysis of the biggest sports stories from Australia and around the world.",
       "scheduledDate": 1795221600000,
-      "duration": 15,
+      "duration": 17,
       "parentalRating": "",
       "programType": "Series",
       "genre": "Cricket",
@@ -110,6 +110,17 @@
       "description": "From Ninja Stadium in Hobart, Tasmania, Australia.",
       "scheduledDate": 1795222500000,
       "duration": 185,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Cricket",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-11-21_EP029371060407_115818962364_2026-11-11T14:04:40Z_GNLZZGG003XMX21/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Women's Big Bash League",
+      "episodeTitle": "Hobart Hurricanes vs Sydney Thunder",
+      "description": "From Ninja Stadium in Hobart, Tasmania, Australia.",
+      "scheduledDate": 1795222620000,
+      "duration": 183,
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Cricket",
@@ -173,13 +184,13 @@
     {
       "programTitle": "Spin Kings - Nathan Lyon v Kerry O'Keeffe",
       "episodeTitle": "",
-      "description": "",
+      "description": "Australian off-spin icon Nathan Lyon and legendary leg-spinner Kerry O'Keeffe sit down for an exclusive, candid chat covering spin bowling, iconic moments and all things cricket.",
       "scheduledDate": 1795261200000,
       "duration": 30,
       "parentalRating": "",
       "programType": "Special",
       "genre": "Special, Cricket",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/Fallback_LTV_103068/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-11-21_SH067218280000_115867179854_2026-11-19T07:21:41Z_p34653046_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "WBBL Mini",

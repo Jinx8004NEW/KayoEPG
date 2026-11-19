@@ -2,8 +2,8 @@
   "channel": "SPS",
   "date": "2026-11-20",
   "source": "kayo",
-  "fetchedAt": 1795052704732,
-  "fetchedAtIST": "19/11/2026, 7:15:04 am",
+  "fetchedAt": 1795091632250,
+  "fetchedAtIST": "19/11/2026, 6:03:52 pm",
   "events": [
     {
       "programTitle": "LPGA Tour Golf",
@@ -14,7 +14,7 @@
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Golf",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-11-19_EP031583890740_115793783669_2026-11-03T11:23:23Z_GNLZZGG003WMBFQ/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-11-19_EP031583890740_115872929763_2026-11-03T11:23:23Z_GNLZZGG003WMBFQ/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "To Be Announced",
@@ -69,18 +69,29 @@
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Auto racing",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-11-20_EP027326820891_115825805556_2026-11-05T15:23:04Z_GNLZZGG003WYKE4/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-11-20_EP027326820891_115871802977_2026-11-05T15:23:04Z_GNLZZGG003WYKE4/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "F1 Academy",
       "episodeTitle": "Las Vegas, Free Practice",
       "description": "From Las Vegas Strip Street Circuit in Las Vegas.",
       "scheduledDate": 1795140000000,
-      "duration": 45,
+      "duration": 43,
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Auto racing",
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-11-20_EP049013570052_115842096478_2026-11-05T11:24:54Z_GNLZZGG003WQQV9/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "MotorRacing 360",
+      "episodeTitle": "",
+      "description": "Entertaining and informative discussions about all the biggest news across the week in motor sport, including Supercars, Formula 1 and MotoGP.",
+      "scheduledDate": 1795142580000,
+      "duration": 62,
+      "parentalRating": "",
+      "programType": "Series",
+      "genre": "Motorsports",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-11-20_SH063406000000_114609093005_2026-10-25T07:59:17Z_p32624137_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "MotorRacing 360",
@@ -179,7 +190,7 @@
       "parentalRating": "",
       "programType": "Sports non-event",
       "genre": "Special, Motorsports",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-11-20_SH067197690000_115852729157_2026-11-13T07:00:38Z_p34608046_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-11-20_SH067197690000_115872456387_2026-11-13T07:00:38Z_p34608046_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "MotoGP Racing",
