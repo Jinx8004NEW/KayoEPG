@@ -1,114 +1,59 @@
 {
   "channel": "ESP",
-  "date": "2026-11-19",
+  "date": "2026-11-20",
   "source": "kayo",
-  "fetchedAt": 1795091632263,
-  "fetchedAtIST": "19/11/2026, 6:03:52 pm",
+  "fetchedAt": 1795128942216,
+  "fetchedAtIST": "20/11/2026, 4:25:42 am",
   "events": [
     {
+      "programTitle": "Big Day With Peter Schrager",
+      "episodeTitle": "",
+      "description": "Peter Schrager covers the biggest stories from across the sports world each day.",
+      "scheduledDate": 1795114800000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-11-19_SH066067040000_115578557100_2026-09-10T19:25:26Z_p34014283_i_h10_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
       "programTitle": "College Basketball",
-      "episodeTitle": "Players Era Eight: Rutgers vs Notre Dame",
+      "episodeTitle": "Players Era Eight: Florida vs West Virginia",
       "description": "From Michelob ULTRA Arena in Las Vegas.",
-      "scheduledDate": 1795028400000,
+      "scheduledDate": 1795116600000,
       "duration": 120,
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Basketball",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-11-18_EP066460665825_115824169031_2026-11-18T01:51:44Z_GNLZZGG003Z31M3/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-11-19_EP066460665829_115869894779_2026-11-19T04:55:16Z_GNLZZGG003ZCF46/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "To Be Announced",
       "episodeTitle": "",
       "description": "The programming for this time slot has yet to be determined and is being confirmed by the broadcast channel.",
-      "scheduledDate": 1795032000000,
+      "scheduledDate": 1795118400000,
       "duration": 240,
       "parentalRating": "",
       "programType": "TBA",
       "genre": "Special, Entertainment",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-11-18_SH027575020000_115365023510_2021-11-15T14:36:19Z_p514472_b_h8_dp/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-11-19_SH027575020000_115365023510_2021-11-15T14:36:19Z_p514472_b_h8_dp/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "NFL Live",
       "episodeTitle": "",
       "description": "Wendi Nix and analysts break down the latest news in the NFL, offering views on players, coaches and management.",
-      "scheduledDate": 1795035600000,
+      "scheduledDate": 1795123800000,
       "duration": 30,
       "parentalRating": "",
       "programType": "Sports non-event",
       "genre": "Football",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-11-18_SH033280050000_115273006425_2022-08-27T02:25:47Z_p267723_i_h8_ae/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
-    {
-      "programTitle": "College Basketball",
-      "episodeTitle": "Players Era Eight: Houston vs Florida",
-      "description": "From Michelob ULTRA Arena in Las Vegas.",
-      "scheduledDate": 1795037400000,
-      "duration": 120,
-      "parentalRating": "",
-      "programType": "Sports event",
-      "genre": "Basketball",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-11-18_EP066460665827_115832381235_2026-11-18T01:51:55Z_GNLZZGG003Z31NX/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
-    {
-      "programTitle": "NBA Countdown",
-      "episodeTitle": "",
-      "description": "Bold opinions, discussion and debate centred on the top storylines from around the league. Mike Greenberg hosts this pregame show with analysts Stephen A. Smith and Michael Wilbon.",
-      "scheduledDate": 1795044600000,
-      "duration": 30,
-      "parentalRating": "",
-      "programType": "Sports non-event",
-      "genre": "Basketball",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-11-18_SH033308350000_115684165431_2025-05-06T18:14:14Z_p9668236_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
-    {
-      "programTitle": "NBA Courtside",
-      "episodeTitle": "",
-      "description": "An insight into upcoming National Basketball Association matches, highlighting the players to watch and the top team news.",
-      "scheduledDate": 1795046400000,
-      "duration": 12,
-      "parentalRating": "",
-      "programType": "Sports non-event",
-      "genre": "Basketball",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-11-19_SH033412210000_114333352032_2019-02-26T14:20:41Z_p815562_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
-    {
-      "programTitle": "NBA Basketball",
-      "episodeTitle": "Miami Heat vs Milwaukee Bucks",
-      "description": "From Kaseya Center in Miami.",
-      "scheduledDate": 1795047120000,
-      "duration": 143,
-      "parentalRating": "",
-      "programType": "Sports event",
-      "genre": "Basketball",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-11-19_EP030658785693_115684165292_2026-09-02T07:53:49Z_GNLZZGG003M5ZFH/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
-    {
-      "programTitle": "NBA Basketball",
-      "episodeTitle": "Denver Nuggets vs Boston Celtics",
-      "description": "From Ball Arena in Denver.",
-      "scheduledDate": 1795055700000,
-      "duration": 150,
-      "parentalRating": "",
-      "programType": "Sports event",
-      "genre": "Basketball",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-11-19_EP030658785701_115751571531_2026-09-02T08:10:19Z_GNLZZGG003M63G1/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
-    {
-      "programTitle": "SportsCenter With Scott Van Pelt",
-      "episodeTitle": "",
-      "description": "Scott Van Pelt presents the day in sport through his unique perspective with highlights, special guests and his One Big Thing commentary.",
-      "scheduledDate": 1795064700000,
-      "duration": 55,
-      "parentalRating": "",
-      "programType": "Sports non-event",
-      "genre": "News, Sports talk",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-11-19_SH034580420000_115578556198_2017-02-22T22:01:00Z_p13816005_i_h10_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-11-19_SH033280050000_115273006425_2022-08-27T02:25:47Z_p267723_i_h8_ae/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "NFL Blitz",
       "episodeTitle": "",
       "description": "All of the best action from the National Football League.",
-      "scheduledDate": 1795068000000,
+      "scheduledDate": 1795125600000,
       "duration": 30,
       "parentalRating": "",
       "programType": "Sports non-event",
@@ -116,103 +61,191 @@
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-11-19_SH060667300000_113358670220_2022-09-12T05:46:51Z_p22911383_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "NBA Minis",
-      "episodeTitle": "2026-27: Milwaukee Bucks vs. Miami Heat",
-      "description": "A collection of special condensed replays featuring the best highlights and all the key moments on the court.",
-      "scheduledDate": 1795069800000,
+      "programTitle": "Pardon the Interruption",
+      "episodeTitle": "",
+      "description": "Tony Kornheiser and Mike Wilbon have intense discussions and interview guests about the top headlines in news and sports.",
+      "scheduledDate": 1795127400000,
       "duration": 30,
       "parentalRating": "",
-      "programType": "Sports event",
-      "genre": "Classic sport event, Basketball",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-11-19_SH035801090000_115013696310_2020-08-10T05:50:19Z_p18627080_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "programType": "Sports non-event",
+      "genre": "Sports talk",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-11-19_SH032424080000_114840902253_2021-04-08T22:26:28Z_p186288_i_h8_ae/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "Nothing But Net",
-      "episodeTitle": "",
-      "description": "Kane Pitman and Ryan Broekhoff preview the upcoming NBA and NBL action through their Aussie lens, with guest interviews, highlights and breaking news.",
-      "scheduledDate": 1795071600000,
+      "programTitle": "SEC Storied",
+      "episodeTitle": "The Fighting Tiger",
+      "description": "ESPN's original documentaries offer a wide range of compelling stories from the world of sports. These documentaries delve into the lives of athletes, explore iconic moments and examine the cultural impact of sports.",
+      "scheduledDate": 1795129200000,
       "duration": 60,
       "parentalRating": "",
       "programType": "Sports non-event",
-      "genre": "Basketball",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-11-19_SH047654740000_108130071776_2023-06-02T12:16:33Z_p24869175_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "genre": "Documentary, Gymnastics",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-11-19_SH033491980000_114504148500_2026-09-03T16:25:50Z_p8766233_i_h8_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "SC: Stories",
+      "episodeTitle": "Volume 41",
+      "description": "Presents impressive stories of athletes who have excelled in sports.",
+      "scheduledDate": 1795132800000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Series",
+      "genre": "News",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-11-20_SH046772320000_105518246248_2023-03-14T05:26:40Z_p24188974_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NFL Blitz",
+      "episodeTitle": "",
+      "description": "All of the best action from the National Football League.",
+      "scheduledDate": 1795134600000,
+      "duration": 45,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Family, Football, News, Newsmagazine",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-11-20_SH060667300000_113358670220_2022-09-12T05:46:51Z_p22911383_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NFL Football",
+      "episodeTitle": "Houston Texans vs Indianapolis Colts",
+      "description": "Coverage of matches played as part of America's National Football League.",
+      "scheduledDate": 1795137300000,
+      "duration": 195,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-11-20_EP029371131984_115826850161_2026-07-15T04:41:44Z_GNLZZGG0039K4CM/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NFL Films Presents",
+      "episodeTitle": "Be Yourself",
+      "description": "Kristina Pink sits down with Colts safety and celebration coordinator, Cam Bynum to discuss his love of performing and his Filipino heritage; Texans linebacker, Azeez Al-Shaair shares his love of poetry and how he navigates the violent world of football.",
+      "scheduledDate": 1795149000000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Football, Documentary",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-11-20_EP033308300144_115895002009_2026-11-13T20:45:35Z_p34613839_e_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NFL Blitz",
+      "episodeTitle": "",
+      "description": "All of the best action from the National Football League.",
+      "scheduledDate": 1795150800000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Family, Football, News, Newsmagazine",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-11-20_SH060667300000_113358670220_2022-09-12T05:46:51Z_p22911383_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "UEFA Women's Champions League",
+      "episodeTitle": "Arsenal vs. OL Lyonnes",
+      "description": "Coverage of the UEFA Women's Champions League.",
+      "scheduledDate": 1795152600000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Soccer",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-11-20_EP032279220187_115855376840_2026-09-07T16:46:27Z_GNLZZGG003N2Z36/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Spirit of Yachting",
+      "episodeTitle": "Rolex Middle Sea Race 2026",
+      "description": "The yachting enthusiast host reports all the latest news, coverage of all the key events related to the world of yachts.",
+      "scheduledDate": 1795159800000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Yacht racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-11-20_SH033277510000_113979561862_2016-12-12T18:21:00Z_p8754277_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "NBL Pregame",
       "episodeTitle": "",
       "description": "A preview of upcoming games from the National Basketball League.",
-      "scheduledDate": 1795075200000,
+      "scheduledDate": 1795161600000,
       "duration": 30,
       "parentalRating": "",
       "programType": "Sports non-event",
       "genre": "Basketball",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-11-19_SH048723300000_115684163961_2023-09-20T11:04:17Z_p25650942_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-11-20_SH048723300000_115684163961_2023-09-20T11:04:17Z_p25650942_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "NBL",
-      "episodeTitle": "Illawarra Hawks vs Adelaide 36ers",
-      "description": "From WIN Entertainment Centre in Wollongong, New South Wales, Australia.",
-      "scheduledDate": 1795077000000,
+      "episodeTitle": "Cairns Taipans vs Perth Wildcats",
+      "description": "From Cairns Convention Centre in Cairns, Queensland, Australia.",
+      "scheduledDate": 1795163400000,
       "duration": 120,
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Basketball",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-11-19_EP029269501444_115684165993_2026-10-22T23:01:47Z_GNLZZGG003TFC7H/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-11-20_EP029269501445_115743993221_2026-10-22T22:53:43Z_GNLZZGG003TF6NH/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "NBA Basketball",
-      "episodeTitle": "Denver Nuggets vs Boston Celtics",
-      "description": "From Ball Arena in Denver.",
-      "scheduledDate": 1795084200000,
+      "episodeTitle": "Minnesota Timberwolves vs New York Knicks",
+      "description": "From the Target Center in Minneapolis.",
+      "scheduledDate": 1795170600000,
       "duration": 120,
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Basketball",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-11-19_EP030658785701_115751571531_2026-09-02T08:10:19Z_GNLZZGG003M63G1/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-11-20_EP030658785706_115757263656_2026-09-02T07:58:52Z_GNLZZGG003M5QFP/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NFL Minis",
+      "episodeTitle": "2026: Indianapolis Colts vs. Houston Texans (TNF)",
+      "description": "A collection of special condensed replays featuring the best highlights and all the key moments on the field.",
+      "scheduledDate": 1795177800000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Classic sport event, Football, News",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-11-20_SH036425140000_113987719975_2020-10-08T06:20:45Z_p18931248_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NBA Minis",
+      "episodeTitle": "2026-27: New York Knicks vs Minnesota Timberwolves",
+      "description": "A collection of special condensed replays featuring the best highlights and all the key moments on the court.",
+      "scheduledDate": 1795179600000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Classic sport event, Basketball",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-11-20_SH035801090000_115013696310_2020-08-10T05:50:19Z_p18627080_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "ONE Friday Fights 179",
+      "episodeTitle": "",
+      "description": "From Lumpinee Boxing Stadium in Bangkok.",
+      "scheduledDate": 1795181400000,
+      "duration": 180,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Mixed martial arts, Martial arts",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-11-20_SH067203450000_115765671496_2026-11-12T19:55:37Z_p34537395_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "NFL Blitz",
       "episodeTitle": "",
       "description": "All of the best action from the National Football League.",
-      "scheduledDate": 1795091400000,
+      "scheduledDate": 1795192200000,
       "duration": 30,
       "parentalRating": "",
       "programType": "Sports non-event",
       "genre": "Family, Football, News, Newsmagazine",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-11-19_SH060667300000_113358670220_2022-09-12T05:46:51Z_p22911383_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
-    {
-      "programTitle": "Get Up",
-      "episodeTitle": "",
-      "description": "Mike Greenberg, Laura Rutledge and Jalen Rose discuss and analyse the latest news from the world of sports.",
-      "scheduledDate": 1795093200000,
-      "duration": 120,
-      "parentalRating": "",
-      "programType": "Sports non-event",
-      "genre": "Sports talk",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-11-19_SH033268270000_115655397261_2026-03-24T04:04:44Z_p15158780_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
-    {
-      "programTitle": "First Take",
-      "episodeTitle": "",
-      "description": "Stephen A. Smith joins Molly Qerim Rose to debate the hottest topics in sports.",
-      "scheduledDate": 1795100400000,
-      "duration": 120,
-      "parentalRating": "",
-      "programType": "Sports non-event",
-      "genre": "Sports talk, News, Debate",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-11-19_SH033280060000_108193810385_2025-11-07T06:36:14Z_p186291_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-11-20_SH060667300000_113358670220_2022-09-12T05:46:51Z_p22911383_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "The Pat McAfee Show",
       "episodeTitle": "",
       "description": "Former NFL punter Pat McAfee brings his humour, sarcasm and candour to the microphone to highlight the day's top stories.",
-      "scheduledDate": 1795107600000,
+      "scheduledDate": 1795194000000,
       "duration": 120,
       "parentalRating": "",
       "programType": "Series",
       "genre": "Sports talk",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-11-19_SH048483860000_111648065422_2020-09-10T14:31:07Z_p18762527_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-11-20_SH048483860000_111648065422_2020-09-10T14:31:07Z_p18762527_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     }
   ]
 }

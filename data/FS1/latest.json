@@ -1,202 +1,70 @@
 {
   "channel": "FS1",
-  "date": "2026-11-19",
+  "date": "2026-11-20",
   "source": "kayo",
-  "fetchedAt": 1795091632217,
-  "fetchedAtIST": "19/11/2026, 6:03:52 pm",
+  "fetchedAt": 1795128942187,
+  "fetchedAtIST": "20/11/2026, 4:25:42 am",
   "events": [
     {
       "programTitle": "Inside Innovation",
       "episodeTitle": "",
       "description": "The latest highlights, reaction and analysis of the biggest sports stories from Australia and around the world.",
-      "scheduledDate": 1795026600000,
+      "scheduledDate": 1795113000000,
       "duration": 30,
       "parentalRating": "",
       "programType": "Special",
       "genre": "Special, Cricket",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-11-18_SH067018170000_115298885751_2026-11-07T06:58:09Z_p34558355_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-11-19_SH067018170000_115298885751_2026-11-07T06:58:09Z_p34558355_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "T20 Mini",
       "episodeTitle": "2022 ICC Men's T20 Mini Match: Australia v England",
       "description": "Condensed highlights and classic matches from T20 cricket matches.",
-      "scheduledDate": 1795028400000,
+      "scheduledDate": 1795114800000,
       "duration": 20,
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Cricket",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-11-18_SH036489390000_79559987170_2021-06-10T12:37:23Z_p18959790_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-11-19_SH036489390000_79559987170_2021-06-10T12:37:23Z_p18959790_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "T20 Mini",
       "episodeTitle": "Eng v Aus Game 2",
       "description": "Condensed highlights and classic matches from T20 cricket matches.",
-      "scheduledDate": 1795029600000,
+      "scheduledDate": 1795116000000,
       "duration": 20,
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Classic sport event, Cricket",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-11-18_SH036489390000_79559987170_2021-06-10T12:37:23Z_p18959790_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-11-19_SH036489390000_79559987170_2021-06-10T12:37:23Z_p18959790_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "T20 Cricket",
       "episodeTitle": "2007: Australia v England, Game 1",
       "description": "All the action and highlights from Twenty20 cricket matches.",
-      "scheduledDate": 1795030800000,
+      "scheduledDate": 1795117200000,
       "duration": 50,
       "parentalRating": "",
       "programType": "Sports non-event",
       "genre": "Cricket",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-11-18_SH033516560000_114889348974_2023-09-05T14:04:06Z_p8414564_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-11-19_SH033516560000_114889348974_2023-09-05T14:04:06Z_p8414564_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "To Be Announced",
       "episodeTitle": "",
       "description": "The programming for this time slot has yet to be determined and is being confirmed by the broadcast channel.",
-      "scheduledDate": 1795032000000,
+      "scheduledDate": 1795118400000,
       "duration": 240,
       "parentalRating": "",
       "programType": "TBA",
       "genre": "Special, Entertainment",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-11-18_SH027575020000_115365023510_2021-11-15T14:36:19Z_p514472_b_h8_dp/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
-    {
-      "programTitle": "Keepin' It Cricket",
-      "episodeTitle": "",
-      "description": "",
-      "scheduledDate": 1795033800000,
-      "duration": 60,
-      "parentalRating": "",
-      "programType": "Series",
-      "genre": "Cricket",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-11-18_SH065972560000_114556289044_2026-10-23T19:38:09Z_p34015117_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
-    {
-      "programTitle": "One-Day International Cricket",
-      "episodeTitle": "3rd ODI: Australia v England",
-      "description": "Coverage of one-day cricket matches contested by international teams.",
-      "scheduledDate": 1795037400000,
-      "duration": 60,
-      "parentalRating": "",
-      "programType": "Sports event",
-      "genre": "Cricket, Classic sport event",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-11-18_SH034583010000_115459994361_2026-03-24T13:16:18Z_p8509066_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
-    {
-      "programTitle": "One-Day International Cricket",
-      "episodeTitle": "3rd ODI: Australia v England",
-      "description": "Coverage of one-day cricket matches contested by international teams.",
-      "scheduledDate": 1795041000000,
-      "duration": 20,
-      "parentalRating": "",
-      "programType": "Sports event",
-      "genre": "Cricket, Classic sport event",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-11-18_SH034583010000_115459994361_2026-03-24T13:16:18Z_p8509066_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-11-19_SH027575020000_115365023510_2021-11-15T14:36:19Z_p514472_b_h8_dp/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "WBBL Mini",
-      "episodeTitle": "Adelaide Strikers v Sydney Sixers",
+      "episodeTitle": "Hobart Hurricanes v Perth Scorchers",
       "description": "The latest highlights, reaction and analysis of the biggest sports stories from Australia and around the world.",
-      "scheduledDate": 1795042200000,
-      "duration": 20,
-      "parentalRating": "",
-      "programType": "Series",
-      "genre": "Cricket",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-11-18_SH048957470000_114999026223_2023-10-11T04:14:19Z_p25853183_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
-    {
-      "programTitle": "One-Day International Cricket",
-      "episodeTitle": "3rd ODI: Australia v England",
-      "description": "Coverage of one-day cricket matches contested by international teams.",
-      "scheduledDate": 1795043400000,
-      "duration": 20,
-      "parentalRating": "",
-      "programType": "Sports event",
-      "genre": "Cricket, Classic sport event",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-11-18_SH034583010000_115459994361_2026-03-24T13:16:18Z_p8509066_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
-    {
-      "programTitle": "One-Day International Cricket",
-      "episodeTitle": "3rd ODI: Australia v England",
-      "description": "Coverage of one-day cricket matches contested by international teams.",
-      "scheduledDate": 1795044600000,
-      "duration": 60,
-      "parentalRating": "",
-      "programType": "Sports event",
-      "genre": "Cricket, Classic sport event",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-11-18_SH034583010000_115459994361_2026-03-24T13:16:18Z_p8509066_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
-    {
-      "programTitle": "One-Day International Cricket",
-      "episodeTitle": "3rd ODI: Australia v England",
-      "description": "Coverage of one-day cricket matches contested by international teams.",
-      "scheduledDate": 1795048200000,
-      "duration": 20,
-      "parentalRating": "",
-      "programType": "Sports event",
-      "genre": "Cricket, Classic sport event",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-11-19_SH034583010000_115459994361_2026-03-24T13:16:18Z_p8509066_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
-    {
-      "programTitle": "Test Cricket",
-      "episodeTitle": "South Africa vs Bangladesh",
-      "description": "Coverage of Test cricket matches contested by international teams.",
-      "scheduledDate": 1795049400000,
-      "duration": 20,
-      "parentalRating": "",
-      "programType": "Sports event",
-      "genre": "Cricket",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-11-19_EP029804991953_115821355615_2026-10-27T22:51:16Z_GNLZZGG003V9XS9/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
-    {
-      "programTitle": "One-Day International Cricket",
-      "episodeTitle": "3rd ODI: Australia v England",
-      "description": "Coverage of one-day cricket matches contested by international teams.",
-      "scheduledDate": 1795050600000,
-      "duration": 20,
-      "parentalRating": "",
-      "programType": "Sports event",
-      "genre": "Cricket, Classic sport event",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-11-19_SH034583010000_115459994361_2026-03-24T13:16:18Z_p8509066_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
-    {
-      "programTitle": "Keepin' It Cricket",
-      "episodeTitle": "",
-      "description": "",
-      "scheduledDate": 1795051800000,
-      "duration": 60,
-      "parentalRating": "",
-      "programType": "Series",
-      "genre": "Cricket",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-11-19_SH065972560000_114556289044_2026-10-23T19:38:09Z_p34015117_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
-    {
-      "programTitle": "One-Day International Cricket",
-      "episodeTitle": "3rd ODI: Australia v England",
-      "description": "Coverage of one-day cricket matches contested by international teams.",
-      "scheduledDate": 1795055400000,
-      "duration": 60,
-      "parentalRating": "",
-      "programType": "Sports event",
-      "genre": "Cricket, Classic sport event",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-11-19_SH034583010000_115459994361_2026-03-24T13:16:18Z_p8509066_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
-    {
-      "programTitle": "Test Cricket",
-      "episodeTitle": "Pakistan vs Sri Lanka",
-      "description": "Coverage of Test cricket matches contested by international teams.",
-      "scheduledDate": 1795059000000,
-      "duration": 20,
-      "parentalRating": "",
-      "programType": "Sports event",
-      "genre": "Cricket",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-11-19_EP029804991947_115684165419_2026-10-27T23:12:44Z_GNLZZGG003VB63C/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
-    {
-      "programTitle": "WBBL Mini",
-      "episodeTitle": "Sydney Thunder v Melbourne Stars",
-      "description": "The latest highlights, reaction and analysis of the biggest sports stories from Australia and around the world.",
-      "scheduledDate": 1795060200000,
+      "scheduledDate": 1795120200000,
       "duration": 20,
       "parentalRating": "",
       "programType": "Series",
@@ -205,9 +73,9 @@
     },
     {
       "programTitle": "WBBL Mini",
-      "episodeTitle": "Adelaide Strikers v Sydney Sixers",
+      "episodeTitle": "Brisbane Heat v Sydney Thunder",
       "description": "The latest highlights, reaction and analysis of the biggest sports stories from Australia and around the world.",
-      "scheduledDate": 1795061400000,
+      "scheduledDate": 1795121400000,
       "duration": 20,
       "parentalRating": "",
       "programType": "Series",
@@ -215,59 +83,202 @@
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-11-19_SH048957470000_114999026223_2023-10-11T04:14:19Z_p25853183_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "Women's Big Bash League",
-      "episodeTitle": "Hobart Hurricanes vs. Perth Scorchers",
-      "description": "From Allan Border Field in Brisbane, Queensland, Australia.",
-      "scheduledDate": 1795062600000,
-      "duration": 210,
+      "programTitle": "Test Cricket",
+      "episodeTitle": "New Zealand vs India",
+      "description": "From Basin Reserve, Wellington, New Zealand.",
+      "scheduledDate": 1795122600000,
+      "duration": 20,
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Cricket",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-11-19_EP029371060402_115684163976_2026-11-09T13:54:55Z_GNLZZGG003X8G35/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-11-19_EP029804991916_115753603359_2026-10-11T16:43:52Z_GNLZZGG003RZZRR/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Fox Cricket Pre Game",
+      "episodeTitle": "New Zealand vs India, 1st Test Day 2",
+      "description": "The team present an extensive preview of all the action to come with the latest news, the best analysis, entertainment and interviews.",
+      "scheduledDate": 1795123800000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Cricket",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-11-19_SH035786310000_111887034140_2025-11-20T06:27:30Z_p18624259_i_h10_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Test Cricket",
+      "episodeTitle": "1st Test, Day 2 Session 1: New Zealand vs. India",
+      "description": "Coverage of Test cricket matches contested by international teams.",
+      "scheduledDate": 1795125600000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Cricket",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-11-19_EP029804991974_115741577823_2026-11-17T11:44:06Z_GNLZZGG003XQZS4/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Lunch Break",
+      "episodeTitle": "New Zealand v India, 1st Test Day 2",
+      "description": "We bring you exclusive interviews, team strategies, highlights and much more.",
+      "scheduledDate": 1795132800000,
+      "duration": 40,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Cricket",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-11-20_SH038874750000_109715760419_2021-06-07T03:56:56Z_p19398392_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Test Cricket",
+      "episodeTitle": "1st Test, Day 2 Session 2: New Zealand vs. India",
+      "description": "Coverage of Test cricket matches contested by international teams.",
+      "scheduledDate": 1795135200000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Cricket",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-11-20_EP029804991975_115757263688_2026-11-17T11:28:31Z_GNLZZGG003XQNMS/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "The Tea Break",
+      "episodeTitle": "New Zealand vs India, 1st Test Day 2",
+      "description": "Join our commentary team as they re-cap the day's play and analyse all the action.",
+      "scheduledDate": 1795142400000,
+      "duration": 20,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Cricket",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-11-20_SH034094570000_112570766596_2025-11-20T06:26:39Z_p17650797_i_h10_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Test Cricket",
+      "episodeTitle": "1st Test, Day 2 Session 3: New Zealand vs. India",
+      "description": "Coverage of Test cricket matches contested by international teams.",
+      "scheduledDate": 1795143600000,
+      "duration": 150,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Cricket",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-11-20_EP029804991976_115742496267_2026-11-17T11:30:13Z_GNLZZGG003XQPGD/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "One-Day International Cricket",
+      "episodeTitle": "3rd ODI: Australia v England",
+      "description": "Coverage of one-day cricket matches contested by international teams.",
+      "scheduledDate": 1795152600000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Cricket, Classic sport event",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-11-20_SH034583010000_115459994361_2026-03-24T13:16:18Z_p8509066_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Inside Innovation",
+      "episodeTitle": "",
+      "description": "The latest highlights, reaction and analysis of the biggest sports stories from Australia and around the world.",
+      "scheduledDate": 1795156200000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Special",
+      "genre": "Special, Cricket",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-11-20_SH067018170000_115298885751_2026-11-07T06:58:09Z_p34558355_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Test Cricket",
+      "episodeTitle": "1st Test, Day 5: South Africa v Bangladesh",
+      "description": "Coverage and highlights from international test cricket matches.",
+      "scheduledDate": 1795158000000,
+      "duration": 20,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Cricket, Classic sport event",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-11-20_SH033446590000_98978823590_2023-09-29T14:53:53Z_p8163404_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "WBBL Mini",
+      "episodeTitle": "Brisbane Heat v Sydney Thunder",
+      "description": "The latest highlights, reaction and analysis of the biggest sports stories from Australia and around the world.",
+      "scheduledDate": 1795159200000,
+      "duration": 25,
+      "parentalRating": "",
+      "programType": "Series",
+      "genre": "Cricket",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-11-20_SH048957470000_114999026223_2023-10-11T04:14:19Z_p25853183_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "WBBL Pre-Game",
+      "episodeTitle": "",
+      "description": "Join the Fox Cricket team for an extensive preview of all the action to come, with the latest news, analysis and interviews.",
+      "scheduledDate": 1795160700000,
+      "duration": 25,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Cricket",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-11-20_SH053558810000_115137688659_2026-10-27T07:37:10Z_p28580679_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "Women's Big Bash League",
-      "episodeTitle": "Brisbane Heat vs. Sydney Thunder",
-      "description": "From Allan Border Field in Brisbane, Queensland, Australia.",
-      "scheduledDate": 1795075200000,
-      "duration": 210,
+      "episodeTitle": "Adelaide Strikers vs Melbourne Renegades",
+      "description": "From Karen Rolton Oval in Adelaide, South Australia, Australia.",
+      "scheduledDate": 1795162200000,
+      "duration": 200,
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Cricket",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-11-19_EP029371060403_115684165358_2026-11-09T14:03:58Z_GNLZZGG003X8NTX/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-11-20_EP029371060406_115757263709_2026-11-11T14:04:53Z_GNLZZGG003XMX74/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "Abu Dhabi T10",
-      "episodeTitle": "UAE Bulls vs Arabian Aces",
-      "description": "From Sheikh Zayed Stadium in Abu Dhabi, United Arab Emirates.",
-      "scheduledDate": 1795087800000,
-      "duration": 130,
+      "programTitle": "Keepin' It Cricket",
+      "episodeTitle": "",
+      "description": "Matt Renshaw joins Adam Peacock to discuss his Test comeback, overcoming setbacks and rediscovering his love for cricket.",
+      "scheduledDate": 1795174200000,
+      "duration": 60,
       "parentalRating": "",
-      "programType": "Sports event",
+      "programType": "Series",
       "genre": "Cricket",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-11-19_EP045477750191_115684164904_2026-11-05T22:57:25Z_GNLZZGG003X281Z/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-11-20_SH065972560000_114556289044_2026-10-23T19:38:09Z_p34015117_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Inside Innovation",
+      "episodeTitle": "",
+      "description": "The latest highlights, reaction and analysis of the biggest sports stories from Australia and around the world.",
+      "scheduledDate": 1795177800000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Special",
+      "genre": "Special, Cricket",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-11-20_SH067018170000_115298885751_2026-11-07T06:58:09Z_p34558355_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "WBBL Mini",
+      "episodeTitle": "Brisbane Heat v Sydney Thunder",
+      "description": "The latest highlights, reaction and analysis of the biggest sports stories from Australia and around the world.",
+      "scheduledDate": 1795179600000,
+      "duration": 25,
+      "parentalRating": "",
+      "programType": "Series",
+      "genre": "Cricket",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-11-20_SH048957470000_114999026223_2023-10-11T04:14:19Z_p25853183_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "Abu Dhabi T10",
-      "episodeTitle": "Yas Lions vs Royal Desert Champions",
+      "episodeTitle": "Qualifier: Teams TBA",
       "description": "",
-      "scheduledDate": 1795095600000,
+      "scheduledDate": 1795181100000,
       "duration": 135,
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Cricket",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-11-19_EP045477750183_115684164798_2026-11-05T23:13:04Z_GNLZZGG003X2HEW/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-11-20_SH045477750000_115578254850_2023-11-23T15:43:24Z_p23434944_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "Abu Dhabi T10",
-      "episodeTitle": "Emirates Eagles vs United Tigers",
-      "description": "",
-      "scheduledDate": 1795103700000,
-      "duration": 155,
+      "episodeTitle": "Final: Teams TBA",
+      "description": "Sheikh Zayed Cricket Stadium",
+      "scheduledDate": 1795189200000,
+      "duration": 170,
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Cricket",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-11-19_EP045477750184_115684164663_2026-11-05T23:07:58Z_GNLZZGG003X2FM2/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-11-20_SH045477750000_115578254850_2023-11-23T15:43:24Z_p23434944_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     }
   ]
 }

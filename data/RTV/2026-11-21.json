@@ -2,8 +2,8 @@
   "channel": "RTV",
   "date": "2026-11-21",
   "source": "kayo",
-  "fetchedAt": 1795091632276,
-  "fetchedAtIST": "19/11/2026, 6:03:52 pm",
+  "fetchedAt": 1795128942225,
+  "fetchedAtIST": "20/11/2026, 4:25:42 am",
   "events": [
     {
       "programTitle": "The Analyser",
@@ -69,7 +69,7 @@
       "parentalRating": "",
       "programType": "Series",
       "genre": "Horse racing",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/148460_2026-11-20_SH060155680000_114912692364_2026-10-30T20:06:14Z_p31059650_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/148460_2026-11-20_SH060155680000_115891217113_2026-10-30T20:06:14Z_p31059650_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "Get On Now",
@@ -80,14 +80,25 @@
       "parentalRating": "",
       "programType": "Series",
       "genre": "Horse racing",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/148460_2026-11-20_SH060155680000_114912692364_2026-10-30T20:06:14Z_p31059650_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/148460_2026-11-20_SH060155680000_115891217113_2026-10-30T20:06:14Z_p31059650_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "The Analyser",
+      "episodeTitle": "",
+      "description": "Ben Asgari previews and examines the day's racing, featuring speed maps and replays for every race on the card.",
+      "scheduledDate": 1795219200000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Series",
+      "genre": "Sports talk",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/148460_2026-11-21_SH032528360000_103465362616_2019-10-09T21:40:24Z_p17053183_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "Before the First",
       "episodeTitle": "",
       "description": "Brent Zerafa and a team of expert analysts preview upcoming Victorian racing action, shedding light on the key runners.",
-      "scheduledDate": 1795219200000,
-      "duration": 50,
+      "scheduledDate": 1795221000000,
+      "duration": 35,
       "parentalRating": "",
       "programType": "Sports non-event",
       "genre": "Sports talk, Horse racing",
@@ -99,6 +110,17 @@
       "description": "Features comprehensive coverage of some of the top horse racing events taking place in Australia and Hong Kong.",
       "scheduledDate": 1795222200000,
       "duration": 370,
+      "parentalRating": "",
+      "programType": "Series",
+      "genre": "Horse racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/148460_2026-11-21_SH029317280000_112642301077_2019-10-09T21:00:41Z_p15322312_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Racing Live",
+      "episodeTitle": "",
+      "description": "Features comprehensive coverage of some of the top horse racing events taking place in Australia and Hong Kong.",
+      "scheduledDate": 1795223100000,
+      "duration": 355,
       "parentalRating": "",
       "programType": "Series",
       "genre": "Horse racing",
