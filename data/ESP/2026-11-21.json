@@ -2,8 +2,8 @@
   "channel": "ESP",
   "date": "2026-11-21",
   "source": "kayo",
-  "fetchedAt": 1795021140132,
-  "fetchedAtIST": "18/11/2026, 10:29:00 pm",
+  "fetchedAt": 1795052704747,
+  "fetchedAtIST": "19/11/2026, 7:15:04 am",
   "events": [
     {
       "programTitle": "Bussin' & Pate On Campus",
@@ -81,6 +81,138 @@
       "programType": "Sports non-event",
       "genre": "Basketball",
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-11-20_SH066608350000_114796305168_2026-10-23T07:25:17Z_p34357847_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "College Football Countdown",
+      "episodeTitle": "",
+      "description": "This pre-game, half-time and post-game show airs each Saturday during the college football season, with former NFL offensive lineman Mark May and Texas head coach Mack Brown sitting in the analysts' chairs.",
+      "scheduledDate": 1795219200000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-11-21_SH033280090000_115818962785_2017-09-16T00:03:00Z_p221260_i_h10_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "College Football",
+      "episodeTitle": "Duke vs Clemson",
+      "description": "From Wallace Wade Stadium in Durham, N.C.",
+      "scheduledDate": 1795221000000,
+      "duration": 180,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-11-21_EP064738031525_115851421678_2026-06-21T07:17:28Z_GNLZZGG00372YG0/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "SportsCenter With Scott Van Pelt",
+      "episodeTitle": "",
+      "description": "Scott Van Pelt presents the day in sport through his unique perspective with highlights, special guests and his One Big Thing commentary.",
+      "scheduledDate": 1795231800000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "News, Sports talk",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-11-21_SH034580420000_115578556198_2017-02-22T22:01:00Z_p13816005_i_h10_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "College Basketball",
+      "episodeTitle": "Saint Mary's (Calif.) vs Saint Louis",
+      "description": "From University Credit Union Pavilion in Moraga, Calif.",
+      "scheduledDate": 1795233600000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Basketball",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-11-21_EP066460660917_115752564959_2026-10-22T02:05:07Z_GNLZZGG003T87KZ/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "UEFA Women's Champions League Highlights",
+      "episodeTitle": "",
+      "description": "Highlights from the UEFA Champions League matches, the premier women's club football tournament in Europe.",
+      "scheduledDate": 1795240800000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Soccer",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-11-21_SH061600770000_113438069496_2025-10-10T22:14:22Z_p31371704_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NBL",
+      "episodeTitle": "Tasmania JackJumpers vs Illawarra Hawks",
+      "description": "From MyState Bank Arena in Hobart, Tasmania, Australia.",
+      "scheduledDate": 1795242600000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Basketball",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-11-21_EP029269501446_115818962781_2026-10-22T23:00:09Z_GNLZZGG003TFBBZ/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NBL",
+      "episodeTitle": "Melbourne United vs BNZ Breakers",
+      "description": "From John Cain Arena in Melbourne, Victoria, Australia.",
+      "scheduledDate": 1795249800000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Basketball",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-11-21_EP029269501447_115818962523_2026-10-22T22:49:46Z_GNLZZGG003TF4M2/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "College Football",
+      "episodeTitle": "Duke vs Clemson",
+      "description": "From Wallace Wade Stadium in Durham, N.C.",
+      "scheduledDate": 1795257000000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-11-21_EP064738031525_115851421678_2026-06-21T07:17:28Z_GNLZZGG00372YG0/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "College Football",
+      "episodeTitle": "Toledo vs Bowling Green",
+      "description": "From the Glass Bowl in Toledo, Ohio.",
+      "scheduledDate": 1795264200000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-11-21_EP064738031524_115851421680_2026-06-21T07:17:24Z_GNLZZGG00372E0L/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NFL Matchup",
+      "episodeTitle": "",
+      "description": "Get the latest news, info, analysis and straight talk from around all the action of the National Football League.",
+      "scheduledDate": 1795271400000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-11-21_SH033308410000_115741577978_2022-08-28T09:45:48Z_p816920_i_h10_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "College Track and Field",
+      "episodeTitle": "",
+      "description": "Action from college track and field events.",
+      "scheduledDate": 1795273200000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Track/field",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-11-21_SH038913490000_115818962528_2016-11-08T15:21:00Z_p356370_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "College Football",
+      "episodeTitle": "Georgia Tech vs Wake Forest",
+      "description": "From Bobby Dodd Stadium in Atlanta.",
+      "scheduledDate": 1795280400000,
+      "duration": 180,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-11-21_EP064738031491_115842926043_2026-06-21T07:18:36Z_GNLZZGG003737RM/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     }
   ]
 }

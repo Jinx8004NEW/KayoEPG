@@ -2,8 +2,8 @@
   "channel": "FAF",
   "date": "2026-11-21",
   "source": "kayo",
-  "fetchedAt": 1795021140106,
-  "fetchedAtIST": "18/11/2026, 10:29:00 pm",
+  "fetchedAt": 1795052704718,
+  "fetchedAtIST": "19/11/2026, 7:15:04 am",
   "events": [
     {
       "programTitle": "AFL Women's Premiership",
@@ -25,7 +25,7 @@
       "parentalRating": "",
       "programType": "Sports non-event",
       "genre": "Event, Australian rules football",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-11-20_SH031036220000_115831144431_2018-11-27T09:00:00Z_p16279409_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-11-20_SH031036220000_115842163014_2018-11-27T09:00:00Z_p16279409_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "AFL Women's Premiership",
@@ -37,6 +37,226 @@
       "programType": "Sports event",
       "genre": "Playoff sports, Australian rules football",
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-11-20_EP029247970860_115453079230_2026-11-10T13:52:31Z_GNLZZGG003XDMPK/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "AFLW Mini",
+      "episodeTitle": "Semi Final: Carlton vs Hawthorn",
+      "description": "Condensed highlights of some of the greatest encounters from the AFL Women's competition.",
+      "scheduledDate": 1795222800000,
+      "duration": 15,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Australian rules football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-11-21_SH038251630000_111269523232_2025-10-16T04:55:13Z_p19768743_b_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "AFLW Mini",
+      "episodeTitle": "Semi Final: Geelong Cats vs Sydney Swans",
+      "description": "Condensed highlights of some of the greatest encounters from the AFL Women's competition.",
+      "scheduledDate": 1795223700000,
+      "duration": 15,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Australian rules football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-11-21_SH038251630000_111269523232_2025-10-16T04:55:13Z_p19768743_b_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "AFLW Pre Game",
+      "episodeTitle": "Preliminary Final: North Melbourne Kangaroos vs Sydney Swans",
+      "description": "Features expert analysis, player interviews and match previews ahead of AFLW action.",
+      "scheduledDate": 1795224600000,
+      "duration": 35,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Australian rules football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-11-21_SH052727060000_111575637511_2025-10-15T04:36:01Z_p28175501_b_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "AFL Women's Premiership",
+      "episodeTitle": "North Melbourne Kangaroos vs. Sydney Swans",
+      "description": "Coverage of matches played as part of the premier women's Australian rules competition.",
+      "scheduledDate": 1795226700000,
+      "duration": 105,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Playoff sports, Australian rules football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-11-21_EP029247970862_115785319230_2026-11-17T01:54:35Z_GNLZZGG003XLBKM/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "AFLW Post Game",
+      "episodeTitle": "Preliminary Final: North Melbourne Kangaroos vs Sydney Swans",
+      "description": "All the latest news and analysis from the world of women's AFL.",
+      "scheduledDate": 1795233000000,
+      "duration": 40,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Australian rules football, Sports talk",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-11-21_SH041614210000_111575853519_2022-01-12T02:37:13Z_p21375733_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "AFLW Pre Game",
+      "episodeTitle": "Preliminary Final: Melbourne Demons vs Carlton Blues",
+      "description": "Features expert analysis, player interviews and match previews ahead of AFLW action.",
+      "scheduledDate": 1795235400000,
+      "duration": 35,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Australian rules football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-11-21_SH052727060000_111575637511_2025-10-15T04:36:01Z_p28175501_b_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "AFL Women's Premiership",
+      "episodeTitle": "Melbourne Demons vs. Carlton Blues",
+      "description": "From Casey Fields in Melbourne, Victoria, Australia.",
+      "scheduledDate": 1795237500000,
+      "duration": 105,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Australian rules football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-11-21_EP029247970863_115785319292_2026-11-17T04:52:53Z_GNLZZGG003XLGQC/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "AFLW Post Game",
+      "episodeTitle": "",
+      "description": "All the latest news and analysis from the world of women's AFL.",
+      "scheduledDate": 1795243800000,
+      "duration": 40,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Australian rules football, Sports talk",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-11-21_SH041614210000_111575853519_2022-01-12T02:37:13Z_p21375733_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "AFL Women's Premiership",
+      "episodeTitle": "North Melbourne Kangaroos vs. Sydney Swans",
+      "description": "Coverage of matches played as part of the premier women's Australian rules competition.",
+      "scheduledDate": 1795246200000,
+      "duration": 90,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Playoff sports, Australian rules football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-11-21_EP029247970862_115785319230_2026-11-17T01:54:35Z_GNLZZGG003XLBKM/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "AFL Women's Premiership",
+      "episodeTitle": "Melbourne Demons vs. Carlton Blues",
+      "description": "From Casey Fields in Melbourne, Victoria, Australia.",
+      "scheduledDate": 1795251600000,
+      "duration": 90,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Australian rules football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-11-21_EP029247970863_115785319292_2026-11-17T04:52:53Z_GNLZZGG003XLGQC/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "AFLW Mini",
+      "episodeTitle": "Preliminary Final: North Melbourne vs Sydney Swans",
+      "description": "Condensed highlights of some of the greatest encounters from the AFL Women's competition.",
+      "scheduledDate": 1795257000000,
+      "duration": 15,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Australian rules football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-11-21_SH038251630000_111269523232_2025-10-16T04:55:13Z_p19768743_b_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "AFLW Mini",
+      "episodeTitle": "Preliminary Final: Melbourne vs Carlton",
+      "description": "Condensed highlights of some of the greatest encounters from the AFL Women's competition.",
+      "scheduledDate": 1795257900000,
+      "duration": 15,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Australian rules football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-11-21_SH038251630000_111269523232_2025-10-16T04:55:13Z_p19768743_b_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "AFL Women's Premiership",
+      "episodeTitle": "North Melbourne Kangaroos vs. Sydney Swans",
+      "description": "Coverage of matches played as part of the premier women's Australian rules competition.",
+      "scheduledDate": 1795258800000,
+      "duration": 90,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Playoff sports, Australian rules football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-11-21_EP029247970862_115785319230_2026-11-17T01:54:35Z_GNLZZGG003XLBKM/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "AFLW Mini",
+      "episodeTitle": "Preliminary Final: Melbourne vs Carlton",
+      "description": "Condensed highlights of some of the greatest encounters from the AFL Women's competition.",
+      "scheduledDate": 1795264200000,
+      "duration": 15,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Australian rules football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-11-21_SH038251630000_111269523232_2025-10-16T04:55:13Z_p19768743_b_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "AFLW Mini",
+      "episodeTitle": "Preliminary Final: North Melbourne vs Sydney Swans",
+      "description": "Condensed highlights of some of the greatest encounters from the AFL Women's competition.",
+      "scheduledDate": 1795265100000,
+      "duration": 15,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Australian rules football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-11-21_SH038251630000_111269523232_2025-10-16T04:55:13Z_p19768743_b_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "AFL Women's Premiership",
+      "episodeTitle": "Melbourne Demons vs. Carlton Blues",
+      "description": "From Casey Fields in Melbourne, Victoria, Australia.",
+      "scheduledDate": 1795266000000,
+      "duration": 90,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Australian rules football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-11-21_EP029247970863_115785319292_2026-11-17T04:52:53Z_GNLZZGG003XLGQC/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "AFLW Mini",
+      "episodeTitle": "Preliminary Final: North Melbourne vs Sydney Swans",
+      "description": "Condensed highlights of some of the greatest encounters from the AFL Women's competition.",
+      "scheduledDate": 1795271400000,
+      "duration": 15,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Australian rules football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-11-21_SH038251630000_111269523232_2025-10-16T04:55:13Z_p19768743_b_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "AFLW Mini",
+      "episodeTitle": "Preliminary Final: Melbourne vs Carlton",
+      "description": "Condensed highlights of some of the greatest encounters from the AFL Women's competition.",
+      "scheduledDate": 1795272300000,
+      "duration": 15,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Australian rules football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-11-21_SH038251630000_111269523232_2025-10-16T04:55:13Z_p19768743_b_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "AFL Women's Premiership",
+      "episodeTitle": "North Melbourne Kangaroos vs. Sydney Swans",
+      "description": "Coverage of matches played as part of the premier women's Australian rules competition.",
+      "scheduledDate": 1795273200000,
+      "duration": 90,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Playoff sports, Australian rules football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-11-21_EP029247970862_115785319230_2026-11-17T01:54:35Z_GNLZZGG003XLBKM/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "AFL Draft",
+      "episodeTitle": "Day 2",
+      "description": "Coverage of the Australian Football League draft, where teams select unsigned players and newly nominating players.",
+      "scheduledDate": 1795278600000,
+      "duration": 150,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Event, Australian rules football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-11-21_SH031036220000_115842163014_2018-11-27T09:00:00Z_p16279409_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     }
   ]
 }

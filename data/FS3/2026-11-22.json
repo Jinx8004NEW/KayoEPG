@@ -1,0 +1,42 @@
+{
+  "channel": "FS3",
+  "date": "2026-11-22",
+  "source": "kayo",
+  "fetchedAt": 1795052704708,
+  "fetchedAtIST": "19/11/2026, 7:15:04 am",
+  "events": [
+    {
+      "programTitle": "Challenger PGA Tour of Australasia",
+      "episodeTitle": "Queensland PGA Championship, Third Round",
+      "description": "",
+      "scheduledDate": 1795294800000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-11-21_SH066716570000_115742454413_2026-10-17T02:01:41Z_p34385964_st_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "DP World Tour Highlights",
+      "episodeTitle": "",
+      "description": "",
+      "scheduledDate": 1795298400000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-11-21_SH042728730000_105753336739_2022-04-14T18:06:06Z_p21832098_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "PGA Tour Golf",
+      "episodeTitle": "The RSM Classic, Third Round",
+      "description": "From Sea Island Golf Club - Seaside Course in Sea Island, Ga.",
+      "scheduledDate": 1795300200000,
+      "duration": 90,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-11-21_SH030899370000_114699832686_2025-07-31T11:34:53Z_p845788_i_h8_af/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    }
+  ]
+}
