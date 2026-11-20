@@ -1,0 +1,42 @@
+{
+  "channel": "ES2",
+  "date": "2026-11-23",
+  "source": "kayo",
+  "fetchedAt": 1795154635133,
+  "fetchedAtIST": "20/11/2026, 11:33:55 am",
+  "events": [
+    {
+      "programTitle": "SportsCenter",
+      "episodeTitle": "",
+      "description": "The team deliver the latest news, highlights, and inside information from the wide world of sports, as well as trending topics across social media platforms.",
+      "scheduledDate": 1795377600000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "News, Sports talk",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-11-22_SH033259060000_115863159434_2018-04-18T10:39:00Z_p186674_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Spirit of Yachting",
+      "episodeTitle": "Rolex Middle Sea Race 2026",
+      "description": "The yachting enthusiast host reports all the latest news, coverage of all the key events related to the world of yachts.",
+      "scheduledDate": 1795379400000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Yacht racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-11-22_SH033277510000_113979561862_2016-12-12T18:21:00Z_p8754277_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NFL Football",
+      "episodeTitle": "Los Angeles Chargers vs New York Jets",
+      "description": "From SoFi Stadium in Inglewood, Calif.",
+      "scheduledDate": 1795381200000,
+      "duration": 180,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-11-22_EP029371131994_115873005887_2026-07-15T07:29:31Z_GNLZZGG0039LMPS/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    }
+  ]
+}

@@ -2,8 +2,8 @@
   "channel": "SPS",
   "date": "2026-11-22",
   "source": "kayo",
-  "fetchedAt": 1795128942209,
-  "fetchedAtIST": "20/11/2026, 4:25:42 am",
+  "fetchedAt": 1795154635112,
+  "fetchedAtIST": "20/11/2026, 11:33:55 am",
   "events": [
     {
       "programTitle": "MotoGP Racing",
@@ -59,6 +59,226 @@
       "programType": "Sports event",
       "genre": "Auto, Auto racing, Newsmagazine, Classic sport event",
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-11-21_SH047330970000_115227444950_2024-02-23T19:13:16Z_p24622061_i_h8_ad/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "F1 Academy",
+      "episodeTitle": "Las Vegas: Race 2",
+      "description": "",
+      "scheduledDate": 1795306500000,
+      "duration": 55,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Auto racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-11-22_EP049013570055_115828199762_2026-11-17T11:42:22Z_GNLZZGG003XQXW6/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Supercars Mini",
+      "episodeTitle": "Penrite Oil Sandown 500: Race 34",
+      "description": "Australia's premier touring car racing competition, known for high-powered V8 machines and intense, close-quarters racing.",
+      "scheduledDate": 1795309800000,
+      "duration": 20,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Classic sport event, Auto racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-11-22_SH035786470000_105377021933_2020-08-20T08:30:31Z_p18624449_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Formula 1",
+      "episodeTitle": "Las Vegas Grand Prix: Qualifying",
+      "description": "Features all the action and highlights from Formula 1 racing.",
+      "scheduledDate": 1795311000000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Classic sport event, Motorsports, Auto racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-11-22_SH035915380000_115380106475_2023-09-29T11:04:19Z_p8544413_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Formula 1",
+      "episodeTitle": "Las Vegas Grand Prix: Pre Race",
+      "description": "Features all the action and highlights from Formula 1 racing.",
+      "scheduledDate": 1795314600000,
+      "duration": 85,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Classic sport event, Motorsports, Auto racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-11-22_SH035915380000_115380106475_2023-09-29T11:04:19Z_p8544413_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Formula 1",
+      "episodeTitle": "Las Vegas Grand Prix",
+      "description": "From Las Vegas Strip Street Circuit in Las Vegas.",
+      "scheduledDate": 1795319700000,
+      "duration": 125,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Auto racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-11-22_EP027326820892_115827080054_2026-11-10T21:25:04Z_GNLZZGG003XGQ38/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Formula 1 Chequered Flag",
+      "episodeTitle": "Las Vegas Grand Prix",
+      "description": "A recap of all the Formula 1 racing action, featuring highlights and analysis.",
+      "scheduledDate": 1795327200000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Auto racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-11-22_SH038537820000_108756450962_2020-03-11T21:20:06Z_p17998973_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "F1 Mini",
+      "episodeTitle": "Las Vegas Grand Prix",
+      "description": "Highlights of the world's most iconic Formula 1 Grands Prix, featuring every podium and overtake.",
+      "scheduledDate": 1795330800000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Motorsports, Classic sport event",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-11-22_SH036452570000_107032703571_2020-11-19T03:00:48Z_p18944992_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "F1 Mini",
+      "episodeTitle": "Las Vegas Grand Prix",
+      "description": "Highlights of the world's most iconic Formula 1 Grands Prix, featuring every podium and overtake.",
+      "scheduledDate": 1795332600000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Motorsports, Classic sport event",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-11-22_SH036452570000_107032703571_2020-11-19T03:00:48Z_p18944992_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "MotoGP Racing",
+      "episodeTitle": "Qatar Airways Grand Prix of Portugal, Qualifying",
+      "description": "From Algarve International Circuit in Portimão, Algarve, Portugal.",
+      "scheduledDate": 1795334400000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Motorcycle racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-11-22_SH028104880000_115519079398_2025-04-17T20:03:48Z_p445587_i_h8_ae/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "MotoGP Racing",
+      "episodeTitle": "Repsol Grand Prix of Portugal, Sprint Race",
+      "description": "Action from MotoGP racing.",
+      "scheduledDate": 1795338000000,
+      "duration": 35,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Family, Classic sport event, Motorcycle racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-11-22_SH035853180000_114543852884_2017-10-24T00:43:00Z_p445588_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "MotoGP Racing",
+      "episodeTitle": "Portugal, Warm Up",
+      "description": "From Algarve International Circuit in Portimão, Algarve, Portugal.",
+      "scheduledDate": 1795340100000,
+      "duration": 25,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Motorcycle racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-11-22_SH028104880000_115519079398_2025-04-17T20:03:48Z_p445587_i_h8_ae/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "F1 Mini",
+      "episodeTitle": "Las Vegas Grand Prix",
+      "description": "Highlights of the world's most iconic Formula 1 Grands Prix, featuring every podium and overtake.",
+      "scheduledDate": 1795341600000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Motorsports, Classic sport event",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-11-22_SH036452570000_107032703571_2020-11-19T03:00:48Z_p18944992_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "MotoGP Racing",
+      "episodeTitle": "Repsol Grand Prix of Portugal, Sprint Race",
+      "description": "Action from MotoGP racing.",
+      "scheduledDate": 1795343400000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Family, Classic sport event, Motorcycle racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-11-22_SH035853180000_114543852884_2017-10-24T00:43:00Z_p445588_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Moto2 GP Racing",
+      "episodeTitle": "Repsol Grand Prix of Portugal",
+      "description": "From Algarve International Circuit in Portimão, Algarve, Portugal.",
+      "scheduledDate": 1795345200000,
+      "duration": 75,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Motorcycle racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-11-22_EP046925380404_115818962321_2026-11-10T17:23:53Z_GNLZZGG003XF0YY/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "MotoGP Grid",
+      "episodeTitle": "Portugal",
+      "description": "All the latest news & interviews from the MotoGP Grid.",
+      "scheduledDate": 1795349700000,
+      "duration": 43,
+      "parentalRating": "",
+      "programType": "Series",
+      "genre": "Motorcycle racing, Motorsports",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-11-22_SH052332950000_115827284062_2022-05-02T10:07:42Z_p14104148_i_h10_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "MotoGP Racing",
+      "episodeTitle": "Repsol Grand Prix of Portugal",
+      "description": "From Algarve International Circuit in Portimão, Algarve, Portugal.",
+      "scheduledDate": 1795352280000,
+      "duration": 77,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Motorcycle racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-11-22_EP028104881609_115886532300_2026-11-11T13:24:55Z_GNLZZGG003XMPL2/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Moto3 GP Racing",
+      "episodeTitle": "Repsol Grand Prix of Portugal",
+      "description": "From Algarve International Circuit in Portimão, Algarve, Portugal.",
+      "scheduledDate": 1795356900000,
+      "duration": 75,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Motorcycle racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-11-22_EP046925390414_115905160337_2026-11-18T15:29:23Z_GNLZZGG003Z6JJ7/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "MotoGP Racing",
+      "episodeTitle": "Repsol Grand Prix of Portugal, Sprint Race",
+      "description": "Action from MotoGP racing.",
+      "scheduledDate": 1795361400000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Family, Classic sport event, Motorcycle racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-11-22_SH035853180000_114543852884_2017-10-24T00:43:00Z_p445588_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Formula 1",
+      "episodeTitle": "Las Vegas Grand Prix",
+      "description": "From Las Vegas Strip Street Circuit in Las Vegas.",
+      "scheduledDate": 1795363200000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Auto racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-11-22_EP027326820892_115827080054_2026-11-10T21:25:04Z_GNLZZGG003XGQ38/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "LPGA Tour Golf",
+      "episodeTitle": "Cme Group Tour Championship, Final Round",
+      "description": "Professional female golfers compete against each other during the LPGA Tour Dow Championship to win the title.",
+      "scheduledDate": 1795370400000,
+      "duration": 180,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-11-22_SH047138530000_115684164112_2025-08-07T09:24:15Z_p8768636_i_h10_ah/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     }
   ]
 }
