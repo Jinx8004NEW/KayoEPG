@@ -1,0 +1,42 @@
+{
+  "channel": "FSS",
+  "date": "2026-11-24",
+  "source": "kayo",
+  "fetchedAt": 1795223270924,
+  "fetchedAtIST": "21/11/2026, 6:37:50 am",
+  "events": [
+    {
+      "programTitle": "SailGP",
+      "episodeTitle": "Dubai, Day 2",
+      "description": "",
+      "scheduledDate": 1795458600000,
+      "duration": 90,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Sailing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-11-23_SH051028760000_112367882509_2021-04-23T21:46:53Z_p19827810_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "PGA Tour Golf",
+      "episodeTitle": "The RSM Classic, Final Round",
+      "description": "From Sea Island Golf Club - Seaside Course in Sea Island, Ga.",
+      "scheduledDate": 1795464000000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-11-23_EP030899371290_115827284080_2025-11-21T21:14:35Z_p29056642_b_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "LPGA Tour Golf",
+      "episodeTitle": "CME Group Tour Championship, Final Round",
+      "description": "From Tiburon Golf Club in Naples, Fla.",
+      "scheduledDate": 1795471200000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-11-23_EP031583890743_115874315220_2026-11-03T11:24:03Z_GNLZZGG003WMBJV/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    }
+  ]
+}

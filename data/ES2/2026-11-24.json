@@ -1,0 +1,53 @@
+{
+  "channel": "ES2",
+  "date": "2026-11-24",
+  "source": "kayo",
+  "fetchedAt": 1795223270940,
+  "fetchedAtIST": "21/11/2026, 6:37:50 am",
+  "events": [
+    {
+      "programTitle": "The Breakdown With Peyton and Kuechly",
+      "episodeTitle": "Episode 6",
+      "description": "Pro Football Hall of Famers Peyton Manning and Luke Kuechly go inside the film room to preview some of the biggest upcoming Monday Night Football games and matchups of the NFL season.",
+      "scheduledDate": 1795460400000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-11-23_SH066422700000_115813407140_2026-09-24T21:55:05Z_p34154641_i_h10_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "College Basketball",
+      "episodeTitle": "Ole Miss vs Clemson",
+      "description": "From Lahaina Civic Center in Lahaina, Hawaii.",
+      "scheduledDate": 1795462200000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Basketball",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-11-23_EP066460661065_115943898800_2026-10-22T08:35:33Z_GNLZZGG003TB1G0/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "College Basketball Scoreboard",
+      "episodeTitle": "",
+      "description": "All the coverage of the best highlights, moments, and game-play analysis from the world of college basketball.",
+      "scheduledDate": 1795469400000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Basketball",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-11-23_SH033626130000_115684165302_2020-03-09T08:15:08Z_p221222_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "College Basketball",
+      "episodeTitle": "Washington vs BYU",
+      "description": "From Lahaina Civic Center in Lahaina, Hawaii.",
+      "scheduledDate": 1795471200000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Basketball",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-11-23_EP066460661068_115940310597_2026-10-22T08:10:29Z_GNLZZGG003T9N8Y/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    }
+  ]
+}

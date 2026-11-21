@@ -1,0 +1,75 @@
+{
+  "channel": "SPS",
+  "date": "2026-11-24",
+  "source": "kayo",
+  "fetchedAt": 1795223270914,
+  "fetchedAtIST": "21/11/2026, 6:37:50 am",
+  "events": [
+    {
+      "programTitle": "Moto2 GP Racing",
+      "episodeTitle": "Repsol Grand Prix of Portugal",
+      "description": "From Algarve International Circuit in Portimão, Algarve, Portugal.",
+      "scheduledDate": 1795458600000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Motorcycle racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-11-23_EP046925380404_115818962321_2026-11-10T17:23:53Z_GNLZZGG003XF0YY/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "MotoGP Racing",
+      "episodeTitle": "Repsol Grand Prix of Portugal, Sprint Race",
+      "description": "Action from MotoGP racing.",
+      "scheduledDate": 1795462200000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Family, Classic sport event, Motorcycle racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-11-23_SH035853180000_114543852884_2017-10-24T00:43:00Z_p445588_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "MotoGP Racing",
+      "episodeTitle": "Grand Prix of Portugal: MotoGP, Race",
+      "description": "From Algarve International Circuit in Portimão, Algarve, Portugal. Race start: 10:00pm (AEST).",
+      "scheduledDate": 1795464000000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Motorcycle racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-11-23_EP028104880318_115818962506_2021-04-02T01:16:14Z_p19745071_b_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "MotoGP: After The Flag",
+      "episodeTitle": "Portugal",
+      "description": "The commentary team interview the top riders and wrap up the weekend of action after the Grand Prix.",
+      "scheduledDate": 1795467600000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Motorcycle racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-11-23_SH045144180000_112768561209_2022-10-28T12:27:14Z_p23278858_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Supercars Championship",
+      "episodeTitle": "Century Batteries Ipswich Super 440: Race 28",
+      "description": "Highlights and replays of classic races of the international motor racing series for Supercars.",
+      "scheduledDate": 1795469400000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Series",
+      "genre": "Auto racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-11-23_SH035728470000_113699461789_2018-12-17T21:00:00Z_p16276370_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Supercars Championship",
+      "episodeTitle": "",
+      "description": "Supercars compete in a series across Australia and New Zealand.",
+      "scheduledDate": 1795473000000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Auto racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-11-23_SH027326760000_112737644805_2026-08-07T01:36:07Z_p522547_i_h10_ad/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    }
+  ]
+}
