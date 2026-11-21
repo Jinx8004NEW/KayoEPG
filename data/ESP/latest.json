@@ -1,218 +1,185 @@
 {
   "channel": "ESP",
-  "date": "2026-11-21",
+  "date": "2026-11-22",
   "source": "kayo",
-  "fetchedAt": 1795263145192,
-  "fetchedAtIST": "21/11/2026, 5:42:25 pm",
+  "fetchedAt": 1795296510511,
+  "fetchedAtIST": "22/11/2026, 2:58:30 am",
   "events": [
     {
-      "programTitle": "Bussin' & Pate On Campus",
+      "programTitle": "College Football Scoreboard",
       "episodeTitle": "",
-      "description": "College football analyst Josh Pate and the Bussin' with the Boys crew preview college football action.",
-      "scheduledDate": 1795201200000,
-      "duration": 60,
+      "description": "Highlights and up to the minute scores during the college football season, with a look at the major storylines in the competition.",
+      "scheduledDate": 1795291200000,
+      "duration": 30,
       "parentalRating": "",
       "programType": "Sports non-event",
       "genre": "Football",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-11-20_SH066030980000_115605601151_2026-08-25T17:34:45Z_p33894692_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-11-21_SH033268260000_112437273027_2019-12-21T18:40:07Z_p629287_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "NBA Today",
-      "episodeTitle": "",
-      "description": "Daily NBA show from Los Angeles about everything you need to know about your favourite sport.",
-      "scheduledDate": 1795204800000,
-      "duration": 60,
+      "programTitle": "College Football",
+      "episodeTitle": "Texas vs Arkansas",
+      "description": "From Darrell K. Royal - Texas Memorial Stadium in Austin, Texas.",
+      "scheduledDate": 1795293000000,
+      "duration": 180,
       "parentalRating": "",
-      "programType": "Sports non-event",
-      "genre": "Sports talk, Basketball",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-11-20_SH040441750000_109626193132_2021-11-02T16:57:12Z_p20706981_i_h10_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "programType": "Sports event",
+      "genre": "Football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-11-21_EP064738031523_115842948709_2026-11-02T20:07:46Z_GNLZZGG003WDX4N/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "NFL Live",
+      "programTitle": "College Football Scoreboard",
       "episodeTitle": "",
-      "description": "Wendi Nix and analysts break down the latest news in the NFL, offering views on players, coaches and management.",
-      "scheduledDate": 1795208400000,
-      "duration": 60,
+      "description": "Highlights and up to the minute scores during the college football season, with a look at the major storylines in the competition.",
+      "scheduledDate": 1795303800000,
+      "duration": 30,
       "parentalRating": "",
       "programType": "Sports non-event",
       "genre": "Football",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-11-20_SH033280050000_115273006425_2022-08-27T02:25:47Z_p267723_i_h8_ae/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-11-21_SH033268260000_112437273027_2019-12-21T18:40:07Z_p629287_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "NFL Blitz",
       "episodeTitle": "",
       "description": "All of the best action from the National Football League.",
-      "scheduledDate": 1795212000000,
+      "scheduledDate": 1795305600000,
       "duration": 30,
       "parentalRating": "",
       "programType": "Sports non-event",
       "genre": "Family, Football, News, Newsmagazine",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-11-20_SH060667300000_113358670220_2022-09-12T05:46:51Z_p22911383_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
-    {
-      "programTitle": "Pardon the Interruption",
-      "episodeTitle": "",
-      "description": "Tony Kornheiser and Mike Wilbon have intense discussions and interview guests about the top headlines in news and sports.",
-      "scheduledDate": 1795213800000,
-      "duration": 30,
-      "parentalRating": "",
-      "programType": "Sports non-event",
-      "genre": "Sports talk",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-11-20_SH032424080000_114840902253_2021-04-08T22:26:28Z_p186288_i_h8_ae/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
-    {
-      "programTitle": "NBA Action",
-      "episodeTitle": "",
-      "description": "A weekly look back and recap of the top news and highlights in the NBA, with exclusive interviews and play-by-play analysis.",
-      "scheduledDate": 1795215600000,
-      "duration": 30,
-      "parentalRating": "",
-      "programType": "Sports non-event",
-      "genre": "Basketball",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-11-20_SH033308440000_115145010587_2017-10-27T22:01:00Z_p448615_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-11-22_SH060667300000_113358670220_2022-09-12T05:46:51Z_p22911383_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "Ball or Nothin'",
       "episodeTitle": "",
       "description": "",
-      "scheduledDate": 1795217400000,
+      "scheduledDate": 1795307400000,
       "duration": 30,
       "parentalRating": "",
       "programType": "Sports non-event",
       "genre": "Basketball",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-11-20_SH066608350000_114796305168_2026-10-23T07:25:17Z_p34357847_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-11-22_SH066608350000_114796305168_2026-10-23T07:25:17Z_p34357847_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "College Football Countdown",
-      "episodeTitle": "",
-      "description": "This pre-game, half-time and post-game show airs each Saturday during the college football season, with former NFL offensive lineman Mark May and Texas head coach Mack Brown sitting in the analysts' chairs.",
-      "scheduledDate": 1795219200000,
-      "duration": 30,
-      "parentalRating": "",
-      "programType": "Sports non-event",
-      "genre": "Football",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-11-21_SH033280090000_115818962785_2017-09-16T00:03:00Z_p221260_i_h10_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
-    {
-      "programTitle": "College Football",
-      "episodeTitle": "Duke vs Clemson",
-      "description": "From Wallace Wade Stadium in Durham, N.C.",
-      "scheduledDate": 1795221000000,
-      "duration": 180,
-      "parentalRating": "",
-      "programType": "Sports event",
-      "genre": "Football",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-11-21_EP064738031525_115851421678_2026-06-21T07:17:28Z_GNLZZGG00372YG0/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
-    {
-      "programTitle": "SportsCenter With Scott Van Pelt",
-      "episodeTitle": "",
-      "description": "Scott Van Pelt presents the day in sport through his unique perspective with highlights, special guests and his One Big Thing commentary.",
-      "scheduledDate": 1795231800000,
-      "duration": 30,
-      "parentalRating": "",
-      "programType": "Sports non-event",
-      "genre": "News, Sports talk",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-11-21_SH034580420000_115578556198_2017-02-22T22:01:00Z_p13816005_i_h10_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
-    {
-      "programTitle": "College Basketball",
-      "episodeTitle": "Saint Mary's (Calif.) vs Saint Louis",
-      "description": "From University Credit Union Pavilion in Moraga, Calif.",
-      "scheduledDate": 1795233600000,
-      "duration": 120,
+      "programTitle": "NBA Basketball",
+      "episodeTitle": "Minnesota Timberwolves vs Memphis Grizzlies",
+      "description": "From the Target Center in Minneapolis.",
+      "scheduledDate": 1795309200000,
+      "duration": 150,
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Basketball",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-11-21_EP066460660917_115752564959_2026-10-22T02:05:07Z_GNLZZGG003T87KZ/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-11-22_EP030658785721_115827284157_2026-09-02T08:09:05Z_GNLZZGG003M63BX/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "UEFA Women's Champions League Highlights",
+      "programTitle": "Ball or Nothin'",
       "episodeTitle": "",
-      "description": "Highlights from the UEFA Champions League matches, the premier women's club football tournament in Europe.",
-      "scheduledDate": 1795240800000,
+      "description": "",
+      "scheduledDate": 1795318200000,
       "duration": 30,
       "parentalRating": "",
       "programType": "Sports non-event",
-      "genre": "Soccer",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-11-21_SH061600770000_115884128260_2025-10-10T22:14:22Z_p31371704_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "genre": "Basketball",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-11-22_SH066608350000_114796305168_2026-10-23T07:25:17Z_p34357847_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "NBL",
-      "episodeTitle": "Tasmania JackJumpers vs Illawarra Hawks",
-      "description": "From MyState Bank Arena in Hobart, Tasmania, Australia.",
-      "scheduledDate": 1795242600000,
-      "duration": 120,
-      "parentalRating": "",
-      "programType": "Sports event",
-      "genre": "Basketball",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-11-21_EP029269501446_115818962781_2026-10-22T23:00:09Z_GNLZZGG003TFBBZ/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
-    {
-      "programTitle": "NBL",
-      "episodeTitle": "Melbourne United vs BNZ Breakers",
+      "episodeTitle": "South East Melbourne Phoenix vs Cairns Taipans",
       "description": "From John Cain Arena in Melbourne, Victoria, Australia.",
-      "scheduledDate": 1795249800000,
+      "scheduledDate": 1795320000000,
       "duration": 120,
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Basketball",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-11-21_EP029269501447_115818962523_2026-10-22T22:49:46Z_GNLZZGG003TF4M2/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-11-22_EP029269501448_115827284102_2026-10-22T22:58:03Z_GNLZZGG003TF93W/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NBL",
+      "episodeTitle": "Brisbane Bullets vs Sydney Kings",
+      "description": "From Brisbane Entertainment Centre in Boondall, Queensland, Australia.",
+      "scheduledDate": 1795327200000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Basketball",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-11-22_EP029269501449_115827284011_2026-10-22T23:01:33Z_GNLZZGG003TFC28/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NBA Basketball",
+      "episodeTitle": "Minnesota Timberwolves vs Memphis Grizzlies",
+      "description": "From the Target Center in Minneapolis.",
+      "scheduledDate": 1795334400000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Basketball",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-11-22_EP030658785721_115827284157_2026-09-02T08:09:05Z_GNLZZGG003M63BX/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "College Football",
-      "episodeTitle": "Duke vs Clemson",
-      "description": "From Wallace Wade Stadium in Durham, N.C.",
-      "scheduledDate": 1795257000000,
+      "episodeTitle": "Kansas vs BYU",
+      "description": "From David Booth Kansas Memorial Stadium in Lawrence, Kan.",
+      "scheduledDate": 1795341600000,
       "duration": 120,
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Football",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-11-21_EP064738031525_115851421678_2026-06-21T07:17:28Z_GNLZZGG00372YG0/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-11-22_EP064738031448_115842926039_2026-06-21T04:23:15Z_GNLZZGG00372MN1/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "College Football",
-      "episodeTitle": "Toledo vs Bowling Green",
-      "description": "From the Glass Bowl in Toledo, Ohio.",
-      "scheduledDate": 1795264200000,
+      "episodeTitle": "Tennessee vs LSU",
+      "description": "From Neyland Stadium in Knoxville, Tenn.",
+      "scheduledDate": 1795348800000,
       "duration": 120,
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Football",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-11-21_EP064738031524_115851421680_2026-06-21T07:17:24Z_GNLZZGG00372E0L/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-11-22_EP064738031475_115842926038_2026-11-05T23:12:41Z_GNLZZGG003X2HXN/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "NFL Matchup",
-      "episodeTitle": "",
-      "description": "Get the latest news, info, analysis and straight talk from around all the action of the National Football League.",
-      "scheduledDate": 1795271400000,
+      "programTitle": "NFL Films Presents",
+      "episodeTitle": "Be Yourself",
+      "description": "Kristina Pink sits down with Colts safety and celebration coordinator, Cam Bynum to discuss his love of performing and his Filipino heritage; Texans linebacker, Azeez Al-Shaair shares his love of poetry and how he navigates the violent world of football.",
+      "scheduledDate": 1795356000000,
       "duration": 30,
       "parentalRating": "",
       "programType": "Sports non-event",
-      "genre": "Football",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-11-21_SH033308410000_115741577978_2022-08-28T09:45:48Z_p816920_i_h10_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "genre": "Football, Documentary",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-11-22_EP033308300144_115895002009_2026-11-13T20:45:35Z_p34613839_e_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "College Track and Field",
+      "programTitle": "NFL Blitz",
       "episodeTitle": "",
-      "description": "Action from college track and field events.",
-      "scheduledDate": 1795273200000,
-      "duration": 120,
+      "description": "All of the best action from the National Football League.",
+      "scheduledDate": 1795357800000,
+      "duration": 30,
       "parentalRating": "",
-      "programType": "Sports event",
-      "genre": "Track/field",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-11-21_SH038913490000_115818962528_2016-11-08T15:21:00Z_p356370_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "programType": "Sports non-event",
+      "genre": "Family, Football, News, Newsmagazine",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-11-22_SH060667300000_113358670220_2022-09-12T05:46:51Z_p22911383_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "College Football",
-      "episodeTitle": "Georgia Tech vs Wake Forest",
-      "description": "From Bobby Dodd Stadium in Atlanta.",
-      "scheduledDate": 1795280400000,
+      "programTitle": "Sunday NFL Countdown",
+      "episodeTitle": "",
+      "description": "Samantha Ponder, with a team of analysts, introduces the features and directs the storylines associated with the day's games.",
+      "scheduledDate": 1795359600000,
+      "duration": 180,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-11-22_SH033308210000_115827284007_2019-09-06T20:20:11Z_p924452_i_h8_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NFL Football",
+      "episodeTitle": "Philadelphia Eagles vs Pittsburgh Steelers",
+      "description": "From Lincoln Financial Field in Philadelphia.",
+      "scheduledDate": 1795370400000,
       "duration": 180,
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Football",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-11-21_EP064738031491_115842926043_2026-06-21T07:18:36Z_GNLZZGG003737RM/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-11-22_EP029371131992_115827284068_2026-07-15T07:32:57Z_GNLZZGG0039Q718/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     }
   ]
 }

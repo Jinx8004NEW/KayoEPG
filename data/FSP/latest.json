@@ -1,37 +1,26 @@
 {
   "channel": "FSP",
-  "date": "2026-11-21",
+  "date": "2026-11-22",
   "source": "kayo",
-  "fetchedAt": 1795263145169,
-  "fetchedAtIST": "21/11/2026, 5:42:25 pm",
+  "fetchedAt": 1795296510495,
+  "fetchedAtIST": "22/11/2026, 2:58:30 am",
   "events": [
     {
       "programTitle": "Darts",
-      "episodeTitle": "Grand Slam of Darts: Day 7",
+      "episodeTitle": "Grand Slam of Darts: Day 8",
       "description": "Covering of all the action from darts events around the world.",
-      "scheduledDate": 1795201200000,
+      "scheduledDate": 1795287600000,
       "duration": 240,
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Darts",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-11-20_SH032967320000_115472606336_2024-10-04T13:14:55Z_p644283_i_h8_ah/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
-    {
-      "programTitle": "Pro Bull Riding",
-      "episodeTitle": "Mackay",
-      "description": "The best bull riders in Australia and the world compete for prize money on the professional bull riding circuit.",
-      "scheduledDate": 1795215600000,
-      "duration": 60,
-      "parentalRating": "",
-      "programType": "Sports non-event",
-      "genre": "Bull riding",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-11-20_SH029446100000_108472165776_2018-05-25T09:42:00Z_p15394895_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-11-21_SH032967320000_115472606336_2024-10-04T13:14:55Z_p644283_i_h8_ah/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "Pro Bull Riding",
       "episodeTitle": "",
       "description": "The best bull riders in Australia and the world compete for prize money on the professional bull riding circuit.",
-      "scheduledDate": 1795219200000,
+      "scheduledDate": 1795302000000,
       "duration": 60,
       "parentalRating": "",
       "programType": "Sports non-event",
@@ -39,202 +28,114 @@
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-11-21_SH029446100000_108472165776_2018-05-25T09:42:00Z_p15394895_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
+      "programTitle": "SailGP",
+      "episodeTitle": "Dubai, Day 1",
+      "description": "",
+      "scheduledDate": 1795305600000,
+      "duration": 90,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Sailing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-11-22_SH051028760000_112367882509_2021-04-23T21:46:53Z_p19827810_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
       "programTitle": "Sailing to The Games",
       "episodeTitle": "",
       "description": "Dedicated to the story of Olympic Sailing, as the world's star names and fresh talents strive to compete on the world's greatest sports stage and claim their medals at the Olympic Games.",
-      "scheduledDate": 1795222800000,
+      "scheduledDate": 1795311000000,
       "duration": 30,
       "parentalRating": "",
       "programType": "Sports non-event",
       "genre": "Sailing",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-11-21_SH045604150000_111341337738_2026-05-14T13:56:11Z_p22538760_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-11-22_SH045604150000_111341337738_2026-05-14T13:56:11Z_p22538760_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Baseball",
+      "episodeTitle": "Southern Stars & Stripes Shield: Melbourne Aces v Black Sox",
+      "description": "Coverage of baseball games around the world.",
+      "scheduledDate": 1795312800000,
+      "duration": 180,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Baseball",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-11-22_SH032351780000_104868103083_2023-06-08T12:17:01Z_p3589824_i_h8_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Sheffield Shield",
+      "episodeTitle": "New South Wales vs. Queensland",
+      "description": "From Sydney Cricket Ground in Sydney.",
+      "scheduledDate": 1795323600000,
+      "duration": 90,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Cricket",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-11-22_EP028878790155_115887765611_2026-11-18T07:57:51Z_GNLZZGG003Z40QY/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "Darts",
-      "episodeTitle": "Grand Slam of Darts: Day 7",
+      "episodeTitle": "Grand Slam of Darts: Day 8",
       "description": "Covering of all the action from darts events around the world.",
-      "scheduledDate": 1795224600000,
+      "scheduledDate": 1795329000000,
       "duration": 120,
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Darts",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-11-21_SH032967320000_115472606336_2024-10-04T13:14:55Z_p644283_i_h8_ah/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-11-22_SH032967320000_115472606336_2024-10-04T13:14:55Z_p644283_i_h8_ah/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "Getting a Round In",
-      "episodeTitle": "Season Review",
-      "description": "Australian professional golfer, Paul Gow hosts celebrities as his playing partners who share his love for the game of golf.",
-      "scheduledDate": 1795231800000,
-      "duration": 30,
-      "parentalRating": "",
-      "programType": "Series",
-      "genre": "Golf, Interview",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-11-21_SH048121120000_110998856207_2023-07-18T05:56:16Z_p25221374_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
-    {
-      "programTitle": "Test Cricket",
-      "episodeTitle": "Pakistan v Sri Lanka, 1st Test Day 4",
-      "description": "Coverage and highlights from international test cricket matches.",
-      "scheduledDate": 1795233600000,
-      "duration": 20,
-      "parentalRating": "",
-      "programType": "Sports event",
-      "genre": "Cricket, Classic sport event",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-11-21_SH033446590000_98978823590_2023-09-29T14:53:53Z_p8163404_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
-    {
-      "programTitle": "Supercars Mini",
-      "episodeTitle": "",
-      "description": "Australia's premier touring car racing competition, known for high-powered V8 machines and intense, close-quarters racing.",
-      "scheduledDate": 1795234800000,
-      "duration": 20,
-      "parentalRating": "",
-      "programType": "Sports event",
-      "genre": "Classic sport event, Auto racing",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-11-21_SH035786470000_105377021933_2020-08-20T08:30:31Z_p18624449_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
-    {
-      "programTitle": "Supercars Mini",
-      "episodeTitle": "Penrite Oil Sandown 500: Race 34",
-      "description": "Australia's premier touring car racing competition, known for high-powered V8 machines and intense, close-quarters racing.",
-      "scheduledDate": 1795236000000,
-      "duration": 20,
-      "parentalRating": "",
-      "programType": "Sports event",
-      "genre": "Classic sport event, Auto racing",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-11-21_SH035786470000_105377021933_2020-08-20T08:30:31Z_p18624449_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
-    {
-      "programTitle": "PGA Tour Golf",
-      "episodeTitle": "The RSM Classic, Second Round",
-      "description": "From Sea Island Golf Club - Seaside Course in Sea Island, Ga.",
-      "scheduledDate": 1795237200000,
-      "duration": 90,
-      "parentalRating": "",
-      "programType": "Sports event",
-      "genre": "Golf",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-11-21_SH030899370000_114699832686_2025-07-31T11:34:53Z_p845788_i_h8_af/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
-    {
-      "programTitle": "WTGL",
-      "episodeTitle": "Boston Common Golf Club v Motor City Golf Club",
+      "programTitle": "SailGP",
+      "episodeTitle": "Dubai, Day 1",
       "description": "",
-      "scheduledDate": 1795242600000,
+      "scheduledDate": 1795336200000,
       "duration": 90,
       "parentalRating": "",
-      "programType": "Sports non-event",
-      "genre": "Golf",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-11-21_SH066911130000_115578556206_2026-10-27T13:15:13Z_p34457857_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "programType": "Sports event",
+      "genre": "Sailing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-11-22_SH051028760000_112367882509_2021-04-23T21:46:53Z_p19827810_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "Darts",
-      "episodeTitle": "Grand Slam of Darts: Day 7",
-      "description": "Covering of all the action from darts events around the world.",
-      "scheduledDate": 1795248000000,
-      "duration": 120,
+      "programTitle": "Challenger PGA Tour of Australasia",
+      "episodeTitle": "Queensland PGA Championship, Final Round",
+      "description": "",
+      "scheduledDate": 1795341600000,
+      "duration": 60,
       "parentalRating": "",
       "programType": "Sports event",
-      "genre": "Darts",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-11-21_SH032967320000_115472606336_2024-10-04T13:14:55Z_p644283_i_h8_ah/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-11-22_SH066716570000_115889319088_2026-11-19T16:05:39Z_p34385964_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "Formula 1",
       "episodeTitle": "Las Vegas Grand Prix",
       "description": "From Las Vegas Strip Street Circuit in Las Vegas.",
-      "scheduledDate": 1795255200000,
-      "duration": 60,
-      "parentalRating": "",
-      "programType": "Sports event",
-      "genre": "Auto racing",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-11-21_EP027326820892_115827080054_2026-11-10T21:25:04Z_GNLZZGG003XGQ38/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
-    {
-      "programTitle": "Test Cricket",
-      "episodeTitle": "Pakistan v Sri Lanka, 1st Test Day 4",
-      "description": "Coverage and highlights from international test cricket matches.",
-      "scheduledDate": 1795258800000,
-      "duration": 20,
-      "parentalRating": "",
-      "programType": "Sports event",
-      "genre": "Cricket, Classic sport event",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-11-21_SH033446590000_98978823590_2023-09-29T14:53:53Z_p8163404_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
-    {
-      "programTitle": "Supercars Mini",
-      "episodeTitle": "",
-      "description": "Australia's premier touring car racing competition, known for high-powered V8 machines and intense, close-quarters racing.",
-      "scheduledDate": 1795260000000,
-      "duration": 20,
-      "parentalRating": "",
-      "programType": "Sports event",
-      "genre": "Classic sport event, Auto racing",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-11-21_SH035786470000_105377021933_2020-08-20T08:30:31Z_p18624449_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
-    {
-      "programTitle": "Supercars Mini",
-      "episodeTitle": "Penrite Oil Sandown 500: Race 34",
-      "description": "Australia's premier touring car racing competition, known for high-powered V8 machines and intense, close-quarters racing.",
-      "scheduledDate": 1795261200000,
-      "duration": 20,
-      "parentalRating": "",
-      "programType": "Sports event",
-      "genre": "Classic sport event, Auto racing",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-11-21_SH035786470000_105377021933_2020-08-20T08:30:31Z_p18624449_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
-    {
-      "programTitle": "PSA World Tour Squash",
-      "episodeTitle": "2026 US Open",
-      "description": "Squash action from the PSA World Tour which involves over 200 tournaments annually all over the globe.",
-      "scheduledDate": 1795262400000,
-      "duration": 60,
-      "parentalRating": "",
-      "programType": "Sports non-event",
-      "genre": "Squash",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-11-21_SH036328700000_115578557224_2019-03-27T13:40:40Z_p16708425_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
-    {
-      "programTitle": "Darts",
-      "episodeTitle": "Grand Slam of Darts: Day 6",
-      "description": "Covering of all the action from darts events around the world.",
-      "scheduledDate": 1795266000000,
+      "scheduledDate": 1795345200000,
       "duration": 120,
       "parentalRating": "",
       "programType": "Sports event",
-      "genre": "Darts",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-11-21_SH032967320000_115472606336_2024-10-04T13:14:55Z_p644283_i_h8_ah/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
-    {
-      "programTitle": "Supercars Championship",
-      "episodeTitle": "Penrite Oil Sandown 500: Race 34",
-      "description": "Highlights and replays of classic races of the international motor racing series for Supercars.",
-      "scheduledDate": 1795273200000,
-      "duration": 60,
-      "parentalRating": "",
-      "programType": "Series",
       "genre": "Auto racing",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-11-21_SH035728470000_113699461789_2018-12-17T21:00:00Z_p16276370_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
-    {
-      "programTitle": "Golf",
-      "episodeTitle": "Ford NSW Open: Final Round",
-      "description": "Coverage of golf tournaments from around the world.",
-      "scheduledDate": 1795276800000,
-      "duration": 60,
-      "parentalRating": "",
-      "programType": "Sports event",
-      "genre": "Golf",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-11-21_SH028182050000_112685941224_2024-05-13T05:23:51Z_p9232187_i_h8_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-11-22_EP027326820892_115827080054_2026-11-10T21:25:04Z_GNLZZGG003XGQ38/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "Darts",
-      "episodeTitle": "Grand Slam of Darts: Day 7",
+      "episodeTitle": "Grand Slam of Darts: Final Day, Day Session",
       "description": "Covering of all the action from darts events around the world.",
-      "scheduledDate": 1795280400000,
-      "duration": 120,
+      "scheduledDate": 1795352400000,
+      "duration": 240,
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Darts",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-11-21_SH032967320000_115472606336_2024-10-04T13:14:55Z_p644283_i_h8_ah/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-11-22_SH032967320000_115472606336_2024-10-04T13:14:55Z_p644283_i_h8_ah/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "SailGP",
+      "episodeTitle": "Dubai, Day 1",
+      "description": "",
+      "scheduledDate": 1795366800000,
+      "duration": 90,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Sailing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-11-22_SH051028760000_112367882509_2021-04-23T21:46:53Z_p19827810_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     }
   ]
 }

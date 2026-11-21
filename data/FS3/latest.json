@@ -1,92 +1,26 @@
 {
   "channel": "FS3",
-  "date": "2026-11-21",
+  "date": "2026-11-22",
   "source": "kayo",
-  "fetchedAt": 1795263145156,
-  "fetchedAtIST": "21/11/2026, 5:42:25 pm",
+  "fetchedAt": 1795296510484,
+  "fetchedAtIST": "22/11/2026, 2:58:30 am",
   "events": [
-    {
-      "programTitle": "LPGA Tour Golf",
-      "episodeTitle": "The Annika, Final Round",
-      "description": "From Pelican Golf Club in Belleair, Fla.",
-      "scheduledDate": 1795204800000,
-      "duration": 120,
-      "parentalRating": "",
-      "programType": "Sports event",
-      "genre": "Golf",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-11-20_EP031583890739_115679231110_2026-11-11T11:27:31Z_GNLZZGG003XMHBZ/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
-    {
-      "programTitle": "PGA Tour Golf",
-      "episodeTitle": "The RSM Classic, Second Round",
-      "description": "From Sea Island Golf Club - Seaside Course in Sea Island, Ga.",
-      "scheduledDate": 1795212000000,
-      "duration": 90,
-      "parentalRating": "",
-      "programType": "Sports event",
-      "genre": "Golf",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-11-20_SH030899370000_114699832686_2025-07-31T11:34:53Z_p845788_i_h8_af/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
-    {
-      "programTitle": "WTGL",
-      "episodeTitle": "Boston Common Golf Club v Motor City Golf Club",
-      "description": "",
-      "scheduledDate": 1795217400000,
-      "duration": 90,
-      "parentalRating": "",
-      "programType": "Sports non-event",
-      "genre": "Golf",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-11-20_SH066911130000_115578556206_2026-10-27T13:15:13Z_p34457857_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
-    {
-      "programTitle": "PGA Tour Golf",
-      "episodeTitle": "The RSM Classic, Second Round",
-      "description": "From Sea Island Golf Club - Seaside Course in Sea Island, Ga.",
-      "scheduledDate": 1795222800000,
-      "duration": 90,
-      "parentalRating": "",
-      "programType": "Sports event",
-      "genre": "Golf",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-11-21_SH030899370000_114699832686_2025-07-31T11:34:53Z_p845788_i_h8_af/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
-    {
-      "programTitle": "Golf",
-      "episodeTitle": "Ford NSW Open: Final Round",
-      "description": "Coverage of golf tournaments from around the world.",
-      "scheduledDate": 1795228200000,
-      "duration": 60,
-      "parentalRating": "",
-      "programType": "Sports event",
-      "genre": "Golf",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-11-21_SH028182050000_112685941224_2024-05-13T05:23:51Z_p9232187_i_h8_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
     {
       "programTitle": "Challenger PGA Tour of Australasia",
       "episodeTitle": "Queensland PGA Championship, Third Round",
       "description": "",
-      "scheduledDate": 1795231800000,
-      "duration": 180,
+      "scheduledDate": 1795294800000,
+      "duration": 60,
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Golf",
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-11-21_SH066716570000_115889319088_2026-11-19T16:05:39Z_p34385964_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "PGA Tour Golf",
-      "episodeTitle": "The RSM Classic, Second Round",
-      "description": "From Sea Island Golf Club - Seaside Course in Sea Island, Ga.",
-      "scheduledDate": 1795242600000,
-      "duration": 90,
-      "parentalRating": "",
-      "programType": "Sports event",
-      "genre": "Golf",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-11-21_SH030899370000_114699832686_2025-07-31T11:34:53Z_p845788_i_h8_af/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
-    {
       "programTitle": "DP World Tour Highlights",
       "episodeTitle": "",
       "description": "",
-      "scheduledDate": 1795248000000,
+      "scheduledDate": 1795298400000,
       "duration": 30,
       "parentalRating": "",
       "programType": "Sports non-event",
@@ -94,92 +28,169 @@
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-11-21_SH042728730000_105753336739_2022-04-14T18:06:06Z_p21832098_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
+      "programTitle": "PGA Tour Golf",
+      "episodeTitle": "The RSM Classic, Third Round",
+      "description": "From Sea Island Golf Club - Seaside Course in Sea Island, Ga.",
+      "scheduledDate": 1795300200000,
+      "duration": 90,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-11-21_SH030899370000_114699832686_2025-07-31T11:34:53Z_p845788_i_h8_af/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "How Good is Golf",
+      "episodeTitle": "St Michaels Golf Club",
+      "description": "Paul Gow talks everything golf, taking people through the greatest game of all, showing them how to play, where to play and what equipment to use.",
+      "scheduledDate": 1795305600000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-11-22_SH047697570000_112826563949_2026-01-16T17:55:26Z_p24911210_i_h10_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
       "programTitle": "Challenger PGA Tour of Australasia",
       "episodeTitle": "Queensland PGA Championship, Third Round",
       "description": "",
-      "scheduledDate": 1795249800000,
+      "scheduledDate": 1795307400000,
       "duration": 60,
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Golf",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-11-21_SH066716570000_115889319088_2026-11-19T16:05:39Z_p34385964_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-11-22_SH066716570000_115889319088_2026-11-19T16:05:39Z_p34385964_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "PGA Tour Golf",
-      "episodeTitle": "The RSM Classic, Second Round",
-      "description": "From Sea Island Golf Club - Seaside Course in Sea Island, Ga.",
-      "scheduledDate": 1795253400000,
-      "duration": 90,
-      "parentalRating": "",
-      "programType": "Sports event",
-      "genre": "Golf",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-11-21_SH030899370000_114699832686_2025-07-31T11:34:53Z_p845788_i_h8_af/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
-    {
-      "programTitle": "SailGP",
-      "episodeTitle": "Dubai, Day 1",
+      "programTitle": "Challenger PGA Tour of Australasia",
+      "episodeTitle": "Queensland PGA Championship, Final Round",
       "description": "",
-      "scheduledDate": 1795258800000,
-      "duration": 90,
-      "parentalRating": "",
-      "programType": "Sports event",
-      "genre": "Sailing",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-11-21_SH051028760000_112367882509_2021-04-23T21:46:53Z_p19827810_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
-    {
-      "programTitle": "Sailing to The Games",
-      "episodeTitle": "",
-      "description": "Dedicated to the story of Olympic Sailing, as the world's star names and fresh talents strive to compete on the world's greatest sports stage and claim their medals at the Olympic Games.",
-      "scheduledDate": 1795264200000,
-      "duration": 30,
-      "parentalRating": "",
-      "programType": "Sports non-event",
-      "genre": "Sailing",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-11-21_SH045604150000_111341337738_2026-05-14T13:56:11Z_p22538760_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
-    {
-      "programTitle": "DP World Tour Golf",
-      "episodeTitle": "DP World Tour Championship, Final Round",
-      "description": "From Jumeirah Golf Estates in Dubai, United Arab Emirates.",
-      "scheduledDate": 1795266000000,
-      "duration": 120,
+      "scheduledDate": 1795311000000,
+      "duration": 300,
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Golf",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-11-21_SH040914080000_115936700683_2026-11-15T08:25:21Z_p20993758_i_h10_ad/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
-    {
-      "programTitle": "WTGL",
-      "episodeTitle": "Boston Common Golf Club v Motor City Golf Club",
-      "description": "",
-      "scheduledDate": 1795273200000,
-      "duration": 90,
-      "parentalRating": "",
-      "programType": "Sports non-event",
-      "genre": "Golf",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-11-21_SH066911130000_115578556206_2026-10-27T13:15:13Z_p34457857_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
-    {
-      "programTitle": "PGA Tour Golf",
-      "episodeTitle": "The RSM Classic, Second Round",
-      "description": "From Sea Island Golf Club - Seaside Course in Sea Island, Ga.",
-      "scheduledDate": 1795278600000,
-      "duration": 90,
-      "parentalRating": "",
-      "programType": "Sports event",
-      "genre": "Golf",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-11-21_SH030899370000_114699832686_2025-07-31T11:34:53Z_p845788_i_h8_af/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-11-22_SH066716570000_115889319088_2026-11-19T16:05:39Z_p34385964_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "PGA Tour Golf",
       "episodeTitle": "The RSM Classic, Third Round",
       "description": "From Sea Island Golf Club - Seaside Course in Sea Island, Ga.",
-      "scheduledDate": 1795284000000,
+      "scheduledDate": 1795329000000,
+      "duration": 90,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-11-22_SH030899370000_114699832686_2025-07-31T11:34:53Z_p845788_i_h8_af/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "DP World Tour Highlights",
+      "episodeTitle": "",
+      "description": "",
+      "scheduledDate": 1795334400000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-11-22_SH042728730000_105753336739_2022-04-14T18:06:06Z_p21832098_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Challenger PGA Tour of Australasia",
+      "episodeTitle": "Queensland PGA Championship, Final Round",
+      "description": "",
+      "scheduledDate": 1795336200000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-11-22_SH066716570000_115889319088_2026-11-19T16:05:39Z_p34385964_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "PGA Tour Golf",
+      "episodeTitle": "The RSM Classic, Third Round",
+      "description": "From Sea Island Golf Club - Seaside Course in Sea Island, Ga.",
+      "scheduledDate": 1795339800000,
+      "duration": 90,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-11-22_SH030899370000_114699832686_2025-07-31T11:34:53Z_p845788_i_h8_af/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "SailGP",
+      "episodeTitle": "Dubai, Day 2",
+      "description": "",
+      "scheduledDate": 1795345200000,
+      "duration": 90,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Sailing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-11-22_SH051028760000_112367882509_2021-04-23T21:46:53Z_p19827810_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Sailing to The Games",
+      "episodeTitle": "",
+      "description": "Dedicated to the story of Olympic Sailing, as the world's star names and fresh talents strive to compete on the world's greatest sports stage and claim their medals at the Olympic Games.",
+      "scheduledDate": 1795350600000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Sailing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-11-22_SH045604150000_111341337738_2026-05-14T13:56:11Z_p22538760_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Challenger PGA Tour of Australasia",
+      "episodeTitle": "Queensland PGA Championship, Final Round",
+      "description": "",
+      "scheduledDate": 1795352400000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-11-22_SH066716570000_115889319088_2026-11-19T16:05:39Z_p34385964_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "PGA Tour Golf",
+      "episodeTitle": "The RSM Classic, Third Round",
+      "description": "From Sea Island Golf Club - Seaside Course in Sea Island, Ga.",
+      "scheduledDate": 1795356000000,
+      "duration": 90,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-11-22_SH030899370000_114699832686_2025-07-31T11:34:53Z_p845788_i_h8_af/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Challenger PGA Tour of Australasia",
+      "episodeTitle": "Queensland PGA Championship, Final Round",
+      "description": "",
+      "scheduledDate": 1795361400000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-11-22_SH066716570000_115889319088_2026-11-19T16:05:39Z_p34385964_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "PGA Tour Golf",
+      "episodeTitle": "The RSM Classic, Third Round",
+      "description": "From Sea Island Golf Club - Seaside Course in Sea Island, Ga.",
+      "scheduledDate": 1795365000000,
+      "duration": 90,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-11-22_SH030899370000_114699832686_2025-07-31T11:34:53Z_p845788_i_h8_af/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "PGA Tour Golf",
+      "episodeTitle": "RSM Classic, Final Round",
+      "description": "From Sea Island Golf Club - Seaside Course in Sea Island, Ga.",
+      "scheduledDate": 1795370400000,
       "duration": 180,
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Golf",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-11-21_SH030899370000_114699832686_2025-07-31T11:34:53Z_p845788_i_h8_af/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-11-22_EP030899370161_115827284092_2020-10-09T21:10:39Z_p18859744_b_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     }
   ]
 }
