@@ -2,8 +2,8 @@
   "channel": "FSP",
   "date": "2026-11-24",
   "source": "kayo",
-  "fetchedAt": 1795296510496,
-  "fetchedAtIST": "22/11/2026, 2:58:30 am",
+  "fetchedAt": 1795325475688,
+  "fetchedAtIST": "22/11/2026, 11:01:15 am",
   "events": [
     {
       "programTitle": "MotoGP Racing",
@@ -26,6 +26,116 @@
       "programType": "Sports event",
       "genre": "Darts",
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-11-23_SH032967320000_115472606336_2024-10-04T13:14:55Z_p644283_i_h8_ah/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Formula 1",
+      "episodeTitle": "Las Vegas Grand Prix",
+      "description": "From Las Vegas Strip Street Circuit in Las Vegas.",
+      "scheduledDate": 1795480200000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Auto racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-11-24_EP027326820892_115827080054_2026-11-10T21:25:04Z_GNLZZGG003XGQ38/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "SailGP",
+      "episodeTitle": "Dubai, Day 1",
+      "description": "",
+      "scheduledDate": 1795487400000,
+      "duration": 90,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Sailing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-11-24_SH051028760000_112367882509_2021-04-23T21:46:53Z_p19827810_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "SailGP",
+      "episodeTitle": "Dubai, Day 2",
+      "description": "",
+      "scheduledDate": 1795492800000,
+      "duration": 90,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Sailing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-11-24_SH051028760000_112367882509_2021-04-23T21:46:53Z_p19827810_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "International Brawling Championship",
+      "episodeTitle": "Highlights: IBC06",
+      "description": "Step inside the raw and uncompromising world of underground fight culture.",
+      "scheduledDate": 1795498200000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Mixed martial arts",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-11-24_SH065139570000_115084805497_2026-10-16T21:52:11Z_p33539447_i_h8_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "International Brawling Championship",
+      "episodeTitle": "",
+      "description": "Step inside the raw and uncompromising world of underground fight culture.",
+      "scheduledDate": 1795500000000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Mixed martial arts",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-11-24_SH065139570000_115084805497_2026-10-16T21:52:11Z_p33539447_i_h8_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "SailGP Highlights",
+      "episodeTitle": "Dubai GP",
+      "description": "Features all the best sailing highlights from competitions across the globe.",
+      "scheduledDate": 1795501800000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Sailing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-11-24_SH039043160000_112166871707_2022-11-22T06:36:35Z_p17178369_i_h10_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Test Cricket",
+      "episodeTitle": "2nd Test, Day 2: South Africa v Bangladesh",
+      "description": "Coverage and highlights from international test cricket matches.",
+      "scheduledDate": 1795505400000,
+      "duration": 480,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Cricket, Classic sport event",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-11-24_SH033446590000_98978823590_2023-09-29T14:53:53Z_p8163404_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "SailGP",
+      "episodeTitle": "Dubai, Day 1",
+      "description": "",
+      "scheduledDate": 1795534200000,
+      "duration": 90,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Sailing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-11-24_SH051028760000_112367882509_2021-04-23T21:46:53Z_p19827810_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "MotoGP Racing",
+      "episodeTitle": "Grand Prix of Portugal: MotoGP, Race",
+      "description": "From Algarve International Circuit in Portimão, Algarve, Portugal. Race start: 10:00pm (AEST).",
+      "scheduledDate": 1795539600000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Motorcycle racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-11-24_EP028104880318_115818962506_2021-04-02T01:16:14Z_p19745071_b_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Formula 1",
+      "episodeTitle": "Las Vegas Grand Prix",
+      "description": "From Las Vegas Strip Street Circuit in Las Vegas.",
+      "scheduledDate": 1795543200000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Auto racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-11-24_EP027326820892_115827080054_2026-11-10T21:25:04Z_GNLZZGG003XGQ38/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     }
   ]
 }

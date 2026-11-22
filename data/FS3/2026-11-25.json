@@ -1,0 +1,42 @@
+{
+  "channel": "FS3",
+  "date": "2026-11-25",
+  "source": "kayo",
+  "fetchedAt": 1795325475679,
+  "fetchedAtIST": "22/11/2026, 11:01:15 am",
+  "events": [
+    {
+      "programTitle": "Australian Golf Archive",
+      "episodeTitle": "2018: Australian PGA Championship",
+      "description": "A look at the rich history and memorable moments of Australian golf.",
+      "scheduledDate": 1795546800000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Golf, Classic sport event",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-11-24_SH053910720000_115865214612_2026-11-19T06:00:02Z_p28724539_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Australian Golf Archive",
+      "episodeTitle": "2021: Australian PGA Championship",
+      "description": "A look at the rich history and memorable moments of Australian golf.",
+      "scheduledDate": 1795554000000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Golf, Classic sport event",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-11-24_SH053910720000_115865214612_2026-11-19T06:00:02Z_p28724539_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Australian PGA Championship Golf",
+      "episodeTitle": "2022 Final Round",
+      "description": "Coverage of the Australian PGA Championship, a prestigious event on the PGA Tour of Australasia.",
+      "scheduledDate": 1795561200000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-11-24_SH045350440000_115915069425_2023-01-18T12:18:39Z_p8944835_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    }
+  ]
+}

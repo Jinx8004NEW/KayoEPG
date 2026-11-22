@@ -2,8 +2,8 @@
   "channel": "ES2",
   "date": "2026-11-24",
   "source": "kayo",
-  "fetchedAt": 1795296510517,
-  "fetchedAtIST": "22/11/2026, 2:58:30 am",
+  "fetchedAt": 1795325475713,
+  "fetchedAtIST": "22/11/2026, 11:01:15 am",
   "events": [
     {
       "programTitle": "The Breakdown With Peyton and Kuechly",
@@ -48,6 +48,127 @@
       "programType": "Sports event",
       "genre": "Basketball",
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-11-23_EP066460661068_115940310597_2026-10-22T08:10:29Z_GNLZZGG003T9N8Y/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Nothing But Net",
+      "episodeTitle": "",
+      "description": "Kane Pitman and Ryan Broekhoff preview the upcoming NBA and NBL action through their Aussie lens, with guest interviews, highlights and breaking news.",
+      "scheduledDate": 1795478400000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Basketball",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-11-24_SH047654740000_108130071776_2023-06-02T12:16:33Z_p24869175_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NBA Basketball",
+      "episodeTitle": "Minnesota Timberwolves vs Brooklyn Nets",
+      "description": "From the Target Center in Minneapolis.",
+      "scheduledDate": 1795480200000,
+      "duration": 150,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Basketball",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-11-24_EP030658785734_115876229538_2026-09-02T08:18:45Z_GNLZZGG003M694C/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NBA Basketball",
+      "episodeTitle": "Sacramento Kings vs San Antonio Spurs",
+      "description": "From Golden 1 Center in Sacramento, Calif.",
+      "scheduledDate": 1795489200000,
+      "duration": 150,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Basketball",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-11-24_EP030658785740_115876229510_2026-09-02T08:16:40Z_GNLZZGG003M67QF/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NFL Football",
+      "episodeTitle": "Washington Commanders vs Cincinnati Bengals",
+      "description": "From Northwest Field in Landover, Md.",
+      "scheduledDate": 1795498200000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-11-24_EP029371131996_115889054328_2026-07-15T07:29:38Z_GNLZZGG0039QGC7/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NFL Football",
+      "episodeTitle": "Washington Commanders vs Cincinnati Bengals",
+      "description": "From Northwest Field in Landover, Md.",
+      "scheduledDate": 1795505400000,
+      "duration": 150,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-11-24_EP029371131996_115889054328_2026-07-15T07:29:38Z_GNLZZGG0039QGC7/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NBA Basketball",
+      "episodeTitle": "Sacramento Kings vs San Antonio Spurs",
+      "description": "From Golden 1 Center in Sacramento, Calif.",
+      "scheduledDate": 1795514400000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Basketball",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-11-24_EP030658785740_115876229510_2026-09-02T08:16:40Z_GNLZZGG003M67QF/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "College Basketball",
+      "episodeTitle": "Ole Miss vs Clemson",
+      "description": "From Lahaina Civic Center in Lahaina, Hawaii.",
+      "scheduledDate": 1795521600000,
+      "duration": 90,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Basketball",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-11-24_EP066460661065_115943898800_2026-10-22T08:35:33Z_GNLZZGG003TB1G0/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "College Basketball",
+      "episodeTitle": "Washington vs BYU",
+      "description": "From Lahaina Civic Center in Lahaina, Hawaii.",
+      "scheduledDate": 1795527000000,
+      "duration": 90,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Basketball",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-11-24_EP066460661068_115940310597_2026-10-22T08:10:29Z_GNLZZGG003T9N8Y/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "College Basketball",
+      "episodeTitle": "Wright State vs St. Bonaventure",
+      "description": "From HP Field House in Lake Buena Vista, Fla.",
+      "scheduledDate": 1795532400000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Basketball",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-11-24_EP066460661329_115887843291_2026-10-24T04:44:18Z_GNLZZGG003TRJSH/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "SportsCenter",
+      "episodeTitle": "",
+      "description": "The team deliver the latest news, highlights, and inside information from the wide world of sports, as well as trending topics across social media platforms.",
+      "scheduledDate": 1795539600000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "News, Sports talk",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-11-24_SH033259060000_115863159434_2018-04-18T10:39:00Z_p186674_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "College Basketball",
+      "episodeTitle": "Belmont vs Akron",
+      "description": "From HP Field House in Lake Buena Vista, Fla.",
+      "scheduledDate": 1795541400000,
+      "duration": 90,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Basketball",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-11-24_EP066460661331_115887661483_2026-10-24T04:44:14Z_GNLZZGG003TRJS1/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     }
   ]
 }
