@@ -2,8 +2,8 @@
   "channel": "FS1",
   "date": "2026-11-25",
   "source": "kayo",
-  "fetchedAt": 1795414329667,
-  "fetchedAtIST": "23/11/2026, 11:42:09 am",
+  "fetchedAt": 1795463683060,
+  "fetchedAtIST": "24/11/2026, 1:24:43 am",
   "events": [
     {
       "programTitle": "Cricket Stunts",
@@ -17,15 +17,37 @@
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-11-24_SH049879290000_79093812306_2024-01-11T06:53:17Z_p26489997_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "Keepin' It Cricket",
-      "episodeTitle": "",
-      "description": "Hosts Alyssa Healy, Brad Haddin and Adam Peacock deliver tactical breakdowns, squad debates and daily reviews of Australian men's and women's cricket, alongside industry news and in-depth chats with stars.",
+      "programTitle": "WBBL Mini",
+      "episodeTitle": "Sydney Sixers v Perth Scorchers",
+      "description": "The latest highlights, reaction and analysis of the biggest sports stories from Australia and around the world.",
       "scheduledDate": 1795550400000,
-      "duration": 60,
+      "duration": 20,
       "parentalRating": "",
       "programType": "Series",
       "genre": "Cricket",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-11-24_SH065972560000_115920270230_2026-10-23T19:38:09Z_p34015117_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-11-24_SH048957470000_114999026223_2023-10-11T04:14:19Z_p25853183_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "WBBL Mini",
+      "episodeTitle": "Brisbane Heat v Adelaide Strikers",
+      "description": "The latest highlights, reaction and analysis of the biggest sports stories from Australia and around the world.",
+      "scheduledDate": 1795551600000,
+      "duration": 20,
+      "parentalRating": "",
+      "programType": "Series",
+      "genre": "Cricket",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-11-24_SH048957470000_114999026223_2023-10-11T04:14:19Z_p25853183_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "WBBL Mini",
+      "episodeTitle": "Melbourne Stars v Melbourne Renegades",
+      "description": "Sophie Molineux and Meg Lanning go head-to-head in the first Melbourne Derby of WBBL.",
+      "scheduledDate": 1795552800000,
+      "duration": 20,
+      "parentalRating": "",
+      "programType": "Series",
+      "genre": "Cricket",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-11-24_SH048957470000_114999026223_2023-10-11T04:14:19Z_p25853183_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "T20 Cricket",
@@ -113,7 +135,7 @@
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Cricket",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-11-25_EP028878790161_115886989930_2026-11-19T14:08:46Z_GNLZZGG003ZDQ9Q/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-11-25_EP028878790161_116039325505_2026-11-19T14:08:46Z_GNLZZGG003ZDQ9Q/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "Test Cricket",

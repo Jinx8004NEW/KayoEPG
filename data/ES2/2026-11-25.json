@@ -2,8 +2,8 @@
   "channel": "ES2",
   "date": "2026-11-25",
   "source": "kayo",
-  "fetchedAt": 1795414329701,
-  "fetchedAtIST": "23/11/2026, 11:42:09 am",
+  "fetchedAt": 1795463683092,
+  "fetchedAtIST": "24/11/2026, 1:24:43 am",
   "events": [
     {
       "programTitle": "The Pat McAfee Show",
@@ -17,6 +17,17 @@
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-11-24_SH048483860000_111648065422_2020-09-10T14:31:07Z_p18762527_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
+      "programTitle": "College Basketball",
+      "episodeTitle": "Maui Invitational, First Semifinal: Teams TBA",
+      "description": "From Lahaina Civic Center in Lahaina, Hawaii.",
+      "scheduledDate": 1795548600000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Basketball",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-11-24_SH066460660000_115684164859_2023-10-27T11:03:49Z_p191260_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
       "programTitle": "Baseball Tonight",
       "episodeTitle": "",
       "description": "Major League Baseball highlights, news, and information show providing comprehensive season long coverage.",
@@ -28,15 +39,26 @@
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-11-24_SH033235530000_112980364972_2026-08-10T19:26:00Z_p337588_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "College Football Live",
-      "episodeTitle": "",
-      "description": "Breaking news, analysis, features, roundtable discussions, and interviews covering all the latest events from the world of college football.",
-      "scheduledDate": 1795557600000,
+      "programTitle": "In Depth With Graham Bensinger",
+      "episodeTitle": "Dikembe Mutombo",
+      "description": "Graham visits the Congo to meet former basketball star and Hall of Famer Dikembe Mutombo. They check out a hospital built by Mutombo and discuss his career.",
+      "scheduledDate": 1795555800000,
       "duration": 30,
       "parentalRating": "",
-      "programType": "Sports non-event",
-      "genre": "Football, News",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-11-24_SH033651660000_114502000521_2017-12-12T23:22:00Z_p221266_i_h10_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "programType": "Series",
+      "genre": "Sports talk, Interview",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-11-24_EP033308670132_116039467646_2025-08-11T17:54:25Z_p28383013_e_h11_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "College Basketball",
+      "episodeTitle": "Maui Invitational, Second Semifinal: Teams TBA",
+      "description": "From Lahaina Civic Center in Lahaina, Hawaii.",
+      "scheduledDate": 1795557600000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Basketball",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-11-24_SH066460660000_115684164859_2023-10-27T11:03:49Z_p191260_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "Pardon the Interruption",
@@ -50,15 +72,48 @@
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-11-24_SH032424080000_114840902253_2021-04-08T22:26:28Z_p186288_i_h8_ae/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "To Be Announced",
-      "episodeTitle": "",
-      "description": "The programming for this time slot has yet to be determined and is being confirmed by the broadcast channel.",
+      "programTitle": "In Depth With Graham Bensinger",
+      "episodeTitle": "Roy Williams",
+      "description": "Graham visits legendary NCAA basketball coach Roy Williams at his alma mater, the University of North Carolina, talks about the missteps that fuelled his retirement and illustrates how his career came full circle at UNC.",
       "scheduledDate": 1795564800000,
-      "duration": 240,
+      "duration": 30,
       "parentalRating": "",
-      "programType": "TBA",
-      "genre": "Special, Entertainment",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-11-25_SH027575020000_115927682703_2021-11-15T14:36:19Z_p514472_b_h8_dp/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "programType": "Series",
+      "genre": "Sports talk, Interview",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-11-25_EP033308670081_116039467574_2025-08-11T17:54:54Z_p20933684_e_h11_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "College Football Playoff: Top 25",
+      "episodeTitle": "",
+      "description": "College football's top teams are debated and discussed in anticipation of the College Football Playoff Selection Committee's first meeting. Rece Davis hosts with analysis from David Pollack, Joey Galloway, and Kirk Herbstreit.",
+      "scheduledDate": 1795566600000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-11-25_SH033458380000_116039468052_2019-10-15T18:00:31Z_p17487834_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "College Basketball",
+      "episodeTitle": "Louisville vs Texas Tech",
+      "description": "From Michelob ULTRA Arena in Las Vegas.",
+      "scheduledDate": 1795568400000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Basketball",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-11-25_EP066460661369_116045658499_2026-10-24T07:51:50Z_GNLZZGG003TRZ7J/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NBA Basketball",
+      "episodeTitle": "Denver Nuggets vs Dallas Mavericks",
+      "description": "From Ball Arena in Denver.",
+      "scheduledDate": 1795575600000,
+      "duration": 150,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Basketball",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-11-25_EP030658785743_116044680125_2026-09-02T08:17:19Z_GNLZZGG003M6842/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "To Be Announced",
@@ -72,15 +127,81 @@
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-11-25_SH027575020000_115927682703_2021-11-15T14:36:19Z_p514472_b_h8_dp/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "To Be Announced",
+      "programTitle": "SportsCenter",
       "episodeTitle": "",
-      "description": "The programming for this time slot has yet to be determined and is being confirmed by the broadcast channel.",
-      "scheduledDate": 1795593600000,
-      "duration": 240,
+      "description": "The team deliver the latest news, highlights, and inside information from the wide world of sports, as well as trending topics across social media platforms.",
+      "scheduledDate": 1795584600000,
+      "duration": 30,
       "parentalRating": "",
-      "programType": "TBA",
-      "genre": "Special, Entertainment",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-11-25_SH027575020000_115927682703_2021-11-15T14:36:19Z_p514472_b_h8_dp/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "programType": "Sports non-event",
+      "genre": "News, Sports talk",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-11-25_SH033259060000_115863159434_2018-04-18T10:39:00Z_p186674_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NBA Minis",
+      "episodeTitle": "2026-27: Boston Celtics vs Washington Wizards",
+      "description": "A collection of special condensed replays featuring the best highlights and all the key moments on the court.",
+      "scheduledDate": 1795586400000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Classic sport event, Basketball",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-11-25_SH035801090000_115013696310_2020-08-10T05:50:19Z_p18627080_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "College Basketball",
+      "episodeTitle": "Maui Invitational, First Semifinal: Teams TBA",
+      "description": "From Lahaina Civic Center in Lahaina, Hawaii.",
+      "scheduledDate": 1795588200000,
+      "duration": 90,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Basketball",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-11-25_SH066460660000_115684164859_2023-10-27T11:03:49Z_p191260_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NBA Minis",
+      "episodeTitle": "2026-27: Dallas Mavericks vs Denver Nuggets",
+      "description": "A collection of special condensed replays featuring the best highlights and all the key moments on the court.",
+      "scheduledDate": 1795593600000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Classic sport event, Basketball",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-11-25_SH035801090000_115013696310_2020-08-10T05:50:19Z_p18627080_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "College Basketball",
+      "episodeTitle": "Maui Invitational, Second Semifinal: Teams TBA",
+      "description": "From Lahaina Civic Center in Lahaina, Hawaii.",
+      "scheduledDate": 1795595400000,
+      "duration": 90,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Basketball",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-11-25_SH066460660000_115684164859_2023-10-27T11:03:49Z_p191260_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "College Basketball",
+      "episodeTitle": "Creighton vs Michigan",
+      "description": "From T-Mobile Arena in Las Vegas.",
+      "scheduledDate": 1795600800000,
+      "duration": 90,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Basketball",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-11-25_EP066460661342_116039468054_2026-11-04T17:22:33Z_GNLZZGG003WZ1S0/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "College Basketball",
+      "episodeTitle": "Louisville vs Texas Tech",
+      "description": "From Michelob ULTRA Arena in Las Vegas.",
+      "scheduledDate": 1795606200000,
+      "duration": 90,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Basketball",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-11-25_EP066460661369_116045658499_2026-10-24T07:51:50Z_GNLZZGG003TRZ7J/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "To Be Announced",
@@ -94,6 +215,28 @@
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-11-25_SH027575020000_115927682703_2021-11-15T14:36:19Z_p514472_b_h8_dp/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
+      "programTitle": "College Football",
+      "episodeTitle": "Western Michigan vs Miami (Ohio)",
+      "description": "American college football action.",
+      "scheduledDate": 1795611600000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-11-25_EP064738031567_116044916966_2026-06-21T10:14:03Z_GNLZZGG00373P25/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "College Basketball",
+      "episodeTitle": "St. Bonaventure vs Belmont",
+      "description": "From HP Field House in Lake Buena Vista, Fla.",
+      "scheduledDate": 1795618800000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Basketball",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-11-25_EP066460661380_116039467572_2026-10-24T07:51:19Z_GNLZZGG003TRXY6/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
       "programTitle": "To Be Announced",
       "episodeTitle": "",
       "description": "The programming for this time slot has yet to be determined and is being confirmed by the broadcast channel.",
@@ -103,6 +246,28 @@
       "programType": "TBA",
       "genre": "Special, Entertainment",
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-11-25_SH027575020000_115927682703_2021-11-15T14:36:19Z_p514472_b_h8_dp/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "College Basketball Scoreboard",
+      "episodeTitle": "",
+      "description": "All the coverage of the best highlights, moments, and game-play analysis from the world of college basketball.",
+      "scheduledDate": 1795626000000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Basketball",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-11-25_SH033626130000_115684165302_2020-03-09T08:15:08Z_p221222_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "College Basketball",
+      "episodeTitle": "Yale vs Wright State",
+      "description": "From HP Field House in Lake Buena Vista, Fla.",
+      "scheduledDate": 1795627800000,
+      "duration": 150,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Basketball",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-11-25_EP066460661385_116039467595_2026-10-24T10:56:58Z_GNLZZGG003TS4T9/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     }
   ]
 }

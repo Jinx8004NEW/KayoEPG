@@ -2,8 +2,8 @@
   "channel": "SP2",
   "date": "2026-11-24",
   "source": "kayo",
-  "fetchedAt": 1795414329672,
-  "fetchedAtIST": "23/11/2026, 11:42:09 am",
+  "fetchedAt": 1795463683065,
+  "fetchedAtIST": "24/11/2026, 1:24:43 am",
   "events": [
     {
       "programTitle": "NRL",
@@ -149,15 +149,15 @@
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-11-24_SH063233670000_115774258154_2026-03-12T05:04:48Z_p32515532_i_h10_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "NRL Classic Match",
-      "episodeTitle": "2005 Round 17: Wests Tigers v Manly-Warringah Sea Eagles",
-      "description": "Re-live some of the best rugby league clashes from the Premiership's past.",
+      "programTitle": "Superstars",
+      "episodeTitle": "Benji Marshall",
+      "description": "An exclusive list of the biggest names in the game, past and present, featuring their best games.",
       "scheduledDate": 1795503600000,
       "duration": 60,
       "parentalRating": "",
       "programType": "Sports event",
-      "genre": "Rugby, Classic sport event",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-11-24_SH034822800000_100794011205_2020-04-08T22:50:08Z_p18168517_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "genre": "Classic sport event, Rugby league",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-11-24_SH054856520000_116045334141_2026-10-29T05:38:28Z_p29063747_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "NRL 360",
@@ -182,15 +182,15 @@
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-11-24_SH053177030000_100906053540_2025-10-15T06:38:51Z_p28430202_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "NRL Hall of Fame",
-      "episodeTitle": "Danny Buderus: 2004 Round 10, Brisbane Broncos vs Newcastle Knights",
-      "description": "",
+      "programTitle": "Golden Point Thrillers",
+      "episodeTitle": "2004 Round 10: Brisbane Broncos v Newcastle Knights",
+      "description": "When rugby league goes into extra time special things happen, the best Golden Point victories from the NRL.",
       "scheduledDate": 1795514400000,
       "duration": 60,
       "parentalRating": "",
-      "programType": "Sports non-event",
-      "genre": "Other",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-11-24_SH052464460000_114800011794_2026-10-29T07:15:19Z_p28042003_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "programType": "Series",
+      "genre": "Rugby league",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-11-24_SH035075750000_116045334142_2020-05-06T18:20:09Z_p18281216_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "NRL 360",

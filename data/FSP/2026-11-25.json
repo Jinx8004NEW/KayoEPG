@@ -2,8 +2,8 @@
   "channel": "FSP",
   "date": "2026-11-25",
   "source": "kayo",
-  "fetchedAt": 1795414329685,
-  "fetchedAtIST": "23/11/2026, 11:42:09 am",
+  "fetchedAt": 1795463683076,
+  "fetchedAtIST": "24/11/2026, 1:24:43 am",
   "events": [
     {
       "programTitle": "MotoGP Racing",
@@ -150,14 +150,14 @@
     },
     {
       "programTitle": "Test Cricket",
-      "episodeTitle": "2nd Test, Day 3: South Africa v Bangladesh",
-      "description": "Coverage and highlights from international test cricket matches.",
+      "episodeTitle": "South Africa vs Bangladesh",
+      "description": "SuperSport Park",
       "scheduledDate": 1795591800000,
       "duration": 480,
       "parentalRating": "",
       "programType": "Sports event",
-      "genre": "Cricket, Classic sport event",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-11-25_SH033446590000_98978823590_2023-09-29T14:53:53Z_p8163404_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "genre": "Cricket",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-11-25_EP029804991955_116039468168_2026-10-27T23:03:43Z_GNLZZGG003VB0QJ/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "Supercars Championship",
