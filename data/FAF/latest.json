@@ -2,8 +2,8 @@
   "channel": "FAF",
   "date": "2026-11-24",
   "source": "kayo",
-  "fetchedAt": 1795463683071,
-  "fetchedAtIST": "24/11/2026, 1:24:43 am",
+  "fetchedAt": 1795495134906,
+  "fetchedAtIST": "24/11/2026, 10:08:54 am",
   "events": [
     {
       "programTitle": "AFLW Awards 2026",
@@ -131,7 +131,18 @@
       "episodeTitle": "North Melbourne Kangaroos vs Sydney Swans",
       "description": "From IKON Park in Melbourne, Victoria, Australia.",
       "scheduledDate": 1795525200000,
-      "duration": 90,
+      "duration": 5,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Playoff sports, Australian rules football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-11-24_EP029247970862_115961558920_2026-11-17T01:54:35Z_GNLZZGG003XLBKM/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "AFL Women's Premiership",
+      "episodeTitle": "North Melbourne Kangaroos vs Sydney Swans",
+      "description": "From IKON Park in Melbourne, Victoria, Australia.",
+      "scheduledDate": 1795525500000,
+      "duration": 85,
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Playoff sports, Australian rules football",
