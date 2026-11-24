@@ -2,19 +2,52 @@
   "channel": "ES2",
   "date": "2026-11-27",
   "source": "kayo",
-  "fetchedAt": 1795495134943,
-  "fetchedAtIST": "24/11/2026, 10:08:54 am",
+  "fetchedAt": 1795548208878,
+  "fetchedAtIST": "25/11/2026, 12:53:28 am",
   "events": [
     {
-      "programTitle": "To Be Announced",
+      "programTitle": "College Basketball Scoreboard",
       "episodeTitle": "",
-      "description": "The programming for this time slot has yet to be determined and is being confirmed by the broadcast channel.",
+      "description": "All the coverage of the best highlights, moments, and game-play analysis from the world of college basketball.",
       "scheduledDate": 1795723200000,
-      "duration": 240,
+      "duration": 30,
       "parentalRating": "",
-      "programType": "TBA",
-      "genre": "Special, Entertainment",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-11-26_SH027575020000_115927682703_2021-11-15T14:36:19Z_p514472_b_h8_dp/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "programType": "Sports non-event",
+      "genre": "Basketball",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-11-26_SH033626130000_115684165302_2020-03-09T08:15:08Z_p221222_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "College Basketball",
+      "episodeTitle": "",
+      "description": "Coverage of Men's college basketball games from the USA.",
+      "scheduledDate": 1795725000000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Basketball",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-11-26_SH066460660000_116089408912_2023-10-27T11:03:49Z_p191260_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "College Basketball Scoreboard",
+      "episodeTitle": "",
+      "description": "All the coverage of the best highlights, moments, and game-play analysis from the world of college basketball.",
+      "scheduledDate": 1795732200000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Basketball",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-11-26_SH033626130000_115684165302_2020-03-09T08:15:08Z_p221222_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "College Basketball",
+      "episodeTitle": "",
+      "description": "Coverage of Men's college basketball games from the USA.",
+      "scheduledDate": 1795734000000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Basketball",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-11-26_SH066460660000_116089408912_2023-10-27T11:03:49Z_p191260_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     }
   ]
 }

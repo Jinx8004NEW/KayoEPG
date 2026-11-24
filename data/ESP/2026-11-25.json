@@ -2,8 +2,8 @@
   "channel": "ESP",
   "date": "2026-11-25",
   "source": "kayo",
-  "fetchedAt": 1795495134935,
-  "fetchedAtIST": "24/11/2026, 10:08:54 am",
+  "fetchedAt": 1795548208872,
+  "fetchedAtIST": "25/11/2026, 12:53:28 am",
   "events": [
     {
       "programTitle": "Big Day With Peter Schrager",
@@ -80,7 +80,7 @@
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Basketball",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-11-25_EP030658785742_116046712306_2026-09-02T08:21:59Z_GNLZZGG003M6C72/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-11-25_EP030658785742_116091818621_2026-09-02T08:21:59Z_GNLZZGG003M6C72/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "College Basketball",
@@ -135,7 +135,7 @@
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Basketball",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-11-25_EP030658785742_116046712306_2026-09-02T08:21:59Z_GNLZZGG003M6C72/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-11-25_EP030658785742_116091818621_2026-09-02T08:21:59Z_GNLZZGG003M6C72/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "NBA Basketball",
@@ -146,7 +146,7 @@
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Basketball",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-11-25_EP030658785743_116044680125_2026-09-02T08:17:19Z_GNLZZGG003M6842/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-11-25_EP030658785743_116078350955_2026-09-02T08:17:19Z_GNLZZGG003M6842/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "NBA Minis",
@@ -208,7 +208,7 @@
       "episodeTitle": "Virginia vs Marquette",
       "description": "From Imperial Arena in Nassau, Bahamas.",
       "scheduledDate": 1795626000000,
-      "duration": 180,
+      "duration": 120,
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Basketball",

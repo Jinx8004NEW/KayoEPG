@@ -2,9 +2,31 @@
   "channel": "SPS",
   "date": "2026-11-27",
   "source": "kayo",
-  "fetchedAt": 1795495134925,
-  "fetchedAtIST": "24/11/2026, 10:08:54 am",
+  "fetchedAt": 1795548208865,
+  "fetchedAtIST": "25/11/2026, 12:53:28 am",
   "events": [
+    {
+      "programTitle": "Supercars Championship",
+      "episodeTitle": "bp Adelaide Grand Final: Practice 1",
+      "description": "Supercars compete in a series across Australia and New Zealand.",
+      "scheduledDate": 1795717800000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Auto racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-11-26_EP027326761276_116076976979_2026-11-23T11:31:42Z_GNLZZGG003ZT232/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "MotorRacing 360",
+      "episodeTitle": "Adelaide Grand Final Street Party",
+      "description": "Entertaining and informative discussions about all the biggest news across the week in motor sport, including Supercars, Formula 1 and MotoGP.",
+      "scheduledDate": 1795719600000,
+      "duration": 90,
+      "parentalRating": "",
+      "programType": "Series",
+      "genre": "Motorsports",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-11-26_SH063406000000_114609093005_2026-10-25T07:59:17Z_p32624137_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
     {
       "programTitle": "To Be Announced",
       "episodeTitle": "",
@@ -15,6 +37,50 @@
       "programType": "TBA",
       "genre": "Special, Entertainment",
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-11-26_SH027575020000_115927682703_2021-11-15T14:36:19Z_p514472_b_h8_dp/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Supercars Championship",
+      "episodeTitle": "bp Adelaide Grand Final: Practice 1",
+      "description": "Supercars compete in a series across Australia and New Zealand.",
+      "scheduledDate": 1795725000000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Auto racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-11-26_EP027326761276_116076976979_2026-11-23T11:31:42Z_GNLZZGG003ZT232/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Formula 1",
+      "episodeTitle": "Qatar Grand Prix: Paddock Uncut",
+      "description": "Features all the action and highlights from Formula 1 racing.",
+      "scheduledDate": 1795726800000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Classic sport event, Motorsports, Auto racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-11-26_SH035915380000_115380106475_2023-09-29T11:04:19Z_p8544413_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Supercars Championship",
+      "episodeTitle": "bp Adelaide Grand Final: Supports",
+      "description": "Supercars compete in a series across Australia and New Zealand.",
+      "scheduledDate": 1795728600000,
+      "duration": 100,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Auto racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-11-26_EP027326761278_116090889803_2026-11-23T13:29:29Z_GNLZZGG003ZTJXN/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Supercars Championship",
+      "episodeTitle": "bp Adelaide Grand Final: Practice 2",
+      "description": "Supercars compete in a series across Australia and New Zealand.",
+      "scheduledDate": 1795734600000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Auto racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-11-26_EP027326761281_116090890034_2026-11-23T13:31:45Z_GNLZZGG003ZTMP1/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     }
   ]
 }

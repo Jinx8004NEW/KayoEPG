@@ -2,8 +2,8 @@
   "channel": "FAF",
   "date": "2026-11-26",
   "source": "kayo",
-  "fetchedAt": 1795495134908,
-  "fetchedAtIST": "24/11/2026, 10:08:54 am",
+  "fetchedAt": 1795548208854,
+  "fetchedAtIST": "25/11/2026, 12:53:28 am",
   "events": [
     {
       "programTitle": "AFL Women's Premiership",
@@ -117,14 +117,14 @@
     },
     {
       "programTitle": "Classic AFL",
-      "episodeTitle": "1970 Grand Final: Collingwood vs Carlton",
+      "episodeTitle": "1997 AFL Grand Final: Adelaide vs St Kilda",
       "description": "Condensed highlights and a look back at full replays of some of the greatest encounters from the Australian Football League.",
       "scheduledDate": 1795683600000,
       "duration": 120,
       "parentalRating": "",
-      "programType": "Sports non-event",
-      "genre": "Australian rules football",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-11-26_SH028096630000_102142641835_2018-11-27T09:00:00Z_p14740563_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "programType": "Sports event",
+      "genre": "Classic sport event, Australian rules football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-11-26_EP028096630207_115883680189_2020-05-15T06:10:10Z_p18311691_e_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "Classic AFL",

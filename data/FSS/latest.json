@@ -1,196 +1,207 @@
 {
   "channel": "FSS",
-  "date": "2026-11-24",
+  "date": "2026-11-25",
   "source": "kayo",
-  "fetchedAt": 1795495134929,
-  "fetchedAtIST": "24/11/2026, 10:08:54 am",
+  "fetchedAt": 1795548208868,
+  "fetchedAtIST": "25/11/2026, 12:53:28 am",
   "events": [
     {
       "programTitle": "SailGP",
       "episodeTitle": "Dubai, Day 2",
       "description": "",
-      "scheduledDate": 1795458600000,
+      "scheduledDate": 1795545000000,
       "duration": 90,
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Sailing",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-11-23_SH051028760000_112367882509_2021-04-23T21:46:53Z_p19827810_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-11-24_SH051028760000_112367882509_2021-04-23T21:46:53Z_p19827810_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "F1 Mini",
+      "episodeTitle": "Las Vegas Grand Prix",
+      "description": "Highlights of the world's most iconic Formula 1 Grands Prix, featuring every podium and overtake.",
+      "scheduledDate": 1795550400000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Motorsports, Classic sport event",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-11-24_SH036452570000_107032703571_2020-11-19T03:00:48Z_p18944992_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "Darts",
       "episodeTitle": "Grand Slam of Darts: Final Day, Night Session",
       "description": "Covering of all the action from darts events around the world.",
-      "scheduledDate": 1795464000000,
+      "scheduledDate": 1795552200000,
       "duration": 120,
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Darts",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-11-23_SH032967320000_115472606336_2024-10-04T13:14:55Z_p644283_i_h8_ah/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-11-24_SH032967320000_115472606336_2024-10-04T13:14:55Z_p644283_i_h8_ah/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "LPGA Tour Golf",
       "episodeTitle": "CME Group Tour Championship, Final Round",
       "description": "From Tiburon Golf Club in Naples, Fla.",
-      "scheduledDate": 1795471200000,
+      "scheduledDate": 1795559400000,
       "duration": 120,
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Golf",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-11-23_EP031583890743_116023329221_2026-11-03T11:24:03Z_GNLZZGG003WMBJV/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-11-24_EP031583890743_116023329221_2026-11-03T11:24:03Z_GNLZZGG003WMBJV/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "F1 Mini",
+      "episodeTitle": "Las Vegas Grand Prix",
+      "description": "Highlights of the world's most iconic Formula 1 Grands Prix, featuring every podium and overtake.",
+      "scheduledDate": 1795566600000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Motorsports, Classic sport event",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-11-25_SH036452570000_107032703571_2020-11-19T03:00:48Z_p18944992_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "A December To Remember",
+      "episodeTitle": "",
+      "description": "",
+      "scheduledDate": 1795568400000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Special, Boxing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-11-25_SH067326470000_116076976914_2026-11-24T07:29:01Z_p34699310_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Pro Bull Riding",
+      "episodeTitle": "Mackay",
+      "description": "The best bull riders in Australia and the world compete for prize money on the professional bull riding circuit.",
+      "scheduledDate": 1795572000000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Bull riding",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-11-25_SH029446100000_108472165776_2018-05-25T09:42:00Z_p15394895_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "PGA Tour Golf",
+      "episodeTitle": "RSM Classic, Final Round",
+      "description": "From Sea Island Golf Club in Sea Island, Ga.",
+      "scheduledDate": 1795575600000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-11-25_EP030899370347_116039467705_2021-10-11T20:55:43Z_p20794780_b_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "LPGA Tour Golf",
+      "episodeTitle": "CME Group Tour Championship, Final Round",
+      "description": "From Tiburon Golf Club in Naples, Fla.",
+      "scheduledDate": 1795582800000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-11-25_EP031583890743_116023329221_2026-11-03T11:24:03Z_GNLZZGG003WMBJV/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "A December To Remember",
+      "episodeTitle": "",
+      "description": "",
+      "scheduledDate": 1795590000000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Special, Boxing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-11-25_SH067326470000_116076976914_2026-11-24T07:29:01Z_p34699310_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "The Ocean Race Atlantic",
+      "episodeTitle": "Review Show",
+      "description": "Elite international teams are challenged to navigate cutting-edge foil yachts across thousands of nautical miles to France while collecting vital climate data along their dangerous ocean route.",
+      "scheduledDate": 1795593600000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Series",
+      "genre": "Sports talk, Sailing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-11-25_SH065946040000_116075611261_2026-11-10T10:45:26Z_p33986939_i_h10_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "SailGP",
       "episodeTitle": "Dubai, Day 1",
       "description": "",
-      "scheduledDate": 1795478400000,
+      "scheduledDate": 1795597200000,
       "duration": 90,
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Sailing",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-11-24_SH051028760000_112367882509_2021-04-23T21:46:53Z_p19827810_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-11-25_SH051028760000_112367882509_2021-04-23T21:46:53Z_p19827810_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "SailGP",
       "episodeTitle": "Dubai, Day 2",
       "description": "",
-      "scheduledDate": 1795483800000,
+      "scheduledDate": 1795602600000,
       "duration": 90,
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Sailing",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-11-24_SH051028760000_112367882509_2021-04-23T21:46:53Z_p19827810_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-11-25_SH051028760000_112367882509_2021-04-23T21:46:53Z_p19827810_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "PGA Tour Highlights",
-      "episodeTitle": "The RSM Classic",
-      "description": "Highlights from PGA Tour events featuring the world's best golfers in action. Hosts track the progression of the game while reviewing the changes in technologies and techniques.",
-      "scheduledDate": 1795489200000,
+      "programTitle": "The Ocean Race Atlantic",
+      "episodeTitle": "Review Show",
+      "description": "Elite international teams are challenged to navigate cutting-edge foil yachts across thousands of nautical miles to France while collecting vital climate data along their dangerous ocean route.",
+      "scheduledDate": 1795608000000,
       "duration": 60,
-      "parentalRating": "",
-      "programType": "Sports event",
-      "genre": "Classic sport event, Golf",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-11-24_SH032355110000_114391477483_2023-03-16T12:30:24Z_p9060599_i_h10_ae/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
-    {
-      "programTitle": "Darts",
-      "episodeTitle": "Grand Slam of Darts: Final Day, Night Session",
-      "description": "Covering of all the action from darts events around the world.",
-      "scheduledDate": 1795492800000,
-      "duration": 120,
-      "parentalRating": "",
-      "programType": "Sports event",
-      "genre": "Darts",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-11-24_SH032967320000_115472606336_2024-10-04T13:14:55Z_p644283_i_h8_ah/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
-    {
-      "programTitle": "Sailing to The Games",
-      "episodeTitle": "",
-      "description": "Dedicated to the story of Olympic Sailing, as the world's star names and fresh talents strive to compete on the world's greatest sports stage and claim their medals at the Olympic Games.",
-      "scheduledDate": 1795500000000,
-      "duration": 30,
-      "parentalRating": "",
-      "programType": "Sports non-event",
-      "genre": "Sailing",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-11-24_SH045604150000_111341337738_2026-05-14T13:56:11Z_p22538760_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
-    {
-      "programTitle": "Getting a Round In",
-      "episodeTitle": "Season Review",
-      "description": "Australian professional golfer, Paul Gow hosts celebrities as his playing partners who share his love for the game of golf.",
-      "scheduledDate": 1795501800000,
-      "duration": 30,
       "parentalRating": "",
       "programType": "Series",
-      "genre": "Golf, Interview",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-11-24_SH048121120000_110998856207_2023-07-18T05:56:16Z_p25221374_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
-    {
-      "programTitle": "PGA Tour Highlights",
-      "episodeTitle": "The RSM Classic",
-      "description": "Highlights from PGA Tour events featuring the world's best golfers in action. Hosts track the progression of the game while reviewing the changes in technologies and techniques.",
-      "scheduledDate": 1795503600000,
-      "duration": 60,
-      "parentalRating": "",
-      "programType": "Sports event",
-      "genre": "Classic sport event, Golf",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-11-24_SH032355110000_114391477483_2023-03-16T12:30:24Z_p9060599_i_h10_ae/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
-    {
-      "programTitle": "SailGP Highlights",
-      "episodeTitle": "Dubai GP",
-      "description": "Features all the best sailing highlights from competitions across the globe.",
-      "scheduledDate": 1795507200000,
-      "duration": 60,
-      "parentalRating": "",
-      "programType": "Sports non-event",
-      "genre": "Sailing",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-11-24_SH039043160000_112166871707_2022-11-22T06:36:35Z_p17178369_i_h10_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
-    {
-      "programTitle": "Formula 1",
-      "episodeTitle": "Las Vegas Grand Prix, Qualifying",
-      "description": "From Las Vegas Strip Street Circuit in Las Vegas.",
-      "scheduledDate": 1795510800000,
-      "duration": 60,
-      "parentalRating": "",
-      "programType": "Sports event",
-      "genre": "Auto racing",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-11-24_EP027326820781_115818962777_2025-10-24T19:25:02Z_p28981664_b_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
-    {
-      "programTitle": "Formula 1",
-      "episodeTitle": "Las Vegas Grand Prix: Race",
-      "description": "Features all the action and highlights from Formula 1 racing.",
-      "scheduledDate": 1795514400000,
-      "duration": 120,
-      "parentalRating": "",
-      "programType": "Sports event",
-      "genre": "Classic sport event, Motorsports, Auto racing",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-11-24_SH035915380000_115380106475_2023-09-29T11:04:19Z_p8544413_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
-    {
-      "programTitle": "Formula 1 Chequered Flag",
-      "episodeTitle": "Las Vegas Grand Prix",
-      "description": "A recap of all the Formula 1 racing action, featuring highlights and analysis.",
-      "scheduledDate": 1795521600000,
-      "duration": 60,
-      "parentalRating": "",
-      "programType": "Sports non-event",
-      "genre": "Auto racing",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-11-24_SH038537820000_108756450962_2020-03-11T21:20:06Z_p17998973_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
-    {
-      "programTitle": "Darts",
-      "episodeTitle": "Grand Slam of Darts: Final Day, Night Session",
-      "description": "Covering of all the action from darts events around the world.",
-      "scheduledDate": 1795525200000,
-      "duration": 120,
-      "parentalRating": "",
-      "programType": "Sports event",
-      "genre": "Darts",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-11-24_SH032967320000_115472606336_2024-10-04T13:14:55Z_p644283_i_h8_ah/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
-    },
-    {
-      "programTitle": "Formula 1",
-      "episodeTitle": "Las Vegas Grand Prix: Race",
-      "description": "Features all the action and highlights from Formula 1 racing.",
-      "scheduledDate": 1795532400000,
-      "duration": 120,
-      "parentalRating": "",
-      "programType": "Sports event",
-      "genre": "Classic sport event, Motorsports, Auto racing",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-11-24_SH035915380000_115380106475_2023-09-29T11:04:19Z_p8544413_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "genre": "Sports talk, Sailing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-11-25_SH065946040000_116075611261_2026-11-10T10:45:26Z_p33986939_i_h10_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "SailGP",
       "episodeTitle": "Dubai, Day 1",
       "description": "",
-      "scheduledDate": 1795539600000,
+      "scheduledDate": 1795611600000,
       "duration": 90,
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Sailing",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-11-24_SH051028760000_112367882509_2021-04-23T21:46:53Z_p19827810_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-11-25_SH051028760000_112367882509_2021-04-23T21:46:53Z_p19827810_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "SailGP",
+      "episodeTitle": "Dubai, Day 2",
+      "description": "",
+      "scheduledDate": 1795617000000,
+      "duration": 90,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Sailing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-11-25_SH051028760000_112367882509_2021-04-23T21:46:53Z_p19827810_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Darts",
+      "episodeTitle": "Grand Slam of Darts: Final Day, Night Session",
+      "description": "Covering of all the action from darts events around the world.",
+      "scheduledDate": 1795622400000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Darts",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-11-25_SH032967320000_115472606336_2024-10-04T13:14:55Z_p644283_i_h8_ah/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Pro Bull Riding",
+      "episodeTitle": "Mackay",
+      "description": "The best bull riders in Australia and the world compete for prize money on the professional bull riding circuit.",
+      "scheduledDate": 1795629600000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Bull riding",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-11-25_SH029446100000_108472165776_2018-05-25T09:42:00Z_p15394895_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     }
   ]
 }

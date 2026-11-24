@@ -2,19 +2,52 @@
   "channel": "FS1",
   "date": "2026-11-27",
   "source": "kayo",
-  "fetchedAt": 1795495134886,
-  "fetchedAtIST": "24/11/2026, 10:08:54 am",
+  "fetchedAt": 1795548208840,
+  "fetchedAtIST": "25/11/2026, 12:53:28 am",
   "events": [
     {
-      "programTitle": "To Be Announced",
-      "episodeTitle": "",
-      "description": "The programming for this time slot has yet to be determined and is being confirmed by the broadcast channel.",
-      "scheduledDate": 1795723200000,
-      "duration": 240,
+      "programTitle": "T20 Cricket",
+      "episodeTitle": "Australia v England",
+      "description": "All the action and highlights from Twenty20 cricket matches.",
+      "scheduledDate": 1795719600000,
+      "duration": 60,
       "parentalRating": "",
-      "programType": "TBA",
-      "genre": "Special, Entertainment",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-11-26_SH027575020000_115927682703_2021-11-15T14:36:19Z_p514472_b_h8_dp/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "programType": "Sports non-event",
+      "genre": "Cricket",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-11-26_SH033516560000_114889348974_2023-09-05T14:04:06Z_p8414564_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "T20 Cricket",
+      "episodeTitle": "Australia vs England, Game 2",
+      "description": "All the action and highlights from Twenty20 cricket matches.",
+      "scheduledDate": 1795723200000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Cricket",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-11-26_SH033516560000_114889348974_2023-09-05T14:04:06Z_p8414564_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Fox Cricket Pre Game",
+      "episodeTitle": "New Zealand v India, 2nd Test Day 1",
+      "description": "The team present an extensive preview of all the action to come with the latest news, the best analysis, entertainment and interviews.",
+      "scheduledDate": 1795726800000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Cricket",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-11-26_SH035786310000_111887034140_2025-11-20T06:27:30Z_p18624259_i_h10_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Test Cricket",
+      "episodeTitle": "New Zealand vs India",
+      "description": "From Hagley Oval in Christchurch, Canterbury, New Zealand.",
+      "scheduledDate": 1795730400000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Cricket",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-11-26_EP029804991920_116094826484_2026-10-11T16:45:02Z_GNLZZGG003RZK9C/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     }
   ]
 }

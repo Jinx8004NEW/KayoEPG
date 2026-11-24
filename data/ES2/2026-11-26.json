@@ -2,9 +2,20 @@
   "channel": "ES2",
   "date": "2026-11-26",
   "source": "kayo",
-  "fetchedAt": 1795495134942,
-  "fetchedAtIST": "24/11/2026, 10:08:54 am",
+  "fetchedAt": 1795548208878,
+  "fetchedAtIST": "25/11/2026, 12:53:28 am",
   "events": [
+    {
+      "programTitle": "College Basketball",
+      "episodeTitle": "Texas A&M vs Xavier",
+      "description": "From Imperial Arena in Nassau, Bahamas.",
+      "scheduledDate": 1795635000000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Basketball",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-11-25_EP066460661398_116076977018_2026-10-24T10:51:48Z_GNLZZGG003TS1SX/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
     {
       "programTitle": "To Be Announced",
       "episodeTitle": "",
@@ -17,15 +28,59 @@
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-11-25_SH027575020000_115927682703_2021-11-15T14:36:19Z_p514472_b_h8_dp/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "To Be Announced",
-      "episodeTitle": "",
-      "description": "The programming for this time slot has yet to be determined and is being confirmed by the broadcast channel.",
-      "scheduledDate": 1795651200000,
-      "duration": 240,
+      "programTitle": "In Depth With Graham Bensinger",
+      "episodeTitle": "Kevin Plank",
+      "description": "Renowned journalist Graham Bensinger interviews some of the biggest names in sports, discussing their lives and careers and some controversial topics.",
+      "scheduledDate": 1795642200000,
+      "duration": 30,
       "parentalRating": "",
-      "programType": "TBA",
-      "genre": "Special, Entertainment",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-11-26_SH027575020000_115927682703_2021-11-15T14:36:19Z_p514472_b_h8_dp/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "programType": "Series",
+      "genre": "Sports talk, Interview",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-11-25_EP033308670163_116076976884_2025-09-16T12:24:27Z_p31054959_e_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "In Depth With Graham Bensinger",
+      "episodeTitle": "Pain to Power",
+      "description": "Past guests including Jon Hamm, Jayson Tatum, and Arnold Schwarzenegger reflect on the hardships that didn't define them, but instead helped fuel their success.",
+      "scheduledDate": 1795644000000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Series",
+      "genre": "Sports talk, Interview",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-11-25_SH033308670000_112801614915_2026-01-13T18:05:19Z_p8178298_i_h8_ad/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "College Basketball",
+      "episodeTitle": "Virginia vs Marquette",
+      "description": "From Imperial Arena in Nassau, Bahamas.",
+      "scheduledDate": 1795645800000,
+      "duration": 90,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Basketball",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-11-25_EP066460661384_116042050077_2026-10-24T07:56:39Z_GNLZZGG003TRLQQ/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NHL Hockey",
+      "episodeTitle": "Tampa Bay Lightning vs Carolina Hurricanes",
+      "description": "From Benchmark International Arena in Tampa, Fla.",
+      "scheduledDate": 1795651200000,
+      "duration": 150,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Hockey",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-11-26_EP033422284870_116076976880_2026-09-03T18:24:57Z_GNLZZGG003MGW2G/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NHL Hockey",
+      "episodeTitle": "Colorado Avalanche vs Montreal Canadiens",
+      "description": "From Ball Arena in Denver.",
+      "scheduledDate": 1795660200000,
+      "duration": 150,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Hockey",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-11-26_EP033422284875_116076976882_2026-08-01T23:40:02Z_GNLZZGG003DHGTF/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "To Be Announced",
@@ -39,37 +94,136 @@
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-11-26_SH027575020000_115927682703_2021-11-15T14:36:19Z_p514472_b_h8_dp/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "To Be Announced",
+      "programTitle": "NFL Blitz",
       "episodeTitle": "",
-      "description": "The programming for this time slot has yet to be determined and is being confirmed by the broadcast channel.",
+      "description": "All of the best action from the National Football League.",
+      "scheduledDate": 1795669200000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Family, Football, News, Newsmagazine",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-11-26_SH060667300000_113358670220_2022-09-12T05:46:51Z_p22911383_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "SportsCenter",
+      "episodeTitle": "",
+      "description": "The team deliver the latest news, highlights, and inside information from the wide world of sports, as well as trending topics across social media platforms.",
+      "scheduledDate": 1795671000000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "News, Sports talk",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-11-26_SH033259060000_115863159434_2018-04-18T10:39:00Z_p186674_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NBA Minis",
+      "episodeTitle": "Miami Heat at Philadelphia 76ers",
+      "description": "A collection of special condensed replays featuring the best highlights and all the key moments on the court.",
+      "scheduledDate": 1795672800000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Classic sport event, Basketball",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-11-26_SH035801090000_115013696310_2020-08-10T05:50:19Z_p18627080_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NBA Minis",
+      "episodeTitle": "2026-27: Minnesota Timberwolves at Oklahoma City Thunder",
+      "description": "A collection of special condensed replays featuring the best highlights and all the key moments on the court.",
+      "scheduledDate": 1795674600000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Classic sport event, Basketball",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-11-26_SH035801090000_115013696310_2020-08-10T05:50:19Z_p18627080_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Nothing But Net",
+      "episodeTitle": "",
+      "description": "Kane Pitman and Ryan Broekhoff preview the upcoming NBA and NBL action through their Aussie lens, with guest interviews, highlights and breaking news.",
+      "scheduledDate": 1795676400000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Basketball",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-11-26_SH047654740000_108130071776_2023-06-02T12:16:33Z_p24869175_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NBA Basketball",
+      "episodeTitle": "Philadelphia 76ers vs Miami Heat",
+      "description": "From Xfinity Mobile Arena in Philadelphia.",
       "scheduledDate": 1795680000000,
-      "duration": 240,
+      "duration": 120,
       "parentalRating": "",
-      "programType": "TBA",
-      "genre": "Special, Entertainment",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-11-26_SH027575020000_115927682703_2021-11-15T14:36:19Z_p514472_b_h8_dp/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "programType": "Sports event",
+      "genre": "Basketball",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-11-26_EP030658785744_116090459133_2026-09-02T08:22:03Z_GNLZZGG003M6C8G/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "To Be Announced",
-      "episodeTitle": "",
-      "description": "The programming for this time slot has yet to be determined and is being confirmed by the broadcast channel.",
+      "programTitle": "NBA Basketball",
+      "episodeTitle": "Oklahoma City Thunder vs Minnesota Timberwolves",
+      "description": "From Paycom Center in Oklahoma City.",
+      "scheduledDate": 1795687200000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Basketball",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-11-26_EP030658785747_116080704289_2026-09-02T10:54:52Z_GNLZZGG003M6WMK/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "College Basketball",
+      "episodeTitle": "Maui Invitational, Championship Game: Teams TBA",
+      "description": "From Lahaina Civic Center in Lahaina, Hawaii.",
       "scheduledDate": 1795694400000,
-      "duration": 240,
+      "duration": 90,
       "parentalRating": "",
-      "programType": "TBA",
-      "genre": "Special, Entertainment",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-11-26_SH027575020000_115927682703_2021-11-15T14:36:19Z_p514472_b_h8_dp/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "programType": "Sports event",
+      "genre": "Basketball",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-11-26_SH066460660000_116089408912_2023-10-27T11:03:49Z_p191260_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "To Be Announced",
+      "programTitle": "Get Up",
       "episodeTitle": "",
-      "description": "The programming for this time slot has yet to be determined and is being confirmed by the broadcast channel.",
-      "scheduledDate": 1795708800000,
-      "duration": 240,
+      "description": "Mike Greenberg, Laura Rutledge and Jalen Rose discuss and analyse the latest news from the world of sports.",
+      "scheduledDate": 1795699800000,
+      "duration": 90,
       "parentalRating": "",
-      "programType": "TBA",
-      "genre": "Special, Entertainment",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-11-26_SH027575020000_115927682703_2021-11-15T14:36:19Z_p514472_b_h8_dp/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "programType": "Sports non-event",
+      "genre": "Sports talk",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-11-26_SH033268270000_115655397261_2026-03-24T04:04:44Z_p15158780_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "First Take",
+      "episodeTitle": "",
+      "description": "Stephen A. Smith joins Molly Qerim Rose to debate the hottest topics in sports.",
+      "scheduledDate": 1795705200000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Sports talk, News, Debate",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-11-26_SH033280060000_108193810385_2025-11-07T06:36:14Z_p186291_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "College Basketball",
+      "episodeTitle": "Georgia vs Cincinnati",
+      "description": "From HP Field House in Lake Buena Vista, Fla.",
+      "scheduledDate": 1795708800000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Basketball",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-11-26_EP066460661431_116076977014_2026-10-24T13:47:19Z_GNLZZGG003TS6LK/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "College Basketball",
+      "episodeTitle": "",
+      "description": "Coverage of Men's college basketball games from the USA.",
+      "scheduledDate": 1795716000000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Basketball",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-11-26_SH066460660000_116089408912_2023-10-27T11:03:49Z_p191260_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     }
   ]
 }

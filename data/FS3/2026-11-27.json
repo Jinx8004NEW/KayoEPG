@@ -2,9 +2,20 @@
   "channel": "FS3",
   "date": "2026-11-27",
   "source": "kayo",
-  "fetchedAt": 1795495134902,
-  "fetchedAtIST": "24/11/2026, 10:08:54 am",
+  "fetchedAt": 1795548208850,
+  "fetchedAtIST": "25/11/2026, 12:53:28 am",
   "events": [
+    {
+      "programTitle": "DP World Tour Golf",
+      "episodeTitle": "BMW Australian PGA Championship, First Round",
+      "description": "From The Lakes Golf Club in Sydney.",
+      "scheduledDate": 1795719600000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-11-26_EP040914080741_116055543083_2026-11-17T15:28:55Z_GNLZZGG003XYW1R/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
     {
       "programTitle": "To Be Announced",
       "episodeTitle": "",
@@ -15,6 +26,28 @@
       "programType": "TBA",
       "genre": "Special, Entertainment",
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-11-26_SH027575020000_115927682703_2021-11-15T14:36:19Z_p514472_b_h8_dp/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "DP World Tour Golf",
+      "episodeTitle": "BMW Australian PGA Championship, First Round",
+      "description": "From The Lakes Golf Club in Sydney.",
+      "scheduledDate": 1795726800000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-11-26_EP040914080741_116055543083_2026-11-17T15:28:55Z_GNLZZGG003XYW1R/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "DP World Tour Golf",
+      "episodeTitle": "BMW Australian PGA Championship, First Round",
+      "description": "From The Lakes Golf Club in Sydney.",
+      "scheduledDate": 1795734000000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-11-26_EP040914080741_116055543083_2026-11-17T15:28:55Z_GNLZZGG003XYW1R/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     }
   ]
 }
