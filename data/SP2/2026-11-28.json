@@ -1,0 +1,64 @@
+{
+  "channel": "SP2",
+  "date": "2026-11-28",
+  "source": "kayo",
+  "fetchedAt": 1795577039729,
+  "fetchedAtIST": "25/11/2026, 8:53:59 am",
+  "events": [
+    {
+      "programTitle": "NRL",
+      "episodeTitle": "Melbourne Storm vs Sydney Roosters",
+      "description": "From AAMI Park in Melbourne City, Victoria, Australia.",
+      "scheduledDate": 1795806000000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Rugby league, Rugby",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-11-27_EP031720961130_116090889812_2026-03-21T02:47:21Z_GNLZZGG0031G2TG/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NRL",
+      "episodeTitle": "Brisbane Broncos vs St. George Illawarra Dragons",
+      "description": "From Suncorp Stadium in Milton, Queensland, Australia.",
+      "scheduledDate": 1795809600000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Rugby league, Rugby",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-11-27_EP031720961131_116090890029_2026-03-21T02:37:01Z_GNLZZGG0031FZJD/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NRL",
+      "episodeTitle": "Canberra Raiders vs North Queensland Cowboys",
+      "description": "From GIO Stadium Canberra in Bruce, Australian Capital Territory, Australia.",
+      "scheduledDate": 1795813200000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Rugby league, Rugby",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-11-27_EP031720961132_116090890045_2026-03-21T02:57:47Z_GNLZZGG0031G1CZ/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NRL",
+      "episodeTitle": "Penrith Panthers vs New Zealand Warriors",
+      "description": "From CommBank Stadium in Parramatta, New South Wales, Australia.",
+      "scheduledDate": 1795816800000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Rugby league, Rugby",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-11-27_EP031720961133_116090889909_2026-03-21T03:00:23Z_GNLZZGG0031FLKD/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NRL",
+      "episodeTitle": "Manly-Warringah Sea Eagles vs South Sydney Rabbitohs",
+      "description": "From 4 Pines Park in Brookvale, New South Wales, Australia.",
+      "scheduledDate": 1795820400000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Rugby league, Rugby",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103065_2026-11-27_EP031720961134_116090889926_2026-04-08T03:10:17Z_GNLZZGG00328YYL/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    }
+  ]
+}
