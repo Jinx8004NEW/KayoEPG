@@ -2,8 +2,8 @@
   "channel": "ESP",
   "date": "2026-11-26",
   "source": "kayo",
-  "fetchedAt": 1795577039767,
-  "fetchedAtIST": "25/11/2026, 8:53:59 am",
+  "fetchedAt": 1795615057380,
+  "fetchedAtIST": "25/11/2026, 7:27:37 pm",
   "events": [
     {
       "programTitle": "College Basketball Scoreboard",
@@ -18,14 +18,14 @@
     },
     {
       "programTitle": "College Basketball",
-      "episodeTitle": "Maui Invitational, Championship Game: Teams TBA",
+      "episodeTitle": "Maui Invitational, Championship Game: Ole Miss vs Arizona",
       "description": "From Lahaina Civic Center in Lahaina, Hawaii.",
       "scheduledDate": 1795635000000,
       "duration": 120,
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Basketball",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-11-25_SH066460660000_116089408912_2023-10-27T11:03:49Z_p191260_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-11-25_EP066460665865_116134254714_2026-11-25T07:48:29Z_GNLZZGG003K309S/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "To Be Announced",
@@ -274,11 +274,11 @@
       "episodeTitle": "Detroit Lions vs Chicago Bears",
       "description": "From Ford Field in Detroit.",
       "scheduledDate": 1795716000000,
-      "duration": 120,
+      "duration": 210,
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Football",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-11-26_EP029371131998_116084898036_2026-07-15T07:30:44Z_GNLZZGG0039Y56G/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-11-26_EP029371131998_116125450888_2026-07-15T07:30:44Z_GNLZZGG0039Y56G/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     }
   ]
 }

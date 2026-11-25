@@ -2,9 +2,20 @@
   "channel": "FSS",
   "date": "2026-11-28",
   "source": "kayo",
-  "fetchedAt": 1795577039761,
-  "fetchedAtIST": "25/11/2026, 8:53:59 am",
+  "fetchedAt": 1795615057376,
+  "fetchedAtIST": "25/11/2026, 7:27:37 pm",
   "events": [
+    {
+      "programTitle": "Darts",
+      "episodeTitle": "Players Championship: Day 1, Night Session",
+      "description": "Covering of all the action from darts events around the world.",
+      "scheduledDate": 1795806000000,
+      "duration": 240,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Darts",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-11-27_SH032967320000_115472606336_2024-10-04T13:14:55Z_p644283_i_h8_ah/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
     {
       "programTitle": "To Be Announced",
       "episodeTitle": "",
@@ -15,6 +26,17 @@
       "programType": "TBA",
       "genre": "Special, Entertainment",
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-11-27_SH027575020000_115927682703_2021-11-15T14:36:19Z_p514472_b_h8_dp/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Formula 1",
+      "episodeTitle": "Qatar Grand Prix, Practice 1",
+      "description": "From Losail International Circuit in Doha, Ad Dawhah, Qatar.",
+      "scheduledDate": 1795820400000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Auto racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-11-27_EP027326820783_116129644384_2025-10-24T20:24:15Z_p28981668_b_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     }
   ]
 }

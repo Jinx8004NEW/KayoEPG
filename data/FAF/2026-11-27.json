@@ -2,8 +2,8 @@
   "channel": "FAF",
   "date": "2026-11-27",
   "source": "kayo",
-  "fetchedAt": 1795577039740,
-  "fetchedAtIST": "25/11/2026, 8:53:59 am",
+  "fetchedAt": 1795615057345,
+  "fetchedAtIST": "25/11/2026, 7:27:37 pm",
   "events": [
     {
       "programTitle": "AFL Women's Premiership",
@@ -21,7 +21,7 @@
       "episodeTitle": "",
       "description": "Australian rules football's biggest night, honouring the standout stars of the 2026 AFLW season.",
       "scheduledDate": 1795723200000,
-      "duration": 120,
+      "duration": 150,
       "parentalRating": "",
       "programType": "Sports non-event",
       "genre": "Special, Australian rules football",
@@ -73,7 +73,7 @@
     },
     {
       "programTitle": "AFLW Grand Final Glory",
-      "episodeTitle": "2022 Grand Final: Adelaide Crows vs Melbourne Demons",
+      "episodeTitle": "2023 Grand Final: North Melbourne Kangaroos vs Brisbane Lions",
       "description": "As the AFLW Grand Final approaches, the team revisit exciting deciders from past seasons.",
       "scheduledDate": 1795737600000,
       "duration": 30,
@@ -84,7 +84,7 @@
     },
     {
       "programTitle": "AFLW Grand Final Glory",
-      "episodeTitle": "2023 Grand Final: North Melbourne Kangaroos vs Brisbane Lions",
+      "episodeTitle": "2024 Grand Final: North Melbourne Kangaroos vs Brisbane Lions",
       "description": "As the AFLW Grand Final approaches, the team revisit exciting deciders from past seasons.",
       "scheduledDate": 1795739400000,
       "duration": 30,
@@ -95,7 +95,7 @@
     },
     {
       "programTitle": "AFLW Grand Final Glory",
-      "episodeTitle": "2024 Grand Final: North Melbourne Kangaroos vs Brisbane Lions",
+      "episodeTitle": "2025: North Melbourne Kangaroos vs Brisbane Lions",
       "description": "As the AFLW Grand Final approaches, the team revisit exciting deciders from past seasons.",
       "scheduledDate": 1795741200000,
       "duration": 30,
@@ -105,15 +105,15 @@
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-11-27_SH045509550000_115918922030_2022-11-25T03:36:43Z_p23475625_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
-      "programTitle": "AFLW Grand Final Glory",
-      "episodeTitle": "2025: North Melbourne Kangaroos vs Brisbane Lions",
-      "description": "As the AFLW Grand Final approaches, the team revisit exciting deciders from past seasons.",
+      "programTitle": "AFL Women's Premiership",
+      "episodeTitle": "North Melbourne Kangaroos vs Sydney Swans",
+      "description": "From IKON Park in Melbourne, Victoria, Australia.",
       "scheduledDate": 1795743000000,
-      "duration": 30,
+      "duration": 90,
       "parentalRating": "",
-      "programType": "Sports non-event",
-      "genre": "Australian rules football, Special",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-11-27_SH045509550000_115918922030_2022-11-25T03:36:43Z_p23475625_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "programType": "Sports event",
+      "genre": "Playoff sports, Australian rules football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-11-27_EP029247970862_115961558920_2026-11-17T01:54:35Z_GNLZZGG003XLBKM/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "AFL Women's Premiership",
@@ -130,12 +130,34 @@
       "programTitle": "AFL Women's Premiership",
       "episodeTitle": "Melbourne Demons vs Carlton Blues",
       "description": "From IKON Park in Melbourne, Victoria, Australia.",
+      "scheduledDate": 1795748400000,
+      "duration": 90,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Australian rules football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-11-27_EP029247970863_115961573030_2026-11-17T04:52:53Z_GNLZZGG003XLGQC/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "AFL Women's Premiership",
+      "episodeTitle": "Melbourne Demons vs Carlton Blues",
+      "description": "From IKON Park in Melbourne, Victoria, Australia.",
       "scheduledDate": 1795750200000,
       "duration": 90,
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Australian rules football",
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-11-27_EP029247970863_115961573030_2026-11-17T04:52:53Z_GNLZZGG003XLGQC/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "AFLW Awards 2026",
+      "episodeTitle": "",
+      "description": "Australian rules football's biggest night, honouring the standout stars of the 2026 AFLW season.",
+      "scheduledDate": 1795753800000,
+      "duration": 150,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Special, Australian rules football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-11-27_SH067223810000_115968068454_2026-11-19T06:40:56Z_p34654375_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "AFLW Awards 2026",
