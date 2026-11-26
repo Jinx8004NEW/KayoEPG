@@ -2,8 +2,8 @@
   "channel": "ES2",
   "date": "2026-11-28",
   "source": "kayo",
-  "fetchedAt": 1795651231613,
-  "fetchedAtIST": "26/11/2026, 5:30:31 am",
+  "fetchedAt": 1795700178420,
+  "fetchedAtIST": "26/11/2026, 7:06:18 pm",
   "events": [
     {
       "programTitle": "College Football Scoreboard",
@@ -37,6 +37,138 @@
       "programType": "Sports non-event",
       "genre": "Football",
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-11-27_SH033268260000_112437273027_2019-12-21T18:40:07Z_p629287_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "College Basketball",
+      "episodeTitle": "West Virginia vs North Carolina",
+      "description": "From Spectrum Center in Charlotte, N.C.",
+      "scheduledDate": 1795824000000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Basketball",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-11-28_EP066460661486_116152051014_2026-10-24T14:04:00Z_GNLZZGG003TSJTN/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NBA Action",
+      "episodeTitle": "",
+      "description": "A weekly look back and recap of the top news and highlights in the NBA, with exclusive interviews and play-by-play analysis.",
+      "scheduledDate": 1795831200000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Basketball",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-11-28_SH033308440000_116136705947_2017-10-27T22:01:00Z_p448615_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "2027 FIBA Basketball World Cup Qualification",
+      "episodeTitle": "Iran vs Australia",
+      "description": "",
+      "scheduledDate": 1795833000000,
+      "duration": 90,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Basketball",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-11-28_SH061711950000_115858633129_2024-02-15T11:33:43Z_p26702214_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "WNBL",
+      "episodeTitle": "Sydney Flames vs. Townsville Fire",
+      "description": "Coverage of games played as part of Australia's professional women's basketball league.",
+      "scheduledDate": 1795838400000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Basketball",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-11-28_EP029292910568_116129644371_2026-11-24T13:59:37Z_GNLZZGG003ZY13W/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "College Basketball",
+      "episodeTitle": "West Virginia vs North Carolina",
+      "description": "From Spectrum Center in Charlotte, N.C.",
+      "scheduledDate": 1795845600000,
+      "duration": 90,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Basketball",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-11-28_EP066460661486_116152051014_2026-10-24T14:04:00Z_GNLZZGG003TSJTN/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "ESPN FC",
+      "episodeTitle": "",
+      "description": "ESPN FC brings you a round-up of the latest news from the world of football, including in-depth analysis and exclusive interviews.",
+      "scheduledDate": 1795851000000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Series",
+      "genre": "Soccer, Sports talk",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-11-28_SH033236780000_109573421566_2026-05-25T06:15:30Z_p10106369_i_h11_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "College Basketball",
+      "episodeTitle": "",
+      "description": "Coverage of Men's college basketball games from the USA.",
+      "scheduledDate": 1795852800000,
+      "duration": 90,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Basketball",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-11-28_SH066460660000_116089408912_2023-10-27T11:03:49Z_p191260_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "College Football",
+      "episodeTitle": "Memphis vs Temple",
+      "description": "From Simmons Bank Liberty Stadium in Memphis, Tenn.",
+      "scheduledDate": 1795858200000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-11-28_EP064738031571_116129644322_2026-06-21T10:14:50Z_GNLZZGG00373DYY/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "College Football",
+      "episodeTitle": "Florida State vs Florida",
+      "description": "From Doak S. Campbell Stadium in Tallahassee, Fla.",
+      "scheduledDate": 1795865400000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-11-28_EP064738031578_116177271570_2026-06-21T10:16:27Z_GNLZZGG00373DCG/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "College Football",
+      "episodeTitle": "Texas-San Antonio vs Tulsa",
+      "description": "From the Alamodome in San Antonio.",
+      "scheduledDate": 1795872600000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-11-28_EP064738031617_116090637912_2026-06-21T10:13:17Z_GNLZZGG00373GEQ/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "2027 FIBA Basketball World Cup Qualification",
+      "episodeTitle": "Jordan vs New Zealand",
+      "description": "",
+      "scheduledDate": 1795879800000,
+      "duration": 90,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Basketball",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-11-28_SH061711950000_115858633129_2024-02-15T11:33:43Z_p26702214_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "College Football",
+      "episodeTitle": "Syracuse vs Notre Dame",
+      "description": "From JMA Dome in Syracuse, N.Y.",
+      "scheduledDate": 1795885200000,
+      "duration": 180,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103360_2026-11-28_EP064738031589_116161688950_2026-06-21T10:15:45Z_GNLZZGG00373W2X/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     }
   ]
 }

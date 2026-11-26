@@ -2,12 +2,12 @@
   "channel": "FAF",
   "date": "2026-11-28",
   "source": "kayo",
-  "fetchedAt": 1795651231598,
-  "fetchedAtIST": "26/11/2026, 5:30:31 am",
+  "fetchedAt": 1795700178396,
+  "fetchedAtIST": "26/11/2026, 7:06:18 pm",
   "events": [
     {
       "programTitle": "AFLW Mini",
-      "episodeTitle": "",
+      "episodeTitle": "Grand Final: North Melbourne vs Melbourne",
       "description": "Condensed highlights of some of the greatest encounters from the AFL Women's competition.",
       "scheduledDate": 1795804200000,
       "duration": 15,
@@ -18,18 +18,18 @@
     },
     {
       "programTitle": "AFL Women's Premiership",
-      "episodeTitle": "",
-      "description": "Coverage of matches played as part of the premier women's Australian rules competition.",
+      "episodeTitle": "Grand Final: North Melbourne Kangaroos VS Melbourne Demons",
+      "description": "From IKON Park in Melbourne, Victoria, Australia.",
       "scheduledDate": 1795805100000,
       "duration": 90,
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Australian rules football",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-11-27_SH029247970000_115961482337_2025-09-19T17:14:25Z_p14834144_i_h8_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-11-27_EP029247970864_116157228210_2026-11-23T22:54:08Z_GNLZZGG003ZLFH8/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "AFLW Mini",
-      "episodeTitle": "",
+      "episodeTitle": "Grand Final: North Melbourne vs Melbourne",
       "description": "Condensed highlights of some of the greatest encounters from the AFL Women's competition.",
       "scheduledDate": 1795810500000,
       "duration": 15,
@@ -51,14 +51,256 @@
     },
     {
       "programTitle": "AFL Women's Premiership",
-      "episodeTitle": "",
-      "description": "Coverage of matches played as part of the premier women's Australian rules competition.",
+      "episodeTitle": "Grand Final: North Melbourne Kangaroos VS Melbourne Demons",
+      "description": "From IKON Park in Melbourne, Victoria, Australia.",
       "scheduledDate": 1795820400000,
       "duration": 90,
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Australian rules football",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-11-27_SH029247970000_115961482337_2025-09-19T17:14:25Z_p14834144_i_h8_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-11-27_EP029247970864_116157228210_2026-11-23T22:54:08Z_GNLZZGG003ZLFH8/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Classic AFL",
+      "episodeTitle": "2007 Grand Final: Geelong Cats v Port Adelaide Power",
+      "description": "Condensed highlights and a look back at full replays of some of the greatest encounters from the Australian Football League.",
+      "scheduledDate": 1795825800000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Classic sport event, Australian rules football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-11-28_SH028096630000_102142641835_2018-11-27T09:00:00Z_p14740563_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Classic AFL",
+      "episodeTitle": "#1 Draft Picks - Luke Hodge",
+      "description": "Condensed highlights and a look back at full replays of some of the greatest encounters from the Australian Football League.",
+      "scheduledDate": 1795827600000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Classic sport event, Australian rules football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-11-28_SH028096630000_102142641835_2018-11-27T09:00:00Z_p14740563_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Classic AFL",
+      "episodeTitle": "Mini Match: 2009 Grand Final St Kilda v Geelong",
+      "description": "Condensed highlights and a look back at full replays of some of the greatest encounters from the Australian Football League.",
+      "scheduledDate": 1795829400000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Classic sport event, Australian rules football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-11-28_SH028096630000_102142641835_2018-11-27T09:00:00Z_p14740563_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Classic AFL",
+      "episodeTitle": "Mini Match: 2010 Grand Final Collingwood v St Kilda",
+      "description": "Condensed highlights and a look back at full replays of some of the greatest encounters from the Australian Football League.",
+      "scheduledDate": 1795831200000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Classic sport event, Australian rules football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-11-28_SH028096630000_102142641835_2018-11-27T09:00:00Z_p14740563_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Classic AFL",
+      "episodeTitle": "Mini Match: 2011 Grand Final Collingwood v Geelong",
+      "description": "Condensed highlights and a look back at full replays of some of the greatest encounters from the Australian Football League.",
+      "scheduledDate": 1795833000000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Classic sport event, Australian rules football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-11-28_SH028096630000_102142641835_2018-11-27T09:00:00Z_p14740563_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "AFL Women's Premiership",
+      "episodeTitle": "Grand Final: North Melbourne Kangaroos VS Melbourne Demons",
+      "description": "From IKON Park in Melbourne, Victoria, Australia.",
+      "scheduledDate": 1795834800000,
+      "duration": 90,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Australian rules football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-11-28_EP029247970864_116157228210_2026-11-23T22:54:08Z_GNLZZGG003ZLFH8/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Classic AFL",
+      "episodeTitle": "Mini Match: 2016 Grand Final Sydney v Western Bulldogs",
+      "description": "Condensed highlights and a look back at full replays of some of the greatest encounters from the Australian Football League.",
+      "scheduledDate": 1795840200000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Classic sport event, Australian rules football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-11-28_SH028096630000_102142641835_2018-11-27T09:00:00Z_p14740563_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Classic AFL",
+      "episodeTitle": "Mini Match: 2017 Grand Final Adelaide v Richmond",
+      "description": "Victory is sweet at the best of times but especially when it's against the odds. A look at the biggest AFL upsets.",
+      "scheduledDate": 1795842000000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Classic sport event, Australian rules football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-11-28_SH028096630000_102142641835_2018-11-27T09:00:00Z_p14740563_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Classic AFL",
+      "episodeTitle": "Mini Match: 2018 Grand Final West Coast v Collingwood",
+      "description": "Condensed highlights and a look back at full replays of some of the greatest encounters from the Australian Football League.",
+      "scheduledDate": 1795843800000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Classic sport event, Australian rules football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-11-28_SH028096630000_102142641835_2018-11-27T09:00:00Z_p14740563_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Classic AFL",
+      "episodeTitle": "Mini Match: 2019 Grand Final Richmond v GWS",
+      "description": "Condensed highlights and a look back at full replays of some of the greatest encounters from the Australian Football League.",
+      "scheduledDate": 1795845600000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Classic sport event, Australian rules football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-11-28_SH028096630000_102142641835_2018-11-27T09:00:00Z_p14740563_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Classic AFL",
+      "episodeTitle": "Mini Match: 2020 Grand Final Richmond v Geelong",
+      "description": "Condensed highlights and a look back at full replays of some of the greatest encounters from the Australian Football League.",
+      "scheduledDate": 1795847400000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Classic sport event, Australian rules football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-11-28_SH028096630000_102142641835_2018-11-27T09:00:00Z_p14740563_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Classic AFL",
+      "episodeTitle": "2021 Grand Final: Melbourne v Western Bulldogs",
+      "description": "Condensed highlights and a look back at full replays of some of the greatest encounters from the Australian Football League.",
+      "scheduledDate": 1795849200000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Australian rules football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-11-28_SH028096630000_102142641835_2018-11-27T09:00:00Z_p14740563_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "AFL Women's Premiership",
+      "episodeTitle": "Grand Final: North Melbourne Kangaroos VS Melbourne Demons",
+      "description": "From IKON Park in Melbourne, Victoria, Australia.",
+      "scheduledDate": 1795851000000,
+      "duration": 90,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Australian rules football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-11-28_EP029247970864_116157228210_2026-11-23T22:54:08Z_GNLZZGG003ZLFH8/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "AFL",
+      "episodeTitle": "Fremantle vs. Brisbane Lions",
+      "description": "From Melbourne Cricket Ground in Melbourne, Victoria, Australia.",
+      "scheduledDate": 1795856400000,
+      "duration": 150,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Playoff sports, Australian rules football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-11-28_EP029151671455_116090890015_2026-09-19T16:43:14Z_GNLZZGG003PNYPS/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "AFL Women's Premiership",
+      "episodeTitle": "Grand Final: North Melbourne Kangaroos VS Melbourne Demons",
+      "description": "From IKON Park in Melbourne, Victoria, Australia.",
+      "scheduledDate": 1795865400000,
+      "duration": 90,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Australian rules football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-11-28_EP029247970864_116157228210_2026-11-23T22:54:08Z_GNLZZGG003ZLFH8/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "AFL Women's Premiership",
+      "episodeTitle": "North Melbourne Kangaroos vs Sydney Swans",
+      "description": "From IKON Park in Melbourne, Victoria, Australia.",
+      "scheduledDate": 1795870800000,
+      "duration": 90,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Playoff sports, Australian rules football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-11-28_EP029247970862_115961558920_2026-11-17T01:54:35Z_GNLZZGG003XLBKM/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "AFL Women's Premiership",
+      "episodeTitle": "Melbourne Demons vs Carlton Blues",
+      "description": "From IKON Park in Melbourne, Victoria, Australia.",
+      "scheduledDate": 1795876200000,
+      "duration": 90,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Australian rules football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-11-28_EP029247970863_115961573030_2026-11-17T04:52:53Z_GNLZZGG003XLGQC/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "AFL Women's Premiership",
+      "episodeTitle": "Grand Final: North Melbourne Kangaroos VS Melbourne Demons",
+      "description": "From IKON Park in Melbourne, Victoria, Australia.",
+      "scheduledDate": 1795881600000,
+      "duration": 90,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Australian rules football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-11-28_EP029247970864_116157228210_2026-11-23T22:54:08Z_GNLZZGG003ZLFH8/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "AFLW Mini",
+      "episodeTitle": "Qualifying Final: Geelong Cats v Melbourne Demons",
+      "description": "Condensed highlights of some of the greatest encounters from the AFL Women's competition.",
+      "scheduledDate": 1795887000000,
+      "duration": 15,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Australian rules football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-11-28_SH038251630000_111269523232_2025-10-16T04:55:13Z_p19768743_b_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "AFLW Mini",
+      "episodeTitle": "Qualifying Final: North Melbourne Kangaroos v Carlton Blues",
+      "description": "Condensed highlights of some of the greatest encounters from the AFL Women's competition.",
+      "scheduledDate": 1795887900000,
+      "duration": 15,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Australian rules football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-11-28_SH038251630000_111269523232_2025-10-16T04:55:13Z_p19768743_b_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "AFLW Mini",
+      "episodeTitle": "Elimination Final: Sydney Swans v Western Bulldogs",
+      "description": "Condensed highlights of some of the greatest encounters from the AFL Women's competition.",
+      "scheduledDate": 1795888800000,
+      "duration": 15,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Australian rules football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-11-28_SH038251630000_111269523232_2025-10-16T04:55:13Z_p19768743_b_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "AFLW Mini",
+      "episodeTitle": "Elimination Final: Gold Coast Suns v Hawthorn Hawks",
+      "description": "Condensed highlights of some of the greatest encounters from the AFL Women's competition.",
+      "scheduledDate": 1795889700000,
+      "duration": 15,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Australian rules football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-11-28_SH038251630000_111269523232_2025-10-16T04:55:13Z_p19768743_b_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     }
   ]
 }

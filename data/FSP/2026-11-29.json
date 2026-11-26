@@ -1,0 +1,53 @@
+{
+  "channel": "FSP",
+  "date": "2026-11-29",
+  "source": "kayo",
+  "fetchedAt": 1795700178401,
+  "fetchedAtIST": "26/11/2026, 7:06:18 pm",
+  "events": [
+    {
+      "programTitle": "International Brawling Championship",
+      "episodeTitle": "",
+      "description": "Step inside the raw and uncompromising world of underground fight culture.",
+      "scheduledDate": 1795894200000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Mixed martial arts",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-11-28_SH065139570000_115084805497_2026-10-16T21:52:11Z_p33539447_i_h8_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "SailGP",
+      "episodeTitle": "Abu Dhabi, Day 1",
+      "description": "",
+      "scheduledDate": 1795896000000,
+      "duration": 90,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Sailing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-11-28_SH051028760000_112367882509_2021-04-23T21:46:53Z_p19827810_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Test Cricket",
+      "episodeTitle": "New Zealand vs India",
+      "description": "From Hagley Oval in Christchurch, Canterbury, New Zealand.",
+      "scheduledDate": 1795901400000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Cricket",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-11-28_EP029804991922_116167095621_2026-10-11T16:45:36Z_GNLZZGG003RZKR1/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Test Cricket",
+      "episodeTitle": "India vs New Zealand, 2nd Test Day 3 (Session 1)",
+      "description": "Coverage and highlights from international test cricket matches.",
+      "scheduledDate": 1795903200000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Cricket, Classic sport event",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-11-28_SH033446590000_98978823590_2023-09-29T14:53:53Z_p8163404_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    }
+  ]
+}

@@ -2,8 +2,8 @@
   "channel": "FSP",
   "date": "2026-11-27",
   "source": "kayo",
-  "fetchedAt": 1795651231601,
-  "fetchedAtIST": "26/11/2026, 5:30:31 am",
+  "fetchedAt": 1795700178400,
+  "fetchedAtIST": "26/11/2026, 7:06:18 pm",
   "events": [
     {
       "programTitle": "SailGP",
@@ -208,7 +208,7 @@
       "episodeTitle": "Las Vegas Grand Prix",
       "description": "Highlights of the world's most iconic Formula 1 Grands Prix, featuring every podium and overtake.",
       "scheduledDate": 1795771800000,
-      "duration": 35,
+      "duration": 37,
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Motorsports, Classic sport event",
@@ -220,6 +220,17 @@
       "description": "From The WACA in East Perth, Western Australia, Australia.",
       "scheduledDate": 1795773900000,
       "duration": 205,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Cricket",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-11-27_EP029371060416_116076976906_2026-11-11T17:04:11Z_GNLZZGG003XNCZ4/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Women's Big Bash League",
+      "episodeTitle": "Perth Scorchers vs Hobart Hurricanes",
+      "description": "From The WACA in East Perth, Western Australia, Australia.",
+      "scheduledDate": 1795774020000,
+      "duration": 203,
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Cricket",

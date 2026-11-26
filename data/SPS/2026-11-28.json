@@ -2,8 +2,8 @@
   "channel": "SPS",
   "date": "2026-11-28",
   "source": "kayo",
-  "fetchedAt": 1795651231605,
-  "fetchedAtIST": "26/11/2026, 5:30:31 am",
+  "fetchedAt": 1795700178406,
+  "fetchedAtIST": "26/11/2026, 7:06:18 pm",
   "events": [
     {
       "programTitle": "Supercars Championship",
@@ -65,11 +65,187 @@
       "episodeTitle": "bp Adelaide Grand Final: Supports",
       "description": "Supercars compete in a series across Australia and New Zealand.",
       "scheduledDate": 1795819200000,
-      "duration": 125,
+      "duration": 127,
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Auto racing",
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-11-27_EP027326761278_116090889803_2026-11-23T13:29:29Z_GNLZZGG003ZTJXN/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Supercars Championship",
+      "episodeTitle": "bp Adelaide Grand Final: Qualifying & Top 10 Shootout",
+      "description": "Supercars compete in a series across Australia and New Zealand.",
+      "scheduledDate": 1795826820000,
+      "duration": 123,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Auto racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-11-28_EP027326761285_116090889959_2026-11-24T13:31:55Z_GNLZZGG003ZQYNP/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Supercars Championship",
+      "episodeTitle": "bp Adelaide Grand Final: Supports",
+      "description": "Supercars compete in a series across Australia and New Zealand.",
+      "scheduledDate": 1795834200000,
+      "duration": 83,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Auto racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-11-28_EP027326761279_116090889913_2026-11-23T13:30:05Z_GNLZZGG003ZTM0E/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Supercars The Grid",
+      "episodeTitle": "bp Adelaide Grand Final",
+      "description": "Join the team on The Grid for a comprehensive look at today's action.",
+      "scheduledDate": 1795839180000,
+      "duration": 37,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Motorsports",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-11-28_SH035476440000_102449861571_2020-06-26T14:05:10Z_p18489136_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Supercars Championship",
+      "episodeTitle": "bp Adelaide Grand Final: Race 36",
+      "description": "Supercars compete in a series across Australia and New Zealand.",
+      "scheduledDate": 1795841400000,
+      "duration": 145,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Auto racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-11-28_EP027326761286_116090889810_2026-11-24T13:33:12Z_GNLZZGG003ZQYVW/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Supercars Championship",
+      "episodeTitle": "bp Adelaide Grand Final: Qualifying & Top 10 Shootout",
+      "description": "Supercars compete in a series across Australia and New Zealand.",
+      "scheduledDate": 1795850100000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Auto racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-11-28_EP027326761287_116090889836_2026-11-24T13:34:59Z_GNLZZGG003ZQE0M/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Supercars Championship",
+      "episodeTitle": "bp Adelaide Grand Final: Race 36",
+      "description": "Supercars compete in a series across Australia and New Zealand.",
+      "scheduledDate": 1795851900000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Auto racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-11-28_EP027326761286_116090889810_2026-11-24T13:33:12Z_GNLZZGG003ZQYVW/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Formula 1",
+      "episodeTitle": "Qatar Grand Prix, Practice 2",
+      "description": "From Losail International Circuit in Doha, Ad Dawhah, Qatar.",
+      "scheduledDate": 1795855500000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Auto racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-11-28_SH027326820000_112943583609_2025-07-16T14:05:24Z_p691060_i_h8_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "F2: Chasing the Dream",
+      "episodeTitle": "Season Finale Build Up",
+      "description": "Follows the journey of professional racers as they compete for the F2 championship, and highlights some of the best moments from the races.",
+      "scheduledDate": 1795859100000,
+      "duration": 15,
+      "parentalRating": "",
+      "programType": "Series",
+      "genre": "Documentary, Auto racing, Motorsports",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-11-28_EP047243960026_116090889933_2026-11-17T22:49:17Z_p28661896_e_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "SailGP",
+      "episodeTitle": "Abu Dhabi, Day 1",
+      "description": "",
+      "scheduledDate": 1795860000000,
+      "duration": 90,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Sailing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-11-28_SH051028760000_112367882509_2021-04-23T21:46:53Z_p19827810_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Supercars Championship",
+      "episodeTitle": "bp Adelaide Grand Final: Qualifying & Top 10 Shootout",
+      "description": "Supercars compete in a series across Australia and New Zealand.",
+      "scheduledDate": 1795865400000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Auto racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-11-28_EP027326761287_116090889836_2026-11-24T13:34:59Z_GNLZZGG003ZQE0M/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Supercars Championship",
+      "episodeTitle": "bp Adelaide Grand Final: Race 36",
+      "description": "Supercars compete in a series across Australia and New Zealand.",
+      "scheduledDate": 1795867200000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Auto racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-11-28_EP027326761286_116090889810_2026-11-24T13:33:12Z_GNLZZGG003ZQYVW/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "F2: Chasing the Dream",
+      "episodeTitle": "Season Finale Build Up",
+      "description": "Follows the journey of professional racers as they compete for the F2 championship, and highlights some of the best moments from the races.",
+      "scheduledDate": 1795870800000,
+      "duration": 15,
+      "parentalRating": "",
+      "programType": "Series",
+      "genre": "Documentary, Auto racing, Motorsports",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-11-28_EP047243960026_116090889933_2026-11-17T22:49:17Z_p28661896_e_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Formula 1",
+      "episodeTitle": "Qatar Grand Prix, Practice 2",
+      "description": "From Losail International Circuit in Doha, Ad Dawhah, Qatar.",
+      "scheduledDate": 1795871700000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Auto racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-11-28_SH027326820000_112943583609_2025-07-16T14:05:24Z_p691060_i_h8_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Formula 1",
+      "episodeTitle": "Qatar Grand Prix, Practice 3",
+      "description": "From Losail International Circuit in Doha, Ad Dawhah, Qatar.",
+      "scheduledDate": 1795875300000,
+      "duration": 115,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Auto racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-11-28_EP027326820896_116186474628_2026-11-11T11:24:29Z_GNLZZGG003XMGZJ/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "FIA Formula 2 Championship",
+      "episodeTitle": "Round 13: Lusail, Sprint Race",
+      "description": "From Losail International Circuit in Doha, Ad Dawhah, Qatar.",
+      "scheduledDate": 1795882200000,
+      "duration": 65,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Auto racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-11-28_EP033280150282_116138181156_2026-11-11T11:23:01Z_GNLZZGG003XMGM6/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Formula 1",
+      "episodeTitle": "Qatar Grand Prix, Qualifying",
+      "description": "From Losail International Circuit in Doha, Ad Dawhah, Qatar.",
+      "scheduledDate": 1795886100000,
+      "duration": 165,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Auto racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-11-28_EP027326820894_116186474629_2026-11-11T11:24:49Z_GNLZZGG003XMGKP/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     }
   ]
 }

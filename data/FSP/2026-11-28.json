@@ -2,8 +2,8 @@
   "channel": "FSP",
   "date": "2026-11-28",
   "source": "kayo",
-  "fetchedAt": 1795651231601,
-  "fetchedAtIST": "26/11/2026, 5:30:31 am",
+  "fetchedAt": 1795700178400,
+  "fetchedAtIST": "26/11/2026, 7:06:18 pm",
   "events": [
     {
       "programTitle": "International Brawling Championship",
@@ -59,6 +59,138 @@
       "programType": "Sports event",
       "genre": "Cricket, Classic sport event",
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-11-27_SH033446590000_98978823590_2023-09-29T14:53:53Z_p8163404_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Lunch Break",
+      "episodeTitle": "New Zealand v India, 2nd Test Day 2",
+      "description": "We bring you exclusive interviews, team strategies, highlights and much more.",
+      "scheduledDate": 1795824000000,
+      "duration": 40,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Cricket",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-11-28_SH038874750000_109715760419_2021-06-07T03:56:56Z_p19398392_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Test Cricket",
+      "episodeTitle": "2nd Test, Day 2 Session 2: New Zealand vs. India",
+      "description": "Coverage of Test cricket matches contested by international teams.",
+      "scheduledDate": 1795826400000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Cricket",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-11-28_EP029804992014_116091043981_2026-11-24T13:59:46Z_GNLZZGG003ZY16K/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "The Tea Break",
+      "episodeTitle": "New Zealand v India, 2nd Test Day 2",
+      "description": "Join our commentary team as they re-cap the day's play and analyse all the action.",
+      "scheduledDate": 1795833600000,
+      "duration": 20,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Cricket",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-11-28_SH034094570000_112570766596_2025-11-20T06:26:39Z_p17650797_i_h10_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Test Cricket",
+      "episodeTitle": "2nd Test, Day 2 Session 3: New Zealand vs. India",
+      "description": "Coverage of Test cricket matches contested by international teams.",
+      "scheduledDate": 1795834800000,
+      "duration": 150,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Cricket",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-11-28_EP029804992015_116167095608_2026-11-24T13:58:27Z_GNLZZGG003ZY0X3/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Darts",
+      "episodeTitle": "Players Championship: Day 1, Night Session",
+      "description": "Covering of all the action from darts events around the world.",
+      "scheduledDate": 1795843800000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Darts",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-11-28_SH032967320000_115472606336_2024-10-04T13:14:55Z_p644283_i_h8_ah/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "AUSX Supercross Championship",
+      "episodeTitle": "Round 6: Newcastle, New South Wales",
+      "description": "",
+      "scheduledDate": 1795851000000,
+      "duration": 195,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Motorcycle racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-11-28_SH061276890000_115741594221_2025-10-10T02:35:01Z_p31416360_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Supercars Championship",
+      "episodeTitle": "bp Adelaide Grand Final: Race 36",
+      "description": "Supercars compete in a series across Australia and New Zealand.",
+      "scheduledDate": 1795862700000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Auto racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-11-28_EP027326761286_116090889810_2026-11-24T13:33:12Z_GNLZZGG003ZQYVW/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Formula 1",
+      "episodeTitle": "Qatar Grand Prix, Practice 2",
+      "description": "From Losail International Circuit in Doha, Ad Dawhah, Qatar.",
+      "scheduledDate": 1795866300000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Auto racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-11-28_SH027326820000_112943583609_2025-07-16T14:05:24Z_p691060_i_h8_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "My Game: Tiger Woods",
+      "episodeTitle": "Distance Wedges",
+      "description": "As much as Tiger Woods has thrilled fans with his power and clutch putting, it's his wedge game that has undergone the biggest transformation. Tiger shares his secrets, so others can learn to stick it close inside 100 yards.",
+      "scheduledDate": 1795869900000,
+      "duration": 15,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-11-28_SH035435950000_107134189906_2019-09-11T08:00:16Z_p17353505_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Darts",
+      "episodeTitle": "Players Championship: Day 2, Day Session",
+      "description": "Covering of all the action from darts events around the world.",
+      "scheduledDate": 1795870800000,
+      "duration": 240,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Darts",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-11-28_SH032967320000_115472606336_2024-10-04T13:14:55Z_p644283_i_h8_ah/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "MotoGP Factory Floor",
+      "episodeTitle": "Catalunya",
+      "description": "Some exciting behind-the-scenes MotoGP vlog series capturing garage work, setup adjustments, rider reactions and paddock moments during Grand Prix weekends.",
+      "scheduledDate": 1795885200000,
+      "duration": 15,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Other",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-11-28_SH066366900000_116127102470_2026-10-23T19:36:16Z_p34191874_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Saudi League Soccer",
+      "episodeTitle": "Al Ahli vs Al Taawoun",
+      "description": "From Alinma Stadium in Jeddah, Saudi Arabia.",
+      "scheduledDate": 1795886100000,
+      "duration": 135,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Soccer",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-11-28_EP046468500886_116090890019_2026-07-30T05:45:51Z_GNLZZGG003D0F9V/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     }
   ]
 }

@@ -2,8 +2,8 @@
   "channel": "SPS",
   "date": "2026-11-27",
   "source": "kayo",
-  "fetchedAt": 1795651231604,
-  "fetchedAtIST": "26/11/2026, 5:30:31 am",
+  "fetchedAt": 1795700178405,
+  "fetchedAtIST": "26/11/2026, 7:06:18 pm",
   "events": [
     {
       "programTitle": "Supercars Championship",
@@ -65,7 +65,7 @@
       "episodeTitle": "bp Adelaide Grand Final: Supports",
       "description": "Supercars compete in a series across Australia and New Zealand.",
       "scheduledDate": 1795728600000,
-      "duration": 100,
+      "duration": 104,
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Auto racing",
@@ -84,10 +84,21 @@
     },
     {
       "programTitle": "Supercars Championship",
+      "episodeTitle": "bp Adelaide Grand Final: Practice 2",
+      "description": "Supercars compete in a series across Australia and New Zealand.",
+      "scheduledDate": 1795734840000,
+      "duration": 56,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Auto racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-11-26_EP027326761281_116090890034_2026-11-23T13:31:45Z_GNLZZGG003ZTMP1/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Supercars Championship",
       "episodeTitle": "bp Adelaide Grand Final: Supports",
       "description": "Supercars compete in a series across Australia and New Zealand.",
       "scheduledDate": 1795738200000,
-      "duration": 135,
+      "duration": 137,
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Auto racing",
@@ -106,10 +117,21 @@
     },
     {
       "programTitle": "Supercars Championship",
+      "episodeTitle": "bp Adelaide Grand Final: Qualifying",
+      "description": "Supercars compete in a series across Australia and New Zealand.",
+      "scheduledDate": 1795746420000,
+      "duration": 53,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Auto racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-11-27_EP027326761282_116090890061_2026-11-23T13:32:23Z_GNLZZGG003ZTMZ6/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Supercars Championship",
       "episodeTitle": "bp Adelaide Grand Final: Supports",
       "description": "Supercars compete in a series across Australia and New Zealand.",
       "scheduledDate": 1795749600000,
-      "duration": 85,
+      "duration": 87,
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Auto racing",
@@ -121,6 +143,17 @@
       "description": "Join the team on The Grid for a comprehensive look at today's action.",
       "scheduledDate": 1795754700000,
       "duration": 65,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Motorsports",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-11-27_SH035476440000_102449861571_2020-06-26T14:05:10Z_p18489136_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Supercars The Grid",
+      "episodeTitle": "bp Adelaide Grand Final",
+      "description": "Join the team on The Grid for a comprehensive look at today's action.",
+      "scheduledDate": 1795754820000,
+      "duration": 63,
       "parentalRating": "",
       "programType": "Sports non-event",
       "genre": "Motorsports",
@@ -245,7 +278,7 @@
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Auto racing",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-11-27_EP027326820893_116153059897_2026-11-11T13:24:50Z_GNLZZGG003XMPKX/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-11-27_EP027326820893_116190965230_2026-11-11T13:24:50Z_GNLZZGG003XMPKX/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "FIA Formula 2 Championship",
