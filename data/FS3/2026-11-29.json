@@ -2,8 +2,8 @@
   "channel": "FS3",
   "date": "2026-11-29",
   "source": "kayo",
-  "fetchedAt": 1795700178390,
-  "fetchedAtIST": "26/11/2026, 7:06:18 pm",
+  "fetchedAt": 1795738861800,
+  "fetchedAtIST": "27/11/2026, 5:51:01 am",
   "events": [
     {
       "programTitle": "Australian PGA Championship Golf",
@@ -25,7 +25,7 @@
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Golf",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-11-28_EP040914080743_116100674344_2026-11-24T19:34:43Z_GNLZZGG003ZYMCZ/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-11-28_EP040914080743_116191512890_2026-11-24T19:34:43Z_GNLZZGG003ZYMCZ/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "Australian PGA Championship Golf",
@@ -47,7 +47,150 @@
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Golf",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-11-28_EP040914080743_116100674344_2026-11-24T19:34:43Z_GNLZZGG003ZYMCZ/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-11-28_EP040914080743_116191512890_2026-11-24T19:34:43Z_GNLZZGG003ZYMCZ/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Australian PGA Championship Golf",
+      "episodeTitle": "Round 2",
+      "description": "Coverage of the Australian PGA Championship, a prestigious event on the PGA Tour of Australasia.",
+      "scheduledDate": 1795911600000,
+      "duration": 20,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-11-29_SH045350440000_116136250726_2023-01-18T12:18:39Z_p8944835_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Australian PGA Championship Golf",
+      "episodeTitle": "Round 3",
+      "description": "Coverage of the Australian PGA Championship, a prestigious event on the PGA Tour of Australasia.",
+      "scheduledDate": 1795912800000,
+      "duration": 20,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-11-29_SH045350440000_116136250726_2023-01-18T12:18:39Z_p8944835_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "DP World Tour Golf",
+      "episodeTitle": "BMW Australian PGA Championship, Final Round",
+      "description": "From The Lakes Golf Club in Sydney.",
+      "scheduledDate": 1795914000000,
+      "duration": 300,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-11-29_EP040914080744_116145320402_2026-11-24T19:34:10Z_GNLZZGG003ZYM40/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "DP World Tour Golf",
+      "episodeTitle": "BMW Australian PGA Championship, Final Round",
+      "description": "From The Lakes Golf Club in Sydney.",
+      "scheduledDate": 1795932000000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-11-29_EP040914080744_116145320402_2026-11-24T19:34:10Z_GNLZZGG003ZYM40/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Australian PGA Championship Golf",
+      "episodeTitle": "Final Round",
+      "description": "Coverage of the Australian PGA Championship, a prestigious event on the PGA Tour of Australasia.",
+      "scheduledDate": 1795939200000,
+      "duration": 20,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-11-29_SH045350440000_116136250726_2023-01-18T12:18:39Z_p8944835_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "DP World Tour Golf",
+      "episodeTitle": "BMW Australian PGA Championship, Final Round",
+      "description": "From The Lakes Golf Club in Sydney.",
+      "scheduledDate": 1795940400000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-11-29_EP040914080744_116145320402_2026-11-24T19:34:10Z_GNLZZGG003ZYM40/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Australian PGA Championship Golf",
+      "episodeTitle": "Final Round",
+      "description": "Coverage of the Australian PGA Championship, a prestigious event on the PGA Tour of Australasia.",
+      "scheduledDate": 1795947600000,
+      "duration": 20,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-11-29_SH045350440000_116136250726_2023-01-18T12:18:39Z_p8944835_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "DP World Tour Golf",
+      "episodeTitle": "BMW Australian PGA Championship, Final Round",
+      "description": "From The Lakes Golf Club in Sydney.",
+      "scheduledDate": 1795948800000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-11-29_EP040914080744_116145320402_2026-11-24T19:34:10Z_GNLZZGG003ZYM40/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Australian PGA Championship Golf",
+      "episodeTitle": "Final Round",
+      "description": "Coverage of the Australian PGA Championship, a prestigious event on the PGA Tour of Australasia.",
+      "scheduledDate": 1795956000000,
+      "duration": 20,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-11-29_SH045350440000_116136250726_2023-01-18T12:18:39Z_p8944835_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Ladies Euro Tour Golf",
+      "episodeTitle": "Andalucia Costa del Sol Open de Espana, Final Round",
+      "description": "Golf action from the Ladies European Tour.",
+      "scheduledDate": 1795957200000,
+      "duration": 180,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-11-29_EP033826880306_116145320588_2026-11-10T11:28:40Z_GNLZZGG003XDG98/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "DP World Tour Golf",
+      "episodeTitle": "BMW Australian PGA Championship, Final Round",
+      "description": "From The Lakes Golf Club in Sydney.",
+      "scheduledDate": 1795968000000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-11-29_EP040914080744_116145320402_2026-11-24T19:34:10Z_GNLZZGG003ZYM40/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Australian PGA Championship Golf",
+      "episodeTitle": "Round 3",
+      "description": "Coverage of the Australian PGA Championship, a prestigious event on the PGA Tour of Australasia.",
+      "scheduledDate": 1795975200000,
+      "duration": 20,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-11-29_SH045350440000_116136250726_2023-01-18T12:18:39Z_p8944835_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "DP World Tour Golf",
+      "episodeTitle": "BMW Australian PGA Championship, Final Round",
+      "description": "From The Lakes Golf Club in Sydney.",
+      "scheduledDate": 1795976400000,
+      "duration": 100,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103070_2026-11-29_EP040914080744_116145320402_2026-11-24T19:34:10Z_GNLZZGG003ZYM40/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     }
   ]
 }

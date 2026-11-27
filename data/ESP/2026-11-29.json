@@ -2,8 +2,8 @@
   "channel": "ESP",
   "date": "2026-11-29",
   "source": "kayo",
-  "fetchedAt": 1795700178416,
-  "fetchedAtIST": "26/11/2026, 7:06:18 pm",
+  "fetchedAt": 1795738861841,
+  "fetchedAtIST": "27/11/2026, 5:51:01 am",
   "events": [
     {
       "programTitle": "College Football Scoreboard",
@@ -59,6 +59,160 @@
       "programType": "Sports event",
       "genre": "Basketball",
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-11-28_EP030658785765_116129644389_2026-09-02T14:06:15Z_GNLZZGG003M7X4N/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "In Depth With Graham Bensinger",
+      "episodeTitle": "Tom Izzo",
+      "description": "Hall of Fame basketball coach Tom Izzo explains how his Italian ancestry shaped his coaching philosophies.",
+      "scheduledDate": 1795912200000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Series",
+      "genre": "Sports talk, Interview",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-11-29_EP033308670093_116129644381_2025-08-11T17:55:01Z_p23475641_e_h11_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NBA Basketball",
+      "episodeTitle": "Chicago Bulls vs Indiana Pacers",
+      "description": "From the United Center in Chicago.",
+      "scheduledDate": 1795914000000,
+      "duration": 150,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Basketball",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-11-29_EP030658785767_116129644280_2026-09-02T16:58:15Z_GNLZZGG003M8DMJ/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "College Basketball",
+      "episodeTitle": "",
+      "description": "Coverage of Men's college basketball games from the USA.",
+      "scheduledDate": 1795923000000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Basketball",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-11-29_SH066460660000_116089408912_2023-10-27T11:03:49Z_p191260_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "PGA Tour Champions Learning Center",
+      "episodeTitle": "SportsCenter",
+      "description": "Tips and tricks from the legends of the game.",
+      "scheduledDate": 1795930200000,
+      "duration": 20,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-11-29_SH037817400000_112150007536_2022-11-29T05:17:24Z_p12531845_i_h10_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "2027 FIBA Basketball World Cup Qualification",
+      "episodeTitle": "New Zealand vs Syria",
+      "description": "From SM Mall of Asia Arena in Quezon City, Metro Manila, Philippines.",
+      "scheduledDate": 1795931400000,
+      "duration": 130,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Basketball",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-11-29_SH061711950000_115858633129_2024-02-15T11:33:43Z_p26702214_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NFL Blitz",
+      "episodeTitle": "",
+      "description": "All of the best action from the National Football League.",
+      "scheduledDate": 1795939200000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Family, Football, News, Newsmagazine",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-11-29_SH060667300000_113358670220_2022-09-12T05:46:51Z_p22911383_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NBA Basketball",
+      "episodeTitle": "Chicago Bulls vs Indiana Pacers",
+      "description": "From the United Center in Chicago.",
+      "scheduledDate": 1795941000000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Basketball",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-11-29_EP030658785767_116129644280_2026-09-02T16:58:15Z_GNLZZGG003M8DMJ/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NFL Matchup",
+      "episodeTitle": "",
+      "description": "Get the latest news, info, analysis and straight talk from around all the action of the National Football League.",
+      "scheduledDate": 1795948200000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-11-29_SH033308410000_116136706230_2022-08-28T09:45:48Z_p816920_i_h10_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NFL Blitz",
+      "episodeTitle": "",
+      "description": "All of the best action from the National Football League.",
+      "scheduledDate": 1795950000000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Family, Football, News, Newsmagazine",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-11-29_SH060667300000_113358670220_2022-09-12T05:46:51Z_p22911383_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "ESPN FC Shorts",
+      "episodeTitle": "Facing Vinnie Jones & Wimbledon's Crazy Gang",
+      "description": "Presents top football highlights in YouTube Shorts.",
+      "scheduledDate": 1795951800000,
+      "duration": 20,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Soccer",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-11-29_SH046564100000_116136706238_2023-05-17T15:16:11Z_p24027877_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "2027 FIBA Basketball World Cup Qualification",
+      "episodeTitle": "Jordan vs Australia",
+      "description": "From SM Mall of Asia Arena in Quezon City, Metro Manila, Philippines.",
+      "scheduledDate": 1795953000000,
+      "duration": 130,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Basketball",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-11-29_SH061711950000_115858633129_2024-02-15T11:33:43Z_p26702214_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "College Football Final",
+      "episodeTitle": "",
+      "description": "Matt Barrie, Joey Galloway and Jesse Palmer take a look at the latest college football action, recapping the games and discussing the highlights.",
+      "scheduledDate": 1795960800000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-11-29_SH033308190000_116136706277_2018-01-20T00:41:00Z_p221262_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Sunday NFL Countdown",
+      "episodeTitle": "",
+      "description": "Samantha Ponder, with a team of analysts, introduces the features and directs the storylines associated with the day's games.",
+      "scheduledDate": 1795964400000,
+      "duration": 180,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-11-29_SH033308210000_116136705935_2019-09-06T20:20:11Z_p924452_i_h8_ac/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "NFL Football",
+      "episodeTitle": "Cincinnati Bengals vs New Orleans Saints",
+      "description": "From Paycor Stadium in Cincinnati.",
+      "scheduledDate": 1795975200000,
+      "duration": 180,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103358_2026-11-29_EP029371132004_116212538238_2026-07-15T07:35:39Z_GNLZZGG0039Q0J8/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     }
   ]
 }

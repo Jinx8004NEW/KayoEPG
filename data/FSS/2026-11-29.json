@@ -2,8 +2,8 @@
   "channel": "FSS",
   "date": "2026-11-29",
   "source": "kayo",
-  "fetchedAt": 1795700178411,
-  "fetchedAtIST": "26/11/2026, 7:06:18 pm",
+  "fetchedAt": 1795738861837,
+  "fetchedAtIST": "27/11/2026, 5:51:01 am",
   "events": [
     {
       "programTitle": "Darts",
@@ -25,7 +25,238 @@
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Auto racing",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-11-28_EP027326820896_116186474628_2026-11-11T11:24:29Z_GNLZZGG003XMGZJ/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-11-28_EP027326820896_116191315899_2026-11-11T11:24:29Z_GNLZZGG003XMGZJ/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Formula 1",
+      "episodeTitle": "Qatar Grand Prix, Qualifying",
+      "description": "From Losail International Circuit in Doha, Ad Dawhah, Qatar.",
+      "scheduledDate": 1795910400000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Auto racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-11-29_EP027326820894_116191315900_2026-11-11T11:24:49Z_GNLZZGG003XMGKP/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Ted's Notebook",
+      "episodeTitle": "Qatar Grand Prix: Qualifying",
+      "description": "Ted Kravitz gives an exciting behind-the-scenes look at the world of Formula 1.",
+      "scheduledDate": 1795914000000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Auto racing, Motorsports",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-11-29_EP038161890089_116189316398_2023-10-16T10:34:14Z_p25701728_e_h11_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "MotoGP Racing",
+      "episodeTitle": "Motul Grand Prix of Valencia, Qualifying",
+      "description": "From Circuit Ricardo Tormo in Valencia, Valencia, Spain.",
+      "scheduledDate": 1795915800000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Motorcycle racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-11-29_EP028104881611_116136706232_2026-11-11T11:25:40Z_GNLZZGG003XMH0Y/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "MotoGP Racing",
+      "episodeTitle": "Motul Grand Prix of Valencia, Sprint Race",
+      "description": "From Circuit Ricardo Tormo in Valencia, Valencia, Spain.",
+      "scheduledDate": 1795919400000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Motorcycle racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-11-29_EP028104881612_116137158157_2026-11-11T11:26:11Z_GNLZZGG003XMH3D/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Darts",
+      "episodeTitle": "Players Championship: Day 2, Night Session",
+      "description": "Covering of all the action from darts events around the world.",
+      "scheduledDate": 1795921200000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Darts",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-11-29_SH032967320000_115472606336_2024-10-04T13:14:55Z_p644283_i_h8_ah/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "A December To Remember",
+      "episodeTitle": "",
+      "description": "",
+      "scheduledDate": 1795928400000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Special, Boxing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-11-29_SH067326470000_116076976914_2026-11-24T07:29:01Z_p34699310_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Formula 1",
+      "episodeTitle": "Qatar Grand Prix, Qualifying",
+      "description": "From Losail International Circuit in Doha, Ad Dawhah, Qatar.",
+      "scheduledDate": 1795932000000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Auto racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-11-29_EP027326820894_116191315900_2026-11-11T11:24:49Z_GNLZZGG003XMGKP/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Ted's Notebook",
+      "episodeTitle": "Qatar Grand Prix: Qualifying",
+      "description": "Ted Kravitz gives an exciting behind-the-scenes look at the world of Formula 1.",
+      "scheduledDate": 1795935600000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Auto racing, Motorsports",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-11-29_EP038161890089_116189316398_2023-10-16T10:34:14Z_p25701728_e_h11_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "MotoGP Racing",
+      "episodeTitle": "Motul Grand Prix of Valencia, Qualifying",
+      "description": "From Circuit Ricardo Tormo in Valencia, Valencia, Spain.",
+      "scheduledDate": 1795937400000,
+      "duration": 65,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Motorcycle racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-11-29_EP028104881611_116136706232_2026-11-11T11:25:40Z_GNLZZGG003XMH0Y/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "MotoGP Racing",
+      "episodeTitle": "Grand Prix of Valencia - Warm Up",
+      "description": "From Circuit Ricardo Tormo in Valencia, Valencia, Spain.",
+      "scheduledDate": 1795941300000,
+      "duration": 20,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Motorcycle racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-11-29_SH028104880000_116195541509_2025-04-17T20:03:48Z_p445587_i_h8_ae/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "MotoGP Racing",
+      "episodeTitle": "Portugal",
+      "description": "Action from MotoGP racing.",
+      "scheduledDate": 1795942500000,
+      "duration": 20,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Family, Classic sport event, Motorcycle racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-11-29_SH035853180000_114543852884_2017-10-24T00:43:00Z_p445588_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "MotoGP Racing",
+      "episodeTitle": "Motul Grand Prix of Valencia, Sprint Race",
+      "description": "From Circuit Ricardo Tormo in Valencia, Valencia, Spain.",
+      "scheduledDate": 1795943700000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Motorcycle racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-11-29_EP028104881612_116137158157_2026-11-11T11:26:11Z_GNLZZGG003XMH3D/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Moto3 GP Racing",
+      "episodeTitle": "Motul Grand Prix of Valencia",
+      "description": "From Circuit Ricardo Tormo in Valencia, Valencia, Spain.",
+      "scheduledDate": 1795945500000,
+      "duration": 75,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Motorcycle racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-11-29_EP046925390416_116189315436_2026-11-11T11:25:38Z_GNLZZGG003XMH06/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Moto2 GP Racing",
+      "episodeTitle": "Motul Grand Prix of Valencia",
+      "description": "From Circuit Ricardo Tormo in Valencia, Valencia, Spain.",
+      "scheduledDate": 1795950000000,
+      "duration": 75,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Motorcycle racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-11-29_EP046925380406_116196574417_2026-11-11T11:25:47Z_GNLZZGG003XMH1G/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "MotoGP Grid",
+      "episodeTitle": "Valencia",
+      "description": "All the latest news & interviews from the MotoGP Grid.",
+      "scheduledDate": 1795954500000,
+      "duration": 43,
+      "parentalRating": "",
+      "programType": "Series",
+      "genre": "Motorcycle racing, Motorsports",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-11-29_SH052332950000_116189316409_2022-05-02T10:07:42Z_p14104148_i_h10_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "MotoGP Racing",
+      "episodeTitle": "Motul Grand Prix of Valencia",
+      "description": "From Circuit Ricardo Tormo in Valencia, Valencia, Spain.",
+      "scheduledDate": 1795957080000,
+      "duration": 77,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Motorcycle racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-11-29_EP028104881613_116189316402_2026-11-11T11:26:21Z_GNLZZGG003XMH5G/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "My Game: Tiger Woods",
+      "episodeTitle": "Rough Recoveries",
+      "description": "Tiger explains that the key to hitting good shots out of the rough is being able to read the lie. He goes through nuances that help to determine the shot to play.",
+      "scheduledDate": 1795961700000,
+      "duration": 15,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Golf",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-11-29_SH035435950000_107134189906_2019-09-11T08:00:16Z_p17353505_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Supercars Championship",
+      "episodeTitle": "bp Adelaide Grand Final: Race 36",
+      "description": "Supercars compete in a series across Australia and New Zealand.",
+      "scheduledDate": 1795962600000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Auto racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-11-29_EP027326761286_116090889810_2026-11-24T13:33:12Z_GNLZZGG003ZQYVW/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Supercars Mini",
+      "episodeTitle": "bp Adelaide Grand Final: Race 37",
+      "description": "Australia's premier touring car racing competition, known for high-powered V8 machines and intense, close-quarters racing.",
+      "scheduledDate": 1795966200000,
+      "duration": 25,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Classic sport event, Auto racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-11-29_SH035786470000_105377021933_2020-08-20T08:30:31Z_p18624449_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Formula 1",
+      "episodeTitle": "Qatar Grand Prix: Alternate Commentary, Race",
+      "description": "Features all the action and highlights from Formula 1 racing.",
+      "scheduledDate": 1795967700000,
+      "duration": 125,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Classic sport event, Motorsports, Auto racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-11-29_SH035915380000_115380106475_2023-09-29T11:04:19Z_p8544413_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Pool",
+      "episodeTitle": "Mosconi Cup - Day 3",
+      "description": "Action from the world of pool.",
+      "scheduledDate": 1795975200000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Billiards",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103081_2026-11-29_SH038615030000_116136885016_2020-08-12T11:50:16Z_p466719_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     }
   ]
 }

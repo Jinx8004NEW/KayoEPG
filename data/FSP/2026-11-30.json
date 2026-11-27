@@ -1,0 +1,31 @@
+{
+  "channel": "FSP",
+  "date": "2026-11-30",
+  "source": "kayo",
+  "fetchedAt": 1795738861825,
+  "fetchedAtIST": "27/11/2026, 5:51:01 am",
+  "events": [
+    {
+      "programTitle": "Darts",
+      "episodeTitle": "Players Championship: Final Day, Night Session",
+      "description": "Covering of all the action from darts events around the world.",
+      "scheduledDate": 1795978800000,
+      "duration": 240,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Darts",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-11-29_SH032967320000_115472606336_2024-10-04T13:14:55Z_p644283_i_h8_ah/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "One-Day International Cricket",
+      "episodeTitle": "1st ODI: Australia v England",
+      "description": "Coverage of one-day cricket matches contested by international teams.",
+      "scheduledDate": 1795993200000,
+      "duration": 60,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Cricket, Classic sport event",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103075_2026-11-29_SH034583010000_115459994361_2026-03-24T13:16:18Z_p8509066_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    }
+  ]
+}
