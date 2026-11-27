@@ -2,8 +2,8 @@
   "channel": "FS1",
   "date": "2026-11-30",
   "source": "kayo",
-  "fetchedAt": 1795738861790,
-  "fetchedAtIST": "27/11/2026, 5:51:01 am",
+  "fetchedAt": 1795786309641,
+  "fetchedAtIST": "27/11/2026, 7:01:49 pm",
   "events": [
     {
       "programTitle": "T20 Cricket",
@@ -62,14 +62,14 @@
     },
     {
       "programTitle": "T20 Cricket",
-      "episodeTitle": "Australia vs England",
-      "description": "From Sydney Cricket Ground in Sydney.",
+      "episodeTitle": "Australia vs England, Game 4",
+      "description": "All the action and highlights from Twenty20 cricket matches.",
       "scheduledDate": 1795985400000,
       "duration": 20,
       "parentalRating": "",
-      "programType": "Sports event",
+      "programType": "Sports non-event",
       "genre": "Cricket",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-11-29_EP029805000667_116194930566_2026-10-27T22:54:54Z_GNLZZGG003V9KV2/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103068_2026-11-29_SH033516560000_114889348974_2023-09-05T14:04:06Z_p8414564_i_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "Test Cricket",

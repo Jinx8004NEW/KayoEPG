@@ -2,8 +2,8 @@
   "channel": "SPS",
   "date": "2026-11-29",
   "source": "kayo",
-  "fetchedAt": 1795738861830,
-  "fetchedAtIST": "27/11/2026, 5:51:01 am",
+  "fetchedAt": 1795786309677,
+  "fetchedAtIST": "27/11/2026, 7:01:49 pm",
   "events": [
     {
       "programTitle": "Ted's Notebook",
@@ -65,7 +65,7 @@
       "episodeTitle": "bp Adelaide Grand Final: Supports",
       "description": "Supercars compete in a series across Australia and New Zealand.",
       "scheduledDate": 1795905600000,
-      "duration": 125,
+      "duration": 127,
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Auto racing",
@@ -77,6 +77,17 @@
       "description": "Supercars compete in a series across Australia and New Zealand.",
       "scheduledDate": 1795913100000,
       "duration": 125,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Auto racing",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-11-29_EP027326761290_116145320638_2026-11-25T07:26:24Z_GNLZZGG003K2YEN/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Supercars Championship",
+      "episodeTitle": "bp Adelaide Grand Final: Qualifying & Top 10 Shootout",
+      "description": "Supercars compete in a series across Australia and New Zealand.",
+      "scheduledDate": 1795913220000,
+      "duration": 123,
       "parentalRating": "",
       "programType": "Sports event",
       "genre": "Auto racing",
@@ -206,13 +217,13 @@
     {
       "programTitle": "F2: Chasing the Dream",
       "episodeTitle": "Season Finale Build Up",
-      "description": "Follows the journey of professional racers as they compete for the F2 championship, and highlights some of the best moments from the races.",
+      "description": "With championship leader Rafael Camara stepping up to a full-time F1 seat, the door is wide open for Nikola Tsolov and Alex Dunne to duel for the crown in the season-ending double-header.",
       "scheduledDate": 1795958100000,
       "duration": 15,
       "parentalRating": "",
       "programType": "Series",
       "genre": "Documentary, Auto racing, Motorsports",
-      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-11-29_EP047243960026_116090889933_2026-11-17T22:49:17Z_p28661896_e_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103078_2026-11-29_EP047243960026_116224675526_2026-11-17T22:49:17Z_p28661896_e_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     },
     {
       "programTitle": "Formula 1",
@@ -252,7 +263,7 @@
       "episodeTitle": "Qatar Grand Prix",
       "description": "Reactions from the Formula 1 paddock after the chequered flag of the grand prix.",
       "scheduledDate": 1795975200000,
-      "duration": 120,
+      "duration": 60,
       "parentalRating": "",
       "programType": "Sports non-event",
       "genre": "Auto racing",
