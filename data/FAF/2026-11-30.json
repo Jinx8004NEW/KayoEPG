@@ -2,8 +2,8 @@
   "channel": "FAF",
   "date": "2026-11-30",
   "source": "kayo",
-  "fetchedAt": 1795823731459,
-  "fetchedAtIST": "28/11/2026, 5:25:31 am",
+  "fetchedAt": 1795848397731,
+  "fetchedAtIST": "28/11/2026, 12:16:37 pm",
   "events": [
     {
       "programTitle": "AFL Women's Premiership",
@@ -114,6 +114,215 @@
       "programType": "Sports non-event",
       "genre": "Australian rules football",
       "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-11-29_SH028096630000_102142641835_2018-11-27T09:00:00Z_p14740563_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Footy Legends",
+      "episodeTitle": "Judd",
+      "description": "Australian footy icons revisit iconic matches, career triumphs and life beyond the game.",
+      "scheduledDate": 1795999800000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Australian rules football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-11-30_SH067028820000_116232318671_2026-11-07T07:34:59Z_p34564338_i_h8_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Classic AFL",
+      "episodeTitle": "2006 Round 4: Collingwood v Essendon",
+      "description": "Condensed highlights and a look back at full replays of some of the greatest encounters from the Australian Football League.",
+      "scheduledDate": 1796007000000,
+      "duration": 125,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Classic sport event, Australian rules football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-11-30_SH028096630000_102142641835_2018-11-27T09:00:00Z_p14740563_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Classic AFL",
+      "episodeTitle": "2012 Round 19 Hawthorn v Geelong",
+      "description": "Condensed highlights and a look back at full replays of some of the greatest encounters from the Australian Football League.",
+      "scheduledDate": 1796014500000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Classic sport event, Australian rules football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-11-30_SH028096630000_102142641835_2018-11-27T09:00:00Z_p14740563_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Classic AFL",
+      "episodeTitle": "1985 Grand Final: Hawthorn v Essendon",
+      "description": "Condensed highlights and a look back at full replays of some of the greatest encounters from the Australian Football League.",
+      "scheduledDate": 1796021700000,
+      "duration": 125,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Classic sport event, Australian rules football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-11-30_SH028096630000_102142641835_2018-11-27T09:00:00Z_p14740563_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Classic AFL",
+      "episodeTitle": "Mini Match: 1965 Grand Final Essendon v St Kilda",
+      "description": "Condensed highlights and a look back at full replays of some of the greatest encounters from the Australian Football League.",
+      "scheduledDate": 1796029200000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Classic sport event, Australian rules football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-11-30_SH028096630000_102142641835_2018-11-27T09:00:00Z_p14740563_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Open Mike Top 30",
+      "episodeTitle": "Denis Banks",
+      "description": "Respected AFL journalist Mike Sheahan takes a trip down memory lane with his top 30 interviews with legends of the game.",
+      "scheduledDate": 1796031000000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Series",
+      "genre": "Australian rules football, Interview",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-11-30_SH038194500000_116256540148_2021-04-06T05:16:45Z_p19742105_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Classic AFL",
+      "episodeTitle": "2007 Round 21: Geelong Cats v Port Adelaide Power",
+      "description": "Condensed highlights and a look back at full replays of some of the greatest encounters from the Australian Football League.",
+      "scheduledDate": 1796032800000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Classic sport event, Australian rules football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-11-30_SH028096630000_102142641835_2018-11-27T09:00:00Z_p14740563_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Classic AFL",
+      "episodeTitle": "2004 Round 11: Adelaide Crows v Carlton Blues",
+      "description": "Condensed highlights and a look back at full replays of some of the greatest encounters from the Australian Football League.",
+      "scheduledDate": 1796034600000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Classic sport event, Australian rules football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-11-30_SH028096630000_102142641835_2018-11-27T09:00:00Z_p14740563_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Classic AFL",
+      "episodeTitle": "Mini Match: 1980 Grand Final Richmond v Collingwood",
+      "description": "Condensed highlights and a look back at full replays of some of the greatest encounters from the Australian Football League.",
+      "scheduledDate": 1796036400000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Classic sport event, Australian rules football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-11-30_SH028096630000_102142641835_2018-11-27T09:00:00Z_p14740563_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Classic AFL",
+      "episodeTitle": "Best Games Ever: 1993 Preliminary Final, Essendon Bombers vs Adelaide Crows",
+      "description": "Condensed highlights and a look back at full replays of some of the greatest encounters from the Australian Football League.",
+      "scheduledDate": 1796038200000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Classic sport event, Australian rules football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-11-30_SH028096630000_102142641835_2018-11-27T09:00:00Z_p14740563_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Classic AFL",
+      "episodeTitle": "Best Games Ever: 2000 Round 21, Western Bulldogs vs Essendon Bombers",
+      "description": "Condensed highlights and a look back at full replays of some of the greatest encounters from the Australian Football League.",
+      "scheduledDate": 1796040000000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Classic sport event, Australian rules football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-11-30_SH028096630000_102142641835_2018-11-27T09:00:00Z_p14740563_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "Classic AFL",
+      "episodeTitle": "Mini Match: 1965 Grand Final Essendon v St Kilda",
+      "description": "Condensed highlights and a look back at full replays of some of the greatest encounters from the Australian Football League.",
+      "scheduledDate": 1796041800000,
+      "duration": 30,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Classic sport event, Australian rules football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-11-30_SH028096630000_102142641835_2018-11-27T09:00:00Z_p14740563_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "AFLW Mini",
+      "episodeTitle": "Gold Coast Suns v Western Bulldogs",
+      "description": "Condensed highlights of some of the greatest encounters from the AFL Women's competition.",
+      "scheduledDate": 1796043600000,
+      "duration": 15,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Australian rules football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-11-30_SH038251630000_111269523232_2025-10-16T04:55:13Z_p19768743_b_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "AFLW Mini",
+      "episodeTitle": "Essendon vs Brisbane",
+      "description": "Condensed highlights of some of the greatest encounters from the AFL Women's competition.",
+      "scheduledDate": 1796044500000,
+      "duration": 15,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Australian rules football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-11-30_SH038251630000_111269523232_2025-10-16T04:55:13Z_p19768743_b_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "AFLW Mini",
+      "episodeTitle": "Adelaide Crows vs Sydney Swans",
+      "description": "Condensed highlights of some of the greatest encounters from the AFL Women's competition.",
+      "scheduledDate": 1796045400000,
+      "duration": 15,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Australian rules football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-11-30_SH038251630000_111269523232_2025-10-16T04:55:13Z_p19768743_b_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "AFLW Mini",
+      "episodeTitle": "Fremantle vs Port Adelaide",
+      "description": "Condensed highlights of some of the greatest encounters from the AFL Women's competition.",
+      "scheduledDate": 1796046300000,
+      "duration": 15,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Australian rules football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-11-30_SH038251630000_111269523232_2025-10-16T04:55:13Z_p19768743_b_h8_ab/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "AFL Mini",
+      "episodeTitle": "Opening Round: Sydney Swans v Carlton Blues",
+      "description": "Condensed highlights, reaction and analysis of the biggest sport stories from Australia and around the world.",
+      "scheduledDate": 1796047200000,
+      "duration": 150,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Australian rules football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-11-30_SH042238570000_104529301600_2022-03-07T04:36:21Z_p21759801_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "AFL Women's Premiership",
+      "episodeTitle": "North Melbourne Kangaroos vs Geelong Cats",
+      "description": "From Marvel Stadium in Melbourne, Australia.",
+      "scheduledDate": 1796056200000,
+      "duration": 90,
+      "parentalRating": "",
+      "programType": "Sports event",
+      "genre": "Australian rules football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-11-30_EP029247970847_116189315788_2026-07-31T21:02:27Z_GNLZZGG003DBDL6/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
+    },
+    {
+      "programTitle": "AFL Mini",
+      "episodeTitle": "Opening Round: Gold Coast Suns v Geelong Cats",
+      "description": "Condensed highlights, reaction and analysis of the biggest sport stories from Australia and around the world.",
+      "scheduledDate": 1796061600000,
+      "duration": 120,
+      "parentalRating": "",
+      "programType": "Sports non-event",
+      "genre": "Australian rules football",
+      "imageUrl": "https://image.discovery.indazn.com/jp/v3/jp/none/103064_2026-11-30_SH042238570000_104529301600_2022-03-07T04:36:21Z_p21759801_i_h10_aa/fill/none/top/none/80/1920/1080/webp/image?brand=kayo"
     }
   ]
 }
